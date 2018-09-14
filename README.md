@@ -7,7 +7,7 @@ This repository:
 The DB consists of the [JSON files in `data`](data/).
 * Provides scripts to update the database. 
 
-In particular, [FetchBot](fetchBot/) runs daily on an [EC2 instance](https://github.com/ghuser-io/ghuser.io/blob/master/aws/ec2).
+In particular, [fetchBot](fetchBot/) runs daily on an [EC2 instance](https://github.com/ghuser-io/ghuser.io/blob/master/aws/ec2).
 
 ## Table of Contents
 
