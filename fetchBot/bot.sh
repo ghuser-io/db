@@ -7,7 +7,7 @@ source raven-bash
 # this script is running, we prefer to have stderr on the console.
 exec 2>&1
 
-source ../../aws/sqs/utils.sh
+source thirdparty/aws-sqs/utils.sh
 
 function assertEquals {
   if [[ "$1" != "$2" ]]; then

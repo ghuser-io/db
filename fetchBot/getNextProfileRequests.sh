@@ -4,7 +4,7 @@ set -e
 
 # temporary script for issue143
 
-source ../../aws/sqs/utils.sh
+source thirdparty/aws-sqs/utils.sh
 
 function getNextSqsMessage {
   request="$(aws sqs receive-message --queue-url $(queueUrl) --visibility-timeout $1 | jq .Messages[0])"
@@ -13,7 +13,7 @@ function getNextSqsMessage {
   msg="$requestBody,$requestReceiptHandle"
 }
 
-for i in $(seq 1 299); do
+for i in $(seq 1 132); do
   getNextSqsMessage 20
   login="$(echo $msg | cut -d',' -f1)"
   echo "$i" >&2
