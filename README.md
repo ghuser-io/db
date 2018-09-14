@@ -2,7 +2,7 @@
 
 It is here to cache GitHub's data. During the prototyping phrase, it's just a set of
 [JSON files](data/) that we update once per day by running [this bot](fetchBot/) on an
-[EC2 instance](../aws/ec2/).
+[EC2 instance](https://github.com/ghuser-io/ghuser.io/blob/master/aws/ec2).
 
 ## Table of Contents
 
