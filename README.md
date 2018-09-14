@@ -127,7 +127,7 @@ Several scripts form a pipeline for updating the database. Here is the data flow
 
 > **NOTES**:
 >
-> * These scripts also deletes unreferenced data.
+> * These scripts also delete unreferenced data.
 > * Instead of calling each of these scripts directly, you can call `./fetchAndCalculateAll.sh`
 >   which will orchestrate them.
 
