@@ -1,0 +1,46 @@
+{
+  "projectName": "db",
+  "projectOwner": "ghuser-io",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "AurelienLourot",
+      "name": "Aurelien Lourot",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/11795312?v=4",
+      "profile": "https://ghuser.io/AurelienLourot",
+      "contributions": [
+        "question",
+        "code",
+        "design",
+        "doc",
+        "review"
+      ]
+    },
+    {
+      "login": "wowawiwa",
+      "name": "Charles",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/4883293?v=4",
+      "profile": "https://github.com/wowawiwa",
+      "contributions": [
+        "code",
+        "doc",
+        "ideas"
+      ]
+    },
+    {
+      "login": "brillout",
+      "name": "Romuald Brillout",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/1005638?v=4",
+      "profile": "https://twitter.com/brillout",
+      "contributions": [
+        "ideas"
+      ]
+    }
+  ]
+}
