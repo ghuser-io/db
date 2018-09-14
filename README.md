@@ -25,6 +25,20 @@ API keys can be created [here](https://github.com/settings/developers).
 
 ```bash
 $ npm install
+```
+
+## Usage
+
+**Start tracking a user**
+
+`./addUser.js USER` 
+
+**Stop tracking a user**
+`./rmUser.js USER "you asked us to remove your profile in https://github.com/ghuser-io/ghuser.io/issues/666"`
+
+**Refresh and clean data for all tracked users**
+
+```
 $ export GITHUB_CLIENT_ID=0123456789abcdef0123
 $ export GITHUB_CLIENT_SECRET=0123456789abcdef0123456789abcdef01234567
 $ export GITHUB_USERNAME=AurelienLourot
@@ -55,19 +69,10 @@ real    78m44.200s
 user    2m58.520s
 sys     0m23.160s
 ```
-
-## Usage
-
-* Start tracking a user:\
-`./addUser.js USER` 
-* Stop tracking a user:\
-`./rmUser.js USER "you asked us to remove your profile in https://github.com/ghuser-io/ghuser.io/issues/666"`
-* Refresh and clean data for all tracked users:\
-`./fetchAndCalculateAll.sh` 
-
+ 
 ## Implementation
 
-The following diagram sums up which DB file is read or written by which scripts:
+Several scripts form a pipeline for updating the database. Here is the data flow:
 
 ```
 [ ./addUser.js myUser ]   [ ./rmUser.js myUser ]
