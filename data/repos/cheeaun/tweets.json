@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tweets",
+  "full_name": "cheeaun/tweets",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/tweets",
+  "description": "An off-site archive of tweets from Twitter",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/tweets",
+  "languages_url": "https://api.github.com/repos/cheeaun/tweets/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/tweets/pulls{/number}",
+  "created_at": "2013-02-24T11:23:36Z",
+  "updated_at": "2018-03-04T12:43:02Z",
+  "pushed_at": "2018-03-04T12:51:29Z",
+  "homepage": "https://cheeaun.github.io/tweets/",
+  "size": 346,
+  "stargazers_count": 9,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mathiasbynens": 1,
+    "cheeaun": 39
+  },
+  "pulls_authors": [
+    "mathiasbynens"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 17142,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 5830,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 4541,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:53.909Z"
+}

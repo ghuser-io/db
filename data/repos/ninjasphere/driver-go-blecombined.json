@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "driver-go-blecombined",
+  "full_name": "ninjasphere/driver-go-blecombined",
+  "owner": "ninjasphere",
+  "private": false,
+  "html_url": "https://github.com/ninjasphere/driver-go-blecombined",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/ninjasphere/driver-go-blecombined",
+  "languages_url": "https://api.github.com/repos/ninjasphere/driver-go-blecombined/languages",
+  "pulls_url": "https://api.github.com/repos/ninjasphere/driver-go-blecombined/pulls{/number}",
+  "created_at": "2014-10-16T05:33:46Z",
+  "updated_at": "2015-05-14T12:40:09Z",
+  "pushed_at": "2015-04-16T07:48:22Z",
+  "homepage": null,
+  "size": 8876,
+  "stargazers_count": 2,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ninjasphere",
+    "id": 6147637,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxNDc2Mzc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/6147637?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ninjasphere",
+    "html_url": "https://github.com/ninjasphere",
+    "followers_url": "https://api.github.com/users/ninjasphere/followers",
+    "following_url": "https://api.github.com/users/ninjasphere/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ninjasphere/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ninjasphere/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ninjasphere/subscriptions",
+    "organizations_url": "https://api.github.com/users/ninjasphere/orgs",
+    "repos_url": "https://api.github.com/users/ninjasphere/repos",
+    "events_url": "https://api.github.com/users/ninjasphere/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ninjasphere/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jmanoto": 2,
+    "elliots": 5,
+    "jonseymour": 7,
+    "wolfeidau": 12,
+    "wandergeek": 32
+  },
+  "pulls_authors": [
+    "wandergeek"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 34009,
+      "color": "#375eab"
+    },
+    "Shell": {
+      "bytes": 1434,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 342,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T13:45:54.698Z"
+}

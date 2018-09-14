@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Flask-Skeleton-App",
+  "full_name": "radekstepan/Flask-Skeleton-App",
+  "owner": "radekstepan",
+  "private": false,
+  "html_url": "https://github.com/radekstepan/Flask-Skeleton-App",
+  "description": "A skeleton Linux, CherryPy/Flask, MongoDB, Python stack",
+  "fork": false,
+  "url": "https://api.github.com/repos/radekstepan/Flask-Skeleton-App",
+  "languages_url": "https://api.github.com/repos/radekstepan/Flask-Skeleton-App/languages",
+  "pulls_url": "https://api.github.com/repos/radekstepan/Flask-Skeleton-App/pulls{/number}",
+  "created_at": "2011-07-10T09:08:42Z",
+  "updated_at": "2018-07-19T03:30:52Z",
+  "pushed_at": "2012-04-16T11:58:28Z",
+  "homepage": "",
+  "size": 103,
+  "stargazers_count": 13,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "radekstepan": 10
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 7256,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 97,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T13:51:03.904Z"
+}

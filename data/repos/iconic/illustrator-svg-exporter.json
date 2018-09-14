@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "illustrator-svg-exporter",
+  "full_name": "iconic/illustrator-svg-exporter",
+  "owner": "iconic",
+  "private": false,
+  "html_url": "https://github.com/iconic/illustrator-svg-exporter",
+  "description": "A better way to generate SVGs from Illustrator.",
+  "fork": false,
+  "url": "https://api.github.com/repos/iconic/illustrator-svg-exporter",
+  "languages_url": "https://api.github.com/repos/iconic/illustrator-svg-exporter/languages",
+  "pulls_url": "https://api.github.com/repos/iconic/illustrator-svg-exporter/pulls{/number}",
+  "created_at": "2015-01-13T21:57:14Z",
+  "updated_at": "2018-08-31T09:40:28Z",
+  "pushed_at": "2016-06-06T13:26:03Z",
+  "homepage": "",
+  "size": 203,
+  "stargazers_count": 568,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "iconic",
+    "id": 3255139,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMyNTUxMzk=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/3255139?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/iconic",
+    "html_url": "https://github.com/iconic",
+    "followers_url": "https://api.github.com/users/iconic/followers",
+    "following_url": "https://api.github.com/users/iconic/following{/other_user}",
+    "gists_url": "https://api.github.com/users/iconic/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/iconic/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/iconic/subscriptions",
+    "organizations_url": "https://api.github.com/users/iconic/orgs",
+    "repos_url": "https://api.github.com/users/iconic/repos",
+    "events_url": "https://api.github.com/users/iconic/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/iconic/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mikelothar": 1,
+    "somerandomdude": 11
+  },
+  "pulls_authors": [
+    "osimbarhew",
+    "danielbayley",
+    "mikelothar"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 9212,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T23:08:40.822Z"
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "godless",
+  "full_name": "schollz/godless",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/godless",
+  "description": "Peer-to-peer lite database over IPFS",
+  "fork": true,
+  "url": "https://api.github.com/repos/schollz/godless",
+  "languages_url": "https://api.github.com/repos/schollz/godless/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/godless/pulls{/number}",
+  "created_at": "2017-07-17T16:58:10Z",
+  "updated_at": "2017-07-19T03:36:45Z",
+  "pushed_at": "2017-07-17T16:42:18Z",
+  "homepage": "",
+  "size": 6683,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "johnny-morrice": 441
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 444374,
+      "color": "#375eab"
+    },
+    "Protocol Buffer": {
+      "bytes": 1628,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:53.690Z"
+}

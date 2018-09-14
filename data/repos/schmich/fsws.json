@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fsws",
+  "full_name": "schmich/fsws",
+  "owner": "schmich",
+  "private": false,
+  "html_url": "https://github.com/schmich/fsws",
+  "description": "Ruby file system web server. Replaced by https://github.com/schmich/sfs",
+  "fork": false,
+  "url": "https://api.github.com/repos/schmich/fsws",
+  "languages_url": "https://api.github.com/repos/schmich/fsws/languages",
+  "pulls_url": "https://api.github.com/repos/schmich/fsws/pulls{/number}",
+  "created_at": "2014-09-04T08:31:35Z",
+  "updated_at": "2017-02-27T06:58:10Z",
+  "pushed_at": "2015-01-10T21:33:48Z",
+  "homepage": "",
+  "size": 4196,
+  "stargazers_count": 3,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schmich": 36
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 7643,
+      "color": "#701516"
+    },
+    "CSS": {
+      "bytes": 517,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:24.264Z"
+}

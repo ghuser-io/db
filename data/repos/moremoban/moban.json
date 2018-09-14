@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "moban",
+  "full_name": "moremoban/moban",
+  "owner": "moremoban",
+  "private": false,
+  "html_url": "https://github.com/moremoban/moban",
+  "description": "Yet another jinja2 cli command for static text generation",
+  "fork": false,
+  "url": "https://api.github.com/repos/moremoban/moban",
+  "languages_url": "https://api.github.com/repos/moremoban/moban/languages",
+  "pulls_url": "https://api.github.com/repos/moremoban/moban/pulls{/number}",
+  "created_at": "2016-01-26T23:36:07Z",
+  "updated_at": "2018-08-07T10:25:44Z",
+  "pushed_at": "2018-08-11T20:40:15Z",
+  "homepage": "http://moban.readthedocs.io",
+  "size": 343,
+  "stargazers_count": 7,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "moremoban",
+    "id": 29818510,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI5ODE4NTEw",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/29818510?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/moremoban",
+    "html_url": "https://github.com/moremoban",
+    "followers_url": "https://api.github.com/users/moremoban/followers",
+    "following_url": "https://api.github.com/users/moremoban/following{/other_user}",
+    "gists_url": "https://api.github.com/users/moremoban/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/moremoban/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/moremoban/subscriptions",
+    "organizations_url": "https://api.github.com/users/moremoban/orgs",
+    "repos_url": "https://api.github.com/users/moremoban/repos",
+    "events_url": "https://api.github.com/users/moremoban/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/moremoban/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jayvdb": 8,
+    "chfw": 243
+  },
+  "pulls_authors": [
+    "chfw",
+    "jayvdb"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 81492,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 202,
+      "color": "#89e051"
+    },
+    "Batchfile": {
+      "bytes": 185,
+      "color": "#C1F12E"
+    },
+    "Makefile": {
+      "bytes": 60,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

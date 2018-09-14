@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-sawyer",
+  "full_name": "lostisland/go-sawyer",
+  "owner": "lostisland",
+  "private": false,
+  "html_url": "https://github.com/lostisland/go-sawyer",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/lostisland/go-sawyer",
+  "languages_url": "https://api.github.com/repos/lostisland/go-sawyer/languages",
+  "pulls_url": "https://api.github.com/repos/lostisland/go-sawyer/pulls{/number}",
+  "created_at": "2013-10-15T19:51:05Z",
+  "updated_at": "2018-05-10T09:11:38Z",
+  "pushed_at": "2016-03-16T23:35:22Z",
+  "homepage": null,
+  "size": 762,
+  "stargazers_count": 36,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "lostisland",
+    "id": 2613464,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI2MTM0NjQ=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2613464?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/lostisland",
+    "html_url": "https://github.com/lostisland",
+    "followers_url": "https://api.github.com/users/lostisland/followers",
+    "following_url": "https://api.github.com/users/lostisland/following{/other_user}",
+    "gists_url": "https://api.github.com/users/lostisland/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/lostisland/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/lostisland/subscriptions",
+    "organizations_url": "https://api.github.com/users/lostisland/orgs",
+    "repos_url": "https://api.github.com/users/lostisland/repos",
+    "events_url": "https://api.github.com/users/lostisland/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/lostisland/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "andremedeiros": 1,
+    "calavera": 4,
+    "jingweno": 13,
+    "technoweenie": 127
+  },
+  "pulls_authors": [
+    "andremedeiros",
+    "technoweenie",
+    "jingweno",
+    "calavera"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 72151,
+      "color": "#375eab"
+    },
+    "Shell": {
+      "bytes": 334,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T10:32:18.433Z"
+}

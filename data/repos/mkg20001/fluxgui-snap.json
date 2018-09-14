@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fluxgui-snap",
+  "full_name": "mkg20001/fluxgui-snap",
+  "owner": "mkg20001",
+  "private": false,
+  "html_url": "https://github.com/mkg20001/fluxgui-snap",
+  "description": "https://github.com/xflux-gui/xflux-gui as a snap",
+  "fork": false,
+  "url": "https://api.github.com/repos/mkg20001/fluxgui-snap",
+  "languages_url": "https://api.github.com/repos/mkg20001/fluxgui-snap/languages",
+  "pulls_url": "https://api.github.com/repos/mkg20001/fluxgui-snap/pulls{/number}",
+  "created_at": "2017-03-05T19:01:44Z",
+  "updated_at": "2017-03-12T07:54:35Z",
+  "pushed_at": "2017-03-09T19:31:06Z",
+  "homepage": null,
+  "size": 8,
+  "stargazers_count": 2,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mkg20001": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 353,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:34.296Z"
+}

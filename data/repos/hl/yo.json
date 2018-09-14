@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "yo",
+  "full_name": "hl/yo",
+  "owner": "hl",
+  "private": false,
+  "html_url": "https://github.com/hl/yo",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/hl/yo",
+  "languages_url": "https://api.github.com/repos/hl/yo/languages",
+  "pulls_url": "https://api.github.com/repos/hl/yo/pulls{/number}",
+  "created_at": "2018-02-19T11:43:45Z",
+  "updated_at": "2018-04-09T04:16:49Z",
+  "pushed_at": "2018-02-19T11:44:33Z",
+  "homepage": null,
+  "size": 1598,
+  "stargazers_count": 3,
+  "language": "Elixir",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "hl": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Elixir": {
+      "bytes": 3017,
+      "color": "#6e4a7e"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:42.480Z"
+}

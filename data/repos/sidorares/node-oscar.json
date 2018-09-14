@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-oscar",
+  "full_name": "sidorares/node-oscar",
+  "owner": "sidorares",
+  "private": false,
+  "html_url": "https://github.com/sidorares/node-oscar",
+  "description": "An OSCAR protocol client module for node.js",
+  "fork": true,
+  "url": "https://api.github.com/repos/sidorares/node-oscar",
+  "languages_url": "https://api.github.com/repos/sidorares/node-oscar/languages",
+  "pulls_url": "https://api.github.com/repos/sidorares/node-oscar/pulls{/number}",
+  "created_at": "2011-05-25T07:09:19Z",
+  "updated_at": "2013-01-02T20:31:10Z",
+  "pushed_at": "2011-05-25T07:10:16Z",
+  "homepage": "",
+  "size": 649,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mscdex": 9
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-11T15:19:48.057Z"
+}

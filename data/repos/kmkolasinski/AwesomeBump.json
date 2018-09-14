@@ -1,0 +1,88 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "orthographic-pedant": 1,
+    "CapsAdmin": 1,
+    "Calinou": 1,
+    "Hevedy": 2,
+    "LinusVanElswijk": 2,
+    "lexxmark": 3,
+    "illwieckz": 3,
+    "Robert42": 9,
+    "CodePhase": 14,
+    "ppiecuch": 43,
+    "kmkolasinski": 158
+  },
+  "name": "AwesomeBump",
+  "full_name": "kmkolasinski/AwesomeBump",
+  "owner": "kmkolasinski",
+  "private": false,
+  "html_url": "https://github.com/kmkolasinski/AwesomeBump",
+  "description": "AwesomeBump is a free program written using Qt library designed to generate normal, height, specular or ambient occlusion textures from a single image. Since the image processing is done in 99% on GPU  the program runs very fast and all the parameters can be changed in real time. AB was made to be a new alternative to known gimp plugin called Insane Bump. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/kmkolasinski/AwesomeBump",
+  "languages_url": "https://api.github.com/repos/kmkolasinski/AwesomeBump/languages",
+  "created_at": "2014-12-10T19:07:21Z",
+  "updated_at": "2018-09-14T02:09:05Z",
+  "pushed_at": "2018-07-29T18:57:50Z",
+  "homepage": "",
+  "size": 72425,
+  "stargazers_count": 872,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "Release",
+  "languages": {
+    "C++": {
+      "bytes": 560281,
+      "color": "#f34b7d"
+    },
+    "GLSL": {
+      "bytes": 140990,
+      "color": "#ccc"
+    },
+    "CMake": {
+      "bytes": 6236,
+      "color": "#ccc"
+    },
+    "QMake": {
+      "bytes": 5413,
+      "color": "#ccc"
+    },
+    "C": {
+      "bytes": 3048,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 1190,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T08:23:22.982Z",
+  "pulls_url": "https://api.github.com/repos/kmkolasinski/AwesomeBump/pulls{/number}",
+  "pulls_authors": [
+    "ppiecuch",
+    "GentleHedgehog",
+    "akien-mga",
+    "lexxmark",
+    "PoULkY",
+    "DaOnlyOwner",
+    "CodePhase",
+    "orthographic-pedant",
+    "CapsAdmin",
+    "illwieckz",
+    "Calinou",
+    "Robert42",
+    "Hevedy",
+    "LinusVanElswijk",
+    "kmkolasinski",
+    "B1aine"
+  ]
+}

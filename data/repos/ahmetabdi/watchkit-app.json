@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "watchkit-app",
+  "full_name": "ahmetabdi/watchkit-app",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/watchkit-app",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/ahmetabdi/watchkit-app",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/watchkit-app/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/watchkit-app/pulls{/number}",
+  "created_at": "2014-12-12T08:58:45Z",
+  "updated_at": "2015-11-03T15:21:23Z",
+  "pushed_at": "2014-12-12T08:59:06Z",
+  "homepage": null,
+  "size": 108,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 3981,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:03.004Z"
+}

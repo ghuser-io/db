@@ -1,0 +1,62 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-poloniex",
+  "full_name": "jyap808/go-poloniex",
+  "owner": "jyap808",
+  "private": false,
+  "html_url": "https://github.com/jyap808/go-poloniex",
+  "description": "Poloniex API in Golang",
+  "fork": false,
+  "url": "https://api.github.com/repos/jyap808/go-poloniex",
+  "languages_url": "https://api.github.com/repos/jyap808/go-poloniex/languages",
+  "created_at": "2015-09-23T09:56:01Z",
+  "updated_at": "2018-08-27T03:40:25Z",
+  "pushed_at": "2018-05-19T03:20:42Z",
+  "homepage": null,
+  "size": 34,
+  "stargazers_count": 55,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "carterjones": 1,
+    "darkfoxs96": 1,
+    "tinova": 1,
+    "vlddlv": 1,
+    "reddec": 1,
+    "DiSiqueira": 2,
+    "micvbang": 2,
+    "bitbandi": 4,
+    "jyap808": 13
+  },
+  "languages": {
+    "Go": {
+      "bytes": 21648,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-08-27T06:17:55.644Z",
+  "pulls_url": "https://api.github.com/repos/jyap808/go-poloniex/pulls{/number}",
+  "pulls_authors": [
+    "PrimeVest",
+    "carterjones",
+    "darkfoxs96",
+    "tinova",
+    "vlddlv",
+    "simonkeliuotis",
+    "reddec",
+    "DiSiqueira",
+    "bitbandi",
+    "micvbang",
+    "ThibaultRiviere",
+    "sandalwing"
+  ]
+}

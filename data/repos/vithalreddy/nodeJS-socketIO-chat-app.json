@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nodeJS-socketIO-chat-app",
+  "full_name": "vithalreddy/nodeJS-socketIO-chat-app",
+  "owner": "vithalreddy",
+  "private": false,
+  "html_url": "https://github.com/vithalreddy/nodeJS-socketIO-chat-app",
+  "description": " MEAN Stack & Socket.IO Real-time Chat App | A MEAN stack based Real Time chat application",
+  "fork": false,
+  "url": "https://api.github.com/repos/vithalreddy/nodeJS-socketIO-chat-app",
+  "languages_url": "https://api.github.com/repos/vithalreddy/nodeJS-socketIO-chat-app/languages",
+  "pulls_url": "https://api.github.com/repos/vithalreddy/nodeJS-socketIO-chat-app/pulls{/number}",
+  "created_at": "2017-05-19T13:33:20Z",
+  "updated_at": "2018-08-18T09:02:33Z",
+  "pushed_at": "2017-12-19T09:07:48Z",
+  "homepage": "",
+  "size": 1020,
+  "stargazers_count": 17,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "vithalreddy": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 30080,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 28510,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 7222,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:23.155Z"
+}

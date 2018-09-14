@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "twister-html",
+  "full_name": "misjoinder/twister-html",
+  "owner": "misjoinder",
+  "private": false,
+  "html_url": "https://github.com/misjoinder/twister-html",
+  "description": "twister HTML + Javascript User Interface",
+  "fork": true,
+  "url": "https://api.github.com/repos/misjoinder/twister-html",
+  "languages_url": "https://api.github.com/repos/misjoinder/twister-html/languages",
+  "pulls_url": "https://api.github.com/repos/misjoinder/twister-html/pulls{/number}",
+  "created_at": "2014-01-05T16:30:06Z",
+  "updated_at": "2014-03-22T19:52:09Z",
+  "pushed_at": "2014-03-22T19:50:02Z",
+  "homepage": null,
+  "size": 962,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "polyglot",
+  "contributors": {
+    "basst85": 4,
+    "misjoinder": 8,
+    "miguelfreitas": 9,
+    "dionyziz": 10
+  },
+  "pulls_authors": [
+    "toyg",
+    "iShift",
+    "basst85"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 212424,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 31442,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:04.294Z"
+}

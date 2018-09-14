@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "childprocess",
+  "full_name": "schmich/childprocess",
+  "owner": "schmich",
+  "private": false,
+  "html_url": "https://github.com/schmich/childprocess",
+  "description": "Cross-platform ruby library for managing child processes.",
+  "fork": true,
+  "url": "https://api.github.com/repos/schmich/childprocess",
+  "languages_url": "https://api.github.com/repos/schmich/childprocess/languages",
+  "pulls_url": "https://api.github.com/repos/schmich/childprocess/pulls{/number}",
+  "created_at": "2012-06-14T00:42:22Z",
+  "updated_at": "2016-07-04T02:04:03Z",
+  "pushed_at": "2012-06-28T04:19:57Z",
+  "homepage": null,
+  "size": 326,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "benlangfeld": 1,
+    "mitchellh": 1,
+    "thedjinn": 1,
+    "robertwahler": 1,
+    "nicksieger": 2,
+    "msassak": 2,
+    "fletcherm": 9,
+    "jarib": 226
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 69052,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:28.365Z"
+}

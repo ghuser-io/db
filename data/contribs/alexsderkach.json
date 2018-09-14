@@ -1,0 +1,87 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "Playtika/testcontainers-spring-boot": {
+      "full_name": "Playtika/testcontainers-spring-boot",
+      "name": "testcontainers-spring-boot",
+      "stargazers_count": 36,
+      "popularity": 2.5453460937604104,
+      "percentage": 2.7777777777777777,
+      "maturity": 2.508235952687284,
+      "total_commits_count": 72,
+      "activity": 5,
+      "total_score": 18.571662942735948,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "spring-projects/spring-data-couchbase": {
+      "full_name": "spring-projects/spring-data-couchbase",
+      "name": "spring-data-couchbase",
+      "stargazers_count": 153,
+      "popularity": 3.182168277008116,
+      "percentage": 0.40404040404040403,
+      "maturity": 3.6598427733530157,
+      "total_commits_count": 495,
+      "activity": 5,
+      "total_score": 22.033334570058077,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "spring-projects/spring-boot": {
+      "full_name": "spring-projects/spring-boot",
+      "name": "spring-boot",
+      "stargazers_count": 28910,
+      "popularity": 5,
+      "percentage": 0.005754071005236204,
+      "maturity": 5,
+      "total_commits_count": 17379,
+      "activity": 5,
+      "total_score": 30.003740146153405,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "alexsderkach/vertx-keynote": {
+      "full_name": "alexsderkach/vertx-keynote",
+      "name": "vertx-keynote",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 0.6657316126134827,
+      "total_score": 17.328583139700527,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "spring-projects/spring-integration": {
+      "full_name": "spring-projects/spring-integration",
+      "name": "spring-integration",
+      "stargazers_count": 755,
+      "popularity": 3.8774680242582424,
+      "percentage": 0.013370771493515177,
+      "maturity": 4.873256692061177,
+      "total_commits_count": 7479,
+      "activity": 5,
+      "total_score": 26.38565727295743,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "spring-projects/spring-security": {
+      "full_name": "spring-projects/spring-security",
+      "name": "spring-security",
+      "stargazers_count": 2785,
+      "popularity": 4.44472391756582,
+      "percentage": 0,
+      "maturity": 4.746193567082316,
+      "total_commits_count": 5592,
+      "activity": 5,
+      "total_score": 27.826558886862095,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "Playtika",
+    "spring-projects"
+  ]
+}

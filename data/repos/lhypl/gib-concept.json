@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gib-concept",
+  "full_name": "lhypl/gib-concept",
+  "owner": "lhypl",
+  "private": false,
+  "html_url": "https://github.com/lhypl/gib-concept",
+  "description": "the actual one is private, sadly. I don't want gib to be used as a piracy market",
+  "fork": false,
+  "url": "https://api.github.com/repos/lhypl/gib-concept",
+  "languages_url": "https://api.github.com/repos/lhypl/gib-concept/languages",
+  "pulls_url": "https://api.github.com/repos/lhypl/gib-concept/pulls{/number}",
+  "created_at": "2017-08-20T06:23:54Z",
+  "updated_at": "2018-09-06T12:19:30Z",
+  "pushed_at": "2017-10-21T05:03:05Z",
+  "homepage": "",
+  "size": 1184,
+  "stargazers_count": 5,
+  "language": "Kotlin",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "tsimonq2": 1,
+    "deletescape": 3,
+    "paphonb": 4
+  },
+  "pulls_authors": [
+    "tsimonq2"
+  ],
+  "languages": {
+    "Kotlin": {
+      "bytes": 15575,
+      "color": "#F18E33"
+    },
+    "Java": {
+      "bytes": 1288,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-06T17:05:52.315Z"
+}

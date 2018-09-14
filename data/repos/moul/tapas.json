@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tapas",
+  "full_name": "moul/tapas",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/tapas",
+  "description": "Preconfigured Express environment with multiple modules and helpers. See http://github.com/moul/tapas for usage",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/tapas",
+  "languages_url": "https://api.github.com/repos/moul/tapas/languages",
+  "pulls_url": "https://api.github.com/repos/moul/tapas/pulls{/number}",
+  "created_at": "2012-08-21T01:12:07Z",
+  "updated_at": "2014-04-27T01:49:11Z",
+  "pushed_at": "2018-08-18T16:09:07Z",
+  "homepage": "https://npmjs.org/package/tapas",
+  "size": 754,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 86
+  },
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 951342,
+      "color": "#f1e05a"
+    },
+    "CoffeeScript": {
+      "bytes": 19048,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:50.005Z"
+}

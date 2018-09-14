@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pokey",
+  "full_name": "ccallebs/pokey",
+  "owner": "ccallebs",
+  "private": false,
+  "html_url": "https://github.com/ccallebs/pokey",
+  "description": "A Ruby gem that simulates webhooks and other HTTP requests common to production.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ccallebs/pokey",
+  "languages_url": "https://api.github.com/repos/ccallebs/pokey/languages",
+  "pulls_url": "https://api.github.com/repos/ccallebs/pokey/pulls{/number}",
+  "created_at": "2015-02-14T21:57:47Z",
+  "updated_at": "2017-05-08T17:52:26Z",
+  "pushed_at": "2015-09-01T00:41:35Z",
+  "homepage": "",
+  "size": 316,
+  "stargazers_count": 82,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ccallebs": 24
+  },
+  "pulls_authors": [
+    "ccallebs"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 19800,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 561,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:04.836Z"
+}

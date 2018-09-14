@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "template",
+  "full_name": "tibbe/template",
+  "owner": "tibbe",
+  "private": false,
+  "html_url": "https://github.com/tibbe/template",
+  "description": "Simple string substitution for Haskell.",
+  "fork": false,
+  "url": "https://api.github.com/repos/tibbe/template",
+  "languages_url": "https://api.github.com/repos/tibbe/template/languages",
+  "pulls_url": "https://api.github.com/repos/tibbe/template/pulls{/number}",
+  "created_at": "2008-07-16T21:02:53Z",
+  "updated_at": "2018-09-03T04:40:58Z",
+  "pushed_at": "2018-05-08T06:31:47Z",
+  "homepage": "",
+  "size": 40,
+  "stargazers_count": 13,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "nomeata": 1,
+    "soenkehahn": 1,
+    "trskop": 2,
+    "sol": 3,
+    "bsl": 9,
+    "tibbe": 31
+  },
+  "pulls_authors": [
+    "trskop",
+    "mightybyte",
+    "sol",
+    "nomeata",
+    "soenkehahn"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 12302,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:15.324Z"
+}

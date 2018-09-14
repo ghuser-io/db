@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jsPingTester",
+  "full_name": "moul/jsPingTester",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/jsPingTester",
+  "description": "jquery+highcharts stability ping tester (demo: http://42k.fr/pingtest)",
+  "fork": true,
+  "url": "https://api.github.com/repos/moul/jsPingTester",
+  "languages_url": "https://api.github.com/repos/moul/jsPingTester/languages",
+  "pulls_url": "https://api.github.com/repos/moul/jsPingTester/pulls{/number}",
+  "created_at": "2012-04-28T18:53:04Z",
+  "updated_at": "2013-03-10T18:22:47Z",
+  "pushed_at": "2012-08-06T02:05:08Z",
+  "homepage": null,
+  "size": 170,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "vikbez": 2,
+    "moul": 7
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 3923,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:56.630Z"
+}

@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "flotilla-offline",
+  "full_name": "pimoroni/flotilla-offline",
+  "owner": "pimoroni",
+  "private": false,
+  "html_url": "https://github.com/pimoroni/flotilla-offline",
+  "description": "Everything you need to get started with Flotilla Rockpool",
+  "fork": false,
+  "url": "https://api.github.com/repos/pimoroni/flotilla-offline",
+  "languages_url": "https://api.github.com/repos/pimoroni/flotilla-offline/languages",
+  "pulls_url": "https://api.github.com/repos/pimoroni/flotilla-offline/pulls{/number}",
+  "created_at": "2015-12-02T13:54:24Z",
+  "updated_at": "2018-05-15T10:25:37Z",
+  "pushed_at": "2018-05-15T10:25:35Z",
+  "homepage": null,
+  "size": 6903,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "pimoroni",
+    "id": 2399917,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzOTk5MTc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2399917?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pimoroni",
+    "html_url": "https://github.com/pimoroni",
+    "followers_url": "https://api.github.com/users/pimoroni/followers",
+    "following_url": "https://api.github.com/users/pimoroni/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pimoroni/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pimoroni/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pimoroni/subscriptions",
+    "organizations_url": "https://api.github.com/users/pimoroni/orgs",
+    "repos_url": "https://api.github.com/users/pimoroni/repos",
+    "events_url": "https://api.github.com/users/pimoroni/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pimoroni/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mediaessenz": 1,
+    "RogueM": 26,
+    "Gadgetoid": 28
+  },
+  "pulls_authors": [
+    "mediaessenz",
+    "RogueM",
+    "Gadgetoid"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 183099,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 76722,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 14404,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 4567,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 737,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:07.434Z"
+}

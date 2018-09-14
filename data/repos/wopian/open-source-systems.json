@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "open-source-systems",
+  "full_name": "wopian/open-source-systems",
+  "owner": "wopian",
+  "private": false,
+  "html_url": "https://github.com/wopian/open-source-systems",
+  "description": "📚 Open Source Systems Coursework",
+  "fork": false,
+  "url": "https://api.github.com/repos/wopian/open-source-systems",
+  "languages_url": "https://api.github.com/repos/wopian/open-source-systems/languages",
+  "pulls_url": "https://api.github.com/repos/wopian/open-source-systems/pulls{/number}",
+  "created_at": "2018-03-06T10:09:31Z",
+  "updated_at": "2018-04-28T04:28:02Z",
+  "pushed_at": "2018-03-28T13:27:32Z",
+  "homepage": "",
+  "size": 4365,
+  "stargazers_count": 1,
+  "language": "TeX",
+  "mirror_url": null,
+  "archived": true,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "wopian": 28
+  },
+  "pulls_authors": [],
+  "languages": {
+    "TeX": {
+      "bytes": 28193,
+      "color": "#3D6117"
+    },
+    "PHP": {
+      "bytes": 21969,
+      "color": "#4F5D95"
+    },
+    "HTML": {
+      "bytes": 4475,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 2036,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 111,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:34.611Z"
+}

@@ -1,0 +1,90 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Wikimedia-ID.github.io",
+  "full_name": "Wikimedia-ID/Wikimedia-ID.github.io",
+  "owner": "Wikimedia-ID",
+  "private": false,
+  "html_url": "https://github.com/Wikimedia-ID/Wikimedia-ID.github.io",
+  "description": "Wikimedia Indonesia",
+  "fork": false,
+  "url": "https://api.github.com/repos/Wikimedia-ID/Wikimedia-ID.github.io",
+  "languages_url": "https://api.github.com/repos/Wikimedia-ID/Wikimedia-ID.github.io/languages",
+  "pulls_url": "https://api.github.com/repos/Wikimedia-ID/Wikimedia-ID.github.io/pulls{/number}",
+  "created_at": "2016-04-25T04:56:23Z",
+  "updated_at": "2016-10-22T15:38:25Z",
+  "pushed_at": "2018-02-28T04:53:05Z",
+  "homepage": "https://Wikimedia-ID.github.io/",
+  "size": 88005,
+  "stargazers_count": 2,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0",
+    "spdx_id": "CC-BY-4.0",
+    "url": "https://api.github.com/licenses/cc-by-4.0",
+    "node_id": "MDc6TGljZW5zZTI1"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "Wikimedia-ID",
+    "id": 18389124,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4Mzg5MTI0",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/18389124?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Wikimedia-ID",
+    "html_url": "https://github.com/Wikimedia-ID",
+    "followers_url": "https://api.github.com/users/Wikimedia-ID/followers",
+    "following_url": "https://api.github.com/users/Wikimedia-ID/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Wikimedia-ID/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Wikimedia-ID/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Wikimedia-ID/subscriptions",
+    "organizations_url": "https://api.github.com/users/Wikimedia-ID/orgs",
+    "repos_url": "https://api.github.com/users/Wikimedia-ID/repos",
+    "events_url": "https://api.github.com/users/Wikimedia-ID/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Wikimedia-ID/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Rachmat04": 1,
+    "ceefour": 1,
+    "gombang": 1,
+    "suhendraaa": 1,
+    "CreativeCommonsIndonesia": 2,
+    "laymonage": 8,
+    "nleni1976": 11,
+    "yakuka": 25,
+    "jayvdb": 48,
+    "ivonne-kristiani": 88,
+    "riouwa": 461
+  },
+  "pulls_authors": [
+    "Rachmat04",
+    "laymonage",
+    "turfaa",
+    "ceefour",
+    "jayvdb",
+    "riouwa"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 430867,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 139134,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 94064,
+      "color": "#f1e05a"
+    },
+    "PHP": {
+      "bytes": 1101,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

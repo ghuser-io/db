@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "html5-breakout",
+  "full_name": "bbrks/html5-breakout",
+  "owner": "bbrks",
+  "private": false,
+  "html_url": "https://github.com/bbrks/html5-breakout",
+  "description": "👾 A Breakout style HTML5 Canvas game made for my Interactive Web Programming module",
+  "fork": false,
+  "url": "https://api.github.com/repos/bbrks/html5-breakout",
+  "languages_url": "https://api.github.com/repos/bbrks/html5-breakout/languages",
+  "pulls_url": "https://api.github.com/repos/bbrks/html5-breakout/pulls{/number}",
+  "created_at": "2013-02-16T13:31:53Z",
+  "updated_at": "2018-04-08T19:53:53Z",
+  "pushed_at": "2015-04-05T10:57:28Z",
+  "homepage": "http://dev.bbrks.me/breakout",
+  "size": 12251,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bbrks": 19
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 25525,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 4541,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1071,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T04:57:39.994Z"
+}

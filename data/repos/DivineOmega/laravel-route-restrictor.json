@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "laravel-route-restrictor",
+  "full_name": "DivineOmega/laravel-route-restrictor",
+  "owner": "DivineOmega",
+  "private": false,
+  "html_url": "https://github.com/DivineOmega/laravel-route-restrictor",
+  "description": "🚫 Laravel middleware to restrict a site or specific routes using HTTP basic authentication",
+  "fork": false,
+  "url": "https://api.github.com/repos/DivineOmega/laravel-route-restrictor",
+  "languages_url": "https://api.github.com/repos/DivineOmega/laravel-route-restrictor/languages",
+  "pulls_url": "https://api.github.com/repos/DivineOmega/laravel-route-restrictor/pulls{/number}",
+  "created_at": "2016-02-29T16:17:14Z",
+  "updated_at": "2018-08-09T10:17:49Z",
+  "pushed_at": "2018-08-09T10:18:21Z",
+  "homepage": "",
+  "size": 32,
+  "stargazers_count": 5,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx_id": "LGPL-3.0",
+    "url": "https://api.github.com/licenses/lgpl-3.0",
+    "node_id": "MDc6TGljZW5zZTEy"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "AndyMac2508": 1,
+    "jbrooksuk": 4,
+    "DivineOmega": 14
+  },
+  "pulls_authors": [
+    "AndyMac2508",
+    "jbrooksuk"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 6372,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:47.407Z"
+}

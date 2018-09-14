@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "slider",
+  "full_name": "captbaritone/slider",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/slider",
+  "description": "React Slider",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/slider",
+  "languages_url": "https://api.github.com/repos/captbaritone/slider/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/slider/pulls{/number}",
+  "created_at": "2017-05-06T23:57:50Z",
+  "updated_at": "2018-07-29T22:14:29Z",
+  "pushed_at": "2017-07-03T03:41:42Z",
+  "homepage": "http://react-component.github.io/slider/",
+  "size": 4032,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "STRML": 1,
+    "lavrton": 1,
+    "FallingSnow": 1,
+    "rzane": 1,
+    "IgorGee": 1,
+    "trxcllnt": 1,
+    "Fuzzyma": 1,
+    "dsgkirkby": 1,
+    "derrickpelletier": 1,
+    "sosz": 1,
+    "heldr": 1,
+    "miskreant": 1,
+    "alampros": 1,
+    "jordanstephens": 1,
+    "kalinichenko": 1,
+    "thorbenziemek": 1,
+    "danioso": 1,
+    "sonicdoe": 2,
+    "Andarist": 2,
+    "simeg": 2,
+    "elboman": 3,
+    "just-boris": 3,
+    "jljsj33": 3,
+    "silentcloud": 4,
+    "frank-weindel": 4,
+    "paranoidjk": 11,
+    "yiminghe": 18,
+    "simaQ": 48,
+    "benjycui": 151
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 42476,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 5842,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:54.276Z"
+}

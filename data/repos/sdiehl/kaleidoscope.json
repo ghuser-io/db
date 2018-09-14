@@ -1,0 +1,93 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "kaleidoscope",
+  "full_name": "sdiehl/kaleidoscope",
+  "owner": "sdiehl",
+  "private": false,
+  "html_url": "https://github.com/sdiehl/kaleidoscope",
+  "description": "Haskell LLVM JIT Compiler Tutorial",
+  "fork": false,
+  "url": "https://api.github.com/repos/sdiehl/kaleidoscope",
+  "languages_url": "https://api.github.com/repos/sdiehl/kaleidoscope/languages",
+  "pulls_url": "https://api.github.com/repos/sdiehl/kaleidoscope/pulls{/number}",
+  "created_at": "2013-12-28T05:12:52Z",
+  "updated_at": "2018-09-11T04:49:27Z",
+  "pushed_at": "2017-12-27T12:47:34Z",
+  "homepage": "http://www.stephendiehl.com/llvm",
+  "size": 469,
+  "stargazers_count": 645,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jasondavies": 1,
+    "amir": 1,
+    "TorosFanny": 1,
+    "wdv4758h": 1,
+    "thekafkaf": 1,
+    "djv": 1,
+    "timjb": 1,
+    "yigitozkavci": 2,
+    "sumitsahrawat": 2,
+    "kmarekspartz": 2,
+    "Arminius": 2,
+    "erdeszt": 3,
+    "doersino": 6,
+    "Oregu": 10,
+    "sdiehl": 84
+  },
+  "pulls_authors": [
+    "OndrejSlamecka",
+    "jasondavies",
+    "doersino",
+    "yigitozkavci",
+    "amir",
+    "TorosFanny",
+    "sumitsahrawat",
+    "wdv4758h",
+    "erdeszt",
+    "thekafkaf",
+    "koba-e964",
+    "kmarekspartz",
+    "Oregu",
+    "NobbZ",
+    "djv",
+    "Arminius",
+    "timjb"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 97419,
+      "color": "#5e5086"
+    },
+    "CSS": {
+      "bytes": 3003,
+      "color": "#563d7c"
+    },
+    "Makefile": {
+      "bytes": 1419,
+      "color": "#427819"
+    },
+    "C": {
+      "bytes": 1194,
+      "color": "#555555"
+    },
+    "LLVM": {
+      "bytes": 359,
+      "color": "#185619"
+    },
+    "Shell": {
+      "bytes": 127,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T22:27:00.718Z"
+}

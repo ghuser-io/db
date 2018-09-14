@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Vygie",
+  "full_name": "MUCHZER/Vygie",
+  "owner": "MUCHZER",
+  "private": false,
+  "html_url": "https://github.com/MUCHZER/Vygie",
+  "description": "Hackathon project! Vygie is a connected application/button to help teachers to report an early infection at school",
+  "fork": false,
+  "url": "https://api.github.com/repos/MUCHZER/Vygie",
+  "languages_url": "https://api.github.com/repos/MUCHZER/Vygie/languages",
+  "pulls_url": "https://api.github.com/repos/MUCHZER/Vygie/pulls{/number}",
+  "created_at": "2016-09-10T11:22:16Z",
+  "updated_at": "2017-02-09T13:26:34Z",
+  "pushed_at": "2017-10-25T06:58:53Z",
+  "homepage": "http://vygie.fr/",
+  "size": 9931,
+  "stargazers_count": 2,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "chriskelso": 1,
+    "ebawam123": 1,
+    "MUCHZER": 8
+  },
+  "pulls_authors": [
+    "MUCHZER",
+    "chriskelso",
+    "ebawam123"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 24231,
+      "color": "#4F5D95"
+    },
+    "HTML": {
+      "bytes": 12691,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 4019,
+      "color": "#563d7c"
+    },
+    "Arduino": {
+      "bytes": 3695,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T07:38:22.220Z"
+}

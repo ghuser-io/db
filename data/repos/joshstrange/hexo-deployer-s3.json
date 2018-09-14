@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hexo-deployer-s3",
+  "full_name": "joshstrange/hexo-deployer-s3",
+  "owner": "joshstrange",
+  "private": false,
+  "html_url": "https://github.com/joshstrange/hexo-deployer-s3",
+  "description": "S3 deployer plugin for Hexo",
+  "fork": true,
+  "url": "https://api.github.com/repos/joshstrange/hexo-deployer-s3",
+  "languages_url": "https://api.github.com/repos/joshstrange/hexo-deployer-s3/languages",
+  "pulls_url": "https://api.github.com/repos/joshstrange/hexo-deployer-s3/pulls{/number}",
+  "created_at": "2014-03-01T17:38:37Z",
+  "updated_at": "2015-10-24T21:03:33Z",
+  "pushed_at": "2015-07-04T15:40:25Z",
+  "homepage": "",
+  "size": 151,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "nt3rp": 2,
+    "joshstrange": 3,
+    "floriancargoet": 5
+  },
+  "pulls_authors": [
+    "nt3rp"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1733,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T13:47:48.861Z"
+}

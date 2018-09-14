@@ -1,0 +1,68 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "grunt-noflo-manifest",
+  "full_name": "noflo/grunt-noflo-manifest",
+  "owner": "noflo",
+  "private": false,
+  "html_url": "https://github.com/noflo/grunt-noflo-manifest",
+  "description": "DEPRECATED: Grunt plugin for updating NoFlo manifest files. Use fbp-manifest instead",
+  "fork": false,
+  "url": "https://api.github.com/repos/noflo/grunt-noflo-manifest",
+  "languages_url": "https://api.github.com/repos/noflo/grunt-noflo-manifest/languages",
+  "pulls_url": "https://api.github.com/repos/noflo/grunt-noflo-manifest/pulls{/number}",
+  "created_at": "2014-04-23T13:58:55Z",
+  "updated_at": "2017-11-08T19:39:23Z",
+  "pushed_at": "2017-04-13T00:46:39Z",
+  "homepage": "",
+  "size": 23,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "noflo",
+    "id": 1485822,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0ODU4MjI=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1485822?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/noflo",
+    "html_url": "https://github.com/noflo",
+    "followers_url": "https://api.github.com/users/noflo/followers",
+    "following_url": "https://api.github.com/users/noflo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/noflo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/noflo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/noflo/subscriptions",
+    "organizations_url": "https://api.github.com/users/noflo/orgs",
+    "repos_url": "https://api.github.com/users/noflo/repos",
+    "events_url": "https://api.github.com/users/noflo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/noflo/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "greenkeeperio-bot": 7,
+    "bergie": 27
+  },
+  "pulls_authors": [
+    "bergie",
+    "greenkeeperio-bot",
+    "grunt-updater2",
+    "automata",
+    "paulyoung"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 9937,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-08T12:41:02.145Z"
+}

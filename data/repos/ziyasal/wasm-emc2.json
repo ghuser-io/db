@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wasm-emc2",
+  "full_name": "ziyasal/wasm-emc2",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/wasm-emc2",
+  "description": ":rocket: C++ Webassembly experiments using Emscripten",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal/wasm-emc2",
+  "languages_url": "https://api.github.com/repos/ziyasal/wasm-emc2/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/wasm-emc2/pulls{/number}",
+  "created_at": "2017-11-10T16:51:06Z",
+  "updated_at": "2017-11-10T18:40:43Z",
+  "pushed_at": "2017-11-13T13:20:16Z",
+  "homepage": "",
+  "size": 35,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ziyasal": 15
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 415,
+      "color": "#e34c26"
+    },
+    "C++": {
+      "bytes": 309,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:05.038Z"
+}

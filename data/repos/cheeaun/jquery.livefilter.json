@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jquery.livefilter",
+  "full_name": "cheeaun/jquery.livefilter",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/jquery.livefilter",
+  "description": "Slightly advanced live filtering jQuery plugin",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/jquery.livefilter",
+  "languages_url": "https://api.github.com/repos/cheeaun/jquery.livefilter/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/jquery.livefilter/pulls{/number}",
+  "created_at": "2009-04-22T08:07:31Z",
+  "updated_at": "2017-11-17T15:38:58Z",
+  "pushed_at": "2014-10-13T09:12:32Z",
+  "homepage": "http://cheeaun.github.io/jquery.livefilter/",
+  "size": 172,
+  "stargazers_count": 57,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Rufus125": 1,
+    "johnsardine": 1,
+    "cheeaun": 8
+  },
+  "pulls_authors": [
+    "cheeaun",
+    "Rufus125",
+    "DanilloCorvalan",
+    "johnsardine"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1160,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T19:00:03.111Z"
+}

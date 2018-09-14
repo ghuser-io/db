@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "postcss-config",
+  "full_name": "Boldewyn/postcss-config",
+  "owner": "Boldewyn",
+  "private": false,
+  "html_url": "https://github.com/Boldewyn/postcss-config",
+  "description": "A PostCSS plugin to write your config in CSS syntax (Crazy? You bet!)",
+  "fork": false,
+  "url": "https://api.github.com/repos/Boldewyn/postcss-config",
+  "languages_url": "https://api.github.com/repos/Boldewyn/postcss-config/languages",
+  "pulls_url": "https://api.github.com/repos/Boldewyn/postcss-config/pulls{/number}",
+  "created_at": "2016-11-17T12:07:16Z",
+  "updated_at": "2016-11-18T12:46:48Z",
+  "pushed_at": "2016-11-17T12:07:31Z",
+  "homepage": "",
+  "size": 4,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Boldewyn": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2504,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 405,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T04:57:52.554Z"
+}

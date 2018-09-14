@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "MIDA-Multitool",
+  "full_name": "NullArray/MIDA-Multitool",
+  "owner": "NullArray",
+  "private": false,
+  "html_url": "https://github.com/NullArray/MIDA-Multitool",
+  "description": "Bash script purposed for system enumeration, vulnerability identification and privilege escalation.",
+  "fork": false,
+  "url": "https://api.github.com/repos/NullArray/MIDA-Multitool",
+  "languages_url": "https://api.github.com/repos/NullArray/MIDA-Multitool/languages",
+  "pulls_url": "https://api.github.com/repos/NullArray/MIDA-Multitool/pulls{/number}",
+  "created_at": "2017-02-01T22:17:52Z",
+  "updated_at": "2018-09-12T01:02:59Z",
+  "pushed_at": "2018-05-16T20:07:08Z",
+  "homepage": null,
+  "size": 31,
+  "stargazers_count": 112,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "thehappydinoa": 2,
+    "NullArray": 28
+  },
+  "pulls_authors": [
+    "thehappydinoa"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 8933,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:37.228Z"
+}

@@ -1,0 +1,89 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "honk",
+  "full_name": "castorini/honk",
+  "owner": "castorini",
+  "private": false,
+  "html_url": "https://github.com/castorini/honk",
+  "description": "PyTorch reimplementation of Google's TensorFlow CNNs for keyword spotting",
+  "fork": false,
+  "url": "https://api.github.com/repos/castorini/honk",
+  "languages_url": "https://api.github.com/repos/castorini/honk/languages",
+  "pulls_url": "https://api.github.com/repos/castorini/honk/pulls{/number}",
+  "created_at": "2017-09-14T01:45:32Z",
+  "updated_at": "2018-09-09T02:27:36Z",
+  "pushed_at": "2018-07-19T03:07:24Z",
+  "homepage": "",
+  "size": 13092,
+  "stargazers_count": 152,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "castorini",
+    "id": 26842848,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI2ODQyODQ4",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/26842848?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/castorini",
+    "html_url": "https://github.com/castorini",
+    "followers_url": "https://api.github.com/users/castorini/followers",
+    "following_url": "https://api.github.com/users/castorini/following{/other_user}",
+    "gists_url": "https://api.github.com/users/castorini/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/castorini/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/castorini/subscriptions",
+    "organizations_url": "https://api.github.com/users/castorini/orgs",
+    "repos_url": "https://api.github.com/users/castorini/repos",
+    "events_url": "https://api.github.com/users/castorini/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/castorini/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "yodakohl": 1,
+    "lovettchris": 1,
+    "zuurw": 1,
+    "x389liu": 1,
+    "stocyr": 1,
+    "hellcoderz": 1,
+    "lintool": 3,
+    "tuzhucheng": 4,
+    "w268wang": 4,
+    "daemon": 34
+  },
+  "pulls_authors": [
+    "lovettchris",
+    "yodakohl",
+    "zuurw",
+    "x389liu",
+    "stocyr",
+    "hellcoderz",
+    "daemon",
+    "tuzhucheng",
+    "w268wang",
+    "lintool"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 153275,
+      "color": "#3572A5"
+    },
+    "Jupyter Notebook": {
+      "bytes": 124222,
+      "color": "#DA5B0B"
+    },
+    "Shell": {
+      "bytes": 422,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T16:54:21.678Z"
+}

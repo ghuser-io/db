@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "storm-el7-rpm",
+  "full_name": "inuits/storm-el7-rpm",
+  "owner": "inuits",
+  "private": false,
+  "html_url": "https://github.com/inuits/storm-el7-rpm",
+  "description": "A set of scripts to package Apache Storm into an rpm (CentOS/RedHat 7)",
+  "fork": false,
+  "url": "https://api.github.com/repos/inuits/storm-el7-rpm",
+  "languages_url": "https://api.github.com/repos/inuits/storm-el7-rpm/languages",
+  "pulls_url": "https://api.github.com/repos/inuits/storm-el7-rpm/pulls{/number}",
+  "created_at": "2016-01-10T18:38:10Z",
+  "updated_at": "2018-06-07T19:30:04Z",
+  "pushed_at": "2017-10-05T08:46:58Z",
+  "homepage": null,
+  "size": 6,
+  "stargazers_count": 5,
+  "language": "Makefile",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "inuits",
+    "id": 612358,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxMjM1OA==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/612358?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/inuits",
+    "html_url": "https://github.com/inuits",
+    "followers_url": "https://api.github.com/users/inuits/followers",
+    "following_url": "https://api.github.com/users/inuits/following{/other_user}",
+    "gists_url": "https://api.github.com/users/inuits/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/inuits/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/inuits/subscriptions",
+    "organizations_url": "https://api.github.com/users/inuits/orgs",
+    "repos_url": "https://api.github.com/users/inuits/repos",
+    "events_url": "https://api.github.com/users/inuits/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/inuits/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "vdmkenny": 1
+  },
+  "pulls_authors": [
+    "har777",
+    "vdmkenny"
+  ],
+  "languages": {
+    "Makefile": {
+      "bytes": 959,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T22:30:24.789Z"
+}

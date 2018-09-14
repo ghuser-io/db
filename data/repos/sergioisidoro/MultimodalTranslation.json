@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "MultimodalTranslation",
+  "full_name": "sergioisidoro/MultimodalTranslation",
+  "owner": "sergioisidoro",
+  "private": false,
+  "html_url": "https://github.com/sergioisidoro/MultimodalTranslation",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/sergioisidoro/MultimodalTranslation",
+  "languages_url": "https://api.github.com/repos/sergioisidoro/MultimodalTranslation/languages",
+  "pulls_url": "https://api.github.com/repos/sergioisidoro/MultimodalTranslation/pulls{/number}",
+  "created_at": "2013-11-11T12:32:13Z",
+  "updated_at": "2014-12-28T08:37:52Z",
+  "pushed_at": "2013-12-05T11:10:27Z",
+  "homepage": null,
+  "size": 120244,
+  "stargazers_count": 1,
+  "language": "Matlab",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sergioisidoro": 3,
+    "rkarhila": 12
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Matlab": {
+      "bytes": 560560,
+      "color": "#e16737"
+    },
+    "TeX": {
+      "bytes": 442891,
+      "color": "#3D6117"
+    },
+    "C": {
+      "bytes": 399142,
+      "color": "#555555"
+    },
+    "M": {
+      "bytes": 68906,
+      "color": "#ccc"
+    },
+    "Objective-C": {
+      "bytes": 9228,
+      "color": "#438eff"
+    },
+    "Shell": {
+      "bytes": 5297,
+      "color": "#89e051"
+    },
+    "Racket": {
+      "bytes": 2178,
+      "color": "#22228f"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:20.876Z"
+}

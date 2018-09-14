@@ -1,0 +1,87 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Swaggervel",
+  "full_name": "slampenny/Swaggervel",
+  "owner": "slampenny",
+  "private": false,
+  "html_url": "https://github.com/slampenny/Swaggervel",
+  "description": "Swagger for Laravel",
+  "fork": false,
+  "url": "https://api.github.com/repos/slampenny/Swaggervel",
+  "languages_url": "https://api.github.com/repos/slampenny/Swaggervel/languages",
+  "pulls_url": "https://api.github.com/repos/slampenny/Swaggervel/pulls{/number}",
+  "created_at": "2014-07-03T21:49:16Z",
+  "updated_at": "2018-09-13T06:49:35Z",
+  "pushed_at": "2017-10-11T09:54:12Z",
+  "homepage": null,
+  "size": 1303,
+  "stargazers_count": 457,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "UrosSimovic": 1,
+    "lahaxearnaud": 1,
+    "phazei": 1,
+    "kevin91nl": 1,
+    "jbrooksuk": 1,
+    "Sano000": 1,
+    "riemers": 1,
+    "slampenny": 1,
+    "w0rd-driven": 2,
+    "cliveza": 2,
+    "bitecodes": 3,
+    "tralves": 10
+  },
+  "pulls_authors": [
+    "skys215",
+    "sky-L",
+    "urukalo",
+    "panicfilip",
+    "hufeng903",
+    "stevanradovanovic",
+    "happy-dev",
+    "bretanac93",
+    "welcoMattic",
+    "aasanchez",
+    "mkgareja",
+    "DSpeichert",
+    "zxy198717",
+    "w0rd-driven",
+    "UrosSimovic",
+    "glorand",
+    "tralves",
+    "Sano000",
+    "bitecodes",
+    "lahaxearnaud",
+    "slampenny",
+    "jwyterlin",
+    "mvdstam",
+    "phazei",
+    "kevin91nl",
+    "jbrooksuk",
+    "cliveza",
+    "riemers"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2446266,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 92817,
+      "color": "#563d7c"
+    },
+    "PHP": {
+      "bytes": 16196,
+      "color": "#4F5D95"
+    },
+    "HTML": {
+      "bytes": 449,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-13T16:35:10.024Z"
+}

@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-finance",
+  "full_name": "FlashBoys/go-finance",
+  "owner": "FlashBoys",
+  "private": false,
+  "html_url": "https://github.com/FlashBoys/go-finance",
+  "description": ":warning: Deprecrated in favor of https://github.com/piquette/finance-go :warning:",
+  "fork": false,
+  "url": "https://api.github.com/repos/FlashBoys/go-finance",
+  "languages_url": "https://api.github.com/repos/FlashBoys/go-finance/languages",
+  "pulls_url": "https://api.github.com/repos/FlashBoys/go-finance/pulls{/number}",
+  "created_at": "2016-02-28T00:37:46Z",
+  "updated_at": "2018-09-14T03:30:33Z",
+  "pushed_at": "2018-03-09T02:50:46Z",
+  "homepage": "",
+  "size": 228,
+  "stargazers_count": 542,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "FlashBoys",
+    "id": 17521236,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3NTIxMjM2",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/17521236?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/FlashBoys",
+    "html_url": "https://github.com/FlashBoys",
+    "followers_url": "https://api.github.com/users/FlashBoys/followers",
+    "following_url": "https://api.github.com/users/FlashBoys/following{/other_user}",
+    "gists_url": "https://api.github.com/users/FlashBoys/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/FlashBoys/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/FlashBoys/subscriptions",
+    "organizations_url": "https://api.github.com/users/FlashBoys/orgs",
+    "repos_url": "https://api.github.com/users/FlashBoys/repos",
+    "events_url": "https://api.github.com/users/FlashBoys/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/FlashBoys/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "sfrique": 1,
+    "ellimist": 1,
+    "bedser": 1,
+    "waldyrious": 1,
+    "zclancy": 1,
+    "ackleymi": 36
+  },
+  "pulls_authors": [
+    "dvrkps",
+    "ackleymi",
+    "sfrique",
+    "ellimist",
+    "bedser",
+    "btasdoven",
+    "guillaume0811",
+    "waldyrious",
+    "zclancy"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 36009,
+      "color": "#375eab"
+    },
+    "HTML": {
+      "bytes": 318,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-14T08:26:57.956Z"
+}

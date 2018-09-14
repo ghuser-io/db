@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "GoogleMaterialDesignIcons",
+  "full_name": "dekatotoro/GoogleMaterialDesignIcons",
+  "owner": "dekatotoro",
+  "private": false,
+  "html_url": "https://github.com/dekatotoro/GoogleMaterialDesignIcons",
+  "description": "Google Material Design Icons Font for iOS",
+  "fork": false,
+  "url": "https://api.github.com/repos/dekatotoro/GoogleMaterialDesignIcons",
+  "languages_url": "https://api.github.com/repos/dekatotoro/GoogleMaterialDesignIcons/languages",
+  "created_at": "2014-12-09T12:02:42Z",
+  "updated_at": "2018-08-17T20:27:43Z",
+  "pushed_at": "2017-04-18T01:11:47Z",
+  "homepage": "",
+  "size": 3653,
+  "stargazers_count": 366,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0",
+    "spdx_id": "CC-BY-4.0",
+    "url": "https://api.github.com/licenses/cc-by-4.0",
+    "node_id": "MDc6TGljZW5zZTI1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "wei": 1,
+    "dekatotoro": 45
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 1012491,
+      "color": "#e34c26"
+    },
+    "Swift": {
+      "bytes": 122156,
+      "color": "#ffac45"
+    },
+    "CSS": {
+      "bytes": 97002,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 900,
+      "color": "#f1e05a"
+    },
+    "Ruby": {
+      "bytes": 742,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-08-18T09:22:42.370Z",
+  "pulls_url": "https://api.github.com/repos/dekatotoro/GoogleMaterialDesignIcons/pulls{/number}",
+  "pulls_authors": [
+    "bryant1410",
+    "wei"
+  ]
+}

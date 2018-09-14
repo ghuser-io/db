@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Peanut-Shader-Engine",
+  "full_name": "JPBotelho/Peanut-Shader-Engine",
+  "owner": "JPBotelho",
+  "private": false,
+  "html_url": "https://github.com/JPBotelho/Peanut-Shader-Engine",
+  "description": "Lightweight C++/DX11 pixel shader renderer.",
+  "fork": false,
+  "url": "https://api.github.com/repos/JPBotelho/Peanut-Shader-Engine",
+  "languages_url": "https://api.github.com/repos/JPBotelho/Peanut-Shader-Engine/languages",
+  "pulls_url": "https://api.github.com/repos/JPBotelho/Peanut-Shader-Engine/pulls{/number}",
+  "created_at": "2018-06-16T23:28:41Z",
+  "updated_at": "2018-06-17T21:08:28Z",
+  "pushed_at": "2018-06-17T21:08:26Z",
+  "homepage": null,
+  "size": 74,
+  "stargazers_count": 2,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "JPBotelho": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 13053,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 1070,
+      "color": "#555555"
+    },
+    "ShaderLab": {
+      "bytes": 496,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-08-17T14:57:51.585Z"
+}

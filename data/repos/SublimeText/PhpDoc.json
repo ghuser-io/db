@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PhpDoc",
+  "full_name": "SublimeText/PhpDoc",
+  "owner": "SublimeText",
+  "private": false,
+  "html_url": "https://github.com/SublimeText/PhpDoc",
+  "description": "PhpDoc support package.",
+  "fork": false,
+  "url": "https://api.github.com/repos/SublimeText/PhpDoc",
+  "languages_url": "https://api.github.com/repos/SublimeText/PhpDoc/languages",
+  "pulls_url": "https://api.github.com/repos/SublimeText/PhpDoc/pulls{/number}",
+  "created_at": "2011-09-27T21:36:49Z",
+  "updated_at": "2018-08-21T16:08:34Z",
+  "pushed_at": "2015-12-06T19:56:22Z",
+  "homepage": "",
+  "size": 17,
+  "stargazers_count": 162,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "SublimeText",
+    "id": 684879,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY4NDg3OQ==",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/684879?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/SublimeText",
+    "html_url": "https://github.com/SublimeText",
+    "followers_url": "https://api.github.com/users/SublimeText/followers",
+    "following_url": "https://api.github.com/users/SublimeText/following{/other_user}",
+    "gists_url": "https://api.github.com/users/SublimeText/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/SublimeText/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/SublimeText/subscriptions",
+    "organizations_url": "https://api.github.com/users/SublimeText/orgs",
+    "repos_url": "https://api.github.com/users/SublimeText/repos",
+    "events_url": "https://api.github.com/users/SublimeText/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/SublimeText/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ricardovfreixo": 1,
+    "chrisneal": 1,
+    "libbkmz": 1,
+    "jbrooksuk": 3,
+    "UNOwen": 13
+  },
+  "pulls_authors": [
+    "AkariAkaori",
+    "sijad",
+    "ricardovfreixo",
+    "chrisneal",
+    "florianeckerstorfer",
+    "libbkmz",
+    "spyworldxp",
+    "jaapz"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 3433,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 3269,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:58.791Z"
+}

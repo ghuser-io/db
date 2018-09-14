@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "whirlwind-cs",
+  "full_name": "huntaub/whirlwind-cs",
+  "owner": "huntaub",
+  "private": false,
+  "html_url": "https://github.com/huntaub/whirlwind-cs",
+  "description": "A new student taught course at UVa that examines computers from the ground up.",
+  "fork": false,
+  "url": "https://api.github.com/repos/huntaub/whirlwind-cs",
+  "languages_url": "https://api.github.com/repos/huntaub/whirlwind-cs/languages",
+  "pulls_url": "https://api.github.com/repos/huntaub/whirlwind-cs/pulls{/number}",
+  "created_at": "2015-05-03T19:16:28Z",
+  "updated_at": "2015-08-27T14:44:17Z",
+  "pushed_at": "2015-10-22T17:21:23Z",
+  "homepage": null,
+  "size": 3264,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "gh-pages",
+  "contributors": {
+    "huntaub": 17
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CSS": {
+      "bytes": 190250,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 166028,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 160713,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T15:44:39.017Z"
+}

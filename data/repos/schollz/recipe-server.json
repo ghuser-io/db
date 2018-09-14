@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "recipe-server",
+  "full_name": "schollz/recipe-server",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/recipe-server",
+  "description": "Servers random recipes",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/recipe-server",
+  "languages_url": "https://api.github.com/repos/schollz/recipe-server/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/recipe-server/pulls{/number}",
+  "created_at": "2016-07-14T16:46:02Z",
+  "updated_at": "2017-04-09T18:39:51Z",
+  "pushed_at": "2016-08-17T00:39:34Z",
+  "homepage": null,
+  "size": 48712,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 15
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 16425,
+      "color": "#375eab"
+    },
+    "HTML": {
+      "bytes": 3369,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:44.900Z"
+}

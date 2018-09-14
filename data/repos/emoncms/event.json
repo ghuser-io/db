@@ -1,0 +1,106 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "event",
+  "full_name": "emoncms/event",
+  "owner": "emoncms",
+  "private": false,
+  "html_url": "https://github.com/emoncms/event",
+  "description": "Setup actions to occur when a feed goes above, below or is equal a set value. Set another feed or send an email",
+  "fork": false,
+  "url": "https://api.github.com/repos/emoncms/event",
+  "languages_url": "https://api.github.com/repos/emoncms/event/languages",
+  "pulls_url": "https://api.github.com/repos/emoncms/event/pulls{/number}",
+  "created_at": "2012-11-04T20:51:10Z",
+  "updated_at": "2018-08-06T10:21:59Z",
+  "pushed_at": "2018-08-06T10:27:22Z",
+  "homepage": null,
+  "size": 971,
+  "stargazers_count": 8,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "emoncms",
+    "id": 2532311,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1MzIzMTE=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/2532311?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/emoncms",
+    "html_url": "https://github.com/emoncms",
+    "followers_url": "https://api.github.com/users/emoncms/followers",
+    "following_url": "https://api.github.com/users/emoncms/following{/other_user}",
+    "gists_url": "https://api.github.com/users/emoncms/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/emoncms/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/emoncms/subscriptions",
+    "organizations_url": "https://api.github.com/users/emoncms/orgs",
+    "repos_url": "https://api.github.com/users/emoncms/repos",
+    "events_url": "https://api.github.com/users/emoncms/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/emoncms/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "amanfrinati": 1,
+    "TrystanLea": 1,
+    "gablau": 1,
+    "madnat": 1,
+    "IainSteers": 1,
+    "ibr": 1,
+    "glynhudson": 2,
+    "alco28": 2,
+    "aniston": 2,
+    "nathanchantrell": 2,
+    "Bra1nK": 4,
+    "sumnerboy12": 5,
+    "mattiarossi": 6,
+    "elyobelyob": 54
+  },
+  "pulls_authors": [
+    "VikIborra",
+    "amanfrinati",
+    "chaveiro",
+    "ajite",
+    "alco28",
+    "gablau",
+    "aniston",
+    "madnat",
+    "sumnerboy12",
+    "XaroRSA",
+    "matclab",
+    "dazzag24",
+    "IainSteers",
+    "Bra1nK",
+    "TrystanLea",
+    "nathanchantrell",
+    "tleegaard",
+    "hillsandales",
+    "ibr",
+    "mattiarossi",
+    "elyobelyob"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 509455,
+      "color": "#4F5D95"
+    },
+    "CSS": {
+      "bytes": 83476,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 31930,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 12229,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 4442,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:01.961Z"
+}

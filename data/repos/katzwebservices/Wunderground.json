@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Wunderground",
+  "full_name": "katzwebservices/Wunderground",
+  "owner": "katzwebservices",
+  "private": false,
+  "html_url": "https://github.com/katzwebservices/Wunderground",
+  "description": "Get accurate and beautiful weather forecasts powered by Wunderground.com for your content or your sidebar.",
+  "fork": false,
+  "url": "https://api.github.com/repos/katzwebservices/Wunderground",
+  "languages_url": "https://api.github.com/repos/katzwebservices/Wunderground/languages",
+  "pulls_url": "https://api.github.com/repos/katzwebservices/Wunderground/pulls{/number}",
+  "created_at": "2014-06-04T05:21:25Z",
+  "updated_at": "2018-04-04T22:34:16Z",
+  "pushed_at": "2016-09-22T01:01:37Z",
+  "homepage": null,
+  "size": 1976,
+  "stargazers_count": 22,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "katzwebservices",
+    "id": 5246165,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjUyNDYxNjU=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/5246165?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/katzwebservices",
+    "html_url": "https://github.com/katzwebservices",
+    "followers_url": "https://api.github.com/users/katzwebservices/followers",
+    "following_url": "https://api.github.com/users/katzwebservices/following{/other_user}",
+    "gists_url": "https://api.github.com/users/katzwebservices/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/katzwebservices/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/katzwebservices/subscriptions",
+    "organizations_url": "https://api.github.com/users/katzwebservices/orgs",
+    "repos_url": "https://api.github.com/users/katzwebservices/repos",
+    "events_url": "https://api.github.com/users/katzwebservices/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/katzwebservices/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "gablau": 1,
+    "zackkatz": 114
+  },
+  "pulls_authors": [
+    "a13xg0",
+    "zackkatz",
+    "jpw123",
+    "gablau",
+    "christianriley"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 68630,
+      "color": "#4F5D95"
+    },
+    "CSS": {
+      "bytes": 13992,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 11804,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 2694,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:01.886Z"
+}

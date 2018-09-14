@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "seneca-zipkin-tracer",
+  "full_name": "senecajs-labs/seneca-zipkin-tracer",
+  "owner": "senecajs-labs",
+  "private": false,
+  "html_url": "https://github.com/senecajs-labs/seneca-zipkin-tracer",
+  "description": "seneca-zipkin-tracer",
+  "fork": false,
+  "url": "https://api.github.com/repos/senecajs-labs/seneca-zipkin-tracer",
+  "languages_url": "https://api.github.com/repos/senecajs-labs/seneca-zipkin-tracer/languages",
+  "pulls_url": "https://api.github.com/repos/senecajs-labs/seneca-zipkin-tracer/pulls{/number}",
+  "created_at": "2016-09-06T15:53:11Z",
+  "updated_at": "2018-02-06T00:48:47Z",
+  "pushed_at": "2017-08-29T14:19:35Z",
+  "homepage": null,
+  "size": 21,
+  "stargazers_count": 8,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "senecajs-labs",
+    "id": 20533869,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIwNTMzODY5",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/20533869?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/senecajs-labs",
+    "html_url": "https://github.com/senecajs-labs",
+    "followers_url": "https://api.github.com/users/senecajs-labs/followers",
+    "following_url": "https://api.github.com/users/senecajs-labs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/senecajs-labs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/senecajs-labs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/senecajs-labs/subscriptions",
+    "organizations_url": "https://api.github.com/users/senecajs-labs/orgs",
+    "repos_url": "https://api.github.com/users/senecajs-labs/repos",
+    "events_url": "https://api.github.com/users/senecajs-labs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/senecajs-labs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "fanweixiao": 1,
+    "rjrodger": 5,
+    "paolochiodi": 23
+  },
+  "pulls_authors": [
+    "fanweixiao",
+    "sberryman",
+    "paolochiodi"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 17258,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:29.756Z"
+}

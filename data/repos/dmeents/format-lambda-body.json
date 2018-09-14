@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "format-lambda-body",
+  "full_name": "dmeents/format-lambda-body",
+  "owner": "dmeents",
+  "private": false,
+  "html_url": "https://github.com/dmeents/format-lambda-body",
+  "description": "Takes either a JSON string or plain text string and ensures the output is properly formatted to send to AWS api gateway",
+  "fork": false,
+  "url": "https://api.github.com/repos/dmeents/format-lambda-body",
+  "languages_url": "https://api.github.com/repos/dmeents/format-lambda-body/languages",
+  "pulls_url": "https://api.github.com/repos/dmeents/format-lambda-body/pulls{/number}",
+  "created_at": "2017-09-22T02:08:25Z",
+  "updated_at": "2017-10-19T23:40:42Z",
+  "pushed_at": "2017-09-30T04:00:39Z",
+  "homepage": null,
+  "size": 379,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "joshuaslate": 1,
+    "dmeents": 24
+  },
+  "pulls_authors": [
+    "dmeents",
+    "joshuaslate"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 8241,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-10T16:47:20.072Z"
+}

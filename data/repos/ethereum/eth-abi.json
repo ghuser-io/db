@@ -1,0 +1,85 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "eth-abi",
+  "full_name": "ethereum/eth-abi",
+  "owner": "ethereum",
+  "private": false,
+  "html_url": "https://github.com/ethereum/eth-abi",
+  "description": "Ethereum ABI utilities for python",
+  "fork": false,
+  "url": "https://api.github.com/repos/ethereum/eth-abi",
+  "languages_url": "https://api.github.com/repos/ethereum/eth-abi/languages",
+  "created_at": "2016-02-19T20:18:56Z",
+  "updated_at": "2018-09-12T09:35:32Z",
+  "pushed_at": "2018-08-30T20:22:10Z",
+  "homepage": null,
+  "size": 634,
+  "stargazers_count": 61,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ethereum",
+    "id": 6250754,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYyNTA3NTQ=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/6250754?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ethereum",
+    "html_url": "https://github.com/ethereum",
+    "followers_url": "https://api.github.com/users/ethereum/followers",
+    "following_url": "https://api.github.com/users/ethereum/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ethereum/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ethereum/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ethereum/subscriptions",
+    "organizations_url": "https://api.github.com/users/ethereum/orgs",
+    "repos_url": "https://api.github.com/users/ethereum/repos",
+    "events_url": "https://api.github.com/users/ethereum/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ethereum/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "movermeyer": 1,
+    "palash25": 2,
+    "dylanjw": 6,
+    "carver": 39,
+    "pipermerriam": 53,
+    "davesque": 159,
+    "tristan": 1
+  },
+  "languages": {
+    "Python": {
+      "bytes": 167031,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 1228,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 599,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:53:48.131Z",
+  "pulls_url": "https://api.github.com/repos/ethereum/eth-abi/pulls{/number}",
+  "pulls_authors": [
+    "davesque",
+    "dylanjw",
+    "palash25",
+    "carver",
+    "tintinweb",
+    "movermeyer",
+    "pipermerriam",
+    "ericssonaxel",
+    "tristan"
+  ]
+}

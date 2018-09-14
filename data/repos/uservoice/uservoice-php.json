@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "uservoice-php",
+  "full_name": "uservoice/uservoice-php",
+  "owner": "uservoice",
+  "private": false,
+  "html_url": "https://github.com/uservoice/uservoice-php",
+  "description": "PHP Client Library for UserVoice API",
+  "fork": false,
+  "url": "https://api.github.com/repos/uservoice/uservoice-php",
+  "languages_url": "https://api.github.com/repos/uservoice/uservoice-php/languages",
+  "pulls_url": "https://api.github.com/repos/uservoice/uservoice-php/pulls{/number}",
+  "created_at": "2012-08-23T17:20:37Z",
+  "updated_at": "2018-01-13T10:34:57Z",
+  "pushed_at": "2017-04-13T12:55:26Z",
+  "homepage": "",
+  "size": 485,
+  "stargazers_count": 7,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "uservoice",
+    "id": 12851,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyODUx",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/12851?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/uservoice",
+    "html_url": "https://github.com/uservoice",
+    "followers_url": "https://api.github.com/users/uservoice/followers",
+    "following_url": "https://api.github.com/users/uservoice/following{/other_user}",
+    "gists_url": "https://api.github.com/users/uservoice/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/uservoice/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/uservoice/subscriptions",
+    "organizations_url": "https://api.github.com/users/uservoice/orgs",
+    "repos_url": "https://api.github.com/users/uservoice/repos",
+    "events_url": "https://api.github.com/users/uservoice/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/uservoice/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "lukeautry": 1,
+    "duellsy": 1,
+    "vierbergenlars": 1,
+    "raimo": 47
+  },
+  "pulls_authors": [
+    "jdufresne",
+    "nolazybits",
+    "jcamenisch",
+    "duellsy",
+    "vierbergenlars"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 15851,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-11T17:16:21.344Z"
+}

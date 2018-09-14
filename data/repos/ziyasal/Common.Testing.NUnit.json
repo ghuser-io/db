@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Common.Testing.NUnit",
+  "full_name": "ziyasal/Common.Testing.NUnit",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/Common.Testing.NUnit",
+  "description": "Provides base class with generic methods for testing",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal/Common.Testing.NUnit",
+  "languages_url": "https://api.github.com/repos/ziyasal/Common.Testing.NUnit/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/Common.Testing.NUnit/pulls{/number}",
+  "created_at": "2015-04-14T06:06:17Z",
+  "updated_at": "2018-02-19T10:41:20Z",
+  "pushed_at": "2015-04-14T06:19:20Z",
+  "homepage": null,
+  "size": 148,
+  "stargazers_count": 1,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ziyasal": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 4238,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:16.600Z"
+}

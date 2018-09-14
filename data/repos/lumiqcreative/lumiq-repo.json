@@ -1,0 +1,33 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "lumiq-repo",
+  "full_name": "lumiqcreative/lumiq-repo",
+  "owner": "lumiqcreative",
+  "private": false,
+  "html_url": "https://github.com/lumiqcreative/lumiq-repo",
+  "description": "Online Resources Used For Various Projects By Lumiq Creative",
+  "fork": false,
+  "url": "https://api.github.com/repos/lumiqcreative/lumiq-repo",
+  "languages_url": "https://api.github.com/repos/lumiqcreative/lumiq-repo/languages",
+  "pulls_url": "https://api.github.com/repos/lumiqcreative/lumiq-repo/pulls{/number}",
+  "created_at": "2017-08-30T19:19:44Z",
+  "updated_at": "2018-06-27T17:25:20Z",
+  "pushed_at": "2018-04-17T17:39:51Z",
+  "homepage": null,
+  "size": 27216,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "deletescape": 1,
+    "lumiqcreative": 21
+  },
+  "pulls_authors": [
+    "deletescape"
+  ],
+  "languages": {},
+  "fetched_at": "2018-08-20T12:16:20.820Z"
+}

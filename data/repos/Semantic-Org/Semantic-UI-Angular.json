@@ -1,0 +1,92 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Semantic-UI-Angular",
+  "full_name": "Semantic-Org/Semantic-UI-Angular",
+  "owner": "Semantic-Org",
+  "private": false,
+  "html_url": "https://github.com/Semantic-Org/Semantic-UI-Angular",
+  "description": "Semantic UI Angular Integrations",
+  "fork": false,
+  "url": "https://api.github.com/repos/Semantic-Org/Semantic-UI-Angular",
+  "languages_url": "https://api.github.com/repos/Semantic-Org/Semantic-UI-Angular/languages",
+  "pulls_url": "https://api.github.com/repos/Semantic-Org/Semantic-UI-Angular/pulls{/number}",
+  "created_at": "2014-11-26T20:50:39Z",
+  "updated_at": "2018-08-17T11:28:01Z",
+  "pushed_at": "2016-12-27T13:05:09Z",
+  "homepage": null,
+  "size": 1269,
+  "stargazers_count": 506,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "Semantic-Org",
+    "id": 5796209,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjU3OTYyMDk=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/5796209?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Semantic-Org",
+    "html_url": "https://github.com/Semantic-Org",
+    "followers_url": "https://api.github.com/users/Semantic-Org/followers",
+    "following_url": "https://api.github.com/users/Semantic-Org/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Semantic-Org/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Semantic-Org/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Semantic-Org/subscriptions",
+    "organizations_url": "https://api.github.com/users/Semantic-Org/orgs",
+    "repos_url": "https://api.github.com/users/Semantic-Org/repos",
+    "events_url": "https://api.github.com/users/Semantic-Org/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Semantic-Org/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "frankadrian": 1,
+    "gitter-badger": 1,
+    "HackedByChinese": 2,
+    "mxth": 4,
+    "caitp": 4,
+    "matheuspoleza": 5,
+    "m0t0r": 70
+  },
+  "pulls_authors": [
+    "Kraigo",
+    "cdaguerre",
+    "HackedByChinese",
+    "m0t0r",
+    "frankadrian",
+    "mxth",
+    "matheuspoleza",
+    "patrickporto",
+    "ClickerMonkey",
+    "raduq",
+    "simonh1000",
+    "asubota",
+    "peek4y",
+    "zvictor",
+    "stevenkampen",
+    "gitter-badger"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 22399,
+      "color": "#2b7489"
+    },
+    "JavaScript": {
+      "bytes": 18339,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 3053,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:25.938Z"
+}

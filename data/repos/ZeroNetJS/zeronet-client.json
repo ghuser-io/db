@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "zeronet-client",
+  "full_name": "ZeroNetJS/zeronet-client",
+  "owner": "ZeroNetJS",
+  "private": false,
+  "html_url": "https://github.com/ZeroNetJS/zeronet-client",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/ZeroNetJS/zeronet-client",
+  "languages_url": "https://api.github.com/repos/ZeroNetJS/zeronet-client/languages",
+  "pulls_url": "https://api.github.com/repos/ZeroNetJS/zeronet-client/pulls{/number}",
+  "created_at": "2017-11-25T11:39:29Z",
+  "updated_at": "2017-12-13T13:11:14Z",
+  "pushed_at": "2018-02-25T12:12:45Z",
+  "homepage": null,
+  "size": 1473,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ZeroNetJS",
+    "id": 30019016,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMwMDE5MDE2",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/30019016?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ZeroNetJS",
+    "html_url": "https://github.com/ZeroNetJS",
+    "followers_url": "https://api.github.com/users/ZeroNetJS/followers",
+    "following_url": "https://api.github.com/users/ZeroNetJS/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ZeroNetJS/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ZeroNetJS/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ZeroNetJS/subscriptions",
+    "organizations_url": "https://api.github.com/users/ZeroNetJS/orgs",
+    "repos_url": "https://api.github.com/users/ZeroNetJS/repos",
+    "events_url": "https://api.github.com/users/ZeroNetJS/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ZeroNetJS/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mkg20001": 107
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 12541,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:26.970Z"
+}

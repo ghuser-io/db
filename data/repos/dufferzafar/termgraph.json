@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "termgraph",
+  "full_name": "dufferzafar/termgraph",
+  "owner": "dufferzafar",
+  "private": false,
+  "html_url": "https://github.com/dufferzafar/termgraph",
+  "description": "a python command-line tool which draws basic graphs in the terminal",
+  "fork": true,
+  "url": "https://api.github.com/repos/dufferzafar/termgraph",
+  "languages_url": "https://api.github.com/repos/dufferzafar/termgraph/languages",
+  "pulls_url": "https://api.github.com/repos/dufferzafar/termgraph/pulls{/number}",
+  "created_at": "2016-06-22T14:35:30Z",
+  "updated_at": "2016-08-12T23:32:32Z",
+  "pushed_at": "2016-06-22T14:36:49Z",
+  "homepage": null,
+  "size": 16,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "dufferzafar": 1,
+    "Aquassaut": 1,
+    "yegle": 1,
+    "mkaz": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 2958,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-03T12:57:07.610Z"
+}

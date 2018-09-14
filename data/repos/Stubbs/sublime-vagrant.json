@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sublime-vagrant",
+  "full_name": "Stubbs/sublime-vagrant",
+  "owner": "Stubbs",
+  "private": false,
+  "html_url": "https://github.com/Stubbs/sublime-vagrant",
+  "description": "Vagrant commands for Sublime Text",
+  "fork": false,
+  "url": "https://api.github.com/repos/Stubbs/sublime-vagrant",
+  "languages_url": "https://api.github.com/repos/Stubbs/sublime-vagrant/languages",
+  "pulls_url": "https://api.github.com/repos/Stubbs/sublime-vagrant/pulls{/number}",
+  "created_at": "2012-12-26T22:41:57Z",
+  "updated_at": "2018-04-20T01:28:49Z",
+  "pushed_at": "2017-02-27T07:04:32Z",
+  "homepage": "",
+  "size": 233,
+  "stargazers_count": 44,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "SalGnt": 1,
+    "adamjgray": 1,
+    "benmatselby": 3,
+    "RobotDisco": 3,
+    "jbrooksuk": 4,
+    "fxdgear": 5,
+    "Stubbs": 5,
+    "timcooper": 6
+  },
+  "pulls_authors": [
+    "Kristinita",
+    "pradyunsg",
+    "SalGnt",
+    "benmatselby",
+    "fxdgear",
+    "timcooper",
+    "arosolino",
+    "jbrooksuk",
+    "adamjgray",
+    "RobotDisco"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 12995,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 2179,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:00.059Z"
+}

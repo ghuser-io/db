@@ -1,0 +1,127 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "wesbos/Syntax": {
+      "full_name": "wesbos/Syntax",
+      "name": "Syntax",
+      "stargazers_count": 256,
+      "popularity": 3.406749531940878,
+      "percentage": 0,
+      "maturity": 3.1226378244491784,
+      "total_commits_count": 172,
+      "activity": 5,
+      "total_score": 21.46552424472099,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "p-society/p-society.github.io": {
+      "full_name": "p-society/p-society.github.io",
+      "name": "p-society.github.io",
+      "stargazers_count": 28,
+      "popularity": 2.4330082352955733,
+      "percentage": 1.0526315789473684,
+      "maturity": 2.74288477252764,
+      "total_commits_count": 95,
+      "activity": 5,
+      "total_score": 18.117732219982447,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "geekysrm/hasura-twitter-bot": {
+      "full_name": "geekysrm/hasura-twitter-bot",
+      "name": "hasura-twitter-bot",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 9,
+      "activity": 1.3166930146518014,
+      "total_score": 17.979544541738843,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "hasura/hello-android": {
+      "full_name": "hasura/hello-android",
+      "name": "hello-android",
+      "stargazers_count": 6,
+      "popularity": 1.7076084983408428,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 1.8576285433631483,
+      "total_score": 6.980454038385677,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "hasura/platform-docs": {
+      "full_name": "hasura/platform-docs",
+      "name": "platform-docs",
+      "stargazers_count": 19,
+      "popularity": 2.2577174475727126,
+      "percentage": 0.10775862068965517,
+      "maturity": 3.950197993551954,
+      "total_commits_count": 928,
+      "activity": 5,
+      "total_score": 19.70517583716951,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "hasura/hello-react": {
+      "full_name": "hasura/hello-react",
+      "name": "hello-react",
+      "stargazers_count": 13,
+      "popularity": 2.0828241359374196,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 16,
+      "activity": 2.1388050358941517,
+      "total_score": 8.38727744370641,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "geekysrm/blood-group-db": {
+      "full_name": "geekysrm/blood-group-db",
+      "name": "blood-group-db",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 1.3235617524067371,
+      "total_score": 1.3235617524067371,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "netlify/netlify-cms": {
+      "full_name": "netlify/netlify-cms",
+      "name": "netlify-cms",
+      "stargazers_count": 6264,
+      "popularity": 4.796828433963531,
+      "percentage": 0.054614964500273075,
+      "maturity": 4.254856055748706,
+      "total_commits_count": 1831,
+      "activity": 5,
+      "total_score": 27.934254633290532,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sumodirjo/engineering-blogs": {
+      "full_name": "sumodirjo/engineering-blogs",
+      "name": "engineering-blogs",
+      "stargazers_count": 628,
+      "popularity": 3.797375883195663,
+      "percentage": 0,
+      "maturity": 2.559238720343991,
+      "total_commits_count": 76,
+      "activity": 5,
+      "total_score": 21.51060509027497,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "p-society",
+    "hasura",
+    "netlify"
+  ]
+}

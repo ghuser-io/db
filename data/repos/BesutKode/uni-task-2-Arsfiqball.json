@@ -1,0 +1,74 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "uni-task-2-Arsfiqball",
+  "full_name": "BesutKode/uni-task-2-Arsfiqball",
+  "owner": "BesutKode",
+  "private": false,
+  "html_url": "https://github.com/BesutKode/uni-task-2-Arsfiqball",
+  "description": "uni-task-2-Arsfiqball created by GitHub Classroom",
+  "fork": false,
+  "url": "https://api.github.com/repos/BesutKode/uni-task-2-Arsfiqball",
+  "languages_url": "https://api.github.com/repos/BesutKode/uni-task-2-Arsfiqball/languages",
+  "pulls_url": "https://api.github.com/repos/BesutKode/uni-task-2-Arsfiqball/pulls{/number}",
+  "created_at": "2016-10-28T14:53:19Z",
+  "updated_at": "2017-12-20T07:13:41Z",
+  "pushed_at": "2016-11-15T07:15:21Z",
+  "homepage": "http://besutkode.org/uni-task-2-Arsfiqball",
+  "size": 2882,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "BesutKode",
+    "id": 18556752,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4NTU2NzUy",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/18556752?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/BesutKode",
+    "html_url": "https://github.com/BesutKode",
+    "followers_url": "https://api.github.com/users/BesutKode/followers",
+    "following_url": "https://api.github.com/users/BesutKode/following{/other_user}",
+    "gists_url": "https://api.github.com/users/BesutKode/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/BesutKode/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/BesutKode/subscriptions",
+    "organizations_url": "https://api.github.com/users/BesutKode/orgs",
+    "repos_url": "https://api.github.com/users/BesutKode/repos",
+    "events_url": "https://api.github.com/users/BesutKode/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/BesutKode/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jayvdb": 1,
+    "Arsfiqball": 15
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 13008,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 4721,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 904,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 706,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

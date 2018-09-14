@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "markovify",
+  "full_name": "schollz/markovify",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/markovify",
+  "description": "A simple, extensible Markov chain generator.",
+  "fork": true,
+  "url": "https://api.github.com/repos/schollz/markovify",
+  "languages_url": "https://api.github.com/repos/schollz/markovify/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/markovify/pulls{/number}",
+  "created_at": "2016-07-05T14:02:07Z",
+  "updated_at": "2017-01-30T10:42:00Z",
+  "pushed_at": "2016-07-10T21:06:08Z",
+  "homepage": null,
+  "size": 284,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 1,
+    "kezadias": 1,
+    "ntratcliff": 1,
+    "veggiedefender": 1,
+    "Jaza": 1,
+    "Deimos": 1,
+    "cjmochrie": 1,
+    "avinassh": 1,
+    "orf": 2,
+    "fitnr": 4,
+    "jsvine": 50
+  },
+  "pulls_authors": [
+    "jsvine"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 18965,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:54.538Z"
+}

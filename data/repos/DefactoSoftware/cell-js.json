@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cell-js",
+  "full_name": "DefactoSoftware/cell-js",
+  "owner": "DefactoSoftware",
+  "private": false,
+  "html_url": "https://github.com/DefactoSoftware/cell-js",
+  "description": "Simple solution for binding Javascript to specific templates or side server components",
+  "fork": false,
+  "url": "https://api.github.com/repos/DefactoSoftware/cell-js",
+  "languages_url": "https://api.github.com/repos/DefactoSoftware/cell-js/languages",
+  "created_at": "2017-05-24T08:41:06Z",
+  "updated_at": "2018-09-04T12:53:15Z",
+  "pushed_at": "2018-09-04T12:53:16Z",
+  "homepage": null,
+  "size": 68,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "DefactoSoftware",
+    "id": 3899757,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM4OTk3NTc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/3899757?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/DefactoSoftware",
+    "html_url": "https://github.com/DefactoSoftware",
+    "followers_url": "https://api.github.com/users/DefactoSoftware/followers",
+    "following_url": "https://api.github.com/users/DefactoSoftware/following{/other_user}",
+    "gists_url": "https://api.github.com/users/DefactoSoftware/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/DefactoSoftware/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/DefactoSoftware/subscriptions",
+    "organizations_url": "https://api.github.com/users/DefactoSoftware/orgs",
+    "repos_url": "https://api.github.com/users/DefactoSoftware/repos",
+    "events_url": "https://api.github.com/users/DefactoSoftware/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/DefactoSoftware/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jessedijkstra": 35,
+    "sn3p": 8
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 17994,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 287,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-04T16:02:06.939Z",
+  "pulls_url": "https://api.github.com/repos/DefactoSoftware/cell-js/pulls{/number}",
+  "pulls_authors": [
+    "jessedijkstra",
+    "sn3p"
+  ]
+}

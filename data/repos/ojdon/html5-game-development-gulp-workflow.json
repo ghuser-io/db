@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "html5-game-development-gulp-workflow",
+  "full_name": "ojdon/html5-game-development-gulp-workflow",
+  "owner": "ojdon",
+  "private": false,
+  "html_url": "https://github.com/ojdon/html5-game-development-gulp-workflow",
+  "description": "🎮 A gulp workflow that is optimised for HTML5 Game Developement. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/ojdon/html5-game-development-gulp-workflow",
+  "languages_url": "https://api.github.com/repos/ojdon/html5-game-development-gulp-workflow/languages",
+  "pulls_url": "https://api.github.com/repos/ojdon/html5-game-development-gulp-workflow/pulls{/number}",
+  "created_at": "2015-08-24T20:43:55Z",
+  "updated_at": "2018-03-06T11:44:08Z",
+  "pushed_at": "2016-06-14T13:42:24Z",
+  "homepage": "",
+  "size": 7,
+  "stargazers_count": 12,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jbrooksuk": 1,
+    "ojdon": 9
+  },
+  "pulls_authors": [
+    "jbrooksuk"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2385,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:49.960Z"
+}

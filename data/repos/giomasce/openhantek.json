@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "openhantek",
+  "full_name": "giomasce/openhantek",
+  "owner": "giomasce",
+  "private": false,
+  "html_url": "https://github.com/giomasce/openhantek",
+  "description": "My OpenHantek branch",
+  "fork": true,
+  "url": "https://api.github.com/repos/giomasce/openhantek",
+  "languages_url": "https://api.github.com/repos/giomasce/openhantek/languages",
+  "pulls_url": "https://api.github.com/repos/giomasce/openhantek/pulls{/number}",
+  "created_at": "2014-10-02T10:35:13Z",
+  "updated_at": "2017-10-28T14:43:33Z",
+  "pushed_at": "2016-01-03T22:16:16Z",
+  "homepage": null,
+  "size": 574,
+  "stargazers_count": 3,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "fabiobaltieri": 10
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T05:02:27.410Z"
+}

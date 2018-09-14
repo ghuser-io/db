@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sgNodeMapper",
+  "full_name": "webjay/sgNodeMapper",
+  "owner": "webjay",
+  "private": false,
+  "html_url": "https://github.com/webjay/sgNodeMapper",
+  "description": "\"The Social Graph Node Mapper is a community project to build a portable library to map social networking sites' URLs to and from a new canonical form (sgn:// URLs).\" The project was originally hosted on Google Code.",
+  "fork": false,
+  "url": "https://api.github.com/repos/webjay/sgNodeMapper",
+  "languages_url": "https://api.github.com/repos/webjay/sgNodeMapper/languages",
+  "pulls_url": "https://api.github.com/repos/webjay/sgNodeMapper/pulls{/number}",
+  "created_at": "2009-12-31T02:17:17Z",
+  "updated_at": "2018-07-09T20:23:09Z",
+  "pushed_at": "2012-06-12T07:30:45Z",
+  "homepage": "http://code.google.com/p/google-sgnodemapper/",
+  "size": 1635,
+  "stargazers_count": 5,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "chrismytton": 4
+  },
+  "pulls_authors": [
+    "chrismytton"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 875335,
+      "color": "#89e051"
+    },
+    "JavaScript": {
+      "bytes": 313959,
+      "color": "#f1e05a"
+    },
+    "Perl": {
+      "bytes": 19717,
+      "color": "#0298c3"
+    },
+    "C++": {
+      "bytes": 16758,
+      "color": "#f34b7d"
+    },
+    "Python": {
+      "bytes": 15762,
+      "color": "#3572A5"
+    },
+    "Java": {
+      "bytes": 7632,
+      "color": "#b07219"
+    },
+    "PHP": {
+      "bytes": 1162,
+      "color": "#4F5D95"
+    },
+    "C": {
+      "bytes": 1156,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:49.424Z"
+}

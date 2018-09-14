@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "codeworld-talk",
+  "full_name": "nomeata/codeworld-talk",
+  "owner": "nomeata",
+  "private": false,
+  "html_url": "https://github.com/nomeata/codeworld-talk",
+  "description": "The Codeworld-implemented sildes to my CodeWorld talk",
+  "fork": false,
+  "url": "https://api.github.com/repos/nomeata/codeworld-talk",
+  "languages_url": "https://api.github.com/repos/nomeata/codeworld-talk/languages",
+  "pulls_url": "https://api.github.com/repos/nomeata/codeworld-talk/pulls{/number}",
+  "created_at": "2017-05-18T02:40:48Z",
+  "updated_at": "2018-03-09T17:54:10Z",
+  "pushed_at": "2018-03-09T16:31:17Z",
+  "homepage": null,
+  "size": 25,
+  "stargazers_count": 6,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "nomeata": 14
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Haskell": {
+      "bytes": 68458,
+      "color": "#5e5086"
+    },
+    "Shell": {
+      "bytes": 694,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:05.182Z"
+}

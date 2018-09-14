@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "RW-File-Cache",
+  "full_name": "rapidwebltd/RW-File-Cache",
+  "owner": "rapidwebltd",
+  "private": false,
+  "html_url": "https://github.com/rapidwebltd/RW-File-Cache",
+  "description": "🗄️ PHP File-based Caching Library",
+  "fork": false,
+  "url": "https://api.github.com/repos/rapidwebltd/RW-File-Cache",
+  "languages_url": "https://api.github.com/repos/rapidwebltd/RW-File-Cache/languages",
+  "pulls_url": "https://api.github.com/repos/rapidwebltd/RW-File-Cache/pulls{/number}",
+  "created_at": "2015-11-16T13:19:48Z",
+  "updated_at": "2018-03-06T11:41:11Z",
+  "pushed_at": "2018-03-01T14:06:14Z",
+  "homepage": "",
+  "size": 46,
+  "stargazers_count": 5,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx_id": "LGPL-3.0",
+    "url": "https://api.github.com/licenses/lgpl-3.0",
+    "node_id": "MDc6TGljZW5zZTEy"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "rapidwebltd",
+    "id": 6499606,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY0OTk2MDY=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/6499606?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/rapidwebltd",
+    "html_url": "https://github.com/rapidwebltd",
+    "followers_url": "https://api.github.com/users/rapidwebltd/followers",
+    "following_url": "https://api.github.com/users/rapidwebltd/following{/other_user}",
+    "gists_url": "https://api.github.com/users/rapidwebltd/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/rapidwebltd/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/rapidwebltd/subscriptions",
+    "organizations_url": "https://api.github.com/users/rapidwebltd/orgs",
+    "repos_url": "https://api.github.com/users/rapidwebltd/repos",
+    "events_url": "https://api.github.com/users/rapidwebltd/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/rapidwebltd/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "kirsty-gasston": 2,
+    "jbrooksuk": 5,
+    "DivineOmega": 13
+  },
+  "pulls_authors": [
+    "DivineOmega",
+    "jbrooksuk"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 14810,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:49.131Z"
+}

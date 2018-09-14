@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "exfmt",
+  "full_name": "lpil/exfmt",
+  "owner": "lpil",
+  "private": false,
+  "html_url": "https://github.com/lpil/exfmt",
+  "description": "🌸 An opinionated Elixir source code formatter.",
+  "fork": false,
+  "url": "https://api.github.com/repos/lpil/exfmt",
+  "languages_url": "https://api.github.com/repos/lpil/exfmt/languages",
+  "pulls_url": "https://api.github.com/repos/lpil/exfmt/pulls{/number}",
+  "created_at": "2017-01-24T14:02:22Z",
+  "updated_at": "2018-09-14T03:16:49Z",
+  "pushed_at": "2018-01-19T16:12:46Z",
+  "homepage": "",
+  "size": 348,
+  "stargazers_count": 453,
+  "language": "Elixir",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "matsubara0507": 1,
+    "mikestok": 1,
+    "thetamind": 1,
+    "securingsincity": 1,
+    "binaryseed": 4,
+    "jfornoff": 10,
+    "rgreenjr": 12,
+    "lpil": 183
+  },
+  "pulls_authors": [
+    "matsubara0507",
+    "jfornoff",
+    "Tuxified",
+    "rgreenjr",
+    "mikestok",
+    "lpil",
+    "thetamind",
+    "securingsincity",
+    "binaryseed",
+    "puyo",
+    "kdxu",
+    "ericentin"
+  ],
+  "languages": {
+    "Elixir": {
+      "bytes": 110577,
+      "color": "#6e4a7e"
+    }
+  },
+  "fetched_at": "2018-09-14T09:08:37.076Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-rtmp",
+  "full_name": "superboum/node-rtmp",
+  "owner": "superboum",
+  "private": false,
+  "html_url": "https://github.com/superboum/node-rtmp",
+  "description": "A simple node rtmp server (early dev)",
+  "fork": false,
+  "url": "https://api.github.com/repos/superboum/node-rtmp",
+  "languages_url": "https://api.github.com/repos/superboum/node-rtmp/languages",
+  "pulls_url": "https://api.github.com/repos/superboum/node-rtmp/pulls{/number}",
+  "created_at": "2015-05-12T11:14:47Z",
+  "updated_at": "2017-07-17T05:08:18Z",
+  "pushed_at": "2015-05-13T18:15:29Z",
+  "homepage": null,
+  "size": 106,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "superboum": 10
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6108,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:22.924Z"
+}

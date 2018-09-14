@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "helloDesk",
+  "full_name": "vithalreddy/helloDesk",
+  "owner": "vithalreddy",
+  "private": false,
+  "html_url": "https://github.com/vithalreddy/helloDesk",
+  "description": "Ticket Based Support system using MEAN Stack as Single Page Application using NodeJS Backend",
+  "fork": false,
+  "url": "https://api.github.com/repos/vithalreddy/helloDesk",
+  "languages_url": "https://api.github.com/repos/vithalreddy/helloDesk/languages",
+  "pulls_url": "https://api.github.com/repos/vithalreddy/helloDesk/pulls{/number}",
+  "created_at": "2017-06-06T06:07:08Z",
+  "updated_at": "2018-05-09T02:08:26Z",
+  "pushed_at": "2017-06-13T10:56:14Z",
+  "homepage": "https://github.com/vithalreddy/helloDesk",
+  "size": 2668,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "vithalreddy": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 29560,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 19172,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 13194,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:23.533Z"
+}

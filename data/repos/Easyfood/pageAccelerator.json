@@ -1,0 +1,86 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "sufuf3": 1,
+    "amilajack": 1,
+    "Calinou": 1,
+    "danielmatthew": 1,
+    "RodrigoHahn": 1,
+    "danprince": 3,
+    "xwartz": 3,
+    "michaelmior": 3,
+    "EvandroLG": 56
+  },
+  "name": "pageAccelerator",
+  "full_name": "Easyfood/pageAccelerator",
+  "owner": "Easyfood",
+  "private": false,
+  "html_url": "https://github.com/Easyfood/pageAccelerator",
+  "description": "A very light solution to load web pages faster",
+  "fork": false,
+  "url": "https://api.github.com/repos/Easyfood/pageAccelerator",
+  "languages_url": "https://api.github.com/repos/Easyfood/pageAccelerator/languages",
+  "created_at": "2016-09-09T16:03:36Z",
+  "updated_at": "2018-09-02T14:32:55Z",
+  "pushed_at": "2017-05-02T13:27:17Z",
+  "homepage": "",
+  "size": 42,
+  "stargazers_count": 1224,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "Easyfood",
+    "id": 5430563,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjU0MzA1NjM=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/5430563?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Easyfood",
+    "html_url": "https://github.com/Easyfood",
+    "followers_url": "https://api.github.com/users/Easyfood/followers",
+    "following_url": "https://api.github.com/users/Easyfood/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Easyfood/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Easyfood/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Easyfood/subscriptions",
+    "organizations_url": "https://api.github.com/users/Easyfood/orgs",
+    "repos_url": "https://api.github.com/users/Easyfood/repos",
+    "events_url": "https://api.github.com/users/Easyfood/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Easyfood/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 9121,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1278,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 400,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-03T00:44:28.252Z",
+  "pulls_url": "https://api.github.com/repos/Easyfood/pageAccelerator/pulls{/number}",
+  "pulls_authors": [
+    "sufuf3",
+    "danprince",
+    "xwartz",
+    "amilajack",
+    "Calinou",
+    "michaelmior",
+    "danielmatthew",
+    "RodrigoHahn"
+  ]
+}

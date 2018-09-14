@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "crond",
+  "full_name": "moul/crond",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/crond",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/crond",
+  "languages_url": "https://api.github.com/repos/moul/crond/languages",
+  "pulls_url": "https://api.github.com/repos/moul/crond/pulls{/number}",
+  "created_at": "2016-07-11T07:20:33Z",
+  "updated_at": "2016-07-11T10:54:14Z",
+  "pushed_at": "2016-07-11T07:20:43Z",
+  "homepage": null,
+  "size": 2,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 2021,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:53.819Z"
+}

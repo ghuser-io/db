@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "free-online-competitive-intelligence",
+  "full_name": "SourcingDenis/free-online-competitive-intelligence",
+  "owner": "SourcingDenis",
+  "private": false,
+  "html_url": "https://github.com/SourcingDenis/free-online-competitive-intelligence",
+  "description": "🎉 40+ Online FREE Competitive Intelligence Tools List",
+  "fork": false,
+  "url": "https://api.github.com/repos/SourcingDenis/free-online-competitive-intelligence",
+  "languages_url": "https://api.github.com/repos/SourcingDenis/free-online-competitive-intelligence/languages",
+  "pulls_url": "https://api.github.com/repos/SourcingDenis/free-online-competitive-intelligence/pulls{/number}",
+  "created_at": "2018-03-08T13:53:26Z",
+  "updated_at": "2018-08-12T16:11:47Z",
+  "pushed_at": "2018-03-08T14:40:30Z",
+  "homepage": "",
+  "size": 29,
+  "stargazers_count": 16,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "SourcingDenis": 6
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-08-21T11:33:34.320Z"
+}

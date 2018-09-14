@@ -1,0 +1,116 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "zephir-docs",
+  "full_name": "phalcon/zephir-docs",
+  "owner": "phalcon",
+  "private": false,
+  "html_url": "https://github.com/phalcon/zephir-docs",
+  "description": "Zephir Documentation and website",
+  "fork": false,
+  "url": "https://api.github.com/repos/phalcon/zephir-docs",
+  "languages_url": "https://api.github.com/repos/phalcon/zephir-docs/languages",
+  "pulls_url": "https://api.github.com/repos/phalcon/zephir-docs/pulls{/number}",
+  "created_at": "2013-08-21T03:22:45Z",
+  "updated_at": "2018-09-07T02:46:52Z",
+  "pushed_at": "2018-08-24T07:24:30Z",
+  "homepage": null,
+  "size": 12999,
+  "stargazers_count": 59,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "phalcon",
+    "id": 1221505,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMjE1MDU=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1221505?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/phalcon",
+    "html_url": "https://github.com/phalcon",
+    "followers_url": "https://api.github.com/users/phalcon/followers",
+    "following_url": "https://api.github.com/users/phalcon/following{/other_user}",
+    "gists_url": "https://api.github.com/users/phalcon/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/phalcon/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/phalcon/subscriptions",
+    "organizations_url": "https://api.github.com/users/phalcon/orgs",
+    "repos_url": "https://api.github.com/users/phalcon/repos",
+    "events_url": "https://api.github.com/users/phalcon/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/phalcon/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "resurtm": 1,
+    "SidRoberts": 1,
+    "Green-Cat": 1,
+    "niden": 1,
+    "KorsaR-ZN": 1,
+    "qzfzz": 2,
+    "flip111": 2,
+    "assertchris": 2,
+    "boast": 2,
+    "thecodeassassin": 2,
+    "danhunsaker": 3,
+    "flyingangel": 4,
+    "amnuts": 5,
+    "Chameleon-m": 5,
+    "xutl": 7,
+    "nkt": 9,
+    "sergeyklay": 14,
+    "rigin": 17,
+    "ovr": 20,
+    "andresgutierrez": 62
+  },
+  "pulls_authors": [
+    "flyingangel",
+    "danhunsaker",
+    "rigin",
+    "qzfzz",
+    "sergeyklay",
+    "resurtm",
+    "SidRoberts",
+    "flip111",
+    "Green-Cat",
+    "andresgutierrez",
+    "ovr",
+    "amnuts",
+    "KorsaR-ZN",
+    "ghost",
+    "AveVlad",
+    "nkt",
+    "Chameleon-m",
+    "assertchris",
+    "doit76",
+    "boast",
+    "thecodeassassin"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 26636,
+      "color": "#563d7c"
+    },
+    "Python": {
+      "bytes": 24140,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 16910,
+      "color": "#427819"
+    },
+    "Batchfile": {
+      "bytes": 15372,
+      "color": "#C1F12E"
+    },
+    "HTML": {
+      "bytes": 9266,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 1080,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:49.742Z"
+}

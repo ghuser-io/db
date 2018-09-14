@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Windows-Lock-Mute",
+  "full_name": "schmich/Windows-Lock-Mute",
+  "owner": "schmich",
+  "private": false,
+  "html_url": "https://github.com/schmich/Windows-Lock-Mute",
+  "description": "Automatically mute Windows when you lock your workstation.",
+  "fork": false,
+  "url": "https://api.github.com/repos/schmich/Windows-Lock-Mute",
+  "languages_url": "https://api.github.com/repos/schmich/Windows-Lock-Mute/languages",
+  "pulls_url": "https://api.github.com/repos/schmich/Windows-Lock-Mute/pulls{/number}",
+  "created_at": "2015-01-07T23:28:58Z",
+  "updated_at": "2015-01-16T09:08:26Z",
+  "pushed_at": "2015-01-16T09:08:26Z",
+  "homepage": "",
+  "size": 936,
+  "stargazers_count": 1,
+  "language": "PowerShell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schmich": 14
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PowerShell": {
+      "bytes": 2828,
+      "color": "#012456"
+    },
+    "Shell": {
+      "bytes": 556,
+      "color": "#89e051"
+    },
+    "Visual Basic": {
+      "bytes": 249,
+      "color": "#945db7"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:23.962Z"
+}

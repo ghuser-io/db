@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "require.lua",
+  "full_name": "pygy/require.lua",
+  "owner": "pygy",
+  "private": false,
+  "html_url": "https://github.com/pygy/require.lua",
+  "description": "`require()` rewritten in plain Lua",
+  "fork": false,
+  "url": "https://api.github.com/repos/pygy/require.lua",
+  "languages_url": "https://api.github.com/repos/pygy/require.lua/languages",
+  "pulls_url": "https://api.github.com/repos/pygy/require.lua/pulls{/number}",
+  "created_at": "2014-06-25T00:32:34Z",
+  "updated_at": "2018-07-22T23:59:58Z",
+  "pushed_at": "2018-03-12T10:24:18Z",
+  "homepage": null,
+  "size": 13,
+  "stargazers_count": 32,
+  "language": "Lua",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "boucman": 1,
+    "tst2005": 1,
+    "pygy": 23
+  },
+  "pulls_authors": [
+    "TiagoDanin",
+    "tst2005",
+    "boucman",
+    "pygy"
+  ],
+  "languages": {
+    "Lua": {
+      "bytes": 3168,
+      "color": "#000080"
+    }
+  },
+  "fetched_at": "2018-08-12T17:48:20.581Z"
+}

@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "boot2docker",
+  "full_name": "moul/boot2docker",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/boot2docker",
+  "description": "Lightweight Linux for Docker",
+  "fork": true,
+  "url": "https://api.github.com/repos/moul/boot2docker",
+  "languages_url": "https://api.github.com/repos/moul/boot2docker/languages",
+  "pulls_url": "https://api.github.com/repos/moul/boot2docker/pulls{/number}",
+  "created_at": "2014-01-21T00:35:33Z",
+  "updated_at": "2014-02-05T23:57:40Z",
+  "pushed_at": "2014-02-05T23:57:40Z",
+  "homepage": "",
+  "size": 386,
+  "stargazers_count": 1,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "roylee17": 1,
+    "amacneil": 1,
+    "sanrodari": 1,
+    "wangchuan3533": 1,
+    "chrismytton": 1,
+    "brandonparsons": 1,
+    "mdkent": 1,
+    "unclejack": 1,
+    "benjojo": 1,
+    "jpetazzo": 1,
+    "erikj": 1,
+    "archiloque": 1,
+    "dol": 2,
+    "proppy": 2,
+    "moul": 3,
+    "bbeardsley": 4,
+    "eugeneware": 5,
+    "tianon": 7,
+    "aheissenberger": 10,
+    "SvenDowideit": 22,
+    "steeve": 43
+  },
+  "pulls_authors": [
+    "csabapalfi"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 13974,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:54.971Z"
+}

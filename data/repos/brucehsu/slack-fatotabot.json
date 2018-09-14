@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "slack-fatotabot",
+  "full_name": "brucehsu/slack-fatotabot",
+  "owner": "brucehsu",
+  "private": false,
+  "html_url": "https://github.com/brucehsu/slack-fatotabot",
+  "description": "肥宅霸關心您的健康",
+  "fork": false,
+  "url": "https://api.github.com/repos/brucehsu/slack-fatotabot",
+  "languages_url": "https://api.github.com/repos/brucehsu/slack-fatotabot/languages",
+  "pulls_url": "https://api.github.com/repos/brucehsu/slack-fatotabot/pulls{/number}",
+  "created_at": "2017-08-23T06:44:20Z",
+  "updated_at": "2017-08-23T06:47:37Z",
+  "pushed_at": "2017-08-26T05:26:40Z",
+  "homepage": null,
+  "size": 6,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "brucehsu": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 6666,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:04.949Z"
+}

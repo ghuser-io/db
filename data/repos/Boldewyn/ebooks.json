@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ebooks",
+  "full_name": "Boldewyn/ebooks",
+  "owner": "Boldewyn",
+  "private": false,
+  "html_url": "https://github.com/Boldewyn/ebooks",
+  "description": "HTML5 eBooks plus comfortable reading",
+  "fork": false,
+  "url": "https://api.github.com/repos/Boldewyn/ebooks",
+  "languages_url": "https://api.github.com/repos/Boldewyn/ebooks/languages",
+  "pulls_url": "https://api.github.com/repos/Boldewyn/ebooks/pulls{/number}",
+  "created_at": "2011-02-06T22:48:41Z",
+  "updated_at": "2017-09-30T21:35:32Z",
+  "pushed_at": "2017-11-02T21:49:31Z",
+  "homepage": "http://boldewyn.github.com/ebooks/",
+  "size": 114886,
+  "stargazers_count": 5,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Boldewyn": 304
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 12210026,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 254740,
+      "color": "#3572A5"
+    },
+    "XSLT": {
+      "bytes": 35221,
+      "color": "#EB8CEB"
+    },
+    "JavaScript": {
+      "bytes": 23419,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 15168,
+      "color": "#563d7c"
+    },
+    "Makefile": {
+      "bytes": 3906,
+      "color": "#427819"
+    },
+    "Vim script": {
+      "bytes": 1755,
+      "color": "#199f4b"
+    },
+    "Java": {
+      "bytes": 675,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-12T04:57:51.870Z"
+}

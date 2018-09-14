@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "modclean",
+  "full_name": "ModClean/modclean",
+  "owner": "ModClean",
+  "private": false,
+  "html_url": "https://github.com/ModClean/modclean",
+  "description": "Remove unwanted files and directories from your node_modules folder",
+  "fork": false,
+  "url": "https://api.github.com/repos/ModClean/modclean",
+  "languages_url": "https://api.github.com/repos/ModClean/modclean/languages",
+  "pulls_url": "https://api.github.com/repos/ModClean/modclean/pulls{/number}",
+  "created_at": "2015-04-21T16:41:43Z",
+  "updated_at": "2018-09-12T07:01:03Z",
+  "pushed_at": "2018-05-23T17:52:23Z",
+  "homepage": null,
+  "size": 147,
+  "stargazers_count": 223,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ModClean",
+    "id": 24984013,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI0OTg0MDEz",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/24984013?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ModClean",
+    "html_url": "https://github.com/ModClean",
+    "followers_url": "https://api.github.com/users/ModClean/followers",
+    "following_url": "https://api.github.com/users/ModClean/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ModClean/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ModClean/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ModClean/subscriptions",
+    "organizations_url": "https://api.github.com/users/ModClean/orgs",
+    "repos_url": "https://api.github.com/users/ModClean/repos",
+    "events_url": "https://api.github.com/users/ModClean/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ModClean/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "OP-ShananHolm": 1,
+    "MikeKovarik": 1,
+    "KyleRoss": 86
+  },
+  "pulls_authors": [
+    "jehy",
+    "OP-ShananHolm",
+    "ben8p",
+    "KyleRoss",
+    "MikeKovarik"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 27673,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:37:10.253Z"
+}

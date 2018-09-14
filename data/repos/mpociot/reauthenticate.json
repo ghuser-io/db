@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "reauthenticate",
+  "full_name": "mpociot/reauthenticate",
+  "owner": "mpociot",
+  "private": false,
+  "html_url": "https://github.com/mpociot/reauthenticate",
+  "description": "Reauthenticate users by letting them re-enter their passwords for specific parts of your app.",
+  "fork": false,
+  "url": "https://api.github.com/repos/mpociot/reauthenticate",
+  "languages_url": "https://api.github.com/repos/mpociot/reauthenticate/languages",
+  "pulls_url": "https://api.github.com/repos/mpociot/reauthenticate/pulls{/number}",
+  "created_at": "2015-11-10T20:59:25Z",
+  "updated_at": "2018-09-14T08:03:02Z",
+  "pushed_at": "2018-07-29T18:45:41Z",
+  "homepage": null,
+  "size": 33,
+  "stargazers_count": 268,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jbrooksuk": 1,
+    "svenluijten": 3,
+    "dbohn": 3,
+    "crynobone": 5,
+    "vinkla": 6,
+    "mpociot": 13
+  },
+  "pulls_authors": [
+    "MadMikeyB",
+    "svenluijten",
+    "dbohn",
+    "mpociot",
+    "crynobone",
+    "vinkla",
+    "jbrooksuk"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 11696,
+      "color": "#4F5D95"
+    },
+    "HTML": {
+      "bytes": 2030,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-14T08:30:52.926Z"
+}

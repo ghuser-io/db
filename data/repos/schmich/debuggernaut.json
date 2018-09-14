@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "debuggernaut",
+  "full_name": "schmich/debuggernaut",
+  "owner": "schmich",
+  "private": false,
+  "html_url": "https://github.com/schmich/debuggernaut",
+  "description": "Win32 debug output manager.",
+  "fork": false,
+  "url": "https://api.github.com/repos/schmich/debuggernaut",
+  "languages_url": "https://api.github.com/repos/schmich/debuggernaut/languages",
+  "pulls_url": "https://api.github.com/repos/schmich/debuggernaut/pulls{/number}",
+  "created_at": "2012-05-31T13:04:25Z",
+  "updated_at": "2014-05-22T02:58:39Z",
+  "pushed_at": "2012-05-31T13:48:46Z",
+  "homepage": null,
+  "size": 360,
+  "stargazers_count": 1,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "schmich": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 116377,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:28.061Z"
+}

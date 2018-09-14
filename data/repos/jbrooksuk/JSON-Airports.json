@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "JSON-Airports",
+  "full_name": "jbrooksuk/JSON-Airports",
+  "owner": "jbrooksuk",
+  "private": false,
+  "html_url": "https://github.com/jbrooksuk/JSON-Airports",
+  "description": "A JSON array of Airport names, IATA code and location",
+  "fork": false,
+  "url": "https://api.github.com/repos/jbrooksuk/JSON-Airports",
+  "languages_url": "https://api.github.com/repos/jbrooksuk/JSON-Airports/languages",
+  "pulls_url": "https://api.github.com/repos/jbrooksuk/JSON-Airports/pulls{/number}",
+  "created_at": "2011-10-31T10:42:40Z",
+  "updated_at": "2018-08-05T03:42:10Z",
+  "pushed_at": "2015-06-24T19:27:00Z",
+  "homepage": "http://bluebaytravel.co.uk",
+  "size": 1291,
+  "stargazers_count": 200,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "matiassingers": 1,
+    "nicolasbettag": 1,
+    "luizpedone": 2,
+    "jbrooksuk": 9
+  },
+  "pulls_authors": [
+    "mgaitan",
+    "matiassingers",
+    "nicolasbettag",
+    "luizpedone",
+    "jmbredal"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-12T07:34:51.645Z"
+}

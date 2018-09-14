@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "seneca-loadbalance-transport",
+  "full_name": "mmalecki/seneca-loadbalance-transport",
+  "owner": "mmalecki",
+  "private": false,
+  "html_url": "https://github.com/mmalecki/seneca-loadbalance-transport",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/mmalecki/seneca-loadbalance-transport",
+  "languages_url": "https://api.github.com/repos/mmalecki/seneca-loadbalance-transport/languages",
+  "pulls_url": "https://api.github.com/repos/mmalecki/seneca-loadbalance-transport/pulls{/number}",
+  "created_at": "2014-06-30T16:45:33Z",
+  "updated_at": "2017-03-12T14:20:20Z",
+  "pushed_at": "2015-07-07T23:36:27Z",
+  "homepage": null,
+  "size": 359,
+  "stargazers_count": 7,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rjrodger": 1,
+    "mmalecki": 46
+  },
+  "pulls_authors": [
+    "zojeda",
+    "chico"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 12575,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:35.364Z"
+}

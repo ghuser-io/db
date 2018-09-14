@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "speech2text",
+  "full_name": "taf2/speech2text",
+  "owner": "taf2",
+  "private": false,
+  "html_url": "https://github.com/taf2/speech2text",
+  "description": "Using Google Speech to Text API  Provide a Simple Interface to Convert Audio Files",
+  "fork": false,
+  "url": "https://api.github.com/repos/taf2/speech2text",
+  "languages_url": "https://api.github.com/repos/taf2/speech2text/languages",
+  "pulls_url": "https://api.github.com/repos/taf2/speech2text/pulls{/number}",
+  "created_at": "2011-03-24T21:40:32Z",
+  "updated_at": "2018-07-07T05:58:47Z",
+  "pushed_at": "2013-03-12T14:59:12Z",
+  "homepage": "http://calltrackingmetrics.com/",
+  "size": 2098,
+  "stargazers_count": 334,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "tboyko": 1,
+    "Ases": 1,
+    "jcla1": 1,
+    "l3thal": 5,
+    "taf2": 27
+  },
+  "pulls_authors": [
+    "Seanny123",
+    "l3thal",
+    "tboyko",
+    "Ases",
+    "jcla1",
+    "jpschewe"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 13209,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:09.926Z"
+}

@@ -1,0 +1,68 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ci-bully",
+  "full_name": "hellofresh/ci-bully",
+  "owner": "hellofresh",
+  "private": false,
+  "html_url": "https://github.com/hellofresh/ci-bully",
+  "description": "CI bully is a go program that will warn and close github PRs that are long living",
+  "fork": true,
+  "url": "https://api.github.com/repos/hellofresh/ci-bully",
+  "languages_url": "https://api.github.com/repos/hellofresh/ci-bully/languages",
+  "created_at": "2017-10-16T15:43:42Z",
+  "updated_at": "2017-10-24T02:26:20Z",
+  "pushed_at": "2018-01-23T15:54:32Z",
+  "homepage": null,
+  "size": 20,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "hellofresh",
+    "id": 4430027,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MzAwMjc=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/4430027?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hellofresh",
+    "html_url": "https://github.com/hellofresh",
+    "followers_url": "https://api.github.com/users/hellofresh/followers",
+    "following_url": "https://api.github.com/users/hellofresh/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hellofresh/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hellofresh/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hellofresh/subscriptions",
+    "organizations_url": "https://api.github.com/users/hellofresh/orgs",
+    "repos_url": "https://api.github.com/users/hellofresh/repos",
+    "events_url": "https://api.github.com/users/hellofresh/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hellofresh/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "DiSiqueira": 7,
+    "ahelal": 10
+  },
+  "languages": {
+    "Go": {
+      "bytes": 9314,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 3391,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/hellofresh/ci-bully/pulls{/number}",
+  "pulls_authors": [
+    "DiSiqueira"
+  ]
+}

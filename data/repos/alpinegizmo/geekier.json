@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "geekier",
+  "full_name": "alpinegizmo/geekier",
+  "owner": "alpinegizmo",
+  "private": false,
+  "html_url": "https://github.com/alpinegizmo/geekier",
+  "description": "connect all the APIs",
+  "fork": false,
+  "url": "https://api.github.com/repos/alpinegizmo/geekier",
+  "languages_url": "https://api.github.com/repos/alpinegizmo/geekier/languages",
+  "pulls_url": "https://api.github.com/repos/alpinegizmo/geekier/pulls{/number}",
+  "created_at": "2012-11-30T10:20:42Z",
+  "updated_at": "2018-07-10T01:06:46Z",
+  "pushed_at": "2017-07-13T23:20:32Z",
+  "homepage": null,
+  "size": 288,
+  "stargazers_count": 175,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "kdykes": 1,
+    "cmw": 3,
+    "alpinegizmo": 6
+  },
+  "pulls_authors": [
+    "aloisdg",
+    "bryant1410"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-12T04:56:07.663Z"
+}

@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nat-puncher",
+  "full_name": "mkg20001/nat-puncher",
+  "owner": "mkg20001",
+  "private": false,
+  "html_url": "https://github.com/mkg20001/nat-puncher",
+  "description": "Opens ports through a NAT with NAT-PMP, PCP, and UPnP",
+  "fork": true,
+  "url": "https://api.github.com/repos/mkg20001/nat-puncher",
+  "languages_url": "https://api.github.com/repos/mkg20001/nat-puncher/languages",
+  "pulls_url": "https://api.github.com/repos/mkg20001/nat-puncher/pulls{/number}",
+  "created_at": "2018-02-13T16:11:46Z",
+  "updated_at": "2018-08-06T09:03:43Z",
+  "pushed_at": "2018-02-13T17:58:10Z",
+  "homepage": null,
+  "size": 103,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "bemasc": 3,
+    "mkg20001": 5,
+    "kennysong": 67
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 58205,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:37.180Z"
+}

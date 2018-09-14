@@ -1,0 +1,124 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vim-awesome",
+  "full_name": "vim-awesome/vim-awesome",
+  "owner": "vim-awesome",
+  "private": false,
+  "html_url": "https://github.com/vim-awesome/vim-awesome",
+  "description": "Awesome Vim plugins from across the universe",
+  "fork": false,
+  "url": "https://api.github.com/repos/vim-awesome/vim-awesome",
+  "languages_url": "https://api.github.com/repos/vim-awesome/vim-awesome/languages",
+  "pulls_url": "https://api.github.com/repos/vim-awesome/vim-awesome/pulls{/number}",
+  "created_at": "2013-05-27T02:57:40Z",
+  "updated_at": "2018-09-10T15:18:42Z",
+  "pushed_at": "2018-08-24T22:39:38Z",
+  "homepage": "http://vimawesome.com",
+  "size": 4215,
+  "stargazers_count": 1348,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "vim-awesome",
+    "id": 18372596,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4MzcyNTk2",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/18372596?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/vim-awesome",
+    "html_url": "https://github.com/vim-awesome",
+    "followers_url": "https://api.github.com/users/vim-awesome/followers",
+    "following_url": "https://api.github.com/users/vim-awesome/following{/other_user}",
+    "gists_url": "https://api.github.com/users/vim-awesome/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/vim-awesome/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/vim-awesome/subscriptions",
+    "organizations_url": "https://api.github.com/users/vim-awesome/orgs",
+    "repos_url": "https://api.github.com/users/vim-awesome/repos",
+    "events_url": "https://api.github.com/users/vim-awesome/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/vim-awesome/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "i-give-up": 1,
+    "andrew": 1,
+    "denisinla": 1,
+    "morhetz": 1,
+    "julen": 1,
+    "aaronmiler": 1,
+    "NoahFisher": 2,
+    "JGulbronson": 2,
+    "pawel-slowik": 4,
+    "andyzg": 6,
+    "greenkeeperio-bot": 7,
+    "xymostech": 9,
+    "jonafato": 10,
+    "sophiebits": 28,
+    "captbaritone": 106,
+    "divad12": 247
+  },
+  "pulls_authors": [
+    "NoahFisher",
+    "therealplato",
+    "unclechu",
+    "pawel-slowik",
+    "i-give-up",
+    "captbaritone",
+    "DrewBarrett",
+    "greenkeeperio-bot",
+    "deltaxflux",
+    "jonafato",
+    "andrew",
+    "divad12",
+    "sophiebits",
+    "denisinla",
+    "delirehberi",
+    "morhetz",
+    "josuelima",
+    "andyzg",
+    "julen",
+    "JGulbronson",
+    "emilecantin",
+    "L-P",
+    "aaronmiler"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 125086,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 66937,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 63395,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 3593,
+      "color": "#89e051"
+    },
+    "HTML": {
+      "bytes": 1788,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 1623,
+      "color": "#427819"
+    },
+    "Ruby": {
+      "bytes": 765,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:34.209Z"
+}

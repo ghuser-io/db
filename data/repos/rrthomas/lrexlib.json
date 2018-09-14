@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "lrexlib",
+  "full_name": "rrthomas/lrexlib",
+  "owner": "rrthomas",
+  "private": false,
+  "html_url": "https://github.com/rrthomas/lrexlib",
+  "description": "a Lua 5.1–5.3 binding of various regex library APIs (POSIX, PCRE, PCRE2, GNU, Oniguruma and TRE)",
+  "fork": false,
+  "url": "https://api.github.com/repos/rrthomas/lrexlib",
+  "languages_url": "https://api.github.com/repos/rrthomas/lrexlib/languages",
+  "pulls_url": "https://api.github.com/repos/rrthomas/lrexlib/pulls{/number}",
+  "created_at": "2010-07-26T13:49:11Z",
+  "updated_at": "2018-08-20T18:39:59Z",
+  "pushed_at": "2018-07-16T08:23:01Z",
+  "homepage": "",
+  "size": 681,
+  "stargazers_count": 93,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jayvdb": 1,
+    "tautschnig": 1,
+    "shmuz": 52,
+    "rrthomas": 153
+  },
+  "pulls_authors": [
+    "SudoBobo",
+    "starwing",
+    "jayvdb",
+    "tautschnig"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 135939,
+      "color": "#555555"
+    },
+    "Lua": {
+      "bytes": 71870,
+      "color": "#000080"
+    },
+    "C++": {
+      "bytes": 23078,
+      "color": "#f34b7d"
+    },
+    "Makefile": {
+      "bytes": 7443,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-08-21T02:25:23.326Z"
+}

@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hucore",
+  "full_name": "mgjohansen/hucore",
+  "owner": "mgjohansen",
+  "private": false,
+  "html_url": "https://github.com/mgjohansen/hucore",
+  "description": "Minimal blog theme for hugo based on Hemingway2",
+  "fork": false,
+  "url": "https://api.github.com/repos/mgjohansen/hucore",
+  "languages_url": "https://api.github.com/repos/mgjohansen/hucore/languages",
+  "created_at": "2017-03-06T07:51:10Z",
+  "updated_at": "2018-09-03T04:54:50Z",
+  "pushed_at": "2018-07-13T12:20:24Z",
+  "homepage": null,
+  "size": 466,
+  "stargazers_count": 65,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "zhyuri": 2,
+    "japaric": 2,
+    "mgjohansen": 16
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 8024,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 2012,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 523,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-03T12:57:17.529Z",
+  "pulls_url": "https://api.github.com/repos/mgjohansen/hucore/pulls{/number}",
+  "pulls_authors": [
+    "itaditya",
+    "stratonaut",
+    "tmo-github",
+    "ritchie46",
+    "mtn",
+    "tcbtcb",
+    "alvr",
+    "fmaida",
+    "brianegan",
+    "zhyuri",
+    "zeakey",
+    "japaric"
+  ]
+}

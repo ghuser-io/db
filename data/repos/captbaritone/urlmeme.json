@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "urlmeme",
+  "full_name": "captbaritone/urlmeme",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/urlmeme",
+  "description": "A meme generator where the URL is the user interface",
+  "fork": false,
+  "url": "https://api.github.com/repos/captbaritone/urlmeme",
+  "languages_url": "https://api.github.com/repos/captbaritone/urlmeme/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/urlmeme/pulls{/number}",
+  "created_at": "2015-09-03T20:11:18Z",
+  "updated_at": "2018-09-02T04:33:47Z",
+  "pushed_at": "2018-03-15T22:37:15Z",
+  "homepage": "http://urlme.me",
+  "size": 8126,
+  "stargazers_count": 91,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "lamby": 1,
+    "fitbitBruce": 1,
+    "seanlane": 1,
+    "jaredforshey": 1,
+    "captbaritone": 88
+  },
+  "pulls_authors": [
+    "lamby",
+    "brlewis",
+    "seanlane",
+    "jaredforshey",
+    "jasonbot"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 28973,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 15107,
+      "color": "#563d7c"
+    },
+    "Python": {
+      "bytes": 13953,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 7677,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 226,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 165,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:35.549Z"
+}

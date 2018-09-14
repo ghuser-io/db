@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "learning-plan",
+  "full_name": "amitness/learning-plan",
+  "owner": "amitness",
+  "private": false,
+  "html_url": "https://github.com/amitness/learning-plan",
+  "description": "Learning plan to become a better developer.",
+  "fork": false,
+  "url": "https://api.github.com/repos/amitness/learning-plan",
+  "languages_url": "https://api.github.com/repos/amitness/learning-plan/languages",
+  "pulls_url": "https://api.github.com/repos/amitness/learning-plan/pulls{/number}",
+  "created_at": "2017-11-26T17:37:44Z",
+  "updated_at": "2018-09-13T11:47:30Z",
+  "pushed_at": "2018-09-13T11:47:28Z",
+  "homepage": "",
+  "size": 82,
+  "stargazers_count": 22,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "amitness": 94
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-13T16:23:11.700Z"
+}

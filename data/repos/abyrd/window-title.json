@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "window-title",
+  "full_name": "abyrd/window-title",
+  "owner": "abyrd",
+  "private": false,
+  "html_url": "https://github.com/abyrd/window-title",
+  "description": "automated time tracking using window titles",
+  "fork": false,
+  "url": "https://api.github.com/repos/abyrd/window-title",
+  "languages_url": "https://api.github.com/repos/abyrd/window-title/languages",
+  "pulls_url": "https://api.github.com/repos/abyrd/window-title/pulls{/number}",
+  "created_at": "2013-03-14T17:44:03Z",
+  "updated_at": "2018-06-13T17:05:51Z",
+  "pushed_at": "2018-01-04T15:00:50Z",
+  "homepage": null,
+  "size": 9,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "waldyrious": 1,
+    "nomeata": 1,
+    "abyrd": 6
+  },
+  "pulls_authors": [
+    "nomeata",
+    "waldyrious"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 6672,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:10.456Z"
+}

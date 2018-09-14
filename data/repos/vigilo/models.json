@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "models",
+  "full_name": "vigilo/models",
+  "owner": "vigilo",
+  "private": false,
+  "html_url": "https://github.com/vigilo/models",
+  "description": "Database models for Vigilo",
+  "fork": false,
+  "url": "https://api.github.com/repos/vigilo/models",
+  "languages_url": "https://api.github.com/repos/vigilo/models/languages",
+  "pulls_url": "https://api.github.com/repos/vigilo/models/pulls{/number}",
+  "created_at": "2015-07-12T16:06:30Z",
+  "updated_at": "2018-09-12T01:25:55Z",
+  "pushed_at": "2018-09-12T01:25:54Z",
+  "homepage": "https://www.vigilo-nms.org/",
+  "size": 1153,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "develop",
+  "organization": {
+    "login": "vigilo",
+    "id": 3083424,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMwODM0MjQ=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/3083424?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/vigilo",
+    "html_url": "https://github.com/vigilo",
+    "followers_url": "https://api.github.com/users/vigilo/followers",
+    "following_url": "https://api.github.com/users/vigilo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/vigilo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/vigilo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/vigilo/subscriptions",
+    "organizations_url": "https://api.github.com/users/vigilo/orgs",
+    "repos_url": "https://api.github.com/users/vigilo/repos",
+    "events_url": "https://api.github.com/users/vigilo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/vigilo/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ToToL": 1,
+    "tburguie": 27,
+    "vquemener": 31,
+    "fpoirotte": 391
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 503825,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 9459,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 530,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:27.135Z"
+}

@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "brainza-fps-unity3d-game",
+  "full_name": "kamranahmedse/brainza-fps-unity3d-game",
+  "owner": "kamranahmedse",
+  "private": false,
+  "html_url": "https://github.com/kamranahmedse/brainza-fps-unity3d-game",
+  "description": "First person shooter 3d game.",
+  "fork": false,
+  "url": "https://api.github.com/repos/kamranahmedse/brainza-fps-unity3d-game",
+  "languages_url": "https://api.github.com/repos/kamranahmedse/brainza-fps-unity3d-game/languages",
+  "pulls_url": "https://api.github.com/repos/kamranahmedse/brainza-fps-unity3d-game/pulls{/number}",
+  "created_at": "2013-09-28T06:04:55Z",
+  "updated_at": "2018-08-17T08:32:03Z",
+  "pushed_at": "2013-09-28T06:38:54Z",
+  "homepage": "",
+  "size": 26480,
+  "stargazers_count": 15,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "kamranahmedse": 2
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T07:35:41.995Z"
+}

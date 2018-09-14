@@ -1,0 +1,62 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "alokmenghrajani.github.com",
+  "full_name": "captbaritone/alokmenghrajani.github.com",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/alokmenghrajani.github.com",
+  "description": "Alok Menghrajani's Blog",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/alokmenghrajani.github.com",
+  "languages_url": "https://api.github.com/repos/captbaritone/alokmenghrajani.github.com/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/alokmenghrajani.github.com/pulls{/number}",
+  "created_at": "2016-12-03T00:22:58Z",
+  "updated_at": "2018-07-29T21:56:54Z",
+  "pushed_at": "2016-11-26T09:21:26Z",
+  "homepage": "http://quaxio.com/",
+  "size": 88988,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "vrana": 1,
+    "bradyellison": 1,
+    "p01": 1,
+    "alokmenghrajani": 183
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1993014,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1003296,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 15180,
+      "color": "#563d7c"
+    },
+    "PHP": {
+      "bytes": 9003,
+      "color": "#4F5D95"
+    },
+    "Assembly": {
+      "bytes": 4059,
+      "color": "#6E4C13"
+    },
+    "Ruby": {
+      "bytes": 3453,
+      "color": "#701516"
+    },
+    "Prolog": {
+      "bytes": 1900,
+      "color": "#74283c"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:46.322Z"
+}

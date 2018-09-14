@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Bulk-goo.gl-shorter",
+  "full_name": "anantjain6/Bulk-goo.gl-shorter",
+  "owner": "anantjain6",
+  "private": false,
+  "html_url": "https://github.com/anantjain6/Bulk-goo.gl-shorter",
+  "description": "Short your URLs in bulk from Google URL shorting service (https://goo.gl) via PHP and API of goo.gl",
+  "fork": false,
+  "url": "https://api.github.com/repos/anantjain6/Bulk-goo.gl-shorter",
+  "languages_url": "https://api.github.com/repos/anantjain6/Bulk-goo.gl-shorter/languages",
+  "created_at": "2017-05-30T13:36:41Z",
+  "updated_at": "2018-01-31T23:03:43Z",
+  "pushed_at": "2017-05-30T13:40:22Z",
+  "homepage": null,
+  "size": 1,
+  "stargazers_count": 1,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "anantjain6": 2
+  },
+  "languages": {
+    "PHP": {
+      "bytes": 3102,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-07-29T00:23:03.240Z",
+  "pulls_url": "https://api.github.com/repos/anantjain6/Bulk-goo.gl-shorter/pulls{/number}",
+  "pulls_authors": []
+}

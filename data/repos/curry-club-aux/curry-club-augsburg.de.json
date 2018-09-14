@@ -1,0 +1,104 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "curry-club-augsburg.de",
+  "full_name": "curry-club-aux/curry-club-augsburg.de",
+  "owner": "curry-club-aux",
+  "private": false,
+  "html_url": "https://github.com/curry-club-aux/curry-club-augsburg.de",
+  "description": "Our Website",
+  "fork": false,
+  "url": "https://api.github.com/repos/curry-club-aux/curry-club-augsburg.de",
+  "languages_url": "https://api.github.com/repos/curry-club-aux/curry-club-augsburg.de/languages",
+  "pulls_url": "https://api.github.com/repos/curry-club-aux/curry-club-augsburg.de/pulls{/number}",
+  "created_at": "2015-03-16T15:46:39Z",
+  "updated_at": "2018-09-07T11:51:13Z",
+  "pushed_at": "2018-09-07T11:57:34Z",
+  "homepage": "http://curry-club-aux.github.io/curry-club-augsburg.de/",
+  "size": 33763,
+  "stargazers_count": 16,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "curry-club-aux",
+    "id": 11505549,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExNTA1NTQ5",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/11505549?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/curry-club-aux",
+    "html_url": "https://github.com/curry-club-aux",
+    "followers_url": "https://api.github.com/users/curry-club-aux/followers",
+    "following_url": "https://api.github.com/users/curry-club-aux/following{/other_user}",
+    "gists_url": "https://api.github.com/users/curry-club-aux/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/curry-club-aux/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/curry-club-aux/subscriptions",
+    "organizations_url": "https://api.github.com/users/curry-club-aux/orgs",
+    "repos_url": "https://api.github.com/users/curry-club-aux/repos",
+    "events_url": "https://api.github.com/users/curry-club-aux/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/curry-club-aux/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "makarius": 1,
+    "shak-mar": 1,
+    "aszlig": 2,
+    "diekmann": 5,
+    "larsrh": 5,
+    "uwap": 6,
+    "maxhbr": 11,
+    "MatthiasHu": 17,
+    "sternenseemann": 45,
+    "Profpatsch": 65,
+    "iblech": 182,
+    "timjb": 211
+  },
+  "pulls_authors": [
+    "uwap",
+    "fkarg",
+    "Profpatsch",
+    "sternenseemann",
+    "larsrh",
+    "iblech",
+    "timjb"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 24435,
+      "color": "#e34c26"
+    },
+    "Haskell": {
+      "bytes": 21831,
+      "color": "#5e5086"
+    },
+    "TeX": {
+      "bytes": 9352,
+      "color": "#3D6117"
+    },
+    "CSS": {
+      "bytes": 6729,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 1976,
+      "color": "#89e051"
+    },
+    "Nix": {
+      "bytes": 1664,
+      "color": "#7e7eff"
+    },
+    "Isabelle": {
+      "bytes": 1333,
+      "color": "#FEFE00"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:41.745Z"
+}

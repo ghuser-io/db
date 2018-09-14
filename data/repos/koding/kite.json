@@ -1,0 +1,117 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "kite",
+  "full_name": "koding/kite",
+  "owner": "koding",
+  "private": false,
+  "html_url": "https://github.com/koding/kite",
+  "description": "Micro-service framework in Go",
+  "fork": false,
+  "url": "https://api.github.com/repos/koding/kite",
+  "languages_url": "https://api.github.com/repos/koding/kite/languages",
+  "created_at": "2014-02-20T21:14:43Z",
+  "updated_at": "2018-09-13T10:46:29Z",
+  "pushed_at": "2018-07-10T02:13:50Z",
+  "homepage": "https://godoc.org/github.com/koding/kite",
+  "size": 4238,
+  "stargazers_count": 2076,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "koding",
+    "id": 1066754,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNjY3NTQ=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/1066754?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/koding",
+    "html_url": "https://github.com/koding",
+    "followers_url": "https://api.github.com/users/koding/followers",
+    "following_url": "https://api.github.com/users/koding/following{/other_user}",
+    "gists_url": "https://api.github.com/users/koding/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/koding/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/koding/subscriptions",
+    "organizations_url": "https://api.github.com/users/koding/orgs",
+    "repos_url": "https://api.github.com/users/koding/repos",
+    "events_url": "https://api.github.com/users/koding/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/koding/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "eikaas": 1,
+    "szkl": 1,
+    "wingyplus": 1,
+    "gokmen": 1,
+    "techjanitor": 2,
+    "canthefason": 2,
+    "pdxjohnny": 3,
+    "DiSiqueira": 3,
+    "mischief": 3,
+    "humanchimp": 4,
+    "ppknap": 6,
+    "leeola": 10,
+    "ybrs": 11,
+    "igungor": 16,
+    "oguzalb": 26,
+    "cihangir": 42,
+    "rjeczalik": 141,
+    "fatih": 515,
+    "cenkalti": 638
+  },
+  "languages": {
+    "Go": {
+      "bytes": 362258,
+      "color": "#375eab"
+    },
+    "Python": {
+      "bytes": 7372,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 4999,
+      "color": "#427819"
+    },
+    "SQLPL": {
+      "bytes": 468,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 288,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T16:29:45.863Z",
+  "pulls_url": "https://api.github.com/repos/koding/kite/pulls{/number}",
+  "pulls_authors": [
+    "rjeczalik",
+    "ghost",
+    "pengfei-xue",
+    "cihangir",
+    "pdxjohnny",
+    "eikaas",
+    "DiSiqueira",
+    "brunoocasali",
+    "ppknap",
+    "szkl",
+    "leeola",
+    "sent-hil",
+    "fatih",
+    "mischief",
+    "wingyplus",
+    "cenkalti",
+    "techjanitor",
+    "ernestas-poskus",
+    "igungor",
+    "humanchimp",
+    "canthefason"
+  ]
+}

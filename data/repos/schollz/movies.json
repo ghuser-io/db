@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "movies",
+  "full_name": "schollz/movies",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/movies",
+  "description": "An analysis of movies and generation of useful lists",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/movies",
+  "languages_url": "https://api.github.com/repos/schollz/movies/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/movies/pulls{/number}",
+  "created_at": "2015-08-29T13:11:25Z",
+  "updated_at": "2015-08-30T02:50:57Z",
+  "pushed_at": "2015-09-08T13:38:46Z",
+  "homepage": "http://rpiai.com/movies",
+  "size": 2133,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "gh-pages",
+  "contributors": {
+    "schollz": 100
+  },
+  "pulls_authors": [
+    "schollz"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 18330,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 17075,
+      "color": "#e34c26"
+    },
+    "Ruby": {
+      "bytes": 11675,
+      "color": "#701516"
+    },
+    "CSS": {
+      "bytes": 1032,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:49.705Z"
+}

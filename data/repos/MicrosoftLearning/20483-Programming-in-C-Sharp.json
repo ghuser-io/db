@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "20483-Programming-in-C-Sharp",
+  "full_name": "MicrosoftLearning/20483-Programming-in-C-Sharp",
+  "owner": "MicrosoftLearning",
+  "private": false,
+  "html_url": "https://github.com/MicrosoftLearning/20483-Programming-in-C-Sharp",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/MicrosoftLearning/20483-Programming-in-C-Sharp",
+  "languages_url": "https://api.github.com/repos/MicrosoftLearning/20483-Programming-in-C-Sharp/languages",
+  "pulls_url": "https://api.github.com/repos/MicrosoftLearning/20483-Programming-in-C-Sharp/pulls{/number}",
+  "created_at": "2018-01-11T09:40:34Z",
+  "updated_at": "2018-09-12T20:39:59Z",
+  "pushed_at": "2018-08-30T07:14:23Z",
+  "homepage": null,
+  "size": 42438,
+  "stargazers_count": 26,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "MicrosoftLearning",
+    "id": 10467123,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNDY3MTIz",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/10467123?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/MicrosoftLearning",
+    "html_url": "https://github.com/MicrosoftLearning",
+    "followers_url": "https://api.github.com/users/MicrosoftLearning/followers",
+    "following_url": "https://api.github.com/users/MicrosoftLearning/following{/other_user}",
+    "gists_url": "https://api.github.com/users/MicrosoftLearning/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/MicrosoftLearning/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/MicrosoftLearning/subscriptions",
+    "organizations_url": "https://api.github.com/users/MicrosoftLearning/orgs",
+    "repos_url": "https://api.github.com/users/MicrosoftLearning/repos",
+    "events_url": "https://api.github.com/users/MicrosoftLearning/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/MicrosoftLearning/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "bckelly": 1,
+    "barucht": 20,
+    "shalevz": 33,
+    "VinayApposite": 39,
+    "slavBarkal": 57,
+    "roigodelman": 152
+  },
+  "pulls_authors": [
+    "kristapsozols",
+    "roigodelman",
+    "VinayApposite",
+    "shalevz",
+    "slavBarkal",
+    "vmandic"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 5084178,
+      "color": "#178600"
+    },
+    "PowerShell": {
+      "bytes": 91112,
+      "color": "#012456"
+    },
+    "Batchfile": {
+      "bytes": 1981,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-13T00:29:10.857Z"
+}

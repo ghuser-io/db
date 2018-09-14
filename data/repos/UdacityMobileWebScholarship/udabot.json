@@ -1,0 +1,96 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "udabot",
+  "full_name": "UdacityMobileWebScholarship/udabot",
+  "owner": "UdacityMobileWebScholarship",
+  "private": false,
+  "html_url": "https://github.com/UdacityMobileWebScholarship/udabot",
+  "description": "This application is a collaborative project made by the Google Udacity Mobile Web Specialist Scholars.",
+  "fork": false,
+  "url": "https://api.github.com/repos/UdacityMobileWebScholarship/udabot",
+  "languages_url": "https://api.github.com/repos/UdacityMobileWebScholarship/udabot/languages",
+  "pulls_url": "https://api.github.com/repos/UdacityMobileWebScholarship/udabot/pulls{/number}",
+  "created_at": "2018-04-16T15:57:43Z",
+  "updated_at": "2018-09-10T05:42:42Z",
+  "pushed_at": "2018-05-21T17:04:14Z",
+  "homepage": null,
+  "size": 20836,
+  "stargazers_count": 13,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "UdacityMobileWebScholarship",
+    "id": 38130195,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM4MTMwMTk1",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/38130195?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/UdacityMobileWebScholarship",
+    "html_url": "https://github.com/UdacityMobileWebScholarship",
+    "followers_url": "https://api.github.com/users/UdacityMobileWebScholarship/followers",
+    "following_url": "https://api.github.com/users/UdacityMobileWebScholarship/following{/other_user}",
+    "gists_url": "https://api.github.com/users/UdacityMobileWebScholarship/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/UdacityMobileWebScholarship/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/UdacityMobileWebScholarship/subscriptions",
+    "organizations_url": "https://api.github.com/users/UdacityMobileWebScholarship/orgs",
+    "repos_url": "https://api.github.com/users/UdacityMobileWebScholarship/repos",
+    "events_url": "https://api.github.com/users/UdacityMobileWebScholarship/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/UdacityMobileWebScholarship/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Manojkumarj": 1,
+    "Kartik1607": 1,
+    "anurag-majumdar": 1,
+    "anshumanv": 1,
+    "ManajitPal": 2,
+    "tushgup": 2,
+    "blenderskool": 4,
+    "optimistanoop": 5,
+    "Biboswan": 14
+  },
+  "pulls_authors": [
+    "Biboswan",
+    "blenderskool",
+    "rush2406",
+    "Kartik1607",
+    "ajinkyapuar",
+    "ManajitPal",
+    "anurag-majumdar",
+    "tushgup",
+    "optimistanoop",
+    "anshumanv"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 251243,
+      "color": "#2b7489"
+    },
+    "CSS": {
+      "bytes": 28183,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 27217,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 14480,
+      "color": "#f1e05a"
+    },
+    "Batchfile": {
+      "bytes": 5058,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-10T07:02:34.896Z"
+}

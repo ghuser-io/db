@@ -1,0 +1,82 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "markdown-editor",
+  "full_name": "jbt/markdown-editor",
+  "owner": "jbt",
+  "private": false,
+  "html_url": "https://github.com/jbt/markdown-editor",
+  "description": "Live (Github-flavored) Markdown Editor",
+  "fork": false,
+  "url": "https://api.github.com/repos/jbt/markdown-editor",
+  "languages_url": "https://api.github.com/repos/jbt/markdown-editor/languages",
+  "pulls_url": "https://api.github.com/repos/jbt/markdown-editor/pulls{/number}",
+  "created_at": "2012-10-01T19:27:01Z",
+  "updated_at": "2018-09-12T09:59:58Z",
+  "pushed_at": "2018-07-25T18:27:21Z",
+  "homepage": "http://jbt.github.com/markdown-editor",
+  "size": 4434,
+  "stargazers_count": 2287,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "isc",
+    "name": "ISC License",
+    "spdx_id": "ISC",
+    "url": "https://api.github.com/licenses/isc",
+    "node_id": "MDc6TGljZW5zZTEw"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "komicho": 1,
+    "izhizheng": 1,
+    "GiacomoLaw": 1,
+    "tnguyen14": 1,
+    "jbrooksuk": 1,
+    "LYF610400210": 1,
+    "cuth": 1,
+    "tex": 1,
+    "fruit": 1,
+    "yozlet": 2,
+    "dennyschwender": 4,
+    "aero31aero": 32,
+    "jbt": 36
+  },
+  "pulls_authors": [
+    "aero31aero",
+    "komicho",
+    "izhizheng",
+    "math2001",
+    "zyfdegh",
+    "GiacomoLaw",
+    "dennyschwender",
+    "delta003",
+    "davidzoli",
+    "tnguyen14",
+    "satwantrana",
+    "jbt",
+    "jbrooksuk",
+    "monoman",
+    "LYF610400210",
+    "cuth",
+    "tex",
+    "chemel",
+    "yozlet",
+    "fruit"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 475384,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 68939,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 19849,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:26.802Z"
+}

@@ -1,0 +1,100 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vuizvui",
+  "full_name": "openlab-aux/vuizvui",
+  "owner": "openlab-aux",
+  "private": false,
+  "html_url": "https://github.com/openlab-aux/vuizvui",
+  "description": "Nix(OS) expressions used by the OpenLab and its members",
+  "fork": false,
+  "url": "https://api.github.com/repos/openlab-aux/vuizvui",
+  "languages_url": "https://api.github.com/repos/openlab-aux/vuizvui/languages",
+  "pulls_url": "https://api.github.com/repos/openlab-aux/vuizvui/pulls{/number}",
+  "created_at": "2012-11-26T05:15:24Z",
+  "updated_at": "2018-09-13T11:28:14Z",
+  "pushed_at": "2018-09-13T11:28:12Z",
+  "homepage": "",
+  "size": 2589,
+  "stargazers_count": 47,
+  "language": "Nix",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "openlab-aux",
+    "id": 3979750,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM5Nzk3NTA=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/3979750?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/openlab-aux",
+    "html_url": "https://github.com/openlab-aux",
+    "followers_url": "https://api.github.com/users/openlab-aux/followers",
+    "following_url": "https://api.github.com/users/openlab-aux/following{/other_user}",
+    "gists_url": "https://api.github.com/users/openlab-aux/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/openlab-aux/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/openlab-aux/subscriptions",
+    "organizations_url": "https://api.github.com/users/openlab-aux/orgs",
+    "repos_url": "https://api.github.com/users/openlab-aux/repos",
+    "events_url": "https://api.github.com/users/openlab-aux/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/openlab-aux/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "waaaaargh": 1,
+    "layus": 4,
+    "sternenseemann": 98,
+    "Profpatsch": 307,
+    "devhell": 601,
+    "aszlig": 1337
+  },
+  "pulls_authors": [
+    "layus",
+    "Profpatsch",
+    "aszlig",
+    "devhell",
+    "waaaaargh"
+  ],
+  "languages": {
+    "Nix": {
+      "bytes": 376646,
+      "color": "#7e7eff"
+    },
+    "C": {
+      "bytes": 37431,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 8130,
+      "color": "#89e051"
+    },
+    "C#": {
+      "bytes": 7984,
+      "color": "#178600"
+    },
+    "Python": {
+      "bytes": 7934,
+      "color": "#3572A5"
+    },
+    "Go": {
+      "bytes": 3361,
+      "color": "#375eab"
+    },
+    "C++": {
+      "bytes": 2925,
+      "color": "#f34b7d"
+    },
+    "Makefile": {
+      "bytes": 777,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-13T16:41:36.689Z"
+}

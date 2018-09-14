@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "azdanov.github.io",
+  "full_name": "azdanov/azdanov.github.io",
+  "owner": "azdanov",
+  "private": false,
+  "html_url": "https://github.com/azdanov/azdanov.github.io",
+  "description": "Portfolio website",
+  "fork": false,
+  "url": "https://api.github.com/repos/azdanov/azdanov.github.io",
+  "languages_url": "https://api.github.com/repos/azdanov/azdanov.github.io/languages",
+  "pulls_url": "https://api.github.com/repos/azdanov/azdanov.github.io/pulls{/number}",
+  "created_at": "2017-07-13T21:09:34Z",
+  "updated_at": "2018-09-12T15:21:34Z",
+  "pushed_at": "2018-09-12T15:21:33Z",
+  "homepage": "https://azdanov.js.org/",
+  "size": 15276,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "codacy-badger": 1,
+    "semantic-release-bot": 13,
+    "azdanov": 702
+  },
+  "pulls_authors": [
+    "codacy-badger",
+    "azdanov"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 102284,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 55169,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:34:40.170Z"
+}

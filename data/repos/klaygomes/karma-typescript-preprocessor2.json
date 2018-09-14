@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "karma-typescript-preprocessor2",
+  "full_name": "klaygomes/karma-typescript-preprocessor2",
+  "owner": "klaygomes",
+  "private": false,
+  "html_url": "https://github.com/klaygomes/karma-typescript-preprocessor2",
+  "description": "Leverage the power of gulp-typescript compiler to a simple yet powerfull karma preprocessor plugin",
+  "fork": false,
+  "url": "https://api.github.com/repos/klaygomes/karma-typescript-preprocessor2",
+  "languages_url": "https://api.github.com/repos/klaygomes/karma-typescript-preprocessor2/languages",
+  "pulls_url": "https://api.github.com/repos/klaygomes/karma-typescript-preprocessor2/pulls{/number}",
+  "created_at": "2015-11-10T18:40:46Z",
+  "updated_at": "2017-04-27T15:47:21Z",
+  "pushed_at": "2017-11-28T21:58:31Z",
+  "homepage": "",
+  "size": 68,
+  "stargazers_count": 8,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "lelandmiller": 1,
+    "alexmoreno": 1,
+    "rich-j": 2,
+    "klaygomes": 25
+  },
+  "pulls_authors": [
+    "lelandmiller",
+    "rich-j"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6236,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:55:58.495Z"
+}

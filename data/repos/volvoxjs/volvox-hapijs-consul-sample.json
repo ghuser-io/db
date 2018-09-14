@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "volvox-hapijs-consul-sample",
+  "full_name": "volvoxjs/volvox-hapijs-consul-sample",
+  "owner": "volvoxjs",
+  "private": false,
+  "html_url": "https://github.com/volvoxjs/volvox-hapijs-consul-sample",
+  "description": "volvox.js hapijs and consul sample",
+  "fork": false,
+  "url": "https://api.github.com/repos/volvoxjs/volvox-hapijs-consul-sample",
+  "languages_url": "https://api.github.com/repos/volvoxjs/volvox-hapijs-consul-sample/languages",
+  "pulls_url": "https://api.github.com/repos/volvoxjs/volvox-hapijs-consul-sample/pulls{/number}",
+  "created_at": "2016-01-28T07:14:32Z",
+  "updated_at": "2016-08-02T18:22:05Z",
+  "pushed_at": "2016-08-02T18:21:56Z",
+  "homepage": "",
+  "size": 61,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "volvoxjs",
+    "id": 16361502,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2MzYxNTAy",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/16361502?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/volvoxjs",
+    "html_url": "https://github.com/volvoxjs",
+    "followers_url": "https://api.github.com/users/volvoxjs/followers",
+    "following_url": "https://api.github.com/users/volvoxjs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/volvoxjs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/volvoxjs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/volvoxjs/subscriptions",
+    "organizations_url": "https://api.github.com/users/volvoxjs/orgs",
+    "repos_url": "https://api.github.com/users/volvoxjs/repos",
+    "events_url": "https://api.github.com/users/volvoxjs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/volvoxjs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ziyasal": 10
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 519,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:13.014Z"
+}

@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "popit-php",
+  "full_name": "mysociety/popit-php",
+  "owner": "mysociety",
+  "private": false,
+  "html_url": "https://github.com/mysociety/popit-php",
+  "description": "DEPRECATED - PHP interface to the PopIt API",
+  "fork": false,
+  "url": "https://api.github.com/repos/mysociety/popit-php",
+  "languages_url": "https://api.github.com/repos/mysociety/popit-php/languages",
+  "pulls_url": "https://api.github.com/repos/mysociety/popit-php/pulls{/number}",
+  "created_at": "2012-06-26T11:13:24Z",
+  "updated_at": "2018-03-08T15:40:04Z",
+  "pushed_at": "2015-11-16T18:53:08Z",
+  "homepage": "https://goo.gl/Vvej4Q",
+  "size": 20,
+  "stargazers_count": 3,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "mysociety",
+    "id": 141338,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/141338?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mysociety",
+    "html_url": "https://github.com/mysociety",
+    "followers_url": "https://api.github.com/users/mysociety/followers",
+    "following_url": "https://api.github.com/users/mysociety/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mysociety/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mysociety/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mysociety/subscriptions",
+    "organizations_url": "https://api.github.com/users/mysociety/orgs",
+    "repos_url": "https://api.github.com/users/mysociety/repos",
+    "events_url": "https://api.github.com/users/mysociety/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mysociety/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "damian-garrido": 1,
+    "evdb": 1,
+    "chrismytton": 2,
+    "chetan1": 5
+  },
+  "pulls_authors": [
+    "jdgarrido",
+    "chetan1"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 6131,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:45.291Z"
+}

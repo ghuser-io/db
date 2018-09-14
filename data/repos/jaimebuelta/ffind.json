@@ -1,0 +1,83 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ffind",
+  "full_name": "jaimebuelta/ffind",
+  "owner": "jaimebuelta",
+  "private": false,
+  "html_url": "https://github.com/jaimebuelta/ffind",
+  "description": "A sane replacement for find",
+  "fork": false,
+  "url": "https://api.github.com/repos/jaimebuelta/ffind",
+  "languages_url": "https://api.github.com/repos/jaimebuelta/ffind/languages",
+  "pulls_url": "https://api.github.com/repos/jaimebuelta/ffind/pulls{/number}",
+  "created_at": "2012-11-06T21:26:53Z",
+  "updated_at": "2018-08-29T11:55:30Z",
+  "pushed_at": "2018-04-17T22:03:38Z",
+  "homepage": null,
+  "size": 27838,
+  "stargazers_count": 120,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "aaronbassett": 2,
+    "lincheney": 3,
+    "jonahbron": 3,
+    "jayvdb": 5,
+    "dsaran": 7,
+    "jaimebuelta": 81
+  },
+  "pulls_authors": [
+    "jaimebuelta",
+    "LappleApple",
+    "jayvdb",
+    "lincheney",
+    "dsaran",
+    "jonahbron",
+    "hura",
+    "aaronbassett"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 18658,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 9125,
+      "color": "#e34c26"
+    },
+    "Roff": {
+      "bytes": 7783,
+      "color": "#ecdebe"
+    },
+    "Perl": {
+      "bytes": 5110,
+      "color": "#0298c3"
+    },
+    "Terra": {
+      "bytes": 1245,
+      "color": "#00004c"
+    },
+    "Shell": {
+      "bytes": 1050,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 504,
+      "color": "#427819"
+    },
+    "Perl 6": {
+      "bytes": 144,
+      "color": "#0000fb"
+    }
+  },
+  "fetched_at": "2018-08-29T12:49:13.556Z"
+}

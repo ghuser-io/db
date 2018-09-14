@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "registration",
+  "full_name": "Ideabin/registration",
+  "owner": "Ideabin",
+  "private": false,
+  "html_url": "https://github.com/Ideabin/registration",
+  "description": "Register for the idea sharing service.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Ideabin/registration",
+  "languages_url": "https://api.github.com/repos/Ideabin/registration/languages",
+  "pulls_url": "https://api.github.com/repos/Ideabin/registration/pulls{/number}",
+  "created_at": "2014-11-15T18:18:04Z",
+  "updated_at": "2015-03-13T10:17:52Z",
+  "pushed_at": "2015-03-13T10:15:27Z",
+  "homepage": null,
+  "size": 203,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "Ideabin",
+    "id": 8464018,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjg0NjQwMTg=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/8464018?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Ideabin",
+    "html_url": "https://github.com/Ideabin",
+    "followers_url": "https://api.github.com/users/Ideabin/followers",
+    "following_url": "https://api.github.com/users/Ideabin/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Ideabin/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Ideabin/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Ideabin/subscriptions",
+    "organizations_url": "https://api.github.com/users/Ideabin/orgs",
+    "repos_url": "https://api.github.com/users/Ideabin/repos",
+    "events_url": "https://api.github.com/users/Ideabin/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Ideabin/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "aviaryan": 1,
+    "dufferzafar": 3
+  },
+  "pulls_authors": [
+    "aviaryan"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-03T12:57:03.879Z"
+}

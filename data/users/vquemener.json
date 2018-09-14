@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "vquemener",
+  "ghuser_created_at": "2018-09-11T15:34:07.454Z",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/4893465?v=4",
+  "html_url": "https://github.com/vquemener",
+  "organizations_url": "https://api.github.com/users/vquemener/orgs",
+  "repos_url": "https://api.github.com/users/vquemener/repos",
+  "type": "User",
+  "name": "Vincent Quéméner",
+  "company": null,
+  "blog": "",
+  "location": "France",
+  "email": null,
+  "bio": null,
+  "public_gists": 0,
+  "created_at": "2013-06-30T15:43:47Z",
+  "updated_at": "2018-06-19T07:22:30Z",
+  "organizations": [
+    "vigilo",
+    "Prelude-SIEM",
+    "Prelude-SIEM-Agents",
+    "Prelude-SIEM-Contrib"
+  ],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:18:40.010Z",
+    "repos": [
+      "rsyslog/rsyslog",
+      "elastic/kibana",
+      "vigilo/vigiboard",
+      "vigilo/turbogears",
+      "vigilo/themes-default",
+      "vigilo/models",
+      "vigilo/vigiconf",
+      "vigilo/connector-syncevents",
+      "vigilo/vigigraph",
+      "vigilo/setup",
+      "vigilo/nagios-plugins",
+      "vigilo/collector",
+      "vigilo/common",
+      "vigilo/connector-metro",
+      "vigilo/connector",
+      "vigilo/connector-nagios",
+      "vigilo/correlator",
+      "vigilo/perfdata2vigilo",
+      "vigilo/vigiconf-local",
+      "vigilo/vigirrd"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "atom-shippable-ci",
+  "full_name": "scriptnull/atom-shippable-ci",
+  "owner": "scriptnull",
+  "private": false,
+  "html_url": "https://github.com/scriptnull/atom-shippable-ci",
+  "description": "Shippable CI package for Atom editor.",
+  "fork": false,
+  "url": "https://api.github.com/repos/scriptnull/atom-shippable-ci",
+  "languages_url": "https://api.github.com/repos/scriptnull/atom-shippable-ci/languages",
+  "pulls_url": "https://api.github.com/repos/scriptnull/atom-shippable-ci/pulls{/number}",
+  "created_at": "2016-01-28T13:05:12Z",
+  "updated_at": "2016-03-11T11:38:01Z",
+  "pushed_at": "2016-03-22T19:13:14Z",
+  "homepage": "",
+  "size": 2773,
+  "stargazers_count": 1,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "scriptnull": 22
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 10687,
+      "color": "#244776"
+    },
+    "JavaScript": {
+      "bytes": 1811,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 245,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:02.808Z"
+}

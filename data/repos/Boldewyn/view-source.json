@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "view-source",
+  "full_name": "Boldewyn/view-source",
+  "owner": "Boldewyn",
+  "private": false,
+  "html_url": "https://github.com/Boldewyn/view-source",
+  "description": "Syntax highlighting for XML files with XSLT ",
+  "fork": false,
+  "url": "https://api.github.com/repos/Boldewyn/view-source",
+  "languages_url": "https://api.github.com/repos/Boldewyn/view-source/languages",
+  "pulls_url": "https://api.github.com/repos/Boldewyn/view-source/pulls{/number}",
+  "created_at": "2010-09-17T20:42:11Z",
+  "updated_at": "2013-10-15T17:28:54Z",
+  "pushed_at": "2010-09-24T18:13:15Z",
+  "homepage": "http://boldewyn.github.com/view-source",
+  "size": 224,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Boldewyn": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 202,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:57:57.304Z"
+}

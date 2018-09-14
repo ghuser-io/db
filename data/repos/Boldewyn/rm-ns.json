@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rm-ns",
+  "full_name": "Boldewyn/rm-ns",
+  "owner": "Boldewyn",
+  "private": false,
+  "html_url": "https://github.com/Boldewyn/rm-ns",
+  "description": "Remove elements of  a certain namespace from XML data",
+  "fork": false,
+  "url": "https://api.github.com/repos/Boldewyn/rm-ns",
+  "languages_url": "https://api.github.com/repos/Boldewyn/rm-ns/languages",
+  "pulls_url": "https://api.github.com/repos/Boldewyn/rm-ns/pulls{/number}",
+  "created_at": "2010-09-16T18:48:54Z",
+  "updated_at": "2013-10-19T20:10:39Z",
+  "pushed_at": "2010-09-24T13:59:36Z",
+  "homepage": "http://boldewyn.github.com/rm-ns",
+  "size": 292,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Boldewyn": 11
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 2046,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 1432,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:57:57.370Z"
+}

@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "BSGrowler",
+  "full_name": "joshstrange/BSGrowler",
+  "owner": "joshstrange",
+  "private": false,
+  "html_url": "https://github.com/joshstrange/BSGrowler",
+  "description": "Listens for messages pushed from node-beanstalk-pusherapp",
+  "fork": false,
+  "url": "https://api.github.com/repos/joshstrange/BSGrowler",
+  "languages_url": "https://api.github.com/repos/joshstrange/BSGrowler/languages",
+  "pulls_url": "https://api.github.com/repos/joshstrange/BSGrowler/pulls{/number}",
+  "created_at": "2012-06-14T14:43:47Z",
+  "updated_at": "2014-02-16T02:36:05Z",
+  "pushed_at": "2012-06-14T14:50:47Z",
+  "homepage": null,
+  "size": 384,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "joshstrange": 2
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-11T13:47:48.275Z"
+}

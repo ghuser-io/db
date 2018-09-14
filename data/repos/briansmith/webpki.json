@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "webpki",
+  "full_name": "briansmith/webpki",
+  "owner": "briansmith",
+  "private": false,
+  "html_url": "https://github.com/briansmith/webpki",
+  "description": "WebPKI X.509 Certificate Validation in Rust",
+  "fork": false,
+  "url": "https://api.github.com/repos/briansmith/webpki",
+  "languages_url": "https://api.github.com/repos/briansmith/webpki/languages",
+  "pulls_url": "https://api.github.com/repos/briansmith/webpki/pulls{/number}",
+  "created_at": "2015-08-27T08:03:31Z",
+  "updated_at": "2018-08-27T13:08:51Z",
+  "pushed_at": "2018-09-01T08:36:04Z",
+  "homepage": "https://briansmith.org/rustdoc/webpki/",
+  "size": 304,
+  "stargazers_count": 132,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "king6cong": 1,
+    "tilal6991": 1,
+    "frewsxcv": 2,
+    "alex": 3,
+    "ctz": 7,
+    "briansmith": 203
+  },
+  "pulls_authors": [
+    "Geal",
+    "gh2o",
+    "satlank",
+    "king6cong",
+    "alex",
+    "isonmad",
+    "ctz",
+    "tilal6991",
+    "cmsd2",
+    "robn",
+    "riking",
+    "frewsxcv"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 139287,
+      "color": "#dea584"
+    },
+    "Python": {
+      "bytes": 8299,
+      "color": "#3572A5"
+    },
+    "Batchfile": {
+      "bytes": 2008,
+      "color": "#C1F12E"
+    },
+    "Shell": {
+      "bytes": 1448,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:16.789Z"
+}

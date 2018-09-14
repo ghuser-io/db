@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "CyborgWhitelist",
+  "full_name": "Cyborg/CyborgWhitelist",
+  "owner": "Cyborg",
+  "private": false,
+  "html_url": "https://github.com/Cyborg/CyborgWhitelist",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/Cyborg/CyborgWhitelist",
+  "languages_url": "https://api.github.com/repos/Cyborg/CyborgWhitelist/languages",
+  "pulls_url": "https://api.github.com/repos/Cyborg/CyborgWhitelist/pulls{/number}",
+  "created_at": "2012-07-12T01:32:10Z",
+  "updated_at": "2014-04-03T22:42:51Z",
+  "pushed_at": "2012-07-12T01:36:04Z",
+  "homepage": null,
+  "size": 87,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "Cyborg",
+    "id": 1452381,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0NTIzODE=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/1452381?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Cyborg",
+    "html_url": "https://github.com/Cyborg",
+    "followers_url": "https://api.github.com/users/Cyborg/followers",
+    "following_url": "https://api.github.com/users/Cyborg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Cyborg/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Cyborg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Cyborg/subscriptions",
+    "organizations_url": "https://api.github.com/users/Cyborg/orgs",
+    "repos_url": "https://api.github.com/users/Cyborg/repos",
+    "events_url": "https://api.github.com/users/Cyborg/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Cyborg/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "stephenwilliams": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 2858,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:11.392Z"
+}

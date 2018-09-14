@@ -1,0 +1,91 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ctop",
+  "full_name": "bcicen/ctop",
+  "owner": "bcicen",
+  "private": false,
+  "html_url": "https://github.com/bcicen/ctop",
+  "description": "Top-like interface for container metrics",
+  "fork": false,
+  "url": "https://api.github.com/repos/bcicen/ctop",
+  "languages_url": "https://api.github.com/repos/bcicen/ctop/languages",
+  "pulls_url": "https://api.github.com/repos/bcicen/ctop/pulls{/number}",
+  "created_at": "2016-12-27T02:25:57Z",
+  "updated_at": "2018-09-14T05:54:25Z",
+  "pushed_at": "2018-09-06T19:06:11Z",
+  "homepage": "https://ctop.sh",
+  "size": 3150,
+  "stargazers_count": 7405,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sah4ez": 1,
+    "mavimo": 1,
+    "kentaost": 1,
+    "krhoton": 1,
+    "InTheCloudDan": 1,
+    "thomasleveil": 1,
+    "mieciu": 1,
+    "drAlberT": 1,
+    "kevinschoon": 1,
+    "f1yegor": 1,
+    "scriptnull": 1,
+    "huguesalary": 1,
+    "francislavoie": 1,
+    "xiechengsheng": 2,
+    "kenan-rhoton": 2,
+    "vielmetti": 2,
+    "firecat53": 2,
+    "felipeconti": 3,
+    "bcicen": 332
+  },
+  "pulls_authors": [
+    "jphautin",
+    "xiechengsheng",
+    "felipeconti",
+    "pcasaretto",
+    "sah4ez",
+    "pete911",
+    "bcicen",
+    "mavimo",
+    "kentaost",
+    "vielmetti",
+    "kenan-rhoton",
+    "yashpatel5400",
+    "InTheCloudDan",
+    "firecat53",
+    "thomasleveil",
+    "mieciu",
+    "drAlberT",
+    "kevinschoon",
+    "f1yegor",
+    "avelino",
+    "scriptnull",
+    "huguesalary",
+    "francislavoie"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 94077,
+      "color": "#375eab"
+    },
+    "Shell": {
+      "bytes": 2024,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 1379,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-14T09:08:29.246Z"
+}

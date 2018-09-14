@@ -1,0 +1,86 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "coala-vs-code",
+  "full_name": "coala/coala-vs-code",
+  "owner": "coala",
+  "private": false,
+  "html_url": "https://github.com/coala/coala-vs-code",
+  "description": "A visual studio code plugin working via Language Server",
+  "fork": false,
+  "url": "https://api.github.com/repos/coala/coala-vs-code",
+  "languages_url": "https://api.github.com/repos/coala/coala-vs-code/languages",
+  "pulls_url": "https://api.github.com/repos/coala/coala-vs-code/pulls{/number}",
+  "created_at": "2017-01-24T15:13:56Z",
+  "updated_at": "2018-09-04T08:58:51Z",
+  "pushed_at": "2018-08-13T11:14:56Z",
+  "homepage": null,
+  "size": 533,
+  "stargazers_count": 21,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "coala",
+    "id": 10620750,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNjIwNzUw",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/10620750?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/coala",
+    "html_url": "https://github.com/coala",
+    "followers_url": "https://api.github.com/users/coala/followers",
+    "following_url": "https://api.github.com/users/coala/following{/other_user}",
+    "gists_url": "https://api.github.com/users/coala/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/coala/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/coala/subscriptions",
+    "organizations_url": "https://api.github.com/users/coala/orgs",
+    "repos_url": "https://api.github.com/users/coala/repos",
+    "events_url": "https://api.github.com/users/coala/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/coala/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "itsdralltanmay": 1,
+    "mach64": 1,
+    "manankalra": 1,
+    "yagyanshbhatia": 1,
+    "sils": 1,
+    "jayvdb": 5,
+    "li-boxuan": 6,
+    "ksdme": 20,
+    "gaocegege": 27
+  },
+  "pulls_authors": [
+    "ksdme",
+    "itsdralltanmay",
+    "jayvdb",
+    "mach64",
+    "manankalra",
+    "Polcat000",
+    "li-boxuan",
+    "cominixo01",
+    "yagyanshbhatia",
+    "kiryteo",
+    "shahidikram0701",
+    "gaocegege"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 4773,
+      "color": "#2b7489"
+    },
+    "Shell": {
+      "bytes": 297,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-04T12:20:52.226Z"
+}

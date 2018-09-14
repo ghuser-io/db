@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ScrapeAmazon",
+  "full_name": "ankitjain28may/ScrapeAmazon",
+  "owner": "ankitjain28may",
+  "private": false,
+  "html_url": "https://github.com/ankitjain28may/ScrapeAmazon",
+  "description": "Scrape the Users Review",
+  "fork": false,
+  "url": "https://api.github.com/repos/ankitjain28may/ScrapeAmazon",
+  "languages_url": "https://api.github.com/repos/ankitjain28may/ScrapeAmazon/languages",
+  "created_at": "2016-10-05T11:04:48Z",
+  "updated_at": "2018-04-25T16:32:30Z",
+  "pushed_at": "2017-09-28T18:32:20Z",
+  "homepage": null,
+  "size": 14,
+  "stargazers_count": 9,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "marekhakala": 1,
+    "ankitjain28may": 14
+  },
+  "languages": {
+    "Python": {
+      "bytes": 10280,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/ankitjain28may/ScrapeAmazon/pulls{/number}",
+  "pulls_authors": [
+    "eqlion",
+    "marekhakala"
+  ]
+}

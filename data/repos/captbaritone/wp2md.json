@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wp2md",
+  "full_name": "captbaritone/wp2md",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/wp2md",
+  "description": "A script to convert Wordpress XML dump to markdown files",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/wp2md",
+  "languages_url": "https://api.github.com/repos/captbaritone/wp2md/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/wp2md/pulls{/number}",
+  "created_at": "2014-02-01T20:11:17Z",
+  "updated_at": "2018-07-29T22:19:44Z",
+  "pushed_at": "2014-02-01T21:35:08Z",
+  "homepage": null,
+  "size": 172,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mixu": 1,
+    "dreikanter": 43
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 53439,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:56.595Z"
+}

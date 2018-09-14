@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Youtube-Player",
+  "full_name": "debck/Youtube-Player",
+  "owner": "debck",
+  "private": false,
+  "html_url": "https://github.com/debck/Youtube-Player",
+  "description": "A simple android app to play Youtube Videos. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/debck/Youtube-Player",
+  "languages_url": "https://api.github.com/repos/debck/Youtube-Player/languages",
+  "pulls_url": "https://api.github.com/repos/debck/Youtube-Player/pulls{/number}",
+  "created_at": "2018-06-27T11:43:45Z",
+  "updated_at": "2018-08-25T19:21:14Z",
+  "pushed_at": "2018-06-28T16:09:26Z",
+  "homepage": "",
+  "size": 218,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "debck": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 3073,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-08-25T19:33:18.981Z"
+}

@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "piriscope",
+  "full_name": "schmich/piriscope",
+  "owner": "schmich",
+  "private": false,
+  "html_url": "https://github.com/schmich/piriscope",
+  "description": "Livestream to Periscope from the Raspberry Pi",
+  "fork": false,
+  "url": "https://api.github.com/repos/schmich/piriscope",
+  "languages_url": "https://api.github.com/repos/schmich/piriscope/languages",
+  "pulls_url": "https://api.github.com/repos/schmich/piriscope/pulls{/number}",
+  "created_at": "2017-04-14T06:20:20Z",
+  "updated_at": "2018-05-22T19:27:02Z",
+  "pushed_at": "2017-05-08T15:06:50Z",
+  "homepage": "",
+  "size": 27,
+  "stargazers_count": 5,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schmich": 37
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 6148,
+      "color": "#375eab"
+    },
+    "Shell": {
+      "bytes": 4420,
+      "color": "#89e051"
+    },
+    "Ruby": {
+      "bytes": 963,
+      "color": "#701516"
+    },
+    "Makefile": {
+      "bytes": 337,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:19.683Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tower_defence",
+  "full_name": "ahmetabdi/tower_defence",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/tower_defence",
+  "description": "Tower Defence SpriteKit",
+  "fork": false,
+  "url": "https://api.github.com/repos/ahmetabdi/tower_defence",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/tower_defence/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/tower_defence/pulls{/number}",
+  "created_at": "2014-12-16T13:44:12Z",
+  "updated_at": "2015-11-03T15:21:22Z",
+  "pushed_at": "2014-12-16T13:45:26Z",
+  "homepage": null,
+  "size": 1548,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 2151,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:02.886Z"
+}

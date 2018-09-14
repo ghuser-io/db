@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Roll-The-Dice",
+  "full_name": "jamesgeorge007/Roll-The-Dice",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/Roll-The-Dice",
+  "description": "This is an Android app made as part of my Android development course at learncodeonline.in",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/Roll-The-Dice",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/Roll-The-Dice/languages",
+  "created_at": "2017-11-08T15:14:33Z",
+  "updated_at": "2018-07-17T16:02:27Z",
+  "pushed_at": "2018-07-17T16:02:26Z",
+  "homepage": null,
+  "size": 1837,
+  "stargazers_count": 4,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jamesgeorge007": 5
+  },
+  "languages": {
+    "Java": {
+      "bytes": 2165,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/Roll-The-Dice/pulls{/number}",
+  "pulls_authors": []
+}

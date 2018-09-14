@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "base16-builder-schemer",
+  "full_name": "base16-builder/base16-builder-schemer",
+  "owner": "base16-builder",
+  "private": false,
+  "html_url": "https://github.com/base16-builder/base16-builder-schemer",
+  "description": "[WIP] BB16-Schemer is a bb16 wrapper to manage a group of template",
+  "fork": false,
+  "url": "https://api.github.com/repos/base16-builder/base16-builder-schemer",
+  "languages_url": "https://api.github.com/repos/base16-builder/base16-builder-schemer/languages",
+  "pulls_url": "https://api.github.com/repos/base16-builder/base16-builder-schemer/pulls{/number}",
+  "created_at": "2016-02-15T14:25:37Z",
+  "updated_at": "2016-05-02T15:49:50Z",
+  "pushed_at": "2016-02-16T09:57:07Z",
+  "homepage": "",
+  "size": 9,
+  "stargazers_count": 1,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mpl-2.0",
+    "name": "Mozilla Public License 2.0",
+    "spdx_id": "MPL-2.0",
+    "url": "https://api.github.com/licenses/mpl-2.0",
+    "node_id": "MDc6TGljZW5zZTE0"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "base16-builder",
+    "id": 16937196,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2OTM3MTk2",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/16937196?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/base16-builder",
+    "html_url": "https://github.com/base16-builder",
+    "followers_url": "https://api.github.com/users/base16-builder/followers",
+    "following_url": "https://api.github.com/users/base16-builder/following{/other_user}",
+    "gists_url": "https://api.github.com/users/base16-builder/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/base16-builder/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/base16-builder/subscriptions",
+    "organizations_url": "https://api.github.com/users/base16-builder/orgs",
+    "repos_url": "https://api.github.com/users/base16-builder/repos",
+    "events_url": "https://api.github.com/users/base16-builder/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/base16-builder/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "aloisdg": 7
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 921,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:15.753Z"
+}

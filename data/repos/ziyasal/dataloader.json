@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dataloader",
+  "full_name": "ziyasal/dataloader",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/dataloader",
+  "description": "DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal/dataloader",
+  "languages_url": "https://api.github.com/repos/ziyasal/dataloader/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/dataloader/pulls{/number}",
+  "created_at": "2017-08-10T15:03:05Z",
+  "updated_at": "2017-08-14T20:27:53Z",
+  "pushed_at": "2017-08-29T15:08:09Z",
+  "homepage": null,
+  "size": 11,
+  "stargazers_count": 1,
+  "language": "Scala",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ziyasal": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Scala": {
+      "bytes": 10701,
+      "color": "#c22d40"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:06.029Z"
+}

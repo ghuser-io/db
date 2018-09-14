@@ -1,0 +1,92 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "subtracker",
+  "full_name": "subotto/subtracker",
+  "owner": "subotto",
+  "private": false,
+  "html_url": "https://github.com/subotto/subtracker",
+  "description": "Subotto tracker",
+  "fork": false,
+  "url": "https://api.github.com/repos/subotto/subtracker",
+  "languages_url": "https://api.github.com/repos/subotto/subtracker/languages",
+  "pulls_url": "https://api.github.com/repos/subotto/subtracker/pulls{/number}",
+  "created_at": "2013-11-23T22:14:30Z",
+  "updated_at": "2017-04-23T02:59:05Z",
+  "pushed_at": "2018-02-09T22:46:28Z",
+  "homepage": null,
+  "size": 1801,
+  "stargazers_count": 3,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "subotto",
+    "id": 6383194,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYzODMxOTQ=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/6383194?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/subotto",
+    "html_url": "https://github.com/subotto",
+    "followers_url": "https://api.github.com/users/subotto/followers",
+    "following_url": "https://api.github.com/users/subotto/following{/other_user}",
+    "gists_url": "https://api.github.com/users/subotto/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/subotto/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/subotto/subscriptions",
+    "organizations_url": "https://api.github.com/users/subotto/orgs",
+    "repos_url": "https://api.github.com/users/subotto/repos",
+    "events_url": "https://api.github.com/users/subotto/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/subotto/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "alexachi": 4,
+    "epol": 4,
+    "jacquerie": 6,
+    "veluca93": 28,
+    "giove91": 49,
+    "cairomax": 104,
+    "giomasce": 273
+  },
+  "pulls_authors": [
+    "jacquerie",
+    "cairomax"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 288334,
+      "color": "#f34b7d"
+    },
+    "Python": {
+      "bytes": 181949,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 118821,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 5966,
+      "color": "#e34c26"
+    },
+    "C": {
+      "bytes": 4174,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 2463,
+      "color": "#427819"
+    },
+    "QMake": {
+      "bytes": 1465,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 465,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:22.895Z"
+}

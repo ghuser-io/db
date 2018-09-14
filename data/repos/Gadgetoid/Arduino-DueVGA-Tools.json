@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Arduino-DueVGA-Tools",
+  "full_name": "Gadgetoid/Arduino-DueVGA-Tools",
+  "owner": "Gadgetoid",
+  "private": false,
+  "html_url": "https://github.com/Gadgetoid/Arduino-DueVGA-Tools",
+  "description": "Tools and code examples for converting/displaying bitmapped graphics on the Arduino Due using the DueVGA library.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Gadgetoid/Arduino-DueVGA-Tools",
+  "languages_url": "https://api.github.com/repos/Gadgetoid/Arduino-DueVGA-Tools/languages",
+  "pulls_url": "https://api.github.com/repos/Gadgetoid/Arduino-DueVGA-Tools/pulls{/number}",
+  "created_at": "2013-07-22T12:34:57Z",
+  "updated_at": "2017-10-25T12:58:03Z",
+  "pushed_at": "2013-07-24T09:35:19Z",
+  "homepage": null,
+  "size": 152,
+  "stargazers_count": 4,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Gadgetoid": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 412162,
+      "color": "#555555"
+    },
+    "Ruby": {
+      "bytes": 5640,
+      "color": "#701516"
+    },
+    "Arduino": {
+      "bytes": 4322,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:15.562Z"
+}

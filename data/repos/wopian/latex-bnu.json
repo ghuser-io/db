@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "latex-bnu",
+  "full_name": "wopian/latex-bnu",
+  "owner": "wopian",
+  "private": false,
+  "html_url": "https://github.com/wopian/latex-bnu",
+  "description": "LaTeX Report Document Class",
+  "fork": false,
+  "url": "https://api.github.com/repos/wopian/latex-bnu",
+  "languages_url": "https://api.github.com/repos/wopian/latex-bnu/languages",
+  "pulls_url": "https://api.github.com/repos/wopian/latex-bnu/pulls{/number}",
+  "created_at": "2018-03-20T16:06:52Z",
+  "updated_at": "2018-04-28T04:27:59Z",
+  "pushed_at": "2018-04-17T08:54:57Z",
+  "homepage": "",
+  "size": 140,
+  "stargazers_count": 1,
+  "language": "TeX",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "wopian": 19
+  },
+  "pulls_authors": [
+    "wopian"
+  ],
+  "languages": {
+    "TeX": {
+      "bytes": 4412,
+      "color": "#3D6117"
+    },
+    "Shell": {
+      "bytes": 2036,
+      "color": "#89e051"
+    },
+    "JavaScript": {
+      "bytes": 250,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 111,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:34.512Z"
+}

@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wordless_gem",
+  "full_name": "welaika/wordless_gem",
+  "owner": "welaika",
+  "private": false,
+  "html_url": "https://github.com/welaika/wordless_gem",
+  "description": "The quickest CLI tool to setup a new WordPress locally. Wordless ready.",
+  "fork": false,
+  "url": "https://api.github.com/repos/welaika/wordless_gem",
+  "languages_url": "https://api.github.com/repos/welaika/wordless_gem/languages",
+  "pulls_url": "https://api.github.com/repos/welaika/wordless_gem/pulls{/number}",
+  "created_at": "2013-03-27T08:35:21Z",
+  "updated_at": "2018-09-12T06:38:32Z",
+  "pushed_at": "2018-09-12T06:39:16Z",
+  "homepage": "",
+  "size": 138,
+  "stargazers_count": 26,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "welaika",
+    "id": 278653,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI3ODY1Mw==",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/278653?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/welaika",
+    "html_url": "https://github.com/welaika",
+    "followers_url": "https://api.github.com/users/welaika/followers",
+    "following_url": "https://api.github.com/users/welaika/following{/other_user}",
+    "gists_url": "https://api.github.com/users/welaika/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/welaika/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/welaika/subscriptions",
+    "organizations_url": "https://api.github.com/users/welaika/orgs",
+    "repos_url": "https://api.github.com/users/welaika/repos",
+    "events_url": "https://api.github.com/users/welaika/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/welaika/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "namuit": 1,
+    "AleOnRails": 1,
+    "acconrad": 1,
+    "mukkoo": 4,
+    "delphaber": 11,
+    "Arkham": 36,
+    "etienne": 36,
+    "pioneerskies": 40
+  },
+  "pulls_authors": [
+    "pioneerskies",
+    "acconrad"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 18692,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 504,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:30:46.314Z"
+}

@@ -1,0 +1,126 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "susi_iOS",
+  "full_name": "fossasia/susi_iOS",
+  "owner": "fossasia",
+  "private": false,
+  "html_url": "https://github.com/fossasia/susi_iOS",
+  "description": "SUSI AI iOS app http://susi.ai",
+  "fork": false,
+  "url": "https://api.github.com/repos/fossasia/susi_iOS",
+  "languages_url": "https://api.github.com/repos/fossasia/susi_iOS/languages",
+  "pulls_url": "https://api.github.com/repos/fossasia/susi_iOS/pulls{/number}",
+  "created_at": "2017-03-14T16:27:02Z",
+  "updated_at": "2018-09-14T06:29:48Z",
+  "pushed_at": "2018-09-14T05:41:30Z",
+  "homepage": "",
+  "size": 12126,
+  "stargazers_count": 648,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "fossasia",
+    "id": 6295529,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYyOTU1Mjk=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/6295529?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/fossasia",
+    "html_url": "https://github.com/fossasia",
+    "followers_url": "https://api.github.com/users/fossasia/followers",
+    "following_url": "https://api.github.com/users/fossasia/following{/other_user}",
+    "gists_url": "https://api.github.com/users/fossasia/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/fossasia/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/fossasia/subscriptions",
+    "organizations_url": "https://api.github.com/users/fossasia/orgs",
+    "repos_url": "https://api.github.com/users/fossasia/repos",
+    "events_url": "https://api.github.com/users/fossasia/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/fossasia/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Akshat-Jain": 1,
+    "iamsimranjot": 1,
+    "baquer": 1,
+    "ftp27": 1,
+    "pri22296": 1,
+    "chiragw15": 1,
+    "madhavrathi": 1,
+    "codacy-badger": 1,
+    "gitter-badger": 1,
+    "mariobehling": 1,
+    "bhaveshAn": 2,
+    "GayashanK": 2,
+    "betterclever": 2,
+    "ishaan1995": 2,
+    "DShivansh": 3,
+    "SIMRAN1": 4,
+    "imjog": 59,
+    "chashmeetsingh": 88,
+    "jogendra": 59,
+    "hashah88": 1
+  },
+  "pulls_authors": [
+    "hashah88",
+    "imjog",
+    "SIMRAN1",
+    "Akshat-Jain",
+    "DShivansh",
+    "iamsimranjot",
+    "baquer",
+    "bhaveshAn",
+    "ashishkakkad8",
+    "abdulsamad234",
+    "ftp27",
+    "chashmeetsingh",
+    "pri22296",
+    "GayashanK",
+    "betterclever",
+    "ishaan1995",
+    "chiragw15",
+    "madhavrathi",
+    "codacy-badger",
+    "gitter-badger",
+    "jogendra"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 355198,
+      "color": "#ffac45"
+    },
+    "Objective-C": {
+      "bytes": 8380,
+      "color": "#438eff"
+    },
+    "C++": {
+      "bytes": 5651,
+      "color": "#f34b7d"
+    },
+    "Shell": {
+      "bytes": 1729,
+      "color": "#89e051"
+    },
+    "HTML": {
+      "bytes": 1722,
+      "color": "#e34c26"
+    },
+    "Objective-C++": {
+      "bytes": 1630,
+      "color": "#6866fb"
+    },
+    "Ruby": {
+      "bytes": 814,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-14T08:29:16.567Z"
+}

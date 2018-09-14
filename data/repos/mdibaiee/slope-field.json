@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "slope-field",
+  "full_name": "mdibaiee/slope-field",
+  "owner": "mdibaiee",
+  "private": false,
+  "html_url": "https://github.com/mdibaiee/slope-field",
+  "description": "visualize slope field of mathematical functions",
+  "fork": false,
+  "url": "https://api.github.com/repos/mdibaiee/slope-field",
+  "languages_url": "https://api.github.com/repos/mdibaiee/slope-field/languages",
+  "pulls_url": "https://api.github.com/repos/mdibaiee/slope-field/pulls{/number}",
+  "created_at": "2016-11-04T19:37:34Z",
+  "updated_at": "2017-04-17T10:47:30Z",
+  "pushed_at": "2016-11-27T14:54:36Z",
+  "homepage": null,
+  "size": 440,
+  "stargazers_count": 3,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mdibaiee": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Haskell": {
+      "bytes": 2388,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:39.694Z"
+}

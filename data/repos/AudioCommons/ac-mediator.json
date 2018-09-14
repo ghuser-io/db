@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ac-mediator",
+  "full_name": "AudioCommons/ac-mediator",
+  "owner": "AudioCommons",
+  "private": false,
+  "html_url": "https://github.com/AudioCommons/ac-mediator",
+  "description": "Mediator component of the Audio Commons Ecosystem",
+  "fork": false,
+  "url": "https://api.github.com/repos/AudioCommons/ac-mediator",
+  "languages_url": "https://api.github.com/repos/AudioCommons/ac-mediator/languages",
+  "pulls_url": "https://api.github.com/repos/AudioCommons/ac-mediator/pulls{/number}",
+  "created_at": "2016-10-11T17:04:39Z",
+  "updated_at": "2018-07-13T10:05:52Z",
+  "pushed_at": "2018-07-13T10:05:51Z",
+  "homepage": "www.audiocommons.org",
+  "size": 1216,
+  "stargazers_count": 7,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "AudioCommons",
+    "id": 15011469,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1MDExNDY5",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/15011469?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/AudioCommons",
+    "html_url": "https://github.com/AudioCommons",
+    "followers_url": "https://api.github.com/users/AudioCommons/followers",
+    "following_url": "https://api.github.com/users/AudioCommons/following{/other_user}",
+    "gists_url": "https://api.github.com/users/AudioCommons/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/AudioCommons/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/AudioCommons/subscriptions",
+    "organizations_url": "https://api.github.com/users/AudioCommons/orgs",
+    "repos_url": "https://api.github.com/users/AudioCommons/repos",
+    "events_url": "https://api.github.com/users/AudioCommons/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/AudioCommons/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "FabianLauer": 1,
+    "miguel76": 1,
+    "alastair": 3,
+    "ffont": 301
+  },
+  "pulls_authors": [
+    "FabianLauer",
+    "ffont"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 198159,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 43290,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 5595,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 337,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T17:09:40.733Z"
+}

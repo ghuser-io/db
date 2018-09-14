@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Spina-template",
+  "full_name": "ahmetabdi/Spina-template",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/Spina-template",
+  "description": "Spina 3",
+  "fork": true,
+  "url": "https://api.github.com/repos/ahmetabdi/Spina-template",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/Spina-template/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/Spina-template/pulls{/number}",
+  "created_at": "2015-06-15T14:41:21Z",
+  "updated_at": "2015-11-03T15:21:06Z",
+  "pushed_at": "2015-06-15T14:43:23Z",
+  "homepage": null,
+  "size": 2696,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 1,
+    "deanpcmad": 1,
+    "harmdewit": 2,
+    "Bramjetten": 185
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 95234,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 45764,
+      "color": "#563d7c"
+    },
+    "CoffeeScript": {
+      "bytes": 7104,
+      "color": "#244776"
+    },
+    "Ruby": {
+      "bytes": 1281,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:15.184Z"
+}

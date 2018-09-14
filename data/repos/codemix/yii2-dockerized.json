@@ -1,0 +1,76 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "yii2-dockerized",
+  "full_name": "codemix/yii2-dockerized",
+  "owner": "codemix",
+  "private": false,
+  "html_url": "https://github.com/codemix/yii2-dockerized",
+  "description": "A template for docker based Yii 2 applications",
+  "fork": false,
+  "url": "https://api.github.com/repos/codemix/yii2-dockerized",
+  "languages_url": "https://api.github.com/repos/codemix/yii2-dockerized/languages",
+  "pulls_url": "https://api.github.com/repos/codemix/yii2-dockerized/pulls{/number}",
+  "created_at": "2015-02-16T13:55:00Z",
+  "updated_at": "2018-09-13T06:54:27Z",
+  "pushed_at": "2018-06-20T09:40:37Z",
+  "homepage": null,
+  "size": 195,
+  "stargazers_count": 136,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "codemix",
+    "id": 4009461,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQwMDk0NjE=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/4009461?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/codemix",
+    "html_url": "https://github.com/codemix",
+    "followers_url": "https://api.github.com/users/codemix/followers",
+    "following_url": "https://api.github.com/users/codemix/following{/other_user}",
+    "gists_url": "https://api.github.com/users/codemix/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/codemix/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/codemix/subscriptions",
+    "organizations_url": "https://api.github.com/users/codemix/orgs",
+    "repos_url": "https://api.github.com/users/codemix/repos",
+    "events_url": "https://api.github.com/users/codemix/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/codemix/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "azdanov": 1,
+    "zeyser": 1,
+    "vlaim": 1,
+    "mikehaertl": 96
+  },
+  "pulls_authors": [
+    "azdanov",
+    "zeyser",
+    "vlaim",
+    "ev4ern",
+    "w708833018"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 41743,
+      "color": "#4F5D95"
+    },
+    "CSS": {
+      "bytes": 1253,
+      "color": "#563d7c"
+    },
+    "Batchfile": {
+      "bytes": 518,
+      "color": "#C1F12E"
+    },
+    "Shell": {
+      "bytes": 40,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T16:24:25.742Z"
+}

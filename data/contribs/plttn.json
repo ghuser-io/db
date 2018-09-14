@@ -1,0 +1,100 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "johno/pixyll": {
+      "full_name": "johno/pixyll",
+      "name": "pixyll",
+      "stargazers_count": 1644,
+      "popularity": 4.215703081922871,
+      "percentage": 1.1904761904761905,
+      "maturity": 3.473174140773305,
+      "total_commits_count": 336,
+      "activity": 2.4099191554825135,
+      "total_score": 22.655806921666752,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "plttn/pubster-syntax": {
+      "full_name": "plttn/pubster-syntax",
+      "name": "pubster-syntax",
+      "stargazers_count": 3,
+      "popularity": 1.3222565221025262,
+      "percentage": 100,
+      "maturity": 3.2714817605991215,
+      "total_commits_count": 226,
+      "activity": 1.0351299613515281,
+      "total_score": 28.73419783619019,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "octopress/octopress": {
+      "full_name": "octopress/octopress",
+      "name": "octopress",
+      "stargazers_count": 1660,
+      "popularity": 4.219911649620904,
+      "percentage": 0,
+      "maturity": 3.330318955159289,
+      "total_commits_count": 253,
+      "activity": 1.0105589021717711,
+      "total_score": 20.33093176135306,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "atom/autocomplete-emojis": {
+      "full_name": "atom/autocomplete-emojis",
+      "name": "autocomplete-emojis",
+      "stargazers_count": 65,
+      "popularity": 2.8068970571940928,
+      "percentage": 1.7391304347826086,
+      "maturity": 2.877373948214582,
+      "total_commits_count": 115,
+      "activity": 1.1493293160493043,
+      "total_score": 15.959371196991585,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "plttn/yourls-hexdec": {
+      "full_name": "plttn/yourls-hexdec",
+      "name": "yourls-hexdec",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 25,
+      "activity": 0.6651069175879787,
+      "total_score": 0.6651069175879787,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "idleberg/atom-badges": {
+      "full_name": "idleberg/atom-badges",
+      "name": "atom-badges",
+      "stargazers_count": 7,
+      "popularity": 1.7853682828948099,
+      "percentage": 1.1235955056179776,
+      "maturity": 2.6928142814876193,
+      "total_commits_count": 89,
+      "activity": 1.6452829756548693,
+      "total_score": 12.64780051852389,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "kitten/Adventurous-Syntax": {
+      "full_name": "kitten/Adventurous-Syntax",
+      "name": "Adventurous-Syntax",
+      "stargazers_count": 27,
+      "popularity": 2.416679446233313,
+      "percentage": 6.25,
+      "maturity": 0,
+      "total_commits_count": 16,
+      "activity": 0.8009200198681397,
+      "total_score": 10.014510408632646,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "octopress",
+    "atom"
+  ]
+}

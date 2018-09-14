@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node.php",
+  "full_name": "niutech/node.php",
+  "owner": "niutech",
+  "private": false,
+  "html_url": "https://github.com/niutech/node.php",
+  "description": "Run node.js apps from PHP even on a shared hosting!",
+  "fork": false,
+  "url": "https://api.github.com/repos/niutech/node.php",
+  "languages_url": "https://api.github.com/repos/niutech/node.php/languages",
+  "pulls_url": "https://api.github.com/repos/niutech/node.php/pulls{/number}",
+  "created_at": "2014-12-31T00:41:43Z",
+  "updated_at": "2018-09-11T16:56:02Z",
+  "pushed_at": "2017-11-13T11:30:21Z",
+  "homepage": "",
+  "size": 9,
+  "stargazers_count": 578,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Amorelandra": 1,
+    "NurdTurd": 3,
+    "niutech": 9
+  },
+  "pulls_authors": [
+    "NurdTurd",
+    "Sustenance",
+    "ECMachado",
+    "Amorelandra"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 5575,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-11T17:13:43.302Z"
+}

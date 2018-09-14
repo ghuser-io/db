@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "blog-SPA",
+  "full_name": "jamesgeorge007/blog-SPA",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/blog-SPA",
+  "description": "A very basic demonstration of modularity in React by breaking down a (Blog) sample free bootstrap template into various components.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/blog-SPA",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/blog-SPA/languages",
+  "created_at": "2018-05-09T09:49:37Z",
+  "updated_at": "2018-05-19T17:30:52Z",
+  "pushed_at": "2018-05-09T09:56:24Z",
+  "homepage": null,
+  "size": 1099,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jamesgeorge007": 1
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 12728,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 8991,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 2201,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/blog-SPA/pulls{/number}",
+  "pulls_authors": []
+}

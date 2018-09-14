@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "adbkit-logcat",
+  "full_name": "openstf/adbkit-logcat",
+  "owner": "openstf",
+  "private": false,
+  "html_url": "https://github.com/openstf/adbkit-logcat",
+  "description": "A Node.js interface for working with Android's logcat output.",
+  "fork": false,
+  "url": "https://api.github.com/repos/openstf/adbkit-logcat",
+  "languages_url": "https://api.github.com/repos/openstf/adbkit-logcat/languages",
+  "pulls_url": "https://api.github.com/repos/openstf/adbkit-logcat/pulls{/number}",
+  "created_at": "2013-11-26T09:22:14Z",
+  "updated_at": "2018-07-16T03:29:59Z",
+  "pushed_at": "2017-12-06T03:20:20Z",
+  "homepage": "",
+  "size": 84,
+  "stargazers_count": 24,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "openstf",
+    "id": 12196621,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMTk2NjIx",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/12196621?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/openstf",
+    "html_url": "https://github.com/openstf",
+    "followers_url": "https://api.github.com/users/openstf/followers",
+    "following_url": "https://api.github.com/users/openstf/following{/other_user}",
+    "gists_url": "https://api.github.com/users/openstf/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/openstf/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/openstf/subscriptions",
+    "organizations_url": "https://api.github.com/users/openstf/orgs",
+    "repos_url": "https://api.github.com/users/openstf/repos",
+    "events_url": "https://api.github.com/users/openstf/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/openstf/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "gunta": 1,
+    "sorccu": 78
+  },
+  "pulls_authors": [
+    "kittens",
+    "syncxplus",
+    "ghost"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 32913,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T23:06:05.562Z"
+}

@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Shanty-Mongo",
+  "full_name": "coen-hyde/Shanty-Mongo",
+  "owner": "coen-hyde",
+  "private": false,
+  "html_url": "https://github.com/coen-hyde/Shanty-Mongo",
+  "description": "Shanty Mongo is a mongodb library for the Zend Framework. Its intention is to make working with mongodb documents as natural and as simple as possible. In particular allowing embedded documents to also have custom document classes.",
+  "fork": false,
+  "url": "https://api.github.com/repos/coen-hyde/Shanty-Mongo",
+  "languages_url": "https://api.github.com/repos/coen-hyde/Shanty-Mongo/languages",
+  "pulls_url": "https://api.github.com/repos/coen-hyde/Shanty-Mongo/pulls{/number}",
+  "created_at": "2010-02-04T20:07:16Z",
+  "updated_at": "2018-09-04T13:40:23Z",
+  "pushed_at": "2017-07-10T14:45:12Z",
+  "homepage": "",
+  "size": 266,
+  "stargazers_count": 218,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "tonymillion": 1,
+    "rakesh-sankar": 1,
+    "markosamuli": 2,
+    "stunti": 2,
+    "chrismytton": 3,
+    "tholder": 13,
+    "jwpage": 20,
+    "coen-hyde": 94
+  },
+  "pulls_authors": [
+    "xeeo",
+    "huyi1985",
+    "tholder",
+    "tonymillion",
+    "chrismytton",
+    "zhdanov",
+    "jwpage",
+    "criticus",
+    "fatboystring",
+    "rakesh-sankar",
+    "gwagner",
+    "gishx",
+    "leek",
+    "sh",
+    "asiaclassified",
+    "balboah"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 210759,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:48.899Z"
+}

@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tfs-old-svn",
+  "full_name": "otland/tfs-old-svn",
+  "owner": "otland",
+  "private": false,
+  "html_url": "https://github.com/otland/tfs-old-svn",
+  "description": "TFS repository once kept private, converted from SVN",
+  "fork": false,
+  "url": "https://api.github.com/repos/otland/tfs-old-svn",
+  "languages_url": "https://api.github.com/repos/otland/tfs-old-svn/languages",
+  "pulls_url": "https://api.github.com/repos/otland/tfs-old-svn/pulls{/number}",
+  "created_at": "2014-03-11T21:14:37Z",
+  "updated_at": "2018-08-23T22:05:32Z",
+  "pushed_at": "2018-06-26T13:47:28Z",
+  "homepage": "https://otland.net",
+  "size": 32900,
+  "stargazers_count": 12,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "otland",
+    "id": 4956302,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ5NTYzMDI=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/4956302?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/otland",
+    "html_url": "https://github.com/otland",
+    "followers_url": "https://api.github.com/users/otland/followers",
+    "following_url": "https://api.github.com/users/otland/following{/other_user}",
+    "gists_url": "https://api.github.com/users/otland/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/otland/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/otland/subscriptions",
+    "organizations_url": "https://api.github.com/users/otland/orgs",
+    "repos_url": "https://api.github.com/users/otland/repos",
+    "events_url": "https://api.github.com/users/otland/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/otland/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "kornholi": 6,
+    "DSpeichert": 10,
+    "marksamman": 644,
+    "tayandenga": 4070
+  },
+  "pulls_authors": [
+    "okk3"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 2341142,
+      "color": "#f34b7d"
+    },
+    "Lua": {
+      "bytes": 234215,
+      "color": "#000080"
+    },
+    "C": {
+      "bytes": 26899,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 2911,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T15:15:50.191Z"
+}

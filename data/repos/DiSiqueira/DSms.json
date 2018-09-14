@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "DSms",
+  "full_name": "DiSiqueira/DSms",
+  "owner": "DiSiqueira",
+  "private": false,
+  "html_url": "https://github.com/DiSiqueira/DSms",
+  "description": "Envie um SMS para seu amigo que utiliza a operadora VIVO",
+  "fork": false,
+  "url": "https://api.github.com/repos/DiSiqueira/DSms",
+  "languages_url": "https://api.github.com/repos/DiSiqueira/DSms/languages",
+  "created_at": "2016-03-08T03:06:25Z",
+  "updated_at": "2016-03-08T06:36:47Z",
+  "pushed_at": "2016-03-08T16:19:11Z",
+  "homepage": "http://disiqueira.github.io/DSms",
+  "size": 34,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "DiSiqueira": 8
+  },
+  "languages": {
+    "Python": {
+      "bytes": 3297,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/DiSiqueira/DSms/pulls{/number}",
+  "pulls_authors": []
+}

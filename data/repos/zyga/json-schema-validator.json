@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "json-schema-validator",
+  "full_name": "zyga/json-schema-validator",
+  "owner": "zyga",
+  "private": false,
+  "html_url": "https://github.com/zyga/json-schema-validator",
+  "description": "Implementation of json-schema.org",
+  "fork": false,
+  "url": "https://api.github.com/repos/zyga/json-schema-validator",
+  "languages_url": "https://api.github.com/repos/zyga/json-schema-validator/languages",
+  "pulls_url": "https://api.github.com/repos/zyga/json-schema-validator/pulls{/number}",
+  "created_at": "2011-06-23T14:03:50Z",
+  "updated_at": "2018-01-08T18:27:35Z",
+  "pushed_at": "2016-02-08T12:40:15Z",
+  "homepage": "",
+  "size": 3106,
+  "stargazers_count": 57,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx_id": "LGPL-3.0",
+    "url": "https://api.github.com/licenses/lgpl-3.0",
+    "node_id": "MDc6TGljZW5zZTEy"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "codehelp": 1,
+    "phblj": 1,
+    "bgilbert": 1,
+    "graingert": 1,
+    "jayvdb": 3,
+    "husio": 3,
+    "zyga": 70
+  },
+  "pulls_authors": [
+    "jayvdb",
+    "codehelp",
+    "phblj",
+    "rafaelmartins",
+    "bgilbert",
+    "mwhudson",
+    "husio",
+    "graingert"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 104750,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

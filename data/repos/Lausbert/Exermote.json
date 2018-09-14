@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Exermote",
+  "full_name": "Lausbert/Exermote",
+  "owner": "Lausbert",
+  "private": false,
+  "html_url": "https://github.com/Lausbert/Exermote",
+  "description": "Using Machine Learning to predict the type of exercise from movement data",
+  "fork": false,
+  "url": "https://api.github.com/repos/Lausbert/Exermote",
+  "languages_url": "https://api.github.com/repos/Lausbert/Exermote/languages",
+  "pulls_url": "https://api.github.com/repos/Lausbert/Exermote/pulls{/number}",
+  "created_at": "2017-01-14T12:00:14Z",
+  "updated_at": "2018-08-24T11:58:36Z",
+  "pushed_at": "2018-08-15T07:43:28Z",
+  "homepage": "http://lausbert.com/2017/08/03/exermote/",
+  "size": 366391,
+  "stargazers_count": 58,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Lausbert": 198
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Swift": {
+      "bytes": 236263,
+      "color": "#ffac45"
+    },
+    "Python": {
+      "bytes": 34546,
+      "color": "#3572A5"
+    },
+    "Objective-C++": {
+      "bytes": 9247,
+      "color": "#6866fb"
+    },
+    "Ruby": {
+      "bytes": 2493,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 1784,
+      "color": "#89e051"
+    },
+    "Objective-C": {
+      "bytes": 1499,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-11T23:08:03.543Z"
+}

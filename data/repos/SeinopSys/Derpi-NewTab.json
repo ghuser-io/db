@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Derpi-NewTab",
+  "full_name": "SeinopSys/Derpi-NewTab",
+  "owner": "SeinopSys",
+  "private": false,
+  "html_url": "https://github.com/SeinopSys/Derpi-NewTab",
+  "description": "A new tab page replacement for Google Chrome and Firefox 60+, featuring the latest pony wallpaper from Derpibooru.org",
+  "fork": false,
+  "url": "https://api.github.com/repos/SeinopSys/Derpi-NewTab",
+  "languages_url": "https://api.github.com/repos/SeinopSys/Derpi-NewTab/languages",
+  "pulls_url": "https://api.github.com/repos/SeinopSys/Derpi-NewTab/pulls{/number}",
+  "created_at": "2015-08-04T18:53:14Z",
+  "updated_at": "2018-08-25T12:58:28Z",
+  "pushed_at": "2018-08-25T12:58:41Z",
+  "homepage": "",
+  "size": 53547,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ILM126": 2,
+    "jack126guy": 2,
+    "SeinopSys": 70
+  },
+  "pulls_authors": [
+    "ILM126",
+    "jack126guy"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 31048,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 10483,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 6566,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 301,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-25T19:36:20.279Z"
+}

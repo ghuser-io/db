@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jQuery-Seven-Segments",
+  "full_name": "jbrooksuk/jQuery-Seven-Segments",
+  "owner": "jbrooksuk",
+  "private": false,
+  "html_url": "https://github.com/jbrooksuk/jQuery-Seven-Segments",
+  "description": "A jQuery plugin to create seven segment arrays",
+  "fork": false,
+  "url": "https://api.github.com/repos/jbrooksuk/jQuery-Seven-Segments",
+  "languages_url": "https://api.github.com/repos/jbrooksuk/jQuery-Seven-Segments/languages",
+  "pulls_url": "https://api.github.com/repos/jbrooksuk/jQuery-Seven-Segments/pulls{/number}",
+  "created_at": "2010-09-11T18:05:14Z",
+  "updated_at": "2015-07-02T21:37:45Z",
+  "pushed_at": "2013-09-18T10:03:13Z",
+  "homepage": "http://james.brooks.so",
+  "size": 132,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jbrooksuk": 10
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 3113,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:01.940Z"
+}

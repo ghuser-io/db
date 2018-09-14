@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "igdb",
+  "full_name": "ahmetabdi/igdb",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/igdb",
+  "description": ":video_game: Ruby wrapper for the Internet Game Database API.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ahmetabdi/igdb",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/igdb/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/igdb/pulls{/number}",
+  "created_at": "2015-07-29T09:55:01Z",
+  "updated_at": "2017-10-29T22:37:43Z",
+  "pushed_at": "2018-04-28T22:04:42Z",
+  "homepage": "https://www.igdb.com/",
+  "size": 2460,
+  "stargazers_count": 17,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "naveed-ahmad": 5,
+    "ahmetabdi": 35
+  },
+  "pulls_authors": [
+    "Fortich",
+    "kalynrobinson",
+    "tastycake",
+    "ahmetabdi",
+    "naveed-ahmad"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 18179,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 115,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:30:57.100Z"
+}

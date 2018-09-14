@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fast-feed",
+  "full_name": "rla/fast-feed",
+  "owner": "rla",
+  "private": false,
+  "html_url": "https://github.com/rla/fast-feed",
+  "description": "Very fast RapidXML-based Node.JS module for parsing newsfeeds (RSS 2 and Atom).",
+  "fork": false,
+  "url": "https://api.github.com/repos/rla/fast-feed",
+  "languages_url": "https://api.github.com/repos/rla/fast-feed/languages",
+  "pulls_url": "https://api.github.com/repos/rla/fast-feed/pulls{/number}",
+  "created_at": "2013-06-06T18:01:14Z",
+  "updated_at": "2018-08-04T05:46:13Z",
+  "pushed_at": "2018-08-04T05:46:12Z",
+  "homepage": null,
+  "size": 82,
+  "stargazers_count": 21,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ndrut": 1,
+    "CKarper": 5,
+    "sdepold": 6,
+    "vielmetti": 7,
+    "rla": 66
+  },
+  "pulls_authors": [
+    "CKarper",
+    "vielmetti",
+    "sdepold",
+    "ndrut"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 144239,
+      "color": "#f34b7d"
+    },
+    "JavaScript": {
+      "bytes": 19127,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 873,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T17:13:19.598Z"
+}

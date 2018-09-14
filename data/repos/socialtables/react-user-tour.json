@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "react-user-tour",
+  "full_name": "socialtables/react-user-tour",
+  "owner": "socialtables",
+  "private": false,
+  "html_url": "https://github.com/socialtables/react-user-tour",
+  "description": "give your user a guided tour around your application",
+  "fork": false,
+  "url": "https://api.github.com/repos/socialtables/react-user-tour",
+  "languages_url": "https://api.github.com/repos/socialtables/react-user-tour/languages",
+  "pulls_url": "https://api.github.com/repos/socialtables/react-user-tour/pulls{/number}",
+  "created_at": "2015-10-27T19:45:21Z",
+  "updated_at": "2018-08-09T18:43:52Z",
+  "pushed_at": "2017-12-20T17:41:56Z",
+  "homepage": null,
+  "size": 384,
+  "stargazers_count": 133,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "socialtables",
+    "id": 1447804,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0NDc4MDQ=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/1447804?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/socialtables",
+    "html_url": "https://github.com/socialtables",
+    "followers_url": "https://api.github.com/users/socialtables/followers",
+    "following_url": "https://api.github.com/users/socialtables/following{/other_user}",
+    "gists_url": "https://api.github.com/users/socialtables/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/socialtables/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/socialtables/subscriptions",
+    "organizations_url": "https://api.github.com/users/socialtables/orgs",
+    "repos_url": "https://api.github.com/users/socialtables/repos",
+    "events_url": "https://api.github.com/users/socialtables/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/socialtables/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "zvictor": 1,
+    "rovolution": 1,
+    "krstffr": 1,
+    "bjoernm": 1,
+    "benjamingr": 1,
+    "erykpiast": 3,
+    "conorhastings": 60
+  },
+  "pulls_authors": [
+    "rudza",
+    "zvictor",
+    "conorhastings",
+    "rovolution",
+    "krstffr",
+    "erykpiast",
+    "bjoernm",
+    "benjamingr",
+    "jjow"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 20257,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:22.761Z"
+}

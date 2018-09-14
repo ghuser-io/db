@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rufus-runner",
+  "full_name": "ccallebs/rufus-runner",
+  "owner": "ccallebs",
+  "private": false,
+  "html_url": "https://github.com/ccallebs/rufus-runner",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/ccallebs/rufus-runner",
+  "languages_url": "https://api.github.com/repos/ccallebs/rufus-runner/languages",
+  "pulls_url": "https://api.github.com/repos/ccallebs/rufus-runner/pulls{/number}",
+  "created_at": "2015-08-20T22:59:37Z",
+  "updated_at": "2015-08-23T13:35:17Z",
+  "pushed_at": "2015-09-05T01:20:09Z",
+  "homepage": null,
+  "size": 236,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jmettraux": 1,
+    "marcusleemitchell": 2,
+    "ccallebs": 14,
+    "kraatob": 18,
+    "mezis": 27
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 29516,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:04.759Z"
+}

@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Penguin-Interface",
+  "full_name": "emota/Penguin-Interface",
+  "owner": "emota",
+  "private": false,
+  "html_url": "https://github.com/emota/Penguin-Interface",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/emota/Penguin-Interface",
+  "languages_url": "https://api.github.com/repos/emota/Penguin-Interface/languages",
+  "pulls_url": "https://api.github.com/repos/emota/Penguin-Interface/pulls{/number}",
+  "created_at": "2012-01-05T21:09:28Z",
+  "updated_at": "2014-01-08T03:44:54Z",
+  "pushed_at": "2012-04-10T22:11:51Z",
+  "homepage": "http://www.plusea.at/?page_id=2700",
+  "size": 6073,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "emota",
+    "id": 882743,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjg4Mjc0Mw==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/882743?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/emota",
+    "html_url": "https://github.com/emota",
+    "followers_url": "https://api.github.com/users/emota/followers",
+    "following_url": "https://api.github.com/users/emota/following{/other_user}",
+    "gists_url": "https://api.github.com/users/emota/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/emota/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/emota/subscriptions",
+    "organizations_url": "https://api.github.com/users/emota/orgs",
+    "repos_url": "https://api.github.com/users/emota/repos",
+    "events_url": "https://api.github.com/users/emota/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/emota/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "harlanji": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 31520,
+      "color": "#b07219"
+    },
+    "C": {
+      "bytes": 6006,
+      "color": "#555555"
+    },
+    "Prolog": {
+      "bytes": 1003,
+      "color": "#74283c"
+    }
+  },
+  "fetched_at": "2018-09-11T01:33:32.041Z"
+}

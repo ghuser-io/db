@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docker-plan9port",
+  "full_name": "moul/docker-plan9port",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/docker-plan9port",
+  "description": ":whale: plan9port in Docker",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/docker-plan9port",
+  "languages_url": "https://api.github.com/repos/moul/docker-plan9port/languages",
+  "pulls_url": "https://api.github.com/repos/moul/docker-plan9port/pulls{/number}",
+  "created_at": "2014-12-08T12:29:09Z",
+  "updated_at": "2016-07-01T17:36:42Z",
+  "pushed_at": "2018-08-18T16:10:49Z",
+  "homepage": "",
+  "size": 2,
+  "stargazers_count": 4,
+  "language": "Makefile",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 4
+  },
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
+  "languages": {
+    "Makefile": {
+      "bytes": 160,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:42.721Z"
+}

@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "recursive-recipes",
+  "full_name": "schollz/recursive-recipes",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/recursive-recipes",
+  "description": "Visualize the recursive nature of recipes :cake: :cookie:",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/recursive-recipes",
+  "languages_url": "https://api.github.com/repos/schollz/recursive-recipes/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/recursive-recipes/pulls{/number}",
+  "created_at": "2018-05-07T15:25:26Z",
+  "updated_at": "2018-09-03T12:28:22Z",
+  "pushed_at": "2018-06-02T22:24:10Z",
+  "homepage": "https://recursive.recipes",
+  "size": 1385,
+  "stargazers_count": 92,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "pbhj": 1,
+    "daveloyall": 1,
+    "jaytaylor": 1,
+    "schollz": 109
+  },
+  "pulls_authors": [
+    "pbhj",
+    "daveloyall",
+    "jaytaylor"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 30159,
+      "color": "#375eab"
+    },
+    "HTML": {
+      "bytes": 8119,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:31.904Z"
+}

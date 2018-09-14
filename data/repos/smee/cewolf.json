@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cewolf",
+  "full_name": "smee/cewolf",
+  "owner": "smee",
+  "private": false,
+  "html_url": "https://github.com/smee/cewolf",
+  "description": "Fork of cewolf, incorporation changes from Ulf Dittmer",
+  "fork": false,
+  "url": "https://api.github.com/repos/smee/cewolf",
+  "languages_url": "https://api.github.com/repos/smee/cewolf/languages",
+  "pulls_url": "https://api.github.com/repos/smee/cewolf/pulls{/number}",
+  "created_at": "2010-07-15T12:44:43Z",
+  "updated_at": "2015-12-18T12:34:55Z",
+  "pushed_at": "2010-07-19T08:58:04Z",
+  "homepage": "http://www.ulfdittmer.com/code/cewolf.html",
+  "size": 553,
+  "stargazers_count": 2,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "smee": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 500710,
+      "color": "#b07219"
+    },
+    "JavaScript": {
+      "bytes": 125604,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T13:51:50.806Z"
+}

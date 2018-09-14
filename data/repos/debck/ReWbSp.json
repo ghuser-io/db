@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ReWbSp",
+  "full_name": "debck/ReWbSp",
+  "owner": "debck",
+  "private": false,
+  "html_url": "https://github.com/debck/ReWbSp",
+  "description": "Web Scraping using  nodejs 🔎🔎    | Just meant for practicing scrapping",
+  "fork": false,
+  "url": "https://api.github.com/repos/debck/ReWbSp",
+  "languages_url": "https://api.github.com/repos/debck/ReWbSp/languages",
+  "created_at": "2018-04-21T13:51:20Z",
+  "updated_at": "2018-05-22T15:11:19Z",
+  "pushed_at": "2018-05-22T15:11:18Z",
+  "homepage": "",
+  "size": 1956,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "debck": 25
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 654,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/debck/ReWbSp/pulls{/number}",
+  "pulls_authors": [
+    "debck"
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "compare_with_wikidata",
+  "full_name": "everypolitician/compare_with_wikidata",
+  "owner": "everypolitician",
+  "private": false,
+  "html_url": "https://github.com/everypolitician/compare_with_wikidata",
+  "description": "Library for diffing Wikidata and CSVs",
+  "fork": false,
+  "url": "https://api.github.com/repos/everypolitician/compare_with_wikidata",
+  "languages_url": "https://api.github.com/repos/everypolitician/compare_with_wikidata/languages",
+  "pulls_url": "https://api.github.com/repos/everypolitician/compare_with_wikidata/pulls{/number}",
+  "created_at": "2017-07-17T14:48:30Z",
+  "updated_at": "2018-05-29T16:00:12Z",
+  "pushed_at": "2018-08-15T13:18:07Z",
+  "homepage": "",
+  "size": 166,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "everypolitician",
+    "id": 12497298,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyNDk3Mjk4",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/12497298?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/everypolitician",
+    "html_url": "https://github.com/everypolitician",
+    "followers_url": "https://api.github.com/users/everypolitician/followers",
+    "following_url": "https://api.github.com/users/everypolitician/following{/other_user}",
+    "gists_url": "https://api.github.com/users/everypolitician/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/everypolitician/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/everypolitician/subscriptions",
+    "organizations_url": "https://api.github.com/users/everypolitician/orgs",
+    "repos_url": "https://api.github.com/users/everypolitician/repos",
+    "events_url": "https://api.github.com/users/everypolitician/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/everypolitician/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "tmtmtmtm": 17,
+    "mhl": 18,
+    "chrismytton": 81
+  },
+  "pulls_authors": [
+    "chrismytton",
+    "tmtmtmtm",
+    "mhl"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 30071,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 3007,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 131,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:25.753Z"
+}

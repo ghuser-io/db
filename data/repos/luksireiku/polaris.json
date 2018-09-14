@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "polaris",
+  "full_name": "luksireiku/polaris",
+  "owner": "luksireiku",
+  "private": false,
+  "html_url": "https://github.com/luksireiku/polaris",
+  "description": "A multiplatform Python bot using plugins!",
+  "fork": false,
+  "url": "https://api.github.com/repos/luksireiku/polaris",
+  "languages_url": "https://api.github.com/repos/luksireiku/polaris/languages",
+  "pulls_url": "https://api.github.com/repos/luksireiku/polaris/pulls{/number}",
+  "created_at": "2015-09-28T22:41:18Z",
+  "updated_at": "2018-08-27T10:03:16Z",
+  "pushed_at": "2018-08-27T10:03:14Z",
+  "homepage": "https://telegram.me/PolarisChannel",
+  "size": 763,
+  "stargazers_count": 19,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "TiagoDanin": 1,
+    "JuanPotato": 1,
+    "i32ropie": 3,
+    "luksireiku": 221
+  },
+  "pulls_authors": [
+    "TiagoDanin",
+    "i32ropie",
+    "JuanPotato"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 166618,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 395,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-27T19:23:05.778Z"
+}

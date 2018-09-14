@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bytetoword",
+  "full_name": "schollz/bytetoword",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/bytetoword",
+  "description": "Convert a []byte{...} to a string of words",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/bytetoword",
+  "languages_url": "https://api.github.com/repos/schollz/bytetoword/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/bytetoword/pulls{/number}",
+  "created_at": "2018-06-27T03:22:47Z",
+  "updated_at": "2018-06-27T03:55:38Z",
+  "pushed_at": "2018-06-27T03:27:02Z",
+  "homepage": "",
+  "size": 214,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 3
+  },
+  "pulls_authors": [
+    "schollz"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 403152,
+      "color": "#375eab"
+    },
+    "Python": {
+      "bytes": 793,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:31.146Z"
+}

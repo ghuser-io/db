@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "CSS-Filter-Tooltip",
+  "full_name": "mdibaiee/CSS-Filter-Tooltip",
+  "owner": "mdibaiee",
+  "private": false,
+  "html_url": "https://github.com/mdibaiee/CSS-Filter-Tooltip",
+  "description": "CSS Filter Tooltip for Firefox (https://bugzilla.mozilla.org/show_bug.cgi?id=1055181)",
+  "fork": false,
+  "url": "https://api.github.com/repos/mdibaiee/CSS-Filter-Tooltip",
+  "languages_url": "https://api.github.com/repos/mdibaiee/CSS-Filter-Tooltip/languages",
+  "pulls_url": "https://api.github.com/repos/mdibaiee/CSS-Filter-Tooltip/pulls{/number}",
+  "created_at": "2015-03-15T14:20:06Z",
+  "updated_at": "2017-12-28T18:37:40Z",
+  "pushed_at": "2015-05-31T15:34:25Z",
+  "homepage": null,
+  "size": 426,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mpl-2.0",
+    "name": "Mozilla Public License 2.0",
+    "spdx_id": "MPL-2.0",
+    "url": "https://api.github.com/licenses/mpl-2.0",
+    "node_id": "MDc6TGljZW5zZTE0"
+  },
+  "default_branch": "gh-pages",
+  "contributors": {
+    "mamal72": 1,
+    "captainbrosset": 3,
+    "nt1m": 6,
+    "mdibaiee": 19
+  },
+  "pulls_authors": [
+    "nt1m",
+    "captainbrosset",
+    "mamal72"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 125952,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 2167,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1991,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:45.277Z"
+}

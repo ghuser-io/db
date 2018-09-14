@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "grunt-documentation",
+  "full_name": "documentationjs/grunt-documentation",
+  "owner": "documentationjs",
+  "private": false,
+  "html_url": "https://github.com/documentationjs/grunt-documentation",
+  "description": "Use Grunt with documentation to generate great documentation for your JavaScript projects.",
+  "fork": false,
+  "url": "https://api.github.com/repos/documentationjs/grunt-documentation",
+  "languages_url": "https://api.github.com/repos/documentationjs/grunt-documentation/languages",
+  "pulls_url": "https://api.github.com/repos/documentationjs/grunt-documentation/pulls{/number}",
+  "created_at": "2015-12-07T07:50:32Z",
+  "updated_at": "2018-05-18T16:08:29Z",
+  "pushed_at": "2018-09-10T22:02:02Z",
+  "homepage": "",
+  "size": 1359,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "documentationjs",
+    "id": 11415556,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExNDE1NTU2",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/11415556?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/documentationjs",
+    "html_url": "https://github.com/documentationjs",
+    "followers_url": "https://api.github.com/users/documentationjs/followers",
+    "following_url": "https://api.github.com/users/documentationjs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/documentationjs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/documentationjs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/documentationjs/subscriptions",
+    "organizations_url": "https://api.github.com/users/documentationjs/orgs",
+    "repos_url": "https://api.github.com/users/documentationjs/repos",
+    "events_url": "https://api.github.com/users/documentationjs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/documentationjs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "captbaritone": 1,
+    "ahmehri": 1,
+    "ianwremmel": 1,
+    "davehg": 2,
+    "greenkeeper[bot]": 7,
+    "tmcw": 13,
+    "SunboX": 20
+  },
+  "pulls_authors": [
+    "greenkeeper[bot]",
+    "tmcw",
+    "captbaritone",
+    "ahmehri",
+    "davehg",
+    "ianwremmel",
+    "grunt-updater2"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 5089,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:36.832Z"
+}

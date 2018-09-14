@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "AspNet.Mvc.ConfigurationExporter",
+  "full_name": "ziyasal/AspNet.Mvc.ConfigurationExporter",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/AspNet.Mvc.ConfigurationExporter",
+  "description": "Makes server side configurations are available on client side",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal/AspNet.Mvc.ConfigurationExporter",
+  "languages_url": "https://api.github.com/repos/ziyasal/AspNet.Mvc.ConfigurationExporter/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/AspNet.Mvc.ConfigurationExporter/pulls{/number}",
+  "created_at": "2015-01-21T15:07:14Z",
+  "updated_at": "2018-08-07T22:12:17Z",
+  "pushed_at": "2017-09-24T21:52:19Z",
+  "homepage": "",
+  "size": 921,
+  "stargazers_count": 4,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ocinbat": 2,
+    "ziyasal": 44
+  },
+  "pulls_authors": [
+    "ocinbat"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 44729,
+      "color": "#178600"
+    },
+    "JavaScript": {
+      "bytes": 10914,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 507,
+      "color": "#563d7c"
+    },
+    "ASP": {
+      "bytes": 130,
+      "color": "#6a40fd"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:05.727Z"
+}

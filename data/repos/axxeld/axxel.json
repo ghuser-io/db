@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "axxel",
+  "full_name": "axxeld/axxel",
+  "owner": "axxeld",
+  "private": false,
+  "html_url": "https://github.com/axxeld/axxel",
+  "description": "Axxel",
+  "fork": false,
+  "url": "https://api.github.com/repos/axxeld/axxel",
+  "languages_url": "https://api.github.com/repos/axxeld/axxel/languages",
+  "pulls_url": "https://api.github.com/repos/axxeld/axxel/pulls{/number}",
+  "created_at": "2013-07-15T04:21:15Z",
+  "updated_at": "2014-12-08T15:17:08Z",
+  "pushed_at": "2014-02-16T05:52:12Z",
+  "homepage": null,
+  "size": 7308,
+  "stargazers_count": 7,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "andresgut": 1,
+    "axxeld": 1,
+    "andresgutierrez": 13
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 40644,
+      "color": "#555555"
+    },
+    "JavaScript": {
+      "bytes": 5127,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 850,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:52.867Z"
+}

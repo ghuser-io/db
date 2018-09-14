@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "libisf",
+  "full_name": "jcelerier/libisf",
+  "owner": "jcelerier",
+  "private": false,
+  "html_url": "https://github.com/jcelerier/libisf",
+  "description": "C++ library and editor for interactive shader format",
+  "fork": false,
+  "url": "https://api.github.com/repos/jcelerier/libisf",
+  "languages_url": "https://api.github.com/repos/jcelerier/libisf/languages",
+  "pulls_url": "https://api.github.com/repos/jcelerier/libisf/pulls{/number}",
+  "created_at": "2017-05-29T22:58:56Z",
+  "updated_at": "2018-08-24T08:24:34Z",
+  "pushed_at": "2018-07-30T14:46:25Z",
+  "homepage": null,
+  "size": 4433,
+  "stargazers_count": 4,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 30
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 269248,
+      "color": "#f34b7d"
+    },
+    "CMake": {
+      "bytes": 1221,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:44.714Z"
+}

@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Security_list",
+  "full_name": "zbetcheckin/Security_list",
+  "owner": "zbetcheckin",
+  "private": false,
+  "html_url": "https://github.com/zbetcheckin/Security_list",
+  "description": "Great security list for fun and profit",
+  "fork": false,
+  "url": "https://api.github.com/repos/zbetcheckin/Security_list",
+  "languages_url": "https://api.github.com/repos/zbetcheckin/Security_list/languages",
+  "created_at": "2016-03-29T22:04:28Z",
+  "updated_at": "2018-09-09T19:47:18Z",
+  "pushed_at": "2018-06-08T08:39:08Z",
+  "homepage": "",
+  "size": 104,
+  "stargazers_count": 785,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "pix": 1,
+    "alichtman": 2,
+    "Chan9390": 2,
+    "zbetcheckin": 105
+  },
+  "languages": {},
+  "fetched_at": "2018-09-09T20:28:48.066Z",
+  "pulls_url": "https://api.github.com/repos/zbetcheckin/Security_list/pulls{/number}",
+  "pulls_authors": [
+    "jwilk",
+    "alichtman",
+    "Chan9390",
+    "pix"
+  ]
+}

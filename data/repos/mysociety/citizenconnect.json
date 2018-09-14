@@ -1,0 +1,94 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "citizenconnect",
+  "full_name": "mysociety/citizenconnect",
+  "owner": "mysociety",
+  "private": false,
+  "html_url": "https://github.com/mysociety/citizenconnect",
+  "description": "Citizen Connect project for the NHS: reporting problems, leaving reviews",
+  "fork": false,
+  "url": "https://api.github.com/repos/mysociety/citizenconnect",
+  "languages_url": "https://api.github.com/repos/mysociety/citizenconnect/languages",
+  "pulls_url": "https://api.github.com/repos/mysociety/citizenconnect/pulls{/number}",
+  "created_at": "2013-01-30T10:29:52Z",
+  "updated_at": "2018-03-08T15:36:37Z",
+  "pushed_at": "2015-03-06T14:30:48Z",
+  "homepage": "https://www.nhs.uk/careconnect/choices",
+  "size": 15225,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "mysociety",
+    "id": 141338,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/141338?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mysociety",
+    "html_url": "https://github.com/mysociety",
+    "followers_url": "https://api.github.com/users/mysociety/followers",
+    "following_url": "https://api.github.com/users/mysociety/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mysociety/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mysociety/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mysociety/subscriptions",
+    "organizations_url": "https://api.github.com/users/mysociety/orgs",
+    "repos_url": "https://api.github.com/users/mysociety/repos",
+    "events_url": "https://api.github.com/users/mysociety/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mysociety/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "dracos": 3,
+    "Jedidiah": 27,
+    "joshangell": 174,
+    "crowbot": 444,
+    "evdb": 664,
+    "chrismytton": 857
+  },
+  "pulls_authors": [
+    "stevenday",
+    "evdb",
+    "Flupsy",
+    "chrismytton",
+    "dracos",
+    "mhl",
+    "crowbot"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 2095089,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 743971,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 274709,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 2957,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 181,
+      "color": "#427819"
+    },
+    "Ruby": {
+      "bytes": 165,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:48.058Z"
+}

@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "js-cuint",
+  "full_name": "pierrec/js-cuint",
+  "owner": "pierrec",
+  "private": false,
+  "html_url": "https://github.com/pierrec/js-cuint",
+  "description": "C-like unsigned integers for Javascript",
+  "fork": false,
+  "url": "https://api.github.com/repos/pierrec/js-cuint",
+  "languages_url": "https://api.github.com/repos/pierrec/js-cuint/languages",
+  "pulls_url": "https://api.github.com/repos/pierrec/js-cuint/pulls{/number}",
+  "created_at": "2013-12-31T14:55:31Z",
+  "updated_at": "2018-08-02T09:19:42Z",
+  "pushed_at": "2018-06-22T16:05:17Z",
+  "homepage": null,
+  "size": 1226,
+  "stargazers_count": 21,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "iwehrman": 1,
+    "sffc": 1,
+    "MikeKovarik": 1,
+    "tec27": 2,
+    "pierrec": 22
+  },
+  "pulls_authors": [
+    "iwehrman",
+    "vote539",
+    "MikeKovarik",
+    "tec27"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 106785,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-09T22:43:12.823Z"
+}

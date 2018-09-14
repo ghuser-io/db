@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ReDock",
+  "full_name": "VQComms/ReDock",
+  "owner": "VQComms",
+  "private": false,
+  "html_url": "https://github.com/VQComms/ReDock",
+  "description": "A C# Docker remote API wrapper",
+  "fork": false,
+  "url": "https://api.github.com/repos/VQComms/ReDock",
+  "languages_url": "https://api.github.com/repos/VQComms/ReDock/languages",
+  "pulls_url": "https://api.github.com/repos/VQComms/ReDock/pulls{/number}",
+  "created_at": "2015-06-12T13:04:15Z",
+  "updated_at": "2018-05-23T12:08:19Z",
+  "pushed_at": "2017-07-28T08:19:58Z",
+  "homepage": "",
+  "size": 60,
+  "stargazers_count": 9,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "VQComms",
+    "id": 7871710,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc4NzE3MTA=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/7871710?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/VQComms",
+    "html_url": "https://github.com/VQComms",
+    "followers_url": "https://api.github.com/users/VQComms/followers",
+    "following_url": "https://api.github.com/users/VQComms/following{/other_user}",
+    "gists_url": "https://api.github.com/users/VQComms/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/VQComms/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/VQComms/subscriptions",
+    "organizations_url": "https://api.github.com/users/VQComms/orgs",
+    "repos_url": "https://api.github.com/users/VQComms/repos",
+    "events_url": "https://api.github.com/users/VQComms/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/VQComms/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "JosephWoodward": 1,
+    "tcorrin": 5,
+    "jchannon": 22,
+    "Yantrio": 49
+  },
+  "pulls_authors": [
+    "JosephWoodward",
+    "tcorrin",
+    "Yantrio",
+    "jchannon"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 16824,
+      "color": "#178600"
+    },
+    "PowerShell": {
+      "bytes": 2158,
+      "color": "#012456"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:40.300Z"
+}

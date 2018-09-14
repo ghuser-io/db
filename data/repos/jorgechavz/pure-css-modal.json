@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pure-css-modal",
+  "full_name": "jorgechavz/pure-css-modal",
+  "owner": "jorgechavz",
+  "private": false,
+  "html_url": "https://github.com/jorgechavz/pure-css-modal",
+  "description": "Popup CSS modal. No javascript.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jorgechavz/pure-css-modal",
+  "languages_url": "https://api.github.com/repos/jorgechavz/pure-css-modal/languages",
+  "pulls_url": "https://api.github.com/repos/jorgechavz/pure-css-modal/pulls{/number}",
+  "created_at": "2015-06-19T00:15:24Z",
+  "updated_at": "2018-09-10T13:27:49Z",
+  "pushed_at": "2017-06-18T19:50:30Z",
+  "homepage": null,
+  "size": 37,
+  "stargazers_count": 68,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "CrazyPython": 1,
+    "hidechae": 1,
+    "gdassori": 1,
+    "echavezNS": 4,
+    "jorgechavz": 27
+  },
+  "pulls_authors": [
+    "CrazyPython",
+    "hidechae",
+    "gdassori",
+    "echavezNS"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 8981,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 3804,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T10:36:11.388Z"
+}

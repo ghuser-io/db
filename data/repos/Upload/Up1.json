@@ -1,0 +1,88 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 1,
+    "sirocyl": 1,
+    "tehmaze": 1,
+    "gangelop": 2,
+    "k3d3": 55,
+    "andre-d": 151
+  },
+  "name": "Up1",
+  "full_name": "Upload/Up1",
+  "owner": "Upload",
+  "private": false,
+  "html_url": "https://github.com/Upload/Up1",
+  "description": "Client-side encrypted image host web server",
+  "fork": false,
+  "url": "https://api.github.com/repos/Upload/Up1",
+  "languages_url": "https://api.github.com/repos/Upload/Up1/languages",
+  "created_at": "2015-06-06T18:47:06Z",
+  "updated_at": "2018-09-12T08:39:58Z",
+  "pushed_at": "2017-08-05T14:03:24Z",
+  "homepage": "",
+  "size": 232,
+  "stargazers_count": 565,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "Upload",
+    "id": 12774718,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyNzc0NzE4",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/12774718?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Upload",
+    "html_url": "https://github.com/Upload",
+    "followers_url": "https://api.github.com/users/Upload/followers",
+    "following_url": "https://api.github.com/users/Upload/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Upload/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Upload/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Upload/subscriptions",
+    "organizations_url": "https://api.github.com/users/Upload/orgs",
+    "repos_url": "https://api.github.com/users/Upload/repos",
+    "events_url": "https://api.github.com/users/Upload/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Upload/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 41120,
+      "color": "#f1e05a"
+    },
+    "Go": {
+      "bytes": 6051,
+      "color": "#375eab"
+    },
+    "CSS": {
+      "bytes": 5759,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1213,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T15:36:55.563Z",
+  "pulls_url": "https://api.github.com/repos/Upload/Up1/pulls{/number}",
+  "pulls_authors": [
+    "Calinou",
+    "sirocyl",
+    "smb",
+    "gangelop",
+    "tehmaze",
+    "Juerd",
+    "msemple1111",
+    "andre-d",
+    "xataz"
+  ]
+}

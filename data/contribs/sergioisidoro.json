@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "AgoraOrg/AgoraOrg.github.io": {
+      "full_name": "AgoraOrg/AgoraOrg.github.io",
+      "name": "AgoraOrg.github.io",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 8,
+      "activity": 0.7636568329041582,
+      "total_score": 0.7636568329041582,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "carlio/django-flows": {
+      "full_name": "carlio/django-flows",
+      "name": "django-flows",
+      "stargazers_count": 104,
+      "popularity": 3.013297716025155,
+      "percentage": 0,
+      "maturity": 2.894385133720438,
+      "total_commits_count": 118,
+      "activity": 0.6336984193298996,
+      "total_score": 15.46236183484624,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sergioisidoro/aequalis": {
+      "full_name": "sergioisidoro/aequalis",
+      "name": "aequalis",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 13,
+      "activity": 0.5867743627155244,
+      "total_score": 17.249625889802566,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sergioisidoro/MultimodalTranslation": {
+      "full_name": "sergioisidoro/MultimodalTranslation",
+      "name": "MultimodalTranslation",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 20,
+      "maturity": 0,
+      "total_commits_count": 15,
+      "activity": 0.3252366310081456,
+      "total_score": 0.3252366310081456,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "AgoraOrg"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sapin",
+  "full_name": "moul/sapin",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/sapin",
+  "description": ":christmas_tree: draw a beautiful christmas tree in ascii using Golang",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/sapin",
+  "languages_url": "https://api.github.com/repos/moul/sapin/languages",
+  "pulls_url": "https://api.github.com/repos/moul/sapin/pulls{/number}",
+  "created_at": "2015-10-21T06:52:46Z",
+  "updated_at": "2018-08-18T23:02:31Z",
+  "pushed_at": "2018-08-18T23:02:34Z",
+  "homepage": "http://showcase.m.42.am/sapin?color=false&size=5&garlands=5&star=true&balls=5&presents=true",
+  "size": 427,
+  "stargazers_count": 7,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "renovate-bot": 1,
+    "ImgBotApp": 1,
+    "moul": 39
+  },
+  "pulls_authors": [
+    "renovate[bot]",
+    "imgbot[bot]",
+    "moul"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 25432,
+      "color": "#375eab"
+    },
+    "CSS": {
+      "bytes": 9017,
+      "color": "#563d7c"
+    },
+    "Makefile": {
+      "bytes": 2048,
+      "color": "#427819"
+    },
+    "Ruby": {
+      "bytes": 1077,
+      "color": "#701516"
+    },
+    "Dockerfile": {
+      "bytes": 54,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:39.935Z"
+}

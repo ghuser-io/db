@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "osx",
+  "full_name": "webuildsg/osx",
+  "owner": "webuildsg",
+  "private": false,
+  "html_url": "https://github.com/webuildsg/osx",
+  "description": ":computer: a tiny os x menubar app to display the upcoming events and recently updated repos",
+  "fork": false,
+  "url": "https://api.github.com/repos/webuildsg/osx",
+  "languages_url": "https://api.github.com/repos/webuildsg/osx/languages",
+  "pulls_url": "https://api.github.com/repos/webuildsg/osx/pulls{/number}",
+  "created_at": "2015-05-25T11:15:52Z",
+  "updated_at": "2018-08-29T14:07:47Z",
+  "pushed_at": "2016-12-04T23:12:47Z",
+  "homepage": "https://github.com/webuildsg/osx/releases",
+  "size": 1069,
+  "stargazers_count": 40,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "webuildsg",
+    "id": 7611825,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc2MTE4MjU=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/7611825?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/webuildsg",
+    "html_url": "https://github.com/webuildsg",
+    "followers_url": "https://api.github.com/users/webuildsg/followers",
+    "following_url": "https://api.github.com/users/webuildsg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/webuildsg/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/webuildsg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/webuildsg/subscriptions",
+    "organizations_url": "https://api.github.com/users/webuildsg/orgs",
+    "repos_url": "https://api.github.com/users/webuildsg/repos",
+    "events_url": "https://api.github.com/users/webuildsg/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/webuildsg/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "uzyn": 6,
+    "cheeaun": 14,
+    "sayanee": 37
+  },
+  "pulls_authors": [
+    "greenkeeper[bot]",
+    "uzyn",
+    "cheeaun"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 4569,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 2594,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1751,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:59.767Z"
+}

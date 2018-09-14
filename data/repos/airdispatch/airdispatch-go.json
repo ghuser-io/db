@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "airdispatch-go",
+  "full_name": "airdispatch/airdispatch-go",
+  "owner": "airdispatch",
+  "private": false,
+  "html_url": "https://github.com/airdispatch/airdispatch-go",
+  "description": "A decentralized messaging protocol.",
+  "fork": false,
+  "url": "https://api.github.com/repos/airdispatch/airdispatch-go",
+  "languages_url": "https://api.github.com/repos/airdispatch/airdispatch-go/languages",
+  "pulls_url": "https://api.github.com/repos/airdispatch/airdispatch-go/pulls{/number}",
+  "created_at": "2013-02-14T20:57:58Z",
+  "updated_at": "2017-07-04T11:50:39Z",
+  "pushed_at": "2015-11-10T18:41:22Z",
+  "homepage": "http://airdispat.ch",
+  "size": 3133,
+  "stargazers_count": 23,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "airdispatch",
+    "id": 4492632,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0OTI2MzI=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/4492632?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/airdispatch",
+    "html_url": "https://github.com/airdispatch",
+    "followers_url": "https://api.github.com/users/airdispatch/followers",
+    "following_url": "https://api.github.com/users/airdispatch/following{/other_user}",
+    "gists_url": "https://api.github.com/users/airdispatch/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/airdispatch/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/airdispatch/subscriptions",
+    "organizations_url": "https://api.github.com/users/airdispatch/orgs",
+    "repos_url": "https://api.github.com/users/airdispatch/repos",
+    "events_url": "https://api.github.com/users/airdispatch/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/airdispatch/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "msilvprog7": 11,
+    "brentbaum": 14,
+    "huntaub": 252
+  },
+  "pulls_authors": [
+    "bitjson"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 73662,
+      "color": "#375eab"
+    },
+    "Protocol Buffer": {
+      "bytes": 2889,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 609,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:44:38.928Z"
+}

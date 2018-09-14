@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hyperpixel",
+  "full_name": "pimoroni/hyperpixel",
+  "owner": "pimoroni",
+  "private": false,
+  "html_url": "https://github.com/pimoroni/hyperpixel",
+  "description": "Setup for the Pimoroni Hyper Pixel 800x480 pixel multi-touch display",
+  "fork": false,
+  "url": "https://api.github.com/repos/pimoroni/hyperpixel",
+  "languages_url": "https://api.github.com/repos/pimoroni/hyperpixel/languages",
+  "pulls_url": "https://api.github.com/repos/pimoroni/hyperpixel/pulls{/number}",
+  "created_at": "2017-06-07T13:00:31Z",
+  "updated_at": "2018-09-07T19:53:30Z",
+  "pushed_at": "2018-03-16T14:42:58Z",
+  "homepage": "https://shop.pimoroni.com/products/hyperpixel",
+  "size": 6888,
+  "stargazers_count": 67,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pimoroni",
+    "id": 2399917,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzOTk5MTc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2399917?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pimoroni",
+    "html_url": "https://github.com/pimoroni",
+    "followers_url": "https://api.github.com/users/pimoroni/followers",
+    "following_url": "https://api.github.com/users/pimoroni/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pimoroni/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pimoroni/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pimoroni/subscriptions",
+    "organizations_url": "https://api.github.com/users/pimoroni/orgs",
+    "repos_url": "https://api.github.com/users/pimoroni/repos",
+    "events_url": "https://api.github.com/users/pimoroni/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pimoroni/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "amm0nite": 1,
+    "ali1234": 1,
+    "snobu": 3,
+    "Gadgetoid": 16,
+    "RogueM": 44
+  },
+  "pulls_authors": [
+    "snobu",
+    "amm0nite",
+    "johnmccabe",
+    "RogueM",
+    "ali1234"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 8538,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 6637,
+      "color": "#89e051"
+    },
+    "C": {
+      "bytes": 2083,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:08.052Z"
+}

@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "shineyoureye-sinatra",
+  "full_name": "theyworkforyou/shineyoureye-sinatra",
+  "owner": "theyworkforyou",
+  "private": false,
+  "html_url": "https://github.com/theyworkforyou/shineyoureye-sinatra",
+  "description": "A \"viewer-sinatra\"-like approach to building a light parliamentary monitoring site for Nigeria",
+  "fork": false,
+  "url": "https://api.github.com/repos/theyworkforyou/shineyoureye-sinatra",
+  "languages_url": "https://api.github.com/repos/theyworkforyou/shineyoureye-sinatra/languages",
+  "pulls_url": "https://api.github.com/repos/theyworkforyou/shineyoureye-sinatra/pulls{/number}",
+  "created_at": "2016-12-09T13:30:01Z",
+  "updated_at": "2018-05-08T11:05:11Z",
+  "pushed_at": "2018-05-08T11:05:08Z",
+  "homepage": "",
+  "size": 1011,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "theyworkforyou",
+    "id": 17250791,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3MjUwNzkx",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/17250791?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/theyworkforyou",
+    "html_url": "https://github.com/theyworkforyou",
+    "followers_url": "https://api.github.com/users/theyworkforyou/followers",
+    "following_url": "https://api.github.com/users/theyworkforyou/following{/other_user}",
+    "gists_url": "https://api.github.com/users/theyworkforyou/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/theyworkforyou/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/theyworkforyou/subscriptions",
+    "organizations_url": "https://api.github.com/users/theyworkforyou/orgs",
+    "repos_url": "https://api.github.com/users/theyworkforyou/repos",
+    "events_url": "https://api.github.com/users/theyworkforyou/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/theyworkforyou/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "chrismytton": 1,
+    "crocodileDundee": 1,
+    "zarino": 23,
+    "mhl": 127,
+    "octopusinvitro": 297
+  },
+  "pulls_authors": [
+    "zarino",
+    "chrismytton",
+    "mhl",
+    "octopusinvitro"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 137331,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 49622,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 12706,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 5676,
+      "color": "#89e051"
+    },
+    "JavaScript": {
+      "bytes": 852,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:26.612Z"
+}

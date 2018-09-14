@@ -1,0 +1,87 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pirata.cat",
+  "full_name": "pirata-cat/pirata.cat",
+  "owner": "pirata-cat",
+  "private": false,
+  "html_url": "https://github.com/pirata-cat/pirata.cat",
+  "description": "Pirates de Catalunya official website. Powered by Zas.",
+  "fork": false,
+  "url": "https://api.github.com/repos/pirata-cat/pirata.cat",
+  "languages_url": "https://api.github.com/repos/pirata-cat/pirata.cat/languages",
+  "pulls_url": "https://api.github.com/repos/pirata-cat/pirata.cat/pulls{/number}",
+  "created_at": "2010-08-08T22:59:00Z",
+  "updated_at": "2015-04-23T06:55:26Z",
+  "pushed_at": "2015-04-23T06:55:25Z",
+  "homepage": "http://pirata.cat",
+  "size": 3000,
+  "stargazers_count": 5,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "pirata-cat",
+    "id": 1370211,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzNzAyMTE=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1370211?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pirata-cat",
+    "html_url": "https://github.com/pirata-cat",
+    "followers_url": "https://api.github.com/users/pirata-cat/followers",
+    "following_url": "https://api.github.com/users/pirata-cat/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pirata-cat/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pirata-cat/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pirata-cat/subscriptions",
+    "organizations_url": "https://api.github.com/users/pirata-cat/orgs",
+    "repos_url": "https://api.github.com/users/pirata-cat/repos",
+    "events_url": "https://api.github.com/users/pirata-cat/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pirata-cat/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "alberginia": 1,
+    "imdario": 15,
+    "DZPM": 32
+  },
+  "pulls_authors": [
+    "alberginia"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 677292,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 504253,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 217770,
+      "color": "#563d7c"
+    },
+    "Python": {
+      "bytes": 10516,
+      "color": "#3572A5"
+    },
+    "XSLT": {
+      "bytes": 5279,
+      "color": "#EB8CEB"
+    },
+    "PHP": {
+      "bytes": 1052,
+      "color": "#4F5D95"
+    },
+    "Go": {
+      "bytes": 532,
+      "color": "#375eab"
+    },
+    "Shell": {
+      "bytes": 119,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T20:48:05.707Z"
+}

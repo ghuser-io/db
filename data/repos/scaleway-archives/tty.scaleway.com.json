@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tty.scaleway.com",
+  "full_name": "scaleway-archives/tty.scaleway.com",
+  "owner": "scaleway-archives",
+  "private": false,
+  "html_url": "https://github.com/scaleway-archives/tty.scaleway.com",
+  "description": ":wrench: Node.js+Socket.io proxy to access nodes serial using browser/javascript client",
+  "fork": false,
+  "url": "https://api.github.com/repos/scaleway-archives/tty.scaleway.com",
+  "languages_url": "https://api.github.com/repos/scaleway-archives/tty.scaleway.com/languages",
+  "pulls_url": "https://api.github.com/repos/scaleway-archives/tty.scaleway.com/pulls{/number}",
+  "created_at": "2015-06-17T08:32:41Z",
+  "updated_at": "2018-07-27T12:11:08Z",
+  "pushed_at": "2018-03-02T17:46:46Z",
+  "homepage": "https://www.scaleway.com/docs/?q=serial",
+  "size": 286,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "scaleway-archives",
+    "id": 11839816,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExODM5ODE2",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/11839816?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/scaleway-archives",
+    "html_url": "https://github.com/scaleway-archives",
+    "followers_url": "https://api.github.com/users/scaleway-archives/followers",
+    "following_url": "https://api.github.com/users/scaleway-archives/following{/other_user}",
+    "gists_url": "https://api.github.com/users/scaleway-archives/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/scaleway-archives/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/scaleway-archives/subscriptions",
+    "organizations_url": "https://api.github.com/users/scaleway-archives/orgs",
+    "repos_url": "https://api.github.com/users/scaleway-archives/repos",
+    "events_url": "https://api.github.com/users/scaleway-archives/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/scaleway-archives/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "moul": 58
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 161854,
+      "color": "#f1e05a"
+    },
+    "CoffeeScript": {
+      "bytes": 2121,
+      "color": "#244776"
+    },
+    "Makefile": {
+      "bytes": 1614,
+      "color": "#427819"
+    },
+    "HTML": {
+      "bytes": 267,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:21.674Z"
+}

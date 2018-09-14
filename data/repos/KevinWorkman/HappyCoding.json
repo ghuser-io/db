@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "HappyCoding",
+  "full_name": "KevinWorkman/HappyCoding",
+  "owner": "KevinWorkman",
+  "private": false,
+  "html_url": "https://github.com/KevinWorkman/HappyCoding",
+  "description": "This is the source code behind HappyCoding.io, including all tutorials and examples.",
+  "fork": false,
+  "url": "https://api.github.com/repos/KevinWorkman/HappyCoding",
+  "languages_url": "https://api.github.com/repos/KevinWorkman/HappyCoding/languages",
+  "created_at": "2016-06-09T20:11:47Z",
+  "updated_at": "2018-09-01T17:33:40Z",
+  "pushed_at": "2018-08-28T04:49:43Z",
+  "homepage": "http://HappyCoding.io",
+  "size": 64379,
+  "stargazers_count": 14,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "gh-pages",
+  "contributors": {
+    "bigbass1997": 1,
+    "robocyber": 6,
+    "KevinWorkman": 661
+  },
+  "languages": {
+    "CSS": {
+      "bytes": 314897,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 52110,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 33610,
+      "color": "#f1e05a"
+    },
+    "Processing": {
+      "bytes": 9100,
+      "color": "#0096D8"
+    }
+  },
+  "fetched_at": "2018-09-01T23:23:35.174Z",
+  "pulls_url": "https://api.github.com/repos/KevinWorkman/HappyCoding/pulls{/number}",
+  "pulls_authors": [
+    "robocyber",
+    "bigbass1997"
+  ]
+}

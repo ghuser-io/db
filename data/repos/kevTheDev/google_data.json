@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "google_data",
+  "full_name": "kevTheDev/google_data",
+  "owner": "kevTheDev",
+  "private": false,
+  "html_url": "https://github.com/kevTheDev/google_data",
+  "description": "GData4Ruby is a wrapper for the generic Google Data services",
+  "fork": true,
+  "url": "https://api.github.com/repos/kevTheDev/google_data",
+  "languages_url": "https://api.github.com/repos/kevTheDev/google_data/languages",
+  "pulls_url": "https://api.github.com/repos/kevTheDev/google_data/pulls{/number}",
+  "created_at": "2011-04-14T13:28:03Z",
+  "updated_at": "2013-01-01T21:37:18Z",
+  "pushed_at": "2011-05-06T15:33:22Z",
+  "homepage": "http://cookingandcoding.com/gdata4ruby",
+  "size": 125,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mjreich": 6,
+    "kevTheDev": 21
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 29357,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T13:47:58.467Z"
+}

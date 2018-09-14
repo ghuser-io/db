@@ -1,0 +1,90 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "blank-canvas",
+  "full_name": "ku-fpg/blank-canvas",
+  "owner": "ku-fpg",
+  "private": false,
+  "html_url": "https://github.com/ku-fpg/blank-canvas",
+  "description": "A Haskell API into HTML5 Canvas",
+  "fork": false,
+  "url": "https://api.github.com/repos/ku-fpg/blank-canvas",
+  "languages_url": "https://api.github.com/repos/ku-fpg/blank-canvas/languages",
+  "pulls_url": "https://api.github.com/repos/ku-fpg/blank-canvas/pulls{/number}",
+  "created_at": "2012-10-18T19:43:23Z",
+  "updated_at": "2018-08-24T01:07:58Z",
+  "pushed_at": "2018-08-13T13:31:13Z",
+  "homepage": "",
+  "size": 34687,
+  "stargazers_count": 46,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ku-fpg",
+    "id": 760894,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc2MDg5NA==",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/760894?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ku-fpg",
+    "html_url": "https://github.com/ku-fpg",
+    "followers_url": "https://api.github.com/users/ku-fpg/followers",
+    "following_url": "https://api.github.com/users/ku-fpg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ku-fpg/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ku-fpg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ku-fpg/subscriptions",
+    "organizations_url": "https://api.github.com/users/ku-fpg/orgs",
+    "repos_url": "https://api.github.com/users/ku-fpg/repos",
+    "events_url": "https://api.github.com/users/ku-fpg/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ku-fpg/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "nomeata": 1,
+    "sordina": 1,
+    "ggreif": 3,
+    "nshaheed": 7,
+    "jeffreyrosenbluth": 8,
+    "jtdawso": 9,
+    "roboguy13": 19,
+    "RyanGlScott": 125,
+    "andygill": 271
+  },
+  "pulls_authors": [
+    "jtdawso",
+    "nshaheed",
+    "nomeata",
+    "RyanGlScott",
+    "jeffreyrosenbluth",
+    "moizjv",
+    "ggreif",
+    "byorgey"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 221473,
+      "color": "#5e5086"
+    },
+    "HTML": {
+      "bytes": 11523,
+      "color": "#e34c26"
+    },
+    "Perl": {
+      "bytes": 4286,
+      "color": "#0298c3"
+    },
+    "Makefile": {
+      "bytes": 182,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:09.075Z"
+}

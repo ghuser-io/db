@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SwiftChatClient",
+  "full_name": "cardoso/SwiftChatClient",
+  "owner": "cardoso",
+  "private": false,
+  "html_url": "https://github.com/cardoso/SwiftChatClient",
+  "description": "Client part of the [Server] <--- [Core] ---> [Client] Full-stack Swift Boilerplate",
+  "fork": false,
+  "url": "https://api.github.com/repos/cardoso/SwiftChatClient",
+  "languages_url": "https://api.github.com/repos/cardoso/SwiftChatClient/languages",
+  "pulls_url": "https://api.github.com/repos/cardoso/SwiftChatClient/pulls{/number}",
+  "created_at": "2018-07-15T21:09:04Z",
+  "updated_at": "2018-07-17T16:24:55Z",
+  "pushed_at": "2018-07-16T02:03:23Z",
+  "homepage": "",
+  "size": 12,
+  "stargazers_count": 2,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cardoso": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Swift": {
+      "bytes": 4913,
+      "color": "#ffac45"
+    },
+    "Ruby": {
+      "bytes": 320,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-03T21:47:32.455Z"
+}

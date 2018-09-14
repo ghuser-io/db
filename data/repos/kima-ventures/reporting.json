@@ -1,0 +1,76 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "reporting",
+  "full_name": "kima-ventures/reporting",
+  "owner": "kima-ventures",
+  "private": false,
+  "html_url": "https://github.com/kima-ventures/reporting",
+  "description": "Opensource reporting system for VC funds",
+  "fork": false,
+  "url": "https://api.github.com/repos/kima-ventures/reporting",
+  "languages_url": "https://api.github.com/repos/kima-ventures/reporting/languages",
+  "pulls_url": "https://api.github.com/repos/kima-ventures/reporting/pulls{/number}",
+  "created_at": "2017-01-16T15:04:13Z",
+  "updated_at": "2018-08-28T12:18:58Z",
+  "pushed_at": "2018-08-28T12:18:55Z",
+  "homepage": "",
+  "size": 307,
+  "stargazers_count": 24,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "kima-ventures",
+    "id": 25154334,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1MTU0MzM0",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/25154334?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/kima-ventures",
+    "html_url": "https://github.com/kima-ventures",
+    "followers_url": "https://api.github.com/users/kima-ventures/followers",
+    "following_url": "https://api.github.com/users/kima-ventures/following{/other_user}",
+    "gists_url": "https://api.github.com/users/kima-ventures/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/kima-ventures/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/kima-ventures/subscriptions",
+    "organizations_url": "https://api.github.com/users/kima-ventures/orgs",
+    "repos_url": "https://api.github.com/users/kima-ventures/repos",
+    "events_url": "https://api.github.com/users/kima-ventures/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/kima-ventures/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "moul": 4,
+    "alexisrobert": 45
+  },
+  "pulls_authors": [
+    "moul"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 224170,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 61505,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 31001,
+      "color": "#e34c26"
+    },
+    "Dockerfile": {
+      "bytes": 238,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:48.139Z"
+}

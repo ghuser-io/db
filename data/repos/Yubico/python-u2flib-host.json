@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "python-u2flib-host",
+  "full_name": "Yubico/python-u2flib-host",
+  "owner": "Yubico",
+  "private": false,
+  "html_url": "https://github.com/Yubico/python-u2flib-host",
+  "description": "Python based U2F host library",
+  "fork": false,
+  "url": "https://api.github.com/repos/Yubico/python-u2flib-host",
+  "languages_url": "https://api.github.com/repos/Yubico/python-u2flib-host/languages",
+  "pulls_url": "https://api.github.com/repos/Yubico/python-u2flib-host/pulls{/number}",
+  "created_at": "2014-02-13T15:06:12Z",
+  "updated_at": "2018-08-20T10:37:33Z",
+  "pushed_at": "2018-08-20T10:37:31Z",
+  "homepage": "https://developers.yubico.com/python-u2flib-host",
+  "size": 198,
+  "stargazers_count": 36,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-2-clause",
+    "name": "BSD 2-Clause \"Simplified\" License",
+    "spdx_id": "BSD-2-Clause",
+    "url": "https://api.github.com/licenses/bsd-2-clause",
+    "node_id": "MDc6TGljZW5zZTQ="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "Yubico",
+    "id": 531825,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjUzMTgyNQ==",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/531825?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Yubico",
+    "html_url": "https://github.com/Yubico",
+    "followers_url": "https://api.github.com/users/Yubico/followers",
+    "following_url": "https://api.github.com/users/Yubico/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Yubico/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Yubico/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Yubico/subscriptions",
+    "organizations_url": "https://api.github.com/users/Yubico/orgs",
+    "repos_url": "https://api.github.com/users/Yubico/repos",
+    "events_url": "https://api.github.com/users/Yubico/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Yubico/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "dahu33": 1,
+    "ptone": 1,
+    "jas4711": 1,
+    "outofjungle": 2,
+    "ctz": 2,
+    "minisu": 2,
+    "gpr33": 4,
+    "peter-conalgo": 5,
+    "moreati": 26,
+    "dainnilsson": 76
+  },
+  "pulls_authors": [
+    "outofjungle",
+    "dahu33",
+    "Alex131089",
+    "moreati",
+    "peter-conalgo",
+    "ptone",
+    "ctz"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 70377,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:17.770Z"
+}

@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "chiliproject",
+  "full_name": "SpenserJ/chiliproject",
+  "owner": "SpenserJ",
+  "private": false,
+  "html_url": "https://github.com/SpenserJ/chiliproject",
+  "description": "ChiliProject is a web based project management system built on Ruby on Rails",
+  "fork": true,
+  "url": "https://api.github.com/repos/SpenserJ/chiliproject",
+  "languages_url": "https://api.github.com/repos/SpenserJ/chiliproject/languages",
+  "pulls_url": "https://api.github.com/repos/SpenserJ/chiliproject/pulls{/number}",
+  "created_at": "2012-04-10T21:41:24Z",
+  "updated_at": "2013-01-08T15:39:45Z",
+  "pushed_at": "2012-04-10T21:52:39Z",
+  "homepage": "https://www.chiliproject.org/",
+  "size": 18530,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mitfik": 1,
+    "dfeyer": 1,
+    "esmarkowski": 1,
+    "jwalkerbg": 1,
+    "GregMefford": 1,
+    "gaverhae": 1,
+    "ecdpalma": 1,
+    "hugocf": 1,
+    "et": 1,
+    "wielinde": 1,
+    "peelman": 2,
+    "tomkersten": 2,
+    "ulferts": 2,
+    "michaelrigart": 3,
+    "endersonmaia": 3,
+    "tomzx": 3,
+    "deflomu": 3,
+    "GarstgerUnhold": 4,
+    "mbreit": 4,
+    "korny": 4,
+    "EspadaV8": 7,
+    "jgoerzen": 12,
+    "jbbarth": 52,
+    "schmidt": 61,
+    "timfel": 80,
+    "thegcat": 85,
+    "winterheart": 109,
+    "meineerde": 178,
+    "marutosi": 374,
+    "edavis10": 987,
+    "jplang": 3044
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 2478405,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 311693,
+      "color": "#f1e05a"
+    },
+    "Perl": {
+      "bytes": 15493,
+      "color": "#0298c3"
+    },
+    "Python": {
+      "bytes": 7856,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T15:20:11.326Z"
+}

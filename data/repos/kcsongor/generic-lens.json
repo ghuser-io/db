@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "generic-lens",
+  "full_name": "kcsongor/generic-lens",
+  "owner": "kcsongor",
+  "private": false,
+  "html_url": "https://github.com/kcsongor/generic-lens",
+  "description": "Generically derive traversals, lenses, and prisms.",
+  "fork": false,
+  "url": "https://api.github.com/repos/kcsongor/generic-lens",
+  "languages_url": "https://api.github.com/repos/kcsongor/generic-lens/languages",
+  "pulls_url": "https://api.github.com/repos/kcsongor/generic-lens/pulls{/number}",
+  "created_at": "2016-09-05T20:22:28Z",
+  "updated_at": "2018-09-10T06:38:08Z",
+  "pushed_at": "2018-09-07T00:44:32Z",
+  "homepage": "",
+  "size": 749,
+  "stargazers_count": 239,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "kquick": 1,
+    "nomeata": 1,
+    "jonathanlking": 1,
+    "tebello-thejane": 1,
+    "arianvp": 1,
+    "TobyShaw": 5,
+    "lunaris": 15,
+    "mpickering": 46,
+    "kcsongor": 154
+  },
+  "pulls_authors": [
+    "kquick",
+    "LightAndLight",
+    "Lysxia",
+    "parsonsmatt",
+    "reactormonk",
+    "oliverbunting",
+    "mpickering",
+    "duog",
+    "kcsongor",
+    "tonyday567",
+    "nomeata",
+    "lunaris",
+    "jonathanlking",
+    "tebello-thejane",
+    "TobyShaw",
+    "arianvp"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 143270,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-10T07:08:10.785Z"
+}

@@ -1,0 +1,26 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "enriquefrade",
+  "ghuser_created_at": "2018-09-11T13:55:01.659Z",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/722527?v=4",
+  "html_url": "https://github.com/enriquefrade",
+  "organizations_url": "https://api.github.com/users/enriquefrade/orgs",
+  "repos_url": "https://api.github.com/users/enriquefrade/repos",
+  "type": "User",
+  "name": "Enrique Frade",
+  "company": "nibodev",
+  "blog": "http://enriquefrade.com",
+  "location": "Rio de Janeiro",
+  "email": "enriquefrade@gmail.com",
+  "bio": null,
+  "public_gists": 0,
+  "created_at": "2011-04-11T13:54:22Z",
+  "updated_at": "2018-09-10T13:50:08Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:13:30.408Z",
+    "repos": [
+      "UNIRIO-SI/semana-cet"
+    ]
+  }
+}

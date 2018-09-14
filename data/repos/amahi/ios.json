@@ -1,0 +1,86 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ios",
+  "full_name": "amahi/ios",
+  "owner": "amahi",
+  "private": false,
+  "html_url": "https://github.com/amahi/ios",
+  "description": "Amahi iOS App",
+  "fork": false,
+  "url": "https://api.github.com/repos/amahi/ios",
+  "languages_url": "https://api.github.com/repos/amahi/ios/languages",
+  "pulls_url": "https://api.github.com/repos/amahi/ios/pulls{/number}",
+  "created_at": "2018-01-26T11:41:11Z",
+  "updated_at": "2018-09-03T17:05:00Z",
+  "pushed_at": "2018-08-25T06:46:47Z",
+  "homepage": null,
+  "size": 1673,
+  "stargazers_count": 10,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "amahi",
+    "id": 1589082,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1ODkwODI=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1589082?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/amahi",
+    "html_url": "https://github.com/amahi",
+    "followers_url": "https://api.github.com/users/amahi/followers",
+    "following_url": "https://api.github.com/users/amahi/following{/other_user}",
+    "gists_url": "https://api.github.com/users/amahi/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/amahi/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/amahi/subscriptions",
+    "organizations_url": "https://api.github.com/users/amahi/orgs",
+    "repos_url": "https://api.github.com/users/amahi/repos",
+    "events_url": "https://api.github.com/users/amahi/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/amahi/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Sameesunkaria": 1,
+    "imjog": 2,
+    "baquer": 3,
+    "csoni111": 3,
+    "snuff4": 4,
+    "cpg": 29,
+    "codedentwickler": 29
+  },
+  "pulls_authors": [
+    "codedentwickler",
+    "baquer",
+    "csoni111",
+    "imjog",
+    "Sameesunkaria",
+    "snuff4"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 169301,
+      "color": "#ffac45"
+    },
+    "Shell": {
+      "bytes": 2224,
+      "color": "#89e051"
+    },
+    "Ruby": {
+      "bytes": 366,
+      "color": "#701516"
+    },
+    "Objective-C": {
+      "bytes": 299,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-03T18:26:34.196Z"
+}

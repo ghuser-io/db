@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "language-FBP",
+  "full_name": "paulyoung/language-FBP",
+  "owner": "paulyoung",
+  "private": false,
+  "html_url": "https://github.com/paulyoung/language-FBP",
+  "description": "Support for the Flow Based Programming DSL.",
+  "fork": false,
+  "url": "https://api.github.com/repos/paulyoung/language-FBP",
+  "languages_url": "https://api.github.com/repos/paulyoung/language-FBP/languages",
+  "pulls_url": "https://api.github.com/repos/paulyoung/language-FBP/pulls{/number}",
+  "created_at": "2014-05-15T07:17:29Z",
+  "updated_at": "2015-05-05T03:13:41Z",
+  "pushed_at": "2014-05-15T07:21:36Z",
+  "homepage": null,
+  "size": 118,
+  "stargazers_count": 1,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "paulyoung": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 7375,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-08T12:41:01.738Z"
+}

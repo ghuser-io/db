@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "CS5228-Project-1",
+  "full_name": "iCHAIT/CS5228-Project-1",
+  "owner": "iCHAIT",
+  "private": false,
+  "html_url": "https://github.com/iCHAIT/CS5228-Project-1",
+  "description": "Data Mining Project (CS-5228)",
+  "fork": false,
+  "url": "https://api.github.com/repos/iCHAIT/CS5228-Project-1",
+  "languages_url": "https://api.github.com/repos/iCHAIT/CS5228-Project-1/languages",
+  "pulls_url": "https://api.github.com/repos/iCHAIT/CS5228-Project-1/pulls{/number}",
+  "created_at": "2017-09-18T11:01:07Z",
+  "updated_at": "2018-03-19T13:13:39Z",
+  "pushed_at": "2017-11-12T13:55:36Z",
+  "homepage": "",
+  "size": 13471,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "onermustafaumit": 5,
+    "songyahui": 6,
+    "iCHAIT": 13
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 81832,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-03T17:15:05.972Z"
+}

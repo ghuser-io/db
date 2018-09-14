@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "stubborn",
+  "full_name": "samuelbohler/stubborn",
+  "owner": "samuelbohler",
+  "private": false,
+  "html_url": "https://github.com/samuelbohler/stubborn",
+  "description": null,
+  "fork": true,
+  "url": "https://api.github.com/repos/samuelbohler/stubborn",
+  "languages_url": "https://api.github.com/repos/samuelbohler/stubborn/languages",
+  "pulls_url": "https://api.github.com/repos/samuelbohler/stubborn/pulls{/number}",
+  "created_at": "2015-02-19T21:55:45Z",
+  "updated_at": "2015-02-19T21:57:51Z",
+  "pushed_at": "2015-02-19T21:57:06Z",
+  "homepage": null,
+  "size": 126,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "aviramst": 1,
+    "kessler": 7,
+    "grudzinski": 17
+  },
+  "pulls_authors": [
+    "samuelbohler"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 12782,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T16:48:30.408Z"
+}

@@ -1,0 +1,154 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "AsciiWolf": 1,
+    "nok-ko": 1,
+    "Hirato": 1,
+    "kalev": 1,
+    "Ulukai55": 1,
+    "cg505": 1,
+    "WellingGuzman": 1,
+    "AMDmi3": 1,
+    "TheLastProject": 1,
+    "pocak100": 3,
+    "Calinou": 3,
+    "devnexen": 3,
+    "jonathangray": 3,
+    "swooboo": 4,
+    "ZeroKnight": 4,
+    "kerio92": 7,
+    "molexted": 16,
+    "JeffBobbo": 15,
+    "robalni": 17,
+    "ienorand": 20,
+    "IceflowRE": 24,
+    "acerspyro": 25,
+    "TheAssassin": 25,
+    "freezurbern": 26,
+    "zaquest": 32,
+    "shirepirate": 107,
+    "bonifarz": 184,
+    "shacknetisp": 204,
+    "lsalzman": 271,
+    "qreeves": 1892
+  },
+  "name": "base",
+  "full_name": "red-eclipse/base",
+  "owner": "red-eclipse",
+  "private": false,
+  "html_url": "https://github.com/red-eclipse/base",
+  "description": "Base environment for Red Eclipse and associated source files.",
+  "fork": false,
+  "url": "https://api.github.com/repos/red-eclipse/base",
+  "languages_url": "https://api.github.com/repos/red-eclipse/base/languages",
+  "created_at": "2015-02-04T08:14:20Z",
+  "updated_at": "2018-09-14T06:39:54Z",
+  "pushed_at": "2018-09-02T05:34:23Z",
+  "homepage": "https://redeclipse.net/",
+  "size": 35117,
+  "stargazers_count": 170,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "red-eclipse",
+    "id": 10807478,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwODA3NDc4",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/10807478?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/red-eclipse",
+    "html_url": "https://github.com/red-eclipse",
+    "followers_url": "https://api.github.com/users/red-eclipse/followers",
+    "following_url": "https://api.github.com/users/red-eclipse/following{/other_user}",
+    "gists_url": "https://api.github.com/users/red-eclipse/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/red-eclipse/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/red-eclipse/subscriptions",
+    "organizations_url": "https://api.github.com/users/red-eclipse/orgs",
+    "repos_url": "https://api.github.com/users/red-eclipse/repos",
+    "events_url": "https://api.github.com/users/red-eclipse/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/red-eclipse/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "C": {
+      "bytes": 10922010,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 4181735,
+      "color": "#f34b7d"
+    },
+    "Makefile": {
+      "bytes": 55150,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 42184,
+      "color": "#89e051"
+    },
+    "Objective-C": {
+      "bytes": 32377,
+      "color": "#438eff"
+    },
+    "Batchfile": {
+      "bytes": 16816,
+      "color": "#C1F12E"
+    },
+    "CMake": {
+      "bytes": 10842,
+      "color": "#ccc"
+    },
+    "NSIS": {
+      "bytes": 5964,
+      "color": "#ccc"
+    },
+    "Awk": {
+      "bytes": 3961,
+      "color": "#ccc"
+    },
+    "Objective-C++": {
+      "bytes": 1554,
+      "color": "#6866fb"
+    }
+  },
+  "fetched_at": "2018-09-14T08:23:11.516Z",
+  "pulls_url": "https://api.github.com/repos/red-eclipse/base/pulls{/number}",
+  "pulls_authors": [
+    "molexted",
+    "pocak100",
+    "lambda-11235",
+    "AsciiWolf",
+    "Calinou",
+    "nok-ko",
+    "mazocomp",
+    "shacknetisp",
+    "zaquest",
+    "acerspyro",
+    "TheAssassin",
+    "q009",
+    "robalni",
+    "devnexen",
+    "qreeves",
+    "JeffBobbo",
+    "echo-devim",
+    "IceflowRE",
+    "kalev",
+    "cg505",
+    "WellingGuzman",
+    "bonifarz",
+    "freezurbern",
+    "swooboo",
+    "Jigoku",
+    "ienorand",
+    "jonathangray",
+    "AMDmi3",
+    "ZeroKnight",
+    "kerio92",
+    "Lyberta",
+    "TheLastProject",
+    "acz13"
+  ]
+}

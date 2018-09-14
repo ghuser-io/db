@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "reqT",
+  "full_name": "reqT/reqT",
+  "owner": "reqT",
+  "private": false,
+  "html_url": "https://github.com/reqT/reqT",
+  "description": "a requirements modeling tool",
+  "fork": false,
+  "url": "https://api.github.com/repos/reqT/reqT",
+  "languages_url": "https://api.github.com/repos/reqT/reqT/languages",
+  "pulls_url": "https://api.github.com/repos/reqT/reqT/pulls{/number}",
+  "created_at": "2013-02-16T19:15:42Z",
+  "updated_at": "2018-07-30T22:37:10Z",
+  "pushed_at": "2017-12-08T14:27:40Z",
+  "homepage": null,
+  "size": 118104,
+  "stargazers_count": 14,
+  "language": "Scala",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "3.0.x",
+  "organization": {
+    "login": "reqT",
+    "id": 3602671,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM2MDI2NzE=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/3602671?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/reqT",
+    "html_url": "https://github.com/reqT",
+    "followers_url": "https://api.github.com/users/reqT/followers",
+    "following_url": "https://api.github.com/users/reqT/following{/other_user}",
+    "gists_url": "https://api.github.com/users/reqT/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/reqT/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/reqT/subscriptions",
+    "organizations_url": "https://api.github.com/users/reqT/orgs",
+    "repos_url": "https://api.github.com/users/reqT/repos",
+    "events_url": "https://api.github.com/users/reqT/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/reqT/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "hauxir": 1,
+    "eHammarstrom": 11,
+    "bjornregnell": 578
+  },
+  "pulls_authors": [
+    "eHammarstrom",
+    "hauxir",
+    "mrksbrg"
+  ],
+  "languages": {
+    "Scala": {
+      "bytes": 296928,
+      "color": "#c22d40"
+    },
+    "Batchfile": {
+      "bytes": 2153,
+      "color": "#C1F12E"
+    },
+    "CSS": {
+      "bytes": 1820,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 1439,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T17:10:02.912Z"
+}

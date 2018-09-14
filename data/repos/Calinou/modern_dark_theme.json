@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 2
+  },
+  "name": "modern_dark_theme",
+  "full_name": "Calinou/modern_dark_theme",
+  "owner": "Calinou",
+  "private": false,
+  "html_url": "https://github.com/Calinou/modern_dark_theme",
+  "description": "A modern dark theme for Godot",
+  "fork": false,
+  "url": "https://api.github.com/repos/Calinou/modern_dark_theme",
+  "languages_url": "https://api.github.com/repos/Calinou/modern_dark_theme/languages",
+  "created_at": "2016-11-01T20:48:12Z",
+  "updated_at": "2016-11-02T08:58:51Z",
+  "pushed_at": "2016-11-02T08:54:21Z",
+  "homepage": null,
+  "size": 214,
+  "stargazers_count": 2,
+  "language": "GDScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "languages": {
+    "GDScript": {
+      "bytes": 388,
+      "color": "#355570"
+    },
+    "Shell": {
+      "bytes": 155,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/Calinou/modern_dark_theme/pulls{/number}",
+  "pulls_authors": []
+}

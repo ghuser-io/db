@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Ciana",
+  "full_name": "SpenserJ/Ciana",
+  "owner": "SpenserJ",
+  "private": false,
+  "html_url": "https://github.com/SpenserJ/Ciana",
+  "description": "Centralized Information and Notification Appliance - A status board written with Plug and Play customization in mind.",
+  "fork": false,
+  "url": "https://api.github.com/repos/SpenserJ/Ciana",
+  "languages_url": "https://api.github.com/repos/SpenserJ/Ciana/languages",
+  "pulls_url": "https://api.github.com/repos/SpenserJ/Ciana/pulls{/number}",
+  "created_at": "2013-01-03T18:15:29Z",
+  "updated_at": "2014-05-15T01:02:10Z",
+  "pushed_at": "2013-07-04T23:38:50Z",
+  "homepage": "",
+  "size": 1580,
+  "stargazers_count": 9,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "SpenserJ": 83
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 681861,
+      "color": "#f1e05a"
+    },
+    "Java": {
+      "bytes": 13196,
+      "color": "#b07219"
+    },
+    "PHP": {
+      "bytes": 11088,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-11T15:20:09.088Z"
+}

@@ -1,0 +1,147 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rh-che",
+  "full_name": "redhat-developer/rh-che",
+  "owner": "redhat-developer",
+  "private": false,
+  "html_url": "https://github.com/redhat-developer/rh-che",
+  "description": "Red Hat Che distribution repository",
+  "fork": false,
+  "url": "https://api.github.com/repos/redhat-developer/rh-che",
+  "languages_url": "https://api.github.com/repos/redhat-developer/rh-che/languages",
+  "pulls_url": "https://api.github.com/repos/redhat-developer/rh-che/pulls{/number}",
+  "created_at": "2016-11-08T14:09:37Z",
+  "updated_at": "2018-09-13T13:04:20Z",
+  "pushed_at": "2018-09-13T15:12:52Z",
+  "homepage": "",
+  "size": 3964,
+  "stargazers_count": 24,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "epl-2.0",
+    "name": "Eclipse Public License 2.0",
+    "spdx_id": "EPL-2.0",
+    "url": "https://api.github.com/licenses/epl-2.0",
+    "node_id": "MDc6TGljZW5zZTMy"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "redhat-developer",
+    "id": 11033755,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExMDMzNzU1",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/11033755?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/redhat-developer",
+    "html_url": "https://github.com/redhat-developer",
+    "followers_url": "https://api.github.com/users/redhat-developer/followers",
+    "following_url": "https://api.github.com/users/redhat-developer/following{/other_user}",
+    "gists_url": "https://api.github.com/users/redhat-developer/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/redhat-developer/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/redhat-developer/subscriptions",
+    "organizations_url": "https://api.github.com/users/redhat-developer/orgs",
+    "repos_url": "https://api.github.com/users/redhat-developer/repos",
+    "events_url": "https://api.github.com/users/redhat-developer/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/redhat-developer/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "eivantsov": 1,
+    "vparfonov": 1,
+    "openshiftio-launchpad": 1,
+    "jfchevrette": 1,
+    "invincibleJai": 1,
+    "humaton": 1,
+    "jerboaa": 2,
+    "snjeza": 4,
+    "msrb": 4,
+    "tsmaeder": 4,
+    "jmelis": 6,
+    "JPinkney": 6,
+    "gorkem": 6,
+    "Katka92": 8,
+    "mlabuda": 9,
+    "rhopp": 10,
+    "riuvshin": 11,
+    "ScrewTSW": 21,
+    "garagatyi": 21,
+    "sleshchenko": 25,
+    "amisevsk": 36,
+    "benoitf": 33,
+    "sunix": 49,
+    "l0rd": 87,
+    "ibuziuk": 88,
+    "davidfestal": 95
+  },
+  "pulls_authors": [
+    "Katka92",
+    "rhopp",
+    "amisevsk",
+    "ibuziuk",
+    "garagatyi",
+    "fabric8cd",
+    "ScrewTSW",
+    "riuvshin",
+    "davidfestal",
+    "eivantsov",
+    "jmelis",
+    "l0rd",
+    "vparfonov",
+    "sleshchenko",
+    "sunix",
+    "JPinkney",
+    "jerboaa",
+    "sbose78",
+    "benoitf",
+    "jfchevrette",
+    "kameshsampath",
+    "Jooho",
+    "mlabuda",
+    "invincibleJai",
+    "humaton",
+    "snjeza",
+    "msrb",
+    "gorkem",
+    "sbryzak",
+    "tsmaeder",
+    "vpavlin",
+    "shaded-enmity"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 208255,
+      "color": "#b07219"
+    },
+    "JavaScript": {
+      "bytes": 76151,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 53685,
+      "color": "#89e051"
+    },
+    "HTML": {
+      "bytes": 10772,
+      "color": "#e34c26"
+    },
+    "Ceylon": {
+      "bytes": 8054,
+      "color": "#dfa535"
+    },
+    "Dockerfile": {
+      "bytes": 5232,
+      "color": "#0db7ed"
+    },
+    "TypeScript": {
+      "bytes": 3629,
+      "color": "#2b7489"
+    },
+    "CSS": {
+      "bytes": 746,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-13T16:35:58.982Z"
+}

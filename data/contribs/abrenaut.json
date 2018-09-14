@@ -1,0 +1,110 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "amancevice/superset": {
+      "full_name": "amancevice/superset",
+      "name": "superset",
+      "stargazers_count": 322,
+      "popularity": 3.5066793820469653,
+      "percentage": 1.0204081632653061,
+      "maturity": 2.765909468455758,
+      "total_commits_count": 98,
+      "activity": 5,
+      "total_score": 21.517028837813744,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "abrenaut/react-native-headroom": {
+      "full_name": "abrenaut/react-native-headroom",
+      "name": "react-native-headroom",
+      "stargazers_count": 39,
+      "popularity": 2.580963961738607,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 0.9211753442595372,
+      "total_score": 42.21659873207725,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "abrenaut/geotracker-server": {
+      "full_name": "abrenaut/geotracker-server",
+      "name": "geotracker-server",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 8,
+      "activity": 0.7719451397867996,
+      "total_score": 0.7719451397867996,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "abrenaut/waybackscraper": {
+      "full_name": "abrenaut/waybackscraper",
+      "name": "waybackscraper",
+      "stargazers_count": 20,
+      "popularity": 2.2810722512575277,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 11,
+      "activity": 0.7391437465478905,
+      "total_score": 37.23629976666833,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "abrenaut/mrot": {
+      "full_name": "abrenaut/mrot",
+      "name": "mrot",
+      "stargazers_count": 6,
+      "popularity": 1.7076084983408428,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 11,
+      "activity": 0.739147050857194,
+      "total_score": 28.06088302431068,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "abrenaut/posio": {
+      "full_name": "abrenaut/posio",
+      "name": "posio",
+      "stargazers_count": 399,
+      "popularity": 3.6000312564190105,
+      "percentage": 83.33333333333333,
+      "maturity": 0,
+      "total_commits_count": 30,
+      "activity": 0.7391477954360397,
+      "total_score": 50.53958017589901,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "abrenaut/python-cheat-sheet": {
+      "full_name": "abrenaut/python-cheat-sheet",
+      "name": "python-cheat-sheet",
+      "stargazers_count": 18,
+      "popularity": 2.2330349704670382,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 0.9302402727018526,
+      "total_score": 36.658799800174464,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "abrenaut/geotracker-client": {
+      "full_name": "abrenaut/geotracker-client",
+      "name": "geotracker-client",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 12,
+      "activity": 0.7223972930256073,
+      "total_score": 0.7223972930256073,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

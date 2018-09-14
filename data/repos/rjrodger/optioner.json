@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "optioner",
+  "full_name": "rjrodger/optioner",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/optioner",
+  "description": "Process and validate options for your module.",
+  "fork": false,
+  "url": "https://api.github.com/repos/rjrodger/optioner",
+  "languages_url": "https://api.github.com/repos/rjrodger/optioner/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/optioner/pulls{/number}",
+  "created_at": "2016-07-26T20:29:57Z",
+  "updated_at": "2018-08-07T11:24:38Z",
+  "pushed_at": "2018-08-07T11:25:00Z",
+  "homepage": null,
+  "size": 49,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rjrodger": 30
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 14950,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:25.726Z"
+}

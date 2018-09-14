@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "iansowinski/poznan_bot": {
+      "full_name": "iansowinski/poznan_bot",
+      "name": "poznan_bot",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 91.0958904109589,
+      "maturity": 3.0274500692824846,
+      "total_commits_count": 146,
+      "activity": 2.126457444050018,
+      "total_score": 23.638720279189315,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Calamari/facebook-cleaner": {
+      "full_name": "Calamari/facebook-cleaner",
+      "name": "facebook-cleaner",
+      "stargazers_count": 51,
+      "popularity": 2.6998767365027594,
+      "percentage": 12.5,
+      "maturity": 0,
+      "total_commits_count": 8,
+      "activity": 1.5727556236093672,
+      "total_score": 14.05968552993463,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "LevPasha/Instagram-API-python": {
+      "full_name": "LevPasha/Instagram-API-python",
+      "name": "Instagram-API-python",
+      "stargazers_count": 1314,
+      "popularity": 4.118336887009362,
+      "percentage": 0.8928571428571429,
+      "maturity": 2.859669179921282,
+      "total_commits_count": 112,
+      "activity": 5,
+      "total_score": 23.552370266684235,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Etiene/lua.space": {
+      "full_name": "Etiene/lua.space",
+      "name": "lua.space",
+      "stargazers_count": 77,
+      "popularity": 2.8814236940613016,
+      "percentage": 0.6451612903225806,
+      "maturity": 3.062810136718,
+      "total_commits_count": 155,
+      "activity": 1.3409188300383823,
+      "total_score": 16.35247797935375,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "TheOdinProject/curriculum": {
+      "full_name": "TheOdinProject/curriculum",
+      "name": "curriculum",
+      "stargazers_count": 1086,
+      "popularity": 4.035508848532409,
+      "percentage": 0,
+      "maturity": 5,
+      "total_commits_count": 15384,
+      "activity": 5,
+      "total_score": 27.106526545597227,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "TheOdinProject"
+  ]
+}

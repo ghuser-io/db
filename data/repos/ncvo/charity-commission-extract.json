@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "charity-commission-extract",
+  "full_name": "ncvo/charity-commission-extract",
+  "owner": "ncvo",
+  "private": false,
+  "html_url": "https://github.com/ncvo/charity-commission-extract",
+  "description": "Python utilities for handling the import of data from the Charity Commission data extract",
+  "fork": false,
+  "url": "https://api.github.com/repos/ncvo/charity-commission-extract",
+  "languages_url": "https://api.github.com/repos/ncvo/charity-commission-extract/languages",
+  "pulls_url": "https://api.github.com/repos/ncvo/charity-commission-extract/pulls{/number}",
+  "created_at": "2015-02-11T20:10:05Z",
+  "updated_at": "2018-07-02T11:08:33Z",
+  "pushed_at": "2017-10-06T11:00:32Z",
+  "homepage": null,
+  "size": 47,
+  "stargazers_count": 21,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "ncvo",
+    "id": 10141455,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwMTQxNDU1",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/10141455?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ncvo",
+    "html_url": "https://github.com/ncvo",
+    "followers_url": "https://api.github.com/users/ncvo/followers",
+    "following_url": "https://api.github.com/users/ncvo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ncvo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ncvo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ncvo/subscriptions",
+    "organizations_url": "https://api.github.com/users/ncvo/orgs",
+    "repos_url": "https://api.github.com/users/ncvo/repos",
+    "events_url": "https://api.github.com/users/ncvo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ncvo/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ayyjayess": 1,
+    "davidfurlong": 1,
+    "drkane": 23
+  },
+  "pulls_authors": [
+    "mc-17",
+    "ayyjayess",
+    "davidfurlong"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 15687,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T05:01:01.432Z"
+}

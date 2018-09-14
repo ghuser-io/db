@@ -1,0 +1,97 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "grantnav",
+  "full_name": "OpenDataServices/grantnav",
+  "owner": "OpenDataServices",
+  "private": false,
+  "html_url": "https://github.com/OpenDataServices/grantnav",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/OpenDataServices/grantnav",
+  "languages_url": "https://api.github.com/repos/OpenDataServices/grantnav/languages",
+  "pulls_url": "https://api.github.com/repos/OpenDataServices/grantnav/pulls{/number}",
+  "created_at": "2016-01-11T14:09:58Z",
+  "updated_at": "2018-09-13T17:54:06Z",
+  "pushed_at": "2018-09-12T09:06:54Z",
+  "homepage": "http://grantnav.threesixtygiving.org/",
+  "size": 55754,
+  "stargazers_count": 7,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "OpenDataServices",
+    "id": 11521922,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExNTIxOTIy",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/11521922?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/OpenDataServices",
+    "html_url": "https://github.com/OpenDataServices",
+    "followers_url": "https://api.github.com/users/OpenDataServices/followers",
+    "following_url": "https://api.github.com/users/OpenDataServices/following{/other_user}",
+    "gists_url": "https://api.github.com/users/OpenDataServices/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/OpenDataServices/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/OpenDataServices/subscriptions",
+    "organizations_url": "https://api.github.com/users/OpenDataServices/orgs",
+    "repos_url": "https://api.github.com/users/OpenDataServices/repos",
+    "events_url": "https://api.github.com/users/OpenDataServices/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/OpenDataServices/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "andylolz": 1,
+    "edugomez": 2,
+    "stevage": 3,
+    "drkane": 5,
+    "notshi": 5,
+    "stevieflow": 7,
+    "BobHarper1": 14,
+    "caprenter": 31,
+    "robredpath": 39,
+    "BibianaC": 46,
+    "Bjwebb": 76,
+    "kindly": 82
+  },
+  "pulls_authors": [
+    "BibianaC",
+    "Bjwebb",
+    "drkane",
+    "robredpath",
+    "BobHarper1",
+    "andylolz",
+    "kindly",
+    "edugomez",
+    "stevage",
+    "stevieflow",
+    "caprenter",
+    "notshi"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 291825,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 210615,
+      "color": "#563d7c"
+    },
+    "Python": {
+      "bytes": 110419,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 1221,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T23:47:05.662Z"
+}

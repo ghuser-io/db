@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ongaku-react",
+  "full_name": "animeongaku/ongaku-react",
+  "owner": "animeongaku",
+  "private": false,
+  "html_url": "https://github.com/animeongaku/ongaku-react",
+  "description": "React port of ongaku",
+  "fork": false,
+  "url": "https://api.github.com/repos/animeongaku/ongaku-react",
+  "languages_url": "https://api.github.com/repos/animeongaku/ongaku-react/languages",
+  "pulls_url": "https://api.github.com/repos/animeongaku/ongaku-react/pulls{/number}",
+  "created_at": "2017-10-02T20:07:19Z",
+  "updated_at": "2018-07-20T06:50:23Z",
+  "pushed_at": "2018-02-23T15:28:57Z",
+  "homepage": "https://animeongaku.surge.sh",
+  "size": 393,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "animeongaku",
+    "id": 35681411,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM1NjgxNDEx",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/35681411?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/animeongaku",
+    "html_url": "https://github.com/animeongaku",
+    "followers_url": "https://api.github.com/users/animeongaku/followers",
+    "following_url": "https://api.github.com/users/animeongaku/following{/other_user}",
+    "gists_url": "https://api.github.com/users/animeongaku/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/animeongaku/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/animeongaku/subscriptions",
+    "organizations_url": "https://api.github.com/users/animeongaku/orgs",
+    "repos_url": "https://api.github.com/users/animeongaku/repos",
+    "events_url": "https://api.github.com/users/animeongaku/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/animeongaku/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ImgBotApp": 1,
+    "filoxo": 1,
+    "jackiemacharia": 1,
+    "anshumanv": 29
+  },
+  "pulls_authors": [
+    "anshumanv",
+    "filoxo",
+    "ImgBotApp",
+    "aulisius",
+    "jackiemacharia"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 101489,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 9265,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1676,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-04T12:17:55.084Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docker-vscode-maartje",
+  "full_name": "meyskens/docker-vscode-maartje",
+  "owner": "meyskens",
+  "private": false,
+  "html_url": "https://github.com/meyskens/docker-vscode-maartje",
+  "description": "VSCode inside Docker with my personal setup",
+  "fork": false,
+  "url": "https://api.github.com/repos/meyskens/docker-vscode-maartje",
+  "languages_url": "https://api.github.com/repos/meyskens/docker-vscode-maartje/languages",
+  "pulls_url": "https://api.github.com/repos/meyskens/docker-vscode-maartje/pulls{/number}",
+  "created_at": "2017-06-10T09:15:22Z",
+  "updated_at": "2018-09-02T10:33:41Z",
+  "pushed_at": "2018-09-02T10:33:39Z",
+  "homepage": null,
+  "size": 32,
+  "stargazers_count": 1,
+  "language": "Dockerfile",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "meyskens": 69
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Dockerfile": {
+      "bytes": 4404,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-11T20:50:10.465Z"
+}

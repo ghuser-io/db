@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "lupa",
+  "full_name": "scoder/lupa",
+  "owner": "scoder",
+  "private": false,
+  "html_url": "https://github.com/scoder/lupa",
+  "description": "Lua in Python",
+  "fork": false,
+  "url": "https://api.github.com/repos/scoder/lupa",
+  "languages_url": "https://api.github.com/repos/scoder/lupa/languages",
+  "pulls_url": "https://api.github.com/repos/scoder/lupa/pulls{/number}",
+  "created_at": "2011-02-09T19:16:15Z",
+  "updated_at": "2018-09-12T15:25:56Z",
+  "pushed_at": "2018-08-06T10:20:49Z",
+  "homepage": "http://pypi.python.org/pypi/lupa",
+  "size": 681,
+  "stargazers_count": 460,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "gdude2002": 1,
+    "rakiru": 1,
+    "chekunkov": 1,
+    "aaiyer": 2,
+    "jayvdb": 2,
+    "moreati": 2,
+    "oddstr13": 2,
+    "fried": 4,
+    "campadrenalin": 4,
+    "TitanSnow": 9,
+    "jbinary": 12,
+    "kmike": 36,
+    "scoder": 208
+  },
+  "pulls_authors": [
+    "TitanSnow",
+    "aaiyer",
+    "jbinary",
+    "gdude2002",
+    "jayvdb",
+    "rakiru",
+    "kmike",
+    "moreati",
+    "chekunkov",
+    "fried",
+    "bmoe",
+    "campadrenalin",
+    "oddstr13",
+    "tsuraan"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 189263,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 1234,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:46:51.216Z"
+}

@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "deviantART",
+  "full_name": "SocialiteProviders/deviantART",
+  "owner": "SocialiteProviders",
+  "private": false,
+  "html_url": "https://github.com/SocialiteProviders/deviantART",
+  "description": "[READ ONLY] Subtree split of the SocialiteProviders/deviantART Provider (see SocialiteProviders/Providers)",
+  "fork": false,
+  "url": "https://api.github.com/repos/SocialiteProviders/deviantART",
+  "languages_url": "https://api.github.com/repos/SocialiteProviders/deviantART/languages",
+  "pulls_url": "https://api.github.com/repos/SocialiteProviders/deviantART/pulls{/number}",
+  "created_at": "2015-02-21T08:45:23Z",
+  "updated_at": "2018-04-25T05:57:19Z",
+  "pushed_at": "2018-02-14T11:51:47Z",
+  "homepage": "http://socialiteproviders.github.io/providers/deviantart",
+  "size": 10,
+  "stargazers_count": 1,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "SocialiteProviders",
+    "id": 11076093,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExMDc2MDkz",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/11076093?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/SocialiteProviders",
+    "html_url": "https://github.com/SocialiteProviders",
+    "followers_url": "https://api.github.com/users/SocialiteProviders/followers",
+    "following_url": "https://api.github.com/users/SocialiteProviders/following{/other_user}",
+    "gists_url": "https://api.github.com/users/SocialiteProviders/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/SocialiteProviders/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/SocialiteProviders/subscriptions",
+    "organizations_url": "https://api.github.com/users/SocialiteProviders/orgs",
+    "repos_url": "https://api.github.com/users/SocialiteProviders/repos",
+    "events_url": "https://api.github.com/users/SocialiteProviders/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/SocialiteProviders/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "faustbrian": 3
+  },
+  "pulls_authors": [
+    "SeinopSys"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 2190,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-08-18T09:22:02.891Z"
+}

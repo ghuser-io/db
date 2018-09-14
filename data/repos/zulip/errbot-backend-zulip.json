@@ -1,0 +1,62 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "errbot-backend-zulip",
+  "full_name": "zulip/errbot-backend-zulip",
+  "owner": "zulip",
+  "private": false,
+  "html_url": "https://github.com/zulip/errbot-backend-zulip",
+  "description": "Zulip backend for err.",
+  "fork": false,
+  "url": "https://api.github.com/repos/zulip/errbot-backend-zulip",
+  "languages_url": "https://api.github.com/repos/zulip/errbot-backend-zulip/languages",
+  "pulls_url": "https://api.github.com/repos/zulip/errbot-backend-zulip/pulls{/number}",
+  "created_at": "2017-10-04T11:12:56Z",
+  "updated_at": "2018-09-03T13:44:16Z",
+  "pushed_at": "2018-09-03T13:44:14Z",
+  "homepage": null,
+  "size": 7,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "zulip",
+    "id": 4921959,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ5MjE5NTk=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/4921959?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/zulip",
+    "html_url": "https://github.com/zulip",
+    "followers_url": "https://api.github.com/users/zulip/followers",
+    "following_url": "https://api.github.com/users/zulip/following{/other_user}",
+    "gists_url": "https://api.github.com/users/zulip/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/zulip/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/zulip/subscriptions",
+    "organizations_url": "https://api.github.com/users/zulip/orgs",
+    "repos_url": "https://api.github.com/users/zulip/repos",
+    "events_url": "https://api.github.com/users/zulip/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/zulip/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jayvdb": 1,
+    "roberthoenig": 3,
+    "punchagan": 1
+  },
+  "pulls_authors": [
+    "jayvdb",
+    "roberthoenig",
+    "meetmangukiya",
+    "punchagan"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 13801,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-03T15:15:26.748Z"
+}

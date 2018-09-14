@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "proxyservlet",
+  "full_name": "bicycleio/proxyservlet",
+  "owner": "bicycleio",
+  "private": false,
+  "html_url": "https://github.com/bicycleio/proxyservlet",
+  "description": "A simple java servlet which provides a Proxy to an external host ",
+  "fork": false,
+  "url": "https://api.github.com/repos/bicycleio/proxyservlet",
+  "languages_url": "https://api.github.com/repos/bicycleio/proxyservlet/languages",
+  "pulls_url": "https://api.github.com/repos/bicycleio/proxyservlet/pulls{/number}",
+  "created_at": "2012-08-24T00:35:04Z",
+  "updated_at": "2017-10-21T12:05:29Z",
+  "pushed_at": "2012-08-24T03:05:38Z",
+  "homepage": null,
+  "size": 168,
+  "stargazers_count": 2,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "bicycleio",
+    "id": 2086526,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIwODY1MjY=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/2086526?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/bicycleio",
+    "html_url": "https://github.com/bicycleio",
+    "followers_url": "https://api.github.com/users/bicycleio/followers",
+    "following_url": "https://api.github.com/users/bicycleio/following{/other_user}",
+    "gists_url": "https://api.github.com/users/bicycleio/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/bicycleio/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/bicycleio/subscriptions",
+    "organizations_url": "https://api.github.com/users/bicycleio/orgs",
+    "repos_url": "https://api.github.com/users/bicycleio/repos",
+    "events_url": "https://api.github.com/users/bicycleio/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/bicycleio/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "peterschwarz": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 17973,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-11T17:14:26.809Z"
+}

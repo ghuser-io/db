@@ -1,0 +1,87 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sox",
+  "full_name": "soscripted/sox",
+  "owner": "soscripted",
+  "private": false,
+  "html_url": "https://github.com/soscripted/sox",
+  "description": "Stack Overflow Extras: a userscript for the Stack Exchange websites to add a bunch of optional toggle-able features",
+  "fork": false,
+  "url": "https://api.github.com/repos/soscripted/sox",
+  "languages_url": "https://api.github.com/repos/soscripted/sox/languages",
+  "pulls_url": "https://api.github.com/repos/soscripted/sox/pulls{/number}",
+  "created_at": "2016-02-09T21:21:29Z",
+  "updated_at": "2018-09-13T02:47:45Z",
+  "pushed_at": "2018-09-11T16:53:41Z",
+  "homepage": "http://stackapps.com/q/6091/",
+  "size": 1533,
+  "stargazers_count": 33,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "soscripted",
+    "id": 17150385,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3MTUwMzg1",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/17150385?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/soscripted",
+    "html_url": "https://github.com/soscripted",
+    "followers_url": "https://api.github.com/users/soscripted/followers",
+    "following_url": "https://api.github.com/users/soscripted/following{/other_user}",
+    "gists_url": "https://api.github.com/users/soscripted/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/soscripted/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/soscripted/subscriptions",
+    "organizations_url": "https://api.github.com/users/soscripted/orgs",
+    "repos_url": "https://api.github.com/users/soscripted/repos",
+    "events_url": "https://api.github.com/users/soscripted/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/soscripted/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "TuggyNE": 1,
+    "gitter-badger": 1,
+    "SeinopSys": 1,
+    "codygray": 2,
+    "j-f1": 2,
+    "Sir-Cumference": 20,
+    "somebody1234": 31,
+    "mezmi": 111,
+    "shu8": 443
+  },
+  "pulls_authors": [
+    "shu8",
+    "GaurangTandon",
+    "codygray",
+    "j-f1",
+    "Sir-Cumference",
+    "TuggyNE",
+    "somebody1234",
+    "gitter-badger",
+    "SeinopSys"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 173205,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 11497,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1556,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-13T17:02:00.198Z"
+}

@@ -1,0 +1,88 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "arbtt",
+  "full_name": "nomeata/arbtt",
+  "owner": "nomeata",
+  "private": false,
+  "html_url": "https://github.com/nomeata/arbtt",
+  "description": "arbtt, the automatic rule-based time-tracker",
+  "fork": false,
+  "url": "https://api.github.com/repos/nomeata/arbtt",
+  "languages_url": "https://api.github.com/repos/nomeata/arbtt/languages",
+  "pulls_url": "https://api.github.com/repos/nomeata/arbtt/pulls{/number}",
+  "created_at": "2013-11-05T08:32:01Z",
+  "updated_at": "2018-09-11T02:39:10Z",
+  "pushed_at": "2018-09-07T11:28:28Z",
+  "homepage": "http://arbtt.nomeata.de/",
+  "size": 1079,
+  "stargazers_count": 48,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bgamari": 1,
+    "robertseaton": 1,
+    "vrasneur": 1,
+    "ccoenen": 1,
+    "muneson": 1,
+    "rejuvyesh": 2,
+    "Blaisorblade": 3,
+    "rvl": 4,
+    "mkiefel": 8,
+    "gwern": 9,
+    "astanin": 9,
+    "tmiasko": 10,
+    "al-maisan": 10,
+    "waldyrious": 11,
+    "markus1189": 18,
+    "nomeata": 473
+  },
+  "pulls_authors": [
+    "bgamari",
+    "mgajda",
+    "Blaisorblade",
+    "tmiasko",
+    "rvl",
+    "mhils",
+    "iblech",
+    "waldyrious",
+    "markus1189",
+    "vrasneur",
+    "rejuvyesh"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 192658,
+      "color": "#5e5086"
+    },
+    "HTML": {
+      "bytes": 14242,
+      "color": "#e34c26"
+    },
+    "Inno Setup": {
+      "bytes": 7579,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 2902,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 1822,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 641,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T10:39:22.705Z"
+}

@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "blad",
+  "full_name": "radekstepan/blad",
+  "owner": "radekstepan",
+  "private": false,
+  "html_url": "https://github.com/radekstepan/blad",
+  "description": "A minimalist flat-file CMS with dynamic content",
+  "fork": false,
+  "url": "https://api.github.com/repos/radekstepan/blad",
+  "languages_url": "https://api.github.com/repos/radekstepan/blad/languages",
+  "pulls_url": "https://api.github.com/repos/radekstepan/blad/pulls{/number}",
+  "created_at": "2012-06-30T23:48:46Z",
+  "updated_at": "2018-02-22T18:06:26Z",
+  "pushed_at": "2017-05-22T18:36:43Z",
+  "homepage": "http://www.micklemlab.org",
+  "size": 1677,
+  "stargazers_count": 8,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bitdeli-chef": 1,
+    "radekstepan": 222
+  },
+  "pulls_authors": [
+    "snyk-bot",
+    "bitdeli-chef",
+    "radekstepan"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 10486,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 972,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T13:50:55.066Z"
+}

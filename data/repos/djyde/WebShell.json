@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "WebShell",
+  "full_name": "djyde/WebShell",
+  "owner": "djyde",
+  "private": false,
+  "html_url": "https://github.com/djyde/WebShell",
+  "description": "Bundle web apps to native OS X app",
+  "fork": false,
+  "url": "https://api.github.com/repos/djyde/WebShell",
+  "languages_url": "https://api.github.com/repos/djyde/WebShell/languages",
+  "pulls_url": "https://api.github.com/repos/djyde/WebShell/pulls{/number}",
+  "created_at": "2015-12-19T07:05:57Z",
+  "updated_at": "2018-09-06T12:32:41Z",
+  "pushed_at": "2018-08-25T10:02:41Z",
+  "homepage": "",
+  "size": 1422,
+  "stargazers_count": 1450,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "dreampiggy": 1,
+    "bumaociyuan": 1,
+    "AntuanKhanna": 2,
+    "ReadmeCritic": 2,
+    "dibas": 5,
+    "FahimF": 7,
+    "djyde": 44,
+    "wdg": 97,
+    "thehappydinoa": 1
+  },
+  "pulls_authors": [
+    "thehappydinoa",
+    "dibas",
+    "FahimF",
+    "wdg",
+    "atkit",
+    "dreampiggy",
+    "gitter-badger",
+    "AntuanKhanna",
+    "ReadmeCritic",
+    "ghost",
+    "bumaociyuan",
+    "Visoar"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 133737,
+      "color": "#ffac45"
+    }
+  },
+  "fetched_at": "2018-09-06T17:11:35.309Z"
+}

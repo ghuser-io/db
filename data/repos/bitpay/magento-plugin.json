@@ -1,0 +1,110 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "magento-plugin",
+  "full_name": "bitpay/magento-plugin",
+  "owner": "bitpay",
+  "private": false,
+  "html_url": "https://github.com/bitpay/magento-plugin",
+  "description": "Magento payment plugin for Bitpay.com",
+  "fork": true,
+  "url": "https://api.github.com/repos/bitpay/magento-plugin",
+  "languages_url": "https://api.github.com/repos/bitpay/magento-plugin/languages",
+  "pulls_url": "https://api.github.com/repos/bitpay/magento-plugin/pulls{/number}",
+  "created_at": "2012-10-14T02:45:09Z",
+  "updated_at": "2018-08-28T06:54:44Z",
+  "pushed_at": "2018-08-28T06:54:42Z",
+  "homepage": null,
+  "size": 620,
+  "stargazers_count": 41,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "bitpay",
+    "id": 2554930,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1NTQ5MzA=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/2554930?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/bitpay",
+    "html_url": "https://github.com/bitpay",
+    "followers_url": "https://api.github.com/users/bitpay/followers",
+    "following_url": "https://api.github.com/users/bitpay/following{/other_user}",
+    "gists_url": "https://api.github.com/users/bitpay/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/bitpay/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/bitpay/subscriptions",
+    "organizations_url": "https://api.github.com/users/bitpay/orgs",
+    "repos_url": "https://api.github.com/users/bitpay/repos",
+    "events_url": "https://api.github.com/users/bitpay/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/bitpay/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "alex-magebinary": 1,
+    "gopinathinnoppl": 1,
+    "spofa": 1,
+    "jameswalpole": 1,
+    "philosodad": 1,
+    "bitpay-integrations": 1,
+    "vovayatsyuk": 1,
+    "gasteve": 1,
+    "elahurd": 2,
+    "kleetus": 3,
+    "turff": 3,
+    "JoshuaEstes": 4,
+    "jamesWithPM": 5,
+    "pieterpoorthuis": 13,
+    "damianbz321": 18,
+    "jaafit": 28,
+    "ionux": 120
+  },
+  "pulls_authors": [
+    "alex-magebinary",
+    "damianbz321",
+    "rafaldr91",
+    "innoppl-developers",
+    "pieterpoorthuis",
+    "kleetus",
+    "spofa",
+    "jameswalpole",
+    "philosodad",
+    "jamesWithPM",
+    "aleitner",
+    "ionux",
+    "samuelbohler",
+    "JoshuaEstes",
+    "vovayatsyuk",
+    "cstevens88",
+    "martindines",
+    "ryanxcharles",
+    "jaafit",
+    "bitpay"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 98592,
+      "color": "#4F5D95"
+    },
+    "Shell": {
+      "bytes": 6556,
+      "color": "#89e051"
+    },
+    "HTML": {
+      "bytes": 5340,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 2527,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T16:48:31.081Z"
+}

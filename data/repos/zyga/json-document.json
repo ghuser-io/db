@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "json-document",
+  "full_name": "zyga/json-document",
+  "owner": "zyga",
+  "private": false,
+  "html_url": "https://github.com/zyga/json-document",
+  "description": "Intuitive and powerful python bindings to JSON documents (with schema!)",
+  "fork": false,
+  "url": "https://api.github.com/repos/zyga/json-document",
+  "languages_url": "https://api.github.com/repos/zyga/json-document/languages",
+  "pulls_url": "https://api.github.com/repos/zyga/json-document/pulls{/number}",
+  "created_at": "2011-12-17T12:44:26Z",
+  "updated_at": "2018-07-30T23:12:41Z",
+  "pushed_at": "2016-02-11T09:16:32Z",
+  "homepage": "",
+  "size": 85,
+  "stargazers_count": 12,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "zyga": 2,
+    "jayvdb": 4
+  },
+  "pulls_authors": [
+    "jayvdb",
+    "Cahersan",
+    "zyga"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 70448,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

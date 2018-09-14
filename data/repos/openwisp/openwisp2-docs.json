@@ -1,0 +1,97 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "openwisp2-docs",
+  "full_name": "openwisp/openwisp2-docs",
+  "owner": "openwisp",
+  "private": false,
+  "html_url": "https://github.com/openwisp/openwisp2-docs",
+  "description": "OpenWISP 2 Docs",
+  "fork": false,
+  "url": "https://api.github.com/repos/openwisp/openwisp2-docs",
+  "languages_url": "https://api.github.com/repos/openwisp/openwisp2-docs/languages",
+  "created_at": "2017-03-31T10:40:41Z",
+  "updated_at": "2018-08-27T16:00:55Z",
+  "pushed_at": "2018-08-27T16:00:54Z",
+  "homepage": "http://openwisp.io/docs/",
+  "size": 1087,
+  "stargazers_count": 13,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "openwisp",
+    "id": 1150243,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExNTAyNDM=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1150243?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/openwisp",
+    "html_url": "https://github.com/openwisp",
+    "followers_url": "https://api.github.com/users/openwisp/followers",
+    "following_url": "https://api.github.com/users/openwisp/following{/other_user}",
+    "gists_url": "https://api.github.com/users/openwisp/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/openwisp/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/openwisp/subscriptions",
+    "organizations_url": "https://api.github.com/users/openwisp/orgs",
+    "repos_url": "https://api.github.com/users/openwisp/repos",
+    "events_url": "https://api.github.com/users/openwisp/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/openwisp/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "adityac8": 1,
+    "HizkiFW": 1,
+    "nvzard": 1,
+    "ArushiSinghal": 1,
+    "h0n3yc4k3": 3,
+    "BrainBuzzer": 4,
+    "xamfy": 12,
+    "HargovindArora": 14,
+    "nemesisdesign": 37
+  },
+  "languages": {
+    "Python": {
+      "bytes": 12233,
+      "color": "#3572A5"
+    },
+    "Batchfile": {
+      "bytes": 7748,
+      "color": "#C1F12E"
+    },
+    "Makefile": {
+      "bytes": 7638,
+      "color": "#427819"
+    },
+    "CSS": {
+      "bytes": 1639,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 869,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-27T19:21:13.594Z",
+  "pulls_url": "https://api.github.com/repos/openwisp/openwisp2-docs/pulls{/number}",
+  "pulls_authors": [
+    "HargovindArora",
+    "adityac8",
+    "BrainBuzzer",
+    "anurag-ks",
+    "MiHiR151203",
+    "HizkiFW",
+    "nvzard",
+    "h0n3yc4k3",
+    "xamfy",
+    "ArushiSinghal",
+    "edoput"
+  ]
+}

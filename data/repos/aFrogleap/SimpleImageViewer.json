@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SimpleImageViewer",
+  "full_name": "aFrogleap/SimpleImageViewer",
+  "owner": "aFrogleap",
+  "private": false,
+  "html_url": "https://github.com/aFrogleap/SimpleImageViewer",
+  "description": "A snappy image viewer with zoom and interactive dismissal transition.",
+  "fork": false,
+  "url": "https://api.github.com/repos/aFrogleap/SimpleImageViewer",
+  "languages_url": "https://api.github.com/repos/aFrogleap/SimpleImageViewer/languages",
+  "pulls_url": "https://api.github.com/repos/aFrogleap/SimpleImageViewer/pulls{/number}",
+  "created_at": "2017-05-30T11:12:17Z",
+  "updated_at": "2018-09-14T07:33:47Z",
+  "pushed_at": "2018-09-10T14:27:37Z",
+  "homepage": "https://www.afrogleap.com",
+  "size": 106499,
+  "stargazers_count": 324,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "aFrogleap",
+    "id": 14994392,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0OTk0Mzky",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/14994392?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/aFrogleap",
+    "html_url": "https://github.com/aFrogleap",
+    "followers_url": "https://api.github.com/users/aFrogleap/followers",
+    "following_url": "https://api.github.com/users/aFrogleap/following{/other_user}",
+    "gists_url": "https://api.github.com/users/aFrogleap/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/aFrogleap/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/aFrogleap/subscriptions",
+    "organizations_url": "https://api.github.com/users/aFrogleap/orgs",
+    "repos_url": "https://api.github.com/users/aFrogleap/repos",
+    "events_url": "https://api.github.com/users/aFrogleap/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/aFrogleap/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "LcTwisk": 46,
+    "jsahoo": 1
+  },
+  "pulls_authors": [
+    "jsahoo",
+    "jonathan-sahoo",
+    "azatZ",
+    "cardoso",
+    "alexsteinerde",
+    "jameshays",
+    "ludvigeriksson",
+    "LcTwisk"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 34872,
+      "color": "#ffac45"
+    },
+    "Ruby": {
+      "bytes": 633,
+      "color": "#701516"
+    },
+    "Objective-C": {
+      "bytes": 511,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-14T08:23:59.064Z"
+}

@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bcms_blog",
+  "full_name": "synth/bcms_blog",
+  "owner": "synth",
+  "private": false,
+  "html_url": "https://github.com/synth/bcms_blog",
+  "description": "The Blog Module for BrowserCMS",
+  "fork": true,
+  "url": "https://api.github.com/repos/synth/bcms_blog",
+  "languages_url": "https://api.github.com/repos/synth/bcms_blog/languages",
+  "pulls_url": "https://api.github.com/repos/synth/bcms_blog/pulls{/number}",
+  "created_at": "2011-03-25T13:20:12Z",
+  "updated_at": "2016-12-14T22:51:13Z",
+  "pushed_at": "2011-03-25T14:11:40Z",
+  "homepage": "http://browsercms.org",
+  "size": 2466,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx_id": "LGPL-3.0",
+    "url": "https://api.github.com/licenses/lgpl-3.0",
+    "node_id": "MDc6TGljZW5zZTEy"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "aurelian": 1,
+    "jdettmann": 1,
+    "wolframarnold": 2,
+    "peakpg": 6,
+    "pjb3": 10,
+    "TylerRick": 26,
+    "jonleighton": 26,
+    "alce": 39
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 70033,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 49129,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T23:12:22.149Z"
+}

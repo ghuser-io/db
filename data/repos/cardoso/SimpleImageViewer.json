@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SimpleImageViewer",
+  "full_name": "cardoso/SimpleImageViewer",
+  "owner": "cardoso",
+  "private": false,
+  "html_url": "https://github.com/cardoso/SimpleImageViewer",
+  "description": "This fork is less crash-prone and supports gifs + sharing, better support for iPhone X & white images",
+  "fork": true,
+  "url": "https://api.github.com/repos/cardoso/SimpleImageViewer",
+  "languages_url": "https://api.github.com/repos/cardoso/SimpleImageViewer/languages",
+  "pulls_url": "https://api.github.com/repos/cardoso/SimpleImageViewer/pulls{/number}",
+  "created_at": "2017-09-07T19:08:03Z",
+  "updated_at": "2018-08-31T08:14:31Z",
+  "pushed_at": "2018-07-24T15:26:13Z",
+  "homepage": "https://cardo.so",
+  "size": 84948,
+  "stargazers_count": 3,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "cardoso": 9,
+    "LcTwisk": 46
+  },
+  "pulls_authors": [
+    "cardoso"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 37123,
+      "color": "#ffac45"
+    },
+    "Ruby": {
+      "bytes": 665,
+      "color": "#701516"
+    },
+    "Objective-C": {
+      "bytes": 511,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-03T21:47:32.702Z"
+}

@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "plstok",
+  "full_name": "jayvdb/plstok",
+  "owner": "jayvdb",
+  "private": false,
+  "html_url": "https://github.com/jayvdb/plstok",
+  "description": "plsql parser",
+  "fork": false,
+  "url": "https://api.github.com/repos/jayvdb/plstok",
+  "languages_url": "https://api.github.com/repos/jayvdb/plstok/languages",
+  "pulls_url": "https://api.github.com/repos/jayvdb/plstok/pulls{/number}",
+  "created_at": "2015-10-30T03:46:20Z",
+  "updated_at": "2016-10-07T11:09:23Z",
+  "pushed_at": "2016-02-22T01:08:56Z",
+  "homepage": "https://web.archive.org/web/20070818235915/http://home.swbell.net/mck9/pls/index.html",
+  "size": 84,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ScottMcKellar": 1,
+    "jayvdb": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 186072,
+      "color": "#555555"
+    },
+    "HTML": {
+      "bytes": 5727,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 117,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

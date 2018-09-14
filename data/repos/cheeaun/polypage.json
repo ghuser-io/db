@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "polypage",
+  "full_name": "cheeaun/polypage",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/polypage",
+  "description": "jQuery and MooTools plugin to ease the development of dynamic html wireframes with state.",
+  "fork": true,
+  "url": "https://api.github.com/repos/cheeaun/polypage",
+  "languages_url": "https://api.github.com/repos/cheeaun/polypage/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/polypage/pulls{/number}",
+  "created_at": "2009-02-08T08:17:53Z",
+  "updated_at": "2016-05-09T01:34:09Z",
+  "pushed_at": "2009-03-08T01:50:07Z",
+  "homepage": "http://code.new-bamboo.co.uk/polypage/",
+  "size": 284,
+  "stargazers_count": 8,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "greut": 7,
+    "cheeaun": 8,
+    "andykent": 29
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 119290,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T19:00:13.526Z"
+}

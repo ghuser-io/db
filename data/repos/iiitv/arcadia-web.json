@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "arcadia-web",
+  "full_name": "iiitv/arcadia-web",
+  "owner": "iiitv",
+  "private": false,
+  "html_url": "https://github.com/iiitv/arcadia-web",
+  "description": "Arcadia Website",
+  "fork": false,
+  "url": "https://api.github.com/repos/iiitv/arcadia-web",
+  "languages_url": "https://api.github.com/repos/iiitv/arcadia-web/languages",
+  "pulls_url": "https://api.github.com/repos/iiitv/arcadia-web/pulls{/number}",
+  "created_at": "2018-07-24T19:54:26Z",
+  "updated_at": "2018-08-04T08:28:05Z",
+  "pushed_at": "2018-08-09T15:28:14Z",
+  "homepage": "http://neeraj00.pythonanywhere.com",
+  "size": 10091,
+  "stargazers_count": 3,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "iiitv",
+    "id": 9347727,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjkzNDc3Mjc=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/9347727?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/iiitv",
+    "html_url": "https://github.com/iiitv",
+    "followers_url": "https://api.github.com/users/iiitv/followers",
+    "following_url": "https://api.github.com/users/iiitv/following{/other_user}",
+    "gists_url": "https://api.github.com/users/iiitv/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/iiitv/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/iiitv/subscriptions",
+    "organizations_url": "https://api.github.com/users/iiitv/orgs",
+    "repos_url": "https://api.github.com/users/iiitv/repos",
+    "events_url": "https://api.github.com/users/iiitv/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/iiitv/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "aashutoshrathi": 3,
+    "vashist99": 5,
+    "neeraj3029": 12,
+    "rossoskull": 26
+  },
+  "pulls_authors": [
+    "neeraj3029",
+    "rossoskull",
+    "vashist99",
+    "aashutoshrathi"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 13401,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 12650,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 6539,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 1088,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-05T16:59:33.929Z"
+}

@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "esp-new-sdk",
+  "full_name": "Juppit/esp-new-sdk",
+  "owner": "Juppit",
+  "private": false,
+  "html_url": "https://github.com/Juppit/esp-new-sdk",
+  "description": "a bit more than a makefile",
+  "fork": false,
+  "url": "https://api.github.com/repos/Juppit/esp-new-sdk",
+  "languages_url": "https://api.github.com/repos/Juppit/esp-new-sdk/languages",
+  "pulls_url": "https://api.github.com/repos/Juppit/esp-new-sdk/pulls{/number}",
+  "created_at": "2017-09-29T13:57:46Z",
+  "updated_at": "2018-08-27T14:13:42Z",
+  "pushed_at": "2018-08-27T21:23:23Z",
+  "homepage": null,
+  "size": 1110,
+  "stargazers_count": 1,
+  "language": "Makefile",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "vanklompf": 19,
+    "Juppit": 199
+  },
+  "pulls_authors": [
+    "vanklompf",
+    "cotsog"
+  ],
+  "languages": {
+    "Makefile": {
+      "bytes": 49927,
+      "color": "#427819"
+    },
+    "Max": {
+      "bytes": 1832,
+      "color": "#c4a79c"
+    },
+    "C": {
+      "bytes": 490,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-11T17:08:24.737Z"
+}

@@ -1,0 +1,128 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "outline-client",
+  "full_name": "Jigsaw-Code/outline-client",
+  "owner": "Jigsaw-Code",
+  "private": false,
+  "html_url": "https://github.com/Jigsaw-Code/outline-client",
+  "description": "Outline clients, developed by Jigsaw. The Outline clients use the popular Shadowsocks protocol, and lean on the Cordova and Electron frameworks to support Windows, Android / ChromeOS, iOS and macOS.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Jigsaw-Code/outline-client",
+  "languages_url": "https://api.github.com/repos/Jigsaw-Code/outline-client/languages",
+  "pulls_url": "https://api.github.com/repos/Jigsaw-Code/outline-client/pulls{/number}",
+  "created_at": "2018-03-13T21:42:30Z",
+  "updated_at": "2018-09-14T08:21:29Z",
+  "pushed_at": "2018-09-13T23:11:30Z",
+  "homepage": "https://getoutline.org/",
+  "size": 43642,
+  "stargazers_count": 1874,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "Jigsaw-Code",
+    "id": 19845815,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5ODQ1ODE1",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/19845815?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Jigsaw-Code",
+    "html_url": "https://github.com/Jigsaw-Code",
+    "followers_url": "https://api.github.com/users/Jigsaw-Code/followers",
+    "following_url": "https://api.github.com/users/Jigsaw-Code/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Jigsaw-Code/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Jigsaw-Code/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Jigsaw-Code/subscriptions",
+    "organizations_url": "https://api.github.com/users/Jigsaw-Code/orgs",
+    "repos_url": "https://api.github.com/users/Jigsaw-Code/repos",
+    "events_url": "https://api.github.com/users/Jigsaw-Code/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Jigsaw-Code/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "cotsog": 1,
+    "ohnocassio": 1,
+    "andylizi": 1,
+    "FingerLiu": 1,
+    "bemasc": 7,
+    "alalamav": 84,
+    "trevj": 92
+  },
+  "pulls_authors": [
+    "trevj",
+    "alalamav",
+    "cameronaaron",
+    "bemasc",
+    "cotsog",
+    "andylizi",
+    "ohnocassio",
+    "FingerLiu"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 113445,
+      "color": "#2b7489"
+    },
+    "HTML": {
+      "bytes": 84803,
+      "color": "#e34c26"
+    },
+    "Java": {
+      "bytes": 79175,
+      "color": "#b07219"
+    },
+    "Objective-C": {
+      "bytes": 50850,
+      "color": "#438eff"
+    },
+    "Swift": {
+      "bytes": 45629,
+      "color": "#ffac45"
+    },
+    "C#": {
+      "bytes": 26023,
+      "color": "#178600"
+    },
+    "Shell": {
+      "bytes": 23580,
+      "color": "#89e051"
+    },
+    "JavaScript": {
+      "bytes": 10945,
+      "color": "#f1e05a"
+    },
+    "Batchfile": {
+      "bytes": 5091,
+      "color": "#C1F12E"
+    },
+    "Python": {
+      "bytes": 4627,
+      "color": "#3572A5"
+    },
+    "NSIS": {
+      "bytes": 4422,
+      "color": "#ccc"
+    },
+    "Ruby": {
+      "bytes": 3392,
+      "color": "#701516"
+    },
+    "Dockerfile": {
+      "bytes": 2271,
+      "color": "#0db7ed"
+    },
+    "CSS": {
+      "bytes": 911,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-14T08:25:18.132Z"
+}

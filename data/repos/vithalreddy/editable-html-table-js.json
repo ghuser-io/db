@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "editable-html-table-js",
+  "full_name": "vithalreddy/editable-html-table-js",
+  "owner": "vithalreddy",
+  "private": false,
+  "html_url": "https://github.com/vithalreddy/editable-html-table-js",
+  "description": "Dynamic Editable HTML Table using Javascript, Jquery and Bootstrap with add, edit, and Delete Options",
+  "fork": false,
+  "url": "https://api.github.com/repos/vithalreddy/editable-html-table-js",
+  "languages_url": "https://api.github.com/repos/vithalreddy/editable-html-table-js/languages",
+  "pulls_url": "https://api.github.com/repos/vithalreddy/editable-html-table-js/pulls{/number}",
+  "created_at": "2017-09-28T10:15:06Z",
+  "updated_at": "2018-05-31T09:16:50Z",
+  "pushed_at": "2017-09-28T10:21:46Z",
+  "homepage": "https://vithalreddy.github.io/editable-html-table-js/",
+  "size": 2,
+  "stargazers_count": 2,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "vithalreddy": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 2408,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:23.330Z"
+}

@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ex_ample_cell",
+  "full_name": "DefactoSoftware/ex_ample_cell",
+  "owner": "DefactoSoftware",
+  "private": false,
+  "html_url": "https://github.com/DefactoSoftware/ex_ample_cell",
+  "description": "Example ExCell implementation",
+  "fork": false,
+  "url": "https://api.github.com/repos/DefactoSoftware/ex_ample_cell",
+  "languages_url": "https://api.github.com/repos/DefactoSoftware/ex_ample_cell/languages",
+  "pulls_url": "https://api.github.com/repos/DefactoSoftware/ex_ample_cell/pulls{/number}",
+  "created_at": "2017-08-03T10:05:09Z",
+  "updated_at": "2018-08-24T14:16:40Z",
+  "pushed_at": "2017-08-03T10:25:14Z",
+  "homepage": null,
+  "size": 81,
+  "stargazers_count": 1,
+  "language": "Elixir",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "DefactoSoftware",
+    "id": 3899757,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM4OTk3NTc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/3899757?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/DefactoSoftware",
+    "html_url": "https://github.com/DefactoSoftware",
+    "followers_url": "https://api.github.com/users/DefactoSoftware/followers",
+    "following_url": "https://api.github.com/users/DefactoSoftware/following{/other_user}",
+    "gists_url": "https://api.github.com/users/DefactoSoftware/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/DefactoSoftware/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/DefactoSoftware/subscriptions",
+    "organizations_url": "https://api.github.com/users/DefactoSoftware/orgs",
+    "repos_url": "https://api.github.com/users/DefactoSoftware/repos",
+    "events_url": "https://api.github.com/users/DefactoSoftware/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/DefactoSoftware/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jessedijkstra": 1
+  },
+  "pulls_authors": [
+    "jessedijkstra"
+  ],
+  "languages": {
+    "Elixir": {
+      "bytes": 19598,
+      "color": "#6e4a7e"
+    },
+    "JavaScript": {
+      "bytes": 4301,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 2076,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 49,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-24T22:59:37.147Z"
+}

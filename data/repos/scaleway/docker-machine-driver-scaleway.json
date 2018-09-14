@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docker-machine-driver-scaleway",
+  "full_name": "scaleway/docker-machine-driver-scaleway",
+  "owner": "scaleway",
+  "private": false,
+  "html_url": "https://github.com/scaleway/docker-machine-driver-scaleway",
+  "description": ":whale: Scaleway driver for Docker Machine",
+  "fork": false,
+  "url": "https://api.github.com/repos/scaleway/docker-machine-driver-scaleway",
+  "languages_url": "https://api.github.com/repos/scaleway/docker-machine-driver-scaleway/languages",
+  "pulls_url": "https://api.github.com/repos/scaleway/docker-machine-driver-scaleway/pulls{/number}",
+  "created_at": "2016-04-13T22:11:16Z",
+  "updated_at": "2018-09-11T19:03:23Z",
+  "pushed_at": "2018-05-28T15:38:20Z",
+  "homepage": "",
+  "size": 1564,
+  "stargazers_count": 215,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "scaleway",
+    "id": 5185491,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjUxODU0OTE=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/5185491?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/scaleway",
+    "html_url": "https://github.com/scaleway",
+    "followers_url": "https://api.github.com/users/scaleway/followers",
+    "following_url": "https://api.github.com/users/scaleway/following{/other_user}",
+    "gists_url": "https://api.github.com/users/scaleway/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/scaleway/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/scaleway/subscriptions",
+    "organizations_url": "https://api.github.com/users/scaleway/orgs",
+    "repos_url": "https://api.github.com/users/scaleway/repos",
+    "events_url": "https://api.github.com/users/scaleway/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/scaleway/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "twk3": 1,
+    "sieben": 1,
+    "ctrlok": 1,
+    "nlamirault": 5,
+    "moul": 30,
+    "QuentinPerez": 72
+  },
+  "pulls_authors": [
+    "sieben",
+    "twk3",
+    "jaylinski",
+    "ctrlok",
+    "QuentinPerez",
+    "moul"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 9172,
+      "color": "#375eab"
+    },
+    "Ruby": {
+      "bytes": 946,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T20:50:50.561Z"
+}

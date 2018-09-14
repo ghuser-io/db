@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cookies_eu",
+  "full_name": "d4be4st/cookies_eu",
+  "owner": "d4be4st",
+  "private": false,
+  "html_url": "https://github.com/d4be4st/cookies_eu",
+  "description": "Rails gem for eu cookies law",
+  "fork": false,
+  "url": "https://api.github.com/repos/d4be4st/cookies_eu",
+  "languages_url": "https://api.github.com/repos/d4be4st/cookies_eu/languages",
+  "pulls_url": "https://api.github.com/repos/d4be4st/cookies_eu/pulls{/number}",
+  "created_at": "2013-06-19T11:41:09Z",
+  "updated_at": "2015-05-13T22:03:25Z",
+  "pushed_at": "2015-02-13T07:17:59Z",
+  "homepage": null,
+  "size": 212,
+  "stargazers_count": 9,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "fresh2nd": 1,
+    "backpackerhh": 2,
+    "d4be4st": 30
+  },
+  "pulls_authors": [
+    "backpackerhh",
+    "fresh2nd",
+    "psyburn"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 1363,
+      "color": "#701516"
+    },
+    "CSS": {
+      "bytes": 899,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 267,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-17T16:21:33.302Z"
+}

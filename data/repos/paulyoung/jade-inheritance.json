@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jade-inheritance",
+  "full_name": "paulyoung/jade-inheritance",
+  "owner": "paulyoung",
+  "private": false,
+  "html_url": "https://github.com/paulyoung/jade-inheritance",
+  "description": "Reduce compilation time for Jade files by understanding inheritance.",
+  "fork": false,
+  "url": "https://api.github.com/repos/paulyoung/jade-inheritance",
+  "languages_url": "https://api.github.com/repos/paulyoung/jade-inheritance/languages",
+  "pulls_url": "https://api.github.com/repos/paulyoung/jade-inheritance/pulls{/number}",
+  "created_at": "2013-09-20T18:12:38Z",
+  "updated_at": "2016-08-05T01:29:56Z",
+  "pushed_at": "2017-03-14T15:39:38Z",
+  "homepage": "",
+  "size": 175,
+  "stargazers_count": 41,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "pgilad": 1,
+    "bfred-it": 2,
+    "paulyoung": 13
+  },
+  "pulls_authors": [
+    "ReadmeCritic",
+    "adammockor",
+    "bfred-it",
+    "pgilad"
+  ],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 2835,
+      "color": "#244776"
+    },
+    "JavaScript": {
+      "bytes": 976,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:57.209Z"
+}

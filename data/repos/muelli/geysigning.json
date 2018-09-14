@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "geysigning",
+  "full_name": "muelli/geysigning",
+  "owner": "muelli",
+  "private": false,
+  "html_url": "https://github.com/muelli/geysigning",
+  "description": "An easier way to sign OpenPGP keys over the local network",
+  "fork": true,
+  "url": "https://api.github.com/repos/muelli/geysigning",
+  "languages_url": "https://api.github.com/repos/muelli/geysigning/languages",
+  "pulls_url": "https://api.github.com/repos/muelli/geysigning/pulls{/number}",
+  "created_at": "2014-06-14T15:52:14Z",
+  "updated_at": "2017-01-31T15:26:59Z",
+  "pushed_at": "2017-01-30T14:27:30Z",
+  "homepage": "",
+  "size": 947,
+  "stargazers_count": 10,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mweinelt": 1,
+    "DimStar77": 1,
+    "sgnn7": 1,
+    "vollkorn1982": 1,
+    "ignatenkobrain": 2,
+    "Profpatsch": 3,
+    "AlexMunoz": 3,
+    "jobediah": 14,
+    "andreimacavei": 33,
+    "muelli": 472
+  },
+  "pulls_authors": [
+    "muelli",
+    "mweinelt",
+    "DimStar77",
+    "andreimacavei",
+    "sgnn7",
+    "AlexMunoz",
+    "jobediah",
+    "ignatenkobrain",
+    "gitter-badger",
+    "Profpatsch",
+    "NitikaAgarwal",
+    "vollkorn1982"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 197798,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 734,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 22,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:48.423Z"
+}

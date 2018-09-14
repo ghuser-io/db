@@ -1,0 +1,82 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cotire",
+  "full_name": "sakra/cotire",
+  "owner": "sakra",
+  "private": false,
+  "html_url": "https://github.com/sakra/cotire",
+  "description": "CMake module to speed up builds.",
+  "fork": false,
+  "url": "https://api.github.com/repos/sakra/cotire",
+  "languages_url": "https://api.github.com/repos/sakra/cotire/languages",
+  "pulls_url": "https://api.github.com/repos/sakra/cotire/pulls{/number}",
+  "created_at": "2012-03-11T16:36:51Z",
+  "updated_at": "2018-09-13T20:31:13Z",
+  "pushed_at": "2018-08-31T17:02:51Z",
+  "homepage": "",
+  "size": 553,
+  "stargazers_count": 835,
+  "language": "CMake",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "gcamp": 1,
+    "bilke": 1,
+    "kbinani": 1,
+    "misery": 1,
+    "jcelerier": 1,
+    "kode9": 1,
+    "ArnaudD-FR": 1,
+    "dpantele": 1,
+    "smspillaz": 1,
+    "gjasny": 1,
+    "sakra": 154
+  },
+  "pulls_authors": [
+    "valentinvanelslande",
+    "MaartenBent",
+    "Quincunx271",
+    "Naios",
+    "fkorsa",
+    "traceon",
+    "kazarmy",
+    "huelsenfruchtzwerg",
+    "chfast",
+    "jschueller",
+    "gcamp",
+    "bilke",
+    "nocnokneo",
+    "kbinani",
+    "elipsion",
+    "jakirkham",
+    "misery",
+    "jcelerier",
+    "kode9",
+    "alkino",
+    "peterhuene",
+    "ArnaudD-FR",
+    "nickhutchinson",
+    "dpantele",
+    "smspillaz",
+    "gjasny"
+  ],
+  "languages": {
+    "CMake": {
+      "bytes": 175809,
+      "color": "#ccc"
+    },
+    "C++": {
+      "bytes": 1100,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-13T23:51:39.114Z"
+}

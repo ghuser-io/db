@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ZeroTranslate",
+  "full_name": "mkg20001/ZeroTranslate",
+  "owner": "mkg20001",
+  "private": false,
+  "html_url": "https://github.com/mkg20001/ZeroTranslate",
+  "description": "Allows you to translate zeronet zites with ease",
+  "fork": false,
+  "url": "https://api.github.com/repos/mkg20001/ZeroTranslate",
+  "languages_url": "https://api.github.com/repos/mkg20001/ZeroTranslate/languages",
+  "pulls_url": "https://api.github.com/repos/mkg20001/ZeroTranslate/pulls{/number}",
+  "created_at": "2017-04-21T16:40:00Z",
+  "updated_at": "2017-04-23T18:11:54Z",
+  "pushed_at": "2017-09-26T12:30:24Z",
+  "homepage": null,
+  "size": 10,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mkg20001": 7
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 9318,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:33.444Z"
+}

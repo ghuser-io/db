@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "meta_commit",
+  "full_name": "usernam3/meta_commit",
+  "owner": "usernam3",
+  "private": false,
+  "html_url": "https://github.com/usernam3/meta_commit",
+  "description": "Enrich commit diffs with programing language insights",
+  "fork": false,
+  "url": "https://api.github.com/repos/usernam3/meta_commit",
+  "languages_url": "https://api.github.com/repos/usernam3/meta_commit/languages",
+  "pulls_url": "https://api.github.com/repos/usernam3/meta_commit/pulls{/number}",
+  "created_at": "2017-06-18T22:31:03Z",
+  "updated_at": "2018-08-31T00:23:53Z",
+  "pushed_at": "2018-05-12T21:39:16Z",
+  "homepage": null,
+  "size": 163,
+  "stargazers_count": 5,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "usernam3": 57
+  },
+  "pulls_authors": [
+    "fossabot"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 137527,
+      "color": "#89e051"
+    },
+    "Ruby": {
+      "bytes": 99549,
+      "color": "#701516"
+    },
+    "Gherkin": {
+      "bytes": 5795,
+      "color": "#5B2063"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:15.024Z"
+}

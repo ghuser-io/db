@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "lj-maintenance-mode",
+  "full_name": "lukasjuhas/lj-maintenance-mode",
+  "owner": "lukasjuhas",
+  "private": false,
+  "html_url": "https://github.com/lukasjuhas/lj-maintenance-mode",
+  "description": "Simple maintenance mode wordpress plugin.",
+  "fork": false,
+  "url": "https://api.github.com/repos/lukasjuhas/lj-maintenance-mode",
+  "languages_url": "https://api.github.com/repos/lukasjuhas/lj-maintenance-mode/languages",
+  "pulls_url": "https://api.github.com/repos/lukasjuhas/lj-maintenance-mode/pulls{/number}",
+  "created_at": "2014-11-11T17:10:33Z",
+  "updated_at": "2018-07-24T16:55:57Z",
+  "pushed_at": "2018-04-03T10:27:15Z",
+  "homepage": "https://plugins.itsluk.as/maintenance-mode/",
+  "size": 2495,
+  "stargazers_count": 18,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "relgit": 1,
+    "gedeminas": 1,
+    "bcien": 1,
+    "gablau": 1,
+    "christophherr": 1,
+    "edwarddekker": 4,
+    "gabrielbijleveld": 5,
+    "pnoeric": 8,
+    "lukasjuhas": 91
+  },
+  "pulls_authors": [
+    "edwarddekker",
+    "pnoeric",
+    "relgit",
+    "gabrielbijleveld",
+    "lukasjuhas",
+    "gedeminas",
+    "bcien",
+    "lomars",
+    "gablau",
+    "jkomar",
+    "christophherr"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 32120,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:01.797Z"
+}

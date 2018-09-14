@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "google-images-download",
+  "full_name": "schollz/google-images-download",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/google-images-download",
+  "description": "Python Script to download hundreds of images from 'Google Images'. It is a ready-to-run code!",
+  "fork": true,
+  "url": "https://api.github.com/repos/schollz/google-images-download",
+  "languages_url": "https://api.github.com/repos/schollz/google-images-download/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/google-images-download/pulls{/number}",
+  "created_at": "2018-05-07T13:11:32Z",
+  "updated_at": "2018-06-13T07:50:10Z",
+  "pushed_at": "2018-05-04T13:41:52Z",
+  "homepage": "",
+  "size": 191,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "adayton1": 1,
+    "NoSkillGuy": 1,
+    "maanjum95": 1,
+    "kentico-evas": 1,
+    "psuzn": 1,
+    "SettNozz": 1,
+    "leemengtaiwan": 1,
+    "a0m0rajab": 1,
+    "mentatpsi": 1,
+    "Antetokounpo": 1,
+    "erilyth": 1,
+    "rachmadaniHaryono": 2,
+    "anumpatel": 2,
+    "harniva": 2,
+    "sleepless-se": 3,
+    "dharahas10": 3,
+    "Einsteino": 4,
+    "hardikvasa": 19
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 43998,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:53.896Z"
+}

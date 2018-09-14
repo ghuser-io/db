@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docker-emdebian-builder",
+  "full_name": "moul/docker-emdebian-builder",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/docker-emdebian-builder",
+  "description": ":whale: build emdebian images in Docker",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/docker-emdebian-builder",
+  "languages_url": "https://api.github.com/repos/moul/docker-emdebian-builder/languages",
+  "pulls_url": "https://api.github.com/repos/moul/docker-emdebian-builder/pulls{/number}",
+  "created_at": "2015-06-10T15:23:25Z",
+  "updated_at": "2015-10-11T14:03:07Z",
+  "pushed_at": "2018-08-18T16:12:33Z",
+  "homepage": null,
+  "size": 13,
+  "stargazers_count": 1,
+  "language": "Makefile",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 11
+  },
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
+  "languages": {
+    "Makefile": {
+      "bytes": 1224,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 165,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:33.388Z"
+}

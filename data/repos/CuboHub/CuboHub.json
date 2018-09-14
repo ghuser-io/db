@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "CuboHub",
+  "full_name": "CuboHub/CuboHub",
+  "owner": "CuboHub",
+  "private": false,
+  "html_url": "https://github.com/CuboHub/CuboHub",
+  "description": "Automating page generation for GitHub!",
+  "fork": false,
+  "url": "https://api.github.com/repos/CuboHub/CuboHub",
+  "languages_url": "https://api.github.com/repos/CuboHub/CuboHub/languages",
+  "pulls_url": "https://api.github.com/repos/CuboHub/CuboHub/pulls{/number}",
+  "created_at": "2017-12-02T15:07:49Z",
+  "updated_at": "2018-09-12T11:14:23Z",
+  "pushed_at": "2018-09-12T11:14:29Z",
+  "homepage": "https://CuboHub.github.io",
+  "size": 323,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "CuboHub",
+    "id": 30417775,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMwNDE3Nzc1",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/30417775?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/CuboHub",
+    "html_url": "https://github.com/CuboHub",
+    "followers_url": "https://api.github.com/users/CuboHub/followers",
+    "following_url": "https://api.github.com/users/CuboHub/following{/other_user}",
+    "gists_url": "https://api.github.com/users/CuboHub/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/CuboHub/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/CuboHub/subscriptions",
+    "organizations_url": "https://api.github.com/users/CuboHub/orgs",
+    "repos_url": "https://api.github.com/users/CuboHub/repos",
+    "events_url": "https://api.github.com/users/CuboHub/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/CuboHub/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "renovate[bot]": 1,
+    "renovate-bot": 37,
+    "TiagoDanin": 72
+  },
+  "pulls_authors": [
+    "renovate[bot]",
+    "TiagoDanin"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 11987,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T16:52:31.835Z"
+}

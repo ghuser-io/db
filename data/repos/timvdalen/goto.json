@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "goto",
+  "full_name": "timvdalen/goto",
+  "owner": "timvdalen",
+  "private": false,
+  "html_url": "https://github.com/timvdalen/goto",
+  "description": "Grudge of the Oblivious",
+  "fork": false,
+  "url": "https://api.github.com/repos/timvdalen/goto",
+  "languages_url": "https://api.github.com/repos/timvdalen/goto/languages",
+  "pulls_url": "https://api.github.com/repos/timvdalen/goto/pulls{/number}",
+  "created_at": "2012-07-08T11:34:00Z",
+  "updated_at": "2013-10-06T10:51:18Z",
+  "pushed_at": "2012-07-20T15:12:26Z",
+  "homepage": null,
+  "size": 1020,
+  "stargazers_count": 2,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "PeterKoymans": 16,
+    "lucavanballegooijen": 53,
+    "Heightened": 61,
+    "FerryT": 99,
+    "KAYLukas": 122,
+    "timvdalen": 217
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 360723,
+      "color": "#f34b7d"
+    },
+    "Objective-C": {
+      "bytes": 58787,
+      "color": "#438eff"
+    },
+    "C": {
+      "bytes": 17517,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:59.147Z"
+}

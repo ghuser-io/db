@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "jdelman",
+  "ghuser_created_at": "2018-09-11T11:08:06.009Z",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/2815533?v=4",
+  "html_url": "https://github.com/jdelman",
+  "organizations_url": "https://api.github.com/users/jdelman/orgs",
+  "repos_url": "https://api.github.com/users/jdelman/repos",
+  "type": "User",
+  "name": "Josh Delman",
+  "company": "@SnapsApp ",
+  "blog": "https://turdnagel.com",
+  "location": "New York",
+  "email": "joshdelman@gmail.com",
+  "bio": null,
+  "public_gists": 10,
+  "created_at": "2012-11-16T16:58:28Z",
+  "updated_at": "2018-08-23T15:01:01Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:14:43.028Z",
+    "repos": [
+      "jdelman/qqdb",
+      "jdelman/weatherprompt",
+      "jdelman/proxy-lens",
+      "jdelman/Provenance",
+      "jdelman/filter-map-reduce-streams",
+      "jdelman/pmhack",
+      "evgenyrodionov/redux-logger",
+      "jdelman/particles",
+      "jdelman/potato",
+      "TomThorpe/UIScrollSlidingPages",
+      "jdelman/SaveYourBacon",
+      "git/git",
+      "Zulko/moviepy",
+      "jdelman/BrightnessTheme",
+      "jdelman/python-for-ios"
+    ]
+  }
+}

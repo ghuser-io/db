@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-rfb2",
+  "full_name": "sidorares/node-rfb2",
+  "owner": "sidorares",
+  "private": false,
+  "html_url": "https://github.com/sidorares/node-rfb2",
+  "description": "rfb wire protocol client and server",
+  "fork": false,
+  "url": "https://api.github.com/repos/sidorares/node-rfb2",
+  "languages_url": "https://api.github.com/repos/sidorares/node-rfb2/languages",
+  "pulls_url": "https://api.github.com/repos/sidorares/node-rfb2/pulls{/number}",
+  "created_at": "2013-02-06T02:15:47Z",
+  "updated_at": "2018-07-29T15:32:59Z",
+  "pushed_at": "2018-07-28T10:26:16Z",
+  "homepage": null,
+  "size": 43,
+  "stargazers_count": 101,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "basarat": 1,
+    "yomr": 1,
+    "illbexyz": 1,
+    "bitdeli-chef": 1,
+    "G07cha": 2,
+    "follower": 3,
+    "sidorares": 37
+  },
+  "pulls_authors": [
+    "vtolstov",
+    "basarat",
+    "yomr",
+    "untoldone",
+    "illbexyz",
+    "G07cha",
+    "follower",
+    "ceineke",
+    "bitdeli-chef"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 38130,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:29.472Z"
+}

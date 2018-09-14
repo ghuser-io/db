@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "design-patterns-and-idioms-in-es6",
+  "full_name": "ziyasal/design-patterns-and-idioms-in-es6",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/design-patterns-and-idioms-in-es6",
+  "description": "Design patterns and idioms in JS(ES6)  /w traceur",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal/design-patterns-and-idioms-in-es6",
+  "languages_url": "https://api.github.com/repos/ziyasal/design-patterns-and-idioms-in-es6/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/design-patterns-and-idioms-in-es6/pulls{/number}",
+  "created_at": "2015-02-04T14:28:58Z",
+  "updated_at": "2018-08-13T16:10:33Z",
+  "pushed_at": "2017-01-11T10:07:55Z",
+  "homepage": "",
+  "size": 46,
+  "stargazers_count": 127,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ozzimpact": 12,
+    "ziyasal": 18
+  },
+  "pulls_authors": [
+    "ozzimpact",
+    "previousdeveloper"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 11073,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 6840,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:09.562Z"
+}

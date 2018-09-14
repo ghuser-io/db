@@ -1,0 +1,102 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "simple-json",
+  "full_name": "facebook-csharp-sdk/simple-json",
+  "owner": "facebook-csharp-sdk",
+  "private": false,
+  "html_url": "https://github.com/facebook-csharp-sdk/simple-json",
+  "description": "JSON library for .NET 2.0+/SL4+/WP7/WindowsStore with optional support for dynamic and DataContract",
+  "fork": false,
+  "url": "https://api.github.com/repos/facebook-csharp-sdk/simple-json",
+  "languages_url": "https://api.github.com/repos/facebook-csharp-sdk/simple-json/languages",
+  "pulls_url": "https://api.github.com/repos/facebook-csharp-sdk/simple-json/pulls{/number}",
+  "created_at": "2012-01-05T22:55:07Z",
+  "updated_at": "2018-09-03T05:25:55Z",
+  "pushed_at": "2018-04-24T10:50:35Z",
+  "homepage": "",
+  "size": 5396,
+  "stargazers_count": 313,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "facebook-csharp-sdk",
+    "id": 1307776,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzMDc3NzY=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/1307776?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/facebook-csharp-sdk",
+    "html_url": "https://github.com/facebook-csharp-sdk",
+    "followers_url": "https://api.github.com/users/facebook-csharp-sdk/followers",
+    "following_url": "https://api.github.com/users/facebook-csharp-sdk/following{/other_user}",
+    "gists_url": "https://api.github.com/users/facebook-csharp-sdk/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/facebook-csharp-sdk/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/facebook-csharp-sdk/subscriptions",
+    "organizations_url": "https://api.github.com/users/facebook-csharp-sdk/orgs",
+    "repos_url": "https://api.github.com/users/facebook-csharp-sdk/repos",
+    "events_url": "https://api.github.com/users/facebook-csharp-sdk/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/facebook-csharp-sdk/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "csokun": 1,
+    "paulecoyote": 1,
+    "shiftkey": 6,
+    "niik": 8,
+    "Haacked": 22,
+    "prabirshrestha": 214
+  },
+  "pulls_authors": [
+    "MihaMarkic",
+    "xtqqksszml",
+    "logiclrd",
+    "Lakritzator",
+    "amccorma",
+    "Yantrio",
+    "ndevenish",
+    "koalaylj",
+    "jdehaan",
+    "Haacked",
+    "jasonmead",
+    "haagenson",
+    "PeterN",
+    "Esam-Bustaty",
+    "fiacc",
+    "eduardocampano",
+    "csokun",
+    "shiftkey",
+    "niemyjski",
+    "prabirshrestha",
+    "niik",
+    "albertjan",
+    "paulecoyote"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 277738,
+      "color": "#178600"
+    },
+    "JavaScript": {
+      "bytes": 18346,
+      "color": "#f1e05a"
+    },
+    "PowerShell": {
+      "bytes": 1373,
+      "color": "#012456"
+    },
+    "Shell": {
+      "bytes": 56,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:41.098Z"
+}

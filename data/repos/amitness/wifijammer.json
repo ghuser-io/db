@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wifijammer",
+  "full_name": "amitness/wifijammer",
+  "owner": "amitness",
+  "private": false,
+  "html_url": "https://github.com/amitness/wifijammer",
+  "description": "Continuously jam all wifi clients/routers",
+  "fork": true,
+  "url": "https://api.github.com/repos/amitness/wifijammer",
+  "languages_url": "https://api.github.com/repos/amitness/wifijammer/languages",
+  "pulls_url": "https://api.github.com/repos/amitness/wifijammer/pulls{/number}",
+  "created_at": "2015-05-29T19:24:49Z",
+  "updated_at": "2015-06-13T07:42:27Z",
+  "pushed_at": "2015-03-30T20:26:00Z",
+  "homepage": "",
+  "size": 334,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cadesalaberry": 1,
+    "Narno": 1,
+    "arjun024": 1,
+    "ThaWeatherman": 1,
+    "mncoppola": 1,
+    "fxlv": 2,
+    "ganye": 3,
+    "DanMcInerney": 4,
+    "slick666": 10
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 14489,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:35.023Z"
+}

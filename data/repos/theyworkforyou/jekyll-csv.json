@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jekyll-csv",
+  "full_name": "theyworkforyou/jekyll-csv",
+  "owner": "theyworkforyou",
+  "private": false,
+  "html_url": "https://github.com/theyworkforyou/jekyll-csv",
+  "description": "Turn a CSV into a Jekyll collection",
+  "fork": false,
+  "url": "https://api.github.com/repos/theyworkforyou/jekyll-csv",
+  "languages_url": "https://api.github.com/repos/theyworkforyou/jekyll-csv/languages",
+  "pulls_url": "https://api.github.com/repos/theyworkforyou/jekyll-csv/pulls{/number}",
+  "created_at": "2016-04-05T10:25:22Z",
+  "updated_at": "2018-09-11T14:35:59Z",
+  "pushed_at": "2016-04-05T11:05:20Z",
+  "homepage": "",
+  "size": 33,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "theyworkforyou",
+    "id": 17250791,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3MjUwNzkx",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/17250791?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/theyworkforyou",
+    "html_url": "https://github.com/theyworkforyou",
+    "followers_url": "https://api.github.com/users/theyworkforyou/followers",
+    "following_url": "https://api.github.com/users/theyworkforyou/following{/other_user}",
+    "gists_url": "https://api.github.com/users/theyworkforyou/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/theyworkforyou/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/theyworkforyou/subscriptions",
+    "organizations_url": "https://api.github.com/users/theyworkforyou/orgs",
+    "repos_url": "https://api.github.com/users/theyworkforyou/repos",
+    "events_url": "https://api.github.com/users/theyworkforyou/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/theyworkforyou/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "chrismytton": 24
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 4939,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 115,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:40.091Z"
+}

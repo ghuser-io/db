@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "illuminated.js",
+  "full_name": "gre/illuminated.js",
+  "owner": "gre",
+  "private": false,
+  "html_url": "https://github.com/gre/illuminated.js",
+  "description": "Illuminated.js – 2D lights and shadows rendering engine for HTML5 applications",
+  "fork": false,
+  "url": "https://api.github.com/repos/gre/illuminated.js",
+  "languages_url": "https://api.github.com/repos/gre/illuminated.js/languages",
+  "pulls_url": "https://api.github.com/repos/gre/illuminated.js/pulls{/number}",
+  "created_at": "2012-04-29T20:49:47Z",
+  "updated_at": "2018-08-23T00:54:55Z",
+  "pushed_at": "2014-12-18T16:10:24Z",
+  "homepage": "http://gre.github.io/illuminated.js",
+  "size": 997,
+  "stargazers_count": 368,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "acconrad": 1,
+    "brianpeiris": 1,
+    "josher19": 1,
+    "Roba1993": 4,
+    "gre": 7
+  },
+  "pulls_authors": [
+    "acconrad",
+    "Roba1993",
+    "brianpeiris",
+    "josher19"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 119304,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 48896,
+      "color": "#563d7c"
+    },
+    "Makefile": {
+      "bytes": 310,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T04:55:42.504Z"
+}

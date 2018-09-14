@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gist-img",
+  "full_name": "chrismytton/gist-img",
+  "owner": "chrismytton",
+  "private": false,
+  "html_url": "https://github.com/chrismytton/gist-img",
+  "description": "DEPRECATED: Don't use this, it doesn't work :)",
+  "fork": false,
+  "url": "https://api.github.com/repos/chrismytton/gist-img",
+  "languages_url": "https://api.github.com/repos/chrismytton/gist-img/languages",
+  "pulls_url": "https://api.github.com/repos/chrismytton/gist-img/pulls{/number}",
+  "created_at": "2012-06-26T23:23:04Z",
+  "updated_at": "2017-12-12T12:55:50Z",
+  "pushed_at": "2015-09-04T21:53:03Z",
+  "homepage": "",
+  "size": 170,
+  "stargazers_count": 52,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "chrismytton": 9
+  },
+  "pulls_authors": [
+    "israelshirk",
+    "Nikkolina23"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 1040,
+      "color": "#89e051"
+    },
+    "Ruby": {
+      "bytes": 423,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:45.977Z"
+}

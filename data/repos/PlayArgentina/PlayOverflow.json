@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PlayOverflow",
+  "full_name": "PlayArgentina/PlayOverflow",
+  "owner": "PlayArgentina",
+  "private": false,
+  "html_url": "https://github.com/PlayArgentina/PlayOverflow",
+  "description": "Zauber Play Hackaton",
+  "fork": false,
+  "url": "https://api.github.com/repos/PlayArgentina/PlayOverflow",
+  "languages_url": "https://api.github.com/repos/PlayArgentina/PlayOverflow/languages",
+  "pulls_url": "https://api.github.com/repos/PlayArgentina/PlayOverflow/pulls{/number}",
+  "created_at": "2012-05-05T14:02:28Z",
+  "updated_at": "2013-10-01T04:17:50Z",
+  "pushed_at": "2012-05-05T21:26:11Z",
+  "homepage": null,
+  "size": 246,
+  "stargazers_count": 1,
+  "language": "Scala",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "PlayArgentina",
+    "id": 1708576,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3MDg1NzY=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/1708576?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/PlayArgentina",
+    "html_url": "https://github.com/PlayArgentina",
+    "followers_url": "https://api.github.com/users/PlayArgentina/followers",
+    "following_url": "https://api.github.com/users/PlayArgentina/following{/other_user}",
+    "gists_url": "https://api.github.com/users/PlayArgentina/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/PlayArgentina/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/PlayArgentina/subscriptions",
+    "organizations_url": "https://api.github.com/users/PlayArgentina/orgs",
+    "repos_url": "https://api.github.com/users/PlayArgentina/repos",
+    "events_url": "https://api.github.com/users/PlayArgentina/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/PlayArgentina/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "kshmir": 16,
+    "derfarg": 17,
+    "marcosnils": 18
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Scala": {
+      "bytes": 690,
+      "color": "#c22d40"
+    },
+    "Java": {
+      "bytes": 232,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-11T10:37:58.721Z"
+}

@@ -1,0 +1,26 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "dafrie",
+  "ghuser_created_at": "2018-09-11T21:32:14.351Z",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/5886935?v=4",
+  "html_url": "https://github.com/dafrie",
+  "organizations_url": "https://api.github.com/users/dafrie/orgs",
+  "repos_url": "https://api.github.com/users/dafrie/repos",
+  "type": "User",
+  "name": null,
+  "company": null,
+  "blog": "",
+  "location": "Basel, Switzerland",
+  "email": null,
+  "bio": null,
+  "public_gists": 0,
+  "created_at": "2013-11-08T09:09:32Z",
+  "updated_at": "2018-08-30T22:35:09Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:11:48.941Z",
+    "repos": [
+      "dafrie/lstm-load-forecasting"
+    ]
+  }
+}

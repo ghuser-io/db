@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dotfiles",
+  "full_name": "gdtrice/dotfiles",
+  "owner": "gdtrice",
+  "private": false,
+  "html_url": "https://github.com/gdtrice/dotfiles",
+  "description": "Personal configuration dotfiles",
+  "fork": false,
+  "url": "https://api.github.com/repos/gdtrice/dotfiles",
+  "languages_url": "https://api.github.com/repos/gdtrice/dotfiles/languages",
+  "pulls_url": "https://api.github.com/repos/gdtrice/dotfiles/pulls{/number}",
+  "created_at": "2014-12-05T02:39:00Z",
+  "updated_at": "2016-10-26T22:48:14Z",
+  "pushed_at": "2017-09-20T22:41:33Z",
+  "homepage": null,
+  "size": 16,
+  "stargazers_count": 1,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 2,
+    "gdtrice": 26
+  },
+  "pulls_authors": [
+    "captbaritone"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 3712,
+      "color": "#89e051"
+    },
+    "Vim script": {
+      "bytes": 2969,
+      "color": "#199f4b"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:41.220Z"
+}

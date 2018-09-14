@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "haxe-history",
+  "full_name": "kLabz/haxe-history",
+  "owner": "kLabz",
+  "private": false,
+  "html_url": "https://github.com/kLabz/haxe-history",
+  "description": "Haxe externs for History",
+  "fork": false,
+  "url": "https://api.github.com/repos/kLabz/haxe-history",
+  "languages_url": "https://api.github.com/repos/kLabz/haxe-history/languages",
+  "pulls_url": "https://api.github.com/repos/kLabz/haxe-history/pulls{/number}",
+  "created_at": "2018-03-20T20:16:30Z",
+  "updated_at": "2018-09-10T13:50:32Z",
+  "pushed_at": "2018-03-20T20:16:49Z",
+  "homepage": "",
+  "size": 3,
+  "stargazers_count": 1,
+  "language": "Haxe",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "kLabz": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Haxe": {
+      "bytes": 3530,
+      "color": "#df7900"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:51.526Z"
+}

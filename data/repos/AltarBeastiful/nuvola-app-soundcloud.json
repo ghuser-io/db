@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nuvola-app-soundcloud",
+  "full_name": "AltarBeastiful/nuvola-app-soundcloud",
+  "owner": "AltarBeastiful",
+  "private": false,
+  "html_url": "https://github.com/AltarBeastiful/nuvola-app-soundcloud",
+  "description": "Soundcloud service for Nuvola player 3",
+  "fork": false,
+  "url": "https://api.github.com/repos/AltarBeastiful/nuvola-app-soundcloud",
+  "languages_url": "https://api.github.com/repos/AltarBeastiful/nuvola-app-soundcloud/languages",
+  "pulls_url": "https://api.github.com/repos/AltarBeastiful/nuvola-app-soundcloud/pulls{/number}",
+  "created_at": "2015-04-03T15:02:39Z",
+  "updated_at": "2015-07-20T22:32:48Z",
+  "pushed_at": "2017-03-14T23:21:17Z",
+  "homepage": null,
+  "size": 15,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-2-clause",
+    "name": "BSD 2-Clause \"Simplified\" License",
+    "spdx_id": "BSD-2-Clause",
+    "url": "https://api.github.com/licenses/bsd-2-clause",
+    "node_id": "MDc6TGljZW5zZTQ="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "SpenserJ": 3,
+    "AltarBeastiful": 8
+  },
+  "pulls_authors": [
+    "SpenserJ"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 5571,
+      "color": "#f1e05a"
+    },
+    "Makefile": {
+      "bytes": 1878,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T15:20:04.000Z"
+}

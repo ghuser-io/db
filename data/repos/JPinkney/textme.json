@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "textme",
+  "full_name": "JPinkney/textme",
+  "owner": "JPinkney",
+  "private": false,
+  "html_url": "https://github.com/JPinkney/textme",
+  "description": "A text notification system that happens after maven builds",
+  "fork": false,
+  "url": "https://api.github.com/repos/JPinkney/textme",
+  "languages_url": "https://api.github.com/repos/JPinkney/textme/languages",
+  "pulls_url": "https://api.github.com/repos/JPinkney/textme/pulls{/number}",
+  "created_at": "2017-08-17T13:38:06Z",
+  "updated_at": "2017-08-18T00:51:37Z",
+  "pushed_at": "2017-08-21T14:15:56Z",
+  "homepage": null,
+  "size": 14,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "JPinkney": 3,
+    "Christopher-Chianelli": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 10166,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:32.363Z"
+}

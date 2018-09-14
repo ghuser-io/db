@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "kitsu",
+  "full_name": "wopian/kitsu",
+  "owner": "wopian",
+  "private": false,
+  "html_url": "https://github.com/wopian/kitsu",
+  "description": "🦊 A simple, lightweight & framework agnostic JSON:API client",
+  "fork": false,
+  "url": "https://api.github.com/repos/wopian/kitsu",
+  "languages_url": "https://api.github.com/repos/wopian/kitsu/languages",
+  "pulls_url": "https://api.github.com/repos/wopian/kitsu/pulls{/number}",
+  "created_at": "2017-04-28T19:23:45Z",
+  "updated_at": "2018-09-13T03:37:07Z",
+  "pushed_at": "2018-09-13T03:38:45Z",
+  "homepage": "https://yarn.fyi/kitsu",
+  "size": 2413,
+  "stargazers_count": 62,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "matthewdias": 1,
+    "brandonmartinez": 1,
+    "poacher2k": 1,
+    "duk3luk3": 2,
+    "menthol": 5,
+    "greenkeeper[bot]": 20,
+    "renovate[bot]": 95,
+    "wopian": 561
+  },
+  "pulls_authors": [
+    "renovate[bot]",
+    "matthewdias",
+    "wopian",
+    "menthol",
+    "fossabot",
+    "duk3luk3",
+    "brandonmartinez",
+    "greenkeeper[bot]",
+    "poacher2k"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 121268,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:32.338Z"
+}

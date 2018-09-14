@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bisect-binary",
+  "full_name": "nomeata/bisect-binary",
+  "owner": "nomeata",
+  "private": false,
+  "html_url": "https://github.com/nomeata/bisect-binary",
+  "description": "Tool to determine relevant parts of binary data",
+  "fork": false,
+  "url": "https://api.github.com/repos/nomeata/bisect-binary",
+  "languages_url": "https://api.github.com/repos/nomeata/bisect-binary/languages",
+  "pulls_url": "https://api.github.com/repos/nomeata/bisect-binary/pulls{/number}",
+  "created_at": "2017-12-02T04:16:34Z",
+  "updated_at": "2018-06-01T15:30:59Z",
+  "pushed_at": "2017-12-05T14:14:34Z",
+  "homepage": null,
+  "size": 32,
+  "stargazers_count": 34,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ferhatelmas": 1,
+    "nomeata": 10
+  },
+  "pulls_authors": [
+    "ferhatelmas"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 14994,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:06.286Z"
+}

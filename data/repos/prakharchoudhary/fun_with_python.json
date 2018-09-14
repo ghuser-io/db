@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fun_with_python",
+  "full_name": "prakharchoudhary/fun_with_python",
+  "owner": "prakharchoudhary",
+  "private": false,
+  "html_url": "https://github.com/prakharchoudhary/fun_with_python",
+  "description": "My adventures with python!!",
+  "fork": false,
+  "url": "https://api.github.com/repos/prakharchoudhary/fun_with_python",
+  "languages_url": "https://api.github.com/repos/prakharchoudhary/fun_with_python/languages",
+  "created_at": "2016-06-19T17:23:49Z",
+  "updated_at": "2018-07-13T11:06:13Z",
+  "pushed_at": "2018-07-13T11:06:11Z",
+  "homepage": "",
+  "size": 2799,
+  "stargazers_count": 5,
+  "language": "Jupyter Notebook",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "itaditya": 2,
+    "prakharchoudhary": 105
+  },
+  "languages": {
+    "Jupyter Notebook": {
+      "bytes": 713044,
+      "color": "#DA5B0B"
+    },
+    "Python": {
+      "bytes": 163324,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 3942,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/prakharchoudhary/fun_with_python/pulls{/number}",
+  "pulls_authors": [
+    "itaditya"
+  ]
+}

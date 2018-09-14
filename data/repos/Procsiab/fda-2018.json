@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fda-2018",
+  "full_name": "Procsiab/fda-2018",
+  "owner": "Procsiab",
+  "private": false,
+  "html_url": "https://github.com/Procsiab/fda-2018",
+  "description": "Appunti di fondamenti di Automatica",
+  "fork": false,
+  "url": "https://api.github.com/repos/Procsiab/fda-2018",
+  "languages_url": "https://api.github.com/repos/Procsiab/fda-2018/languages",
+  "pulls_url": "https://api.github.com/repos/Procsiab/fda-2018/pulls{/number}",
+  "created_at": "2018-03-11T20:55:52Z",
+  "updated_at": "2018-07-13T22:14:53Z",
+  "pushed_at": "2018-07-13T22:14:51Z",
+  "homepage": null,
+  "size": 31846,
+  "stargazers_count": 1,
+  "language": "TeX",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "klaa97": 1,
+    "Procsiab": 35
+  },
+  "pulls_authors": [
+    "klaa97"
+  ],
+  "languages": {
+    "TeX": {
+      "bytes": 507614,
+      "color": "#3D6117"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:06.703Z"
+}

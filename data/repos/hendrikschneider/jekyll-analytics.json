@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jekyll-analytics",
+  "full_name": "hendrikschneider/jekyll-analytics",
+  "owner": "hendrikschneider",
+  "private": false,
+  "html_url": "https://github.com/hendrikschneider/jekyll-analytics",
+  "description": "Plugin to easily add webanalytics to your jekyll site. Currently Google Analytics, Piwik and mPulse are supported.",
+  "fork": false,
+  "url": "https://api.github.com/repos/hendrikschneider/jekyll-analytics",
+  "languages_url": "https://api.github.com/repos/hendrikschneider/jekyll-analytics/languages",
+  "pulls_url": "https://api.github.com/repos/hendrikschneider/jekyll-analytics/pulls{/number}",
+  "created_at": "2017-04-15T21:59:55Z",
+  "updated_at": "2018-09-11T16:33:21Z",
+  "pushed_at": "2018-05-04T19:46:10Z",
+  "homepage": "",
+  "size": 35,
+  "stargazers_count": 56,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jayvdb": 1,
+    "japellerano": 1,
+    "codejamninja": 1,
+    "gabrielepmattia": 1,
+    "PascalBru": 1,
+    "barde": 1,
+    "bluesmoon": 1,
+    "Hendrik91": 1,
+    "mardy": 2,
+    "hendrikschneider": 25
+  },
+  "pulls_authors": [
+    "jayvdb",
+    "japellerano",
+    "codejamninja",
+    "mardy",
+    "gabrielepmattia",
+    "PascalBru",
+    "barde",
+    "hendrikschneider",
+    "Ryuno-Ki",
+    "bluesmoon"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 13541,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T17:11:09.824Z"
+}

@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "getit",
+  "full_name": "ankitjain28may/getit",
+  "owner": "ankitjain28may",
+  "private": false,
+  "html_url": "https://github.com/ankitjain28may/getit",
+  "description": "A cross platform CLI downloader tool written in python",
+  "fork": false,
+  "url": "https://api.github.com/repos/ankitjain28may/getit",
+  "languages_url": "https://api.github.com/repos/ankitjain28may/getit/languages",
+  "created_at": "2016-12-10T13:03:38Z",
+  "updated_at": "2018-02-08T21:21:00Z",
+  "pushed_at": "2017-11-15T07:42:19Z",
+  "homepage": "https://pypi.python.org/pypi/getit",
+  "size": 12096,
+  "stargazers_count": 9,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "simba3447": 1,
+    "tanmaysachan": 1,
+    "ankitjain28may": 26
+  },
+  "languages": {
+    "Python": {
+      "bytes": 12463,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/ankitjain28may/getit/pulls{/number}",
+  "pulls_authors": [
+    "simba3447",
+    "tanmaysachan"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PhysicsHelper",
+  "full_name": "thehappydinoa/PhysicsHelper",
+  "owner": "thehappydinoa",
+  "private": false,
+  "html_url": "https://github.com/thehappydinoa/PhysicsHelper",
+  "description": "Physics Helper Alexa Skill that tells you about Physics Terms",
+  "fork": false,
+  "url": "https://api.github.com/repos/thehappydinoa/PhysicsHelper",
+  "languages_url": "https://api.github.com/repos/thehappydinoa/PhysicsHelper/languages",
+  "pulls_url": "https://api.github.com/repos/thehappydinoa/PhysicsHelper/pulls{/number}",
+  "created_at": "2017-12-01T14:54:09Z",
+  "updated_at": "2018-06-09T16:49:53Z",
+  "pushed_at": "2017-12-12T01:42:20Z",
+  "homepage": "",
+  "size": 10,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "thehappydinoa": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 6989,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-17T12:38:55.169Z"
+}

@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ParticleFire",
+  "full_name": "xyclos/ParticleFire",
+  "owner": "xyclos",
+  "private": false,
+  "html_url": "https://github.com/xyclos/ParticleFire",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/xyclos/ParticleFire",
+  "languages_url": "https://api.github.com/repos/xyclos/ParticleFire/languages",
+  "pulls_url": "https://api.github.com/repos/xyclos/ParticleFire/pulls{/number}",
+  "created_at": "2016-12-27T23:41:23Z",
+  "updated_at": "2016-12-29T03:28:11Z",
+  "pushed_at": "2016-12-28T03:45:50Z",
+  "homepage": null,
+  "size": 143,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "xyclos": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 8863,
+      "color": "#f34b7d"
+    },
+    "CMake": {
+      "bytes": 401,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-10T21:40:20.810Z"
+}

@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 1,
+    "philipbelesky": 12
+  },
+  "name": "inter-ui",
+  "full_name": "philipbelesky/inter-ui",
+  "owner": "philipbelesky",
+  "private": false,
+  "html_url": "https://github.com/philipbelesky/inter-ui",
+  "description": "A npm package for distributing the Inter UI font family created by Rasmus Andersson.",
+  "fork": false,
+  "url": "https://api.github.com/repos/philipbelesky/inter-ui",
+  "languages_url": "https://api.github.com/repos/philipbelesky/inter-ui/languages",
+  "created_at": "2017-12-23T06:05:38Z",
+  "updated_at": "2018-08-13T14:04:03Z",
+  "pushed_at": "2018-02-22T22:25:52Z",
+  "homepage": "https://github.com/rsms/inter/",
+  "size": 16042,
+  "stargazers_count": 6,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "ofl-1.1",
+    "name": "SIL Open Font License 1.1",
+    "spdx_id": "OFL-1.1",
+    "url": "https://api.github.com/licenses/ofl-1.1",
+    "node_id": "MDc6TGljZW5zZTE3"
+  },
+  "default_branch": "master",
+  "languages": {
+    "CSS": {
+      "bytes": 3744,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-13T15:42:49.251Z",
+  "pulls_url": "https://api.github.com/repos/philipbelesky/inter-ui/pulls{/number}",
+  "pulls_authors": [
+    "Calinou"
+  ]
+}

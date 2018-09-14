@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "redisk",
+  "full_name": "quirkey/redisk",
+  "owner": "quirkey",
+  "private": false,
+  "html_url": "https://github.com/quirkey/redisk",
+  "description": "An interface to Redis that mimic's Ruby's IO classes",
+  "fork": false,
+  "url": "https://api.github.com/repos/quirkey/redisk",
+  "languages_url": "https://api.github.com/repos/quirkey/redisk/languages",
+  "pulls_url": "https://api.github.com/repos/quirkey/redisk/pulls{/number}",
+  "created_at": "2009-12-17T21:48:32Z",
+  "updated_at": "2018-02-17T14:56:35Z",
+  "pushed_at": "2010-08-15T23:23:09Z",
+  "homepage": "http://rdoc.info/projects/quirkey/redisk",
+  "size": 178,
+  "stargazers_count": 35,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "kronos": 1,
+    "quirkey": 40
+  },
+  "pulls_authors": [
+    "willglynn"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 68823,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:32.005Z"
+}

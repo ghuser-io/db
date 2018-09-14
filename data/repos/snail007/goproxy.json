@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "goproxy",
+  "full_name": "snail007/goproxy",
+  "owner": "snail007",
+  "private": false,
+  "html_url": "https://github.com/snail007/goproxy",
+  "description": "Proxy is a high performance HTTP(S), websocket, TCP, UDP,Secure DNS, Socks5 proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,防污染DNS,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,域名黑白名单,跨平台,KCP协议支持,集成外部API。",
+  "fork": false,
+  "url": "https://api.github.com/repos/snail007/goproxy",
+  "languages_url": "https://api.github.com/repos/snail007/goproxy/languages",
+  "pulls_url": "https://api.github.com/repos/snail007/goproxy/pulls{/number}",
+  "created_at": "2017-09-11T11:10:28Z",
+  "updated_at": "2018-09-14T09:04:10Z",
+  "pushed_at": "2018-09-14T08:13:01Z",
+  "homepage": "",
+  "size": 3167,
+  "stargazers_count": 3602,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "h8liu": 1,
+    "okcy1016": 1,
+    "schmich": 1,
+    "admpub": 1,
+    "moonfruit": 1,
+    "FarhadF": 1,
+    "whgfu": 1,
+    "shoaly": 1,
+    "foxdalas": 1,
+    "wujunze": 1,
+    "yelongyu": 2,
+    "yincongcyincong": 43,
+    "snail007": 533
+  },
+  "pulls_authors": [
+    "snail007",
+    "yincongcyincong",
+    "h8liu",
+    "okcy1016",
+    "LuLechuan",
+    "said9999",
+    "schmich",
+    "boboanvip",
+    "zjz894251se",
+    "admpub",
+    "moonfruit",
+    "yelongyu",
+    "FarhadF",
+    "whgfu",
+    "shoaly",
+    "foxdalas",
+    "wujunze",
+    "Quasilyte"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 500096,
+      "color": "#375eab"
+    },
+    "Shell": {
+      "bytes": 15196,
+      "color": "#89e051"
+    },
+    "Dockerfile": {
+      "bytes": 2607,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-14T09:07:37.097Z"
+}

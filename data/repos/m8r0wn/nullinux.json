@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nullinux",
+  "full_name": "m8r0wn/nullinux",
+  "owner": "m8r0wn",
+  "private": false,
+  "html_url": "https://github.com/m8r0wn/nullinux",
+  "description": "Internal penetration testing tool for Linux that can be used to enumerate OS information, domain information, shares, directories, and users through SMB.",
+  "fork": false,
+  "url": "https://api.github.com/repos/m8r0wn/nullinux",
+  "languages_url": "https://api.github.com/repos/m8r0wn/nullinux/languages",
+  "pulls_url": "https://api.github.com/repos/m8r0wn/nullinux/pulls{/number}",
+  "created_at": "2016-04-28T16:45:02Z",
+  "updated_at": "2018-09-10T00:59:08Z",
+  "pushed_at": "2018-08-07T22:16:28Z",
+  "homepage": "",
+  "size": 70,
+  "stargazers_count": 163,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "m8r0wn": 1
+  },
+  "pulls_authors": [
+    "thehappydinoa"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 17013,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 759,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-10T07:10:07.239Z"
+}

@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "deep-learning-keras-tensorflow",
+  "full_name": "leriomaggio/deep-learning-keras-tensorflow",
+  "owner": "leriomaggio",
+  "private": false,
+  "html_url": "https://github.com/leriomaggio/deep-learning-keras-tensorflow",
+  "description": "Introduction to Deep Neural Networks with Keras and Tensorflow",
+  "fork": false,
+  "url": "https://api.github.com/repos/leriomaggio/deep-learning-keras-tensorflow",
+  "languages_url": "https://api.github.com/repos/leriomaggio/deep-learning-keras-tensorflow/languages",
+  "pulls_url": "https://api.github.com/repos/leriomaggio/deep-learning-keras-tensorflow/pulls{/number}",
+  "created_at": "2016-08-02T10:13:21Z",
+  "updated_at": "2018-09-13T06:54:12Z",
+  "pushed_at": "2018-03-22T17:31:16Z",
+  "homepage": "",
+  "size": 60950,
+  "stargazers_count": 2241,
+  "language": "Jupyter Notebook",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "superMDguy": 1,
+    "ypeleg": 1,
+    "leriomaggio": 96
+  },
+  "pulls_authors": [
+    "dbabbitt",
+    "wassimseif",
+    "slandersson",
+    "petrux",
+    "superMDguy",
+    "3lnc",
+    "paramsingh96"
+  ],
+  "languages": {
+    "Jupyter Notebook": {
+      "bytes": 6585760,
+      "color": "#DA5B0B"
+    },
+    "Python": {
+      "bytes": 19180,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-13T17:03:34.637Z"
+}

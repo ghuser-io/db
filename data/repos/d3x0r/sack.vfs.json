@@ -1,0 +1,62 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sack.vfs",
+  "full_name": "d3x0r/sack.vfs",
+  "owner": "d3x0r",
+  "private": false,
+  "html_url": "https://github.com/d3x0r/sack.vfs",
+  "description": "Node addon which adds a virtual file system interface; websockets; json(6) parsing; sql support(sqlite,odbc); javascript sched_yield; ssl certificate generation; more...",
+  "fork": false,
+  "url": "https://api.github.com/repos/d3x0r/sack.vfs",
+  "languages_url": "https://api.github.com/repos/d3x0r/sack.vfs/languages",
+  "pulls_url": "https://api.github.com/repos/d3x0r/sack.vfs/pulls{/number}",
+  "created_at": "2016-11-29T21:56:29Z",
+  "updated_at": "2018-09-04T04:12:13Z",
+  "pushed_at": "2018-09-04T04:12:11Z",
+  "homepage": "",
+  "size": 16819,
+  "stargazers_count": 8,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "cotsog": 1,
+    "gitter-badger": 1,
+    "d3x0r": 432
+  },
+  "pulls_authors": [
+    "cotsog",
+    "gitter-badger"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 7967035,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 4185270,
+      "color": "#f34b7d"
+    },
+    "JavaScript": {
+      "bytes": 84556,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 4705,
+      "color": "#3572A5"
+    },
+    "CMake": {
+      "bytes": 139,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-11T17:08:23.883Z"
+}

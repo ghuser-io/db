@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jobs-board",
+  "full_name": "pythonph/jobs-board",
+  "owner": "pythonph",
+  "private": false,
+  "html_url": "https://github.com/pythonph/jobs-board",
+  "description": "PythonPH Jobs Board",
+  "fork": false,
+  "url": "https://api.github.com/repos/pythonph/jobs-board",
+  "languages_url": "https://api.github.com/repos/pythonph/jobs-board/languages",
+  "pulls_url": "https://api.github.com/repos/pythonph/jobs-board/pulls{/number}",
+  "created_at": "2016-07-26T05:25:11Z",
+  "updated_at": "2016-08-20T14:32:32Z",
+  "pushed_at": "2016-09-12T03:58:21Z",
+  "homepage": "",
+  "size": 61,
+  "stargazers_count": 4,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pythonph",
+    "id": 1917785,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5MTc3ODU=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/1917785?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pythonph",
+    "html_url": "https://github.com/pythonph",
+    "followers_url": "https://api.github.com/users/pythonph/followers",
+    "following_url": "https://api.github.com/users/pythonph/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pythonph/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pythonph/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pythonph/subscriptions",
+    "organizations_url": "https://api.github.com/users/pythonph/orgs",
+    "repos_url": "https://api.github.com/users/pythonph/repos",
+    "events_url": "https://api.github.com/users/pythonph/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pythonph/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "marksteve": 10,
+    "codemickeycode": 11,
+    "cr8ivecodesmith": 19,
+    "darylyu": 38
+  },
+  "pulls_authors": [
+    "darylyu",
+    "codemickeycode",
+    "cr8ivecodesmith"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 35215,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 26329,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 373,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 29,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:32.994Z"
+}

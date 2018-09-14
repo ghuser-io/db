@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "keyed_archive",
+  "full_name": "paulyoung/keyed_archive",
+  "owner": "paulyoung",
+  "private": false,
+  "html_url": "https://github.com/paulyoung/keyed_archive",
+  "description": "A Ruby gem for working with files produced by NSKeyedArchiver.",
+  "fork": false,
+  "url": "https://api.github.com/repos/paulyoung/keyed_archive",
+  "languages_url": "https://api.github.com/repos/paulyoung/keyed_archive/languages",
+  "pulls_url": "https://api.github.com/repos/paulyoung/keyed_archive/pulls{/number}",
+  "created_at": "2014-04-21T22:15:29Z",
+  "updated_at": "2017-03-06T09:30:11Z",
+  "pushed_at": "2014-04-22T05:18:56Z",
+  "homepage": null,
+  "size": 128,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "paulyoung": 13
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 1130,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-08T12:41:02.497Z"
+}

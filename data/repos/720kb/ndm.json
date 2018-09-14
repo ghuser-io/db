@@ -1,0 +1,95 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ndm",
+  "full_name": "720kb/ndm",
+  "owner": "720kb",
+  "private": false,
+  "html_url": "https://github.com/720kb/ndm",
+  "description": ":computer: npm desktop manager https://720kb.github.io/ndm",
+  "fork": false,
+  "url": "https://api.github.com/repos/720kb/ndm",
+  "languages_url": "https://api.github.com/repos/720kb/ndm/languages",
+  "pulls_url": "https://api.github.com/repos/720kb/ndm/pulls{/number}",
+  "created_at": "2016-11-16T09:42:09Z",
+  "updated_at": "2018-09-12T08:20:54Z",
+  "pushed_at": "2018-08-13T05:27:42Z",
+  "homepage": "",
+  "size": 9732,
+  "stargazers_count": 1470,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "720kb",
+    "id": 7762645,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc3NjI2NDU=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/7762645?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/720kb",
+    "html_url": "https://github.com/720kb",
+    "followers_url": "https://api.github.com/users/720kb/followers",
+    "following_url": "https://api.github.com/users/720kb/following{/other_user}",
+    "gists_url": "https://api.github.com/users/720kb/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/720kb/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/720kb/subscriptions",
+    "organizations_url": "https://api.github.com/users/720kb/orgs",
+    "repos_url": "https://api.github.com/users/720kb/repos",
+    "events_url": "https://api.github.com/users/720kb/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/720kb/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "bilelmoussaoui": 1,
+    "mikeislearning": 1,
+    "RyoIkarashi": 1,
+    "joshstrange": 1,
+    "gillstrom": 1,
+    "piamancini": 2,
+    "makevoid": 4,
+    "wouldgo": 132,
+    "45kb": 1660
+  },
+  "pulls_authors": [
+    "snyk-bot",
+    "azhsetiawan",
+    "Nissaar",
+    "ReplayCoding",
+    "45kb",
+    "AdminYF",
+    "wouldgo",
+    "bilelmoussaoui",
+    "piamancini",
+    "mikeislearning",
+    "RyoIkarashi",
+    "joshstrange",
+    "gillstrom"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 121607,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 25165,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 22808,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 195,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:19.979Z"
+}

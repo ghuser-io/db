@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "binda",
+  "full_name": "minton/binda",
+  "owner": "minton",
+  "private": false,
+  "html_url": "https://github.com/minton/binda",
+  "description": "Simple Data Binding for WinForms",
+  "fork": false,
+  "url": "https://api.github.com/repos/minton/binda",
+  "languages_url": "https://api.github.com/repos/minton/binda/languages",
+  "pulls_url": "https://api.github.com/repos/minton/binda/pulls{/number}",
+  "created_at": "2012-08-09T19:32:09Z",
+  "updated_at": "2018-08-01T07:31:06Z",
+  "pushed_at": "2017-09-16T18:51:00Z",
+  "homepage": "",
+  "size": 2450,
+  "stargazers_count": 8,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "brycekbargar": 7,
+    "hotgazpacho": 19,
+    "minton": 38
+  },
+  "pulls_authors": [
+    "brycekbargar",
+    "minton",
+    "hotgazpacho"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 56837,
+      "color": "#178600"
+    },
+    "F#": {
+      "bytes": 4436,
+      "color": "#b845fc"
+    },
+    "Batchfile": {
+      "bytes": 381,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-12T07:37:17.053Z"
+}

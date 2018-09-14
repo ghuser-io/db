@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "libdebugfs",
+  "full_name": "moul/libdebugfs",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/libdebugfs",
+  "description": "dynamic file-system debugging library (LD_PRELOAD)",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/libdebugfs",
+  "languages_url": "https://api.github.com/repos/moul/libdebugfs/languages",
+  "pulls_url": "https://api.github.com/repos/moul/libdebugfs/pulls{/number}",
+  "created_at": "2012-03-15T09:07:36Z",
+  "updated_at": "2013-12-12T10:33:09Z",
+  "pushed_at": "2012-03-15T21:28:14Z",
+  "homepage": "",
+  "size": 104,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 22
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-05T13:07:54.337Z"
+}

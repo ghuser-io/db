@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "kanade",
+  "full_name": "cheeaun/kanade",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/kanade",
+  "description": "A Mobile web app to list anime series for every season, with scores and stuff for easy comparison.",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/kanade",
+  "languages_url": "https://api.github.com/repos/cheeaun/kanade/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/kanade/pulls{/number}",
+  "created_at": "2011-05-09T15:17:11Z",
+  "updated_at": "2017-04-15T02:50:12Z",
+  "pushed_at": "2014-01-04T08:09:00Z",
+  "homepage": "http://cheeaun.github.io/kanade/",
+  "size": 1479,
+  "stargazers_count": 33,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mikuwhale": 1,
+    "KTamas": 1,
+    "cheeaun": 104
+  },
+  "pulls_authors": [
+    "mikuwhale",
+    "KTamas"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 64092,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 22611,
+      "color": "#563d7c"
+    },
+    "Ruby": {
+      "bytes": 918,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-10T19:00:04.190Z"
+}

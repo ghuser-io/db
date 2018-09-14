@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Aarogya-Application",
+  "full_name": "sarthak268/Aarogya-Application",
+  "owner": "sarthak268",
+  "private": false,
+  "html_url": "https://github.com/sarthak268/Aarogya-Application",
+  "description": " This is a website designed for providing basic health facilities by introducing the availaibility to chat with doctors. Also, it involves making the information of spreading diseases in the society by making dynamic heatmaps marking the spread of a disease upon the authentic validation by expert doctors, so as to benefit people in getting awareness, as well as the government in taking necessary measures as and when required.",
+  "fork": false,
+  "url": "https://api.github.com/repos/sarthak268/Aarogya-Application",
+  "languages_url": "https://api.github.com/repos/sarthak268/Aarogya-Application/languages",
+  "pulls_url": "https://api.github.com/repos/sarthak268/Aarogya-Application/pulls{/number}",
+  "created_at": "2018-03-28T20:48:11Z",
+  "updated_at": "2018-07-08T16:36:21Z",
+  "pushed_at": "2018-06-11T16:41:07Z",
+  "homepage": "",
+  "size": 25,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "kanavbhagat": 1,
+    "sarthak268": 7
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 7231,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 2688,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-03T15:17:28.532Z"
+}

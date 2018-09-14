@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "m1ch3l",
+  "full_name": "ultreme/m1ch3l",
+  "owner": "ultreme",
+  "private": false,
+  "html_url": "https://github.com/ultreme/m1ch3l",
+  "description": ":neckbeard: m1ch3l brain",
+  "fork": false,
+  "url": "https://api.github.com/repos/ultreme/m1ch3l",
+  "languages_url": "https://api.github.com/repos/ultreme/m1ch3l/languages",
+  "pulls_url": "https://api.github.com/repos/ultreme/m1ch3l/pulls{/number}",
+  "created_at": "2015-02-24T19:17:59Z",
+  "updated_at": "2016-11-05T23:41:07Z",
+  "pushed_at": "2017-06-17T01:11:07Z",
+  "homepage": "http://salutcestcool.com/radio/",
+  "size": 282,
+  "stargazers_count": 5,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "ultreme",
+    "id": 8146403,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjgxNDY0MDM=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/8146403?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ultreme",
+    "html_url": "https://github.com/ultreme",
+    "followers_url": "https://api.github.com/users/ultreme/followers",
+    "following_url": "https://api.github.com/users/ultreme/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ultreme/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ultreme/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ultreme/subscriptions",
+    "organizations_url": "https://api.github.com/users/ultreme/orgs",
+    "repos_url": "https://api.github.com/users/ultreme/repos",
+    "events_url": "https://api.github.com/users/ultreme/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ultreme/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "fujicerisier": 2,
+    "CocolasticotSCC": 4,
+    "aimxhaisse": 17,
+    "moul": 31,
+    "ultreme-bot": 361
+  },
+  "pulls_authors": [
+    "fujicerisier",
+    "CocolasticotSCC"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 77753,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 5547,
+      "color": "#3572A5"
+    },
+    "PHP": {
+      "bytes": 3864,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:00.946Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ninja-lifx",
+  "full_name": "elliots/ninja-lifx",
+  "owner": "elliots",
+  "private": false,
+  "html_url": "https://github.com/elliots/ninja-lifx",
+  "description": "Ninja Blocks Lifx Driver",
+  "fork": false,
+  "url": "https://api.github.com/repos/elliots/ninja-lifx",
+  "languages_url": "https://api.github.com/repos/elliots/ninja-lifx/languages",
+  "pulls_url": "https://api.github.com/repos/elliots/ninja-lifx/pulls{/number}",
+  "created_at": "2013-12-17T22:47:02Z",
+  "updated_at": "2014-07-31T12:02:07Z",
+  "pushed_at": "2014-03-20T03:12:32Z",
+  "homepage": null,
+  "size": 152,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "elliots": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2801,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T13:45:58.363Z"
+}

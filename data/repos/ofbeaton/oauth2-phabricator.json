@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "oauth2-phabricator",
+  "full_name": "ofbeaton/oauth2-phabricator",
+  "owner": "ofbeaton",
+  "private": false,
+  "html_url": "https://github.com/ofbeaton/oauth2-phabricator",
+  "description": "Phabricator Provider for The PHP League OAuth 2.0 Client",
+  "fork": false,
+  "url": "https://api.github.com/repos/ofbeaton/oauth2-phabricator",
+  "languages_url": "https://api.github.com/repos/ofbeaton/oauth2-phabricator/languages",
+  "pulls_url": "https://api.github.com/repos/ofbeaton/oauth2-phabricator/pulls{/number}",
+  "created_at": "2016-11-20T18:47:55Z",
+  "updated_at": "2018-03-23T11:01:33Z",
+  "pushed_at": "2017-10-27T19:52:18Z",
+  "homepage": "",
+  "size": 26,
+  "stargazers_count": 5,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jayvdb": 1,
+    "ofbeaton": 20
+  },
+  "pulls_authors": [
+    "jayvdb"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 17189,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

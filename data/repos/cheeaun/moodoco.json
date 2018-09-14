@@ -1,0 +1,33 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "moodoco",
+  "full_name": "cheeaun/moodoco",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/moodoco",
+  "description": "HTML5 Offline Documentation for MooTools Core and More.",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/moodoco",
+  "languages_url": "https://api.github.com/repos/cheeaun/moodoco/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/moodoco/pulls{/number}",
+  "created_at": "2010-01-17T07:03:33Z",
+  "updated_at": "2015-03-15T10:56:50Z",
+  "pushed_at": "2015-03-15T10:56:28Z",
+  "homepage": "http://cheeaun.github.io/moodoco/",
+  "size": 193,
+  "stargazers_count": 26,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "thisconnect": 1,
+    "cheeaun": 62
+  },
+  "pulls_authors": [
+    "eerne"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-10T19:00:07.175Z"
+}

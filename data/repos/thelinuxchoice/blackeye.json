@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "blackeye",
+  "full_name": "thelinuxchoice/blackeye",
+  "owner": "thelinuxchoice",
+  "private": false,
+  "html_url": "https://github.com/thelinuxchoice/blackeye",
+  "description": "The most complete Phishing Tool,  with 32 templates +1 customizable",
+  "fork": false,
+  "url": "https://api.github.com/repos/thelinuxchoice/blackeye",
+  "languages_url": "https://api.github.com/repos/thelinuxchoice/blackeye/languages",
+  "pulls_url": "https://api.github.com/repos/thelinuxchoice/blackeye/pulls{/number}",
+  "created_at": "2018-06-28T20:16:21Z",
+  "updated_at": "2018-09-13T16:39:20Z",
+  "pushed_at": "2018-08-17T12:00:00Z",
+  "homepage": null,
+  "size": 8115,
+  "stargazers_count": 342,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "thelinuxchoice": 21
+  },
+  "pulls_authors": [
+    "msalerno2001",
+    "thehappydinoa"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 4242392,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1777109,
+      "color": "#563d7c"
+    },
+    "PHP": {
+      "bytes": 41386,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 14681,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 14054,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T17:03:41.489Z"
+}

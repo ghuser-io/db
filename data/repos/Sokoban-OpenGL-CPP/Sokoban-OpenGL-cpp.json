@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Sokoban-OpenGL-cpp",
+  "full_name": "Sokoban-OpenGL-CPP/Sokoban-OpenGL-cpp",
+  "owner": "Sokoban-OpenGL-CPP",
+  "private": false,
+  "html_url": "https://github.com/Sokoban-OpenGL-CPP/Sokoban-OpenGL-cpp",
+  "description": "A game built on OpenGL in which boxes are moved from initial state towards the goal state . To move the boxes the player will push them either horizontally or vertically.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Sokoban-OpenGL-CPP/Sokoban-OpenGL-cpp",
+  "languages_url": "https://api.github.com/repos/Sokoban-OpenGL-CPP/Sokoban-OpenGL-cpp/languages",
+  "pulls_url": "https://api.github.com/repos/Sokoban-OpenGL-CPP/Sokoban-OpenGL-cpp/pulls{/number}",
+  "created_at": "2018-04-19T13:27:29Z",
+  "updated_at": "2018-05-10T20:39:17Z",
+  "pushed_at": "2018-05-10T20:39:16Z",
+  "homepage": null,
+  "size": 87,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "Sokoban-OpenGL-CPP",
+    "id": 38531205,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM4NTMxMjA1",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/38531205?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Sokoban-OpenGL-CPP",
+    "html_url": "https://github.com/Sokoban-OpenGL-CPP",
+    "followers_url": "https://api.github.com/users/Sokoban-OpenGL-CPP/followers",
+    "following_url": "https://api.github.com/users/Sokoban-OpenGL-CPP/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Sokoban-OpenGL-CPP/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Sokoban-OpenGL-CPP/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Sokoban-OpenGL-CPP/subscriptions",
+    "organizations_url": "https://api.github.com/users/Sokoban-OpenGL-CPP/orgs",
+    "repos_url": "https://api.github.com/users/Sokoban-OpenGL-CPP/repos",
+    "events_url": "https://api.github.com/users/Sokoban-OpenGL-CPP/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Sokoban-OpenGL-CPP/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "akshattrivedi": 14
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 14134,
+      "color": "#f34b7d"
+    },
+    "Makefile": {
+      "bytes": 106,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:16.793Z"
+}

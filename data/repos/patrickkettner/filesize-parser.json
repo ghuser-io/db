@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "filesize-parser",
+  "full_name": "patrickkettner/filesize-parser",
+  "owner": "patrickkettner",
+  "private": false,
+  "html_url": "https://github.com/patrickkettner/filesize-parser",
+  "description": "convert human readable filesizes to their byte equivalent ",
+  "fork": false,
+  "url": "https://api.github.com/repos/patrickkettner/filesize-parser",
+  "languages_url": "https://api.github.com/repos/patrickkettner/filesize-parser/languages",
+  "pulls_url": "https://api.github.com/repos/patrickkettner/filesize-parser/pulls{/number}",
+  "created_at": "2013-06-29T17:04:57Z",
+  "updated_at": "2018-08-14T20:32:00Z",
+  "pushed_at": "2018-08-14T20:32:05Z",
+  "homepage": "",
+  "size": 19,
+  "stargazers_count": 14,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "wenboyu2": 1,
+    "callumlocke": 1,
+    "zhxnlai": 1,
+    "Bacra": 1,
+    "imShara": 1,
+    "moul": 1,
+    "deoxxa": 1,
+    "dolsup": 2,
+    "plopp": 2,
+    "Emeraude": 4,
+    "patrickkettner": 12
+  },
+  "pulls_authors": [
+    "wenboyu2",
+    "dolsup",
+    "Emeraude",
+    "callumlocke",
+    "zhxnlai",
+    "plopp",
+    "Bacra",
+    "imShara",
+    "moul",
+    "deoxxa",
+    "patrickkettner"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 5901,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:38.372Z"
+}

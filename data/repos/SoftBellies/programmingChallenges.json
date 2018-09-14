@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "programmingChallenges",
+  "full_name": "SoftBellies/programmingChallenges",
+  "owner": "SoftBellies",
+  "private": false,
+  "html_url": "https://github.com/SoftBellies/programmingChallenges",
+  "description": ":space_invader: des projets qui permettent de mesurer la taille d'un sexe (pour hommes et femmes)",
+  "fork": false,
+  "url": "https://api.github.com/repos/SoftBellies/programmingChallenges",
+  "languages_url": "https://api.github.com/repos/SoftBellies/programmingChallenges/languages",
+  "pulls_url": "https://api.github.com/repos/SoftBellies/programmingChallenges/pulls{/number}",
+  "created_at": "2015-10-17T21:37:37Z",
+  "updated_at": "2015-11-10T15:18:42Z",
+  "pushed_at": "2015-11-21T07:54:36Z",
+  "homepage": "",
+  "size": 221,
+  "stargazers_count": 1,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "SoftBellies",
+    "id": 12297628,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMjk3NjI4",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/12297628?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/SoftBellies",
+    "html_url": "https://github.com/SoftBellies",
+    "followers_url": "https://api.github.com/users/SoftBellies/followers",
+    "following_url": "https://api.github.com/users/SoftBellies/following{/other_user}",
+    "gists_url": "https://api.github.com/users/SoftBellies/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/SoftBellies/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/SoftBellies/subscriptions",
+    "organizations_url": "https://api.github.com/users/SoftBellies/orgs",
+    "repos_url": "https://api.github.com/users/SoftBellies/repos",
+    "events_url": "https://api.github.com/users/SoftBellies/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/SoftBellies/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ClementDubos": 1,
+    "Khajidu": 11,
+    "Zigazou": 14,
+    "gnieark": 19,
+    "moul": 45
+  },
+  "pulls_authors": [
+    "ClementDubos",
+    "moul"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 17633,
+      "color": "#4F5D95"
+    },
+    "Haskell": {
+      "bytes": 6048,
+      "color": "#5e5086"
+    },
+    "Python": {
+      "bytes": 3610,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 1333,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 150,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:17.763Z"
+}

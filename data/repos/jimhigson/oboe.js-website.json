@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "oboe.js-website",
+  "full_name": "jimhigson/oboe.js-website",
+  "owner": "jimhigson",
+  "private": false,
+  "html_url": "https://github.com/jimhigson/oboe.js-website",
+  "description": "Website for the oboe.js project.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jimhigson/oboe.js-website",
+  "languages_url": "https://api.github.com/repos/jimhigson/oboe.js-website/languages",
+  "pulls_url": "https://api.github.com/repos/jimhigson/oboe.js-website/pulls{/number}",
+  "created_at": "2013-11-12T22:17:36Z",
+  "updated_at": "2018-09-11T13:03:09Z",
+  "pushed_at": "2018-02-09T01:24:14Z",
+  "homepage": "http://oboejs.com",
+  "size": 4638,
+  "stargazers_count": 33,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "petter-kaspersen": 1,
+    "ogranada": 1,
+    "andrebsguedes": 1,
+    "lingasiva": 1,
+    "kraf": 1,
+    "sroze": 1,
+    "SimonWaldherr": 1,
+    "Lukewh": 1,
+    "darzu": 1,
+    "denis-sokolov": 1,
+    "patrickjtoy": 1,
+    "samwakeling": 3,
+    "nhducit": 4,
+    "jimhigson": 307
+  },
+  "pulls_authors": [
+    "petter-kaspersen",
+    "ogranada",
+    "andrebsguedes",
+    "lingasiva",
+    "JuanCaicedo",
+    "nhducit",
+    "kapv89",
+    "kraf",
+    "sroze",
+    "SimonWaldherr",
+    "Lukewh",
+    "evbacher",
+    "darzu",
+    "ghost",
+    "denis-sokolov",
+    "BinaryMuse",
+    "patrickjtoy"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 155267,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 31165,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 19038,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 144,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:39:49.436Z"
+}

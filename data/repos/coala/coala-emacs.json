@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "coala-emacs",
+  "full_name": "coala/coala-emacs",
+  "owner": "coala",
+  "private": false,
+  "html_url": "https://github.com/coala/coala-emacs",
+  "description": "A flycheck plugin.",
+  "fork": false,
+  "url": "https://api.github.com/repos/coala/coala-emacs",
+  "languages_url": "https://api.github.com/repos/coala/coala-emacs/languages",
+  "pulls_url": "https://api.github.com/repos/coala/coala-emacs/pulls{/number}",
+  "created_at": "2016-04-20T07:23:43Z",
+  "updated_at": "2018-09-10T02:56:55Z",
+  "pushed_at": "2018-06-17T06:32:47Z",
+  "homepage": null,
+  "size": 26,
+  "stargazers_count": 17,
+  "language": "Emacs Lisp",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "coala",
+    "id": 10620750,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNjIwNzUw",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/10620750?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/coala",
+    "html_url": "https://github.com/coala",
+    "followers_url": "https://api.github.com/users/coala/followers",
+    "following_url": "https://api.github.com/users/coala/following{/other_user}",
+    "gists_url": "https://api.github.com/users/coala/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/coala/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/coala/subscriptions",
+    "organizations_url": "https://api.github.com/users/coala/orgs",
+    "repos_url": "https://api.github.com/users/coala/repos",
+    "events_url": "https://api.github.com/users/coala/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/coala/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jayvdb": 1,
+    "manankalra": 1,
+    "fleimgruber": 2,
+    "RohanVB": 2,
+    "lepisma": 3,
+    "sils": 6,
+    "alexmurray": 6
+  },
+  "pulls_authors": [
+    "jayvdb",
+    "manankalra",
+    "Grox-Ni",
+    "fleimgruber",
+    "sils",
+    "lepisma",
+    "RohanVB"
+  ],
+  "languages": {
+    "Emacs Lisp": {
+      "bytes": 3628,
+      "color": "#c065db"
+    },
+    "Python": {
+      "bytes": 34,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-10T07:05:46.212Z"
+}

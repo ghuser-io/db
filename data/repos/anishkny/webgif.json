@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "webgif",
+  "full_name": "anishkny/webgif",
+  "owner": "anishkny",
+  "private": false,
+  "html_url": "https://github.com/anishkny/webgif",
+  "description": "Easily generate animated GIFs from websites",
+  "fork": false,
+  "url": "https://api.github.com/repos/anishkny/webgif",
+  "languages_url": "https://api.github.com/repos/anishkny/webgif/languages",
+  "pulls_url": "https://api.github.com/repos/anishkny/webgif/pulls{/number}",
+  "created_at": "2018-03-22T18:06:39Z",
+  "updated_at": "2018-09-10T04:47:44Z",
+  "pushed_at": "2018-09-06T23:00:43Z",
+  "homepage": "https://webgif.netlify.com",
+  "size": 46,
+  "stargazers_count": 12,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "greenkeeper[bot]": 2,
+    "anishkny": 43
+  },
+  "pulls_authors": [
+    "greenkeeper[bot]",
+    "anishkny"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 3351,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 2695,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T07:02:13.755Z"
+}

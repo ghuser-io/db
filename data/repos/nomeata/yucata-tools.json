@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "yucata-tools",
+  "full_name": "nomeata/yucata-tools",
+  "owner": "nomeata",
+  "private": false,
+  "html_url": "https://github.com/nomeata/yucata-tools",
+  "description": "Inofficial tools for heavy yucata.de users.",
+  "fork": false,
+  "url": "https://api.github.com/repos/nomeata/yucata-tools",
+  "languages_url": "https://api.github.com/repos/nomeata/yucata-tools/languages",
+  "pulls_url": "https://api.github.com/repos/nomeata/yucata-tools/pulls{/number}",
+  "created_at": "2014-11-02T15:16:34Z",
+  "updated_at": "2016-07-14T12:10:18Z",
+  "pushed_at": "2016-07-14T13:21:56Z",
+  "homepage": null,
+  "size": 6,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "keinkurt": 2,
+    "nomeata": 9
+  },
+  "pulls_authors": [
+    "keinkurt"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 3431,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:09.371Z"
+}

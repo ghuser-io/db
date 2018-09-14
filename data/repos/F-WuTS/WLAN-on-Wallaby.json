@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "WLAN-on-Wallaby",
+  "full_name": "F-WuTS/WLAN-on-Wallaby",
+  "owner": "F-WuTS",
+  "private": false,
+  "html_url": "https://github.com/F-WuTS/WLAN-on-Wallaby",
+  "description": "Disable the integrated Wallaby access point and join an existing one.",
+  "fork": false,
+  "url": "https://api.github.com/repos/F-WuTS/WLAN-on-Wallaby",
+  "languages_url": "https://api.github.com/repos/F-WuTS/WLAN-on-Wallaby/languages",
+  "pulls_url": "https://api.github.com/repos/F-WuTS/WLAN-on-Wallaby/pulls{/number}",
+  "created_at": "2016-02-09T13:21:07Z",
+  "updated_at": "2018-07-08T12:39:49Z",
+  "pushed_at": "2016-03-19T14:59:49Z",
+  "homepage": null,
+  "size": 2,
+  "stargazers_count": 4,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": true,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "F-WuTS",
+    "id": 18013460,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4MDEzNDYw",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/18013460?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/F-WuTS",
+    "html_url": "https://github.com/F-WuTS",
+    "followers_url": "https://api.github.com/users/F-WuTS/followers",
+    "following_url": "https://api.github.com/users/F-WuTS/following{/other_user}",
+    "gists_url": "https://api.github.com/users/F-WuTS/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/F-WuTS/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/F-WuTS/subscriptions",
+    "organizations_url": "https://api.github.com/users/F-WuTS/orgs",
+    "repos_url": "https://api.github.com/users/F-WuTS/repos",
+    "events_url": "https://api.github.com/users/F-WuTS/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/F-WuTS/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "PhilipTrauner": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 587,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:14.831Z"
+}

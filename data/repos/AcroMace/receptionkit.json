@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "receptionkit",
+  "full_name": "AcroMace/receptionkit",
+  "owner": "AcroMace",
+  "private": false,
+  "html_url": "https://github.com/AcroMace/receptionkit",
+  "description": "A simple, customizable receptionist iPad app built with Smooch",
+  "fork": false,
+  "url": "https://api.github.com/repos/AcroMace/receptionkit",
+  "languages_url": "https://api.github.com/repos/AcroMace/receptionkit/languages",
+  "pulls_url": "https://api.github.com/repos/AcroMace/receptionkit/pulls{/number}",
+  "created_at": "2015-04-23T23:03:00Z",
+  "updated_at": "2018-09-05T19:47:35Z",
+  "pushed_at": "2018-05-02T04:10:34Z",
+  "homepage": "http://acromace.com/receptionkit/",
+  "size": 57397,
+  "stargazers_count": 54,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "cotsog": 1,
+    "AcroMace": 105
+  },
+  "pulls_authors": [
+    "AcroMace",
+    "cotsog"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 70145,
+      "color": "#ffac45"
+    },
+    "Shell": {
+      "bytes": 815,
+      "color": "#89e051"
+    },
+    "Objective-C": {
+      "bytes": 418,
+      "color": "#438eff"
+    },
+    "Ruby": {
+      "bytes": 233,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T17:08:28.825Z"
+}

@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SimpleSave",
+  "full_name": "stephenwilliams/SimpleSave",
+  "owner": "stephenwilliams",
+  "private": false,
+  "html_url": "https://github.com/stephenwilliams/SimpleSave",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/stephenwilliams/SimpleSave",
+  "languages_url": "https://api.github.com/repos/stephenwilliams/SimpleSave/languages",
+  "pulls_url": "https://api.github.com/repos/stephenwilliams/SimpleSave/pulls{/number}",
+  "created_at": "2012-04-11T17:48:00Z",
+  "updated_at": "2015-09-21T07:22:27Z",
+  "pushed_at": "2015-07-06T14:21:55Z",
+  "homepage": "",
+  "size": 391,
+  "stargazers_count": 7,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx_id": "LGPL-3.0",
+    "url": "https://api.github.com/licenses/lgpl-3.0",
+    "node_id": "MDc6TGljZW5zZTEy"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Rob4001": 1,
+    "md-5": 1,
+    "narrowtux": 1,
+    "greatman": 3,
+    "windy1": 4,
+    "robxu9": 43,
+    "stephenwilliams": 75
+  },
+  "pulls_authors": [
+    "Rob4001",
+    "md-5",
+    "greatman",
+    "maxammann",
+    "narrowtux",
+    "robxu9"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 160960,
+      "color": "#b07219"
+    },
+    "Shell": {
+      "bytes": 2265,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:09.093Z"
+}

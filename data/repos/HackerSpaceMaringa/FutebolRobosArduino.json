@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "FutebolRobosArduino",
+  "full_name": "HackerSpaceMaringa/FutebolRobosArduino",
+  "owner": "HackerSpaceMaringa",
+  "private": false,
+  "html_url": "https://github.com/HackerSpaceMaringa/FutebolRobosArduino",
+  "description": "Projeto completo do Futebol de Robôs mantido pelo Hackerspace Maringá.",
+  "fork": false,
+  "url": "https://api.github.com/repos/HackerSpaceMaringa/FutebolRobosArduino",
+  "languages_url": "https://api.github.com/repos/HackerSpaceMaringa/FutebolRobosArduino/languages",
+  "pulls_url": "https://api.github.com/repos/HackerSpaceMaringa/FutebolRobosArduino/pulls{/number}",
+  "created_at": "2016-05-03T00:10:43Z",
+  "updated_at": "2018-08-07T20:47:27Z",
+  "pushed_at": "2018-08-07T20:47:30Z",
+  "homepage": "",
+  "size": 345,
+  "stargazers_count": 3,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "HackerSpaceMaringa",
+    "id": 5607368,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjU2MDczNjg=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/5607368?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/HackerSpaceMaringa",
+    "html_url": "https://github.com/HackerSpaceMaringa",
+    "followers_url": "https://api.github.com/users/HackerSpaceMaringa/followers",
+    "following_url": "https://api.github.com/users/HackerSpaceMaringa/following{/other_user}",
+    "gists_url": "https://api.github.com/users/HackerSpaceMaringa/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/HackerSpaceMaringa/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/HackerSpaceMaringa/subscriptions",
+    "organizations_url": "https://api.github.com/users/HackerSpaceMaringa/orgs",
+    "repos_url": "https://api.github.com/users/HackerSpaceMaringa/repos",
+    "events_url": "https://api.github.com/users/HackerSpaceMaringa/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/HackerSpaceMaringa/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "TiagoDanin": 1,
+    "jcert": 2,
+    "ysiraichi": 10,
+    "LionsWrath": 14
+  },
+  "pulls_authors": [
+    "LionsWrath",
+    "TiagoDanin"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 6002,
+      "color": "#f34b7d"
+    },
+    "Shell": {
+      "bytes": 1260,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 1230,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 1154,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-08-12T17:48:20.581Z"
+}

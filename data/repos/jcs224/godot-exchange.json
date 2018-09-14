@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 1,
+    "jcs224": 48
+  },
+  "name": "godot-exchange",
+  "full_name": "jcs224/godot-exchange",
+  "owner": "jcs224",
+  "private": false,
+  "html_url": "https://github.com/jcs224/godot-exchange",
+  "description": "An asset-sharing community website for the Godot game engine.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jcs224/godot-exchange",
+  "languages_url": "https://api.github.com/repos/jcs224/godot-exchange/languages",
+  "created_at": "2015-03-05T06:22:02Z",
+  "updated_at": "2017-12-05T08:29:03Z",
+  "pushed_at": "2015-08-22T05:03:30Z",
+  "homepage": "",
+  "size": 1924,
+  "stargazers_count": 7,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "HTML": {
+      "bytes": 324210,
+      "color": "#e34c26"
+    },
+    "PHP": {
+      "bytes": 80068,
+      "color": "#4F5D95"
+    },
+    "CSS": {
+      "bytes": 52555,
+      "color": "#563d7c"
+    },
+    "Ruby": {
+      "bytes": 1577,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 619,
+      "color": "#f1e05a"
+    },
+    "ApacheConf": {
+      "bytes": 356,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/jcs224/godot-exchange/pulls{/number}",
+  "pulls_authors": [
+    "Calinou"
+  ]
+}

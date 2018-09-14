@@ -1,0 +1,94 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "googler",
+  "full_name": "jarun/googler",
+  "owner": "jarun",
+  "private": false,
+  "html_url": "https://github.com/jarun/googler",
+  "description": ":eyes: Google from the terminal",
+  "fork": false,
+  "url": "https://api.github.com/repos/jarun/googler",
+  "languages_url": "https://api.github.com/repos/jarun/googler/languages",
+  "pulls_url": "https://api.github.com/repos/jarun/googler/pulls{/number}",
+  "created_at": "2015-08-16T03:33:02Z",
+  "updated_at": "2018-09-14T08:54:09Z",
+  "pushed_at": "2018-08-26T16:36:01Z",
+  "homepage": "",
+  "size": 1634,
+  "stargazers_count": 2705,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jose1711": 1,
+    "marcelpaulo": 1,
+    "dilawar": 1,
+    "maxice8": 1,
+    "urielz": 1,
+    "phihag": 1,
+    "ibaaj": 1,
+    "jeremija": 1,
+    "bobey": 2,
+    "snipem": 2,
+    "shaggytwodope": 3,
+    "Narrat": 4,
+    "zmwangx": 180,
+    "jarun": 467
+  },
+  "pulls_authors": [
+    "RatanRSur",
+    "TonyStark",
+    "jose1711",
+    "zmwangx",
+    "marcelpaulo",
+    "dilawar",
+    "maxice8",
+    "dslackw",
+    "AidanHanda",
+    "jaymoulin",
+    "jwilk",
+    "kyrias",
+    "zuzak",
+    "urielz",
+    "bobey",
+    "michaelhood",
+    "jorgesumle",
+    "demonye",
+    "jarun",
+    "cosgroma",
+    "snipem",
+    "phihag",
+    "shaggytwodope",
+    "akash-vartak",
+    "ibaaj",
+    "Narrat",
+    "jeremija"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 94194,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 11905,
+      "color": "#89e051"
+    },
+    "Roff": {
+      "bytes": 11522,
+      "color": "#ecdebe"
+    },
+    "Makefile": {
+      "bytes": 856,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-14T09:09:31.407Z"
+}

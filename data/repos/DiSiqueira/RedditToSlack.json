@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "RedditToSlack",
+  "full_name": "DiSiqueira/RedditToSlack",
+  "owner": "DiSiqueira",
+  "private": false,
+  "html_url": "https://github.com/DiSiqueira/RedditToSlack",
+  "description": "Watch a subreddit and post in a Slack channel when a new post is found.",
+  "fork": false,
+  "url": "https://api.github.com/repos/DiSiqueira/RedditToSlack",
+  "languages_url": "https://api.github.com/repos/DiSiqueira/RedditToSlack/languages",
+  "created_at": "2017-10-03T20:00:48Z",
+  "updated_at": "2017-10-04T21:32:58Z",
+  "pushed_at": "2017-10-03T22:08:07Z",
+  "homepage": null,
+  "size": 3,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "DiSiqueira": 2
+  },
+  "languages": {
+    "Go": {
+      "bytes": 4253,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/DiSiqueira/RedditToSlack/pulls{/number}",
+  "pulls_authors": []
+}

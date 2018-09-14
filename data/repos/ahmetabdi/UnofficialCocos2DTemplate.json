@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "UnofficialCocos2DTemplate",
+  "full_name": "ahmetabdi/UnofficialCocos2DTemplate",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/UnofficialCocos2DTemplate",
+  "description": "Cocos2D v3.4 template that does not require SpriteBuilder",
+  "fork": true,
+  "url": "https://api.github.com/repos/ahmetabdi/UnofficialCocos2DTemplate",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/UnofficialCocos2DTemplate/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/UnofficialCocos2DTemplate/pulls{/number}",
+  "created_at": "2015-06-02T08:10:33Z",
+  "updated_at": "2015-11-03T15:21:12Z",
+  "pushed_at": "2015-04-03T18:20:35Z",
+  "homepage": null,
+  "size": 3560,
+  "stargazers_count": 1,
+  "language": "Objective-C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "slembcke": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Objective-C": {
+      "bytes": 9013,
+      "color": "#438eff"
+    },
+    "Ruby": {
+      "bytes": 1708,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 191,
+      "color": "#89e051"
+    },
+    "Swift": {
+      "bytes": 50,
+      "color": "#ffac45"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:16.592Z"
+}

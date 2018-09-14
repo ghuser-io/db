@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "intermine-lists-client",
+  "full_name": "radekstepan/intermine-lists-client",
+  "owner": "radekstepan",
+  "private": false,
+  "html_url": "https://github.com/radekstepan/intermine-lists-client",
+  "description": "A client side app maintaining InterMine Lists offering folder/tag organization and live searches.",
+  "fork": false,
+  "url": "https://api.github.com/repos/radekstepan/intermine-lists-client",
+  "languages_url": "https://api.github.com/repos/radekstepan/intermine-lists-client/languages",
+  "pulls_url": "https://api.github.com/repos/radekstepan/intermine-lists-client/pulls{/number}",
+  "created_at": "2011-10-15T14:12:35Z",
+  "updated_at": "2015-01-15T06:33:24Z",
+  "pushed_at": "2012-09-10T11:26:33Z",
+  "homepage": "",
+  "size": 2499,
+  "stargazers_count": 13,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "radekstepan": 221
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 69325,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-11T13:51:02.177Z"
+}

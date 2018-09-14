@@ -1,0 +1,33 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rdfbean",
+  "full_name": "paulhoule/rdfbean",
+  "owner": "paulhoule",
+  "private": false,
+  "html_url": "https://github.com/paulhoule/rdfbean",
+  "description": "RDFBean - Object/RDF persistence for Java",
+  "fork": true,
+  "url": "https://api.github.com/repos/paulhoule/rdfbean",
+  "languages_url": "https://api.github.com/repos/paulhoule/rdfbean/languages",
+  "pulls_url": "https://api.github.com/repos/paulhoule/rdfbean/pulls{/number}",
+  "created_at": "2013-10-30T20:52:08Z",
+  "updated_at": "2013-10-30T20:52:09Z",
+  "pushed_at": "2013-10-29T20:16:52Z",
+  "homepage": "",
+  "size": 9124,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "pepperbob": 1,
+    "mysema-mala": 20,
+    "marek-surek": 28,
+    "timowest": 1279
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-11T23:10:17.055Z"
+}

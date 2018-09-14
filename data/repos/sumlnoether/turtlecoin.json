@@ -1,0 +1,93 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "turtlecoin",
+  "full_name": "sumlnoether/turtlecoin",
+  "owner": "sumlnoether",
+  "private": false,
+  "html_url": "https://github.com/sumlnoether/turtlecoin",
+  "description": "TurtleCoin is a private, fast, and easy way to send money to friends and businesses!",
+  "fork": true,
+  "url": "https://api.github.com/repos/sumlnoether/turtlecoin",
+  "languages_url": "https://api.github.com/repos/sumlnoether/turtlecoin/languages",
+  "pulls_url": "https://api.github.com/repos/sumlnoether/turtlecoin/pulls{/number}",
+  "created_at": "2018-03-20T16:21:11Z",
+  "updated_at": "2018-04-06T20:00:49Z",
+  "pushed_at": "2018-04-06T20:10:59Z",
+  "homepage": "https://turtlecoin.lol",
+  "size": 9779,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx_id": "LGPL-3.0",
+    "url": "https://api.github.com/licenses/lgpl-3.0",
+    "node_id": "MDc6TGljZW5zZTEy"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "brandonlehmann": 1,
+    "SoreGums": 1,
+    "mager": 1,
+    "Swardu": 1,
+    "mlametta": 1,
+    "CaptainMeatloaf": 1,
+    "astrorigin": 1,
+    "SylarBend": 1,
+    "ftwillms": 1,
+    "deertacos": 2,
+    "michelangelo314": 2,
+    "scottjw": 2,
+    "yamiM0NSTER": 3,
+    "wreiner": 3,
+    "blakelapierre": 3,
+    "bwentzloff": 3,
+    "lamby": 4,
+    "sumlnoether": 9,
+    "nnamon": 14,
+    "jprjr": 14,
+    "editfmah": 17,
+    "RocksteadyTC": 56,
+    "zpalmtree": 81
+  },
+  "pulls_authors": [
+    "RocksteadyTC"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 4663418,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 457019,
+      "color": "#555555"
+    },
+    "CMake": {
+      "bytes": 18810,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 13266,
+      "color": "#89e051"
+    },
+    "Perl 6": {
+      "bytes": 7379,
+      "color": "#0000fb"
+    },
+    "Python": {
+      "bytes": 1669,
+      "color": "#3572A5"
+    },
+    "Perl": {
+      "bytes": 1456,
+      "color": "#0298c3"
+    },
+    "Assembly": {
+      "bytes": 934,
+      "color": "#6E4C13"
+    }
+  },
+  "fetched_at": "2018-09-11T22:35:55.347Z"
+}

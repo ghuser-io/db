@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Stryng",
+  "full_name": "BalestraPatrick/Stryng",
+  "owner": "BalestraPatrick",
+  "private": false,
+  "html_url": "https://github.com/BalestraPatrick/Stryng",
+  "description": "Swift strings taken to a whole new syntax level.",
+  "fork": false,
+  "url": "https://api.github.com/repos/BalestraPatrick/Stryng",
+  "languages_url": "https://api.github.com/repos/BalestraPatrick/Stryng/languages",
+  "pulls_url": "https://api.github.com/repos/BalestraPatrick/Stryng/pulls{/number}",
+  "created_at": "2017-12-02T13:15:45Z",
+  "updated_at": "2018-09-07T19:34:00Z",
+  "pushed_at": "2018-08-23T16:53:09Z",
+  "homepage": "",
+  "size": 233,
+  "stargazers_count": 222,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "cardoso": 1,
+    "harlanhaskins": 1,
+    "LucianoPAlmeida": 2,
+    "sunshinejr": 3,
+    "BalestraPatrick": 23
+  },
+  "pulls_authors": [
+    "sunshinejr",
+    "cardoso",
+    "LucianoPAlmeida",
+    "harlanhaskins"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 14445,
+      "color": "#ffac45"
+    },
+    "Ruby": {
+      "bytes": 885,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-08T00:02:40.575Z"
+}

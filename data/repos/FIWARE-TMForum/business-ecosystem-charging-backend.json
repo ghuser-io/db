@@ -1,0 +1,83 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "business-ecosystem-charging-backend",
+  "full_name": "FIWARE-TMForum/business-ecosystem-charging-backend",
+  "owner": "FIWARE-TMForum",
+  "private": false,
+  "html_url": "https://github.com/FIWARE-TMForum/business-ecosystem-charging-backend",
+  "description": null,
+  "fork": true,
+  "url": "https://api.github.com/repos/FIWARE-TMForum/business-ecosystem-charging-backend",
+  "languages_url": "https://api.github.com/repos/FIWARE-TMForum/business-ecosystem-charging-backend/languages",
+  "pulls_url": "https://api.github.com/repos/FIWARE-TMForum/business-ecosystem-charging-backend/pulls{/number}",
+  "created_at": "2015-10-07T16:15:25Z",
+  "updated_at": "2017-10-13T14:15:24Z",
+  "pushed_at": "2018-04-20T07:29:10Z",
+  "homepage": null,
+  "size": 10452,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "FIWARE-TMForum",
+    "id": 15013013,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1MDEzMDEz",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/15013013?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/FIWARE-TMForum",
+    "html_url": "https://github.com/FIWARE-TMForum",
+    "followers_url": "https://api.github.com/users/FIWARE-TMForum/followers",
+    "following_url": "https://api.github.com/users/FIWARE-TMForum/following{/other_user}",
+    "gists_url": "https://api.github.com/users/FIWARE-TMForum/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/FIWARE-TMForum/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/FIWARE-TMForum/subscriptions",
+    "organizations_url": "https://api.github.com/users/FIWARE-TMForum/orgs",
+    "repos_url": "https://api.github.com/users/FIWARE-TMForum/repos",
+    "events_url": "https://api.github.com/users/FIWARE-TMForum/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/FIWARE-TMForum/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "aarranz": 1,
+    "vramperez": 1,
+    "kmilinho": 1,
+    "Cazaril": 3,
+    "irismdelalamo": 4,
+    "jpajuelo": 8,
+    "aitormagan": 16,
+    "rockneurotiko": 30,
+    "fdelavega": 1684
+  },
+  "pulls_authors": [
+    "fdelavega",
+    "jpajuelo",
+    "Cazaril",
+    "rockneurotiko",
+    "vramperez"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 761054,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 20349,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 9038,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:43.323Z"
+}

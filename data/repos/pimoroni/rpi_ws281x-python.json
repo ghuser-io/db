@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rpi_ws281x-python",
+  "full_name": "pimoroni/rpi_ws281x-python",
+  "owner": "pimoroni",
+  "private": false,
+  "html_url": "https://github.com/pimoroni/rpi_ws281x-python",
+  "description": "Python library wrapping for the rpi-ws281x library",
+  "fork": true,
+  "url": "https://api.github.com/repos/pimoroni/rpi_ws281x-python",
+  "languages_url": "https://api.github.com/repos/pimoroni/rpi_ws281x-python/languages",
+  "pulls_url": "https://api.github.com/repos/pimoroni/rpi_ws281x-python/pulls{/number}",
+  "created_at": "2018-03-13T23:00:59Z",
+  "updated_at": "2018-08-28T17:16:37Z",
+  "pushed_at": "2018-08-28T19:23:01Z",
+  "homepage": null,
+  "size": 98,
+  "stargazers_count": 4,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-2-clause",
+    "name": "BSD 2-Clause \"Simplified\" License",
+    "spdx_id": "BSD-2-Clause",
+    "url": "https://api.github.com/licenses/bsd-2-clause",
+    "node_id": "MDc6TGljZW5zZTQ="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pimoroni",
+    "id": 2399917,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzOTk5MTc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2399917?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pimoroni",
+    "html_url": "https://github.com/pimoroni",
+    "followers_url": "https://api.github.com/users/pimoroni/followers",
+    "following_url": "https://api.github.com/users/pimoroni/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pimoroni/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pimoroni/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pimoroni/subscriptions",
+    "organizations_url": "https://api.github.com/users/pimoroni/orgs",
+    "repos_url": "https://api.github.com/users/pimoroni/repos",
+    "events_url": "https://api.github.com/users/pimoroni/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pimoroni/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "pimoroni-phil": 1,
+    "Gadgetoid": 42
+  },
+  "pulls_authors": [
+    "Gadgetoid"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 170522,
+      "color": "#555555"
+    },
+    "Python": {
+      "bytes": 19398,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 506,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:04.208Z"
+}

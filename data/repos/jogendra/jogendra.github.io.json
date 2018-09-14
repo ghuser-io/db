@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jogendra.github.io",
+  "full_name": "jogendra/jogendra.github.io",
+  "owner": "jogendra",
+  "private": false,
+  "html_url": "https://github.com/jogendra/jogendra.github.io",
+  "description": "My Portfolio - Personal blogs, Projects.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jogendra/jogendra.github.io",
+  "languages_url": "https://api.github.com/repos/jogendra/jogendra.github.io/languages",
+  "pulls_url": "https://api.github.com/repos/jogendra/jogendra.github.io/pulls{/number}",
+  "created_at": "2017-06-11T08:57:00Z",
+  "updated_at": "2018-09-13T07:18:23Z",
+  "pushed_at": "2018-09-13T07:18:21Z",
+  "homepage": "https://jogendra.github.io/",
+  "size": 26460,
+  "stargazers_count": 6,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "imjog": 201,
+    "jogendra": 206
+  },
+  "pulls_authors": [
+    "imjog",
+    "jogendra"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 64421,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 37005,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 27526,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-13T16:33:25.415Z"
+}

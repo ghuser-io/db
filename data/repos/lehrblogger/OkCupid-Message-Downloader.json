@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "OkCupid-Message-Downloader",
+  "full_name": "lehrblogger/OkCupid-Message-Downloader",
+  "owner": "lehrblogger",
+  "private": false,
+  "html_url": "https://github.com/lehrblogger/OkCupid-Message-Downloader",
+  "description": "A simple Python script for downloading your sent and received OkCupid messages.",
+  "fork": false,
+  "url": "https://api.github.com/repos/lehrblogger/OkCupid-Message-Downloader",
+  "languages_url": "https://api.github.com/repos/lehrblogger/OkCupid-Message-Downloader/languages",
+  "pulls_url": "https://api.github.com/repos/lehrblogger/OkCupid-Message-Downloader/pulls{/number}",
+  "created_at": "2011-04-05T03:41:23Z",
+  "updated_at": "2018-08-10T11:58:32Z",
+  "pushed_at": "2016-03-01T07:45:59Z",
+  "homepage": "",
+  "size": 103,
+  "stargazers_count": 36,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "wangd": 1,
+    "jepst": 1,
+    "endolith": 1,
+    "hickford": 1,
+    "fquestie": 1,
+    "ckuethe": 3,
+    "nomeata": 4,
+    "4Christopher": 10,
+    "joelpurra": 18,
+    "lehrblogger": 51
+  },
+  "pulls_authors": [
+    "nomeata",
+    "ckuethe",
+    "joelpurra",
+    "lehrblogger",
+    "ypid",
+    "4Christopher",
+    "wangd",
+    "jepst",
+    "joemcmahon",
+    "endolith",
+    "hickford",
+    "fquestie"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 19700,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 922,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:11.306Z"
+}

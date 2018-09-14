@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "VectorProgram",
+  "full_name": "rockneurotiko/VectorProgram",
+  "owner": "rockneurotiko",
+  "private": false,
+  "html_url": "https://github.com/rockneurotiko/VectorProgram",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/rockneurotiko/VectorProgram",
+  "languages_url": "https://api.github.com/repos/rockneurotiko/VectorProgram/languages",
+  "pulls_url": "https://api.github.com/repos/rockneurotiko/VectorProgram/pulls{/number}",
+  "created_at": "2012-02-01T19:09:41Z",
+  "updated_at": "2013-12-20T13:49:29Z",
+  "pushed_at": "2012-02-01T19:32:35Z",
+  "homepage": "",
+  "size": 96,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "rockneurotiko": 3
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-08-18T09:21:52.057Z"
+}

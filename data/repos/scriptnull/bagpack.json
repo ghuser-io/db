@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bagpack",
+  "full_name": "scriptnull/bagpack",
+  "owner": "scriptnull",
+  "private": false,
+  "html_url": "https://github.com/scriptnull/bagpack",
+  "description": "Versatile local package manager",
+  "fork": false,
+  "url": "https://api.github.com/repos/scriptnull/bagpack",
+  "languages_url": "https://api.github.com/repos/scriptnull/bagpack/languages",
+  "pulls_url": "https://api.github.com/repos/scriptnull/bagpack/pulls{/number}",
+  "created_at": "2015-07-05T00:14:08Z",
+  "updated_at": "2015-07-06T17:08:22Z",
+  "pushed_at": "2015-07-05T22:13:29Z",
+  "homepage": null,
+  "size": 475,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "scriptnull": 16
+  },
+  "pulls_authors": [
+    "gitter-badger"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 4989,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:04.591Z"
+}

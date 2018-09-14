@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hello-android",
+  "full_name": "hasura/hello-android",
+  "owner": "hasura",
+  "private": false,
+  "html_url": "https://github.com/hasura/hello-android",
+  "description": "A tutorial to help Android developers build backends for their application using Hasura",
+  "fork": false,
+  "url": "https://api.github.com/repos/hasura/hello-android",
+  "languages_url": "https://api.github.com/repos/hasura/hello-android/languages",
+  "created_at": "2017-11-21T09:19:07Z",
+  "updated_at": "2018-09-06T13:59:45Z",
+  "pushed_at": "2018-06-18T12:07:16Z",
+  "homepage": " https://hasura.io",
+  "size": 9495,
+  "stargazers_count": 6,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "hasura",
+    "id": 13966722,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzOTY2NzIy",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/13966722?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hasura",
+    "html_url": "https://github.com/hasura",
+    "followers_url": "https://api.github.com/users/hasura/followers",
+    "following_url": "https://api.github.com/users/hasura/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hasura/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hasura/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hasura/subscriptions",
+    "organizations_url": "https://api.github.com/users/hasura/orgs",
+    "repos_url": "https://api.github.com/users/hasura/repos",
+    "events_url": "https://api.github.com/users/hasura/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hasura/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jaisontj": 1,
+    "wawhal": 4
+  },
+  "languages": {
+    "Java": {
+      "bytes": 32689,
+      "color": "#b07219"
+    },
+    "JavaScript": {
+      "bytes": 6341,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-06T17:06:31.520Z",
+  "pulls_url": "https://api.github.com/repos/hasura/hello-android/pulls{/number}",
+  "pulls_authors": [
+    "rocka0",
+    "geekysrm"
+  ]
+}

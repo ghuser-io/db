@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Blockchain",
+  "full_name": "fu-dietersheim/Blockchain",
+  "owner": "fu-dietersheim",
+  "private": false,
+  "html_url": "https://github.com/fu-dietersheim/Blockchain",
+  "description": "A verified permissioned centralized Blockchain for Isabelle/HOL",
+  "fork": false,
+  "url": "https://api.github.com/repos/fu-dietersheim/Blockchain",
+  "languages_url": "https://api.github.com/repos/fu-dietersheim/Blockchain/languages",
+  "pulls_url": "https://api.github.com/repos/fu-dietersheim/Blockchain/pulls{/number}",
+  "created_at": "2017-06-20T08:19:30Z",
+  "updated_at": "2018-08-10T01:14:56Z",
+  "pushed_at": "2018-02-03T07:31:05Z",
+  "homepage": "http://fu-dietersheim.de",
+  "size": 19,
+  "stargazers_count": 10,
+  "language": "Isabelle",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "fu-dietersheim",
+    "id": 11619378,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExNjE5Mzc4",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/11619378?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/fu-dietersheim",
+    "html_url": "https://github.com/fu-dietersheim",
+    "followers_url": "https://api.github.com/users/fu-dietersheim/followers",
+    "following_url": "https://api.github.com/users/fu-dietersheim/following{/other_user}",
+    "gists_url": "https://api.github.com/users/fu-dietersheim/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/fu-dietersheim/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/fu-dietersheim/subscriptions",
+    "organizations_url": "https://api.github.com/users/fu-dietersheim/orgs",
+    "repos_url": "https://api.github.com/users/fu-dietersheim/repos",
+    "events_url": "https://api.github.com/users/fu-dietersheim/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/fu-dietersheim/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jcaesar": 1,
+    "wimmers": 1,
+    "Profpatsch": 1,
+    "mike1703": 1,
+    "tirix": 1,
+    "larsrh": 2,
+    "diekmann": 8
+  },
+  "pulls_authors": [
+    "jcaesar",
+    "wimmers",
+    "Profpatsch",
+    "mike1703",
+    "larsrh",
+    "diekmann",
+    "tirix"
+  ],
+  "languages": {
+    "Isabelle": {
+      "bytes": 325,
+      "color": "#FEFE00"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:44.256Z"
+}

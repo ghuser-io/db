@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "python-appveyor-demo",
+  "full_name": "ogrisel/python-appveyor-demo",
+  "owner": "ogrisel",
+  "private": false,
+  "html_url": "https://github.com/ogrisel/python-appveyor-demo",
+  "description": "Demo project for building Python wheels with appveyor.com",
+  "fork": false,
+  "url": "https://api.github.com/repos/ogrisel/python-appveyor-demo",
+  "languages_url": "https://api.github.com/repos/ogrisel/python-appveyor-demo/languages",
+  "pulls_url": "https://api.github.com/repos/ogrisel/python-appveyor-demo/pulls{/number}",
+  "created_at": "2014-07-03T15:10:08Z",
+  "updated_at": "2018-09-12T03:17:10Z",
+  "pushed_at": "2018-08-10T10:19:46Z",
+  "homepage": null,
+  "size": 73,
+  "stargazers_count": 139,
+  "language": "PowerShell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "cc0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "spdx_id": "CC0-1.0",
+    "url": "https://api.github.com/licenses/cc0-1.0",
+    "node_id": "MDc6TGljZW5zZTY="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "cgmb": 1,
+    "anctartica": 1,
+    "anthrotype": 1,
+    "orthographic-pedant": 1,
+    "techtonik": 2,
+    "hickford": 2,
+    "moreati": 4,
+    "nedbat": 5,
+    "jayvdb": 5,
+    "ogrisel": 36
+  },
+  "pulls_authors": [
+    "anctartica",
+    "cclauss",
+    "anthrotype",
+    "techtonik",
+    "AvdN",
+    "cgmb",
+    "ogrisel",
+    "sklearn-ci",
+    "orthographic-pedant",
+    "jayvdb",
+    "hickford",
+    "nedbat",
+    "moreati",
+    "jjhelmus"
+  ],
+  "languages": {
+    "PowerShell": {
+      "bytes": 7197,
+      "color": "#012456"
+    },
+    "Batchfile": {
+      "bytes": 3367,
+      "color": "#C1F12E"
+    },
+    "Python": {
+      "bytes": 723,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T05:04:12.911Z"
+}

@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cosmos-web-interface",
+  "full_name": "itaditya/cosmos-web-interface",
+  "owner": "itaditya",
+  "private": false,
+  "html_url": "https://github.com/itaditya/cosmos-web-interface",
+  "description": "[Show :heart: love by :star2:] Your personal library of every algorithm and data structure code that you will ever encounter now on the web",
+  "fork": false,
+  "url": "https://api.github.com/repos/itaditya/cosmos-web-interface",
+  "languages_url": "https://api.github.com/repos/itaditya/cosmos-web-interface/languages",
+  "created_at": "2017-10-11T17:37:48Z",
+  "updated_at": "2018-01-17T20:32:31Z",
+  "pushed_at": "2017-10-11T17:38:15Z",
+  "homepage": "https://cosmos-web.surge.sh",
+  "size": 46,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "itaditya": 2
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 5334,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 3019,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 181,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/itaditya/cosmos-web-interface/pulls{/number}",
+  "pulls_authors": []
+}

@@ -1,0 +1,179 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Algorithm-Implementations",
+  "full_name": "jcla1/Algorithm-Implementations",
+  "owner": "jcla1",
+  "private": false,
+  "html_url": "https://github.com/jcla1/Algorithm-Implementations",
+  "description": "Share, discuss and improve algorithm implementations!",
+  "fork": true,
+  "url": "https://api.github.com/repos/jcla1/Algorithm-Implementations",
+  "languages_url": "https://api.github.com/repos/jcla1/Algorithm-Implementations/languages",
+  "pulls_url": "https://api.github.com/repos/jcla1/Algorithm-Implementations/pulls{/number}",
+  "created_at": "2013-12-25T10:30:39Z",
+  "updated_at": "2015-04-05T17:54:13Z",
+  "pushed_at": "2014-06-28T16:38:07Z",
+  "homepage": null,
+  "size": 3087,
+  "stargazers_count": 2,
+  "language": "Lua",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "corpix": 1,
+    "James-ZHANG": 1,
+    "liambinnsconroy": 1,
+    "bitdeli-chef": 1,
+    "mariolamacchia": 1,
+    "skuschel": 1,
+    "adityasainidaiict": 1,
+    "caseykulm": 1,
+    "derek": 1,
+    "jhurliman": 1,
+    "yblondeau": 1,
+    "grasGendarme": 1,
+    "ncraun": 1,
+    "mholt": 1,
+    "aesptux": 2,
+    "Arpan-Patel": 2,
+    "3Hren": 2,
+    "shivam5992": 2,
+    "ducthanhtran": 2,
+    "sebasguts": 3,
+    "n1ghtmare": 3,
+    "harshasrisri": 3,
+    "seamusabshere": 3,
+    "jakobhans": 3,
+    "pravsingh": 3,
+    "lericson": 3,
+    "swapkh91": 4,
+    "abhin4v": 4,
+    "jay754": 5,
+    "AlexMathew": 5,
+    "CodyMcWilliams": 5,
+    "majjoha": 5,
+    "dagumak": 5,
+    "sjs7007": 5,
+    "paveldedik": 6,
+    "tdoly": 6,
+    "upasana-me": 7,
+    "jonathanlebron": 7,
+    "intoxicated": 7,
+    "wasi0013": 12,
+    "rrivera1849": 14,
+    "dalleng": 17,
+    "patrickyevsukov": 22,
+    "internetsadboy": 25,
+    "mitogh": 46,
+    "jcla1": 220,
+    "Yonaba": 230
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Lua": {
+      "bytes": 353286,
+      "color": "#000080"
+    },
+    "Java": {
+      "bytes": 65186,
+      "color": "#b07219"
+    },
+    "Python": {
+      "bytes": 48193,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 34478,
+      "color": "#555555"
+    },
+    "JavaScript": {
+      "bytes": 33040,
+      "color": "#f1e05a"
+    },
+    "C++": {
+      "bytes": 29762,
+      "color": "#f34b7d"
+    },
+    "Go": {
+      "bytes": 24904,
+      "color": "#375eab"
+    },
+    "Ruby": {
+      "bytes": 23905,
+      "color": "#701516"
+    },
+    "PHP": {
+      "bytes": 20064,
+      "color": "#4F5D95"
+    },
+    "Scala": {
+      "bytes": 18152,
+      "color": "#c22d40"
+    },
+    "Objective-C": {
+      "bytes": 14848,
+      "color": "#438eff"
+    },
+    "Haskell": {
+      "bytes": 10678,
+      "color": "#5e5086"
+    },
+    "Perl": {
+      "bytes": 7045,
+      "color": "#0298c3"
+    },
+    "Scheme": {
+      "bytes": 5460,
+      "color": "#1e4aec"
+    },
+    "Prolog": {
+      "bytes": 3797,
+      "color": "#74283c"
+    },
+    "C#": {
+      "bytes": 3383,
+      "color": "#178600"
+    },
+    "GAP": {
+      "bytes": 2844,
+      "color": "#ccc"
+    },
+    "Erlang": {
+      "bytes": 2347,
+      "color": "#B83998"
+    },
+    "Awk": {
+      "bytes": 2113,
+      "color": "#ccc"
+    },
+    "D": {
+      "bytes": 1686,
+      "color": "#ba595e"
+    },
+    "M": {
+      "bytes": 1676,
+      "color": "#ccc"
+    },
+    "Assembly": {
+      "bytes": 1336,
+      "color": "#6E4C13"
+    },
+    "Matlab": {
+      "bytes": 260,
+      "color": "#e16737"
+    },
+    "Shell": {
+      "bytes": 46,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:10.614Z"
+}

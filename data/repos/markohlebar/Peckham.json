@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Peckham",
+  "full_name": "markohlebar/Peckham",
+  "owner": "markohlebar",
+  "private": false,
+  "html_url": "https://github.com/markohlebar/Peckham",
+  "description": "Add #import-s from anywhere in the code. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/markohlebar/Peckham",
+  "languages_url": "https://api.github.com/repos/markohlebar/Peckham/languages",
+  "pulls_url": "https://api.github.com/repos/markohlebar/Peckham/pulls{/number}",
+  "created_at": "2014-06-22T10:11:57Z",
+  "updated_at": "2018-09-09T08:55:24Z",
+  "pushed_at": "2016-10-05T16:10:40Z",
+  "homepage": "",
+  "size": 3160,
+  "stargazers_count": 725,
+  "language": "Objective-C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ReadmeCritic": 1,
+    "dsmatter": 1,
+    "cojoj": 1,
+    "bumaociyuan": 2,
+    "Igotit": 3,
+    "cotsog": 5,
+    "allewun": 8,
+    "markohlebar": 68,
+    "ClementPadovani": 111
+  },
+  "pulls_authors": [
+    "mrhyh",
+    "ClementPadovani",
+    "markohlebar",
+    "ReadmeCritic",
+    "bumaociyuan",
+    "allewun",
+    "dsmatter",
+    "cojoj",
+    "Igotit"
+  ],
+  "languages": {
+    "Objective-C": {
+      "bytes": 231021,
+      "color": "#438eff"
+    },
+    "Ruby": {
+      "bytes": 183,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T17:08:31.461Z"
+}

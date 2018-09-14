@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ChartKit-Swift",
+  "full_name": "imjog/ChartKit-Swift",
+  "owner": "imjog",
+  "private": false,
+  "html_url": "https://github.com/imjog/ChartKit-Swift",
+  "description": "Beautiful Chart library for iOS written in Swift 4.2. Bar Chart, Clock Chart and Contribution Graph. Supports Storyboard.",
+  "fork": false,
+  "url": "https://api.github.com/repos/imjog/ChartKit-Swift",
+  "languages_url": "https://api.github.com/repos/imjog/ChartKit-Swift/languages",
+  "pulls_url": "https://api.github.com/repos/imjog/ChartKit-Swift/pulls{/number}",
+  "created_at": "2018-07-27T05:46:48Z",
+  "updated_at": "2018-07-29T12:51:14Z",
+  "pushed_at": "2018-07-28T21:36:15Z",
+  "homepage": "",
+  "size": 1408,
+  "stargazers_count": 4,
+  "language": "Objective-C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "imjog": 19
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Objective-C": {
+      "bytes": 26653,
+      "color": "#438eff"
+    },
+    "Swift": {
+      "bytes": 8989,
+      "color": "#ffac45"
+    }
+  },
+  "fetched_at": "2018-09-03T18:26:32.658Z"
+}

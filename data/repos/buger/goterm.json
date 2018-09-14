@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "goterm",
+  "full_name": "buger/goterm",
+  "owner": "buger",
+  "private": false,
+  "html_url": "https://github.com/buger/goterm",
+  "description": "Advanced terminal output in Go",
+  "fork": false,
+  "url": "https://api.github.com/repos/buger/goterm",
+  "languages_url": "https://api.github.com/repos/buger/goterm/languages",
+  "pulls_url": "https://api.github.com/repos/buger/goterm/pulls{/number}",
+  "created_at": "2013-07-05T07:56:19Z",
+  "updated_at": "2018-09-08T21:26:28Z",
+  "pushed_at": "2018-04-23T15:09:01Z",
+  "homepage": null,
+  "size": 27,
+  "stargazers_count": 433,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "tfogo": 1,
+    "Ackar": 1,
+    "Anthrazz": 1,
+    "ziyasal": 1,
+    "tsia": 1,
+    "14rcole": 1,
+    "dimapaloskin": 1,
+    "philips": 1,
+    "MerlinDMC": 1,
+    "radbrawler": 2,
+    "Nerdmaster": 4,
+    "buger": 16
+  },
+  "pulls_authors": [
+    "tfogo",
+    "Ackar",
+    "Anthrazz",
+    "ziyasal",
+    "buger",
+    "radbrawler",
+    "tsia",
+    "14rcole",
+    "dimapaloskin",
+    "Code-Hex",
+    "philips",
+    "Nerdmaster",
+    "MerlinDMC",
+    "lonelycode"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 17522,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:05.147Z"
+}

@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cosmet-gtv-html",
+  "full_name": "sjg/cosmet-gtv-html",
+  "owner": "sjg",
+  "private": false,
+  "html_url": "https://github.com/sjg/cosmet-gtv-html",
+  "description": "HTML Pages for the GoogleTV version of Cosmet",
+  "fork": false,
+  "url": "https://api.github.com/repos/sjg/cosmet-gtv-html",
+  "languages_url": "https://api.github.com/repos/sjg/cosmet-gtv-html/languages",
+  "pulls_url": "https://api.github.com/repos/sjg/cosmet-gtv-html/pulls{/number}",
+  "created_at": "2012-07-07T14:37:37Z",
+  "updated_at": "2014-04-07T18:05:30Z",
+  "pushed_at": "2012-07-10T14:07:29Z",
+  "homepage": null,
+  "size": 155,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sjg": 1,
+    "morimekta": 11
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 4080,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:40.629Z"
+}

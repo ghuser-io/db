@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bolinhawars",
+  "full_name": "alexmoreno/bolinhawars",
+  "owner": "alexmoreno",
+  "private": false,
+  "html_url": "https://github.com/alexmoreno/bolinhawars",
+  "description": "Jogo da bolinha!",
+  "fork": false,
+  "url": "https://api.github.com/repos/alexmoreno/bolinhawars",
+  "languages_url": "https://api.github.com/repos/alexmoreno/bolinhawars/languages",
+  "pulls_url": "https://api.github.com/repos/alexmoreno/bolinhawars/pulls{/number}",
+  "created_at": "2015-12-03T00:07:50Z",
+  "updated_at": "2016-10-27T17:50:47Z",
+  "pushed_at": "2016-10-27T18:13:36Z",
+  "homepage": null,
+  "size": 94,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "alexmoreno": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 14347,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 4578,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 3880,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T04:55:57.699Z"
+}

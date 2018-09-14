@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rend",
+  "full_name": "Netflix/rend",
+  "owner": "Netflix",
+  "private": false,
+  "html_url": "https://github.com/Netflix/rend",
+  "description": "A memcached proxy that manages data chunking and L1 / L2 caches",
+  "fork": false,
+  "url": "https://api.github.com/repos/Netflix/rend",
+  "languages_url": "https://api.github.com/repos/Netflix/rend/languages",
+  "created_at": "2015-07-29T03:40:17Z",
+  "updated_at": "2018-09-10T15:02:37Z",
+  "pushed_at": "2018-06-25T13:53:54Z",
+  "homepage": "",
+  "size": 13268,
+  "stargazers_count": 886,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "Netflix",
+    "id": 913567,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjkxMzU2Nw==",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/913567?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Netflix",
+    "html_url": "https://github.com/Netflix",
+    "followers_url": "https://api.github.com/users/Netflix/followers",
+    "following_url": "https://api.github.com/users/Netflix/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Netflix/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Netflix/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Netflix/subscriptions",
+    "organizations_url": "https://api.github.com/users/Netflix/orgs",
+    "repos_url": "https://api.github.com/users/Netflix/repos",
+    "events_url": "https://api.github.com/users/Netflix/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Netflix/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "brendankirby": 1,
+    "karnauskas": 1,
+    "aspyker": 1,
+    "DiSiqueira": 2,
+    "mbrukman": 3,
+    "vuzilla": 6,
+    "ScottMansfield": 468
+  },
+  "languages": {
+    "Go": {
+      "bytes": 410564,
+      "color": "#375eab"
+    },
+    "Assembly": {
+      "bytes": 2154,
+      "color": "#6E4C13"
+    }
+  },
+  "fetched_at": "2018-09-10T15:05:58.977Z",
+  "pulls_url": "https://api.github.com/repos/Netflix/rend/pulls{/number}",
+  "pulls_authors": [
+    "B3rs",
+    "ScottMansfield",
+    "DiSiqueira",
+    "BarthV",
+    "mbrukman",
+    "vuzilla",
+    "brendankirby",
+    "karnauskas"
+  ]
+}

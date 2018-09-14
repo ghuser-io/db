@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SkyPig",
+  "full_name": "ahmetabdi/SkyPig",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/SkyPig",
+  "description": "Wiki on Rails",
+  "fork": false,
+  "url": "https://api.github.com/repos/ahmetabdi/SkyPig",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/SkyPig/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/SkyPig/pulls{/number}",
+  "created_at": "2012-10-23T17:44:30Z",
+  "updated_at": "2015-11-03T15:21:42Z",
+  "pushed_at": "2014-03-29T09:04:31Z",
+  "homepage": "",
+  "size": 3224,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 30
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 560813,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 91295,
+      "color": "#563d7c"
+    },
+    "Ruby": {
+      "bytes": 86174,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:05.576Z"
+}

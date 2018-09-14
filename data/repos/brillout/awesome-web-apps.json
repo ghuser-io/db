@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "awesome-web-apps",
+  "full_name": "brillout/awesome-web-apps",
+  "owner": "brillout",
+  "private": false,
+  "html_url": "https://github.com/brillout/awesome-web-apps",
+  "description": "Curated List of Web Apps",
+  "fork": false,
+  "url": "https://api.github.com/repos/brillout/awesome-web-apps",
+  "languages_url": "https://api.github.com/repos/brillout/awesome-web-apps/languages",
+  "created_at": "2016-07-09T16:15:43Z",
+  "updated_at": "2018-09-10T19:43:17Z",
+  "pushed_at": "2017-03-03T20:08:13Z",
+  "homepage": null,
+  "size": 21,
+  "stargazers_count": 38,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "cc0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "spdx_id": "CC0-1.0",
+    "url": "https://api.github.com/licenses/cc0-1.0",
+    "node_id": "MDc6TGljZW5zZTY="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "robbie-cao": 2,
+    "brillout": 13
+  },
+  "languages": {},
+  "fetched_at": "2018-09-10T21:32:16.154Z",
+  "pulls_url": "https://api.github.com/repos/brillout/awesome-web-apps/pulls{/number}",
+  "pulls_authors": [
+    "johnxie",
+    "KindlyFire",
+    "robbie-cao"
+  ]
+}

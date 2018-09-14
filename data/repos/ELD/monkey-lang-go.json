@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "monkey-lang-go",
+  "full_name": "ELD/monkey-lang-go",
+  "owner": "ELD",
+  "private": false,
+  "html_url": "https://github.com/ELD/monkey-lang-go",
+  "description": "Basic Go implementation of Thorsten Ball's \"Writing an Interpreter in Go\" book",
+  "fork": false,
+  "url": "https://api.github.com/repos/ELD/monkey-lang-go",
+  "languages_url": "https://api.github.com/repos/ELD/monkey-lang-go/languages",
+  "pulls_url": "https://api.github.com/repos/ELD/monkey-lang-go/pulls{/number}",
+  "created_at": "2017-06-07T13:27:09Z",
+  "updated_at": "2018-08-22T05:00:48Z",
+  "pushed_at": "2018-08-20T18:33:10Z",
+  "homepage": "",
+  "size": 91,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ELD": 27
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 168720,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T10:35:54.270Z"
+}

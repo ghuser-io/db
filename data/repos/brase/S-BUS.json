@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "S-BUS",
+  "full_name": "brase/S-BUS",
+  "owner": "brase",
+  "private": false,
+  "html_url": "https://github.com/brase/S-BUS",
+  "description": "futaba s-bus arduino",
+  "fork": false,
+  "url": "https://api.github.com/repos/brase/S-BUS",
+  "languages_url": "https://api.github.com/repos/brase/S-BUS/languages",
+  "pulls_url": "https://api.github.com/repos/brase/S-BUS/pulls{/number}",
+  "created_at": "2015-01-29T21:02:03Z",
+  "updated_at": "2017-07-27T04:06:29Z",
+  "pushed_at": "2015-01-31T16:45:16Z",
+  "homepage": "",
+  "size": 128,
+  "stargazers_count": 2,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "brase": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 5063,
+      "color": "#f34b7d"
+    },
+    "Arduino": {
+      "bytes": 1005,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:35:40.983Z"
+}

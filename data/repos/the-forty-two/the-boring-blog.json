@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "the-boring-blog",
+  "full_name": "the-forty-two/the-boring-blog",
+  "owner": "the-forty-two",
+  "private": false,
+  "html_url": "https://github.com/the-forty-two/the-boring-blog",
+  "description": "The boring blog with a tinge of music.",
+  "fork": false,
+  "url": "https://api.github.com/repos/the-forty-two/the-boring-blog",
+  "languages_url": "https://api.github.com/repos/the-forty-two/the-boring-blog/languages",
+  "pulls_url": "https://api.github.com/repos/the-forty-two/the-boring-blog/pulls{/number}",
+  "created_at": "2018-01-18T05:30:12Z",
+  "updated_at": "2018-05-14T10:04:31Z",
+  "pushed_at": "2018-02-04T15:55:40Z",
+  "homepage": null,
+  "size": 73,
+  "stargazers_count": 5,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "the-forty-two",
+    "id": 35554334,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM1NTU0MzM0",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/35554334?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/the-forty-two",
+    "html_url": "https://github.com/the-forty-two",
+    "followers_url": "https://api.github.com/users/the-forty-two/followers",
+    "following_url": "https://api.github.com/users/the-forty-two/following{/other_user}",
+    "gists_url": "https://api.github.com/users/the-forty-two/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/the-forty-two/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/the-forty-two/subscriptions",
+    "organizations_url": "https://api.github.com/users/the-forty-two/orgs",
+    "repos_url": "https://api.github.com/users/the-forty-two/repos",
+    "events_url": "https://api.github.com/users/the-forty-two/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/the-forty-two/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "anshumanv": 1,
+    "RajuKoushik": 2,
+    "mohitkyadav": 2,
+    "aashutoshrathi": 3,
+    "Monal5031": 4
+  },
+  "pulls_authors": [
+    "Monal5031",
+    "aashutoshrathi",
+    "anshumanv"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 12858,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 11991,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 358,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 211,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-04T12:17:56.016Z"
+}

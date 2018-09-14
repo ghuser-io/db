@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Interstellar",
+  "full_name": "madhavajay/Interstellar",
+  "owner": "madhavajay",
+  "private": false,
+  "html_url": "https://github.com/madhavajay/Interstellar",
+  "description": "Simple and lightweight Functional Reactive Coding in Swift for the rest of us",
+  "fork": true,
+  "url": "https://api.github.com/repos/madhavajay/Interstellar",
+  "languages_url": "https://api.github.com/repos/madhavajay/Interstellar/languages",
+  "pulls_url": "https://api.github.com/repos/madhavajay/Interstellar/pulls{/number}",
+  "created_at": "2016-06-14T08:25:06Z",
+  "updated_at": "2016-09-11T15:08:46Z",
+  "pushed_at": "2016-11-21T13:30:34Z",
+  "homepage": null,
+  "size": 267,
+  "stargazers_count": 1,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "iotize": 1,
+    "duemunk": 1,
+    "ReadmeCritic": 1,
+    "rcarlsen": 1,
+    "icanzilb": 1,
+    "neonichu": 1,
+    "filwag": 1,
+    "tonyarnold": 1,
+    "scelis": 2,
+    "schwa": 2,
+    "pyanfield": 2,
+    "js": 3,
+    "nixterrimus": 4,
+    "JensRavens": 46
+  },
+  "pulls_authors": [
+    "AmitaiB",
+    "elm4ward",
+    "cotsog"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 40903,
+      "color": "#ffac45"
+    },
+    "Ruby": {
+      "bytes": 937,
+      "color": "#701516"
+    },
+    "Objective-C": {
+      "bytes": 535,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-11T17:08:29.240Z"
+}

@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "coinoffers",
+  "full_name": "akaihola/coinoffers",
+  "owner": "akaihola",
+  "private": false,
+  "html_url": "https://github.com/akaihola/coinoffers",
+  "description": "Web app for a combined order book from multiple European person-to-person bitcoin exchanges",
+  "fork": false,
+  "url": "https://api.github.com/repos/akaihola/coinoffers",
+  "languages_url": "https://api.github.com/repos/akaihola/coinoffers/languages",
+  "pulls_url": "https://api.github.com/repos/akaihola/coinoffers/pulls{/number}",
+  "created_at": "2014-08-26T20:01:53Z",
+  "updated_at": "2018-06-09T20:12:56Z",
+  "pushed_at": "2018-06-11T15:31:01Z",
+  "homepage": "",
+  "size": 41,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "akaihola": 3
+  },
+  "pulls_authors": [
+    "mzfr",
+    "akaihola",
+    "jorgeavaldez"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 5008,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 1084,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1063,
+      "color": "#e34c26"
+    },
+    "CoffeeScript": {
+      "bytes": 713,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-02T14:34:53.033Z"
+}

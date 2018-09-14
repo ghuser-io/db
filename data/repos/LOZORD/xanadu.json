@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "xanadu",
+  "full_name": "LOZORD/xanadu",
+  "owner": "LOZORD",
+  "private": false,
+  "html_url": "https://github.com/LOZORD/xanadu",
+  "description": "A game of precarious alliances and breaking fast on honeydew.",
+  "fork": false,
+  "url": "https://api.github.com/repos/LOZORD/xanadu",
+  "languages_url": "https://api.github.com/repos/LOZORD/xanadu/languages",
+  "created_at": "2015-10-03T03:40:48Z",
+  "updated_at": "2018-08-29T20:43:48Z",
+  "pushed_at": "2018-03-10T21:09:26Z",
+  "homepage": "",
+  "size": 656,
+  "stargazers_count": 18,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Oishikatta": 1,
+    "JimmyBoh": 1,
+    "ankitjain28may": 1,
+    "cmelone": 1,
+    "abdulajet": 1,
+    "zenbhang": 1,
+    "rkakkar7": 2,
+    "lwdinh": 2,
+    "zthomae": 42,
+    "LOZORD": 351
+  },
+  "languages": {
+    "TypeScript": {
+      "bytes": 318551,
+      "color": "#2b7489"
+    },
+    "HTML": {
+      "bytes": 8109,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 6106,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-29T23:05:00.843Z",
+  "pulls_url": "https://api.github.com/repos/LOZORD/xanadu/pulls{/number}",
+  "pulls_authors": [
+    "zthomae",
+    "LOZORD",
+    "katamaritaco",
+    "ankitjain28may",
+    "Oishikatta",
+    "op01",
+    "cmelone",
+    "JimmyBoh",
+    "zenbhang",
+    "abdulajet",
+    "rkakkar7"
+  ]
+}

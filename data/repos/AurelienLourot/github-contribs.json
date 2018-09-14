@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "github-contribs",
+  "full_name": "ghuser-io/github-contribs",
+  "owner": "ghuser-io",
+  "private": false,
+  "html_url": "https://github.com/ghuser-io/github-contribs",
+  "description": ":octocat: List all GitHub repos a user has contributed to since the beginning of time.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ghuser-io/github-contribs",
+  "languages_url": "https://api.github.com/repos/ghuser-io/github-contribs/languages",
+  "created_at": "2018-05-16T23:18:05Z",
+  "updated_at": "2018-09-13T14:44:56Z",
+  "pushed_at": "2018-09-13T14:44:55Z",
+  "homepage": "",
+  "size": 120,
+  "stargazers_count": 39,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "AurelienLourot": 65
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 12524,
+      "color": "#f1e05a"
+    }
+  },
+  "settings": {
+    "_comment": "Repo metadata for ghuser.io. See https://github.com/ghuser-io/ghuser.io/blob/master/docs/repo-settings.md",
+    "avatar_url": "https://rawgit.com/ghuser-io/ghuser.io/master/docs/logo_square.png",
+    "techs": [
+      "Node.js",
+      "GitHub API",
+      "Travis CI"
+    ]
+  },
+  "fetched_at": "2018-09-13T16:24:13.437Z",
+  "pulls_url": "https://api.github.com/repos/ghuser-io/github-contribs/pulls{/number}",
+  "pulls_authors": [],
+  "organization": {
+    "login": "ghuser-io",
+    "id": 43240085,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQzMjQwMDg1",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/43240085?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ghuser-io",
+    "html_url": "https://github.com/ghuser-io",
+    "followers_url": "https://api.github.com/users/ghuser-io/followers",
+    "following_url": "https://api.github.com/users/ghuser-io/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ghuser-io/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ghuser-io/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ghuser-io/subscriptions",
+    "organizations_url": "https://api.github.com/users/ghuser-io/orgs",
+    "repos_url": "https://api.github.com/users/ghuser-io/repos",
+    "events_url": "https://api.github.com/users/ghuser-io/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ghuser-io/received_events",
+    "type": "Organization",
+    "site_admin": false
+  }
+}

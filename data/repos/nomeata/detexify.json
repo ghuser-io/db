@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "detexify",
+  "full_name": "nomeata/detexify",
+  "owner": "nomeata",
+  "private": false,
+  "html_url": "https://github.com/nomeata/detexify",
+  "description": "Proof of concept latex symbol classifier",
+  "fork": true,
+  "url": "https://api.github.com/repos/nomeata/detexify",
+  "languages_url": "https://api.github.com/repos/nomeata/detexify/languages",
+  "pulls_url": "https://api.github.com/repos/nomeata/detexify/pulls{/number}",
+  "created_at": "2009-11-02T23:35:46Z",
+  "updated_at": "2012-12-13T02:44:46Z",
+  "pushed_at": "2009-11-10T19:20:13Z",
+  "homepage": "detexify.kirelabs.org",
+  "size": 1327,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "nomeata": 24,
+    "kirel": 227
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 140192,
+      "color": "#f1e05a"
+    },
+    "Ruby": {
+      "bytes": 18097,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:22.049Z"
+}

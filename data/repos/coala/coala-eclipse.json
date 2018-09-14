@@ -1,0 +1,76 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "coala-eclipse",
+  "full_name": "coala/coala-eclipse",
+  "owner": "coala",
+  "private": false,
+  "html_url": "https://github.com/coala/coala-eclipse",
+  "description": "Holds a prototype for a coala plugin for eclipse",
+  "fork": false,
+  "url": "https://api.github.com/repos/coala/coala-eclipse",
+  "languages_url": "https://api.github.com/repos/coala/coala-eclipse/languages",
+  "pulls_url": "https://api.github.com/repos/coala/coala-eclipse/pulls{/number}",
+  "created_at": "2016-03-14T12:32:48Z",
+  "updated_at": "2018-07-21T07:27:54Z",
+  "pushed_at": "2018-06-22T06:26:09Z",
+  "homepage": "",
+  "size": 1084,
+  "stargazers_count": 7,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "coala",
+    "id": 10620750,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNjIwNzUw",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/10620750?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/coala",
+    "html_url": "https://github.com/coala",
+    "followers_url": "https://api.github.com/users/coala/followers",
+    "following_url": "https://api.github.com/users/coala/following{/other_user}",
+    "gists_url": "https://api.github.com/users/coala/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/coala/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/coala/subscriptions",
+    "organizations_url": "https://api.github.com/users/coala/orgs",
+    "repos_url": "https://api.github.com/users/coala/repos",
+    "events_url": "https://api.github.com/users/coala/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/coala/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jayvdb": 1,
+    "vedantrathore": 1,
+    "nishant-mor": 5,
+    "arafsheikh": 55
+  },
+  "pulls_authors": [
+    "jayvdb",
+    "Mohit17067",
+    "manankalra",
+    "xyzyg",
+    "kiryteo",
+    "DivyeshPuri",
+    "aashutoshrathi",
+    "vedantrathore",
+    "CristianPopa96",
+    "thotayashwanth123",
+    "arafsheikh"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 124399,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

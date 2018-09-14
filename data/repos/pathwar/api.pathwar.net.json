@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "api.pathwar.net",
+  "full_name": "pathwar/api.pathwar.net",
+  "owner": "pathwar",
+  "private": false,
+  "html_url": "https://github.com/pathwar/api.pathwar.net",
+  "description": ":cloud: Pathwar official API",
+  "fork": false,
+  "url": "https://api.github.com/repos/pathwar/api.pathwar.net",
+  "languages_url": "https://api.github.com/repos/pathwar/api.pathwar.net/languages",
+  "pulls_url": "https://api.github.com/repos/pathwar/api.pathwar.net/pulls{/number}",
+  "created_at": "2014-12-30T19:51:19Z",
+  "updated_at": "2016-09-01T22:39:47Z",
+  "pushed_at": "2018-03-02T17:43:44Z",
+  "homepage": "api.pathwar.net",
+  "size": 545,
+  "stargazers_count": 7,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pathwar",
+    "id": 2904560,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI5MDQ1NjA=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/2904560?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pathwar",
+    "html_url": "https://github.com/pathwar",
+    "followers_url": "https://api.github.com/users/pathwar/followers",
+    "following_url": "https://api.github.com/users/pathwar/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pathwar/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pathwar/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pathwar/subscriptions",
+    "organizations_url": "https://api.github.com/users/pathwar/orgs",
+    "repos_url": "https://api.github.com/users/pathwar/repos",
+    "events_url": "https://api.github.com/users/pathwar/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pathwar/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "aimxhaisse": 3,
+    "cerisier": 5,
+    "moul": 452
+  },
+  "pulls_authors": [
+    "moul"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 163368,
+      "color": "#3572A5"
+    },
+    "API Blueprint": {
+      "bytes": 33522,
+      "color": "#2ACCA8"
+    },
+    "Makefile": {
+      "bytes": 3643,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:51.817Z"
+}

@@ -1,0 +1,112 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "mhrabiee": 1,
+    "nusov": 1,
+    "Calinou": 1,
+    "FireSt-dead": 1,
+    "nikolay-diyanov": 1,
+    "tbozhikov": 2,
+    "VladimirAmiorkov": 2,
+    "tgpetrov": 2,
+    "ErjanGavalji": 2,
+    "nsndeck": 3,
+    "karaahmed": 6,
+    "sis0k0": 7,
+    "dtopuzov": 11,
+    "hdeshev": 13,
+    "NickIliev": 20,
+    "vchimev": 22,
+    "hamorphis": 23,
+    "vakrilov": 96,
+    "PanayotCankov": 189
+  },
+  "name": "nativescript-marketplace-demo",
+  "full_name": "NativeScript/nativescript-marketplace-demo",
+  "owner": "NativeScript",
+  "private": false,
+  "html_url": "https://github.com/NativeScript/nativescript-marketplace-demo",
+  "description": "NativeScript kitchen sink demo. All of NativeScript’s functionality in one app.",
+  "fork": false,
+  "url": "https://api.github.com/repos/NativeScript/nativescript-marketplace-demo",
+  "languages_url": "https://api.github.com/repos/NativeScript/nativescript-marketplace-demo/languages",
+  "created_at": "2015-07-31T08:54:45Z",
+  "updated_at": "2018-08-22T10:30:46Z",
+  "pushed_at": "2018-08-07T09:51:48Z",
+  "homepage": "http://www.nativescript.org",
+  "size": 83758,
+  "stargazers_count": 266,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "NativeScript",
+    "id": 7392261,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjczOTIyNjE=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/7392261?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/NativeScript",
+    "html_url": "https://github.com/NativeScript",
+    "followers_url": "https://api.github.com/users/NativeScript/followers",
+    "following_url": "https://api.github.com/users/NativeScript/following{/other_user}",
+    "gists_url": "https://api.github.com/users/NativeScript/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/NativeScript/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/NativeScript/subscriptions",
+    "organizations_url": "https://api.github.com/users/NativeScript/orgs",
+    "repos_url": "https://api.github.com/users/NativeScript/repos",
+    "events_url": "https://api.github.com/users/NativeScript/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/NativeScript/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "TypeScript": {
+      "bytes": 148982,
+      "color": "#2b7489"
+    },
+    "CSS": {
+      "bytes": 38672,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 8949,
+      "color": "#f1e05a"
+    },
+    "MAXScript": {
+      "bytes": 581,
+      "color": "#00a6a6"
+    }
+  },
+  "fetched_at": "2018-08-22T17:10:21.675Z",
+  "pulls_url": "https://api.github.com/repos/NativeScript/nativescript-marketplace-demo/pulls{/number}",
+  "pulls_authors": [
+    "NickIliev",
+    "tbozhikov",
+    "vchimev",
+    "mbektchiev",
+    "PanayotCankov",
+    "mhrabiee",
+    "VladimirAmiorkov",
+    "ginev",
+    "sis0k0",
+    "EmilStoychev",
+    "tgpetrov",
+    "zh-m",
+    "hdeshev",
+    "nusov",
+    "Calinou",
+    "tzraikov",
+    "hamorphis",
+    "vdende",
+    "vakrilov",
+    "nsndeck"
+  ]
+}

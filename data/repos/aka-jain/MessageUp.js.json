@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "MessageUp.js",
+  "full_name": "aka-jain/MessageUp.js",
+  "owner": "aka-jain",
+  "private": false,
+  "html_url": "https://github.com/aka-jain/MessageUp.js",
+  "description": "Show your messages in the awesome way :)",
+  "fork": false,
+  "url": "https://api.github.com/repos/aka-jain/MessageUp.js",
+  "languages_url": "https://api.github.com/repos/aka-jain/MessageUp.js/languages",
+  "created_at": "2016-02-20T13:37:16Z",
+  "updated_at": "2017-10-25T20:20:20Z",
+  "pushed_at": "2016-09-26T13:09:40Z",
+  "homepage": "http://aka-jain.github.io/MessageUp.js/",
+  "size": 857,
+  "stargazers_count": 5,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "spyshiv": 7,
+    "aka-jain": 20
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 2744,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 1703,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 438,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/aka-jain/MessageUp.js/pulls{/number}",
+  "pulls_authors": [
+    "ankitjain28may",
+    "spyshiv",
+    "aka-jain"
+  ]
+}

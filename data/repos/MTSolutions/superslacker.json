@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "superslacker",
+  "full_name": "MTSolutions/superslacker",
+  "owner": "MTSolutions",
+  "private": false,
+  "html_url": "https://github.com/MTSolutions/superslacker",
+  "description": "Supervisord event listener that will send alerts to Slack heavily based on superlance",
+  "fork": false,
+  "url": "https://api.github.com/repos/MTSolutions/superslacker",
+  "languages_url": "https://api.github.com/repos/MTSolutions/superslacker/languages",
+  "pulls_url": "https://api.github.com/repos/MTSolutions/superslacker/pulls{/number}",
+  "created_at": "2015-10-30T15:40:28Z",
+  "updated_at": "2018-09-10T09:48:49Z",
+  "pushed_at": "2018-09-01T17:20:15Z",
+  "homepage": null,
+  "size": 18,
+  "stargazers_count": 33,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "MTSolutions",
+    "id": 10349256,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwMzQ5MjU2",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/10349256?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/MTSolutions",
+    "html_url": "https://github.com/MTSolutions",
+    "followers_url": "https://api.github.com/users/MTSolutions/followers",
+    "following_url": "https://api.github.com/users/MTSolutions/following{/other_user}",
+    "gists_url": "https://api.github.com/users/MTSolutions/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/MTSolutions/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/MTSolutions/subscriptions",
+    "organizations_url": "https://api.github.com/users/MTSolutions/orgs",
+    "repos_url": "https://api.github.com/users/MTSolutions/repos",
+    "events_url": "https://api.github.com/users/MTSolutions/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/MTSolutions/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "sanyer": 4,
+    "slara": 10
+  },
+  "pulls_authors": [
+    "ifiok",
+    "sanyer"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 11103,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T16:51:00.113Z"
+}

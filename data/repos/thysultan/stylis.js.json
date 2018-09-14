@@ -1,0 +1,87 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "stylis.js",
+  "full_name": "thysultan/stylis.js",
+  "owner": "thysultan",
+  "private": false,
+  "html_url": "https://github.com/thysultan/stylis.js",
+  "description": "light – weight css preprocessor",
+  "fork": false,
+  "url": "https://api.github.com/repos/thysultan/stylis.js",
+  "languages_url": "https://api.github.com/repos/thysultan/stylis.js/languages",
+  "pulls_url": "https://api.github.com/repos/thysultan/stylis.js/pulls{/number}",
+  "created_at": "2016-11-27T07:15:27Z",
+  "updated_at": "2018-09-11T15:35:47Z",
+  "pushed_at": "2018-08-28T13:15:10Z",
+  "homepage": "https://stylis.js.org",
+  "size": 845,
+  "stargazers_count": 489,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Ailrun": 1,
+    "maciej-ka": 1,
+    "Andarist": 1,
+    "gbhasha": 1,
+    "fatfisz": 1,
+    "dnakov": 1,
+    "jdreesen": 1,
+    "ArtskydJ": 1,
+    "simonkberg": 2,
+    "probablyup": 2,
+    "felixmosh": 2,
+    "evenchange4": 2,
+    "cheeaun": 2,
+    "mitchellhamilton": 3,
+    "oliverjam": 4,
+    "thysultan": 337
+  },
+  "pulls_authors": [
+    "abzainuddin",
+    "Darep",
+    "mitchellhamilton",
+    "Ailrun",
+    "simonkberg",
+    "giuseppeg",
+    "probablyup",
+    "maciej-ka",
+    "alena-ilina",
+    "Andarist",
+    "felixmosh",
+    "thysultan",
+    "oliverjam",
+    "benhjames",
+    "evenchange4",
+    "gbhasha",
+    "cheeaun",
+    "fatfisz",
+    "dnakov",
+    "jdreesen",
+    "ArtskydJ",
+    "rtsao"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 114404,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 14395,
+      "color": "#e34c26"
+    },
+    "TypeScript": {
+      "bytes": 254,
+      "color": "#2b7489"
+    }
+  },
+  "fetched_at": "2018-09-11T20:45:34.223Z"
+}

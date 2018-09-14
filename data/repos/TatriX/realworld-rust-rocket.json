@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "realworld-rust-rocket",
+  "full_name": "TatriX/realworld-rust-rocket",
+  "owner": "TatriX",
+  "private": false,
+  "html_url": "https://github.com/TatriX/realworld-rust-rocket",
+  "description": "Starter kit for new RealWorld framework implementations",
+  "fork": true,
+  "url": "https://api.github.com/repos/TatriX/realworld-rust-rocket",
+  "languages_url": "https://api.github.com/repos/TatriX/realworld-rust-rocket/languages",
+  "pulls_url": "https://api.github.com/repos/TatriX/realworld-rust-rocket/pulls{/number}",
+  "created_at": "2017-12-28T20:06:53Z",
+  "updated_at": "2018-09-02T20:51:16Z",
+  "pushed_at": "2018-04-09T17:37:51Z",
+  "homepage": "https://realworld.io",
+  "size": 205,
+  "stargazers_count": 22,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "SandeeshS": 1,
+    "optikfluffel": 1,
+    "esakkiraj": 1,
+    "anishkny": 3,
+    "Alonski": 4,
+    "EricSimons": 30,
+    "TatriX": 38
+  },
+  "pulls_authors": [
+    "anishkny"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 39521,
+      "color": "#dea584"
+    },
+    "PLpgSQL": {
+      "bytes": 1145,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 103,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-03T00:43:24.886Z"
+}

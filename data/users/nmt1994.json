@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "nmt1994",
+  "ghuser_created_at": "2018-09-11T20:01:57.586Z",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/6278989?v=4",
+  "html_url": "https://github.com/nmt1994",
+  "organizations_url": "https://api.github.com/users/nmt1994/orgs",
+  "repos_url": "https://api.github.com/users/nmt1994/repos",
+  "type": "User",
+  "name": "Tri Nguyen",
+  "company": "Papula-Nevinpat",
+  "blog": "https://nmt1994.github.io",
+  "location": "Espoo, Finland",
+  "email": null,
+  "bio": "Eat , Sleep , Code, Repeat ;)",
+  "public_gists": 0,
+  "created_at": "2013-12-29T02:46:43Z",
+  "updated_at": "2018-09-10T13:50:12Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:16:16.710Z",
+    "repos": [
+      "nmt1994/angular_form_examples",
+      "nmt1994/unknown",
+      "nmt1994/typescript-eip-demo",
+      "nmt1994/event_storage_prototype",
+      "nmt1994/nmt1994.github.io",
+      "nmt1994/SimpleEventStorage",
+      "nmt1994/Scala-Practica",
+      "peochot/Hackaman",
+      "peochot/Innovation",
+      "nmt1994/salesproject",
+      "oonasal/Eduma_App",
+      "nmt1994/ChattyAndroid",
+      "oonasal/SuperTeamChatApp",
+      "nmt1994/AspNetIdentityDemo",
+      "TerabyteX/WeedCSharpClient",
+      "thanhhung611/hackathon-2015v3",
+      "thienbao92/hackathon-2015",
+      "nmt1994/discourse"
+    ]
+  }
+}

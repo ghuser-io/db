@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani",
+  "full_name": "karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani",
+  "owner": "karlpatrickespiritu",
+  "private": false,
+  "html_url": "https://github.com/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani",
+  "description": "A TL;DR for the book \"Learning JavaScript Design Patterns\" by Addy Osmani",
+  "fork": false,
+  "url": "https://api.github.com/repos/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani",
+  "languages_url": "https://api.github.com/repos/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani/languages",
+  "pulls_url": "https://api.github.com/repos/karlpatrickespiritu/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani/pulls{/number}",
+  "created_at": "2015-11-10T02:08:30Z",
+  "updated_at": "2018-09-09T05:57:02Z",
+  "pushed_at": "2016-10-26T13:36:52Z",
+  "homepage": "http://karlpatrickespiritu.github.io/TLDR-Learning-JS-Design-Patterns-by-Addy-Osmani/",
+  "size": 53,
+  "stargazers_count": 257,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "scriptnull": 1,
+    "karlpatrickespiritu": 53
+  },
+  "pulls_authors": [
+    "srameshr",
+    "scriptnull",
+    "mdouglasbrett"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-12T07:42:03.674Z"
+}

@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "social_feed",
+  "full_name": "synth/social_feed",
+  "owner": "synth",
+  "private": false,
+  "html_url": "https://github.com/synth/social_feed",
+  "description": "a ruby on rails plugin to create and display a social feed",
+  "fork": true,
+  "url": "https://api.github.com/repos/synth/social_feed",
+  "languages_url": "https://api.github.com/repos/synth/social_feed/languages",
+  "pulls_url": "https://api.github.com/repos/synth/social_feed/pulls{/number}",
+  "created_at": "2009-03-03T22:15:45Z",
+  "updated_at": "2016-05-09T05:02:50Z",
+  "pushed_at": "2009-04-03T00:42:10Z",
+  "homepage": "http://upstream-berlin.com/blog/open-source/#social_feed",
+  "size": 111,
+  "stargazers_count": 3,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {},
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 35529,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T23:12:22.995Z"
+}

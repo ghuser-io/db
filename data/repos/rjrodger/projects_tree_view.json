@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "projects_tree_view",
+  "full_name": "rjrodger/projects_tree_view",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/projects_tree_view",
+  "description": "Proposed new home for the Redmine Projects Tree View plugin.",
+  "fork": true,
+  "url": "https://api.github.com/repos/rjrodger/projects_tree_view",
+  "languages_url": "https://api.github.com/repos/rjrodger/projects_tree_view/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/projects_tree_view/pulls{/number}",
+  "created_at": "2009-12-04T12:34:43Z",
+  "updated_at": "2017-06-29T22:21:55Z",
+  "pushed_at": "2009-12-04T13:34:37Z",
+  "homepage": "",
+  "size": 87,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rjrodger": 1,
+    "MischaTheEvil": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 1855,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:42.994Z"
+}

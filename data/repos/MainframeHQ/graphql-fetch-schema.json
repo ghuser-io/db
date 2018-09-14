@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "graphql-fetch-schema",
+  "full_name": "MainframeHQ/graphql-fetch-schema",
+  "owner": "MainframeHQ",
+  "private": false,
+  "html_url": "https://github.com/MainframeHQ/graphql-fetch-schema",
+  "description": "Fetch a GraphQL schema from a server and write it to file",
+  "fork": false,
+  "url": "https://api.github.com/repos/MainframeHQ/graphql-fetch-schema",
+  "languages_url": "https://api.github.com/repos/MainframeHQ/graphql-fetch-schema/languages",
+  "pulls_url": "https://api.github.com/repos/MainframeHQ/graphql-fetch-schema/pulls{/number}",
+  "created_at": "2016-11-03T10:45:56Z",
+  "updated_at": "2018-08-31T08:42:35Z",
+  "pushed_at": "2018-08-31T08:44:00Z",
+  "homepage": null,
+  "size": 67,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "MainframeHQ",
+    "id": 4616210,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ2MTYyMTA=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/4616210?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/MainframeHQ",
+    "html_url": "https://github.com/MainframeHQ",
+    "followers_url": "https://api.github.com/users/MainframeHQ/followers",
+    "following_url": "https://api.github.com/users/MainframeHQ/following{/other_user}",
+    "gists_url": "https://api.github.com/users/MainframeHQ/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/MainframeHQ/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/MainframeHQ/subscriptions",
+    "organizations_url": "https://api.github.com/users/MainframeHQ/orgs",
+    "repos_url": "https://api.github.com/users/MainframeHQ/repos",
+    "events_url": "https://api.github.com/users/MainframeHQ/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/MainframeHQ/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "securingsincity": 1,
+    "PaulLeCam": 17
+  },
+  "pulls_authors": [
+    "securingsincity",
+    "bismark"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2457,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T00:33:38.924Z"
+}

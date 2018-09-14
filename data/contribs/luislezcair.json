@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "luislezcair/gisia_srr": {
+      "full_name": "luislezcair/gisia_srr",
+      "name": "gisia_srr",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 89.23076923076923,
+      "maturity": 2.4014031362418624,
+      "total_commits_count": 65,
+      "activity": 1.6498150920914734,
+      "total_score": 6.452621364575198,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "luislezcair/Ringo": {
+      "full_name": "luislezcair/Ringo",
+      "name": "Ringo",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 57.69230769230769,
+      "maturity": 2.808591644762431,
+      "total_commits_count": 104,
+      "activity": 0.6150062154679174,
+      "total_score": 17.167185819643652,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "zaufi/kate-cpp-helper-plugin": {
+      "full_name": "zaufi/kate-cpp-helper-plugin",
+      "name": "kate-cpp-helper-plugin",
+      "stargazers_count": 19,
+      "popularity": 2.2577174475727126,
+      "percentage": 0.2976190476190476,
+      "maturity": 3.473174140773305,
+      "total_commits_count": 336,
+      "activity": 0.848344120481749,
+      "total_score": 14.65519690789663,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "luislezcair/VelozQVM": {
+      "full_name": "luislezcair/VelozQVM",
+      "name": "VelozQVM",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 2.3653407969119673,
+      "total_commits_count": 63,
+      "activity": 0.31019047879926465,
+      "total_score": 5.040872072623199,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Unvanquished/Unvanquished": {
+      "full_name": "Unvanquished/Unvanquished",
+      "name": "Unvanquished",
+      "stargazers_count": 394,
+      "popularity": 3.594542122530118,
+      "percentage": 0.0125203455615375,
+      "maturity": 4.901944974673332,
+      "total_commits_count": 7987,
+      "activity": 2.128022686636987,
+      "total_score": 22.721389641810248,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "Unvanquished"
+  ]
+}

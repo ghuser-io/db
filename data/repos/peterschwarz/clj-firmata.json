@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "clj-firmata",
+  "full_name": "peterschwarz/clj-firmata",
+  "owner": "peterschwarz",
+  "private": false,
+  "html_url": "https://github.com/peterschwarz/clj-firmata",
+  "description": "clj-firmata provides access to Standard Firmata (http://firmata.org/) commands via clojure. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/peterschwarz/clj-firmata",
+  "languages_url": "https://api.github.com/repos/peterschwarz/clj-firmata/languages",
+  "pulls_url": "https://api.github.com/repos/peterschwarz/clj-firmata/pulls{/number}",
+  "created_at": "2014-02-11T19:29:00Z",
+  "updated_at": "2018-08-04T17:14:33Z",
+  "pushed_at": "2018-06-10T17:21:10Z",
+  "homepage": "",
+  "size": 220,
+  "stargazers_count": 44,
+  "language": "Clojure",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "epl-1.0",
+    "name": "Eclipse Public License 1.0",
+    "spdx_id": "EPL-1.0",
+    "url": "https://api.github.com/licenses/epl-1.0",
+    "node_id": "MDc6TGljZW5zZTc="
+  },
+  "default_branch": "develop",
+  "contributors": {
+    "Gonzih": 3,
+    "tmclane": 4,
+    "blakejakopovic": 5,
+    "peterschwarz": 181
+  },
+  "pulls_authors": [
+    "joncol",
+    "tony-john-mcneil",
+    "tmclane",
+    "peterschwarz",
+    "Gonzih",
+    "blakejakopovic"
+  ],
+  "languages": {
+    "Clojure": {
+      "bytes": 80709,
+      "color": "#db5855"
+    }
+  },
+  "fetched_at": "2018-09-11T17:14:22.020Z"
+}

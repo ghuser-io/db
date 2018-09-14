@@ -1,0 +1,62 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mktorrent",
+  "full_name": "Rudde/mktorrent",
+  "owner": "Rudde",
+  "private": false,
+  "html_url": "https://github.com/Rudde/mktorrent",
+  "description": "A simple command line utility to create BitTorrent metainfo files",
+  "fork": false,
+  "url": "https://api.github.com/repos/Rudde/mktorrent",
+  "languages_url": "https://api.github.com/repos/Rudde/mktorrent/languages",
+  "pulls_url": "https://api.github.com/repos/Rudde/mktorrent/pulls{/number}",
+  "created_at": "2009-02-22T12:41:54Z",
+  "updated_at": "2018-09-12T08:09:17Z",
+  "pushed_at": "2018-09-12T08:09:15Z",
+  "homepage": "",
+  "size": 121,
+  "stargazers_count": 138,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "holgersson32644": 1,
+    "Profpatsch": 1,
+    "jrwren": 1,
+    "mathieui": 1,
+    "davsebamse": 1,
+    "iamjwc": 1,
+    "Rudde": 4,
+    "esmil": 63
+  },
+  "pulls_authors": [
+    "holgersson32644",
+    "ghost",
+    "Profpatsch",
+    "jrwren",
+    "Rudde",
+    "petershaw",
+    "infinity0",
+    "mathieui",
+    "davsebamse"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 57431,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 7063,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:36.742Z"
+}

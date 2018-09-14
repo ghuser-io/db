@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "olalonde": 1,
+    "dmzza": 2,
+    "martey": 2,
+    "johnpolacek": 42
+  },
+  "name": "Responsivator",
+  "full_name": "johnpolacek/Responsivator",
+  "owner": "johnpolacek",
+  "private": false,
+  "html_url": "https://github.com/johnpolacek/Responsivator",
+  "description": "Website for viewing and sharing how web pages look at different screen sizes",
+  "fork": false,
+  "url": "https://api.github.com/repos/johnpolacek/Responsivator",
+  "languages_url": "https://api.github.com/repos/johnpolacek/Responsivator/languages",
+  "created_at": "2012-10-05T17:17:21Z",
+  "updated_at": "2018-06-08T08:15:50Z",
+  "pushed_at": "2017-05-25T11:35:51Z",
+  "homepage": "http://johnpolacek.github.io/Responsivator/",
+  "size": 895,
+  "stargazers_count": 320,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "JavaScript": {
+      "bytes": 43107,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 12239,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 7001,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/johnpolacek/Responsivator/pulls{/number}",
+  "pulls_authors": [
+    "Calinou",
+    "dmzza",
+    "martey",
+    "olalonde"
+  ]
+}

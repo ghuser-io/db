@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sayosxapi",
+  "full_name": "vikbez/sayosxapi",
+  "owner": "vikbez",
+  "private": false,
+  "html_url": "https://github.com/vikbez/sayosxapi",
+  "description": "say something from an api call like http://server/shut+up",
+  "fork": false,
+  "url": "https://api.github.com/repos/vikbez/sayosxapi",
+  "languages_url": "https://api.github.com/repos/vikbez/sayosxapi/languages",
+  "pulls_url": "https://api.github.com/repos/vikbez/sayosxapi/pulls{/number}",
+  "created_at": "2014-02-12T12:24:36Z",
+  "updated_at": "2014-02-12T15:23:33Z",
+  "pushed_at": "2014-02-12T15:23:33Z",
+  "homepage": "",
+  "size": 237,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 8,
+    "vikbez": 14
+  },
+  "pulls_authors": [
+    "moul"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 252,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:47.115Z"
+}

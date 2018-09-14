@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "lobos",
+  "full_name": "budu/lobos",
+  "owner": "budu",
+  "private": false,
+  "html_url": "https://github.com/budu/lobos",
+  "description": "A library to create and manipulate SQL database schemas with migrations support.",
+  "fork": false,
+  "url": "https://api.github.com/repos/budu/lobos",
+  "languages_url": "https://api.github.com/repos/budu/lobos/languages",
+  "pulls_url": "https://api.github.com/repos/budu/lobos/pulls{/number}",
+  "created_at": "2010-12-21T23:12:45Z",
+  "updated_at": "2018-07-11T20:44:54Z",
+  "pushed_at": "2016-11-18T20:46:11Z",
+  "homepage": "http://budu.github.com/lobos/",
+  "size": 2236,
+  "stargazers_count": 261,
+  "language": "Clojure",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mveytsman": 1,
+    "seancorfield": 1,
+    "peterschwarz": 1,
+    "harob": 1,
+    "sdegutis": 1,
+    "davesann": 1,
+    "technomancy": 1,
+    "mmwaikar": 1,
+    "weavejester": 2,
+    "pupeno": 2,
+    "jcrossley3": 3,
+    "siscia": 6,
+    "budu": 494
+  },
+  "pulls_authors": [
+    "pqnelson",
+    "ivajloip",
+    "it0a",
+    "mveytsman",
+    "jonabbey",
+    "seancorfield",
+    "siscia",
+    "arnaudbos",
+    "emil0r",
+    "peterschwarz",
+    "hotwoofy",
+    "harob",
+    "ghost",
+    "jcrossley3",
+    "davesann",
+    "technomancy",
+    "weavejester",
+    "pupeno",
+    "mmwaikar",
+    "astine"
+  ],
+  "languages": {
+    "Clojure": {
+      "bytes": 173013,
+      "color": "#db5855"
+    },
+    "Shell": {
+      "bytes": 1230,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T17:14:25.755Z"
+}

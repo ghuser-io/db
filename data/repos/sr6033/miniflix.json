@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "miniflix",
+  "full_name": "sr6033/miniflix",
+  "owner": "sr6033",
+  "private": false,
+  "html_url": "https://github.com/sr6033/miniflix",
+  "description": "React Js based short version of Netflix",
+  "fork": false,
+  "url": "https://api.github.com/repos/sr6033/miniflix",
+  "languages_url": "https://api.github.com/repos/sr6033/miniflix/languages",
+  "created_at": "2017-07-05T17:03:29Z",
+  "updated_at": "2018-07-25T07:20:42Z",
+  "pushed_at": "2017-07-05T17:16:24Z",
+  "homepage": null,
+  "size": 1283,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sr6033": 8
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 9493,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1785,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 221,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/sr6033/miniflix/pulls{/number}",
+  "pulls_authors": []
+}

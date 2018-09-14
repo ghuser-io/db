@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vimgolf",
+  "full_name": "sparkiegeek/vimgolf",
+  "owner": "sparkiegeek",
+  "private": false,
+  "html_url": "https://github.com/sparkiegeek/vimgolf",
+  "description": "CLI client for vimgolf.com",
+  "fork": true,
+  "url": "https://api.github.com/repos/sparkiegeek/vimgolf",
+  "languages_url": "https://api.github.com/repos/sparkiegeek/vimgolf/languages",
+  "pulls_url": "https://api.github.com/repos/sparkiegeek/vimgolf/pulls{/number}",
+  "created_at": "2012-01-07T19:30:08Z",
+  "updated_at": "2017-03-23T13:03:54Z",
+  "pushed_at": "2012-08-19T09:05:17Z",
+  "homepage": "http://www.vimgolf.com/",
+  "size": 181,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sparkiegeek": 1,
+    "mattn": 1,
+    "singpolyma": 1,
+    "Singletoned": 1,
+    "natacado": 1,
+    "elasticdog": 1,
+    "fgalassi": 3,
+    "purcell": 26,
+    "igrigorik": 39,
+    "timvisher": 49
+  },
+  "pulls_authors": [
+    "sparkiegeek"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 17693,
+      "color": "#701516"
+    },
+    "Emacs Lisp": {
+      "bytes": 12558,
+      "color": "#c065db"
+    }
+  },
+  "fetched_at": "2018-09-11T17:15:40.392Z"
+}

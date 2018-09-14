@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "BatLovesBugs",
+  "full_name": "xyclos/BatLovesBugs",
+  "owner": "xyclos",
+  "private": false,
+  "html_url": "https://github.com/xyclos/BatLovesBugs",
+  "description": "an iOS game.",
+  "fork": false,
+  "url": "https://api.github.com/repos/xyclos/BatLovesBugs",
+  "languages_url": "https://api.github.com/repos/xyclos/BatLovesBugs/languages",
+  "pulls_url": "https://api.github.com/repos/xyclos/BatLovesBugs/pulls{/number}",
+  "created_at": "2014-11-06T15:26:11Z",
+  "updated_at": "2018-03-21T14:01:39Z",
+  "pushed_at": "2015-08-14T17:31:07Z",
+  "homepage": null,
+  "size": 24752,
+  "stargazers_count": 5,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "xyclos": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 4759252,
+      "color": "#e34c26"
+    },
+    "Objective-C": {
+      "bytes": 2263447,
+      "color": "#438eff"
+    },
+    "C": {
+      "bytes": 156997,
+      "color": "#555555"
+    },
+    "Python": {
+      "bytes": 42398,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 18960,
+      "color": "#563d7c"
+    },
+    "Perl": {
+      "bytes": 12283,
+      "color": "#0298c3"
+    },
+    "Objective-C++": {
+      "bytes": 6080,
+      "color": "#6866fb"
+    },
+    "Shell": {
+      "bytes": 5400,
+      "color": "#89e051"
+    },
+    "C++": {
+      "bytes": 1089,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-10T21:40:22.252Z"
+}

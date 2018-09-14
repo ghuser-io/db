@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "typespeed",
+  "full_name": "amitness/typespeed",
+  "owner": "amitness",
+  "private": false,
+  "html_url": "https://github.com/amitness/typespeed",
+  "description": "Type Fast or Be Dead",
+  "fork": false,
+  "url": "https://api.github.com/repos/amitness/typespeed",
+  "languages_url": "https://api.github.com/repos/amitness/typespeed/languages",
+  "pulls_url": "https://api.github.com/repos/amitness/typespeed/pulls{/number}",
+  "created_at": "2017-02-21T16:57:27Z",
+  "updated_at": "2017-12-10T16:12:19Z",
+  "pushed_at": "2017-08-25T17:39:35Z",
+  "homepage": "",
+  "size": 12,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "amitness": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 11914,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:27.649Z"
+}

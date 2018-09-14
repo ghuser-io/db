@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SDK",
+  "full_name": "CachetHQ/SDK",
+  "owner": "CachetHQ",
+  "private": false,
+  "html_url": "https://github.com/CachetHQ/SDK",
+  "description": "The PHP SDK for Cachet.",
+  "fork": false,
+  "url": "https://api.github.com/repos/CachetHQ/SDK",
+  "languages_url": "https://api.github.com/repos/CachetHQ/SDK/languages",
+  "pulls_url": "https://api.github.com/repos/CachetHQ/SDK/pulls{/number}",
+  "created_at": "2016-03-30T12:45:28Z",
+  "updated_at": "2018-03-15T13:40:28Z",
+  "pushed_at": "2017-07-30T18:55:10Z",
+  "homepage": "https://cachethq.io/",
+  "size": 11,
+  "stargazers_count": 10,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "CachetHQ",
+    "id": 9951502,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjk5NTE1MDI=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/9951502?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/CachetHQ",
+    "html_url": "https://github.com/CachetHQ",
+    "followers_url": "https://api.github.com/users/CachetHQ/followers",
+    "following_url": "https://api.github.com/users/CachetHQ/following{/other_user}",
+    "gists_url": "https://api.github.com/users/CachetHQ/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/CachetHQ/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/CachetHQ/subscriptions",
+    "organizations_url": "https://api.github.com/users/CachetHQ/orgs",
+    "repos_url": "https://api.github.com/users/CachetHQ/repos",
+    "events_url": "https://api.github.com/users/CachetHQ/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/CachetHQ/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "GrahamCampbell": 1,
+    "jbrooksuk": 11
+  },
+  "pulls_authors": [
+    "GrahamCampbell"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 14676,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T05:04:17.898Z"
+}

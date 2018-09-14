@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SinScheme",
+  "full_name": "sinistersnare/SinScheme",
+  "owner": "sinistersnare",
+  "private": false,
+  "html_url": "https://github.com/sinistersnare/SinScheme",
+  "description": "Sinister's Scheme Compiler!",
+  "fork": false,
+  "url": "https://api.github.com/repos/sinistersnare/SinScheme",
+  "languages_url": "https://api.github.com/repos/sinistersnare/SinScheme/languages",
+  "pulls_url": "https://api.github.com/repos/sinistersnare/SinScheme/pulls{/number}",
+  "created_at": "2017-12-15T19:34:08Z",
+  "updated_at": "2018-05-02T20:46:16Z",
+  "pushed_at": "2017-12-20T00:17:37Z",
+  "homepage": null,
+  "size": 196,
+  "stargazers_count": 2,
+  "language": "Racket",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sinistersnare": 15
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Racket": {
+      "bytes": 105300,
+      "color": "#22228f"
+    },
+    "C++": {
+      "bytes": 32498,
+      "color": "#f34b7d"
+    },
+    "Scheme": {
+      "bytes": 12063,
+      "color": "#1e4aec"
+    },
+    "C": {
+      "bytes": 2934,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:36.038Z"
+}

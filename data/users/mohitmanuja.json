@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "mohitmanuja",
+  "ghuser_created_at": "2018-09-05T19:00:57.526Z",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/9361754?v=4",
+  "html_url": "https://github.com/mohitmanuja",
+  "organizations_url": "https://api.github.com/users/mohitmanuja/orgs",
+  "repos_url": "https://api.github.com/users/mohitmanuja/repos",
+  "type": "User",
+  "name": "Mohit Manuja",
+  "company": "@fossasia ",
+  "blog": "mohitmanuja.com",
+  "location": "Gurgaon",
+  "email": null,
+  "bio": "I like to work with open-source organisations.",
+  "public_gists": 4,
+  "created_at": "2014-10-23T04:59:45Z",
+  "updated_at": "2018-09-02T14:48:49Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:15:59.429Z",
+    "repos": [
+      "GoParento/DeveloperAPISample",
+      "mohitmanuja/ccftestapp",
+      "fossasia/phimpme-android",
+      "mohitmanuja/mohitmanuja.github.io",
+      "fossasia/codeheat.org",
+      "mohitmanuja/wallpapers",
+      "anantprsd5/Udacity_Nano",
+      "anantprsd5/Popular-Movies",
+      "mohitmanuja/Popular-Movies",
+      "fossasia/phimpme-artwork",
+      "mohitmanuja/phimpme-android",
+      "fossasia/open-event-droidgen",
+      "mohitmanuja/Astrronomy-App"
+    ]
+  }
+}

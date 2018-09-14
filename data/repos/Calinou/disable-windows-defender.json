@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 6
+  },
+  "name": "disable-windows-defender",
+  "full_name": "Calinou/disable-windows-defender",
+  "owner": "Calinou",
+  "private": false,
+  "html_url": "https://github.com/Calinou/disable-windows-defender",
+  "description": ".reg files to permanently disable and restore Windows Defender on Windows 10",
+  "fork": false,
+  "url": "https://api.github.com/repos/Calinou/disable-windows-defender",
+  "languages_url": "https://api.github.com/repos/Calinou/disable-windows-defender/languages",
+  "created_at": "2017-11-28T21:13:06Z",
+  "updated_at": "2018-08-18T17:36:31Z",
+  "pushed_at": "2018-05-24T17:43:46Z",
+  "homepage": "https://calinou.github.io/disable-windows-defender/",
+  "size": 14,
+  "stargazers_count": 9,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "languages": {
+    "CSS": {
+      "bytes": 13733,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 484,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-18T20:06:13.202Z",
+  "pulls_url": "https://api.github.com/repos/Calinou/disable-windows-defender/pulls{/number}",
+  "pulls_authors": []
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 407
+  },
+  "name": "carbone",
+  "full_name": "Calinou/carbone",
+  "owner": "Calinou",
+  "private": false,
+  "html_url": "https://github.com/Calinou/carbone",
+  "description": "Carbone",
+  "fork": false,
+  "url": "https://api.github.com/repos/Calinou/carbone",
+  "languages_url": "https://api.github.com/repos/Calinou/carbone/languages",
+  "created_at": "2015-03-18T21:15:47Z",
+  "updated_at": "2018-09-01T04:01:00Z",
+  "pushed_at": "2015-03-18T21:17:20Z",
+  "homepage": "https://notabug.org/Calinou/carbone",
+  "size": 4936,
+  "stargazers_count": 6,
+  "language": "Logos",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "languages": {
+    "Logos": {
+      "bytes": 2124648,
+      "color": "#ccc"
+    },
+    "Lua": {
+      "bytes": 745871,
+      "color": "#000080"
+    }
+  },
+  "fetched_at": "2018-09-01T13:04:36.722Z",
+  "pulls_url": "https://api.github.com/repos/Calinou/carbone/pulls{/number}",
+  "pulls_authors": []
+}

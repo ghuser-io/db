@@ -1,0 +1,88 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Jamoma",
+  "full_name": "jamoma/Jamoma",
+  "owner": "jamoma",
+  "private": false,
+  "html_url": "https://github.com/jamoma/Jamoma",
+  "description": "Umbrella repository for the Jamoma platform",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamoma/Jamoma",
+  "languages_url": "https://api.github.com/repos/jamoma/Jamoma/languages",
+  "pulls_url": "https://api.github.com/repos/jamoma/Jamoma/pulls{/number}",
+  "created_at": "2010-09-09T19:51:58Z",
+  "updated_at": "2018-03-14T22:24:45Z",
+  "pushed_at": "2015-11-24T17:39:05Z",
+  "homepage": "http://jamoma.org/",
+  "size": 20195,
+  "stargazers_count": 33,
+  "language": "PostScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "jamoma",
+    "id": 381262,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM4MTI2Mg==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/381262?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jamoma",
+    "html_url": "https://github.com/jamoma",
+    "followers_url": "https://api.github.com/users/jamoma/followers",
+    "following_url": "https://api.github.com/users/jamoma/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jamoma/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jamoma/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jamoma/subscriptions",
+    "organizations_url": "https://api.github.com/users/jamoma/orgs",
+    "repos_url": "https://api.github.com/users/jamoma/repos",
+    "events_url": "https://api.github.com/users/jamoma/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jamoma/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "matcham": 1,
+    "tap": 2,
+    "caseybasichis": 3,
+    "jcelerier": 7,
+    "reno-": 12,
+    "jamomabuild": 12,
+    "hems": 26,
+    "avilleret": 28,
+    "nwolek": 32,
+    "bltzr": 45,
+    "jln-": 62,
+    "Nilson": 103
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PostScript": {
+      "bytes": 97152,
+      "color": "#da291c"
+    },
+    "Shell": {
+      "bytes": 7748,
+      "color": "#89e051"
+    },
+    "TeX": {
+      "bytes": 5462,
+      "color": "#3D6117"
+    },
+    "CMake": {
+      "bytes": 3529,
+      "color": "#ccc"
+    },
+    "Ruby": {
+      "bytes": 1404,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:57.583Z"
+}

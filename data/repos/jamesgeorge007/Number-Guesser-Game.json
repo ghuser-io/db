@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Number-Guesser-Game",
+  "full_name": "jamesgeorge007/Number-Guesser-Game",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/Number-Guesser-Game",
+  "description": "This is an interactive game designed as a GUI in Java swing which predicts the number that the user had guessed.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/Number-Guesser-Game",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/Number-Guesser-Game/languages",
+  "created_at": "2017-10-14T17:47:57Z",
+  "updated_at": "2018-03-29T08:30:58Z",
+  "pushed_at": "2018-03-29T08:30:56Z",
+  "homepage": null,
+  "size": 38,
+  "stargazers_count": 3,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jamesgeorge007": 9
+  },
+  "languages": {
+    "Java": {
+      "bytes": 6792,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/Number-Guesser-Game/pulls{/number}",
+  "pulls_authors": []
+}

@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "8Bit-Filter",
+  "full_name": "JPBotelho/8Bit-Filter",
+  "owner": "JPBotelho",
+  "private": false,
+  "html_url": "https://github.com/JPBotelho/8Bit-Filter",
+  "description": "A simple 8Bit Postprocess filter made with round()",
+  "fork": false,
+  "url": "https://api.github.com/repos/JPBotelho/8Bit-Filter",
+  "languages_url": "https://api.github.com/repos/JPBotelho/8Bit-Filter/languages",
+  "pulls_url": "https://api.github.com/repos/JPBotelho/8Bit-Filter/pulls{/number}",
+  "created_at": "2018-02-23T08:43:05Z",
+  "updated_at": "2018-06-07T16:42:49Z",
+  "pushed_at": "2018-05-13T13:39:28Z",
+  "homepage": null,
+  "size": 267,
+  "stargazers_count": 11,
+  "language": "ShaderLab",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "JPBotelho": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "ShaderLab": {
+      "bytes": 786,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-08-17T14:57:52.380Z"
+}

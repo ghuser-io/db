@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "level-training-brute",
+  "full_name": "pathwar/level-training-brute",
+  "owner": "pathwar",
+  "private": false,
+  "html_url": "https://github.com/pathwar/level-training-brute",
+  "description": ":video_game: Training-Brute level on Pathwar",
+  "fork": false,
+  "url": "https://api.github.com/repos/pathwar/level-training-brute",
+  "languages_url": "https://api.github.com/repos/pathwar/level-training-brute/languages",
+  "pulls_url": "https://api.github.com/repos/pathwar/level-training-brute/pulls{/number}",
+  "created_at": "2014-12-30T20:07:07Z",
+  "updated_at": "2015-05-07T22:21:34Z",
+  "pushed_at": "2018-03-02T17:44:09Z",
+  "homepage": "www.pathwar.net",
+  "size": 4,
+  "stargazers_count": 1,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "pathwar",
+    "id": 2904560,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI5MDQ1NjA=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/2904560?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pathwar",
+    "html_url": "https://github.com/pathwar",
+    "followers_url": "https://api.github.com/users/pathwar/followers",
+    "following_url": "https://api.github.com/users/pathwar/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pathwar/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pathwar/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pathwar/subscriptions",
+    "organizations_url": "https://api.github.com/users/pathwar/orgs",
+    "repos_url": "https://api.github.com/users/pathwar/repos",
+    "events_url": "https://api.github.com/users/pathwar/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pathwar/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "moul": 1,
+    "aimxhaisse": 2
+  },
+  "pulls_authors": [
+    "moul"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 3011,
+      "color": "#4F5D95"
+    },
+    "CSS": {
+      "bytes": 476,
+      "color": "#563d7c"
+    },
+    "Makefile": {
+      "bytes": 245,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 171,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:25.005Z"
+}

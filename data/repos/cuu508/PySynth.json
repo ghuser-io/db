@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PySynth",
+  "full_name": "cuu508/PySynth",
+  "owner": "cuu508",
+  "private": false,
+  "html_url": "https://github.com/cuu508/PySynth",
+  "description": "A simple music synthesizer in Python",
+  "fork": true,
+  "url": "https://api.github.com/repos/cuu508/PySynth",
+  "languages_url": "https://api.github.com/repos/cuu508/PySynth/languages",
+  "pulls_url": "https://api.github.com/repos/cuu508/PySynth/pulls{/number}",
+  "created_at": "2011-04-10T16:11:59Z",
+  "updated_at": "2013-01-01T20:45:15Z",
+  "pushed_at": "2011-04-12T22:06:02Z",
+  "homepage": "http://home.arcor.de/mdoege/pysynth/",
+  "size": 327,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mdoege": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 46432,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:23.946Z"
+}

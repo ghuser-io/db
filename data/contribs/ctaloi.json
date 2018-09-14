@@ -1,0 +1,114 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "home-assistant/home-assistant.io": {
+      "full_name": "home-assistant/home-assistant.io",
+      "name": "home-assistant.io",
+      "stargazers_count": 432,
+      "popularity": 3.63461710244038,
+      "percentage": 0,
+      "maturity": 5,
+      "total_commits_count": 10156,
+      "activity": 5,
+      "total_score": 25.90385130732114,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jasoncoon/esp8266-fastled-webserver": {
+      "full_name": "jasoncoon/esp8266-fastled-webserver",
+      "name": "esp8266-fastled-webserver",
+      "stargazers_count": 237,
+      "popularity": 3.373135059176772,
+      "percentage": 3.125,
+      "maturity": 0,
+      "total_commits_count": 32,
+      "activity": 3.073946087476554,
+      "total_score": 14.563687382797433,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "thespacedojo/meteorclubpodcast": {
+      "full_name": "thespacedojo/meteorclubpodcast",
+      "name": "meteorclubpodcast",
+      "stargazers_count": 5,
+      "popularity": 1.6128219920330789,
+      "percentage": 10.869565217391305,
+      "maturity": 2.718570715884442,
+      "total_commits_count": 92,
+      "activity": 0.5919341927858515,
+      "total_score": 13.146529198092017,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "okgrow/analytics": {
+      "full_name": "okgrow/analytics",
+      "name": "analytics",
+      "stargazers_count": 205,
+      "popularity": 3.309882074218489,
+      "percentage": 0.42016806722689076,
+      "maturity": 3.2986199194112844,
+      "total_commits_count": 238,
+      "activity": 1.9882827490176562,
+      "total_score": 18.695960688499223,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ctaloi/recorder": {
+      "full_name": "ctaloi/recorder",
+      "name": "recorder",
+      "stargazers_count": 3,
+      "popularity": 1.3222565221025262,
+      "percentage": 100,
+      "maturity": 1.4930421103847036,
+      "total_commits_count": 43,
+      "activity": 0.4765755524564925,
+      "total_score": 24.618764126866317,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ccorcos/meteor-icon-splash-maker": {
+      "full_name": "ccorcos/meteor-icon-splash-maker",
+      "name": "meteor-icon-splash-maker",
+      "stargazers_count": 16,
+      "popularity": 2.179015777092762,
+      "percentage": 33.333333333333336,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 0.44771565446649575,
+      "total_score": 16.427164686480083,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jnv/node-red-contrib-lifx": {
+      "full_name": "jnv/node-red-contrib-lifx",
+      "name": "node-red-contrib-lifx",
+      "stargazers_count": 4,
+      "popularity": 1.49139952161816,
+      "percentage": 9.090909090909092,
+      "maturity": 0,
+      "total_commits_count": 11,
+      "activity": 0.7842269833528963,
+      "total_score": 7.020988619210656,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ctaloi/Fitboard": {
+      "full_name": "ctaloi/Fitboard",
+      "name": "Fitboard",
+      "stargazers_count": 21,
+      "popularity": 2.3032349516115587,
+      "percentage": 97.82608695652173,
+      "maturity": 1.7870377452764827,
+      "total_commits_count": 46,
+      "activity": 0.37593594373083494,
+      "total_score": 40.150856434613296,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "home-assistant",
+    "thespacedojo",
+    "okgrow"
+  ]
+}

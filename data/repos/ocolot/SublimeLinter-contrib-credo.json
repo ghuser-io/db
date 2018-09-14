@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SublimeLinter-contrib-credo",
+  "full_name": "ocolot/SublimeLinter-contrib-credo",
+  "owner": "ocolot",
+  "private": false,
+  "html_url": "https://github.com/ocolot/SublimeLinter-contrib-credo",
+  "description": "Elixir linter using credo for Sublime Text 3 with SublimeLinter",
+  "fork": false,
+  "url": "https://api.github.com/repos/ocolot/SublimeLinter-contrib-credo",
+  "languages_url": "https://api.github.com/repos/ocolot/SublimeLinter-contrib-credo/languages",
+  "pulls_url": "https://api.github.com/repos/ocolot/SublimeLinter-contrib-credo/pulls{/number}",
+  "created_at": "2017-09-30T09:06:45Z",
+  "updated_at": "2018-06-14T13:19:29Z",
+  "pushed_at": "2018-06-14T13:19:28Z",
+  "homepage": "",
+  "size": 6,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "acconrad": 1,
+    "ocolot": 1
+  },
+  "pulls_authors": [
+    "acconrad",
+    "apdunston"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 998,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T04:55:39.401Z"
+}

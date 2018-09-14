@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "g33kcentric": 1,
+    "Linko91": 1,
+    "aarondo": 13
+  },
+  "name": "Strength.js",
+  "full_name": "aarondo/Strength.js",
+  "owner": "aarondo",
+  "private": false,
+  "html_url": "https://github.com/aarondo/Strength.js",
+  "description": "The ultimate jQuery password input plugin. Featuring secure strength indicator and hide/show password",
+  "fork": false,
+  "url": "https://api.github.com/repos/aarondo/Strength.js",
+  "languages_url": "https://api.github.com/repos/aarondo/Strength.js/languages",
+  "created_at": "2013-06-10T19:19:35Z",
+  "updated_at": "2018-08-26T13:31:12Z",
+  "pushed_at": "2016-10-27T05:46:16Z",
+  "homepage": "http://git.aaronlumsden.com/strength.js/",
+  "size": 44,
+  "stargazers_count": 224,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "JavaScript": {
+      "bytes": 17522,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 4023,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1046,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-27T06:17:17.438Z",
+  "pulls_url": "https://api.github.com/repos/aarondo/Strength.js/pulls{/number}",
+  "pulls_authors": [
+    "sajibcse68",
+    "tamalsaha",
+    "pmourlanne",
+    "erdemildiz",
+    "ndufreche",
+    "richmarr",
+    "Calinou",
+    "petchaw",
+    "Rudloff",
+    "BobKingstone",
+    "brunowego",
+    "JohnSebastianHussey",
+    "bwreid",
+    "g33kcentric",
+    "Linko91",
+    "pixelthing",
+    "pundurs",
+    "wsyms",
+    "JanWerder"
+  ]
+}

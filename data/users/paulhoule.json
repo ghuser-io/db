@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "paulhoule",
+  "ghuser_created_at": "2018-09-11T09:24:40.048Z",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/2703649?v=4",
+  "html_url": "https://github.com/paulhoule",
+  "organizations_url": "https://api.github.com/users/paulhoule/orgs",
+  "repos_url": "https://api.github.com/users/paulhoule/repos",
+  "type": "User",
+  "name": "Paul Houle",
+  "company": "Ontology2",
+  "blog": "http://ontology2.com/",
+  "location": "Ithaca, NY",
+  "email": "ontology2@gmail.com",
+  "bio": null,
+  "public_gists": 0,
+  "created_at": "2012-11-02T01:54:16Z",
+  "updated_at": "2018-07-31T20:47:53Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:16:37.073Z",
+    "repos": [
+      "paulhoule/bellsprout",
+      "paulhoule/tentacruel",
+      "paulhoule/gastrodon",
+      "gpestana/the-zen-of-data-pipelines",
+      "neogeny/TatSu",
+      "paulhoule/centipede",
+      "paulhoule/RDFeasy",
+      "apache/jena",
+      "paulhoule/rdf-lisp",
+      "paulhoule/images",
+      "paulhoule/infovore",
+      "paulhoule/telepath",
+      "onurakpolat/awesome-bigdata",
+      "paulhoule/birthday_machine",
+      "paulhoule/ookaboo",
+      "paulhoule/pandaemonium",
+      "paulhoule/awesome-bigdata",
+      "paulhoule/rdfbean"
+    ]
+  }
+}

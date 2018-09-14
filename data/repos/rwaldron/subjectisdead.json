@@ -1,0 +1,95 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "subjectisdead",
+  "full_name": "rwaldron/subjectisdead",
+  "owner": "rwaldron",
+  "private": false,
+  "html_url": "https://github.com/rwaldron/subjectisdead",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/rwaldron/subjectisdead",
+  "languages_url": "https://api.github.com/repos/rwaldron/subjectisdead/languages",
+  "pulls_url": "https://api.github.com/repos/rwaldron/subjectisdead/pulls{/number}",
+  "created_at": "2011-11-22T20:59:54Z",
+  "updated_at": "2017-05-22T04:57:25Z",
+  "pushed_at": "2011-11-28T18:47:31Z",
+  "homepage": "",
+  "size": 224,
+  "stargazers_count": 9,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "kborchers": 1,
+    "angus-c": 1,
+    "jbrooksuk": 1,
+    "janmoesen": 1,
+    "mathiasbynens": 2,
+    "pifantastic": 2,
+    "cowboy": 3,
+    "rwaldron": 22
+  },
+  "pulls_authors": [
+    "kborchers",
+    "angus-c",
+    "dokipen",
+    "jbrooksuk",
+    "cowboy",
+    "janmoesen",
+    "gf3",
+    "pifantastic"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 1004,
+      "color": "#5e5086"
+    },
+    "Java": {
+      "bytes": 557,
+      "color": "#b07219"
+    },
+    "Racket": {
+      "bytes": 448,
+      "color": "#22228f"
+    },
+    "C++": {
+      "bytes": 360,
+      "color": "#f34b7d"
+    },
+    "Clojure": {
+      "bytes": 266,
+      "color": "#db5855"
+    },
+    "Shell": {
+      "bytes": 241,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 225,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 188,
+      "color": "#f1e05a"
+    },
+    "Perl": {
+      "bytes": 178,
+      "color": "#0298c3"
+    },
+    "Ruby": {
+      "bytes": 173,
+      "color": "#701516"
+    },
+    "PHP": {
+      "bytes": 169,
+      "color": "#4F5D95"
+    },
+    "Lua": {
+      "bytes": 148,
+      "color": "#000080"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:04.034Z"
+}

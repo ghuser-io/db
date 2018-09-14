@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pyplayerpiano",
+  "full_name": "schollz/pyplayerpiano",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/pyplayerpiano",
+  "description": "A real-time player piano that follows different algorithms",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/pyplayerpiano",
+  "languages_url": "https://api.github.com/repos/schollz/pyplayerpiano/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/pyplayerpiano/pulls{/number}",
+  "created_at": "2017-07-27T23:28:44Z",
+  "updated_at": "2018-08-19T16:20:18Z",
+  "pushed_at": "2018-08-19T16:20:16Z",
+  "homepage": null,
+  "size": 15,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 10
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 19523,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 2044,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:30.163Z"
+}

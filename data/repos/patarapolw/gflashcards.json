@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gflashcards",
+  "full_name": "patarapolw/gflashcards",
+  "owner": "patarapolw",
+  "private": false,
+  "html_url": "https://github.com/patarapolw/gflashcards",
+  "description": "A very simple app to make formatted flashcards from Google Sheets",
+  "fork": false,
+  "url": "https://api.github.com/repos/patarapolw/gflashcards",
+  "languages_url": "https://api.github.com/repos/patarapolw/gflashcards/languages",
+  "pulls_url": "https://api.github.com/repos/patarapolw/gflashcards/pulls{/number}",
+  "created_at": "2018-07-21T16:52:10Z",
+  "updated_at": "2018-08-08T03:13:08Z",
+  "pushed_at": "2018-07-25T10:06:32Z",
+  "homepage": "",
+  "size": 127,
+  "stargazers_count": 6,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "patarapolw": 29
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 11303,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 668,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 96,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-17T13:22:19.565Z"
+}

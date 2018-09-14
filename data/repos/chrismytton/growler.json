@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "growler",
+  "full_name": "chrismytton/growler",
+  "owner": "chrismytton",
+  "private": false,
+  "html_url": "https://github.com/chrismytton/growler",
+  "description": "simple express growl debugging server device",
+  "fork": false,
+  "url": "https://api.github.com/repos/chrismytton/growler",
+  "languages_url": "https://api.github.com/repos/chrismytton/growler/languages",
+  "pulls_url": "https://api.github.com/repos/chrismytton/growler/pulls{/number}",
+  "created_at": "2011-06-01T21:35:04Z",
+  "updated_at": "2016-04-17T10:12:50Z",
+  "pushed_at": "2011-06-11T13:11:47Z",
+  "homepage": "http://hecticjeff.github.com/growler/",
+  "size": 104,
+  "stargazers_count": 2,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "chrismytton": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 719,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:51.387Z"
+}

@@ -1,0 +1,97 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "stack2nix",
+  "full_name": "input-output-hk/stack2nix",
+  "owner": "input-output-hk",
+  "private": false,
+  "html_url": "https://github.com/input-output-hk/stack2nix",
+  "description": "Generate nix expressions for Haskell projects",
+  "fork": false,
+  "url": "https://api.github.com/repos/input-output-hk/stack2nix",
+  "languages_url": "https://api.github.com/repos/input-output-hk/stack2nix/languages",
+  "pulls_url": "https://api.github.com/repos/input-output-hk/stack2nix/pulls{/number}",
+  "created_at": "2017-06-02T16:52:54Z",
+  "updated_at": "2018-09-04T16:06:07Z",
+  "pushed_at": "2018-09-04T16:06:06Z",
+  "homepage": null,
+  "size": 1465,
+  "stargazers_count": 61,
+  "language": "Nix",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "input-output-hk",
+    "id": 12909177,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyOTA5MTc3",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/12909177?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/input-output-hk",
+    "html_url": "https://github.com/input-output-hk",
+    "followers_url": "https://api.github.com/users/input-output-hk/followers",
+    "following_url": "https://api.github.com/users/input-output-hk/following{/other_user}",
+    "gists_url": "https://api.github.com/users/input-output-hk/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/input-output-hk/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/input-output-hk/subscriptions",
+    "organizations_url": "https://api.github.com/users/input-output-hk/orgs",
+    "repos_url": "https://api.github.com/users/input-output-hk/repos",
+    "events_url": "https://api.github.com/users/input-output-hk/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/input-output-hk/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "philderbeast": 1,
+    "nh2": 1,
+    "puffnfresh": 1,
+    "rvl": 1,
+    "ksaric": 1,
+    "vaibhavsagar": 1,
+    "deepfire": 1,
+    "cleverca22": 2,
+    "ruhatch": 5,
+    "domenkozar": 49,
+    "jmitchell": 106
+  },
+  "pulls_authors": [
+    "angerman",
+    "philderbeast",
+    "nh2",
+    "puffnfresh",
+    "domenkozar",
+    "kirelagin",
+    "rvl",
+    "ruhatch",
+    "sectore",
+    "cleverca22",
+    "cfraz89",
+    "snoyberg",
+    "ksaric",
+    "jmitchell",
+    "deepfire",
+    "gilligan",
+    "vaibhavsagar"
+  ],
+  "languages": {
+    "Nix": {
+      "bytes": 1781240,
+      "color": "#7e7eff"
+    },
+    "Haskell": {
+      "bytes": 33893,
+      "color": "#5e5086"
+    },
+    "Shell": {
+      "bytes": 2310,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:32.595Z"
+}

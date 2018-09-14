@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mtr",
+  "full_name": "tonobo/mtr",
+  "owner": "tonobo",
+  "private": false,
+  "html_url": "https://github.com/tonobo/mtr",
+  "description": "Golang native MTR implementation",
+  "fork": false,
+  "url": "https://api.github.com/repos/tonobo/mtr",
+  "languages_url": "https://api.github.com/repos/tonobo/mtr/languages",
+  "pulls_url": "https://api.github.com/repos/tonobo/mtr/pulls{/number}",
+  "created_at": "2017-12-15T00:07:08Z",
+  "updated_at": "2018-08-27T13:53:48Z",
+  "pushed_at": "2018-08-27T13:53:46Z",
+  "homepage": null,
+  "size": 1954,
+  "stargazers_count": 3,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-2-clause",
+    "name": "BSD 2-Clause \"Simplified\" License",
+    "spdx_id": "BSD-2-Clause",
+    "url": "https://api.github.com/licenses/bsd-2-clause",
+    "node_id": "MDc6TGljZW5zZTQ="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "meyskens": 16,
+    "tonobo": 19
+  },
+  "pulls_authors": [
+    "meyskens"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 12064,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T20:50:11.853Z"
+}

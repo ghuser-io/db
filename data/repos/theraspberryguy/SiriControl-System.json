@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SiriControl-System",
+  "full_name": "theraspberryguy/SiriControl-System",
+  "owner": "theraspberryguy",
+  "private": false,
+  "html_url": "https://github.com/theraspberryguy/SiriControl-System",
+  "description": "Control anything with Siri voice commands",
+  "fork": false,
+  "url": "https://api.github.com/repos/theraspberryguy/SiriControl-System",
+  "languages_url": "https://api.github.com/repos/theraspberryguy/SiriControl-System/languages",
+  "pulls_url": "https://api.github.com/repos/theraspberryguy/SiriControl-System/pulls{/number}",
+  "created_at": "2017-04-28T18:35:21Z",
+  "updated_at": "2018-09-09T21:02:12Z",
+  "pushed_at": "2017-08-05T00:56:07Z",
+  "homepage": "",
+  "size": 9,
+  "stargazers_count": 76,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "josephtyler": 2,
+    "theraspberryguy": 12
+  },
+  "pulls_authors": [
+    "toyg",
+    "thearkamknight",
+    "josephtyler"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 5512,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:02.520Z"
+}

@@ -1,0 +1,27 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "matheuscandido",
+  "ghuser_created_at": "2018-09-11T04:01:57.042Z",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/1309911?v=4",
+  "html_url": "https://github.com/matheuscandido",
+  "organizations_url": "https://api.github.com/users/matheuscandido/orgs",
+  "repos_url": "https://api.github.com/users/matheuscandido/repos",
+  "type": "User",
+  "name": "Matheus Candido",
+  "company": null,
+  "blog": "matheus.tech",
+  "location": "Minas Gerais, Brazil",
+  "email": "matheusoc@live.com",
+  "bio": "Computer Engineering undergrad.",
+  "public_gists": 1,
+  "created_at": "2012-01-06T17:18:08Z",
+  "updated_at": "2018-09-07T15:00:09Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:15:34.187Z",
+    "repos": [
+      "matheuscandido/LastSurvivor",
+      "matheuscandido/barsi"
+    ]
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "visual_resume",
+  "full_name": "moul/visual_resume",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/visual_resume",
+  "description": null,
+  "fork": true,
+  "url": "https://api.github.com/repos/moul/visual_resume",
+  "languages_url": "https://api.github.com/repos/moul/visual_resume/languages",
+  "pulls_url": "https://api.github.com/repos/moul/visual_resume/pulls{/number}",
+  "created_at": "2013-10-08T14:39:21Z",
+  "updated_at": "2013-10-09T16:58:05Z",
+  "pushed_at": "2013-10-08T14:46:36Z",
+  "homepage": null,
+  "size": 330,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 3,
+    "yifudiao": 15,
+    "sylvainkalache": 24
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 9377,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 1237,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 237,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:58.184Z"
+}

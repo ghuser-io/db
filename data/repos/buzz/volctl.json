@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "volctl",
+  "full_name": "buzz/volctl",
+  "owner": "buzz",
+  "private": false,
+  "html_url": "https://github.com/buzz/volctl",
+  "description": "PulseAudio-enabled tray icon volume control for GNU/Linux desktops.",
+  "fork": false,
+  "url": "https://api.github.com/repos/buzz/volctl",
+  "languages_url": "https://api.github.com/repos/buzz/volctl/languages",
+  "pulls_url": "https://api.github.com/repos/buzz/volctl/pulls{/number}",
+  "created_at": "2014-10-09T19:20:48Z",
+  "updated_at": "2018-08-11T17:48:42Z",
+  "pushed_at": "2018-09-09T01:50:47Z",
+  "homepage": "https://buzz.github.io/volctl/",
+  "size": 158,
+  "stargazers_count": 19,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "PhilipTrauner": 1,
+    "Narrat": 1,
+    "ckorn": 1,
+    "stubb": 1,
+    "buzz": 29
+  },
+  "pulls_authors": [
+    "PhilipTrauner",
+    "Narrat",
+    "ckorn",
+    "stubb"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 154428,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:06.249Z"
+}

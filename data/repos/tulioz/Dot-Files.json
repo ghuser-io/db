@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Dot-Files",
+  "full_name": "tulioz/Dot-Files",
+  "owner": "tulioz",
+  "private": false,
+  "html_url": "https://github.com/tulioz/Dot-Files",
+  "description": "My vimrc and associated vim files",
+  "fork": false,
+  "url": "https://api.github.com/repos/tulioz/Dot-Files",
+  "languages_url": "https://api.github.com/repos/tulioz/Dot-Files/languages",
+  "pulls_url": "https://api.github.com/repos/tulioz/Dot-Files/pulls{/number}",
+  "created_at": "2011-05-20T08:29:32Z",
+  "updated_at": "2017-08-09T06:39:11Z",
+  "pushed_at": "2017-12-21T23:54:13Z",
+  "homepage": "",
+  "size": 337,
+  "stargazers_count": 6,
+  "language": "Vim script",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 1,
+    "tulioz": 108
+  },
+  "pulls_authors": [
+    "tulioz",
+    "captbaritone"
+  ],
+  "languages": {
+    "Vim script": {
+      "bytes": 8156,
+      "color": "#199f4b"
+    },
+    "Ruby": {
+      "bytes": 543,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 160,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:41.847Z"
+}

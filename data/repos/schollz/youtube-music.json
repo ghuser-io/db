@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "youtube-music",
+  "full_name": "schollz/youtube-music",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/youtube-music",
+  "description": "Convert a playlist to a set of MP3s",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/youtube-music",
+  "languages_url": "https://api.github.com/repos/schollz/youtube-music/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/youtube-music/pulls{/number}",
+  "created_at": "2016-08-22T15:28:07Z",
+  "updated_at": "2018-08-01T10:19:19Z",
+  "pushed_at": "2018-04-21T00:55:12Z",
+  "homepage": null,
+  "size": 13,
+  "stargazers_count": 8,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 22
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 9425,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:33.246Z"
+}

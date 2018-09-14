@@ -1,0 +1,88 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pivumeter",
+  "full_name": "pimoroni/pivumeter",
+  "owner": "pimoroni",
+  "private": false,
+  "html_url": "https://github.com/pimoroni/pivumeter",
+  "description": "ALSA plugin for displaying VU meters on various Raspberry Pi add-ons - derived from ameter",
+  "fork": false,
+  "url": "https://api.github.com/repos/pimoroni/pivumeter",
+  "languages_url": "https://api.github.com/repos/pimoroni/pivumeter/languages",
+  "pulls_url": "https://api.github.com/repos/pimoroni/pivumeter/pulls{/number}",
+  "created_at": "2017-01-25T11:25:00Z",
+  "updated_at": "2018-07-17T12:34:40Z",
+  "pushed_at": "2018-02-01T12:24:29Z",
+  "homepage": null,
+  "size": 169,
+  "stargazers_count": 21,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pimoroni",
+    "id": 2399917,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzOTk5MTc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2399917?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pimoroni",
+    "html_url": "https://github.com/pimoroni",
+    "followers_url": "https://api.github.com/users/pimoroni/followers",
+    "following_url": "https://api.github.com/users/pimoroni/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pimoroni/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pimoroni/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pimoroni/subscriptions",
+    "organizations_url": "https://api.github.com/users/pimoroni/orgs",
+    "repos_url": "https://api.github.com/users/pimoroni/repos",
+    "events_url": "https://api.github.com/users/pimoroni/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pimoroni/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "nicholas-gh": 1,
+    "nicokaiser": 2,
+    "ali1234": 2,
+    "RogueM": 14,
+    "Gadgetoid": 17
+  },
+  "pulls_authors": [
+    "nicokaiser",
+    "roblan",
+    "Gadgetoid",
+    "nicholas-gh",
+    "ali1234",
+    "RogueM"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 298194,
+      "color": "#89e051"
+    },
+    "C": {
+      "bytes": 34618,
+      "color": "#555555"
+    },
+    "M4": {
+      "bytes": 499,
+      "color": "#ccc"
+    },
+    "Makefile": {
+      "bytes": 257,
+      "color": "#427819"
+    },
+    "C++": {
+      "bytes": 122,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:09.973Z"
+}

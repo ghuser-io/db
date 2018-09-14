@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sufee-admin-dashboard",
+  "full_name": "schollz/sufee-admin-dashboard",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/sufee-admin-dashboard",
+  "description": "A simple yet powerful Bootstrap 4 admin dashboard template. ",
+  "fork": true,
+  "url": "https://api.github.com/repos/schollz/sufee-admin-dashboard",
+  "languages_url": "https://api.github.com/repos/schollz/sufee-admin-dashboard/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/sufee-admin-dashboard/pulls{/number}",
+  "created_at": "2018-03-12T21:01:29Z",
+  "updated_at": "2018-04-12T18:37:31Z",
+  "pushed_at": "2018-03-11T13:02:59Z",
+  "homepage": "https://colorlib.com/polygon/sufee/index.html",
+  "size": 5950,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "marxcisis": 1,
+    "puikinsh": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1001046,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 981937,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 175794,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:56.473Z"
+}

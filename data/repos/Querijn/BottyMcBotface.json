@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "BottyMcBotface",
+  "full_name": "Querijn/BottyMcBotface",
+  "owner": "Querijn",
+  "private": false,
+  "html_url": "https://github.com/Querijn/BottyMcBotface",
+  "description": "The Riot Games API Bot",
+  "fork": false,
+  "url": "https://api.github.com/repos/Querijn/BottyMcBotface",
+  "languages_url": "https://api.github.com/repos/Querijn/BottyMcBotface/languages",
+  "pulls_url": "https://api.github.com/repos/Querijn/BottyMcBotface/pulls{/number}",
+  "created_at": "2017-08-04T06:47:34Z",
+  "updated_at": "2018-08-16T07:11:27Z",
+  "pushed_at": "2018-09-03T15:28:34Z",
+  "homepage": null,
+  "size": 465,
+  "stargazers_count": 11,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Sir-Kam": 1,
+    "SKarajic": 1,
+    "s-coimbra21": 1,
+    "petter-kaspersen": 2,
+    "WxWatch": 2,
+    "TiFu": 7,
+    "molenzwiebel": 12,
+    "Derpthemeus": 22,
+    "stelar7": 115,
+    "Querijn": 234
+  },
+  "pulls_authors": [
+    "stelar7",
+    "molenzwiebel",
+    "Derpthemeus",
+    "s-coimbra21",
+    "Querijn",
+    "TiFu",
+    "petter-kaspersen",
+    "Sir-Kam",
+    "SKarajic",
+    "WxWatch",
+    "Draycia"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 141365,
+      "color": "#2b7489"
+    }
+  },
+  "fetched_at": "2018-09-12T07:39:49.341Z"
+}

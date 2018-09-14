@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "blasphemy",
+  "full_name": "tomash/blasphemy",
+  "owner": "tomash",
+  "private": false,
+  "html_url": "https://github.com/tomash/blasphemy",
+  "description": "a different Lorem Ipsum generator",
+  "fork": false,
+  "url": "https://api.github.com/repos/tomash/blasphemy",
+  "languages_url": "https://api.github.com/repos/tomash/blasphemy/languages",
+  "pulls_url": "https://api.github.com/repos/tomash/blasphemy/pulls{/number}",
+  "created_at": "2010-10-29T18:14:49Z",
+  "updated_at": "2014-09-10T20:52:40Z",
+  "pushed_at": "2011-10-15T19:21:13Z",
+  "homepage": "",
+  "size": 131,
+  "stargazers_count": 15,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "lukaszkorecki": 1,
+    "krzyzak": 3,
+    "tomash": 15
+  },
+  "pulls_authors": [
+    "krzyzak",
+    "lukaszkorecki"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 7126,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T16:53:08.961Z"
+}

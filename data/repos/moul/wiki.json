@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wiki",
+  "full_name": "moul/wiki",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/wiki",
+  "description": ":v: life wiki",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/wiki",
+  "languages_url": "https://api.github.com/repos/moul/wiki/languages",
+  "pulls_url": "https://api.github.com/repos/moul/wiki/pulls{/number}",
+  "created_at": "2018-03-05T23:41:26Z",
+  "updated_at": "2018-08-13T09:45:52Z",
+  "pushed_at": "2018-06-15T12:16:54Z",
+  "homepage": null,
+  "size": 20,
+  "stargazers_count": 4,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "dcharbonnier": 1,
+    "laurentnguyen": 1,
+    "astaluego": 2,
+    "moul": 8,
+    "theotop": 9
+  },
+  "pulls_authors": [
+    "astaluego",
+    "dcharbonnier",
+    "theotop",
+    "laurentnguyen"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-05T13:06:41.689Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "html5ToDo",
+  "full_name": "ccallebs/html5ToDo",
+  "owner": "ccallebs",
+  "private": false,
+  "html_url": "https://github.com/ccallebs/html5ToDo",
+  "description": "A simple HTML5 to-do list using localStorage.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ccallebs/html5ToDo",
+  "languages_url": "https://api.github.com/repos/ccallebs/html5ToDo/languages",
+  "pulls_url": "https://api.github.com/repos/ccallebs/html5ToDo/pulls{/number}",
+  "created_at": "2011-10-14T04:05:27Z",
+  "updated_at": "2014-04-29T19:46:26Z",
+  "pushed_at": "2011-10-14T04:06:32Z",
+  "homepage": "",
+  "size": 96,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ccallebs": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 17413,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:06.489Z"
+}

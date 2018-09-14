@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "CMD-S",
+  "full_name": "PaulAdamDavis/CMD-S",
+  "owner": "PaulAdamDavis",
+  "private": false,
+  "html_url": "https://github.com/PaulAdamDavis/CMD-S",
+  "description": "A simple save plugin for WordPress",
+  "fork": false,
+  "url": "https://api.github.com/repos/PaulAdamDavis/CMD-S",
+  "languages_url": "https://api.github.com/repos/PaulAdamDavis/CMD-S/languages",
+  "pulls_url": "https://api.github.com/repos/PaulAdamDavis/CMD-S/pulls{/number}",
+  "created_at": "2012-04-15T21:30:29Z",
+  "updated_at": "2013-11-11T16:53:36Z",
+  "pushed_at": "2013-11-11T16:53:35Z",
+  "homepage": null,
+  "size": 129,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jbrooksuk": 2,
+    "PaulAdamDavis": 5
+  },
+  "pulls_authors": [
+    "jbrooksuk"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 4371,
+      "color": "#f1e05a"
+    },
+    "PHP": {
+      "bytes": 489,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:59.966Z"
+}

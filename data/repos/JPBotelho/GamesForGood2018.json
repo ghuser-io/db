@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "GamesForGood2018",
+  "full_name": "JPBotelho/GamesForGood2018",
+  "owner": "JPBotelho",
+  "private": false,
+  "html_url": "https://github.com/JPBotelho/GamesForGood2018",
+  "description": "Official source-code repository for our 2018 entry to GamesForGood",
+  "fork": false,
+  "url": "https://api.github.com/repos/JPBotelho/GamesForGood2018",
+  "languages_url": "https://api.github.com/repos/JPBotelho/GamesForGood2018/languages",
+  "pulls_url": "https://api.github.com/repos/JPBotelho/GamesForGood2018/pulls{/number}",
+  "created_at": "2018-04-13T19:13:23Z",
+  "updated_at": "2018-05-04T12:35:15Z",
+  "pushed_at": "2018-05-04T12:35:13Z",
+  "homepage": null,
+  "size": 5537,
+  "stargazers_count": 2,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Ricardo-Cacheira": 3,
+    "puddingfighter": 7,
+    "Thalefeather": 19,
+    "JPBotelho": 59
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 106780,
+      "color": "#178600"
+    },
+    "ShaderLab": {
+      "bytes": 18190,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-08-17T14:57:55.554Z"
+}

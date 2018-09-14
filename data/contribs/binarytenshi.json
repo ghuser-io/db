@@ -1,0 +1,138 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "iwanbolzern/shoot-insights": {
+      "full_name": "iwanbolzern/shoot-insights",
+      "name": "shoot-insights",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 37.93103448275862,
+      "maturity": 0,
+      "total_commits_count": 29,
+      "activity": 1.314737697983471,
+      "total_score": 1.314737697983471,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "BinaryTENSHi/PS-EzPath": {
+      "full_name": "BinaryTENSHi/PS-EzPath",
+      "name": "PS-EzPath",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 6,
+      "activity": 0.7914051500319887,
+      "total_score": 0.7914051500319887,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "table-six/footos-web": {
+      "full_name": "table-six/footos-web",
+      "name": "footos-web",
+      "stargazers_count": 3,
+      "popularity": 1.3222565221025262,
+      "percentage": 57.89473684210526,
+      "maturity": 0,
+      "total_commits_count": 19,
+      "activity": 0.768263473371082,
+      "total_score": 14.686753179713461,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "BinaryTENSHi/async-test": {
+      "full_name": "BinaryTENSHi/async-test",
+      "name": "async-test",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 33,
+      "activity": 0.7415600362178427,
+      "total_score": 0.7415600362178427,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "TedMANNERs/PandjedFortissimo": {
+      "full_name": "TedMANNERs/PandjedFortissimo",
+      "name": "PandjedFortissimo",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 47.36842105263158,
+      "maturity": 0,
+      "total_commits_count": 19,
+      "activity": 0.6369273771123547,
+      "total_score": 0.6369273771123547,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "BinaryTENSHi/spyfall-bot": {
+      "full_name": "BinaryTENSHi/spyfall-bot",
+      "name": "spyfall-bot",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 11,
+      "activity": 0.5854851779272607,
+      "total_score": 0.5854851779272607,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "maxpowa/jpv-website": {
+      "full_name": "maxpowa/jpv-website",
+      "name": "jpv-website",
+      "stargazers_count": 10,
+      "popularity": 1.9590800514478444,
+      "percentage": 2.6217228464419478,
+      "maturity": 3.3579526897939087,
+      "total_commits_count": 267,
+      "activity": 0.6779933789418422,
+      "total_score": 13.938840353628827,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "BinaryTENSHi/KongouFileMover": {
+      "full_name": "BinaryTENSHi/KongouFileMover",
+      "name": "KongouFileMover",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 2.4014031362418624,
+      "total_commits_count": 65,
+      "activity": 0.4033407654454324,
+      "total_score": 5.206147037929157,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "BinaryTENSHi/NoPassing": {
+      "full_name": "BinaryTENSHi/NoPassing",
+      "name": "NoPassing",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 28,
+      "activity": 0.3512830296393208,
+      "total_score": 0.3512830296393208,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "BinaryTENSHi/MangaEden": {
+      "full_name": "BinaryTENSHi/MangaEden",
+      "name": "MangaEden",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 1.7870377452764827,
+      "total_commits_count": 46,
+      "activity": 0.3374189080662555,
+      "total_score": 3.911494398619221,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "table-six"
+  ]
+}

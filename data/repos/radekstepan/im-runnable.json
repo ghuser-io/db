@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "im-runnable",
+  "full_name": "radekstepan/im-runnable",
+  "owner": "radekstepan",
+  "private": false,
+  "html_url": "https://github.com/radekstepan/im-runnable",
+  "description": "Learn you some InterMine Web Services for good",
+  "fork": false,
+  "url": "https://api.github.com/repos/radekstepan/im-runnable",
+  "languages_url": "https://api.github.com/repos/radekstepan/im-runnable/languages",
+  "pulls_url": "https://api.github.com/repos/radekstepan/im-runnable/pulls{/number}",
+  "created_at": "2014-02-14T12:57:44Z",
+  "updated_at": "2014-11-13T07:12:24Z",
+  "pushed_at": "2014-02-28T12:29:20Z",
+  "homepage": "",
+  "size": 1116,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "radekstepan": 53
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1218999,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 199332,
+      "color": "#563d7c"
+    },
+    "CoffeeScript": {
+      "bytes": 23694,
+      "color": "#244776"
+    },
+    "Shell": {
+      "bytes": 462,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T13:50:56.685Z"
+}

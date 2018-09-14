@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "locals-faucetserver",
+  "full_name": "sponnet/locals-faucetserver",
+  "owner": "sponnet",
+  "private": false,
+  "html_url": "https://github.com/sponnet/locals-faucetserver",
+  "description": "a (testnet) Ether faucet with a React frontend and a REST API",
+  "fork": false,
+  "url": "https://api.github.com/repos/sponnet/locals-faucetserver",
+  "languages_url": "https://api.github.com/repos/sponnet/locals-faucetserver/languages",
+  "pulls_url": "https://api.github.com/repos/sponnet/locals-faucetserver/pulls{/number}",
+  "created_at": "2016-04-21T08:47:29Z",
+  "updated_at": "2018-09-13T03:52:55Z",
+  "pushed_at": "2018-09-06T13:28:22Z",
+  "homepage": "",
+  "size": 10424,
+  "stargazers_count": 63,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "kimmyeonghun": 1,
+    "mkg20001": 1,
+    "bennisan": 2,
+    "sponnet": 74
+  },
+  "pulls_authors": [
+    "sponnet",
+    "kimmyeonghun",
+    "mkg20001"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 28679,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1604,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1384,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:25.208Z"
+}

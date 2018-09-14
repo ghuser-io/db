@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nodejs-mysql-native",
+  "full_name": "sidorares/nodejs-mysql-native",
+  "owner": "sidorares",
+  "private": false,
+  "html_url": "https://github.com/sidorares/nodejs-mysql-native",
+  "description": "Native mysql async client for node.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/sidorares/nodejs-mysql-native",
+  "languages_url": "https://api.github.com/repos/sidorares/nodejs-mysql-native/languages",
+  "pulls_url": "https://api.github.com/repos/sidorares/nodejs-mysql-native/pulls{/number}",
+  "created_at": "2010-02-15T14:44:45Z",
+  "updated_at": "2018-09-10T14:40:22Z",
+  "pushed_at": "2018-05-17T09:55:33Z",
+  "homepage": "",
+  "size": 210,
+  "stargazers_count": 231,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bitdeli-chef": 1,
+    "wshager": 1,
+    "Sannis": 1,
+    "sblackstone": 1,
+    "andrewschaaf": 1,
+    "bjyoungblood": 1,
+    "Pita": 1,
+    "zefhemel": 1,
+    "ngs": 2,
+    "piscisaureus": 3,
+    "chrisdew": 7,
+    "sidorares": 125
+  },
+  "pulls_authors": [
+    "greenkeeper[bot]",
+    "bitdeli-chef",
+    "noamw",
+    "chrisdew",
+    "ghost",
+    "bobchennan",
+    "wshager",
+    "Sannis",
+    "sblackstone",
+    "GunioRobot",
+    "andrewschaaf",
+    "bjyoungblood",
+    "dstarke",
+    "Pita",
+    "ngs",
+    "Sebmaster",
+    "sdepold"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 93792,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:39.749Z"
+}

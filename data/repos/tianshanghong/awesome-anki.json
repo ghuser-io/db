@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "awesome-anki",
+  "full_name": "tianshanghong/awesome-anki",
+  "owner": "tianshanghong",
+  "private": false,
+  "html_url": "https://github.com/tianshanghong/awesome-anki",
+  "description": "A curated list of awesome Anki add-ons, decks and resources",
+  "fork": false,
+  "url": "https://api.github.com/repos/tianshanghong/awesome-anki",
+  "languages_url": "https://api.github.com/repos/tianshanghong/awesome-anki/languages",
+  "created_at": "2018-03-22T14:36:02Z",
+  "updated_at": "2018-09-11T04:16:54Z",
+  "pushed_at": "2018-07-17T00:27:00Z",
+  "homepage": "",
+  "size": 24,
+  "stargazers_count": 44,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "c-okelly": 1,
+    "breizoreol": 1,
+    "AurelienLourot": 9,
+    "tianshanghong": 13
+  },
+  "languages": {},
+  "fetched_at": "2018-09-11T10:32:53.763Z",
+  "settings": {
+    "_comment": "Repo metadata for ghuser.io. See https://github.com/AurelienLourot/ghuser.io/blob/master/docs/repo-settings.md",
+    "avatar_url": "https://rawgit.com/tianshanghong/awesome-anki/master/thirdparty/logo.png"
+  },
+  "pulls_url": "https://api.github.com/repos/tianshanghong/awesome-anki/pulls{/number}",
+  "pulls_authors": [
+    "AurelienLourot",
+    "c-okelly",
+    "breizoreol"
+  ]
+}

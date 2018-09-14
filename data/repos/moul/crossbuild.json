@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "crossbuild",
+  "full_name": "moul/crossbuild",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/crossbuild",
+  "description": ":earth_africa: multiarch cross compiling environments",
+  "fork": true,
+  "url": "https://api.github.com/repos/moul/crossbuild",
+  "languages_url": "https://api.github.com/repos/moul/crossbuild/languages",
+  "pulls_url": "https://api.github.com/repos/moul/crossbuild/pulls{/number}",
+  "created_at": "2015-12-15T19:11:30Z",
+  "updated_at": "2015-12-16T07:03:18Z",
+  "pushed_at": "2015-12-15T18:09:35Z",
+  "homepage": null,
+  "size": 25813,
+  "stargazers_count": 1,
+  "language": "Makefile",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "QuentinPerez": 2,
+    "moul": 35
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Makefile": {
+      "bytes": 2019,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 1484,
+      "color": "#89e051"
+    },
+    "C": {
+      "bytes": 120,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:55.214Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "LiTour",
+  "full_name": "mzfr/LiTour",
+  "owner": "mzfr",
+  "private": false,
+  "html_url": "https://github.com/mzfr/LiTour",
+  "description": "Lichess  + Tournaments = LiTour",
+  "fork": false,
+  "url": "https://api.github.com/repos/mzfr/LiTour",
+  "languages_url": "https://api.github.com/repos/mzfr/LiTour/languages",
+  "pulls_url": "https://api.github.com/repos/mzfr/LiTour/pulls{/number}",
+  "created_at": "2018-06-02T17:14:56Z",
+  "updated_at": "2018-07-14T09:13:25Z",
+  "pushed_at": "2018-07-14T09:13:24Z",
+  "homepage": null,
+  "size": 308,
+  "stargazers_count": 7,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mzfr": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 6146,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-02T14:34:52.714Z"
+}

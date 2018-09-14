@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "IntroToWebGLWithThreeJS",
+  "full_name": "alexmackey/IntroToWebGLWithThreeJS",
+  "owner": "alexmackey",
+  "private": false,
+  "html_url": "https://github.com/alexmackey/IntroToWebGLWithThreeJS",
+  "description": "Intro to WebGL with three.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/alexmackey/IntroToWebGLWithThreeJS",
+  "languages_url": "https://api.github.com/repos/alexmackey/IntroToWebGLWithThreeJS/languages",
+  "pulls_url": "https://api.github.com/repos/alexmackey/IntroToWebGLWithThreeJS/pulls{/number}",
+  "created_at": "2014-05-09T23:11:45Z",
+  "updated_at": "2018-08-10T00:10:40Z",
+  "pushed_at": "2017-01-28T21:28:43Z",
+  "homepage": null,
+  "size": 3086,
+  "stargazers_count": 127,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "forivall": 1,
+    "z3t0": 1,
+    "vipyne": 1,
+    "lucasaug": 1,
+    "sidorares": 1,
+    "alexmackey": 6
+  },
+  "pulls_authors": [
+    "forivall",
+    "z3t0",
+    "vipyne",
+    "lucasaug",
+    "sidorares"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2540442,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 884,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:37.564Z"
+}

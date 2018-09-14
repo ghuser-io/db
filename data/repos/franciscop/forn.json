@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "forn",
+  "full_name": "franciscop/forn",
+  "owner": "franciscop",
+  "private": false,
+  "html_url": "https://github.com/franciscop/forn",
+  "description": "Handle forms easily",
+  "fork": false,
+  "url": "https://api.github.com/repos/franciscop/forn",
+  "languages_url": "https://api.github.com/repos/franciscop/forn/languages",
+  "pulls_url": "https://api.github.com/repos/franciscop/forn/pulls{/number}",
+  "created_at": "2018-04-04T06:17:54Z",
+  "updated_at": "2018-04-04T12:49:03Z",
+  "pushed_at": "2018-04-04T06:43:22Z",
+  "homepage": null,
+  "size": 42,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "franciscop": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 314,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T00:04:57.290Z"
+}

@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "urlshortner",
+  "full_name": "ankitjain28may/urlshortner",
+  "owner": "ankitjain28may",
+  "private": false,
+  "html_url": "https://github.com/ankitjain28may/urlshortner",
+  "description": "For shorting big URLs",
+  "fork": false,
+  "url": "https://api.github.com/repos/ankitjain28may/urlshortner",
+  "languages_url": "https://api.github.com/repos/ankitjain28may/urlshortner/languages",
+  "created_at": "2016-07-13T05:42:36Z",
+  "updated_at": "2017-10-28T18:02:34Z",
+  "pushed_at": "2017-11-17T19:39:05Z",
+  "homepage": "http://shurl.esy.es",
+  "size": 594,
+  "stargazers_count": 5,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mitasamanta": 1,
+    "ankitjain28may": 12
+  },
+  "languages": {
+    "CSS": {
+      "bytes": 149568,
+      "color": "#563d7c"
+    },
+    "PHP": {
+      "bytes": 5417,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 1061,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/ankitjain28may/urlshortner/pulls{/number}",
+  "pulls_authors": [
+    "virendrasingal",
+    "rohitkrai03",
+    "mitasamanta",
+    "marcosstefani",
+    "danidee10",
+    "Xenus-Ghost",
+    "soumyaa01",
+    "arjohnston"
+  ]
+}

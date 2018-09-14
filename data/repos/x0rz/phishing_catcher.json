@@ -1,0 +1,62 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "phishing_catcher",
+  "full_name": "x0rz/phishing_catcher",
+  "owner": "x0rz",
+  "private": false,
+  "html_url": "https://github.com/x0rz/phishing_catcher",
+  "description": "Phishing catcher using Certstream",
+  "fork": false,
+  "url": "https://api.github.com/repos/x0rz/phishing_catcher",
+  "languages_url": "https://api.github.com/repos/x0rz/phishing_catcher/languages",
+  "pulls_url": "https://api.github.com/repos/x0rz/phishing_catcher/pulls{/number}",
+  "created_at": "2017-11-07T10:16:41Z",
+  "updated_at": "2018-09-13T10:51:13Z",
+  "pushed_at": "2018-09-07T11:08:17Z",
+  "homepage": "https://blog.0day.rocks/catching-phishing-using-certstream-97177f0d499a",
+  "size": 56,
+  "stargazers_count": 663,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "neonknight": 1,
+    "Red5d": 1,
+    "yashar8": 1,
+    "Ge0": 8,
+    "x0rz": 17,
+    "GossiTheDog": 1,
+    "thehappydinoa": 1
+  },
+  "pulls_authors": [
+    "neonknight",
+    "wikijm",
+    "thehappydinoa",
+    "caffeinewriter",
+    "nheijmans",
+    "supriyo-biswas",
+    "hmilkovi",
+    "yashar8",
+    "zachweed",
+    "Ge0",
+    "Ekultek",
+    "Red5d",
+    "GossiTheDog",
+    "x0rz"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 48371,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-13T17:03:48.102Z"
+}

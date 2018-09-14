@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "youtube-subs-grid",
+  "full_name": "CodeNinjaUK/youtube-subs-grid",
+  "owner": "CodeNinjaUK",
+  "private": false,
+  "html_url": "https://github.com/CodeNinjaUK/youtube-subs-grid",
+  "description": "A browser extension to fix Youtube's broken subscription feed page.",
+  "fork": false,
+  "url": "https://api.github.com/repos/CodeNinjaUK/youtube-subs-grid",
+  "languages_url": "https://api.github.com/repos/CodeNinjaUK/youtube-subs-grid/languages",
+  "pulls_url": "https://api.github.com/repos/CodeNinjaUK/youtube-subs-grid/pulls{/number}",
+  "created_at": "2013-08-16T08:59:55Z",
+  "updated_at": "2018-07-21T23:29:10Z",
+  "pushed_at": "2016-07-15T09:23:25Z",
+  "homepage": null,
+  "size": 4297,
+  "stargazers_count": 50,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "CodeNinjaUK",
+    "id": 3582720,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM1ODI3MjA=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/3582720?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/CodeNinjaUK",
+    "html_url": "https://github.com/CodeNinjaUK",
+    "followers_url": "https://api.github.com/users/CodeNinjaUK/followers",
+    "following_url": "https://api.github.com/users/CodeNinjaUK/following{/other_user}",
+    "gists_url": "https://api.github.com/users/CodeNinjaUK/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/CodeNinjaUK/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/CodeNinjaUK/subscriptions",
+    "organizations_url": "https://api.github.com/users/CodeNinjaUK/orgs",
+    "repos_url": "https://api.github.com/users/CodeNinjaUK/repos",
+    "events_url": "https://api.github.com/users/CodeNinjaUK/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/CodeNinjaUK/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "DanSmith70": 115
+  },
+  "pulls_authors": [
+    "yannbertrand"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 30330,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 9144,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 5472,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T20:46:04.045Z"
+}

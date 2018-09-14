@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "geogotchi",
+  "full_name": "NarrativeTeam/geogotchi",
+  "owner": "NarrativeTeam",
+  "private": false,
+  "html_url": "https://github.com/NarrativeTeam/geogotchi",
+  "description": "Python library for working with geonames.org services",
+  "fork": false,
+  "url": "https://api.github.com/repos/NarrativeTeam/geogotchi",
+  "languages_url": "https://api.github.com/repos/NarrativeTeam/geogotchi/languages",
+  "pulls_url": "https://api.github.com/repos/NarrativeTeam/geogotchi/pulls{/number}",
+  "created_at": "2012-05-15T19:25:28Z",
+  "updated_at": "2013-10-06T11:59:14Z",
+  "pushed_at": "2016-09-08T04:01:17Z",
+  "homepage": "http://geogotchi.readthedocs.org/",
+  "size": 168,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "NarrativeTeam",
+    "id": 1510624,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1MTA2MjQ=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1510624?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/NarrativeTeam",
+    "html_url": "https://github.com/NarrativeTeam",
+    "followers_url": "https://api.github.com/users/NarrativeTeam/followers",
+    "following_url": "https://api.github.com/users/NarrativeTeam/following{/other_user}",
+    "gists_url": "https://api.github.com/users/NarrativeTeam/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/NarrativeTeam/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/NarrativeTeam/subscriptions",
+    "organizations_url": "https://api.github.com/users/NarrativeTeam/orgs",
+    "repos_url": "https://api.github.com/users/NarrativeTeam/repos",
+    "events_url": "https://api.github.com/users/NarrativeTeam/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/NarrativeTeam/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "pilt": 20
+  },
+  "pulls_authors": [
+    "jayvdb",
+    "cathalgarvey"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 29049,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

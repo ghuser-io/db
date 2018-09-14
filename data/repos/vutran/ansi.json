@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ansi",
+  "full_name": "vutran/ansi",
+  "owner": "vutran",
+  "private": false,
+  "html_url": "https://github.com/vutran/ansi",
+  "description": "ANSI utilities for Go (golang)",
+  "fork": false,
+  "url": "https://api.github.com/repos/vutran/ansi",
+  "languages_url": "https://api.github.com/repos/vutran/ansi/languages",
+  "pulls_url": "https://api.github.com/repos/vutran/ansi/pulls{/number}",
+  "created_at": "2017-09-28T23:53:55Z",
+  "updated_at": "2017-12-22T09:35:43Z",
+  "pushed_at": "2017-10-09T00:57:12Z",
+  "homepage": "https://godoc.org/github.com/vutran/ansi",
+  "size": 69,
+  "stargazers_count": 8,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "xyclos": 1,
+    "vutran": 15
+  },
+  "pulls_authors": [
+    "xyclos"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 16258,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-10T21:40:20.042Z"
+}

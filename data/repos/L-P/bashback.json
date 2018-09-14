@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bashback",
+  "full_name": "L-P/bashback",
+  "owner": "L-P",
+  "private": false,
+  "html_url": "https://github.com/L-P/bashback",
+  "description": "Bash functions for backup scripts.",
+  "fork": false,
+  "url": "https://api.github.com/repos/L-P/bashback",
+  "languages_url": "https://api.github.com/repos/L-P/bashback/languages",
+  "pulls_url": "https://api.github.com/repos/L-P/bashback/pulls{/number}",
+  "created_at": "2013-11-15T16:11:47Z",
+  "updated_at": "2016-09-14T23:07:12Z",
+  "pushed_at": "2016-06-22T14:02:23Z",
+  "homepage": null,
+  "size": 6,
+  "stargazers_count": 1,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-2-clause",
+    "name": "BSD 2-Clause \"Simplified\" License",
+    "spdx_id": "BSD-2-Clause",
+    "url": "https://api.github.com/licenses/bsd-2-clause",
+    "node_id": "MDc6TGljZW5zZTQ="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "L-P": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 4187,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T23:08:00.456Z"
+}

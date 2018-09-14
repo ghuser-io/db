@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ES2014B",
+  "full_name": "eloipuertas/ES2014B",
+  "owner": "eloipuertas",
+  "private": false,
+  "html_url": "https://github.com/eloipuertas/ES2014B",
+  "description": "Universitat de Barcelona Software Engineering Class B VideoGame Project",
+  "fork": false,
+  "url": "https://api.github.com/repos/eloipuertas/ES2014B",
+  "languages_url": "https://api.github.com/repos/eloipuertas/ES2014B/languages",
+  "pulls_url": "https://api.github.com/repos/eloipuertas/ES2014B/pulls{/number}",
+  "created_at": "2014-09-17T09:08:10Z",
+  "updated_at": "2016-10-15T14:12:24Z",
+  "pushed_at": "2014-12-17T15:24:19Z",
+  "homepage": null,
+  "size": 892110,
+  "stargazers_count": 9,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Payetus": 2,
+    "eloipuertas": 2,
+    "Demenus": 5,
+    "aniskhoury": 14,
+    "pherrusa7": 25,
+    "Roka0006": 25,
+    "sbarrera": 35,
+    "MCardus": 42,
+    "CristhianCarmona": 44,
+    "Mithrandir0x": 47,
+    "JordiRQ": 50,
+    "Folch": 60,
+    "voriol": 62,
+    "xaviml": 77,
+    "xavierfebrer": 118
+  },
+  "pulls_authors": [
+    "Demenus",
+    "xinsen"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 208126,
+      "color": "#555555"
+    },
+    "C#": {
+      "bytes": 119576,
+      "color": "#178600"
+    },
+    "ASP": {
+      "bytes": 118649,
+      "color": "#6a40fd"
+    },
+    "JavaScript": {
+      "bytes": 47752,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:37:20.412Z"
+}

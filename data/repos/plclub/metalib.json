@@ -1,0 +1,102 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "metalib",
+  "full_name": "plclub/metalib",
+  "owner": "plclub",
+  "private": false,
+  "html_url": "https://github.com/plclub/metalib",
+  "description": "The Penn Locally Nameless Metatheory Library",
+  "fork": false,
+  "url": "https://api.github.com/repos/plclub/metalib",
+  "languages_url": "https://api.github.com/repos/plclub/metalib/languages",
+  "pulls_url": "https://api.github.com/repos/plclub/metalib/pulls{/number}",
+  "created_at": "2013-04-10T16:49:03Z",
+  "updated_at": "2018-09-11T12:47:44Z",
+  "pushed_at": "2018-09-11T12:47:42Z",
+  "homepage": null,
+  "size": 2968,
+  "stargazers_count": 31,
+  "language": "Coq",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "plclub",
+    "id": 4117335,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQxMTczMzU=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/4117335?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/plclub",
+    "html_url": "https://github.com/plclub",
+    "followers_url": "https://api.github.com/users/plclub/followers",
+    "following_url": "https://api.github.com/users/plclub/following{/other_user}",
+    "gists_url": "https://api.github.com/users/plclub/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/plclub/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/plclub/subscriptions",
+    "organizations_url": "https://api.github.com/users/plclub/orgs",
+    "repos_url": "https://api.github.com/users/plclub/repos",
+    "events_url": "https://api.github.com/users/plclub/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/plclub/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "spl": 1,
+    "nomeata": 1,
+    "sstrickl": 1,
+    "antalsz": 2,
+    "liyishuai": 3,
+    "lastland": 5,
+    "toineo": 7,
+    "sweirich": 68,
+    "HuStmpHrrr": 1
+  },
+  "pulls_authors": [
+    "Zdancewic",
+    "spl",
+    "antalsz",
+    "lastland",
+    "liyishuai",
+    "nomeata",
+    "sstrickl",
+    "HuStmpHrrr"
+  ],
+  "languages": {
+    "Coq": {
+      "bytes": 736278,
+      "color": "#ccc"
+    },
+    "TeX": {
+      "bytes": 19676,
+      "color": "#3D6117"
+    },
+    "Makefile": {
+      "bytes": 16664,
+      "color": "#427819"
+    },
+    "OCaml": {
+      "bytes": 14092,
+      "color": "#3be133"
+    },
+    "Python": {
+      "bytes": 2190,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 1332,
+      "color": "#563d7c"
+    },
+    "Dockerfile": {
+      "bytes": 326,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-11T13:49:39.204Z"
+}

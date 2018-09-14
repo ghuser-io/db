@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "win-butler",
+  "full_name": "dufferzafar/win-butler",
+  "owner": "dufferzafar",
+  "private": false,
+  "html_url": "https://github.com/dufferzafar/win-butler",
+  "description": "An Autohotkey script to help me live my life.",
+  "fork": false,
+  "url": "https://api.github.com/repos/dufferzafar/win-butler",
+  "languages_url": "https://api.github.com/repos/dufferzafar/win-butler/languages",
+  "pulls_url": "https://api.github.com/repos/dufferzafar/win-butler/pulls{/number}",
+  "created_at": "2013-09-24T14:49:03Z",
+  "updated_at": "2018-08-28T19:07:19Z",
+  "pushed_at": "2014-12-01T20:35:38Z",
+  "homepage": "http://dufferzafar.github.io/win-butler/",
+  "size": 3738,
+  "stargazers_count": 4,
+  "language": "AutoHotkey",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bitdeli-chef": 1,
+    "dufferzafar": 100
+  },
+  "pulls_authors": [
+    "bitdeli-chef"
+  ],
+  "languages": {
+    "AutoHotkey": {
+      "bytes": 213807,
+      "color": "#6594b9"
+    }
+  },
+  "fetched_at": "2018-09-03T12:57:04.293Z"
+}

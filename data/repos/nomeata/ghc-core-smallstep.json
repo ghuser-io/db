@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ghc-core-smallstep",
+  "full_name": "nomeata/ghc-core-smallstep",
+  "owner": "nomeata",
+  "private": false,
+  "html_url": "https://github.com/nomeata/ghc-core-smallstep",
+  "description": "A small-step semantics for Core",
+  "fork": false,
+  "url": "https://api.github.com/repos/nomeata/ghc-core-smallstep",
+  "languages_url": "https://api.github.com/repos/nomeata/ghc-core-smallstep/languages",
+  "pulls_url": "https://api.github.com/repos/nomeata/ghc-core-smallstep/pulls{/number}",
+  "created_at": "2017-04-13T21:01:40Z",
+  "updated_at": "2018-05-29T16:11:14Z",
+  "pushed_at": "2018-04-10T21:42:39Z",
+  "homepage": null,
+  "size": 15,
+  "stargazers_count": 9,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "nomeata": 13
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Haskell": {
+      "bytes": 15550,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:04.375Z"
+}

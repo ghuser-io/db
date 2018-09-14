@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "python-remote-companies",
+  "full_name": "dufferzafar/python-remote-companies",
+  "owner": "dufferzafar",
+  "private": false,
+  "html_url": "https://github.com/dufferzafar/python-remote-companies",
+  "description": "A list of companies that allow remote work and use Python.",
+  "fork": true,
+  "url": "https://api.github.com/repos/dufferzafar/python-remote-companies",
+  "languages_url": "https://api.github.com/repos/dufferzafar/python-remote-companies/languages",
+  "pulls_url": "https://api.github.com/repos/dufferzafar/python-remote-companies/pulls{/number}",
+  "created_at": "2016-09-05T09:04:05Z",
+  "updated_at": "2018-03-09T18:03:54Z",
+  "pushed_at": "2016-09-05T09:04:29Z",
+  "homepage": "",
+  "size": 9,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "adamhammes": 1,
+    "mariusavram91": 17
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-03T12:57:07.227Z"
+}

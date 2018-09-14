@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "MCAPI-PHP",
+  "full_name": "jbrooksuk/MCAPI-PHP",
+  "owner": "jbrooksuk",
+  "private": false,
+  "html_url": "https://github.com/jbrooksuk/MCAPI-PHP",
+  "description": "[DEPRECATED] MailChimp API Class for PHP",
+  "fork": false,
+  "url": "https://api.github.com/repos/jbrooksuk/MCAPI-PHP",
+  "languages_url": "https://api.github.com/repos/jbrooksuk/MCAPI-PHP/languages",
+  "pulls_url": "https://api.github.com/repos/jbrooksuk/MCAPI-PHP/pulls{/number}",
+  "created_at": "2013-02-22T17:17:39Z",
+  "updated_at": "2018-08-03T07:54:16Z",
+  "pushed_at": "2016-10-10T22:02:38Z",
+  "homepage": "",
+  "size": 51,
+  "stargazers_count": 8,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": true,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jbrooksuk": 7
+  },
+  "pulls_authors": [
+    "cheesegrits",
+    "mseshachalam"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 173282,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:47.045Z"
+}

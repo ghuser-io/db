@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ionicons",
+  "full_name": "kdaoudieh/ionicons",
+  "owner": "kdaoudieh",
+  "private": false,
+  "html_url": "https://github.com/kdaoudieh/ionicons",
+  "description": "The premium icon font for Ionic",
+  "fork": true,
+  "url": "https://api.github.com/repos/kdaoudieh/ionicons",
+  "languages_url": "https://api.github.com/repos/kdaoudieh/ionicons/languages",
+  "pulls_url": "https://api.github.com/repos/kdaoudieh/ionicons/pulls{/number}",
+  "created_at": "2016-09-05T12:30:14Z",
+  "updated_at": "2016-09-05T12:30:18Z",
+  "pushed_at": "2016-08-26T09:35:56Z",
+  "homepage": "http://ionicons.com/",
+  "size": 21758,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "fjaguero": 1,
+    "ReadmeCritic": 1,
+    "rionmonster": 1,
+    "lancehudson": 1,
+    "2metres": 1,
+    "gdi2290": 1,
+    "yuanyan": 1,
+    "killercup": 1,
+    "ianstormtaylor": 2,
+    "mlynch": 12,
+    "adamdbradley": 20,
+    "bensperry": 36
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 1281583,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 296332,
+      "color": "#563d7c"
+    },
+    "Python": {
+      "bytes": 32324,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-10T21:35:53.793Z"
+}

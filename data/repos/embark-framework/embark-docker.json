@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "embark-docker",
+  "full_name": "embark-framework/embark-docker",
+  "owner": "embark-framework",
+  "private": false,
+  "html_url": "https://github.com/embark-framework/embark-docker",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/embark-framework/embark-docker",
+  "languages_url": "https://api.github.com/repos/embark-framework/embark-docker/languages",
+  "pulls_url": "https://api.github.com/repos/embark-framework/embark-docker/pulls{/number}",
+  "created_at": "2018-07-04T20:50:19Z",
+  "updated_at": "2018-08-24T17:47:27Z",
+  "pushed_at": "2018-09-10T16:15:56Z",
+  "homepage": null,
+  "size": 98,
+  "stargazers_count": 5,
+  "language": "Dockerfile",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "embark-framework",
+    "id": 12584440,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyNTg0NDQw",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/12584440?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/embark-framework",
+    "html_url": "https://github.com/embark-framework",
+    "followers_url": "https://api.github.com/users/embark-framework/followers",
+    "following_url": "https://api.github.com/users/embark-framework/following{/other_user}",
+    "gists_url": "https://api.github.com/users/embark-framework/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/embark-framework/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/embark-framework/subscriptions",
+    "organizations_url": "https://api.github.com/users/embark-framework/orgs",
+    "repos_url": "https://api.github.com/users/embark-framework/repos",
+    "events_url": "https://api.github.com/users/embark-framework/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/embark-framework/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "andremedeiros": 7,
+    "michaelsbradleyjr": 113
+  },
+  "pulls_authors": [
+    "mahim23",
+    "michaelsbradleyjr",
+    "matt9ucci",
+    "andremedeiros"
+  ],
+  "languages": {
+    "Dockerfile": {
+      "bytes": 6256,
+      "color": "#0db7ed"
+    },
+    "Shell": {
+      "bytes": 4645,
+      "color": "#89e051"
+    },
+    "Ruby": {
+      "bytes": 2168,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T10:32:14.183Z"
+}

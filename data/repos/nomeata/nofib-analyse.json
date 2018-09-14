@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nofib-analyse",
+  "full_name": "nomeata/nofib-analyse",
+  "owner": "nomeata",
+  "private": false,
+  "html_url": "https://github.com/nomeata/nofib-analyse",
+  "description": "Parse and compare nofib runs",
+  "fork": false,
+  "url": "https://api.github.com/repos/nomeata/nofib-analyse",
+  "languages_url": "https://api.github.com/repos/nomeata/nofib-analyse/languages",
+  "pulls_url": "https://api.github.com/repos/nomeata/nofib-analyse/pulls{/number}",
+  "created_at": "2015-05-15T12:20:00Z",
+  "updated_at": "2018-05-14T19:29:47Z",
+  "pushed_at": "2018-02-15T16:35:16Z",
+  "homepage": null,
+  "size": 27,
+  "stargazers_count": 2,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "nomeata": 12
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Haskell": {
+      "bytes": 72511,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:05.867Z"
+}

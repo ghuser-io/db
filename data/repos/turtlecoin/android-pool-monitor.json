@@ -1,0 +1,68 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "android-pool-monitor",
+  "full_name": "turtlecoin/android-pool-monitor",
+  "owner": "turtlecoin",
+  "private": false,
+  "html_url": "https://github.com/turtlecoin/android-pool-monitor",
+  "description": "Monitor TurtleCoin Pools on Android",
+  "fork": false,
+  "url": "https://api.github.com/repos/turtlecoin/android-pool-monitor",
+  "languages_url": "https://api.github.com/repos/turtlecoin/android-pool-monitor/languages",
+  "pulls_url": "https://api.github.com/repos/turtlecoin/android-pool-monitor/pulls{/number}",
+  "created_at": "2018-02-12T00:51:19Z",
+  "updated_at": "2018-05-21T23:59:50Z",
+  "pushed_at": "2018-05-21T23:59:48Z",
+  "homepage": "http://community.turtlecoin.lol",
+  "size": 670,
+  "stargazers_count": 3,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-2.1",
+    "name": "GNU Lesser General Public License v2.1",
+    "spdx_id": "LGPL-2.1",
+    "url": "https://api.github.com/licenses/lgpl-2.1",
+    "node_id": "MDc6TGljZW5zZTEx"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "turtlecoin",
+    "id": 34389551,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM0Mzg5NTUx",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/34389551?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/turtlecoin",
+    "html_url": "https://github.com/turtlecoin",
+    "followers_url": "https://api.github.com/users/turtlecoin/followers",
+    "following_url": "https://api.github.com/users/turtlecoin/following{/other_user}",
+    "gists_url": "https://api.github.com/users/turtlecoin/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/turtlecoin/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/turtlecoin/subscriptions",
+    "organizations_url": "https://api.github.com/users/turtlecoin/orgs",
+    "repos_url": "https://api.github.com/users/turtlecoin/repos",
+    "events_url": "https://api.github.com/users/turtlecoin/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/turtlecoin/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Official-ClawS": 1,
+    "mdiersma": 1,
+    "RocksteadyTC": 2,
+    "hjoshi123": 16,
+    "adigupta13": 80
+  },
+  "pulls_authors": [
+    "Official-ClawS",
+    "mdiersma"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 74300,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-11T22:35:55.066Z"
+}

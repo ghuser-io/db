@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Variational-Recurrent-Autoencoder-Tensorflow",
+  "full_name": "superMDguy/Variational-Recurrent-Autoencoder-Tensorflow",
+  "owner": "superMDguy",
+  "private": false,
+  "html_url": "https://github.com/superMDguy/Variational-Recurrent-Autoencoder-Tensorflow",
+  "description": "A tensorflow implementation of \"Generating Sentences from a Continuous Space\"",
+  "fork": true,
+  "url": "https://api.github.com/repos/superMDguy/Variational-Recurrent-Autoencoder-Tensorflow",
+  "languages_url": "https://api.github.com/repos/superMDguy/Variational-Recurrent-Autoencoder-Tensorflow/languages",
+  "pulls_url": "https://api.github.com/repos/superMDguy/Variational-Recurrent-Autoencoder-Tensorflow/pulls{/number}",
+  "created_at": "2017-12-28T15:49:35Z",
+  "updated_at": "2018-01-22T18:17:14Z",
+  "pushed_at": "2018-02-02T18:46:56Z",
+  "homepage": "",
+  "size": 2907,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "chanedwin": 3,
+    "superMDguy": 8,
+    "Chung-I": 48
+  },
+  "pulls_authors": [
+    "superMDguy",
+    "chanedwin"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 95453,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T22:37:07.378Z"
+}

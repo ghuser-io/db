@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "metalsmith-related",
+  "full_name": "radekstepan/metalsmith-related",
+  "owner": "radekstepan",
+  "private": false,
+  "html_url": "https://github.com/radekstepan/metalsmith-related",
+  "description": "A Metalsmith plugin that shows related documents for each document in a collection",
+  "fork": false,
+  "url": "https://api.github.com/repos/radekstepan/metalsmith-related",
+  "languages_url": "https://api.github.com/repos/radekstepan/metalsmith-related/languages",
+  "pulls_url": "https://api.github.com/repos/radekstepan/metalsmith-related/pulls{/number}",
+  "created_at": "2014-12-06T18:58:19Z",
+  "updated_at": "2017-04-18T02:50:13Z",
+  "pushed_at": "2017-04-26T23:03:01Z",
+  "homepage": null,
+  "size": 19,
+  "stargazers_count": 3,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "michel-kraemer": 1,
+    "radekstepan": 14
+  },
+  "pulls_authors": [
+    "snyk-bot",
+    "michel-kraemer"
+  ],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 1242,
+      "color": "#244776"
+    },
+    "JavaScript": {
+      "bytes": 82,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T13:50:55.294Z"
+}

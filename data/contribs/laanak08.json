@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "strap/strapkit_pebble": {
+      "full_name": "strap/strapkit_pebble",
+      "name": "strapkit_pebble",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 99.10714285714286,
+      "maturity": 2.859669179921282,
+      "total_commits_count": 112,
+      "activity": 0.4615458384857183,
+      "total_score": 6.1808841983282825,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "strap/strapkit": {
+      "full_name": "strap/strapkit",
+      "name": "strapkit",
+      "stargazers_count": 52,
+      "popularity": 2.708459912296993,
+      "percentage": 92.7536231884058,
+      "maturity": 2.993403559571943,
+      "total_commits_count": 138,
+      "activity": 0.4615430529826625,
+      "total_score": 47.232261025410246,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "strap/strap_sdk_pebble": {
+      "full_name": "strap/strap_sdk_pebble",
+      "name": "strap_sdk_pebble",
+      "stargazers_count": 19,
+      "popularity": 2.2577174475727126,
+      "percentage": 20,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 0.43304700304837507,
+      "total_score": 13.076264709455565,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "AlienHoboken/divvy": {
+      "full_name": "AlienHoboken/divvy",
+      "name": "divvy",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 18.4,
+      "maturity": 2.931663842435397,
+      "total_commits_count": 125,
+      "activity": 0.3651387372325212,
+      "total_score": 11.843847386731646,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "laanak08/PageRankAndLinkAnalysis": {
+      "full_name": "laanak08/PageRankAndLinkAnalysis",
+      "name": "PageRankAndLinkAnalysis",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 9,
+      "activity": 0.32119321743618645,
+      "total_score": 0.32119321743618645,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "strap"
+  ]
+}

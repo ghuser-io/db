@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "alcuadrado.github.com",
+  "full_name": "alcuadrado/alcuadrado.github.com",
+  "owner": "alcuadrado",
+  "private": false,
+  "html_url": "https://github.com/alcuadrado/alcuadrado.github.com",
+  "description": "My personal site",
+  "fork": false,
+  "url": "https://api.github.com/repos/alcuadrado/alcuadrado.github.com",
+  "languages_url": "https://api.github.com/repos/alcuadrado/alcuadrado.github.com/languages",
+  "pulls_url": "https://api.github.com/repos/alcuadrado/alcuadrado.github.com/pulls{/number}",
+  "created_at": "2012-08-01T14:13:50Z",
+  "updated_at": "2017-01-05T21:25:09Z",
+  "pushed_at": "2017-01-17T17:46:40Z",
+  "homepage": "http://patriciopalladino.com",
+  "size": 768,
+  "stargazers_count": 2,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 1,
+    "mathiasbynens": 1,
+    "izidormatusov": 1,
+    "alcuadrado": 46
+  },
+  "pulls_authors": [
+    "captbaritone",
+    "mathiasbynens",
+    "izidormatusov"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 8394,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 6561,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 4557,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:40.547Z"
+}

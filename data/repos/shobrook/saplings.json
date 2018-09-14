@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "saplings",
+  "full_name": "shobrook/saplings",
+  "owner": "shobrook",
+  "private": false,
+  "html_url": "https://github.com/shobrook/saplings",
+  "description": "Library of algorithms and data structures for working with abstract syntax trees",
+  "fork": false,
+  "url": "https://api.github.com/repos/shobrook/saplings",
+  "languages_url": "https://api.github.com/repos/shobrook/saplings/languages",
+  "created_at": "2018-06-20T03:49:46Z",
+  "updated_at": "2018-09-13T19:02:30Z",
+  "pushed_at": "2018-09-06T07:13:34Z",
+  "homepage": "",
+  "size": 153,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "shobrook": 65,
+    "alichtman": 3
+  },
+  "languages": {
+    "Python": {
+      "bytes": 6348,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-13T23:40:32.098Z",
+  "pulls_url": "https://api.github.com/repos/shobrook/saplings/pulls{/number}",
+  "pulls_authors": [
+    "shobrook",
+    "alichtman"
+  ]
+}

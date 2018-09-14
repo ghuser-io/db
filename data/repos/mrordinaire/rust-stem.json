@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rust-stem",
+  "full_name": "mrordinaire/rust-stem",
+  "owner": "mrordinaire",
+  "private": false,
+  "html_url": "https://github.com/mrordinaire/rust-stem",
+  "description": "Porter's stemmer for rust",
+  "fork": false,
+  "url": "https://api.github.com/repos/mrordinaire/rust-stem",
+  "languages_url": "https://api.github.com/repos/mrordinaire/rust-stem/languages",
+  "pulls_url": "https://api.github.com/repos/mrordinaire/rust-stem/pulls{/number}",
+  "created_at": "2013-08-23T16:31:02Z",
+  "updated_at": "2018-05-22T02:03:47Z",
+  "pushed_at": "2015-04-24T07:49:13Z",
+  "homepage": null,
+  "size": 383,
+  "stargazers_count": 14,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ferristseng": 1,
+    "Ryman": 1,
+    "sinistersnare": 1,
+    "lifthrasiir": 1,
+    "huonw": 2,
+    "mrordinaire": 32
+  },
+  "pulls_authors": [
+    "huonw",
+    "ferristseng",
+    "Ryman",
+    "sinistersnare",
+    "lifthrasiir"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 13754,
+      "color": "#dea584"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:38.243Z"
+}

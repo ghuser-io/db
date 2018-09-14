@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hashtag_retweet_bot",
+  "full_name": "tomash/hashtag_retweet_bot",
+  "owner": "tomash",
+  "private": false,
+  "html_url": "https://github.com/tomash/hashtag_retweet_bot",
+  "description": "script/bot that retweets tweets with given tag",
+  "fork": true,
+  "url": "https://api.github.com/repos/tomash/hashtag_retweet_bot",
+  "languages_url": "https://api.github.com/repos/tomash/hashtag_retweet_bot/languages",
+  "pulls_url": "https://api.github.com/repos/tomash/hashtag_retweet_bot/pulls{/number}",
+  "created_at": "2010-06-18T18:58:55Z",
+  "updated_at": "2017-05-31T00:51:56Z",
+  "pushed_at": "2010-06-19T14:45:59Z",
+  "homepage": "",
+  "size": 109,
+  "stargazers_count": 4,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "tomash": 4,
+    "balinterdi": 7,
+    "jaimeiniesta": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 5646,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T16:53:12.927Z"
+}

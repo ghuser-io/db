@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-xbmc",
+  "full_name": "node-xbmc/node-xbmc",
+  "owner": "node-xbmc",
+  "private": false,
+  "html_url": "https://github.com/node-xbmc/node-xbmc",
+  "description": ":video_camera: XBMC/Kodi api nodejs library (javascript, coffee)",
+  "fork": false,
+  "url": "https://api.github.com/repos/node-xbmc/node-xbmc",
+  "languages_url": "https://api.github.com/repos/node-xbmc/node-xbmc/languages",
+  "pulls_url": "https://api.github.com/repos/node-xbmc/node-xbmc/pulls{/number}",
+  "created_at": "2012-12-31T12:35:24Z",
+  "updated_at": "2018-06-07T15:01:32Z",
+  "pushed_at": "2016-06-01T17:23:16Z",
+  "homepage": "https://npmjs.org/package/xbmc",
+  "size": 126,
+  "stargazers_count": 54,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "node-xbmc",
+    "id": 15141943,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1MTQxOTQz",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/15141943?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/node-xbmc",
+    "html_url": "https://github.com/node-xbmc",
+    "followers_url": "https://api.github.com/users/node-xbmc/followers",
+    "following_url": "https://api.github.com/users/node-xbmc/following{/other_user}",
+    "gists_url": "https://api.github.com/users/node-xbmc/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/node-xbmc/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/node-xbmc/subscriptions",
+    "organizations_url": "https://api.github.com/users/node-xbmc/orgs",
+    "repos_url": "https://api.github.com/users/node-xbmc/repos",
+    "events_url": "https://api.github.com/users/node-xbmc/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/node-xbmc/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "sja": 1,
+    "bitdeli-chef": 1,
+    "timdp": 11,
+    "moul": 125
+  },
+  "pulls_authors": [
+    "timdp",
+    "error454",
+    "sja",
+    "bitdeli-chef"
+  ],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 18664,
+      "color": "#244776"
+    },
+    "Makefile": {
+      "bytes": 368,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:55.361Z"
+}

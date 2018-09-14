@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "connectionsmy",
+  "full_name": "cheeaun/connectionsmy",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/connectionsmy",
+  "description": "Tech things aggregator for Malaysia",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/connectionsmy",
+  "languages_url": "https://api.github.com/repos/cheeaun/connectionsmy/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/connectionsmy/pulls{/number}",
+  "created_at": "2011-04-19T15:36:53Z",
+  "updated_at": "2017-07-12T09:46:31Z",
+  "pushed_at": "2016-09-07T04:36:29Z",
+  "homepage": "http://connections.my/",
+  "size": 45,
+  "stargazers_count": 12,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "gh-pages",
+  "contributors": {
+    "claytonnarcis": 1,
+    "sweemeng": 2,
+    "webgrrrl": 4,
+    "lightyoruichi": 4,
+    "cheeaun": 42
+  },
+  "pulls_authors": [
+    "webgrrrl",
+    "paragasu",
+    "sweemeng",
+    "claytonnarcis",
+    "lightyoruichi"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 11822,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:56.976Z"
+}

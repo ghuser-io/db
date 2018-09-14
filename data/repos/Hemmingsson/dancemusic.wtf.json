@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dancemusic.wtf",
+  "full_name": "Hemmingsson/dancemusic.wtf",
+  "owner": "Hemmingsson",
+  "private": false,
+  "html_url": "https://github.com/Hemmingsson/dancemusic.wtf",
+  "description": "Quiz Game for Learning Electronic Dance Music Styles",
+  "fork": false,
+  "url": "https://api.github.com/repos/Hemmingsson/dancemusic.wtf",
+  "languages_url": "https://api.github.com/repos/Hemmingsson/dancemusic.wtf/languages",
+  "pulls_url": "https://api.github.com/repos/Hemmingsson/dancemusic.wtf/pulls{/number}",
+  "created_at": "2017-11-26T16:06:35Z",
+  "updated_at": "2018-09-12T08:37:55Z",
+  "pushed_at": "2018-08-10T17:23:29Z",
+  "homepage": "http://dancemusic.wtf/",
+  "size": 1497,
+  "stargazers_count": 41,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "reuben": 1,
+    "Hemmingsson": 105
+  },
+  "pulls_authors": [
+    "reuben"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 30502,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 25256,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 8212,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T15:44:25.112Z"
+}

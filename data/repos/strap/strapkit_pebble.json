@@ -1,0 +1,85 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "strapkit_pebble",
+  "full_name": "strap/strapkit_pebble",
+  "owner": "strap",
+  "private": false,
+  "html_url": "https://github.com/strap/strapkit_pebble",
+  "description": "StrapKit platform resources for Pebble",
+  "fork": false,
+  "url": "https://api.github.com/repos/strap/strapkit_pebble",
+  "languages_url": "https://api.github.com/repos/strap/strapkit_pebble/languages",
+  "pulls_url": "https://api.github.com/repos/strap/strapkit_pebble/pulls{/number}",
+  "created_at": "2014-07-08T02:29:53Z",
+  "updated_at": "2015-03-11T14:42:31Z",
+  "pushed_at": "2015-03-11T14:42:31Z",
+  "homepage": null,
+  "size": 1014,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "strap",
+    "id": 7231644,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjcyMzE2NDQ=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/7231644?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/strap",
+    "html_url": "https://github.com/strap",
+    "followers_url": "https://api.github.com/users/strap/followers",
+    "following_url": "https://api.github.com/users/strap/following{/other_user}",
+    "gists_url": "https://api.github.com/users/strap/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/strap/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/strap/subscriptions",
+    "organizations_url": "https://api.github.com/users/strap/orgs",
+    "repos_url": "https://api.github.com/users/strap/repos",
+    "events_url": "https://api.github.com/users/strap/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/strap/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "tcyrus": 1,
+    "laanak08": 111
+  },
+  "pulls_authors": [
+    "wjbz82",
+    "tcyrus"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 373641,
+      "color": "#f1e05a"
+    },
+    "C": {
+      "bytes": 290781,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 17994,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 8397,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 3652,
+      "color": "#e34c26"
+    },
+    "C++": {
+      "bytes": 1959,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:08.183Z"
+}

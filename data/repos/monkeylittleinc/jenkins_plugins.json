@@ -1,0 +1,74 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jenkins_plugins",
+  "full_name": "monkeylittleinc/jenkins_plugins",
+  "owner": "monkeylittleinc",
+  "private": false,
+  "html_url": "https://github.com/monkeylittleinc/jenkins_plugins",
+  "description": "Configure plugins for Jenkins with Chef LWRP's.",
+  "fork": false,
+  "url": "https://api.github.com/repos/monkeylittleinc/jenkins_plugins",
+  "languages_url": "https://api.github.com/repos/monkeylittleinc/jenkins_plugins/languages",
+  "pulls_url": "https://api.github.com/repos/monkeylittleinc/jenkins_plugins/pulls{/number}",
+  "created_at": "2015-06-29T15:44:57Z",
+  "updated_at": "2017-09-12T19:57:48Z",
+  "pushed_at": "2017-11-16T10:18:24Z",
+  "homepage": "https://supermarket.chef.io/cookbooks/artifactory_pro",
+  "size": 69,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "monkeylittleinc",
+    "id": 13067288,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzMDY3Mjg4",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/13067288?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/monkeylittleinc",
+    "html_url": "https://github.com/monkeylittleinc",
+    "followers_url": "https://api.github.com/users/monkeylittleinc/followers",
+    "following_url": "https://api.github.com/users/monkeylittleinc/following{/other_user}",
+    "gists_url": "https://api.github.com/users/monkeylittleinc/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/monkeylittleinc/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/monkeylittleinc/subscriptions",
+    "organizations_url": "https://api.github.com/users/monkeylittleinc/orgs",
+    "repos_url": "https://api.github.com/users/monkeylittleinc/repos",
+    "events_url": "https://api.github.com/users/monkeylittleinc/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/monkeylittleinc/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mrmarbury": 2,
+    "imduffy15": 2,
+    "monkeylittle": 2,
+    "samdunne": 31
+  },
+  "pulls_authors": [
+    "kzyczenko",
+    "mrmarbury",
+    "samdunne",
+    "imduffy15",
+    "monkeylittle"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 36857,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 2236,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T15:14:33.999Z"
+}

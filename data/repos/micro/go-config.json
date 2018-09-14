@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-config",
+  "full_name": "micro/go-config",
+  "owner": "micro",
+  "private": false,
+  "html_url": "https://github.com/micro/go-config",
+  "description": "A dynamic config framework",
+  "fork": false,
+  "url": "https://api.github.com/repos/micro/go-config",
+  "languages_url": "https://api.github.com/repos/micro/go-config/languages",
+  "created_at": "2018-02-20T12:02:28Z",
+  "updated_at": "2018-09-13T16:18:01Z",
+  "pushed_at": "2018-09-03T10:34:34Z",
+  "homepage": "",
+  "size": 152,
+  "stargazers_count": 377,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "micro",
+    "id": 5161210,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjUxNjEyMTA=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/5161210?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/micro",
+    "html_url": "https://github.com/micro",
+    "followers_url": "https://api.github.com/users/micro/followers",
+    "following_url": "https://api.github.com/users/micro/following{/other_user}",
+    "gists_url": "https://api.github.com/users/micro/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/micro/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/micro/subscriptions",
+    "organizations_url": "https://api.github.com/users/micro/orgs",
+    "repos_url": "https://api.github.com/users/micro/repos",
+    "events_url": "https://api.github.com/users/micro/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/micro/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ar4mirez": 1,
+    "k1ng440": 1,
+    "hamidraza": 1,
+    "pijalu": 3,
+    "DiSiqueira": 3,
+    "bkono": 6,
+    "asim": 104,
+    "44px": 1,
+    "QLeelulu": 2
+  },
+  "languages": {
+    "Go": {
+      "bytes": 72746,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-13T16:29:30.561Z",
+  "pulls_url": "https://api.github.com/repos/micro/go-config/pulls{/number}",
+  "pulls_authors": [
+    "QLeelulu",
+    "asim",
+    "44px",
+    "ar4mirez",
+    "pijalu",
+    "k1ng440",
+    "bkono",
+    "hamidraza",
+    "heww",
+    "DiSiqueira",
+    "miaolz123"
+  ]
+}

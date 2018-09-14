@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "literate-purescript",
+  "full_name": "paulyoung/literate-purescript",
+  "owner": "paulyoung",
+  "private": false,
+  "html_url": "https://github.com/paulyoung/literate-purescript",
+  "description": " Literate programming in PureScript.",
+  "fork": false,
+  "url": "https://api.github.com/repos/paulyoung/literate-purescript",
+  "languages_url": "https://api.github.com/repos/paulyoung/literate-purescript/languages",
+  "pulls_url": "https://api.github.com/repos/paulyoung/literate-purescript/pulls{/number}",
+  "created_at": "2018-06-16T07:14:15Z",
+  "updated_at": "2018-07-04T11:28:40Z",
+  "pushed_at": "2018-07-04T05:46:35Z",
+  "homepage": "",
+  "size": 21,
+  "stargazers_count": 2,
+  "language": "PureScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "paulyoung": 12
+  },
+  "pulls_authors": [
+    "paulyoung"
+  ],
+  "languages": {
+    "PureScript": {
+      "bytes": 4776,
+      "color": "#1D222D"
+    },
+    "JavaScript": {
+      "bytes": 62,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:50.259Z"
+}

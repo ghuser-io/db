@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Elf",
+  "full_name": "aashutoshrathi/Elf",
+  "owner": "aashutoshrathi",
+  "private": false,
+  "html_url": "https://github.com/aashutoshrathi/Elf",
+  "description": "Linux Terminal interpreter in C",
+  "fork": false,
+  "url": "https://api.github.com/repos/aashutoshrathi/Elf",
+  "languages_url": "https://api.github.com/repos/aashutoshrathi/Elf/languages",
+  "pulls_url": "https://api.github.com/repos/aashutoshrathi/Elf/pulls{/number}",
+  "created_at": "2017-08-30T20:23:27Z",
+  "updated_at": "2017-09-13T05:25:19Z",
+  "pushed_at": "2017-09-12T18:21:56Z",
+  "homepage": "",
+  "size": 538,
+  "stargazers_count": 5,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "roshniRam": 1,
+    "DakshGondaliya": 1,
+    "VaaibhaviSingh": 4,
+    "DipanshKhandelwal": 11,
+    "aashutoshrathi": 15
+  },
+  "pulls_authors": [
+    "DipanshKhandelwal",
+    "VaaibhaviSingh",
+    "roshniRam",
+    "aashutoshrathi",
+    "DakshGondaliya"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 17727,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-05T16:59:37.207Z"
+}

@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jack-telegram-bot",
+  "full_name": "Imandaneshi/jack-telegram-bot",
+  "owner": "Imandaneshi",
+  "private": false,
+  "html_url": "https://github.com/Imandaneshi/jack-telegram-bot",
+  "description": "A multi purpose telegram bot written in MoonScript",
+  "fork": false,
+  "url": "https://api.github.com/repos/Imandaneshi/jack-telegram-bot",
+  "languages_url": "https://api.github.com/repos/Imandaneshi/jack-telegram-bot/languages",
+  "pulls_url": "https://api.github.com/repos/Imandaneshi/jack-telegram-bot/pulls{/number}",
+  "created_at": "2016-02-21T10:32:47Z",
+  "updated_at": "2018-08-10T10:31:10Z",
+  "pushed_at": "2017-04-01T18:07:47Z",
+  "homepage": "http://jack.seedteam.org",
+  "size": 221,
+  "stargazers_count": 49,
+  "language": "MoonScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "tiagoad": 1,
+    "ArashEmpix": 1,
+    "Flippylosaurus": 1,
+    "hmon": 2,
+    "Mrhalix": 6,
+    "pAyDaAr": 29,
+    "Imandaneshi": 31,
+    "TiagoDanin": 52
+  },
+  "pulls_authors": [
+    "otgo",
+    "hmon",
+    "tiagoad",
+    "ArashEmpix",
+    "Mrhalix",
+    "GodFatherHPR",
+    "ghost",
+    "MOHAMADKHOSHNAVA",
+    "Flippylosaurus",
+    "TiagoDanin",
+    "uadminu",
+    "IDeactive",
+    "pAyDaAr"
+  ],
+  "languages": {
+    "MoonScript": {
+      "bytes": 135805,
+      "color": "#ccc"
+    },
+    "Python": {
+      "bytes": 7017,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 2666,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-12T17:48:20.581Z"
+}

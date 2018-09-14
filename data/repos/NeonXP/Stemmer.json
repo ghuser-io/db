@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Stemmer",
+  "full_name": "NeonXP/Stemmer",
+  "owner": "NeonXP",
+  "private": false,
+  "html_url": "https://github.com/NeonXP/Stemmer",
+  "description": "Porter Stemming for Russian language",
+  "fork": false,
+  "url": "https://api.github.com/repos/NeonXP/Stemmer",
+  "languages_url": "https://api.github.com/repos/NeonXP/Stemmer/languages",
+  "pulls_url": "https://api.github.com/repos/NeonXP/Stemmer/pulls{/number}",
+  "created_at": "2013-11-26T23:12:41Z",
+  "updated_at": "2018-07-17T12:29:00Z",
+  "pushed_at": "2018-01-13T21:26:25Z",
+  "homepage": null,
+  "size": 506,
+  "stargazers_count": 35,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "usernam3": 1,
+    "vklimin": 4,
+    "NeonXP": 12
+  },
+  "pulls_authors": [
+    "vklimin",
+    "acelot",
+    "usernam3"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 2112368,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:15.716Z"
+}

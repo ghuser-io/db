@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ArduinoDueGame",
+  "full_name": "Gadgetoid/ArduinoDueGame",
+  "owner": "Gadgetoid",
+  "private": false,
+  "html_url": "https://github.com/Gadgetoid/ArduinoDueGame",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/Gadgetoid/ArduinoDueGame",
+  "languages_url": "https://api.github.com/repos/Gadgetoid/ArduinoDueGame/languages",
+  "pulls_url": "https://api.github.com/repos/Gadgetoid/ArduinoDueGame/pulls{/number}",
+  "created_at": "2013-07-24T10:32:10Z",
+  "updated_at": "2013-11-18T00:24:16Z",
+  "pushed_at": "2013-07-25T12:35:49Z",
+  "homepage": null,
+  "size": 140,
+  "stargazers_count": 1,
+  "language": "Arduino",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Gadgetoid": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 9850,
+      "color": "#555555"
+    },
+    "Arduino": {
+      "bytes": 7252,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:15.483Z"
+}

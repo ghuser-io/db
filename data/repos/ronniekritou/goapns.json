@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "goapns",
+  "full_name": "ronniekritou/goapns",
+  "owner": "ronniekritou",
+  "private": false,
+  "html_url": "https://github.com/ronniekritou/goapns",
+  "description": "Apple Notification Service API for  GOLANG",
+  "fork": true,
+  "url": "https://api.github.com/repos/ronniekritou/goapns",
+  "languages_url": "https://api.github.com/repos/ronniekritou/goapns/languages",
+  "pulls_url": "https://api.github.com/repos/ronniekritou/goapns/pulls{/number}",
+  "created_at": "2014-07-14T22:14:53Z",
+  "updated_at": "2014-10-19T15:48:05Z",
+  "pushed_at": "2014-07-14T23:13:20Z",
+  "homepage": null,
+  "size": 138,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "akhenakh": 4,
+    "ronniekritou": 5,
+    "Mistobaan": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 9384,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T13:51:24.971Z"
+}

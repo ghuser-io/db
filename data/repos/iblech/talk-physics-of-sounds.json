@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "talk-physics-of-sounds",
+  "full_name": "iblech/talk-physics-of-sounds",
+  "owner": "iblech",
+  "private": false,
+  "html_url": "https://github.com/iblech/talk-physics-of-sounds",
+  "description": "The physics of sounds: experiments with basic Linux tools",
+  "fork": false,
+  "url": "https://api.github.com/repos/iblech/talk-physics-of-sounds",
+  "languages_url": "https://api.github.com/repos/iblech/talk-physics-of-sounds/languages",
+  "pulls_url": "https://api.github.com/repos/iblech/talk-physics-of-sounds/pulls{/number}",
+  "created_at": "2016-03-22T21:00:48Z",
+  "updated_at": "2016-08-19T11:20:30Z",
+  "pushed_at": "2016-09-14T11:02:39Z",
+  "homepage": null,
+  "size": 29,
+  "stargazers_count": 3,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Profpatsch": 1,
+    "iblech": 29
+  },
+  "pulls_authors": [
+    "Profpatsch"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 31499,
+      "color": "#555555"
+    },
+    "Perl": {
+      "bytes": 11152,
+      "color": "#0298c3"
+    },
+    "Shell": {
+      "bytes": 3322,
+      "color": "#89e051"
+    },
+    "Nix": {
+      "bytes": 519,
+      "color": "#7e7eff"
+    },
+    "Makefile": {
+      "bytes": 465,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:46.031Z"
+}

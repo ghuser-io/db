@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "chessboard-go",
+  "full_name": "moul/chessboard-go",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/chessboard-go",
+  "description": ":game_die: Golang CLI to explore chessboard positions",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/chessboard-go",
+  "languages_url": "https://api.github.com/repos/moul/chessboard-go/languages",
+  "pulls_url": "https://api.github.com/repos/moul/chessboard-go/pulls{/number}",
+  "created_at": "2015-08-21T21:46:10Z",
+  "updated_at": "2016-07-21T12:57:17Z",
+  "pushed_at": "2015-09-22T09:07:00Z",
+  "homepage": null,
+  "size": 159,
+  "stargazers_count": 4,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 15
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 29073,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 163,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:23.560Z"
+}

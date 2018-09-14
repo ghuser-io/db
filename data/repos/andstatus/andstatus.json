@@ -1,0 +1,97 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "andstatus",
+  "full_name": "andstatus/andstatus",
+  "owner": "andstatus",
+  "private": false,
+  "html_url": "https://github.com/andstatus/andstatus",
+  "description": "Multiple accounts client for multiple Social networks. For Android ",
+  "fork": false,
+  "url": "https://api.github.com/repos/andstatus/andstatus",
+  "languages_url": "https://api.github.com/repos/andstatus/andstatus/languages",
+  "pulls_url": "https://api.github.com/repos/andstatus/andstatus/pulls{/number}",
+  "created_at": "2011-12-23T13:33:25Z",
+  "updated_at": "2018-09-08T19:51:54Z",
+  "pushed_at": "2018-09-08T19:51:51Z",
+  "homepage": "http://andstatus.org/",
+  "size": 27013,
+  "stargazers_count": 170,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "andstatus",
+    "id": 1267690,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyNjc2OTA=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/1267690?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/andstatus",
+    "html_url": "https://github.com/andstatus",
+    "followers_url": "https://api.github.com/users/andstatus/followers",
+    "following_url": "https://api.github.com/users/andstatus/following{/other_user}",
+    "gists_url": "https://api.github.com/users/andstatus/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/andstatus/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/andstatus/subscriptions",
+    "organizations_url": "https://api.github.com/users/andstatus/orgs",
+    "repos_url": "https://api.github.com/users/andstatus/repos",
+    "events_url": "https://api.github.com/users/andstatus/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/andstatus/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jurf": 1,
+    "kvnco": 1,
+    "cotsog": 2,
+    "moshpirit": 6,
+    "vinzv": 7,
+    "matthiasjordan": 8,
+    "tbjers": 94,
+    "yvolk": 1882
+  },
+  "pulls_authors": [
+    "xcorail",
+    "Vistaus",
+    "jaller94",
+    "licaon-kter",
+    "mdtrooper",
+    "cotsog",
+    "Dragnucs",
+    "kenrestivo",
+    "vinzv",
+    "jurf",
+    "knut-erik",
+    "EHJ-52n",
+    "ghost",
+    "moshpirit",
+    "jas4711",
+    "kvnco"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 3004188,
+      "color": "#b07219"
+    },
+    "XSLT": {
+      "bytes": 14655,
+      "color": "#EB8CEB"
+    },
+    "HTML": {
+      "bytes": 13417,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 4334,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T17:08:28.054Z"
+}

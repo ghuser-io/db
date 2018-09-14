@@ -1,0 +1,103 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "chaosmonkey",
+  "full_name": "Netflix/chaosmonkey",
+  "owner": "Netflix",
+  "private": false,
+  "html_url": "https://github.com/Netflix/chaosmonkey",
+  "description": "Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Netflix/chaosmonkey",
+  "languages_url": "https://api.github.com/repos/Netflix/chaosmonkey/languages",
+  "created_at": "2016-10-18T22:36:41Z",
+  "updated_at": "2018-09-14T07:48:28Z",
+  "pushed_at": "2018-08-29T23:17:07Z",
+  "homepage": null,
+  "size": 1928,
+  "stargazers_count": 4881,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "Netflix",
+    "id": 913567,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjkxMzU2Nw==",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/913567?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Netflix",
+    "html_url": "https://github.com/Netflix",
+    "followers_url": "https://api.github.com/users/Netflix/followers",
+    "following_url": "https://api.github.com/users/Netflix/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Netflix/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Netflix/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Netflix/subscriptions",
+    "organizations_url": "https://api.github.com/users/Netflix/orgs",
+    "repos_url": "https://api.github.com/users/Netflix/repos",
+    "events_url": "https://api.github.com/users/Netflix/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Netflix/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Branislav1993": 1,
+    "mrvivacious": 1,
+    "shazy792": 1,
+    "xordspar0": 1,
+    "pmacey": 1,
+    "robzienert": 1,
+    "dbakshiyev": 1,
+    "vinayu": 1,
+    "mlafeldt": 1,
+    "oremj": 1,
+    "adamdmharvey": 2,
+    "shawnps": 2,
+    "DiSiqueira": 3,
+    "sbasgall": 3,
+    "lorin": 59,
+    "haleyw": 1
+  },
+  "languages": {
+    "Go": {
+      "bytes": 278543,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 816,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 578,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T08:26:15.854Z",
+  "pulls_url": "https://api.github.com/repos/Netflix/chaosmonkey/pulls{/number}",
+  "pulls_authors": [
+    "lorin",
+    "adamdmharvey",
+    "trigun117",
+    "Branislav1993",
+    "DiSiqueira",
+    "mrvivacious",
+    "shazy792",
+    "pmacey",
+    "robzienert",
+    "sbasgall",
+    "dbakshiyev",
+    "vinayu",
+    "ka7",
+    "mlafeldt",
+    "syamantm",
+    "shawnps",
+    "oremj",
+    "haleyw"
+  ]
+}

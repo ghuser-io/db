@@ -1,0 +1,74 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cloud-vanilla-theme",
+  "full_name": "ubuntudesign/cloud-vanilla-theme",
+  "owner": "ubuntudesign",
+  "private": false,
+  "html_url": "https://github.com/ubuntudesign/cloud-vanilla-theme",
+  "description": "A theme layer between Vanilla Framework and the cloud family of Canonical sites.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ubuntudesign/cloud-vanilla-theme",
+  "languages_url": "https://api.github.com/repos/ubuntudesign/cloud-vanilla-theme/languages",
+  "pulls_url": "https://api.github.com/repos/ubuntudesign/cloud-vanilla-theme/pulls{/number}",
+  "created_at": "2015-04-15T07:58:44Z",
+  "updated_at": "2017-04-10T12:25:48Z",
+  "pushed_at": "2017-04-26T22:36:28Z",
+  "homepage": "",
+  "size": 70,
+  "stargazers_count": 2,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "ubuntudesign",
+    "id": 8777739,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjg3Nzc3Mzk=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/8777739?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ubuntudesign",
+    "html_url": "https://github.com/ubuntudesign",
+    "followers_url": "https://api.github.com/users/ubuntudesign/followers",
+    "following_url": "https://api.github.com/users/ubuntudesign/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ubuntudesign/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ubuntudesign/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ubuntudesign/subscriptions",
+    "organizations_url": "https://api.github.com/users/ubuntudesign/orgs",
+    "repos_url": "https://api.github.com/users/ubuntudesign/repos",
+    "events_url": "https://api.github.com/users/ubuntudesign/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ubuntudesign/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "sparkiegeek": 1,
+    "kadams54": 1,
+    "deadlight": 2,
+    "nottrobin": 2,
+    "richmccartney": 13,
+    "anthonydillon": 47
+  },
+  "pulls_authors": [
+    "sparkiegeek",
+    "anthonydillon",
+    "kadams54",
+    "richmccartney",
+    "deadlight"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 18701,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 2291,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 1537,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T17:15:38.318Z"
+}

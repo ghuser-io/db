@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "songkickr",
+  "full_name": "tomash/songkickr",
+  "owner": "tomash",
+  "private": false,
+  "html_url": "https://github.com/tomash/songkickr",
+  "description": "A Ruby wrapper around the Songkick API",
+  "fork": true,
+  "url": "https://api.github.com/repos/tomash/songkickr",
+  "languages_url": "https://api.github.com/repos/tomash/songkickr/languages",
+  "pulls_url": "https://api.github.com/repos/tomash/songkickr/pulls{/number}",
+  "created_at": "2011-05-11T11:05:54Z",
+  "updated_at": "2013-01-02T02:47:30Z",
+  "pushed_at": "2011-05-17T08:50:43Z",
+  "homepage": "songkick.com",
+  "size": 558,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dodeja": 1,
+    "tomash": 3,
+    "ethank": 5,
+    "jrmehle": 26
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 18291,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T16:53:13.386Z"
+}

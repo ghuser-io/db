@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PumpedBlog",
+  "full_name": "radekstepan/PumpedBlog",
+  "owner": "radekstepan",
+  "private": false,
+  "html_url": "https://github.com/radekstepan/PumpedBlog",
+  "description": "A blog that never gets tired",
+  "fork": false,
+  "url": "https://api.github.com/repos/radekstepan/PumpedBlog",
+  "languages_url": "https://api.github.com/repos/radekstepan/PumpedBlog/languages",
+  "pulls_url": "https://api.github.com/repos/radekstepan/PumpedBlog/pulls{/number}",
+  "created_at": "2011-03-17T19:55:44Z",
+  "updated_at": "2013-11-26T12:19:12Z",
+  "pushed_at": "2012-08-29T11:17:12Z",
+  "homepage": "",
+  "size": 352,
+  "stargazers_count": 3,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "radekstepan": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 178494,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 3126,
+      "color": "#f1e05a"
+    },
+    "Perl": {
+      "bytes": 573,
+      "color": "#0298c3"
+    }
+  },
+  "fetched_at": "2018-09-11T13:51:03.203Z"
+}

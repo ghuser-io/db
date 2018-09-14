@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "grunt-documentation",
+  "full_name": "captbaritone/grunt-documentation",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/grunt-documentation",
+  "description": "Use Grunt with documentation to generate great documentation for your JavaScript projects.",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/grunt-documentation",
+  "languages_url": "https://api.github.com/repos/captbaritone/grunt-documentation/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/grunt-documentation/pulls{/number}",
+  "created_at": "2017-04-19T17:44:16Z",
+  "updated_at": "2018-07-29T22:05:35Z",
+  "pushed_at": "2017-04-19T17:45:23Z",
+  "homepage": "",
+  "size": 1333,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "greenkeeper[bot]": 1,
+    "ahmehri": 1,
+    "ianwremmel": 1,
+    "davehg": 2,
+    "tmcw": 4,
+    "SunboX": 20
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 5555,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:49.819Z"
+}

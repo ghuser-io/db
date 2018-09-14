@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hexo-theme-pln",
+  "full_name": "gaoryrt/hexo-theme-pln",
+  "owner": "gaoryrt",
+  "private": false,
+  "html_url": "https://github.com/gaoryrt/hexo-theme-pln",
+  "description": "Plain theme for Hexo.",
+  "fork": false,
+  "url": "https://api.github.com/repos/gaoryrt/hexo-theme-pln",
+  "languages_url": "https://api.github.com/repos/gaoryrt/hexo-theme-pln/languages",
+  "pulls_url": "https://api.github.com/repos/gaoryrt/hexo-theme-pln/pulls{/number}",
+  "created_at": "2016-04-12T07:37:55Z",
+  "updated_at": "2018-09-02T12:53:09Z",
+  "pushed_at": "2018-08-29T11:55:04Z",
+  "homepage": "",
+  "size": 1532,
+  "stargazers_count": 124,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "xCss": 1,
+    "aloisdg": 1,
+    "willmasters": 1,
+    "gaoryrt": 94
+  },
+  "pulls_authors": [
+    "xCss",
+    "aloisdg",
+    "gaoryrt"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 15855,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 14227,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 4605,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:13.130Z"
+}

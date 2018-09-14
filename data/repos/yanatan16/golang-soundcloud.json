@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "golang-soundcloud",
+  "full_name": "yanatan16/golang-soundcloud",
+  "owner": "yanatan16",
+  "private": false,
+  "html_url": "https://github.com/yanatan16/golang-soundcloud",
+  "description": "A SoundCloud API implementation in Go",
+  "fork": false,
+  "url": "https://api.github.com/repos/yanatan16/golang-soundcloud",
+  "languages_url": "https://api.github.com/repos/yanatan16/golang-soundcloud/languages",
+  "pulls_url": "https://api.github.com/repos/yanatan16/golang-soundcloud/pulls{/number}",
+  "created_at": "2014-01-13T21:57:25Z",
+  "updated_at": "2018-08-24T19:52:18Z",
+  "pushed_at": "2017-02-27T17:08:15Z",
+  "homepage": null,
+  "size": 29,
+  "stargazers_count": 24,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "youpy": 1,
+    "moul": 1,
+    "kcking": 2
+  },
+  "pulls_authors": [
+    "youpy",
+    "moul",
+    "kcking"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 29743,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:52.896Z"
+}

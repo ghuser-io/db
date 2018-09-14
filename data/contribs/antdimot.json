@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "antdimot/chess-movement-validator": {
+      "full_name": "antdimot/chess-movement-validator",
+      "name": "chess-movement-validator",
+      "stargazers_count": 7,
+      "popularity": 1.7853682828948099,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 22,
+      "activity": 1.5658773555355943,
+      "total_score": 30.131769881852552,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "antdimot/antdimot.github.io": {
+      "full_name": "antdimot/antdimot.github.io",
+      "name": "antdimot.github.io",
+      "stargazers_count": 4,
+      "popularity": 1.49139952161816,
+      "percentage": 100,
+      "maturity": 2.559238720343991,
+      "total_commits_count": 76,
+      "activity": 1.0725710925628484,
+      "total_score": 30.05344087914139,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "thank-you-github/thank-you-github": {
+      "full_name": "thank-you-github/thank-you-github",
+      "name": "thank-you-github",
+      "stargazers_count": 1835,
+      "popularity": 4.263462097389538,
+      "percentage": 0,
+      "maturity": 4.382869384877737,
+      "total_commits_count": 2445,
+      "activity": 5,
+      "total_score": 26.556125061924085,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "antdimot/chirp": {
+      "full_name": "antdimot/chirp",
+      "name": "chirp",
+      "stargazers_count": 3,
+      "popularity": 1.3222565221025262,
+      "percentage": 90.96774193548387,
+      "maturity": 3.062810136718,
+      "total_commits_count": 155,
+      "activity": 0.8876889439187758,
+      "total_score": 26.616828493429644,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

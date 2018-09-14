@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "KongouFileMover",
+  "full_name": "BinaryTENSHi/KongouFileMover",
+  "owner": "BinaryTENSHi",
+  "private": false,
+  "html_url": "https://github.com/BinaryTENSHi/KongouFileMover",
+  "description": "A utility program, which moves and renames files based on custom regular expressions.",
+  "fork": false,
+  "url": "https://api.github.com/repos/BinaryTENSHi/KongouFileMover",
+  "languages_url": "https://api.github.com/repos/BinaryTENSHi/KongouFileMover/languages",
+  "pulls_url": "https://api.github.com/repos/BinaryTENSHi/KongouFileMover/pulls{/number}",
+  "created_at": "2014-03-21T13:38:21Z",
+  "updated_at": "2014-10-08T17:28:40Z",
+  "pushed_at": "2014-09-12T18:45:37Z",
+  "homepage": null,
+  "size": 1900,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "BinaryTENSHi": 65
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 10975,
+      "color": "#f34b7d"
+    },
+    "Objective-C": {
+      "bytes": 189,
+      "color": "#438eff"
+    },
+    "C": {
+      "bytes": 22,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-11T20:44:42.781Z"
+}

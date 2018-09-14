@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Typeracer",
+  "full_name": "aashutoshrathi/Typeracer",
+  "owner": "aashutoshrathi",
+  "private": false,
+  "html_url": "https://github.com/aashutoshrathi/Typeracer",
+  "description": "Clone of Typeracer as Computer Network Project",
+  "fork": false,
+  "url": "https://api.github.com/repos/aashutoshrathi/Typeracer",
+  "languages_url": "https://api.github.com/repos/aashutoshrathi/Typeracer/languages",
+  "pulls_url": "https://api.github.com/repos/aashutoshrathi/Typeracer/pulls{/number}",
+  "created_at": "2018-03-04T04:44:44Z",
+  "updated_at": "2018-09-04T14:33:58Z",
+  "pushed_at": "2018-04-24T10:59:36Z",
+  "homepage": "http://cn-typeracer.herokuapp.com/",
+  "size": 272,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "aashutoshrathi": 11
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 31111,
+      "color": "#f1e05a"
+    },
+    "Vue": {
+      "bytes": 14996,
+      "color": "#2c3e50"
+    },
+    "HTML": {
+      "bytes": 6197,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-05T16:59:34.522Z"
+}

@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "why-not-wasm",
+  "full_name": "ballercat/why-not-wasm",
+  "owner": "ballercat",
+  "private": false,
+  "html_url": "https://github.com/ballercat/why-not-wasm",
+  "description": "Messing around with WASM",
+  "fork": false,
+  "url": "https://api.github.com/repos/ballercat/why-not-wasm",
+  "languages_url": "https://api.github.com/repos/ballercat/why-not-wasm/languages",
+  "pulls_url": "https://api.github.com/repos/ballercat/why-not-wasm/pulls{/number}",
+  "created_at": "2017-03-12T02:52:44Z",
+  "updated_at": "2017-12-20T11:36:27Z",
+  "pushed_at": "2017-04-30T16:05:15Z",
+  "homepage": null,
+  "size": 4829,
+  "stargazers_count": 9,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ballercat": 19
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1514,
+      "color": "#f1e05a"
+    },
+    "C++": {
+      "bytes": 1279,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 851,
+      "color": "#555555"
+    },
+    "HTML": {
+      "bytes": 206,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T04:57:35.543Z"
+}

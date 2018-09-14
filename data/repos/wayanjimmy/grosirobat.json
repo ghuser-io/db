@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "grosirobat",
+  "full_name": "wayanjimmy/grosirobat",
+  "owner": "wayanjimmy",
+  "private": false,
+  "html_url": "https://github.com/wayanjimmy/grosirobat",
+  "description": "Manajemen penjualan dan inventori obat",
+  "fork": false,
+  "url": "https://api.github.com/repos/wayanjimmy/grosirobat",
+  "languages_url": "https://api.github.com/repos/wayanjimmy/grosirobat/languages",
+  "pulls_url": "https://api.github.com/repos/wayanjimmy/grosirobat/pulls{/number}",
+  "created_at": "2018-06-01T09:58:32Z",
+  "updated_at": "2018-06-24T07:21:26Z",
+  "pushed_at": "2018-06-01T09:59:04Z",
+  "homepage": "",
+  "size": 611,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "wayanjimmy": 52
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 47429,
+      "color": "#f1e05a"
+    },
+    "Ruby": {
+      "bytes": 44245,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 1834,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 118,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:32.020Z"
+}

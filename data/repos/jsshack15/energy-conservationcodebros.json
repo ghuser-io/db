@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "energy-conservationcodebros",
+  "full_name": "jsshack15/energy-conservationcodebros",
+  "owner": "jsshack15",
+  "private": false,
+  "html_url": "https://github.com/jsshack15/energy-conservationcodebros",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/jsshack15/energy-conservationcodebros",
+  "languages_url": "https://api.github.com/repos/jsshack15/energy-conservationcodebros/languages",
+  "created_at": "2015-11-21T08:18:40Z",
+  "updated_at": "2015-11-22T03:22:07Z",
+  "pushed_at": "2015-11-22T03:22:55Z",
+  "homepage": null,
+  "size": 269,
+  "stargazers_count": 3,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "jsshack15",
+    "id": 15375248,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1Mzc1MjQ4",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/15375248?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jsshack15",
+    "html_url": "https://github.com/jsshack15",
+    "followers_url": "https://api.github.com/users/jsshack15/followers",
+    "following_url": "https://api.github.com/users/jsshack15/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jsshack15/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jsshack15/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jsshack15/subscriptions",
+    "organizations_url": "https://api.github.com/users/jsshack15/orgs",
+    "repos_url": "https://api.github.com/users/jsshack15/repos",
+    "events_url": "https://api.github.com/users/jsshack15/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jsshack15/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ankitjain28may": 1,
+    "dhruvhacks": 4,
+    "codehimanshu": 5
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 272869,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 26347,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/jsshack15/energy-conservationcodebros/pulls{/number}",
+  "pulls_authors": []
+}

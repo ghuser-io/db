@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jsconsole",
+  "full_name": "cheeaun/jsconsole",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/jsconsole",
+  "description": "Web based console - for presentations and workshops",
+  "fork": true,
+  "url": "https://api.github.com/repos/cheeaun/jsconsole",
+  "languages_url": "https://api.github.com/repos/cheeaun/jsconsole/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/jsconsole/pulls{/number}",
+  "created_at": "2010-10-28T07:17:02Z",
+  "updated_at": "2015-04-13T05:18:33Z",
+  "pushed_at": "2010-10-31T02:46:57Z",
+  "homepage": "http://jsconsole.com",
+  "size": 174,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "brianarn": 1,
+    "happygiraffe": 1,
+    "cheeaun": 2,
+    "remy": 81
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 121851,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T19:00:12.439Z"
+}

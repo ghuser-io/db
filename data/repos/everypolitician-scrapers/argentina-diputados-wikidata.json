@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "argentina-diputados-wikidata",
+  "full_name": "everypolitician-scrapers/argentina-diputados-wikidata",
+  "owner": "everypolitician-scrapers",
+  "private": false,
+  "html_url": "https://github.com/everypolitician-scrapers/argentina-diputados-wikidata",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/everypolitician-scrapers/argentina-diputados-wikidata",
+  "languages_url": "https://api.github.com/repos/everypolitician-scrapers/argentina-diputados-wikidata/languages",
+  "pulls_url": "https://api.github.com/repos/everypolitician-scrapers/argentina-diputados-wikidata/pulls{/number}",
+  "created_at": "2015-12-15T16:08:52Z",
+  "updated_at": "2016-11-26T09:39:09Z",
+  "pushed_at": "2017-09-29T09:42:09Z",
+  "homepage": "https://morph.io/tmtmtmtm/argentina-diputados-wikidata",
+  "size": 18,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "everypolitician-scrapers",
+    "id": 18443033,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4NDQzMDMz",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/18443033?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/everypolitician-scrapers",
+    "html_url": "https://github.com/everypolitician-scrapers",
+    "followers_url": "https://api.github.com/users/everypolitician-scrapers/followers",
+    "following_url": "https://api.github.com/users/everypolitician-scrapers/following{/other_user}",
+    "gists_url": "https://api.github.com/users/everypolitician-scrapers/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/everypolitician-scrapers/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/everypolitician-scrapers/subscriptions",
+    "organizations_url": "https://api.github.com/users/everypolitician-scrapers/orgs",
+    "repos_url": "https://api.github.com/users/everypolitician-scrapers/repos",
+    "events_url": "https://api.github.com/users/everypolitician-scrapers/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/everypolitician-scrapers/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "octopusinvitro": 1,
+    "chrismytton": 2,
+    "tmtmtmtm": 33
+  },
+  "pulls_authors": [
+    "octopusinvitro"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 5007,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:36.019Z"
+}

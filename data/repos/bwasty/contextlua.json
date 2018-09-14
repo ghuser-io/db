@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "contextlua",
+  "full_name": "bwasty/contextlua",
+  "owner": "bwasty",
+  "private": false,
+  "html_url": "https://github.com/bwasty/contextlua",
+  "description": "Code examples for the paper \"ContextLua: dynamic behavioral variations in computer games (2010)\"",
+  "fork": false,
+  "url": "https://api.github.com/repos/bwasty/contextlua",
+  "languages_url": "https://api.github.com/repos/bwasty/contextlua/languages",
+  "pulls_url": "https://api.github.com/repos/bwasty/contextlua/pulls{/number}",
+  "created_at": "2014-10-07T23:50:15Z",
+  "updated_at": "2014-10-09T08:08:19Z",
+  "pushed_at": "2014-10-07T23:57:44Z",
+  "homepage": "http://dl.acm.org/citation.cfm?id=1930021.1930026",
+  "size": 108,
+  "stargazers_count": 1,
+  "language": "Lua",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bwasty": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Lua": {
+      "bytes": 18121,
+      "color": "#000080"
+    }
+  },
+  "fetched_at": "2018-09-11T00:29:55.979Z"
+}

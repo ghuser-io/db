@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "firefox-profilemaker",
+  "full_name": "allo-/firefox-profilemaker",
+  "owner": "allo-",
+  "private": false,
+  "html_url": "https://github.com/allo-/firefox-profilemaker",
+  "description": "Tool to create firefox profiles with good defaults.",
+  "fork": false,
+  "url": "https://api.github.com/repos/allo-/firefox-profilemaker",
+  "languages_url": "https://api.github.com/repos/allo-/firefox-profilemaker/languages",
+  "pulls_url": "https://api.github.com/repos/allo-/firefox-profilemaker/pulls{/number}",
+  "created_at": "2015-09-19T14:58:15Z",
+  "updated_at": "2018-09-11T12:22:22Z",
+  "pushed_at": "2018-09-09T11:28:42Z",
+  "homepage": "",
+  "size": 175,
+  "stargazers_count": 102,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "L-P": 1,
+    "link2xt": 1,
+    "M0r13n": 1,
+    "s5k6": 1,
+    "chris-est": 1,
+    "rmoch": 1,
+    "rrooij": 4,
+    "Perflyst": 5,
+    "StarPicard": 15,
+    "allo-": 120
+  },
+  "pulls_authors": [
+    "L-P",
+    "link2xt",
+    "M0r13n",
+    "s5k6",
+    "StarPicard",
+    "Perflyst",
+    "chris-est",
+    "ghost",
+    "rrooij",
+    "rmoch"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 10560,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 9256,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T23:07:58.797Z"
+}

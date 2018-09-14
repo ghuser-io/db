@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "TheUltimateInternshipGuide",
+  "full_name": "jamesgeorge007/TheUltimateInternshipGuide",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/TheUltimateInternshipGuide",
+  "description": "Best guide for internship.",
+  "fork": true,
+  "url": "https://api.github.com/repos/jamesgeorge007/TheUltimateInternshipGuide",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/TheUltimateInternshipGuide/languages",
+  "created_at": "2018-02-18T11:42:42Z",
+  "updated_at": "2018-02-18T11:42:53Z",
+  "pushed_at": "2016-11-05T15:36:23Z",
+  "homepage": null,
+  "size": 7,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sahildua2305": 1,
+    "v-adhithyan": 1,
+    "vicky002": 2
+  },
+  "languages": {},
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/TheUltimateInternshipGuide/pulls{/number}",
+  "pulls_authors": []
+}

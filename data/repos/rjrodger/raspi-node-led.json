@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "raspi-node-led",
+  "full_name": "rjrodger/raspi-node-led",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/raspi-node-led",
+  "description": "Use Node.js and the Raspberry Pi to control a LED light",
+  "fork": false,
+  "url": "https://api.github.com/repos/rjrodger/raspi-node-led",
+  "languages_url": "https://api.github.com/repos/rjrodger/raspi-node-led/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/raspi-node-led/pulls{/number}",
+  "created_at": "2013-06-10T17:52:59Z",
+  "updated_at": "2014-02-16T14:50:17Z",
+  "pushed_at": "2013-06-10T18:02:28Z",
+  "homepage": "",
+  "size": 108,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "rjrodger": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 207,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:39.711Z"
+}

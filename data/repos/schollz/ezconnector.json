@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ezconnector",
+  "full_name": "schollz/ezconnector",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/ezconnector",
+  "description": null,
+  "fork": true,
+  "url": "https://api.github.com/repos/schollz/ezconnector",
+  "languages_url": "https://api.github.com/repos/schollz/ezconnector/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/ezconnector/pulls{/number}",
+  "created_at": "2018-06-03T15:57:53Z",
+  "updated_at": "2018-06-05T15:04:22Z",
+  "pushed_at": "2018-06-03T16:05:45Z",
+  "homepage": null,
+  "size": 6631,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 1,
+    "colemickens": 33
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 6338,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:52.885Z"
+}

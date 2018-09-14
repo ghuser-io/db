@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "xnu123": 1,
+    "TrueJournals": 1,
+    "LordAro": 7,
+    "wheybags": 14
+  },
+  "name": "glibc_version_header",
+  "full_name": "wheybags/glibc_version_header",
+  "owner": "wheybags",
+  "private": false,
+  "html_url": "https://github.com/wheybags/glibc_version_header",
+  "description": "Build portable Linux binaries without using an ancient distro",
+  "fork": false,
+  "url": "https://api.github.com/repos/wheybags/glibc_version_header",
+  "languages_url": "https://api.github.com/repos/wheybags/glibc_version_header/languages",
+  "created_at": "2017-12-14T15:01:58Z",
+  "updated_at": "2018-09-13T14:20:52Z",
+  "pushed_at": "2018-09-10T05:38:36Z",
+  "homepage": "",
+  "size": 167,
+  "stargazers_count": 161,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "C++": {
+      "bytes": 6199142,
+      "color": "#f34b7d"
+    },
+    "Python": {
+      "bytes": 11683,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-13T16:25:39.018Z",
+  "pulls_url": "https://api.github.com/repos/wheybags/glibc_version_header/pulls{/number}",
+  "pulls_authors": [
+    "heinrich5991",
+    "Calinou",
+    "LordAro",
+    "xnu123",
+    "TrueJournals"
+  ]
+}

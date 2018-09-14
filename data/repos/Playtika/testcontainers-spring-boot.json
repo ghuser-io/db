@@ -1,0 +1,92 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "testcontainers-spring-boot",
+  "full_name": "Playtika/testcontainers-spring-boot",
+  "owner": "Playtika",
+  "private": false,
+  "html_url": "https://github.com/Playtika/testcontainers-spring-boot",
+  "description": "Container auto-configurations for spring-boot based integration tests",
+  "fork": false,
+  "url": "https://api.github.com/repos/Playtika/testcontainers-spring-boot",
+  "languages_url": "https://api.github.com/repos/Playtika/testcontainers-spring-boot/languages",
+  "pulls_url": "https://api.github.com/repos/Playtika/testcontainers-spring-boot/pulls{/number}",
+  "created_at": "2017-10-22T19:17:46Z",
+  "updated_at": "2018-09-06T09:33:26Z",
+  "pushed_at": "2018-08-29T13:17:44Z",
+  "homepage": "",
+  "size": 316,
+  "stargazers_count": 36,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "develop",
+  "organization": {
+    "login": "Playtika",
+    "id": 397334,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM5NzMzNA==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/397334?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Playtika",
+    "html_url": "https://github.com/Playtika",
+    "followers_url": "https://api.github.com/users/Playtika/followers",
+    "following_url": "https://api.github.com/users/Playtika/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Playtika/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Playtika/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Playtika/subscriptions",
+    "organizations_url": "https://api.github.com/users/Playtika/orgs",
+    "repos_url": "https://api.github.com/users/Playtika/repos",
+    "events_url": "https://api.github.com/users/Playtika/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Playtika/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mshurin90": 1,
+    "vgerya": 1,
+    "The-Alchemist": 1,
+    "matveym": 1,
+    "vmotolyzhenko": 1,
+    "alexsderkach": 2,
+    "tdanylchuk": 4,
+    "Aloren": 4,
+    "alekseibevzenko": 7,
+    "vasilievip": 24,
+    "jenkins-playtika": 26
+  },
+  "pulls_authors": [
+    "mshurin90",
+    "tdanylchuk",
+    "The-Alchemist",
+    "vgerya",
+    "wahid-anwar-m4",
+    "vasilievip",
+    "Aloren",
+    "alexsderkach",
+    "matveym",
+    "vmotolyzhenko",
+    "alekseibevzenko",
+    "codacy-badger"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 287551,
+      "color": "#b07219"
+    },
+    "Shell": {
+      "bytes": 563,
+      "color": "#89e051"
+    },
+    "Lua": {
+      "bytes": 175,
+      "color": "#000080"
+    }
+  },
+  "fetched_at": "2018-09-12T04:55:59.219Z"
+}

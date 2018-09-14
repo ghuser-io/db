@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "goagrep",
+  "full_name": "schollz/goagrep",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/goagrep",
+  "description": "agrep-like fuzzy matching, but made faster using Golang and precomputation.",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/goagrep",
+  "languages_url": "https://api.github.com/repos/schollz/goagrep/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/goagrep/pulls{/number}",
+  "created_at": "2015-09-10T12:50:26Z",
+  "updated_at": "2018-06-15T16:04:11Z",
+  "pushed_at": "2016-10-10T18:24:30Z",
+  "homepage": "",
+  "size": 1049,
+  "stargazers_count": 38,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 162
+  },
+  "pulls_authors": [
+    "schollz"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 34556,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 1565,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:43.996Z"
+}

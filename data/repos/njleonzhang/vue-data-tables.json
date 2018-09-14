@@ -1,0 +1,98 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vue-data-tables",
+  "full_name": "njleonzhang/vue-data-tables",
+  "owner": "njleonzhang",
+  "private": false,
+  "html_url": "https://github.com/njleonzhang/vue-data-tables",
+  "description": "A simple, customizable and pageable table with SSR support, based on vue2 and element-ui",
+  "fork": false,
+  "url": "https://api.github.com/repos/njleonzhang/vue-data-tables",
+  "languages_url": "https://api.github.com/repos/njleonzhang/vue-data-tables/languages",
+  "pulls_url": "https://api.github.com/repos/njleonzhang/vue-data-tables/pulls{/number}",
+  "created_at": "2016-12-17T02:32:14Z",
+  "updated_at": "2018-09-14T03:12:17Z",
+  "pushed_at": "2018-08-06T02:11:16Z",
+  "homepage": "https://njleonzhang.github.io/vue-data-tables",
+  "size": 2969,
+  "stargazers_count": 703,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "lochstar": 1,
+    "cotsog": 1,
+    "jprando": 1,
+    "rochefort": 1,
+    "nezhar": 1,
+    "kimond": 1,
+    "yangyuqi": 1,
+    "isme2n": 1,
+    "sobolevn": 1,
+    "sallyruthstruik": 2,
+    "andrewharvey": 2,
+    "nosnaj": 2,
+    "Jaxelr": 2,
+    "rajagopalx": 3,
+    "storkyeh": 10,
+    "FreezingRiver": 18,
+    "njleonzhang": 391
+  },
+  "pulls_authors": [
+    "lochstar",
+    "rajagopalx",
+    "cotsog",
+    "jprando",
+    "ramcharan12345",
+    "kolesoffac",
+    "IvanBernatovic",
+    "rochefort",
+    "sallyruthstruik",
+    "andrewharvey",
+    "reclay",
+    "nezhar",
+    "kimond",
+    "luisfrocha",
+    "nosnaj",
+    "vinx13",
+    "isme2n",
+    "sobolevn",
+    "yusser",
+    "chandrasekar-zarget",
+    "SimonZhangITer",
+    "njleonzhang",
+    "Jaxelr",
+    "storkyeh"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 83177,
+      "color": "#f1e05a"
+    },
+    "Vue": {
+      "bytes": 11139,
+      "color": "#2c3e50"
+    },
+    "Shell": {
+      "bytes": 924,
+      "color": "#89e051"
+    },
+    "HTML": {
+      "bytes": 203,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 162,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-14T08:25:15.608Z"
+}

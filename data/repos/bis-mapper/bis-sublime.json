@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bis-sublime",
+  "full_name": "bis-mapper/bis-sublime",
+  "owner": "bis-mapper",
+  "private": false,
+  "html_url": "https://github.com/bis-mapper/bis-sublime",
+  "description": "Sublime syntax highlighting and utilities",
+  "fork": false,
+  "url": "https://api.github.com/repos/bis-mapper/bis-sublime",
+  "languages_url": "https://api.github.com/repos/bis-mapper/bis-sublime/languages",
+  "pulls_url": "https://api.github.com/repos/bis-mapper/bis-sublime/pulls{/number}",
+  "created_at": "2013-02-06T21:04:22Z",
+  "updated_at": "2018-08-22T21:04:25Z",
+  "pushed_at": "2018-08-22T21:04:23Z",
+  "homepage": null,
+  "size": 315,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "bis-mapper",
+    "id": 1724976,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3MjQ5NzY=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1724976?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/bis-mapper",
+    "html_url": "https://github.com/bis-mapper",
+    "followers_url": "https://api.github.com/users/bis-mapper/followers",
+    "following_url": "https://api.github.com/users/bis-mapper/following{/other_user}",
+    "gists_url": "https://api.github.com/users/bis-mapper/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/bis-mapper/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/bis-mapper/subscriptions",
+    "organizations_url": "https://api.github.com/users/bis-mapper/orgs",
+    "repos_url": "https://api.github.com/users/bis-mapper/repos",
+    "events_url": "https://api.github.com/users/bis-mapper/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/bis-mapper/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "wickchucked": 1,
+    "edwinn": 32
+  },
+  "pulls_authors": [
+    "Pipsqueake",
+    "wickchucked"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 167551,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 2032,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:35.793Z"
+}

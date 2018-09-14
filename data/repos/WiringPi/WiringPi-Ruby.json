@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "WiringPi-Ruby",
+  "full_name": "WiringPi/WiringPi-Ruby",
+  "owner": "WiringPi",
+  "private": false,
+  "html_url": "https://github.com/WiringPi/WiringPi-Ruby",
+  "description": "Version 2.x of Gordon Henderson's Arduino-like WiringPi GPIO functions, wrapped up for Ruby.",
+  "fork": false,
+  "url": "https://api.github.com/repos/WiringPi/WiringPi-Ruby",
+  "languages_url": "https://api.github.com/repos/WiringPi/WiringPi-Ruby/languages",
+  "pulls_url": "https://api.github.com/repos/WiringPi/WiringPi-Ruby/pulls{/number}",
+  "created_at": "2013-04-07T07:11:52Z",
+  "updated_at": "2018-07-24T19:22:24Z",
+  "pushed_at": "2016-08-06T02:05:46Z",
+  "homepage": null,
+  "size": 303,
+  "stargazers_count": 73,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx_id": "LGPL-3.0",
+    "url": "https://api.github.com/licenses/lgpl-3.0",
+    "node_id": "MDc6TGljZW5zZTEy"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "WiringPi",
+    "id": 1950827,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5NTA4Mjc=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/1950827?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/WiringPi",
+    "html_url": "https://github.com/WiringPi",
+    "followers_url": "https://api.github.com/users/WiringPi/followers",
+    "following_url": "https://api.github.com/users/WiringPi/following{/other_user}",
+    "gists_url": "https://api.github.com/users/WiringPi/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/WiringPi/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/WiringPi/subscriptions",
+    "organizations_url": "https://api.github.com/users/WiringPi/orgs",
+    "repos_url": "https://api.github.com/users/WiringPi/repos",
+    "events_url": "https://api.github.com/users/WiringPi/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/WiringPi/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Tom-Davidson": 1,
+    "reednj": 1,
+    "mikegabriel": 1,
+    "libbymiller": 3,
+    "andrewn": 5,
+    "Gadgetoid": 29
+  },
+  "pulls_authors": [
+    "ermaker",
+    "Tom-Davidson",
+    "reednj",
+    "andrewn"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 201110,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 8829,
+      "color": "#427819"
+    },
+    "Ruby": {
+      "bytes": 8604,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:12.577Z"
+}

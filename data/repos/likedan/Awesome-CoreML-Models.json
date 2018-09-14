@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Awesome-CoreML-Models",
+  "full_name": "likedan/Awesome-CoreML-Models",
+  "owner": "likedan",
+  "private": false,
+  "html_url": "https://github.com/likedan/Awesome-CoreML-Models",
+  "description": "Largest list of models for Core ML (for iOS 11+)",
+  "fork": false,
+  "url": "https://api.github.com/repos/likedan/Awesome-CoreML-Models",
+  "languages_url": "https://api.github.com/repos/likedan/Awesome-CoreML-Models/languages",
+  "pulls_url": "https://api.github.com/repos/likedan/Awesome-CoreML-Models/pulls{/number}",
+  "created_at": "2017-08-22T10:43:47Z",
+  "updated_at": "2018-09-14T08:17:05Z",
+  "pushed_at": "2018-03-16T21:56:19Z",
+  "homepage": "",
+  "size": 2998,
+  "stargazers_count": 3281,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "imxieyi": 1,
+    "Lausbert": 1,
+    "plantvsbirds": 2,
+    "menant": 2,
+    "likedan": 75
+  },
+  "pulls_authors": [
+    "likedan",
+    "plantvsbirds",
+    "imxieyi",
+    "menant",
+    "Lausbert",
+    "ghost"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 88,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-14T08:33:00.602Z"
+}

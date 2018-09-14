@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "citeproc-py",
+  "full_name": "brechtm/citeproc-py",
+  "owner": "brechtm",
+  "private": false,
+  "html_url": "https://github.com/brechtm/citeproc-py",
+  "description": "Yet another Python CSL Processor",
+  "fork": false,
+  "url": "https://api.github.com/repos/brechtm/citeproc-py",
+  "languages_url": "https://api.github.com/repos/brechtm/citeproc-py/languages",
+  "pulls_url": "https://api.github.com/repos/brechtm/citeproc-py/pulls{/number}",
+  "created_at": "2012-01-05T21:20:50Z",
+  "updated_at": "2018-08-24T21:10:17Z",
+  "pushed_at": "2018-05-22T11:44:11Z",
+  "homepage": "https://pypi.python.org/pypi/citeproc-py/",
+  "size": 477,
+  "stargazers_count": 64,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "guillermomarco": 1,
+    "npdoty": 1,
+    "jascoul": 1,
+    "hetsch": 1,
+    "davidlesieur": 2,
+    "jmcarp": 2,
+    "yarikoptic": 4,
+    "jayvdb": 4,
+    "matthew-brett": 7,
+    "brechtm": 326
+  },
+  "pulls_authors": [
+    "yarikoptic",
+    "guillermomarco",
+    "psaer",
+    "jayvdb",
+    "mpaolino",
+    "npdoty",
+    "davidlesieur",
+    "do3cc",
+    "jascoul",
+    "hetsch",
+    "matthew-brett"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 158101,
+      "color": "#3572A5"
+    },
+    "TeX": {
+      "bytes": 527,
+      "color": "#3D6117"
+    }
+  },
+  "fetched_at": "2018-08-24T22:59:30.671Z"
+}

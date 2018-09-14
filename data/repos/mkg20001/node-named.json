@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-named",
+  "full_name": "mkg20001/node-named",
+  "owner": "mkg20001",
+  "private": false,
+  "html_url": "https://github.com/mkg20001/node-named",
+  "description": "DNS Server in node.js",
+  "fork": true,
+  "url": "https://api.github.com/repos/mkg20001/node-named",
+  "languages_url": "https://api.github.com/repos/mkg20001/node-named/languages",
+  "pulls_url": "https://api.github.com/repos/mkg20001/node-named/pulls{/number}",
+  "created_at": "2018-01-21T09:56:53Z",
+  "updated_at": "2018-01-21T21:02:27Z",
+  "pushed_at": "2018-01-21T10:01:35Z",
+  "homepage": "",
+  "size": 219,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mkg20001": 1,
+    "AaronNGray": 1,
+    "AsyncNick": 1,
+    "demmer": 1,
+    "brianin3d": 1,
+    "cyberglot": 1,
+    "trevoro": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 56833,
+      "color": "#f1e05a"
+    },
+    "Makefile": {
+      "bytes": 226,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:37.312Z"
+}

@@ -1,0 +1,19 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "lordlinus/cartodb": {
+      "full_name": "lordlinus/cartodb",
+      "name": "cartodb",
+      "stargazers_count": 14,
+      "popularity": 2.117310085935697,
+      "percentage": 94,
+      "maturity": 2.006040535099928,
+      "total_commits_count": 50,
+      "activity": 0.5166138407851335,
+      "total_score": 36.7541544189263,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jsdoctoolkit.tmbundle",
+  "full_name": "gunta/jsdoctoolkit.tmbundle",
+  "owner": "gunta",
+  "private": false,
+  "html_url": "https://github.com/gunta/jsdoctoolkit.tmbundle",
+  "description": "TextMate bundle to assist in the usage of the JsDoc Toolkit JavaScript documentation system",
+  "fork": true,
+  "url": "https://api.github.com/repos/gunta/jsdoctoolkit.tmbundle",
+  "languages_url": "https://api.github.com/repos/gunta/jsdoctoolkit.tmbundle/languages",
+  "pulls_url": "https://api.github.com/repos/gunta/jsdoctoolkit.tmbundle/pulls{/number}",
+  "created_at": "2011-06-14T02:41:31Z",
+  "updated_at": "2013-01-03T17:04:47Z",
+  "pushed_at": "2011-06-14T06:55:11Z",
+  "homepage": "",
+  "size": 1103,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "gunta": 2,
+    "choan": 2,
+    "he8us": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 337677,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 1626,
+      "color": "#89e051"
+    },
+    "Java": {
+      "bytes": 1496,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-11T23:06:07.756Z"
+}

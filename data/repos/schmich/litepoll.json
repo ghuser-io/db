@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "litepoll",
+  "full_name": "schmich/litepoll",
+  "owner": "schmich",
+  "private": false,
+  "html_url": "https://github.com/schmich/litepoll",
+  "description": "Polls, polls everywhere.",
+  "fork": false,
+  "url": "https://api.github.com/repos/schmich/litepoll",
+  "languages_url": "https://api.github.com/repos/schmich/litepoll/languages",
+  "pulls_url": "https://api.github.com/repos/schmich/litepoll/pulls{/number}",
+  "created_at": "2014-02-22T09:44:39Z",
+  "updated_at": "2017-09-21T21:03:03Z",
+  "pushed_at": "2015-05-21T09:02:07Z",
+  "homepage": "http://litepoll.com",
+  "size": 9929,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "schmich": 183
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 68400,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 10251,
+      "color": "#563d7c"
+    },
+    "Nginx": {
+      "bytes": 1267,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:23.182Z"
+}

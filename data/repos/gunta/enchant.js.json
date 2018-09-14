@@ -1,0 +1,33 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "enchant.js",
+  "full_name": "gunta/enchant.js",
+  "owner": "gunta",
+  "private": false,
+  "html_url": "https://github.com/gunta/enchant.js",
+  "description": "HTML5/JavaScript Based Game Engine / MIT or GPL dual license",
+  "fork": true,
+  "url": "https://api.github.com/repos/gunta/enchant.js",
+  "languages_url": "https://api.github.com/repos/gunta/enchant.js/languages",
+  "pulls_url": "https://api.github.com/repos/gunta/enchant.js/pulls{/number}",
+  "created_at": "2011-06-14T09:34:51Z",
+  "updated_at": "2013-01-03T17:07:05Z",
+  "pushed_at": "2011-06-08T08:18:33Z",
+  "homepage": "http://9leap.net/",
+  "size": 1078,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "tomykaira": 1,
+    "rtsan": 6,
+    "uei-moon": 10,
+    "alpicola": 28
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-11T23:06:06.159Z"
+}

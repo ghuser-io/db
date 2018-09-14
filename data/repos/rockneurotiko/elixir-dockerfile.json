@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "elixir-dockerfile",
+  "full_name": "rockneurotiko/elixir-dockerfile",
+  "owner": "rockneurotiko",
+  "private": false,
+  "html_url": "https://github.com/rockneurotiko/elixir-dockerfile",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/rockneurotiko/elixir-dockerfile",
+  "languages_url": "https://api.github.com/repos/rockneurotiko/elixir-dockerfile/languages",
+  "pulls_url": "https://api.github.com/repos/rockneurotiko/elixir-dockerfile/pulls{/number}",
+  "created_at": "2017-01-06T19:29:54Z",
+  "updated_at": "2017-01-06T23:58:55Z",
+  "pushed_at": "2017-09-26T15:55:36Z",
+  "homepage": null,
+  "size": 2,
+  "stargazers_count": 1,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "rockneurotiko": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 106,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:42.704Z"
+}

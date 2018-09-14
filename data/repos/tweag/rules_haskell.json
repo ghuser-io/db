@@ -1,0 +1,124 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rules_haskell",
+  "full_name": "tweag/rules_haskell",
+  "owner": "tweag",
+  "private": false,
+  "html_url": "https://github.com/tweag/rules_haskell",
+  "description": "Haskell rules for Bazel.",
+  "fork": false,
+  "url": "https://api.github.com/repos/tweag/rules_haskell",
+  "languages_url": "https://api.github.com/repos/tweag/rules_haskell/languages",
+  "pulls_url": "https://api.github.com/repos/tweag/rules_haskell/pulls{/number}",
+  "created_at": "2017-11-06T08:50:01Z",
+  "updated_at": "2018-09-10T14:17:31Z",
+  "pushed_at": "2018-09-10T14:17:28Z",
+  "homepage": "https://haskell.build",
+  "size": 1279,
+  "stargazers_count": 80,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "tweag",
+    "id": 6057932,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYwNTc5MzI=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/6057932?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/tweag",
+    "html_url": "https://github.com/tweag",
+    "followers_url": "https://api.github.com/users/tweag/followers",
+    "following_url": "https://api.github.com/users/tweag/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tweag/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/tweag/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tweag/subscriptions",
+    "organizations_url": "https://api.github.com/users/tweag/orgs",
+    "repos_url": "https://api.github.com/users/tweag/repos",
+    "events_url": "https://api.github.com/users/tweag/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/tweag/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "lunaris": 1,
+    "thumphries": 1,
+    "neongreen": 1,
+    "patrickmn": 1,
+    "ghorn": 1,
+    "bowlofstew": 1,
+    "reallinfo": 2,
+    "aherrmann": 2,
+    "nmattia": 2,
+    "faineance": 2,
+    "philderbeast": 4,
+    "jin": 4,
+    "gdeest": 5,
+    "facundominguez": 7,
+    "Profpatsch": 11,
+    "guibou": 13,
+    "judah": 34,
+    "Fuuzetsu": 51,
+    "mrkkrp": 115,
+    "mboes": 216
+  },
+  "pulls_authors": [
+    "guibou",
+    "regnat",
+    "mboes",
+    "palmerlao",
+    "philderbeast",
+    "jin",
+    "Profpatsch",
+    "lunaris",
+    "mrkkrp",
+    "thumphries",
+    "judah",
+    "reallinfo",
+    "facundominguez",
+    "aherrmann",
+    "neongreen",
+    "patrickmn",
+    "gdeest",
+    "ghorn",
+    "bowlofstew",
+    "ghost",
+    "nmattia",
+    "Fuuzetsu",
+    "faineance"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 192300,
+      "color": "#3572A5"
+    },
+    "Haskell": {
+      "bytes": 15476,
+      "color": "#5e5086"
+    },
+    "Shell": {
+      "bytes": 9432,
+      "color": "#89e051"
+    },
+    "Nix": {
+      "bytes": 2994,
+      "color": "#7e7eff"
+    },
+    "C": {
+      "bytes": 459,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 60,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-10T15:11:22.255Z"
+}

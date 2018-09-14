@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "openftp4",
+  "full_name": "turbo/openftp4",
+  "owner": "turbo",
+  "private": false,
+  "html_url": "https://github.com/turbo/openftp4",
+  "description": "A list of all FTP servers in IPv4 that allow anonymous logins.",
+  "fork": false,
+  "url": "https://api.github.com/repos/turbo/openftp4",
+  "languages_url": "https://api.github.com/repos/turbo/openftp4/languages",
+  "pulls_url": "https://api.github.com/repos/turbo/openftp4/pulls{/number}",
+  "created_at": "2016-09-18T00:41:56Z",
+  "updated_at": "2018-08-31T19:50:16Z",
+  "pushed_at": "2018-03-20T08:38:05Z",
+  "homepage": "http://git.io/ftp",
+  "size": 28988,
+  "stargazers_count": 614,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "amalmurali47": 1,
+    "dmd": 1
+  },
+  "pulls_authors": [
+    "amalmurali47",
+    "dmd"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-12T07:44:08.056Z"
+}

@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "challenges",
+  "full_name": "sr6033/challenges",
+  "owner": "sr6033",
+  "private": false,
+  "html_url": "https://github.com/sr6033/challenges",
+  "description": "PyBites Weekly Code Challenges",
+  "fork": true,
+  "url": "https://api.github.com/repos/sr6033/challenges",
+  "languages_url": "https://api.github.com/repos/sr6033/challenges/languages",
+  "created_at": "2017-10-07T07:10:01Z",
+  "updated_at": "2018-07-25T07:19:32Z",
+  "pushed_at": "2017-10-07T12:18:49Z",
+  "homepage": "http://pybit.es/pages/challenges.html",
+  "size": 26352,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sr6033": 1,
+    "gitter-badger": 1,
+    "jmtaysom": 1,
+    "bbelderbos": 1,
+    "hobojoe1848": 2,
+    "pybites": 111
+  },
+  "languages": {
+    "Python": {
+      "bytes": 30015,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 12380,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 262,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/sr6033/challenges/pulls{/number}",
+  "pulls_authors": []
+}

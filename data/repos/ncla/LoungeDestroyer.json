@@ -1,0 +1,74 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "LoungeDestroyer",
+  "full_name": "ncla/LoungeDestroyer",
+  "owner": "ncla",
+  "private": false,
+  "html_url": "https://github.com/ncla/LoungeDestroyer",
+  "description": "Chrome extension for CS:GO Lounge and DOTA2 Lounge",
+  "fork": false,
+  "url": "https://api.github.com/repos/ncla/LoungeDestroyer",
+  "languages_url": "https://api.github.com/repos/ncla/LoungeDestroyer/languages",
+  "pulls_url": "https://api.github.com/repos/ncla/LoungeDestroyer/pulls{/number}",
+  "created_at": "2014-05-30T17:50:32Z",
+  "updated_at": "2018-08-27T22:40:06Z",
+  "pushed_at": "2018-01-14T16:32:44Z",
+  "homepage": "",
+  "size": 4753,
+  "stargazers_count": 69,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Sly1029": 1,
+    "oktapodia": 1,
+    "Gasur": 1,
+    "Andrej730": 2,
+    "Jakehp": 2,
+    "darksworm": 4,
+    "Outpox": 7,
+    "Roguyt": 8,
+    "birjolaxew": 216,
+    "ncla": 441
+  },
+  "pulls_authors": [
+    "Roguyt",
+    "Sly1029",
+    "darksworm",
+    "oktapodia",
+    "ncla",
+    "Andrej730",
+    "DaRealShazz",
+    "ghost",
+    "birjolaxew",
+    "SSSSSSSSSSSSSD",
+    "Jakehp",
+    "Outpox",
+    "Gad1337",
+    "nkov",
+    "Gasur"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 311563,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 101486,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 57355,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T00:07:16.784Z"
+}

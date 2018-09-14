@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "flake8-strict",
+  "full_name": "smarkets/flake8-strict",
+  "owner": "smarkets",
+  "private": false,
+  "html_url": "https://github.com/smarkets/flake8-strict",
+  "description": "Flake8 plugin that checks Python code against a set of opinionated style rules",
+  "fork": false,
+  "url": "https://api.github.com/repos/smarkets/flake8-strict",
+  "languages_url": "https://api.github.com/repos/smarkets/flake8-strict/languages",
+  "pulls_url": "https://api.github.com/repos/smarkets/flake8-strict/pulls{/number}",
+  "created_at": "2015-10-21T09:48:35Z",
+  "updated_at": "2018-05-30T14:07:58Z",
+  "pushed_at": "2018-05-30T14:07:56Z",
+  "homepage": "",
+  "size": 49,
+  "stargazers_count": 9,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "smarkets",
+    "id": 86334,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjg2MzM0",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/86334?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/smarkets",
+    "html_url": "https://github.com/smarkets",
+    "followers_url": "https://api.github.com/users/smarkets/followers",
+    "following_url": "https://api.github.com/users/smarkets/following{/other_user}",
+    "gists_url": "https://api.github.com/users/smarkets/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/smarkets/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/smarkets/subscriptions",
+    "organizations_url": "https://api.github.com/users/smarkets/orgs",
+    "repos_url": "https://api.github.com/users/smarkets/repos",
+    "events_url": "https://api.github.com/users/smarkets/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/smarkets/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mxr": 1,
+    "dirn": 1,
+    "mjacksonw": 1,
+    "alexdias": 1,
+    "sshishov": 2,
+    "jayvdb": 2,
+    "pgjones": 3,
+    "JaimeLennox": 18,
+    "jstasiak": 21
+  },
+  "pulls_authors": [
+    "JaimeLennox",
+    "dirn",
+    "ryantam626",
+    "sshishov",
+    "jstasiak",
+    "jayvdb",
+    "mjacksonw"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 12959,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

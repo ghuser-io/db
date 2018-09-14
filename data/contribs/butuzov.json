@@ -1,0 +1,125 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "hashicorp/terraform": {
+      "full_name": "hashicorp/terraform",
+      "name": "terraform",
+      "stargazers_count": 13432,
+      "popularity": 5,
+      "percentage": 0,
+      "maturity": 5,
+      "total_commits_count": 19552,
+      "activity": 5,
+      "total_score": 30,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "butuzov/help.md": {
+      "full_name": "butuzov/help.md",
+      "name": "help.md",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 21,
+      "activity": 5,
+      "total_score": 5,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "hashicorp/packer": {
+      "full_name": "hashicorp/packer",
+      "name": "packer",
+      "stargazers_count": 7998,
+      "popularity": 4.902971614865361,
+      "percentage": 0,
+      "maturity": 4.99159085609118,
+      "total_commits_count": 9809,
+      "activity": 5,
+      "total_score": 29.692096556778445,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "mmcgrana/gobyexample": {
+      "full_name": "mmcgrana/gobyexample",
+      "name": "gobyexample",
+      "stargazers_count": 2860,
+      "popularity": 4.456268432811589,
+      "percentage": 0.25906735751295334,
+      "maturity": 3.8663064887670107,
+      "total_commits_count": 772,
+      "activity": 2.3443074511743047,
+      "total_score": 23.59580730648649,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "butuzov/WP-Using-Non-Default-URIs": {
+      "full_name": "butuzov/WP-Using-Non-Default-URIs",
+      "name": "WP-Using-Non-Default-URIs",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 29,
+      "activity": 1.5054595804334543,
+      "total_score": 1.5054595804334543,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "butuzov/Debug-Bar-Rewrite-Rules": {
+      "full_name": "butuzov/Debug-Bar-Rewrite-Rules",
+      "name": "Debug-Bar-Rewrite-Rules",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 1.0429714431619128,
+      "total_commits_count": 41,
+      "activity": 1.9915135115808296,
+      "total_score": 4.077456397904655,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "tmrts/go-patterns": {
+      "full_name": "tmrts/go-patterns",
+      "name": "go-patterns",
+      "stargazers_count": 6607,
+      "popularity": 4.81998423161007,
+      "percentage": 0,
+      "maturity": 2.4802970571810303,
+      "total_commits_count": 70,
+      "activity": 5,
+      "total_score": 24.42054680919227,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "tollmanz/debug-bar-cron": {
+      "full_name": "tollmanz/debug-bar-cron",
+      "name": "debug-bar-cron",
+      "stargazers_count": 15,
+      "popularity": 2.149257924096549,
+      "percentage": 1.2987012987012987,
+      "maturity": 2.5711055574387496,
+      "total_commits_count": 77,
+      "activity": 1.0352900665929545,
+      "total_score": 12.988136681204972,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "butuzov/gobyexample": {
+      "full_name": "butuzov/gobyexample",
+      "name": "gobyexample",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 11.542857142857143,
+      "maturity": 3.9234745947919443,
+      "total_commits_count": 875,
+      "activity": 5,
+      "total_score": 17.533971283417372,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "hashicorp"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tungstenjs",
+  "full_name": "wayfair/tungstenjs",
+  "owner": "wayfair",
+  "private": false,
+  "html_url": "https://github.com/wayfair/tungstenjs",
+  "description": "Tungsten.js is a modular framework for creating web UIs with high-performance rendering on both server and client.",
+  "fork": false,
+  "url": "https://api.github.com/repos/wayfair/tungstenjs",
+  "languages_url": "https://api.github.com/repos/wayfair/tungstenjs/languages",
+  "pulls_url": "https://api.github.com/repos/wayfair/tungstenjs/pulls{/number}",
+  "created_at": "2015-03-11T17:41:39Z",
+  "updated_at": "2018-08-19T11:09:27Z",
+  "pushed_at": "2017-02-09T16:41:06Z",
+  "homepage": "https://wayfair.github.io/tungstenjs/",
+  "size": 4345,
+  "stargazers_count": 210,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "wayfair",
+    "id": 1065892,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNjU4OTI=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/1065892?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/wayfair",
+    "html_url": "https://github.com/wayfair",
+    "followers_url": "https://api.github.com/users/wayfair/followers",
+    "following_url": "https://api.github.com/users/wayfair/following{/other_user}",
+    "gists_url": "https://api.github.com/users/wayfair/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/wayfair/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/wayfair/subscriptions",
+    "organizations_url": "https://api.github.com/users/wayfair/orgs",
+    "repos_url": "https://api.github.com/users/wayfair/repos",
+    "events_url": "https://api.github.com/users/wayfair/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/wayfair/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "morganpackard": 1,
+    "prasam60": 1,
+    "ballercat": 1,
+    "jedcn": 1,
+    "shreniksadalgi": 1,
+    "kofiachie": 2,
+    "draco2003": 2,
+    "mgrip": 2,
+    "artemruts": 10,
+    "blamattina": 12,
+    "danieluhl": 15,
+    "hmorgancode": 20,
+    "dalkire": 27,
+    "andrewrota": 482,
+    "MattDeeg": 495
+  },
+  "pulls_authors": [
+    "MattDeeg",
+    "andrewrota",
+    "morganpackard",
+    "artemruts",
+    "prasam60",
+    "danieluhl",
+    "ballercat",
+    "hmorgancode",
+    "kofiachie",
+    "lukewestby",
+    "ndreckshage",
+    "dalkire",
+    "jedcn",
+    "blamattina",
+    "draco2003",
+    "mgrip"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2213794,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 40622,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 2203,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T04:57:36.048Z"
+}

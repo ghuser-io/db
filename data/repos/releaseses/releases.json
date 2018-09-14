@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "releases",
+  "full_name": "releaseses/releases",
+  "owner": "releaseses",
+  "private": false,
+  "html_url": "https://github.com/releaseses/releases",
+  "description": "Cozy place for release notes and product announcements",
+  "fork": false,
+  "url": "https://api.github.com/repos/releaseses/releases",
+  "languages_url": "https://api.github.com/repos/releaseses/releases/languages",
+  "pulls_url": "https://api.github.com/repos/releaseses/releases/pulls{/number}",
+  "created_at": "2018-08-10T00:26:07Z",
+  "updated_at": "2018-09-14T08:19:22Z",
+  "pushed_at": "2018-09-14T08:09:22Z",
+  "homepage": "",
+  "size": 368,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "releaseses",
+    "id": 42117558,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQyMTE3NTU4",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/42117558?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/releaseses",
+    "html_url": "https://github.com/releaseses",
+    "followers_url": "https://api.github.com/users/releaseses/followers",
+    "following_url": "https://api.github.com/users/releaseses/following{/other_user}",
+    "gists_url": "https://api.github.com/users/releaseses/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/releaseses/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/releaseses/subscriptions",
+    "organizations_url": "https://api.github.com/users/releaseses/orgs",
+    "repos_url": "https://api.github.com/users/releaseses/repos",
+    "events_url": "https://api.github.com/users/releaseses/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/releaseses/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "xarrijorge": 1,
+    "usernam3": 11
+  },
+  "pulls_authors": [
+    "xarrijorge",
+    "usernam3"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 78496,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 62288,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 2129,
+      "color": "#563d7c"
+    },
+    "Dockerfile": {
+      "bytes": 953,
+      "color": "#0db7ed"
+    },
+    "HTML": {
+      "bytes": 424,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-14T09:11:17.183Z"
+}

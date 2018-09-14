@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "funcCF",
+  "full_name": "nomeata/funcCF",
+  "owner": "nomeata",
+  "private": false,
+  "html_url": "https://github.com/nomeata/funcCF",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/nomeata/funcCF",
+  "languages_url": "https://api.github.com/repos/nomeata/funcCF/languages",
+  "pulls_url": "https://api.github.com/repos/nomeata/funcCF/pulls{/number}",
+  "created_at": "2012-06-03T12:37:14Z",
+  "updated_at": "2016-03-20T13:19:48Z",
+  "pushed_at": "2012-06-03T12:38:00Z",
+  "homepage": null,
+  "size": 360,
+  "stargazers_count": 1,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "nomeata": 165
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Haskell": {
+      "bytes": 33290,
+      "color": "#5e5086"
+    },
+    "Perl": {
+      "bytes": 436,
+      "color": "#0298c3"
+    },
+    "Shell": {
+      "bytes": 68,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:21.304Z"
+}

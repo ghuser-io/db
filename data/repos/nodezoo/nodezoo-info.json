@@ -1,0 +1,88 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nodezoo-info",
+  "full_name": "nodezoo/nodezoo-info",
+  "owner": "nodezoo",
+  "private": false,
+  "html_url": "https://github.com/nodezoo/nodezoo-info",
+  "description": "nodezoo-info",
+  "fork": false,
+  "url": "https://api.github.com/repos/nodezoo/nodezoo-info",
+  "languages_url": "https://api.github.com/repos/nodezoo/nodezoo-info/languages",
+  "pulls_url": "https://api.github.com/repos/nodezoo/nodezoo-info/pulls{/number}",
+  "created_at": "2014-09-03T22:22:33Z",
+  "updated_at": "2018-04-03T22:02:57Z",
+  "pushed_at": "2017-11-27T22:03:47Z",
+  "homepage": "http://github.com/nodezoo/tao",
+  "size": 114,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "nodezoo",
+    "id": 2903118,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI5MDMxMTg=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2903118?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/nodezoo",
+    "html_url": "https://github.com/nodezoo",
+    "followers_url": "https://api.github.com/users/nodezoo/followers",
+    "following_url": "https://api.github.com/users/nodezoo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/nodezoo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/nodezoo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/nodezoo/subscriptions",
+    "organizations_url": "https://api.github.com/users/nodezoo/orgs",
+    "repos_url": "https://api.github.com/users/nodezoo/repos",
+    "events_url": "https://api.github.com/users/nodezoo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/nodezoo/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "powerbrian": 1,
+    "shakywakey": 1,
+    "naomifeehan": 1,
+    "AdrianRossouw": 2,
+    "Georgette": 2,
+    "pelger": 2,
+    "paolochiodi": 2,
+    "mirceaalexandru": 4,
+    "matt-oc": 6,
+    "mcdonnelldean": 11,
+    "shanel262": 13,
+    "rjrodger": 43
+  },
+  "pulls_authors": [
+    "shanel262",
+    "mirceaalexandru",
+    "andrewcashmore",
+    "matt-oc",
+    "powerbrian",
+    "CodeWriterWriter",
+    "Georgette",
+    "mcdonnelldean",
+    "KristinaMatuleviciute",
+    "paolochiodi",
+    "naomifeehan"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 5028,
+      "color": "#f1e05a"
+    },
+    "Makefile": {
+      "bytes": 187,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:29.133Z"
+}

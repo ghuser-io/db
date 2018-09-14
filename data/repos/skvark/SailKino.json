@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SailKino",
+  "full_name": "skvark/SailKino",
+  "owner": "skvark",
+  "private": false,
+  "html_url": "https://github.com/skvark/SailKino",
+  "description": "Finnkino client for Sailfish OS (Jolla).",
+  "fork": false,
+  "url": "https://api.github.com/repos/skvark/SailKino",
+  "languages_url": "https://api.github.com/repos/skvark/SailKino/languages",
+  "pulls_url": "https://api.github.com/repos/skvark/SailKino/pulls{/number}",
+  "created_at": "2014-09-27T19:28:47Z",
+  "updated_at": "2018-06-02T19:33:40Z",
+  "pushed_at": "2018-06-02T19:33:39Z",
+  "homepage": null,
+  "size": 114,
+  "stargazers_count": 2,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "direc85": 1,
+    "skvark": 43
+  },
+  "pulls_authors": [
+    "direc85",
+    "juhohei"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 54086,
+      "color": "#f34b7d"
+    },
+    "QML": {
+      "bytes": 47221,
+      "color": "#44a51c"
+    },
+    "QMake": {
+      "bytes": 1463,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-11T01:16:34.044Z"
+}

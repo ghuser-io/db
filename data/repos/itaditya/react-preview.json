@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "react-preview",
+  "full_name": "itaditya/react-preview",
+  "owner": "itaditya",
+  "private": false,
+  "html_url": "https://github.com/itaditya/react-preview",
+  "description": "a GitHub App built with probot that generates preview links for react based projects.",
+  "fork": false,
+  "url": "https://api.github.com/repos/itaditya/react-preview",
+  "languages_url": "https://api.github.com/repos/itaditya/react-preview/languages",
+  "created_at": "2018-04-15T05:56:39Z",
+  "updated_at": "2018-07-25T22:26:01Z",
+  "pushed_at": "2018-04-16T15:34:01Z",
+  "homepage": "https://github.com/apps/react-preview",
+  "size": 86,
+  "stargazers_count": 8,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "itaditya": 8
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 1566,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-25T22:48:16.001Z",
+  "pulls_url": "https://api.github.com/repos/itaditya/react-preview/pulls{/number}",
+  "pulls_authors": []
+}

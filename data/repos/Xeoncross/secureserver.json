@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "secureserver",
+  "full_name": "Xeoncross/secureserver",
+  "owner": "Xeoncross",
+  "private": false,
+  "html_url": "https://github.com/Xeoncross/secureserver",
+  "description": "A Simple, Secured Default HTTP(S) Server for Golang",
+  "fork": false,
+  "url": "https://api.github.com/repos/Xeoncross/secureserver",
+  "languages_url": "https://api.github.com/repos/Xeoncross/secureserver/languages",
+  "created_at": "2016-12-19T23:29:32Z",
+  "updated_at": "2018-08-31T05:22:05Z",
+  "pushed_at": "2016-12-26T15:59:49Z",
+  "homepage": "",
+  "size": 7,
+  "stargazers_count": 124,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "DiSiqueira": 1,
+    "Xeoncross": 7
+  },
+  "languages": {
+    "Go": {
+      "bytes": 3260,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-08-31T06:09:44.293Z",
+  "pulls_url": "https://api.github.com/repos/Xeoncross/secureserver/pulls{/number}",
+  "pulls_authors": [
+    "DiSiqueira"
+  ]
+}

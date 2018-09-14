@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "teamspeak-query-client",
+  "full_name": "mkg20001/teamspeak-query-client",
+  "owner": "mkg20001",
+  "private": false,
+  "html_url": "https://github.com/mkg20001/teamspeak-query-client",
+  "description": "TeamSpeak Query Client that works",
+  "fork": false,
+  "url": "https://api.github.com/repos/mkg20001/teamspeak-query-client",
+  "languages_url": "https://api.github.com/repos/mkg20001/teamspeak-query-client/languages",
+  "pulls_url": "https://api.github.com/repos/mkg20001/teamspeak-query-client/pulls{/number}",
+  "created_at": "2017-07-30T14:01:00Z",
+  "updated_at": "2018-05-01T18:35:23Z",
+  "pushed_at": "2018-05-01T18:35:31Z",
+  "homepage": null,
+  "size": 61,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "greenkeeper[bot]": 2,
+    "mkg20001": 30
+  },
+  "pulls_authors": [
+    "greenkeeper[bot]"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 18066,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:24.589Z"
+}

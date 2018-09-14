@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "FasterWeb",
+  "full_name": "brillout/FasterWeb",
+  "owner": "brillout",
+  "private": false,
+  "html_url": "https://github.com/brillout/FasterWeb",
+  "description": "Proposal to reduce loading time of library code on the web",
+  "fork": false,
+  "url": "https://api.github.com/repos/brillout/FasterWeb",
+  "languages_url": "https://api.github.com/repos/brillout/FasterWeb/languages",
+  "created_at": "2015-07-04T16:38:22Z",
+  "updated_at": "2017-07-05T17:08:39Z",
+  "pushed_at": "2015-07-23T16:51:58Z",
+  "homepage": "",
+  "size": 220,
+  "stargazers_count": 5,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "brillout": 10
+  },
+  "languages": {},
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/brillout/FasterWeb/pulls{/number}",
+  "pulls_authors": []
+}

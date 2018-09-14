@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Zule",
+  "full_name": "ZeroNerds/Zule",
+  "owner": "ZeroNerds",
+  "private": false,
+  "html_url": "https://github.com/ZeroNerds/Zule",
+  "description": "Zule is a full-text search engine for ZeroNet",
+  "fork": false,
+  "url": "https://api.github.com/repos/ZeroNerds/Zule",
+  "languages_url": "https://api.github.com/repos/ZeroNerds/Zule/languages",
+  "pulls_url": "https://api.github.com/repos/ZeroNerds/Zule/pulls{/number}",
+  "created_at": "2017-04-13T10:49:36Z",
+  "updated_at": "2017-04-29T20:42:09Z",
+  "pushed_at": "2017-04-15T09:57:06Z",
+  "homepage": "http://127.0.0.1:43110/zule.bit",
+  "size": 463,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "ZeroNerds",
+    "id": 27488991,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI3NDg4OTkx",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/27488991?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ZeroNerds",
+    "html_url": "https://github.com/ZeroNerds",
+    "followers_url": "https://api.github.com/users/ZeroNerds/followers",
+    "following_url": "https://api.github.com/users/ZeroNerds/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ZeroNerds/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ZeroNerds/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ZeroNerds/subscriptions",
+    "organizations_url": "https://api.github.com/users/ZeroNerds/orgs",
+    "repos_url": "https://api.github.com/users/ZeroNerds/repos",
+    "events_url": "https://api.github.com/users/ZeroNerds/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ZeroNerds/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mkg20001": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CSS": {
+      "bytes": 42536,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 8249,
+      "color": "#f1e05a"
+    },
+    "CoffeeScript": {
+      "bytes": 3818,
+      "color": "#244776"
+    },
+    "HTML": {
+      "bytes": 1476,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:33.727Z"
+}

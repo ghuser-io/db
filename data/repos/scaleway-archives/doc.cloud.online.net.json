@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "doc.cloud.online.net",
+  "full_name": "scaleway-archives/doc.cloud.online.net",
+  "owner": "scaleway-archives",
+  "private": false,
+  "html_url": "https://github.com/scaleway-archives/doc.cloud.online.net",
+  "description": ":books: Online Labs documentation",
+  "fork": false,
+  "url": "https://api.github.com/repos/scaleway-archives/doc.cloud.online.net",
+  "languages_url": "https://api.github.com/repos/scaleway-archives/doc.cloud.online.net/languages",
+  "pulls_url": "https://api.github.com/repos/scaleway-archives/doc.cloud.online.net/pulls{/number}",
+  "created_at": "2014-11-19T14:21:27Z",
+  "updated_at": "2018-08-11T12:27:03Z",
+  "pushed_at": "2015-04-01T09:36:17Z",
+  "homepage": "doc.cloud.online.net",
+  "size": 9108,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "scaleway-archives",
+    "id": 11839816,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExODM5ODE2",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/11839816?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/scaleway-archives",
+    "html_url": "https://github.com/scaleway-archives",
+    "followers_url": "https://api.github.com/users/scaleway-archives/followers",
+    "following_url": "https://api.github.com/users/scaleway-archives/following{/other_user}",
+    "gists_url": "https://api.github.com/users/scaleway-archives/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/scaleway-archives/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/scaleway-archives/subscriptions",
+    "organizations_url": "https://api.github.com/users/scaleway-archives/orgs",
+    "repos_url": "https://api.github.com/users/scaleway-archives/repos",
+    "events_url": "https://api.github.com/users/scaleway-archives/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/scaleway-archives/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "nlamirault": 1,
+    "vikbez": 1,
+    "newtoncorp": 1,
+    "aimxhaisse": 3,
+    "edouardb": 5,
+    "brmzkw": 7,
+    "moul": 9,
+    "EvaSDK": 18
+  },
+  "pulls_authors": [
+    "nlamirault",
+    "aimxhaisse",
+    "brmzkw"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 603,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:38.776Z"
+}

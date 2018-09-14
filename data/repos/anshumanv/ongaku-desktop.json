@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ongaku-desktop",
+  "full_name": "anshumanv/ongaku-desktop",
+  "owner": "anshumanv",
+  "private": false,
+  "html_url": "https://github.com/anshumanv/ongaku-desktop",
+  "description": "Play anime music via terminal in a desktop app.",
+  "fork": false,
+  "url": "https://api.github.com/repos/anshumanv/ongaku-desktop",
+  "languages_url": "https://api.github.com/repos/anshumanv/ongaku-desktop/languages",
+  "pulls_url": "https://api.github.com/repos/anshumanv/ongaku-desktop/pulls{/number}",
+  "created_at": "2017-08-03T08:53:22Z",
+  "updated_at": "2018-09-07T04:49:08Z",
+  "pushed_at": "2018-01-23T07:39:28Z",
+  "homepage": "",
+  "size": 174,
+  "stargazers_count": 12,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "DivyeshPuri": 1,
+    "blukai": 1,
+    "ismaeldcom": 1,
+    "rchung95": 1,
+    "coderjoe": 1,
+    "shaun-frost": 1,
+    "aashutoshrathi": 1,
+    "zdoc01": 2,
+    "anshumanv": 45
+  },
+  "pulls_authors": [
+    "DivyeshPuri",
+    "zdoc01",
+    "blukai",
+    "ismaeldcom",
+    "rchung95",
+    "coderjoe",
+    "anshumanv",
+    "shaun-frost",
+    "aashutoshrathi"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 7217,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 355,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 138,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-07T11:18:46.435Z"
+}

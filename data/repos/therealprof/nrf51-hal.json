@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nrf51-hal",
+  "full_name": "therealprof/nrf51-hal",
+  "owner": "therealprof",
+  "private": false,
+  "html_url": "https://github.com/therealprof/nrf51-hal",
+  "description": "A work-in-progress Rust embedded-hal crate for the nrf51",
+  "fork": false,
+  "url": "https://api.github.com/repos/therealprof/nrf51-hal",
+  "languages_url": "https://api.github.com/repos/therealprof/nrf51-hal/languages",
+  "pulls_url": "https://api.github.com/repos/therealprof/nrf51-hal/pulls{/number}",
+  "created_at": "2018-01-24T01:26:30Z",
+  "updated_at": "2018-09-09T10:29:14Z",
+  "pushed_at": "2018-09-09T10:29:13Z",
+  "homepage": "",
+  "size": 28,
+  "stargazers_count": 5,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ctz": 3,
+    "Nemo157": 3,
+    "therealprof": 27
+  },
+  "pulls_authors": [
+    "cgm616",
+    "ctz",
+    "Nemo157"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 28122,
+      "color": "#dea584"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:15.774Z"
+}

@@ -1,0 +1,94 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cms-debian",
+  "full_name": "cms-dev/cms-debian",
+  "owner": "cms-dev",
+  "private": false,
+  "html_url": "https://github.com/cms-dev/cms-debian",
+  "description": "CMS packaging for Debian/Ubuntu/...",
+  "fork": false,
+  "url": "https://api.github.com/repos/cms-dev/cms-debian",
+  "languages_url": "https://api.github.com/repos/cms-dev/cms-debian/languages",
+  "pulls_url": "https://api.github.com/repos/cms-dev/cms-debian/pulls{/number}",
+  "created_at": "2013-03-15T18:20:38Z",
+  "updated_at": "2018-02-22T10:52:59Z",
+  "pushed_at": "2013-03-16T12:17:11Z",
+  "homepage": null,
+  "size": 7288,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "cms-dev",
+    "id": 1671612,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2NzE2MTI=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/1671612?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/cms-dev",
+    "html_url": "https://github.com/cms-dev",
+    "followers_url": "https://api.github.com/users/cms-dev/followers",
+    "following_url": "https://api.github.com/users/cms-dev/following{/other_user}",
+    "gists_url": "https://api.github.com/users/cms-dev/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/cms-dev/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/cms-dev/subscriptions",
+    "organizations_url": "https://api.github.com/users/cms-dev/orgs",
+    "repos_url": "https://api.github.com/users/cms-dev/repos",
+    "events_url": "https://api.github.com/users/cms-dev/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/cms-dev/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "evgenymartynov": 1,
+    "kennyboy": 1,
+    "WPettersson": 1,
+    "volpino": 1,
+    "VittGam": 2,
+    "qnighy": 3,
+    "veluca93": 5,
+    "davidg2603": 9,
+    "gcampax": 13,
+    "bblackham": 113,
+    "Bosco89": 147,
+    "lerks": 149,
+    "giomasce": 641,
+    "stefano-maggiolo": 772
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 1056298,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 201347,
+      "color": "#f1e05a"
+    },
+    "C": {
+      "bytes": 38922,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 3379,
+      "color": "#f34b7d"
+    },
+    "Component Pascal": {
+      "bytes": 1827,
+      "color": "#B0CE4E"
+    },
+    "Shell": {
+      "bytes": 1277,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:26.697Z"
+}

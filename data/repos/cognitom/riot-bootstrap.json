@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "riot-bootstrap",
+  "full_name": "cognitom/riot-bootstrap",
+  "owner": "cognitom",
+  "private": false,
+  "html_url": "https://github.com/cognitom/riot-bootstrap",
+  "description": "Bootstrap-like Components for Riot.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/cognitom/riot-bootstrap",
+  "languages_url": "https://api.github.com/repos/cognitom/riot-bootstrap/languages",
+  "pulls_url": "https://api.github.com/repos/cognitom/riot-bootstrap/pulls{/number}",
+  "created_at": "2015-03-20T14:42:12Z",
+  "updated_at": "2018-08-07T20:09:28Z",
+  "pushed_at": "2016-07-09T19:16:58Z",
+  "homepage": "http://cognitom.github.io/riot-bootstrap/",
+  "size": 167,
+  "stargazers_count": 139,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cuu508": 2,
+    "cognitom": 78
+  },
+  "pulls_authors": [
+    "zaun",
+    "cuu508"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 161436,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 730,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:22.126Z"
+}

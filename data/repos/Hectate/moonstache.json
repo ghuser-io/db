@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "moonstache",
+  "full_name": "Hectate/moonstache",
+  "owner": "Hectate",
+  "private": false,
+  "html_url": "https://github.com/Hectate/moonstache",
+  "description": "a client for Rpi chat server",
+  "fork": false,
+  "url": "https://api.github.com/repos/Hectate/moonstache",
+  "languages_url": "https://api.github.com/repos/Hectate/moonstache/languages",
+  "created_at": "2017-05-21T19:52:21Z",
+  "updated_at": "2017-05-28T07:45:24Z",
+  "pushed_at": "2017-05-29T17:16:53Z",
+  "homepage": null,
+  "size": 1007,
+  "stargazers_count": 2,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bhaveshgohel": 1,
+    "thompsonemerson": 1,
+    "sahildua2305": 1,
+    "posva": 1,
+    "louistsaitszho": 1,
+    "bokuweb": 1,
+    "galeksandrp": 1,
+    "clemens-tolboom": 1,
+    "icoxfog417": 1,
+    "laiso": 1,
+    "phanect": 1,
+    "fscherwi": 1,
+    "zanesterling": 1,
+    "IonicaBizau": 1,
+    "johnmuhl": 1,
+    "heyitswither": 3,
+    "zeke": 3,
+    "tcyrus": 3,
+    "kevinsawicki": 7,
+    "Hectate": 23
+  },
+  "languages": {
+    "CSS": {
+      "bytes": 687903,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 629216,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 17959,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/Hectate/moonstache/pulls{/number}",
+  "pulls_authors": [
+    "heyitswither"
+  ]
+}

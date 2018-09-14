@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gallery-yii2",
+  "full_name": "azdanov/gallery-yii2",
+  "owner": "azdanov",
+  "private": false,
+  "html_url": "https://github.com/azdanov/gallery-yii2",
+  "description": "Social Gallery demo app made in Yii2",
+  "fork": false,
+  "url": "https://api.github.com/repos/azdanov/gallery-yii2",
+  "languages_url": "https://api.github.com/repos/azdanov/gallery-yii2/languages",
+  "pulls_url": "https://api.github.com/repos/azdanov/gallery-yii2/pulls{/number}",
+  "created_at": "2018-04-21T06:59:42Z",
+  "updated_at": "2018-05-14T12:02:47Z",
+  "pushed_at": "2018-05-14T12:04:23Z",
+  "homepage": null,
+  "size": 492,
+  "stargazers_count": 1,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "azdanov": 37
+  },
+  "pulls_authors": [
+    "azdanov"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 115030,
+      "color": "#4F5D95"
+    },
+    "CSS": {
+      "bytes": 11025,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 3119,
+      "color": "#89e051"
+    },
+    "JavaScript": {
+      "bytes": 1139,
+      "color": "#f1e05a"
+    },
+    "Batchfile": {
+      "bytes": 1030,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-08-17T12:35:00.260Z"
+}

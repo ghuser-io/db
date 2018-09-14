@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "realworld-dynamodb-lambda",
+  "full_name": "anishkny/realworld-dynamodb-lambda",
+  "owner": "anishkny",
+  "private": false,
+  "html_url": "https://github.com/anishkny/realworld-dynamodb-lambda",
+  "description": "λ serverless backend implementation for RealWorld using AWS DynamoDB + Lambda",
+  "fork": false,
+  "url": "https://api.github.com/repos/anishkny/realworld-dynamodb-lambda",
+  "languages_url": "https://api.github.com/repos/anishkny/realworld-dynamodb-lambda/languages",
+  "pulls_url": "https://api.github.com/repos/anishkny/realworld-dynamodb-lambda/pulls{/number}",
+  "created_at": "2017-04-24T00:43:26Z",
+  "updated_at": "2018-09-13T19:35:31Z",
+  "pushed_at": "2018-09-13T18:14:53Z",
+  "homepage": "https://realworld.io",
+  "size": 680,
+  "stargazers_count": 26,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Cameron-C-Chapman": 1,
+    "artoliukkonen": 2,
+    "greenkeeper[bot]": 4,
+    "EricSimons": 29,
+    "anishkny": 74
+  },
+  "pulls_authors": [
+    "anishkny",
+    "Cameron-C-Chapman",
+    "greenkeeper[bot]",
+    "artoliukkonen",
+    "EricSimons"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 59683,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 1590,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T23:41:37.087Z"
+}

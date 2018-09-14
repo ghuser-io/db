@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "letter-boilerplate",
+  "full_name": "mrzool/letter-boilerplate",
+  "owner": "mrzool",
+  "private": false,
+  "html_url": "https://github.com/mrzool/letter-boilerplate",
+  "description": "Finest letter typesetting from the command line",
+  "fork": false,
+  "url": "https://api.github.com/repos/mrzool/letter-boilerplate",
+  "languages_url": "https://api.github.com/repos/mrzool/letter-boilerplate/languages",
+  "pulls_url": "https://api.github.com/repos/mrzool/letter-boilerplate/pulls{/number}",
+  "created_at": "2015-10-25T17:28:19Z",
+  "updated_at": "2018-09-02T20:26:12Z",
+  "pushed_at": "2018-04-05T22:58:48Z",
+  "homepage": "http://mrzool.cc/tex-boilerplates/",
+  "size": 1128,
+  "stargazers_count": 313,
+  "language": "TeX",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "raffomania": 1,
+    "saesh": 1,
+    "Kraymer": 2,
+    "mrzool": 61
+  },
+  "pulls_authors": [
+    "HaoZeke",
+    "sebastiansauer",
+    "Tamriel",
+    "nerab",
+    "raffomania",
+    "Kraymer",
+    "saesh"
+  ],
+  "languages": {
+    "TeX": {
+      "bytes": 2628,
+      "color": "#3D6117"
+    },
+    "Makefile": {
+      "bytes": 188,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:24.395Z"
+}

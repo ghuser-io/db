@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ServerGroveLiveChat",
+  "full_name": "servergrove/ServerGroveLiveChat",
+  "owner": "servergrove",
+  "private": false,
+  "html_url": "https://github.com/servergrove/ServerGroveLiveChat",
+  "description": "A livechat application based on Symfony 2, Doctrine 2 ODM",
+  "fork": false,
+  "url": "https://api.github.com/repos/servergrove/ServerGroveLiveChat",
+  "languages_url": "https://api.github.com/repos/servergrove/ServerGroveLiveChat/languages",
+  "pulls_url": "https://api.github.com/repos/servergrove/ServerGroveLiveChat/pulls{/number}",
+  "created_at": "2011-01-12T17:54:46Z",
+  "updated_at": "2018-08-29T04:29:41Z",
+  "pushed_at": "2013-05-08T18:27:12Z",
+  "homepage": "",
+  "size": 15188,
+  "stargazers_count": 121,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "pgodel": 23,
+    "iambrosi": 106
+  },
+  "pulls_authors": [
+    "meyskens",
+    "AeroCross",
+    "ratasxy"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 130061,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 1298,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 11,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T20:50:30.282Z"
+}

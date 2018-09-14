@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "freeorion-sdk",
+  "full_name": "freeorion/freeorion-sdk",
+  "owner": "freeorion",
+  "private": false,
+  "html_url": "https://github.com/freeorion/freeorion-sdk",
+  "description": "Build utilities to create the FreeOrionSDK.",
+  "fork": false,
+  "url": "https://api.github.com/repos/freeorion/freeorion-sdk",
+  "languages_url": "https://api.github.com/repos/freeorion/freeorion-sdk/languages",
+  "pulls_url": "https://api.github.com/repos/freeorion/freeorion-sdk/pulls{/number}",
+  "created_at": "2016-02-25T16:06:28Z",
+  "updated_at": "2018-09-02T10:21:13Z",
+  "pushed_at": "2018-09-09T17:49:48Z",
+  "homepage": null,
+  "size": 361,
+  "stargazers_count": 4,
+  "language": "CMake",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "freeorion",
+    "id": 1025550,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwMjU1NTA=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1025550?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/freeorion",
+    "html_url": "https://github.com/freeorion",
+    "followers_url": "https://api.github.com/users/freeorion/followers",
+    "following_url": "https://api.github.com/users/freeorion/following{/other_user}",
+    "gists_url": "https://api.github.com/users/freeorion/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/freeorion/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/freeorion/subscriptions",
+    "organizations_url": "https://api.github.com/users/freeorion/orgs",
+    "repos_url": "https://api.github.com/users/freeorion/repos",
+    "events_url": "https://api.github.com/users/freeorion/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/freeorion/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "LGM-Doyle": 1,
+    "dbenage-cx": 1,
+    "cotsog": 1,
+    "geoffthemedio": 3,
+    "o01eg": 3,
+    "memem359": 4,
+    "Vezzra": 4,
+    "adrianbroher": 346
+  },
+  "pulls_authors": [
+    "o01eg",
+    "adrianbroher",
+    "LGM-Doyle",
+    "geoffthemedio",
+    "dbenage-cx",
+    "memem359",
+    "Vezzra",
+    "cotsog"
+  ],
+  "languages": {
+    "CMake": {
+      "bytes": 28574,
+      "color": "#ccc"
+    },
+    "Batchfile": {
+      "bytes": 875,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-11T17:08:27.077Z"
+}

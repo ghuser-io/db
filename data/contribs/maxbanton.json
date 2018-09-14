@@ -1,0 +1,89 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "maxbanton/dd": {
+      "full_name": "maxbanton/dd",
+      "name": "dd",
+      "stargazers_count": 4,
+      "popularity": 1.49139952161816,
+      "percentage": 93.33333333333333,
+      "maturity": 0,
+      "total_commits_count": 15,
+      "activity": 5,
+      "total_score": 27.569846093821486,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "maxbanton/cwh": {
+      "full_name": "maxbanton/cwh",
+      "name": "cwh",
+      "stargazers_count": 109,
+      "popularity": 3.0338647464484936,
+      "percentage": 78.35051546391753,
+      "maturity": 2.7583693920773915,
+      "total_commits_count": 97,
+      "activity": 1.5993701395849733,
+      "total_score": 47.119335838251345,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "dflydev/dflydev-doctrine-orm-service-provider": {
+      "full_name": "dflydev/dflydev-doctrine-orm-service-provider",
+      "name": "dflydev-doctrine-orm-service-provider",
+      "stargazers_count": 220,
+      "popularity": 3.3406814483742275,
+      "percentage": 0,
+      "maturity": 2.6838777923650987,
+      "total_commits_count": 88,
+      "activity": 1.4034986816475516,
+      "total_score": 16.793298611500433,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ongair/whatsphp": {
+      "full_name": "ongair/whatsphp",
+      "name": "whatsphp",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 0,
+      "maturity": 3.289760961234559,
+      "total_commits_count": 234,
+      "activity": 0.8385973163033205,
+      "total_score": 10.54240390010126,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "wl500g/wl500g": {
+      "full_name": "wl500g/wl500g",
+      "name": "wl500g",
+      "stargazers_count": 105,
+      "popularity": 3.0174897806163594,
+      "percentage": 0.020850708924103418,
+      "maturity": 4.678987259533298,
+      "total_commits_count": 4796,
+      "activity": 0.9263910382631719,
+      "total_score": 19.34501408332147,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "mongodb/docs-ecosystem": {
+      "full_name": "mongodb/docs-ecosystem",
+      "name": "docs-ecosystem",
+      "stargazers_count": 54,
+      "popularity": 2.725133536124766,
+      "percentage": 0.10570824524312897,
+      "maturity": 3.958912257771628,
+      "total_commits_count": 946,
+      "activity": 5,
+      "total_score": 21.130674104857956,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "dflydev",
+    "ongair",
+    "wl500g",
+    "mongodb"
+  ]
+}

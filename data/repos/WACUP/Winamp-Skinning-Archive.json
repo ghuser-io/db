@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Winamp-Skinning-Archive",
+  "full_name": "WACUP/Winamp-Skinning-Archive",
+  "owner": "WACUP",
+  "private": false,
+  "html_url": "https://github.com/WACUP/Winamp-Skinning-Archive",
+  "description": "This is a collection of information relating to Winamp and skinning of it be it classic (2.x) or modern (5.x) skin as taken from publically posted material. This is to prevent it being lost as has sadly happened to some skinning information over the years.",
+  "fork": false,
+  "url": "https://api.github.com/repos/WACUP/Winamp-Skinning-Archive",
+  "languages_url": "https://api.github.com/repos/WACUP/Winamp-Skinning-Archive/languages",
+  "pulls_url": "https://api.github.com/repos/WACUP/Winamp-Skinning-Archive/pulls{/number}",
+  "created_at": "2018-04-15T20:12:39Z",
+  "updated_at": "2018-08-06T18:01:56Z",
+  "pushed_at": "2018-04-16T01:04:38Z",
+  "homepage": null,
+  "size": 995,
+  "stargazers_count": 4,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "WACUP",
+    "id": 35478673,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM1NDc4Njcz",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/35478673?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/WACUP",
+    "html_url": "https://github.com/WACUP",
+    "followers_url": "https://api.github.com/users/WACUP/followers",
+    "following_url": "https://api.github.com/users/WACUP/following{/other_user}",
+    "gists_url": "https://api.github.com/users/WACUP/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/WACUP/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/WACUP/subscriptions",
+    "organizations_url": "https://api.github.com/users/WACUP/orgs",
+    "repos_url": "https://api.github.com/users/WACUP/repos",
+    "events_url": "https://api.github.com/users/WACUP/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/WACUP/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "dr0biwan": 3,
+    "captbaritone": 9
+  },
+  "pulls_authors": [
+    "captbaritone"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 231925,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1749,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 38,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:35.297Z"
+}

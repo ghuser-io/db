@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "kopi.js",
+  "full_name": "KopiJS/kopi.js",
+  "owner": "KopiJS",
+  "private": false,
+  "html_url": "https://github.com/KopiJS/kopi.js",
+  "description": "API for ordering Singaporean Coffee",
+  "fork": false,
+  "url": "https://api.github.com/repos/KopiJS/kopi.js",
+  "languages_url": "https://api.github.com/repos/KopiJS/kopi.js/languages",
+  "pulls_url": "https://api.github.com/repos/KopiJS/kopi.js/pulls{/number}",
+  "created_at": "2013-11-12T06:35:08Z",
+  "updated_at": "2018-08-19T16:24:11Z",
+  "pushed_at": "2018-07-08T01:08:46Z",
+  "homepage": "http://kopijs.org/",
+  "size": 38,
+  "stargazers_count": 115,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "KopiJS",
+    "id": 6139355,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxMzkzNTU=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/6139355?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/KopiJS",
+    "html_url": "https://github.com/KopiJS",
+    "followers_url": "https://api.github.com/users/KopiJS/followers",
+    "following_url": "https://api.github.com/users/KopiJS/following{/other_user}",
+    "gists_url": "https://api.github.com/users/KopiJS/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/KopiJS/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/KopiJS/subscriptions",
+    "organizations_url": "https://api.github.com/users/KopiJS/orgs",
+    "repos_url": "https://api.github.com/users/KopiJS/repos",
+    "events_url": "https://api.github.com/users/KopiJS/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/KopiJS/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "rctay": 1,
+    "soulofpeace": 3,
+    "laktek": 5,
+    "cheeaun": 23
+  },
+  "pulls_authors": [
+    "rctay",
+    "laktek",
+    "teohm",
+    "yeouchien",
+    "fadhlirahim"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 12088,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:52.923Z"
+}

@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "peergym",
+  "full_name": "acconrad/peergym",
+  "owner": "acconrad",
+  "private": false,
+  "html_url": "https://github.com/acconrad/peergym",
+  "description": "PeerGym is a health and fitness club directory written in Elixir/Phoenix that provides equipment inventory and more in-depth information than you would find on a traditional review site like Google Reviews or Yelp.",
+  "fork": false,
+  "url": "https://api.github.com/repos/acconrad/peergym",
+  "languages_url": "https://api.github.com/repos/acconrad/peergym/languages",
+  "pulls_url": "https://api.github.com/repos/acconrad/peergym/pulls{/number}",
+  "created_at": "2017-09-06T04:00:56Z",
+  "updated_at": "2018-06-27T04:38:29Z",
+  "pushed_at": "2018-06-27T04:38:28Z",
+  "homepage": "https://peergym.herokuapp.com/",
+  "size": 20918,
+  "stargazers_count": 3,
+  "language": "Elixir",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "acconrad": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Elixir": {
+      "bytes": 96602,
+      "color": "#6e4a7e"
+    },
+    "HTML": {
+      "bytes": 76246,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 9852,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 1846,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:55:39.204Z"
+}

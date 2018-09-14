@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Arduino_NFC_lock",
+  "full_name": "skvark/Arduino_NFC_lock",
+  "owner": "skvark",
+  "private": false,
+  "html_url": "https://github.com/skvark/Arduino_NFC_lock",
+  "description": "Arduino based NFC lock/shutdown/start for PC.",
+  "fork": false,
+  "url": "https://api.github.com/repos/skvark/Arduino_NFC_lock",
+  "languages_url": "https://api.github.com/repos/skvark/Arduino_NFC_lock/languages",
+  "pulls_url": "https://api.github.com/repos/skvark/Arduino_NFC_lock/pulls{/number}",
+  "created_at": "2012-05-20T14:00:06Z",
+  "updated_at": "2014-02-08T02:28:30Z",
+  "pushed_at": "2012-05-20T14:00:51Z",
+  "homepage": null,
+  "size": 84,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "skvark": 1
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-11T01:16:36.143Z"
+}

@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vulkan-tutorial-rs",
+  "full_name": "bwasty/vulkan-tutorial-rs",
+  "owner": "bwasty",
+  "private": false,
+  "html_url": "https://github.com/bwasty/vulkan-tutorial-rs",
+  "description": "Rust version of https://github.com/Overv/VulkanTutorial",
+  "fork": false,
+  "url": "https://api.github.com/repos/bwasty/vulkan-tutorial-rs",
+  "languages_url": "https://api.github.com/repos/bwasty/vulkan-tutorial-rs/languages",
+  "pulls_url": "https://api.github.com/repos/bwasty/vulkan-tutorial-rs/pulls{/number}",
+  "created_at": "2018-08-18T18:11:59Z",
+  "updated_at": "2018-09-13T21:15:30Z",
+  "pushed_at": "2018-09-02T12:55:25Z",
+  "homepage": "",
+  "size": 259,
+  "stargazers_count": 119,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bwasty": 76
+  },
+  "pulls_authors": [
+    "bwasty"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 280469,
+      "color": "#dea584"
+    },
+    "GLSL": {
+      "bytes": 1775,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 503,
+      "color": "#89e051"
+    },
+    "Batchfile": {
+      "bytes": 64,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-13T23:43:34.182Z"
+}

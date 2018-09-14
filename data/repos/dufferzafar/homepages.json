@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "homepages",
+  "full_name": "dufferzafar/homepages",
+  "owner": "dufferzafar",
+  "private": false,
+  "html_url": "https://github.com/dufferzafar/homepages",
+  "description": "A collection of homepages that I've used over time.",
+  "fork": false,
+  "url": "https://api.github.com/repos/dufferzafar/homepages",
+  "languages_url": "https://api.github.com/repos/dufferzafar/homepages/languages",
+  "pulls_url": "https://api.github.com/repos/dufferzafar/homepages/pulls{/number}",
+  "created_at": "2013-11-30T18:22:59Z",
+  "updated_at": "2016-07-10T22:15:25Z",
+  "pushed_at": "2014-09-05T05:49:26Z",
+  "homepage": "dufferzafar.github.io/homepages",
+  "size": 1138,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bitdeli-chef": 1,
+    "dufferzafar": 6
+  },
+  "pulls_authors": [
+    "bitdeli-chef"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 259550,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 129561,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-03T12:57:04.656Z"
+}

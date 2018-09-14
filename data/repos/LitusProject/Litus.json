@@ -1,0 +1,104 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Litus",
+  "full_name": "LitusProject/Litus",
+  "owner": "LitusProject",
+  "private": false,
+  "html_url": "https://github.com/LitusProject/Litus",
+  "description": "A project by a group of students from the KU Leuven. We create various applications to support the IT needs of student organizations.",
+  "fork": false,
+  "url": "https://api.github.com/repos/LitusProject/Litus",
+  "languages_url": "https://api.github.com/repos/LitusProject/Litus/languages",
+  "pulls_url": "https://api.github.com/repos/LitusProject/Litus/pulls{/number}",
+  "created_at": "2012-03-27T15:40:40Z",
+  "updated_at": "2018-09-07T15:13:46Z",
+  "pushed_at": "2018-09-07T15:13:44Z",
+  "homepage": "http://litus.cc",
+  "size": 43163,
+  "stargazers_count": 13,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "LitusProject",
+    "id": 1580253,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1ODAyNTM=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1580253?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/LitusProject",
+    "html_url": "https://github.com/LitusProject",
+    "followers_url": "https://api.github.com/users/LitusProject/followers",
+    "following_url": "https://api.github.com/users/LitusProject/following{/other_user}",
+    "gists_url": "https://api.github.com/users/LitusProject/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/LitusProject/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/LitusProject/subscriptions",
+    "organizations_url": "https://api.github.com/users/LitusProject/orgs",
+    "repos_url": "https://api.github.com/users/LitusProject/repos",
+    "events_url": "https://api.github.com/users/LitusProject/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/LitusProject/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "BornMathias": 11,
+    "boschieman": 12,
+    "MathijsC": 18,
+    "dwendelen": 20,
+    "AchielC": 26,
+    "a3VonG": 27,
+    "mswiggers": 38,
+    "DarioI": 44,
+    "Gr4Ss": 52,
+    "FKint": 109,
+    "vierbergenlars": 168,
+    "bgotink": 266,
+    "koencertyn": 284,
+    "nielsavonds": 655,
+    "pmaene": 1324,
+    "krmarien": 2685
+  },
+  "pulls_authors": [
+    "AchielC",
+    "bgotink",
+    "vierbergenlars"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 6737750,
+      "color": "#4F5D95"
+    },
+    "HTML": {
+      "bytes": 3356951,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 645517,
+      "color": "#f1e05a"
+    },
+    "XSLT": {
+      "bytes": 355932,
+      "color": "#EB8CEB"
+    },
+    "CSS": {
+      "bytes": 260269,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 19761,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 3441,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T17:16:20.253Z"
+}

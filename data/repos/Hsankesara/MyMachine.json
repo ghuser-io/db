@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "MyMachine",
+  "full_name": "Hsankesara/MyMachine",
+  "owner": "Hsankesara",
+  "private": false,
+  "html_url": "https://github.com/Hsankesara/MyMachine",
+  "description": "A large collection of algos, resources and projects for Machine Learning lovers.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Hsankesara/MyMachine",
+  "languages_url": "https://api.github.com/repos/Hsankesara/MyMachine/languages",
+  "pulls_url": "https://api.github.com/repos/Hsankesara/MyMachine/pulls{/number}",
+  "created_at": "2017-08-26T05:54:09Z",
+  "updated_at": "2018-08-15T20:14:42Z",
+  "pushed_at": "2018-02-11T09:42:02Z",
+  "homepage": "",
+  "size": 143084,
+  "stargazers_count": 43,
+  "language": "Matlab",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "kumarhimanshu5128409": 1,
+    "codacy-badger": 1,
+    "jaume-ferrarons": 2,
+    "aashutoshrathi": 2,
+    "khilanravani": 5,
+    "shivamsaboo17": 16,
+    "Hsankesara": 28,
+    "llGurudevll": 33
+  },
+  "pulls_authors": [
+    "llGurudevll",
+    "ayush94",
+    "Hsankesara",
+    "kumarhimanshu5128409",
+    "jaume-ferrarons",
+    "shivamsaboo17",
+    "codacy-badger",
+    "aashutoshrathi",
+    "khilanravani"
+  ],
+  "languages": {
+    "Matlab": {
+      "bytes": 95588,
+      "color": "#e16737"
+    },
+    "Python": {
+      "bytes": 17392,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 3503,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 845,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T16:59:37.036Z"
+}

@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ShaR",
+  "full_name": "dufferzafar/ShaR",
+  "owner": "dufferzafar",
+  "private": false,
+  "html_url": "https://github.com/dufferzafar/ShaR",
+  "description": "A Simple Cipher algorithm implemented in Lua.",
+  "fork": false,
+  "url": "https://api.github.com/repos/dufferzafar/ShaR",
+  "languages_url": "https://api.github.com/repos/dufferzafar/ShaR/languages",
+  "pulls_url": "https://api.github.com/repos/dufferzafar/ShaR/pulls{/number}",
+  "created_at": "2012-10-21T12:17:13Z",
+  "updated_at": "2016-07-10T22:15:51Z",
+  "pushed_at": "2013-11-28T22:06:08Z",
+  "homepage": "",
+  "size": 572,
+  "stargazers_count": 1,
+  "language": "Lua",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dufferzafar": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Lua": {
+      "bytes": 124822,
+      "color": "#000080"
+    }
+  },
+  "fetched_at": "2018-09-03T12:57:06.829Z"
+}

@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "php-ninja-blocks",
+  "full_name": "ninjablocks/php-ninja-blocks",
+  "owner": "ninjablocks",
+  "private": false,
+  "html_url": "https://github.com/ninjablocks/php-ninja-blocks",
+  "description": "PHP library for interacting with the Ninja Blocks platform",
+  "fork": false,
+  "url": "https://api.github.com/repos/ninjablocks/php-ninja-blocks",
+  "languages_url": "https://api.github.com/repos/ninjablocks/php-ninja-blocks/languages",
+  "pulls_url": "https://api.github.com/repos/ninjablocks/php-ninja-blocks/pulls{/number}",
+  "created_at": "2012-09-12T02:03:18Z",
+  "updated_at": "2018-05-05T15:31:36Z",
+  "pushed_at": "2013-07-04T01:52:10Z",
+  "homepage": null,
+  "size": 131,
+  "stargazers_count": 12,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "ninjablocks",
+    "id": 1392949,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzOTI5NDk=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/1392949?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ninjablocks",
+    "html_url": "https://github.com/ninjablocks",
+    "followers_url": "https://api.github.com/users/ninjablocks/followers",
+    "following_url": "https://api.github.com/users/ninjablocks/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ninjablocks/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ninjablocks/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ninjablocks/subscriptions",
+    "organizations_url": "https://api.github.com/users/ninjablocks/orgs",
+    "repos_url": "https://api.github.com/users/ninjablocks/repos",
+    "events_url": "https://api.github.com/users/ninjablocks/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ninjablocks/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "clarkeash": 1,
+    "thatguydan": 2,
+    "jmanoto": 9
+  },
+  "pulls_authors": [
+    "Grayda",
+    "Danielss89",
+    "clarkeash"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 9506,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-11T13:46:01.450Z"
+}

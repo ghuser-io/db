@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cssx",
+  "full_name": "krasimir/cssx",
+  "owner": "krasimir",
+  "private": false,
+  "html_url": "https://github.com/krasimir/cssx",
+  "description": "CSS in JavaScript",
+  "fork": false,
+  "url": "https://api.github.com/repos/krasimir/cssx",
+  "languages_url": "https://api.github.com/repos/krasimir/cssx/languages",
+  "pulls_url": "https://api.github.com/repos/krasimir/cssx/pulls{/number}",
+  "created_at": "2016-01-03T13:14:05Z",
+  "updated_at": "2018-09-14T06:40:50Z",
+  "pushed_at": "2016-11-23T05:19:56Z",
+  "homepage": "http://krasimir.github.io/cssx/",
+  "size": 8005,
+  "stargazers_count": 1004,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "vwochnik": 1,
+    "zvictor": 1,
+    "rosskevin": 1,
+    "krasimir": 248
+  },
+  "pulls_authors": [
+    "vwochnik",
+    "zvictor",
+    "rosskevin"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2299634,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 8579,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 6790,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-14T09:12:25.650Z"
+}

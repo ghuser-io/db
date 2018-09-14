@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-slumber",
+  "full_name": "moul/node-slumber",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/node-slumber",
+  "description": ":wrench: Port of Python's slumber library -- (RESTful API library)",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/node-slumber",
+  "languages_url": "https://api.github.com/repos/moul/node-slumber/languages",
+  "pulls_url": "https://api.github.com/repos/moul/node-slumber/pulls{/number}",
+  "created_at": "2014-01-08T16:39:33Z",
+  "updated_at": "2017-11-01T12:15:42Z",
+  "pushed_at": "2018-08-18T16:10:54Z",
+  "homepage": "https://npmjs.org/package/slumber",
+  "size": 111,
+  "stargazers_count": 6,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mattyclarkson": 1,
+    "prssn": 1,
+    "dave-irvine": 2,
+    "kevinkhill": 3,
+    "moul": 79
+  },
+  "pulls_authors": [
+    "renovate[bot]",
+    "Mr-Wallet",
+    "smith-kyle",
+    "gregorjs",
+    "mattyclarkson",
+    "Sewdn",
+    "prssn",
+    "kevinkhill",
+    "dave-irvine"
+  ],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 24769,
+      "color": "#244776"
+    },
+    "Makefile": {
+      "bytes": 372,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:47.692Z"
+}

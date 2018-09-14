@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "err-backend-gitter",
+  "full_name": "errbotio/err-backend-gitter",
+  "owner": "errbotio",
+  "private": false,
+  "html_url": "https://github.com/errbotio/err-backend-gitter",
+  "description": "gitter.im backend for err",
+  "fork": false,
+  "url": "https://api.github.com/repos/errbotio/err-backend-gitter",
+  "languages_url": "https://api.github.com/repos/errbotio/err-backend-gitter/languages",
+  "created_at": "2015-07-06T23:14:02Z",
+  "updated_at": "2018-08-22T16:17:01Z",
+  "pushed_at": "2018-08-22T16:16:59Z",
+  "homepage": "",
+  "size": 265,
+  "stargazers_count": 13,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "errbotio",
+    "id": 15802630,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1ODAyNjMw",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/15802630?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/errbotio",
+    "html_url": "https://github.com/errbotio",
+    "followers_url": "https://api.github.com/users/errbotio/followers",
+    "following_url": "https://api.github.com/users/errbotio/following{/other_user}",
+    "gists_url": "https://api.github.com/users/errbotio/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/errbotio/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/errbotio/subscriptions",
+    "organizations_url": "https://api.github.com/users/errbotio/orgs",
+    "repos_url": "https://api.github.com/users/errbotio/repos",
+    "events_url": "https://api.github.com/users/errbotio/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/errbotio/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "nvzard": 1,
+    "meetmangukiya": 8,
+    "zoni": 9,
+    "gbin": 27,
+    "jayvdb": 1
+  },
+  "languages": {
+    "Python": {
+      "bytes": 18310,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-22T17:12:06.749Z",
+  "pulls_url": "https://api.github.com/repos/errbotio/err-backend-gitter/pulls{/number}",
+  "pulls_authors": [
+    "nvzard",
+    "jayvdb",
+    "meetmangukiya",
+    "zoni"
+  ]
+}

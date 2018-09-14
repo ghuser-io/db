@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Sorting-Algorithms",
+  "full_name": "JPBotelho/Sorting-Algorithms",
+  "owner": "JPBotelho",
+  "private": false,
+  "html_url": "https://github.com/JPBotelho/Sorting-Algorithms",
+  "description": "Common sorting algorithms in C#.",
+  "fork": false,
+  "url": "https://api.github.com/repos/JPBotelho/Sorting-Algorithms",
+  "languages_url": "https://api.github.com/repos/JPBotelho/Sorting-Algorithms/languages",
+  "pulls_url": "https://api.github.com/repos/JPBotelho/Sorting-Algorithms/pulls{/number}",
+  "created_at": "2018-03-18T19:35:59Z",
+  "updated_at": "2018-06-03T10:48:04Z",
+  "pushed_at": "2018-05-13T13:50:37Z",
+  "homepage": null,
+  "size": 15,
+  "stargazers_count": 8,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "JPBotelho": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 2141,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-08-17T14:57:54.417Z"
+}

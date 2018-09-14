@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Track-In",
+  "full_name": "jamesgeorge007/Track-In",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/Track-In",
+  "description": "This is an Android application which uses the Google map services to find the current user location and to make them aware of the latitudes and longitudes of any place they click into. Edit Add topics",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/Track-In",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/Track-In/languages",
+  "created_at": "2017-10-28T12:34:56Z",
+  "updated_at": "2018-04-06T16:12:25Z",
+  "pushed_at": "2017-12-10T09:23:53Z",
+  "homepage": null,
+  "size": 2510,
+  "stargazers_count": 3,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jamesgeorge007": 4
+  },
+  "languages": {
+    "Java": {
+      "bytes": 34296,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/Track-In/pulls{/number}",
+  "pulls_authors": []
+}

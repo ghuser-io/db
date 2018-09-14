@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "gablau",
+  "ghuser_created_at": "2018-09-12T00:28:16.869Z",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/6896873?v=4",
+  "html_url": "https://github.com/gablau",
+  "organizations_url": "https://api.github.com/users/gablau/orgs",
+  "repos_url": "https://api.github.com/users/gablau/repos",
+  "type": "User",
+  "name": "Gabriele Lauricella",
+  "company": null,
+  "blog": "",
+  "location": "Italy",
+  "email": null,
+  "bio": null,
+  "public_gists": 0,
+  "created_at": "2014-03-09T08:40:21Z",
+  "updated_at": "2018-09-10T13:53:53Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:13:42.659Z",
+    "repos": [
+      "gablau/node-red-contrib-blynk-ws",
+      "emoncms/emoncms",
+      "oliexdev/openScale",
+      "vshymanskyy/blynk-library-js",
+      "tzapu/node-red-contrib-blynk-websockets",
+      "emoncms/AndroidApp",
+      "gablau/AndroidApp",
+      "petermolnar/wp-ffpc",
+      "gablau/wp-ffpc",
+      "gablau/lj-maintenance-mode",
+      "lukasjuhas/lj-maintenance-mode",
+      "katzwebservices/Wunderground",
+      "emoncms/event",
+      "gablau/discourse-code-button"
+    ]
+  }
+}

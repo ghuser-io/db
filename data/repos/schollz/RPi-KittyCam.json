@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "RPi-KittyCam",
+  "full_name": "schollz/RPi-KittyCam",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/RPi-KittyCam",
+  "description": "Raspberry Pi app using a camera and PIR motion sensor, written in Node.js with Johnny-Five and Kittydar for cat facial detection",
+  "fork": true,
+  "url": "https://api.github.com/repos/schollz/RPi-KittyCam",
+  "languages_url": "https://api.github.com/repos/schollz/RPi-KittyCam/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/RPi-KittyCam/pulls{/number}",
+  "created_at": "2015-08-27T00:11:59Z",
+  "updated_at": "2017-01-30T10:59:41Z",
+  "pushed_at": "2015-08-26T20:18:33Z",
+  "homepage": "https://girliemac.github.io/RPi-KittyCam/",
+  "size": 20409,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "girliemac": 10
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 4814,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:56.121Z"
+}

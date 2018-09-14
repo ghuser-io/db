@@ -1,0 +1,85 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "u14phpall",
+  "full_name": "dry-dock/u14phpall",
+  "owner": "dry-dock",
+  "private": false,
+  "html_url": "https://github.com/dry-dock/u14phpall",
+  "description": "Docker image for php on ubuntu 14.04 with all services and tools pre-installed. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/dry-dock/u14phpall",
+  "languages_url": "https://api.github.com/repos/dry-dock/u14phpall/languages",
+  "pulls_url": "https://api.github.com/repos/dry-dock/u14phpall/pulls{/number}",
+  "created_at": "2016-01-13T06:22:55Z",
+  "updated_at": "2018-08-21T10:46:10Z",
+  "pushed_at": "2018-08-27T01:26:33Z",
+  "homepage": null,
+  "size": 70,
+  "stargazers_count": 1,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "dry-dock",
+    "id": 13957743,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzOTU3NzQz",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/13957743?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/dry-dock",
+    "html_url": "https://github.com/dry-dock",
+    "followers_url": "https://api.github.com/users/dry-dock/followers",
+    "following_url": "https://api.github.com/users/dry-dock/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dry-dock/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/dry-dock/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dry-dock/subscriptions",
+    "organizations_url": "https://api.github.com/users/dry-dock/orgs",
+    "repos_url": "https://api.github.com/users/dry-dock/repos",
+    "events_url": "https://api.github.com/users/dry-dock/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/dry-dock/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Bharath92": 1,
+    "0x-x0": 1,
+    "raksha78": 2,
+    "scriptnull": 3,
+    "avinci": 3,
+    "niranjan92": 4,
+    "mrinalam": 4,
+    "ankul-shippable": 8,
+    "rageshkrishna": 10,
+    "vijayreddy1991": 31
+  },
+  "pulls_authors": [
+    "vijayreddy1991",
+    "scriptnull",
+    "niranjan92",
+    "Bharath92",
+    "kanthchandra",
+    "raksha78",
+    "rageshkrishna",
+    "0x-x0",
+    "mrinalam",
+    "ankul-shippable"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 8878,
+      "color": "#89e051"
+    },
+    "Dockerfile": {
+      "bytes": 72,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:58.355Z"
+}

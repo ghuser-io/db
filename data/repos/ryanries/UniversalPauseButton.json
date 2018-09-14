@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "ip-gpu": 1,
+    "code-slinger": 1,
+    "Calinou": 1,
+    "ryanries": 14
+  },
+  "name": "UniversalPauseButton",
+  "full_name": "ryanries/UniversalPauseButton",
+  "owner": "ryanries",
+  "private": false,
+  "html_url": "https://github.com/ryanries/UniversalPauseButton",
+  "description": "A pause button that pauses the unpausable. Handy for video game cut scenes especially.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ryanries/UniversalPauseButton",
+  "languages_url": "https://api.github.com/repos/ryanries/UniversalPauseButton/languages",
+  "created_at": "2015-06-08T22:04:42Z",
+  "updated_at": "2018-08-30T15:00:56Z",
+  "pushed_at": "2018-06-30T00:00:29Z",
+  "homepage": null,
+  "size": 23,
+  "stargazers_count": 671,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "C++": {
+      "bytes": 12315,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 928,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-08-30T19:46:18.342Z",
+  "pulls_url": "https://api.github.com/repos/ryanries/UniversalPauseButton/pulls{/number}",
+  "pulls_authors": [
+    "ip-gpu",
+    "code-slinger",
+    "Apophenic",
+    "Calinou",
+    "dyatlov"
+  ]
+}

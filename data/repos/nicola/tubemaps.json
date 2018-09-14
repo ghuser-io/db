@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tubemaps",
+  "full_name": "nicola/tubemaps",
+  "owner": "nicola",
+  "private": false,
+  "html_url": "https://github.com/nicola/tubemaps",
+  "description": ":mountain_cableway: Browser, NodeJs library and command-line tool for handling tube data",
+  "fork": false,
+  "url": "https://api.github.com/repos/nicola/tubemaps",
+  "languages_url": "https://api.github.com/repos/nicola/tubemaps/languages",
+  "pulls_url": "https://api.github.com/repos/nicola/tubemaps/pulls{/number}",
+  "created_at": "2014-11-24T01:05:53Z",
+  "updated_at": "2018-09-12T05:48:41Z",
+  "pushed_at": "2017-05-14T18:21:40Z",
+  "homepage": "",
+  "size": 922,
+  "stargazers_count": 167,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "aloisdg": 1,
+    "rochoa": 1,
+    "gitter-badger": 1,
+    "nicola": 40
+  },
+  "pulls_authors": [
+    "aloisdg",
+    "rochoa",
+    "gitter-badger",
+    "nicola"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6699,
+      "color": "#f1e05a"
+    },
+    "Makefile": {
+      "bytes": 50,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:51.886Z"
+}

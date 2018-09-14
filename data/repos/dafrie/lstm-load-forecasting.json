@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "lstm-load-forecasting",
+  "full_name": "dafrie/lstm-load-forecasting",
+  "owner": "dafrie",
+  "private": false,
+  "html_url": "https://github.com/dafrie/lstm-load-forecasting",
+  "description": "Electricity load forecasting with LSTM (Recurrent Neural Network)",
+  "fork": false,
+  "url": "https://api.github.com/repos/dafrie/lstm-load-forecasting",
+  "languages_url": "https://api.github.com/repos/dafrie/lstm-load-forecasting/languages",
+  "pulls_url": "https://api.github.com/repos/dafrie/lstm-load-forecasting/pulls{/number}",
+  "created_at": "2017-05-08T18:10:02Z",
+  "updated_at": "2018-09-13T22:07:45Z",
+  "pushed_at": "2017-06-26T15:53:46Z",
+  "homepage": null,
+  "size": 1783438,
+  "stargazers_count": 39,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dafrie": 18
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 2415483,
+      "color": "#e34c26"
+    },
+    "Jupyter Notebook": {
+      "bytes": 232494,
+      "color": "#DA5B0B"
+    },
+    "Python": {
+      "bytes": 24386,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-13T23:46:28.321Z"
+}

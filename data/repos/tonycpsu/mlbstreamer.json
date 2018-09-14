@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mlbstreamer",
+  "full_name": "tonycpsu/mlbstreamer",
+  "owner": "tonycpsu",
+  "private": false,
+  "html_url": "https://github.com/tonycpsu/mlbstreamer",
+  "description": "Enables real-time and time-shifted viewing of MLB.tv streams.",
+  "fork": false,
+  "url": "https://api.github.com/repos/tonycpsu/mlbstreamer",
+  "languages_url": "https://api.github.com/repos/tonycpsu/mlbstreamer/languages",
+  "pulls_url": "https://api.github.com/repos/tonycpsu/mlbstreamer/pulls{/number}",
+  "created_at": "2018-02-25T23:54:58Z",
+  "updated_at": "2018-08-12T00:40:46Z",
+  "pushed_at": "2018-05-24T17:47:44Z",
+  "homepage": "",
+  "size": 135,
+  "stargazers_count": 24,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mkomko": 1,
+    "sdelafond": 2,
+    "eithrial": 3,
+    "mattiasa": 4,
+    "snipem": 8,
+    "tonycpsu": 114
+  },
+  "pulls_authors": [
+    "eithrial",
+    "mattiasa",
+    "snipem",
+    "mkomko",
+    "sdelafond",
+    "savage-bits"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 63782,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T02:29:36.654Z"
+}

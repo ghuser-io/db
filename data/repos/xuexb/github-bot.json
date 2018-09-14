@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "github-bot",
+  "full_name": "xuexb/github-bot",
+  "owner": "xuexb",
+  "private": false,
+  "html_url": "https://github.com/xuexb/github-bot",
+  "description": "github 自动处理 issue、PR、releases 机器人",
+  "fork": false,
+  "url": "https://api.github.com/repos/xuexb/github-bot",
+  "languages_url": "https://api.github.com/repos/xuexb/github-bot/languages",
+  "created_at": "2017-10-14T10:12:03Z",
+  "updated_at": "2018-09-14T08:15:49Z",
+  "pushed_at": "2018-02-03T15:58:50Z",
+  "homepage": "",
+  "size": 72,
+  "stargazers_count": 321,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "icarusion": 1,
+    "wei": 1,
+    "yugasun": 6,
+    "xuexb": 51
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 56290,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 5121,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-14T09:11:44.980Z",
+  "pulls_url": "https://api.github.com/repos/xuexb/github-bot/pulls{/number}",
+  "pulls_authors": [
+    "xuexb",
+    "yugasun",
+    "icarusion",
+    "xieyaowu",
+    "wei"
+  ]
+}

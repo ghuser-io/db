@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Panteon.Host",
+  "full_name": "ziyasal/Panteon.Host",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/Panteon.Host",
+  "description": "A distributed scheduled real-time task processing server for .NET built on Schyntax, cs-schtick.redis and Redis for locking.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal/Panteon.Host",
+  "languages_url": "https://api.github.com/repos/ziyasal/Panteon.Host/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/Panteon.Host/pulls{/number}",
+  "created_at": "2015-08-20T11:31:38Z",
+  "updated_at": "2018-08-12T04:42:06Z",
+  "pushed_at": "2016-03-21T13:00:47Z",
+  "homepage": "",
+  "size": 522,
+  "stargazers_count": 5,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ucatal": 1,
+    "ziyasal": 32
+  },
+  "pulls_authors": [
+    "ucatal"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 23211,
+      "color": "#178600"
+    },
+    "PowerShell": {
+      "bytes": 1826,
+      "color": "#012456"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:14.033Z"
+}

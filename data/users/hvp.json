@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "hvp",
+  "ghuser_created_at": "2018-09-11T09:59:32.521Z",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/3270420?v=4",
+  "html_url": "https://github.com/hvp",
+  "organizations_url": "https://api.github.com/users/hvp/orgs",
+  "repos_url": "https://api.github.com/users/hvp/repos",
+  "type": "User",
+  "name": "Harrison Perry",
+  "company": null,
+  "blog": "",
+  "location": null,
+  "email": null,
+  "bio": null,
+  "public_gists": 0,
+  "created_at": "2013-01-15T00:32:13Z",
+  "updated_at": "2018-08-30T15:01:32Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:14:08.812Z",
+    "repos": [
+      "hvp/UnityMachineLearningTestBed",
+      "plamere/spotipy",
+      "hvp/problems_v2",
+      "hvp/Folder-Maker-3000",
+      "hvp/Squareosity",
+      "hvp/Dragon-Shift",
+      "hvp/simple-todos",
+      "hvp/ProblemsFromAllOver",
+      "hvp/GameOfLifeEvolved",
+      "hvp/MiniMayhem",
+      "hvp/CrptoProgram",
+      "hvp/laserGame",
+      "hvp/SolvedLinebatch"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "groestl",
+  "full_name": "ctz/groestl",
+  "owner": "ctz",
+  "private": false,
+  "html_url": "https://github.com/ctz/groestl",
+  "description": "Pure python implementation of Grøstl",
+  "fork": false,
+  "url": "https://api.github.com/repos/ctz/groestl",
+  "languages_url": "https://api.github.com/repos/ctz/groestl/languages",
+  "pulls_url": "https://api.github.com/repos/ctz/groestl/pulls{/number}",
+  "created_at": "2012-10-08T18:48:44Z",
+  "updated_at": "2018-09-11T17:19:12Z",
+  "pushed_at": "2012-10-08T18:50:54Z",
+  "homepage": null,
+  "size": 108,
+  "stargazers_count": 5,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ctz": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 14437,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:20.292Z"
+}

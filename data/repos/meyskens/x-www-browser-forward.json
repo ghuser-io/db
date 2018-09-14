@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "x-www-browser-forward",
+  "full_name": "meyskens/x-www-browser-forward",
+  "owner": "meyskens",
+  "private": false,
+  "html_url": "https://github.com/meyskens/x-www-browser-forward",
+  "description": "Forwarder for x-www-browser for containerized apps",
+  "fork": false,
+  "url": "https://api.github.com/repos/meyskens/x-www-browser-forward",
+  "languages_url": "https://api.github.com/repos/meyskens/x-www-browser-forward/languages",
+  "pulls_url": "https://api.github.com/repos/meyskens/x-www-browser-forward/pulls{/number}",
+  "created_at": "2017-06-11T13:39:46Z",
+  "updated_at": "2018-04-10T08:19:03Z",
+  "pushed_at": "2018-04-10T08:19:01Z",
+  "homepage": null,
+  "size": 1455,
+  "stargazers_count": 4,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "volker-fr": 2,
+    "meyskens": 4
+  },
+  "pulls_authors": [
+    "volker-fr"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 1981,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T20:50:17.503Z"
+}

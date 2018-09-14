@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dockerfile",
+  "full_name": "multiarch/dockerfile",
+  "owner": "multiarch",
+  "private": false,
+  "html_url": "https://github.com/multiarch/dockerfile",
+  "description": ":earth_africa: Multiarch Dockerfile POC",
+  "fork": false,
+  "url": "https://api.github.com/repos/multiarch/dockerfile",
+  "languages_url": "https://api.github.com/repos/multiarch/dockerfile/languages",
+  "pulls_url": "https://api.github.com/repos/multiarch/dockerfile/pulls{/number}",
+  "created_at": "2015-12-07T16:58:58Z",
+  "updated_at": "2017-06-21T00:51:41Z",
+  "pushed_at": "2016-04-04T08:57:44Z",
+  "homepage": "",
+  "size": 93,
+  "stargazers_count": 7,
+  "language": "Makefile",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "multiarch",
+    "id": 16105548,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2MTA1NTQ4",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/16105548?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/multiarch",
+    "html_url": "https://github.com/multiarch",
+    "followers_url": "https://api.github.com/users/multiarch/followers",
+    "following_url": "https://api.github.com/users/multiarch/following{/other_user}",
+    "gists_url": "https://api.github.com/users/multiarch/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/multiarch/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/multiarch/subscriptions",
+    "organizations_url": "https://api.github.com/users/multiarch/orgs",
+    "repos_url": "https://api.github.com/users/multiarch/repos",
+    "events_url": "https://api.github.com/users/multiarch/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/multiarch/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "QuentinPerez": 1,
+    "aimxhaisse": 1,
+    "moul": 38
+  },
+  "pulls_authors": [
+    "QuentinPerez",
+    "aimxhaisse"
+  ],
+  "languages": {
+    "Makefile": {
+      "bytes": 5455,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:01.284Z"
+}

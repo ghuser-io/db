@@ -1,0 +1,89 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "yatc",
+  "full_name": "opentibia/yatc",
+  "owner": "opentibia",
+  "private": false,
+  "html_url": "https://github.com/opentibia/yatc",
+  "description": "An open source alternate client for Tibia.",
+  "fork": false,
+  "url": "https://api.github.com/repos/opentibia/yatc",
+  "languages_url": "https://api.github.com/repos/opentibia/yatc/languages",
+  "pulls_url": "https://api.github.com/repos/opentibia/yatc/pulls{/number}",
+  "created_at": "2012-07-23T18:51:39Z",
+  "updated_at": "2018-08-22T15:11:48Z",
+  "pushed_at": "2018-08-22T15:11:46Z",
+  "homepage": null,
+  "size": 17472,
+  "stargazers_count": 25,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "opentibia",
+    "id": 2012638,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIwMTI2Mzg=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/2012638?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/opentibia",
+    "html_url": "https://github.com/opentibia",
+    "followers_url": "https://api.github.com/users/opentibia/followers",
+    "following_url": "https://api.github.com/users/opentibia/following{/other_user}",
+    "gists_url": "https://api.github.com/users/opentibia/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/opentibia/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/opentibia/subscriptions",
+    "organizations_url": "https://api.github.com/users/opentibia/orgs",
+    "repos_url": "https://api.github.com/users/opentibia/repos",
+    "events_url": "https://api.github.com/users/opentibia/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/opentibia/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ivucica": 485
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 1205964,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 39415,
+      "color": "#555555"
+    },
+    "Python": {
+      "bytes": 35151,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 12698,
+      "color": "#89e051"
+    },
+    "Objective-C": {
+      "bytes": 12673,
+      "color": "#438eff"
+    },
+    "Makefile": {
+      "bytes": 10651,
+      "color": "#427819"
+    },
+    "M4": {
+      "bytes": 3028,
+      "color": "#ccc"
+    },
+    "Batchfile": {
+      "bytes": 811,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-11T15:15:48.031Z"
+}

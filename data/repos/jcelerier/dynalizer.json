@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dynalizer",
+  "full_name": "jcelerier/dynalizer",
+  "owner": "jcelerier",
+  "private": false,
+  "html_url": "https://github.com/jcelerier/dynalizer",
+  "description": "C++ Dynamic loader generator for C APIs",
+  "fork": false,
+  "url": "https://api.github.com/repos/jcelerier/dynalizer",
+  "languages_url": "https://api.github.com/repos/jcelerier/dynalizer/languages",
+  "pulls_url": "https://api.github.com/repos/jcelerier/dynalizer/pulls{/number}",
+  "created_at": "2018-09-06T20:02:40Z",
+  "updated_at": "2018-09-06T22:33:50Z",
+  "pushed_at": "2018-09-06T20:41:14Z",
+  "homepage": null,
+  "size": 20,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 4989,
+      "color": "#3572A5"
+    },
+    "C++": {
+      "bytes": 1158,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:42.725Z"
+}

@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "http2curl",
+  "full_name": "moul/http2curl",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/http2curl",
+  "description": ":triangular_ruler: Convert Golang's http.Request to CURL command line",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/http2curl",
+  "languages_url": "https://api.github.com/repos/moul/http2curl/languages",
+  "pulls_url": "https://api.github.com/repos/moul/http2curl/pulls{/number}",
+  "created_at": "2015-08-27T10:55:37Z",
+  "updated_at": "2018-09-11T18:13:09Z",
+  "pushed_at": "2017-09-19T18:10:03Z",
+  "homepage": null,
+  "size": 141,
+  "stargazers_count": 94,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "psaffrey-illumina": 1,
+    "jaytaylor": 1,
+    "QuentinPerez": 1,
+    "moul": 17
+  },
+  "pulls_authors": [
+    "psaffrey-illumina",
+    "moul",
+    "drewlesueur",
+    "jaytaylor",
+    "QuentinPerez"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 4856,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 839,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T20:50:43.262Z"
+}

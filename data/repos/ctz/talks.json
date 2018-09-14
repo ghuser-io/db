@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "talks",
+  "full_name": "ctz/talks",
+  "owner": "ctz",
+  "private": false,
+  "html_url": "https://github.com/ctz/talks",
+  "description": "various talks and slides",
+  "fork": false,
+  "url": "https://api.github.com/repos/ctz/talks",
+  "languages_url": "https://api.github.com/repos/ctz/talks/languages",
+  "pulls_url": "https://api.github.com/repos/ctz/talks/pulls{/number}",
+  "created_at": "2014-08-01T00:58:57Z",
+  "updated_at": "2018-05-25T15:09:36Z",
+  "pushed_at": "2018-05-25T15:09:36Z",
+  "homepage": null,
+  "size": 11881,
+  "stargazers_count": 3,
+  "language": "TeX",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ctz": 47
+  },
+  "pulls_authors": [],
+  "languages": {
+    "TeX": {
+      "bytes": 31524,
+      "color": "#3D6117"
+    },
+    "Python": {
+      "bytes": 16848,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 3267,
+      "color": "#427819"
+    },
+    "C": {
+      "bytes": 1294,
+      "color": "#555555"
+    },
+    "Java": {
+      "bytes": 1164,
+      "color": "#b07219"
+    },
+    "C#": {
+      "bytes": 416,
+      "color": "#178600"
+    },
+    "JavaScript": {
+      "bytes": 400,
+      "color": "#f1e05a"
+    },
+    "Go": {
+      "bytes": 301,
+      "color": "#375eab"
+    },
+    "Perl 6": {
+      "bytes": 189,
+      "color": "#0000fb"
+    },
+    "PHP": {
+      "bytes": 128,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:16.046Z"
+}

@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "odararmy.github.io",
+  "full_name": "OdarArmy/odararmy.github.io",
+  "owner": "OdarArmy",
+  "private": false,
+  "html_url": "https://github.com/OdarArmy/odararmy.github.io",
+  "description": "The official Odar Army Website",
+  "fork": false,
+  "url": "https://api.github.com/repos/OdarArmy/odararmy.github.io",
+  "languages_url": "https://api.github.com/repos/OdarArmy/odararmy.github.io/languages",
+  "pulls_url": "https://api.github.com/repos/OdarArmy/odararmy.github.io/pulls{/number}",
+  "created_at": "2018-07-09T18:33:12Z",
+  "updated_at": "2018-09-03T14:27:22Z",
+  "pushed_at": "2018-08-29T16:33:44Z",
+  "homepage": "https://odararmy.github.io/",
+  "size": 4599,
+  "stargazers_count": 2,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "OdarArmy",
+    "id": 39522325,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM5NTIyMzI1",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/39522325?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/OdarArmy",
+    "html_url": "https://github.com/OdarArmy",
+    "followers_url": "https://api.github.com/users/OdarArmy/followers",
+    "following_url": "https://api.github.com/users/OdarArmy/following{/other_user}",
+    "gists_url": "https://api.github.com/users/OdarArmy/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/OdarArmy/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/OdarArmy/subscriptions",
+    "organizations_url": "https://api.github.com/users/OdarArmy/orgs",
+    "repos_url": "https://api.github.com/users/OdarArmy/repos",
+    "events_url": "https://api.github.com/users/OdarArmy/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/OdarArmy/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "OdarGM": 12
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 19892,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 6739,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 399,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-03T15:16:50.488Z"
+}

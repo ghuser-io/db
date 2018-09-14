@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ionicons-iOS",
+  "full_name": "sweetmandm/ionicons-iOS",
+  "owner": "sweetmandm",
+  "private": false,
+  "html_url": "https://github.com/sweetmandm/ionicons-iOS",
+  "description": "Easily use ionicons in your native SDK iOS projects",
+  "fork": false,
+  "url": "https://api.github.com/repos/sweetmandm/ionicons-iOS",
+  "languages_url": "https://api.github.com/repos/sweetmandm/ionicons-iOS/languages",
+  "pulls_url": "https://api.github.com/repos/sweetmandm/ionicons-iOS/pulls{/number}",
+  "created_at": "2013-10-30T17:16:01Z",
+  "updated_at": "2018-07-05T20:14:42Z",
+  "pushed_at": "2017-09-21T22:28:36Z",
+  "homepage": "",
+  "size": 424,
+  "stargazers_count": 387,
+  "language": "Objective-C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "plashchynski": 1,
+    "stal888": 1,
+    "ocwang": 1,
+    "isaacroldan": 1,
+    "cotsog": 1,
+    "donileo": 2,
+    "maxcampolo": 2,
+    "iAladdin": 3,
+    "alexgaribay": 3,
+    "sweetmandm": 35
+  },
+  "pulls_authors": [
+    "donileo",
+    "sweetmandm",
+    "plashchynski",
+    "maxcampolo",
+    "iAladdin",
+    "stal888",
+    "cute",
+    "lyptt",
+    "isaacroldan",
+    "nmattisson",
+    "alexgaribay",
+    "cotsog"
+  ],
+  "languages": {
+    "Objective-C": {
+      "bytes": 62653,
+      "color": "#438eff"
+    },
+    "HTML": {
+      "bytes": 10783,
+      "color": "#e34c26"
+    },
+    "Ruby": {
+      "bytes": 2751,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 1151,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T17:08:33.671Z"
+}

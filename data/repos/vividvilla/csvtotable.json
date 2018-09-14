@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "csvtotable",
+  "full_name": "vividvilla/csvtotable",
+  "owner": "vividvilla",
+  "private": false,
+  "html_url": "https://github.com/vividvilla/csvtotable",
+  "description": "Simple command-line utility to convert CSV files to searchable and sortable HTML table.",
+  "fork": false,
+  "url": "https://api.github.com/repos/vividvilla/csvtotable",
+  "languages_url": "https://api.github.com/repos/vividvilla/csvtotable/languages",
+  "pulls_url": "https://api.github.com/repos/vividvilla/csvtotable/pulls{/number}",
+  "created_at": "2017-07-05T16:56:48Z",
+  "updated_at": "2018-09-12T07:54:28Z",
+  "pushed_at": "2018-08-10T07:02:02Z",
+  "homepage": "",
+  "size": 1402,
+  "stargazers_count": 735,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "codacy-badger": 1,
+    "HideoYukutake": 2,
+    "cclauss": 5,
+    "vividvilla": 51
+  },
+  "pulls_authors": [
+    "Aderlx",
+    "chfw",
+    "HideoYukutake",
+    "yorkew-east8",
+    "roxanaluca",
+    "codacy-badger",
+    "cclauss"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 11504,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:16.023Z"
+}

@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "winnie",
+  "full_name": "Lesterpig/winnie",
+  "owner": "Lesterpig",
+  "private": false,
+  "html_url": "https://github.com/Lesterpig/winnie",
+  "description": "Educational  WPF / MonoGame project",
+  "fork": false,
+  "url": "https://api.github.com/repos/Lesterpig/winnie",
+  "languages_url": "https://api.github.com/repos/Lesterpig/winnie/languages",
+  "pulls_url": "https://api.github.com/repos/Lesterpig/winnie/pulls{/number}",
+  "created_at": "2016-03-09T09:35:30Z",
+  "updated_at": "2016-03-09T22:22:57Z",
+  "pushed_at": "2016-03-09T09:36:17Z",
+  "homepage": null,
+  "size": 72156,
+  "stargazers_count": 1,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Lesterpig": 97,
+    "superboum": 114
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 215387,
+      "color": "#178600"
+    },
+    "TeX": {
+      "bytes": 21078,
+      "color": "#3D6117"
+    },
+    "C++": {
+      "bytes": 18415,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 480,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 426,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:21.840Z"
+}

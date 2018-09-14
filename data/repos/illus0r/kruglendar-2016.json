@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "kruglendar-2016",
+  "full_name": "illus0r/kruglendar-2016",
+  "owner": "illus0r",
+  "private": false,
+  "html_url": "https://github.com/illus0r/kruglendar-2016",
+  "description": "Round calendar",
+  "fork": false,
+  "url": "https://api.github.com/repos/illus0r/kruglendar-2016",
+  "languages_url": "https://api.github.com/repos/illus0r/kruglendar-2016/languages",
+  "pulls_url": "https://api.github.com/repos/illus0r/kruglendar-2016/pulls{/number}",
+  "created_at": "2015-11-01T07:39:54Z",
+  "updated_at": "2018-03-19T18:23:58Z",
+  "pushed_at": "2016-11-23T07:01:24Z",
+  "homepage": "http://kruglendar.ru",
+  "size": 6693,
+  "stargazers_count": 30,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "gh-pages",
+  "contributors": {
+    "alex7kom": 1,
+    "aloisdg": 1,
+    "illus0r": 75
+  },
+  "pulls_authors": [
+    "alex7kom",
+    "aloisdg"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 20811,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 15378,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 5628,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:17.013Z"
+}

@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "practice_templates",
+  "full_name": "knrt10/practice_templates",
+  "owner": "knrt10",
+  "private": false,
+  "html_url": "https://github.com/knrt10/practice_templates",
+  "description": "Various Templates",
+  "fork": false,
+  "url": "https://api.github.com/repos/knrt10/practice_templates",
+  "languages_url": "https://api.github.com/repos/knrt10/practice_templates/languages",
+  "created_at": "2017-02-11T21:58:13Z",
+  "updated_at": "2017-07-17T15:17:38Z",
+  "pushed_at": "2017-02-18T11:16:00Z",
+  "homepage": "",
+  "size": 15579,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "knrt10": 12
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 139417,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 116260,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 7361,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-07-24T14:33:12.483Z",
+  "pulls_url": "https://api.github.com/repos/knrt10/practice_templates/pulls{/number}",
+  "pulls_authors": []
+}

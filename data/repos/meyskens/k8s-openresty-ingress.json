@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "k8s-openresty-ingress",
+  "full_name": "meyskens/k8s-openresty-ingress",
+  "owner": "meyskens",
+  "private": false,
+  "html_url": "https://github.com/meyskens/k8s-openresty-ingress",
+  "description": "Kubernetes ingress controler with OpenResty",
+  "fork": false,
+  "url": "https://api.github.com/repos/meyskens/k8s-openresty-ingress",
+  "languages_url": "https://api.github.com/repos/meyskens/k8s-openresty-ingress/languages",
+  "pulls_url": "https://api.github.com/repos/meyskens/k8s-openresty-ingress/pulls{/number}",
+  "created_at": "2018-04-15T15:40:17Z",
+  "updated_at": "2018-07-31T14:55:56Z",
+  "pushed_at": "2018-09-11T04:41:00Z",
+  "homepage": null,
+  "size": 13022,
+  "stargazers_count": 4,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "meyskens": 47
+  },
+  "pulls_authors": [
+    "dependabot[bot]",
+    "meyskens"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 10064,
+      "color": "#375eab"
+    },
+    "Smarty": {
+      "bytes": 2907,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-11T20:50:13.826Z"
+}

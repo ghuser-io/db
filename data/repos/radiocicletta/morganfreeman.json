@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "morganfreeman",
+  "full_name": "radiocicletta/morganfreeman",
+  "owner": "radiocicletta",
+  "private": false,
+  "html_url": "https://github.com/radiocicletta/morganfreeman",
+  "description": "A simple analytics for icecast servers",
+  "fork": false,
+  "url": "https://api.github.com/repos/radiocicletta/morganfreeman",
+  "languages_url": "https://api.github.com/repos/radiocicletta/morganfreeman/languages",
+  "pulls_url": "https://api.github.com/repos/radiocicletta/morganfreeman/pulls{/number}",
+  "created_at": "2012-08-28T19:39:19Z",
+  "updated_at": "2017-10-10T13:38:46Z",
+  "pushed_at": "2015-11-13T20:49:45Z",
+  "homepage": null,
+  "size": 420,
+  "stargazers_count": 11,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "radiocicletta",
+    "id": 1058013,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNTgwMTM=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/1058013?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/radiocicletta",
+    "html_url": "https://github.com/radiocicletta",
+    "followers_url": "https://api.github.com/users/radiocicletta/followers",
+    "following_url": "https://api.github.com/users/radiocicletta/following{/other_user}",
+    "gists_url": "https://api.github.com/users/radiocicletta/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/radiocicletta/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/radiocicletta/subscriptions",
+    "organizations_url": "https://api.github.com/users/radiocicletta/orgs",
+    "repos_url": "https://api.github.com/users/radiocicletta/repos",
+    "events_url": "https://api.github.com/users/radiocicletta/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/radiocicletta/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "moul": 2,
+    "leofiore": 40
+  },
+  "pulls_authors": [
+    "moul"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 125598,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 20238,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 4822,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:47.497Z"
+}

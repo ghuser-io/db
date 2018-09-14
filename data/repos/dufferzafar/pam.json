@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pam",
+  "full_name": "dufferzafar/pam",
+  "owner": "dufferzafar",
+  "private": false,
+  "html_url": "https://github.com/dufferzafar/pam",
+  "description": "Scripts to backup files & config",
+  "fork": false,
+  "url": "https://api.github.com/repos/dufferzafar/pam",
+  "languages_url": "https://api.github.com/repos/dufferzafar/pam/languages",
+  "pulls_url": "https://api.github.com/repos/dufferzafar/pam/pulls{/number}",
+  "created_at": "2016-01-20T09:34:19Z",
+  "updated_at": "2016-07-10T22:00:21Z",
+  "pushed_at": "2016-01-23T05:47:55Z",
+  "homepage": null,
+  "size": 8,
+  "stargazers_count": 5,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "dufferzafar": 13
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 9278,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-03T12:57:00.072Z"
+}

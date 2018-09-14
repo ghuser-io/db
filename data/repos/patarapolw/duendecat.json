@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "duendecat",
+  "full_name": "patarapolw/duendecat",
+  "owner": "patarapolw",
+  "private": false,
+  "html_url": "https://github.com/patarapolw/duendecat",
+  "description": "Sentence randomizing app by WaniKani Kanji level and JLPT grammar level. Also for Chinese (Mandarin).",
+  "fork": false,
+  "url": "https://api.github.com/repos/patarapolw/duendecat",
+  "languages_url": "https://api.github.com/repos/patarapolw/duendecat/languages",
+  "pulls_url": "https://api.github.com/repos/patarapolw/duendecat/pulls{/number}",
+  "created_at": "2017-12-23T10:49:17Z",
+  "updated_at": "2018-08-31T16:25:16Z",
+  "pushed_at": "2018-03-07T16:14:58Z",
+  "homepage": "",
+  "size": 57777,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "patarapolw": 39
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 44612,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-31T16:31:00.869Z"
+}

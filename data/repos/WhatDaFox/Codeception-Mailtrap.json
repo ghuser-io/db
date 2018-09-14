@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Codeception-Mailtrap",
+  "full_name": "WhatDaFox/Codeception-Mailtrap",
+  "owner": "WhatDaFox",
+  "private": false,
+  "html_url": "https://github.com/WhatDaFox/Codeception-Mailtrap",
+  "description": "Codeception module to test email using Mailtrap.io",
+  "fork": false,
+  "url": "https://api.github.com/repos/WhatDaFox/Codeception-Mailtrap",
+  "languages_url": "https://api.github.com/repos/WhatDaFox/Codeception-Mailtrap/languages",
+  "pulls_url": "https://api.github.com/repos/WhatDaFox/Codeception-Mailtrap/pulls{/number}",
+  "created_at": "2015-02-15T23:49:31Z",
+  "updated_at": "2018-05-03T06:45:43Z",
+  "pushed_at": "2018-05-03T06:47:02Z",
+  "homepage": null,
+  "size": 56,
+  "stargazers_count": 13,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "develop",
+  "organization": {
+    "login": "WhatDaFox",
+    "id": 8286867,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjgyODY4Njc=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/8286867?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/WhatDaFox",
+    "html_url": "https://github.com/WhatDaFox",
+    "followers_url": "https://api.github.com/users/WhatDaFox/followers",
+    "following_url": "https://api.github.com/users/WhatDaFox/following{/other_user}",
+    "gists_url": "https://api.github.com/users/WhatDaFox/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/WhatDaFox/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/WhatDaFox/subscriptions",
+    "organizations_url": "https://api.github.com/users/WhatDaFox/orgs",
+    "repos_url": "https://api.github.com/users/WhatDaFox/repos",
+    "events_url": "https://api.github.com/users/WhatDaFox/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/WhatDaFox/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "sergeyklay": 1,
+    "captbaritone": 1,
+    "footballencarta": 1,
+    "lrobi2014": 2,
+    "TomKita": 3,
+    "polevaultweb": 9,
+    "foxted": 35
+  },
+  "pulls_authors": [
+    "foxted",
+    "polevaultweb",
+    "yepzy",
+    "rmacdon465",
+    "sergeyklay",
+    "TomKita",
+    "lrobi2014",
+    "captbaritone",
+    "footballencarta"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 13334,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:41.132Z"
+}

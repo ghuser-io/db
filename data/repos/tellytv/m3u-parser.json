@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "m3u-parser",
+  "full_name": "tellytv/m3u-parser",
+  "owner": "tellytv",
+  "private": false,
+  "html_url": "https://github.com/tellytv/m3u-parser",
+  "description": "m3u parser specialised for telly. original project @ https://github.com/jamesnetherton/m3u",
+  "fork": false,
+  "url": "https://api.github.com/repos/tellytv/m3u-parser",
+  "languages_url": "https://api.github.com/repos/tellytv/m3u-parser/languages",
+  "pulls_url": "https://api.github.com/repos/tellytv/m3u-parser/pulls{/number}",
+  "created_at": "2018-02-21T17:07:54Z",
+  "updated_at": "2018-08-16T22:53:26Z",
+  "pushed_at": "2018-08-11T07:41:40Z",
+  "homepage": null,
+  "size": 7,
+  "stargazers_count": 2,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "tellytv",
+    "id": 42452507,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQyNDUyNTA3",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/42452507?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/tellytv",
+    "html_url": "https://github.com/tellytv",
+    "followers_url": "https://api.github.com/users/tellytv/followers",
+    "following_url": "https://api.github.com/users/tellytv/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tellytv/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/tellytv/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tellytv/subscriptions",
+    "organizations_url": "https://api.github.com/users/tellytv/orgs",
+    "repos_url": "https://api.github.com/users/tellytv/repos",
+    "events_url": "https://api.github.com/users/tellytv/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/tellytv/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "tombowditch": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 2712,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:59.989Z"
+}

@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "facebook-android-sdk",
+  "full_name": "cuu508/facebook-android-sdk",
+  "owner": "cuu508",
+  "private": false,
+  "html_url": "https://github.com/cuu508/facebook-android-sdk",
+  "description": "Facebook SDK for Android",
+  "fork": true,
+  "url": "https://api.github.com/repos/cuu508/facebook-android-sdk",
+  "languages_url": "https://api.github.com/repos/cuu508/facebook-android-sdk/languages",
+  "pulls_url": "https://api.github.com/repos/cuu508/facebook-android-sdk/pulls{/number}",
+  "created_at": "2012-02-02T11:28:33Z",
+  "updated_at": "2013-01-07T07:48:22Z",
+  "pushed_at": "2012-02-02T11:36:44Z",
+  "homepage": "developers.facebook.com",
+  "size": 3788,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "bgold": 1,
+    "cuu508": 2,
+    "jimbru": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 288204,
+      "color": "#b07219"
+    },
+    "JavaScript": {
+      "bytes": 1811,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:23.574Z"
+}

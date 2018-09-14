@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hackernews",
+  "full_name": "jcla1/hackernews",
+  "owner": "jcla1",
+  "private": false,
+  "html_url": "https://github.com/jcla1/hackernews",
+  "description": "Small coffeescript program that rates what hackernews posts you like using Bayesian algo",
+  "fork": false,
+  "url": "https://api.github.com/repos/jcla1/hackernews",
+  "languages_url": "https://api.github.com/repos/jcla1/hackernews/languages",
+  "pulls_url": "https://api.github.com/repos/jcla1/hackernews/pulls{/number}",
+  "created_at": "2012-03-24T13:56:02Z",
+  "updated_at": "2014-05-10T10:40:52Z",
+  "pushed_at": "2012-04-03T13:49:49Z",
+  "homepage": "",
+  "size": 104,
+  "stargazers_count": 2,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jcla1": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 18296,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:10.041Z"
+}

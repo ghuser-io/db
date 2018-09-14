@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fig-mesos",
+  "full_name": "moul/fig-mesos",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/fig-mesos",
+  "description": "Run Mesos in Docker with Fig!",
+  "fork": true,
+  "url": "https://api.github.com/repos/moul/fig-mesos",
+  "languages_url": "https://api.github.com/repos/moul/fig-mesos/languages",
+  "pulls_url": "https://api.github.com/repos/moul/fig-mesos/pulls{/number}",
+  "created_at": "2014-12-18T14:55:15Z",
+  "updated_at": "2014-12-19T16:18:50Z",
+  "pushed_at": "2014-12-18T15:03:43Z",
+  "homepage": "",
+  "size": 153,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mrbrowning": 2,
+    "breerly": 34
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-05T13:07:55.562Z"
+}

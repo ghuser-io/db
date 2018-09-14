@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "night-app",
+  "full_name": "azdanov/night-app",
+  "owner": "azdanov",
+  "private": false,
+  "html_url": "https://github.com/azdanov/night-app",
+  "description": "Night App project made for freeCodeCamp",
+  "fork": false,
+  "url": "https://api.github.com/repos/azdanov/night-app",
+  "languages_url": "https://api.github.com/repos/azdanov/night-app/languages",
+  "pulls_url": "https://api.github.com/repos/azdanov/night-app/pulls{/number}",
+  "created_at": "2018-05-31T21:54:15Z",
+  "updated_at": "2018-09-13T23:35:09Z",
+  "pushed_at": "2018-09-13T23:35:08Z",
+  "homepage": "https://node-night-app.herokuapp.com/",
+  "size": 5310,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "azdanov": 304,
+    "renovate-bot": 27
+  },
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 213576,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1762,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-13T23:42:28.852Z"
+}

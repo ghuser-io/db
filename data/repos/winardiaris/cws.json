@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cws",
+  "full_name": "winardiaris/cws",
+  "owner": "winardiaris",
+  "private": false,
+  "html_url": "https://github.com/winardiaris/cws",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/winardiaris/cws",
+  "languages_url": "https://api.github.com/repos/winardiaris/cws/languages",
+  "pulls_url": "https://api.github.com/repos/winardiaris/cws/pulls{/number}",
+  "created_at": "2015-01-12T09:20:16Z",
+  "updated_at": "2016-08-16T11:21:03Z",
+  "pushed_at": "2017-04-06T02:15:18Z",
+  "homepage": null,
+  "size": 27480,
+  "stargazers_count": 1,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "laymonage": 1,
+    "winardiaris": 78
+  },
+  "pulls_authors": [
+    "jayvdb",
+    "laymonage"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 5428431,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 755363,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 354287,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 662,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

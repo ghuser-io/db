@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "react-native-search-bar",
+  "full_name": "Nikamura/react-native-search-bar",
+  "owner": "Nikamura",
+  "private": false,
+  "html_url": "https://github.com/Nikamura/react-native-search-bar",
+  "description": "The high-quality iOS native search bar for react native.",
+  "fork": true,
+  "url": "https://api.github.com/repos/Nikamura/react-native-search-bar",
+  "languages_url": "https://api.github.com/repos/Nikamura/react-native-search-bar/languages",
+  "pulls_url": "https://api.github.com/repos/Nikamura/react-native-search-bar/pulls{/number}",
+  "created_at": "2016-03-15T17:54:16Z",
+  "updated_at": "2017-10-16T18:04:32Z",
+  "pushed_at": "2016-02-11T21:49:05Z",
+  "homepage": "",
+  "size": 58,
+  "stargazers_count": 1,
+  "language": "Objective-C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "juankiz": 1,
+    "chirag04": 1,
+    "haibinyu": 1,
+    "zedman": 1,
+    "spencercarli": 1,
+    "chengs": 1,
+    "considerate": 1,
+    "cancan101": 2,
+    "OxyDesign": 2,
+    "samsel": 2,
+    "venepe": 2,
+    "umhan35": 47
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Objective-C": {
+      "bytes": 10482,
+      "color": "#438eff"
+    },
+    "JavaScript": {
+      "bytes": 2378,
+      "color": "#f1e05a"
+    },
+    "CoffeeScript": {
+      "bytes": 1386,
+      "color": "#244776"
+    },
+    "Makefile": {
+      "bytes": 84,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T17:13:24.249Z"
+}

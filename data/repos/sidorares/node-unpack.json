@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-unpack",
+  "full_name": "sidorares/node-unpack",
+  "owner": "sidorares",
+  "private": false,
+  "html_url": "https://github.com/sidorares/node-unpack",
+  "description": "Pack and unpack binary data using pyhon-alike pack syntax",
+  "fork": false,
+  "url": "https://api.github.com/repos/sidorares/node-unpack",
+  "languages_url": "https://api.github.com/repos/sidorares/node-unpack/languages",
+  "pulls_url": "https://api.github.com/repos/sidorares/node-unpack/pulls{/number}",
+  "created_at": "2012-09-06T05:28:18Z",
+  "updated_at": "2013-10-07T09:42:38Z",
+  "pushed_at": "2017-05-01T05:50:29Z",
+  "homepage": null,
+  "size": 3,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sidorares": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 7961,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:45.979Z"
+}

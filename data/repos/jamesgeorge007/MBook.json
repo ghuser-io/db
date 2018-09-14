@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "MBook",
+  "full_name": "jamesgeorge007/MBook",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/MBook",
+  "description": "Hospital Appointment Booking App",
+  "fork": true,
+  "url": "https://api.github.com/repos/jamesgeorge007/MBook",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/MBook/languages",
+  "created_at": "2018-02-16T17:07:28Z",
+  "updated_at": "2018-02-16T17:08:06Z",
+  "pushed_at": "2017-11-21T12:52:34Z",
+  "homepage": "http://carehack.azurewebsites.net",
+  "size": 2312,
+  "stargazers_count": 1,
+  "language": "Vue",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "scriptonist": 4,
+    "ajomadlabs": 92
+  },
+  "languages": {
+    "Vue": {
+      "bytes": 49516,
+      "color": "#2c3e50"
+    },
+    "JavaScript": {
+      "bytes": 39004,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 919,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 197,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 97,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/MBook/pulls{/number}",
+  "pulls_authors": []
+}

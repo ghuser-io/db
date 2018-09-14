@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "WebpageProject-IntroToIT",
+  "full_name": "Monal5031/WebpageProject-IntroToIT",
+  "owner": "Monal5031",
+  "private": false,
+  "html_url": "https://github.com/Monal5031/WebpageProject-IntroToIT",
+  "description": "Webpage Project for Introduction to IT course.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Monal5031/WebpageProject-IntroToIT",
+  "languages_url": "https://api.github.com/repos/Monal5031/WebpageProject-IntroToIT/languages",
+  "pulls_url": "https://api.github.com/repos/Monal5031/WebpageProject-IntroToIT/pulls{/number}",
+  "created_at": "2017-04-03T17:19:00Z",
+  "updated_at": "2017-04-20T17:58:41Z",
+  "pushed_at": "2018-03-30T13:46:54Z",
+  "homepage": "https://monal5031.github.io/WebpageProject-IntroToIT/",
+  "size": 900,
+  "stargazers_count": 2,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "anshumanv": 8,
+    "Monal5031": 34
+  },
+  "pulls_authors": [
+    "anshumanv",
+    "Monal5031"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 35378,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 27880,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 3622,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-04T12:17:59.182Z"
+}

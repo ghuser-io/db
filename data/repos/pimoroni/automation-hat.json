@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "automation-hat",
+  "full_name": "pimoroni/automation-hat",
+  "owner": "pimoroni",
+  "private": false,
+  "html_url": "https://github.com/pimoroni/automation-hat",
+  "description": "Python library and examples for the Pimoroni Automation HAT & pHAT",
+  "fork": false,
+  "url": "https://api.github.com/repos/pimoroni/automation-hat",
+  "languages_url": "https://api.github.com/repos/pimoroni/automation-hat/languages",
+  "pulls_url": "https://api.github.com/repos/pimoroni/automation-hat/pulls{/number}",
+  "created_at": "2016-06-13T09:09:07Z",
+  "updated_at": "2018-09-11T21:53:10Z",
+  "pushed_at": "2018-09-03T07:52:04Z",
+  "homepage": "https://shop.pimoroni.com/products/automation-hat",
+  "size": 126,
+  "stargazers_count": 46,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pimoroni",
+    "id": 2399917,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzOTk5MTc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2399917?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pimoroni",
+    "html_url": "https://github.com/pimoroni",
+    "followers_url": "https://api.github.com/users/pimoroni/followers",
+    "following_url": "https://api.github.com/users/pimoroni/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pimoroni/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pimoroni/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pimoroni/subscriptions",
+    "organizations_url": "https://api.github.com/users/pimoroni/orgs",
+    "repos_url": "https://api.github.com/users/pimoroni/repos",
+    "events_url": "https://api.github.com/users/pimoroni/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pimoroni/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "sandyjmacdonald": 1,
+    "pimoroni-phil": 1,
+    "RogueM": 25,
+    "Gadgetoid": 42
+  },
+  "pulls_authors": [
+    "StefanZi",
+    "kiddigital",
+    "Gadgetoid",
+    "mharsch",
+    "RogueM"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 25006,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 6599,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 334,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:07.355Z"
+}

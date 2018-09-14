@@ -1,0 +1,99 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "mikelothar/misimi": {
+      "full_name": "mikelothar/misimi",
+      "name": "misimi",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 2.508235952687284,
+      "total_commits_count": 72,
+      "activity": 1.532686879568355,
+      "total_score": 6.549158784942923,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "mikelothar/show-all-images-in-a-folder-with-php": {
+      "full_name": "mikelothar/show-all-images-in-a-folder-with-php",
+      "name": "show-all-images-in-a-folder-with-php",
+      "stargazers_count": 36,
+      "popularity": 2.5453460937604104,
+      "percentage": 91.66666666666667,
+      "maturity": 2.3049237547889083,
+      "total_commits_count": 60,
+      "activity": 1.2201039479649807,
+      "total_score": 43.79803068946892,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "mikelothar/github-gallery": {
+      "full_name": "mikelothar/github-gallery",
+      "name": "github-gallery",
+      "stargazers_count": 5,
+      "popularity": 1.6128219920330789,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 28,
+      "activity": 1.174231377349534,
+      "total_score": 26.979383249878797,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "mikelothar/php-angularjs-show-all-images-in-a-folder": {
+      "full_name": "mikelothar/php-angularjs-show-all-images-in-a-folder",
+      "name": "php-angularjs-show-all-images-in-a-folder",
+      "stargazers_count": 4,
+      "popularity": 1.49139952161816,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 9,
+      "activity": 0.820403899660409,
+      "total_score": 24.682796245550968,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "mikelothar/courses": {
+      "full_name": "mikelothar/courses",
+      "name": "courses",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 12,
+      "activity": 0.4776653924884666,
+      "total_score": 17.14051691957551,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "dalsgaard/JavaScriptFundamentals": {
+      "full_name": "dalsgaard/JavaScriptFundamentals",
+      "name": "JavaScriptFundamentals",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 6.557377049180328,
+      "maturity": 2.3260105612596127,
+      "total_commits_count": 61,
+      "activity": 0.832979501161689,
+      "total_score": 5.485000623680914,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "iconic/illustrator-svg-exporter": {
+      "full_name": "iconic/illustrator-svg-exporter",
+      "name": "illustrator-svg-exporter",
+      "stargazers_count": 568,
+      "popularity": 3.7536987290468558,
+      "percentage": 8.333333333333334,
+      "maturity": 0,
+      "total_commits_count": 12,
+      "activity": 0.6570144588991598,
+      "total_score": 15.984617602507157,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "iconic"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jo",
+  "full_name": "rjrodger/jo",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/jo",
+  "description": "JavaScript application framework for HTML5, either for \"hybrid\" apps working with PhoneGap, or for creating web apps with modern browsers. Successful UI test apps working in webOS 1.4.5, iOS 3.2/4.1, Android 2.1/2.2, Symbian^3 and OSX Dashboard Widgets as a bonus. *** Looking for JS/CSS collaborators, please send me a message if interested. ***",
+  "fork": true,
+  "url": "https://api.github.com/repos/rjrodger/jo",
+  "languages_url": "https://api.github.com/repos/rjrodger/jo/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/jo/pulls{/number}",
+  "created_at": "2010-11-11T14:27:20Z",
+  "updated_at": "2014-11-12T01:03:55Z",
+  "pushed_at": "2010-11-16T13:42:28Z",
+  "homepage": "http://joapp.com/forums",
+  "size": 572,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "maxhauser": 1,
+    "rjrodger": 2,
+    "davebalmer": 235
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T07:40:42.200Z"
+}

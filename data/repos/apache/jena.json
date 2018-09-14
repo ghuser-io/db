@@ -1,0 +1,212 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jena",
+  "full_name": "apache/jena",
+  "owner": "apache",
+  "private": false,
+  "html_url": "https://github.com/apache/jena",
+  "description": "Mirror of Apache Jena",
+  "fork": false,
+  "url": "https://api.github.com/repos/apache/jena",
+  "languages_url": "https://api.github.com/repos/apache/jena/languages",
+  "pulls_url": "https://api.github.com/repos/apache/jena/pulls{/number}",
+  "created_at": "2013-01-04T08:00:32Z",
+  "updated_at": "2018-09-14T04:48:49Z",
+  "pushed_at": "2018-09-05T16:12:50Z",
+  "homepage": null,
+  "size": 411204,
+  "stargazers_count": 445,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "apache",
+    "id": 47359,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ3MzU5",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/47359?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/apache",
+    "html_url": "https://github.com/apache",
+    "followers_url": "https://api.github.com/users/apache/followers",
+    "following_url": "https://api.github.com/users/apache/following{/other_user}",
+    "gists_url": "https://api.github.com/users/apache/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/apache/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/apache/subscriptions",
+    "organizations_url": "https://api.github.com/users/apache/orgs",
+    "repos_url": "https://api.github.com/users/apache/repos",
+    "events_url": "https://api.github.com/users/apache/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/apache/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "fabriziocucci": 1,
+    "hartig": 1,
+    "JervenBolleman": 1,
+    "grahamtriggs": 1,
+    "natancox": 1,
+    "retnor": 1,
+    "paulhoule": 1,
+    "vcelakp": 1,
+    "joe776": 1,
+    "LaurensRietveld": 1,
+    "escowles": 1,
+    "ijdickinson": 1,
+    "krosenvold": 1,
+    "christopher-johnson": 2,
+    "jaco0646": 2,
+    "shirren": 2,
+    "cygri": 2,
+    "jfraudeau": 2,
+    "ehedgehog": 2,
+    "adolby": 2,
+    "der": 3,
+    "OmarElabd": 3,
+    "bimargulies": 3,
+    "acoburn": 4,
+    "ramiromagalhaes": 4,
+    "Claudenw": 4,
+    "jpullmann": 5,
+    "barthanssens": 8,
+    "amiara514": 14,
+    "ales004": 15,
+    "galbiston": 18,
+    "kinow": 31,
+    "xristy": 38,
+    "confidencesun": 38,
+    "fpservant": 39,
+    "osma": 41,
+    "Stephen-Allen": 69,
+    "stain": 96,
+    "ajs6f": 164,
+    "rvesse": 520,
+    "afs": 5398
+  },
+  "pulls_authors": [
+    "acoburn",
+    "afs",
+    "kinow",
+    "galbiston",
+    "rvesse",
+    "fabriziocucci",
+    "xristy",
+    "hartig",
+    "anujgandharv",
+    "ajs6f",
+    "christopher-johnson",
+    "jeremy-coulon",
+    "supergitacc",
+    "Claudenw",
+    "osma",
+    "jaco0646",
+    "santiago-a-vidal",
+    "stain",
+    "mschroeder-github",
+    "JervenBolleman",
+    "shirren",
+    "grahamtriggs",
+    "cygri",
+    "ehedgehog",
+    "rmorrise",
+    "fpservant",
+    "dick-twocows",
+    "barthanssens",
+    "retnor",
+    "rafaelcoutinho",
+    "der",
+    "OmarElabd",
+    "jfraudeau",
+    "ramiromagalhaes",
+    "paulhoule",
+    "ales004",
+    "vcelakp",
+    "adolby",
+    "joe776",
+    "jpullmann",
+    "CesarPantoja",
+    "LaurensRietveld",
+    "bwmcbride",
+    "escowles",
+    "samaitra",
+    "confidencesun",
+    "yyz1989",
+    "amiara514",
+    "akkabin",
+    "krosenvold",
+    "mbentoalves",
+    "dr0i",
+    "hovenko",
+    "niclashoyer"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 30749202,
+      "color": "#b07219"
+    },
+    "JavaScript": {
+      "bytes": 873107,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 247565,
+      "color": "#89e051"
+    },
+    "Ruby": {
+      "bytes": 210005,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 124874,
+      "color": "#e34c26"
+    },
+    "XSLT": {
+      "bytes": 116485,
+      "color": "#EB8CEB"
+    },
+    "Lex": {
+      "bytes": 82672,
+      "color": "#DBCA00"
+    },
+    "Perl": {
+      "bytes": 37152,
+      "color": "#0298c3"
+    },
+    "CSS": {
+      "bytes": 31741,
+      "color": "#563d7c"
+    },
+    "Batchfile": {
+      "bytes": 21132,
+      "color": "#C1F12E"
+    },
+    "Smarty": {
+      "bytes": 17354,
+      "color": "#ccc"
+    },
+    "C++": {
+      "bytes": 5037,
+      "color": "#f34b7d"
+    },
+    "AspectJ": {
+      "bytes": 3446,
+      "color": "#a957b0"
+    },
+    "Thrift": {
+      "bytes": 3201,
+      "color": "#ccc"
+    },
+    "Elixir": {
+      "bytes": 2548,
+      "color": "#6e4a7e"
+    }
+  },
+  "fetched_at": "2018-09-14T08:37:43.106Z"
+}

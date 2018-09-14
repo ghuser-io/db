@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "eslint-plugin-underscore",
+  "full_name": "captbaritone/eslint-plugin-underscore",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/eslint-plugin-underscore",
+  "description": "ESLint rules for Underscore",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/eslint-plugin-underscore",
+  "languages_url": "https://api.github.com/repos/captbaritone/eslint-plugin-underscore/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/eslint-plugin-underscore/pulls{/number}",
+  "created_at": "2016-01-13T05:56:25Z",
+  "updated_at": "2018-07-29T22:04:31Z",
+  "pushed_at": "2017-05-01T19:48:11Z",
+  "homepage": "",
+  "size": 695,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bitshadow": 1,
+    "gajus": 1,
+    "tomerlichtash": 1,
+    "mischah": 1,
+    "pwmiller": 2,
+    "mariawix": 7,
+    "idok": 28,
+    "captbaritone": 85,
+    "ganimomer": 115
+  },
+  "pulls_authors": [
+    "greenkeeper[bot]",
+    "captbaritone",
+    "pwmiller"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 98458,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:40.066Z"
+}

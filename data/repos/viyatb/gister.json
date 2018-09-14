@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 1,
+    "lantins": 1,
+    "hnakamur": 4,
+    "viyatb": 23
+  },
+  "name": "gister",
+  "full_name": "viyatb/gister",
+  "owner": "viyatb",
+  "private": false,
+  "html_url": "https://github.com/viyatb/gister",
+  "description": "A command line app to create Gists in Go",
+  "fork": false,
+  "url": "https://api.github.com/repos/viyatb/gister",
+  "languages_url": "https://api.github.com/repos/viyatb/gister/languages",
+  "created_at": "2015-02-15T10:42:21Z",
+  "updated_at": "2018-07-02T07:30:24Z",
+  "pushed_at": "2018-04-19T16:42:02Z",
+  "homepage": "",
+  "size": 18,
+  "stargazers_count": 23,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "Go": {
+      "bytes": 6059,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/viyatb/gister/pulls{/number}",
+  "pulls_authors": [
+    "Calinou",
+    "hnakamur",
+    "lantins"
+  ]
+}

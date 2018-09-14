@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "focusback",
+  "full_name": "amitness/focusback",
+  "owner": "amitness",
+  "private": false,
+  "html_url": "https://github.com/amitness/focusback",
+  "description": "Vibrate your fitness band when you're distracted on social media.",
+  "fork": false,
+  "url": "https://api.github.com/repos/amitness/focusback",
+  "languages_url": "https://api.github.com/repos/amitness/focusback/languages",
+  "pulls_url": "https://api.github.com/repos/amitness/focusback/pulls{/number}",
+  "created_at": "2017-10-03T17:10:32Z",
+  "updated_at": "2017-11-10T03:30:28Z",
+  "pushed_at": "2017-10-31T17:23:24Z",
+  "homepage": "",
+  "size": 13,
+  "stargazers_count": 4,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "amitness": 18
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 2062,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:25.059Z"
+}

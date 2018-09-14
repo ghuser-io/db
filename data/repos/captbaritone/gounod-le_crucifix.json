@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gounod-le_crucifix",
+  "full_name": "captbaritone/gounod-le_crucifix",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/gounod-le_crucifix",
+  "description": "Lilypond engraving of Charles Gounod's choral work \"Le Crucifix\"",
+  "fork": false,
+  "url": "https://api.github.com/repos/captbaritone/gounod-le_crucifix",
+  "languages_url": "https://api.github.com/repos/captbaritone/gounod-le_crucifix/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/gounod-le_crucifix/pulls{/number}",
+  "created_at": "2013-07-15T05:17:30Z",
+  "updated_at": "2018-07-29T22:05:14Z",
+  "pushed_at": "2013-10-01T18:52:53Z",
+  "homepage": null,
+  "size": 180,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 24
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T04:58:44.387Z"
+}

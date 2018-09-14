@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "OpenBazaar-Client",
+  "full_name": "hauxir/OpenBazaar-Client",
+  "owner": "hauxir",
+  "private": false,
+  "html_url": "https://github.com/hauxir/OpenBazaar-Client",
+  "description": "Front-end Electron application for talking with the OpenBazaar-Server daemon",
+  "fork": true,
+  "url": "https://api.github.com/repos/hauxir/OpenBazaar-Client",
+  "languages_url": "https://api.github.com/repos/hauxir/OpenBazaar-Client/languages",
+  "pulls_url": "https://api.github.com/repos/hauxir/OpenBazaar-Client/pulls{/number}",
+  "created_at": "2015-09-10T13:39:38Z",
+  "updated_at": "2016-01-18T17:48:12Z",
+  "pushed_at": "2015-12-08T22:16:29Z",
+  "homepage": "",
+  "size": 17837,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Kirvx": 1,
+    "SamPatt": 1,
+    "JCLengeling": 1,
+    "hauxir": 1,
+    "llamaha": 1,
+    "cpacia": 2,
+    "markm1992": 2,
+    "z3ntu": 3,
+    "HostFat": 3,
+    "gubatron": 4,
+    "jamesdwilson": 5,
+    "STRML": 11,
+    "hoffmabc": 76,
+    "morebrownies": 122,
+    "jjeffryes": 315
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 487991,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 183897,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 82799,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T17:10:03.103Z"
+}

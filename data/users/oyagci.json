@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "oyagci",
+  "ghuser_created_at": "2018-09-11T01:19:21.819Z",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/20914306?v=4",
+  "html_url": "https://github.com/oyagci",
+  "organizations_url": "https://api.github.com/users/oyagci/orgs",
+  "repos_url": "https://api.github.com/users/oyagci/repos",
+  "type": "User",
+  "name": "Oguzhan Yagci",
+  "company": null,
+  "blog": "",
+  "location": "42, Paris, France",
+  "email": null,
+  "bio": "42.",
+  "public_gists": 5,
+  "created_at": "2016-08-08T21:27:30Z",
+  "updated_at": "2018-08-22T07:03:12Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:16:30.436Z",
+    "repos": [
+      "oyagci/oyagci.github.io",
+      "oyagci/42-light",
+      "oyagci/resources",
+      "oyagci/neovim-config",
+      "oyagci/musical-bitch",
+      "oyagci/tmux-conf",
+      "oyagci/42sh-group",
+      "oyagci/jp101-2000-words-list",
+      "oyagci/42sh-parser",
+      "oyagci/ns-scrapper",
+      "oyagci/jp101-words-pages",
+      "mploux/Project-Epsilon",
+      "GrenderG/tte",
+      "oyagci/libft"
+    ]
+  }
+}

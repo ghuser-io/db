@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "purescript-verbal-expressions",
+  "full_name": "VerbalExpressions/purescript-verbal-expressions",
+  "owner": "VerbalExpressions",
+  "private": false,
+  "html_url": "https://github.com/VerbalExpressions/purescript-verbal-expressions",
+  "description": "Purescript Regular expressions made easy ",
+  "fork": false,
+  "url": "https://api.github.com/repos/VerbalExpressions/purescript-verbal-expressions",
+  "languages_url": "https://api.github.com/repos/VerbalExpressions/purescript-verbal-expressions/languages",
+  "pulls_url": "https://api.github.com/repos/VerbalExpressions/purescript-verbal-expressions/pulls{/number}",
+  "created_at": "2016-01-10T18:42:43Z",
+  "updated_at": "2017-11-20T07:24:19Z",
+  "pushed_at": "2017-04-22T07:43:16Z",
+  "homepage": null,
+  "size": 29,
+  "stargazers_count": 16,
+  "language": "PureScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "VerbalExpressions",
+    "id": 5083777,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjUwODM3Nzc=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/5083777?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/VerbalExpressions",
+    "html_url": "https://github.com/VerbalExpressions",
+    "followers_url": "https://api.github.com/users/VerbalExpressions/followers",
+    "following_url": "https://api.github.com/users/VerbalExpressions/following{/other_user}",
+    "gists_url": "https://api.github.com/users/VerbalExpressions/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/VerbalExpressions/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/VerbalExpressions/subscriptions",
+    "organizations_url": "https://api.github.com/users/VerbalExpressions/orgs",
+    "repos_url": "https://api.github.com/users/VerbalExpressions/repos",
+    "events_url": "https://api.github.com/users/VerbalExpressions/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/VerbalExpressions/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "paulyoung": 1,
+    "sharkdp": 39
+  },
+  "pulls_authors": [
+    "paulyoung"
+  ],
+  "languages": {
+    "PureScript": {
+      "bytes": 17995,
+      "color": "#1D222D"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:53.509Z"
+}

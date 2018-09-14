@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "awesome",
+  "full_name": "moul/awesome",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/awesome",
+  "description": "awesome",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/awesome",
+  "languages_url": "https://api.github.com/repos/moul/awesome/languages",
+  "pulls_url": "https://api.github.com/repos/moul/awesome/pulls{/number}",
+  "created_at": "2015-06-12T12:42:05Z",
+  "updated_at": "2015-06-13T00:11:55Z",
+  "pushed_at": "2015-06-12T12:44:49Z",
+  "homepage": null,
+  "size": 116,
+  "stargazers_count": 5,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 69,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:33.132Z"
+}

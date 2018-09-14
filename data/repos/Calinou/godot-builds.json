@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 10
+  },
+  "name": "godot-builds",
+  "full_name": "Calinou/godot-builds",
+  "owner": "Calinou",
+  "private": false,
+  "html_url": "https://github.com/Calinou/godot-builds",
+  "description": "[WIP] Scripts for building Godot for various platforms",
+  "fork": false,
+  "url": "https://api.github.com/repos/Calinou/godot-builds",
+  "languages_url": "https://api.github.com/repos/Calinou/godot-builds/languages",
+  "created_at": "2017-11-27T00:26:08Z",
+  "updated_at": "2018-08-20T01:46:02Z",
+  "pushed_at": "2017-12-22T12:32:39Z",
+  "homepage": "",
+  "size": 30,
+  "stargazers_count": 7,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "languages": {
+    "Shell": {
+      "bytes": 14549,
+      "color": "#89e051"
+    },
+    "Inno Setup": {
+      "bytes": 1568,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-08-20T04:34:27.537Z",
+  "pulls_url": "https://api.github.com/repos/Calinou/godot-builds/pulls{/number}",
+  "pulls_authors": []
+}

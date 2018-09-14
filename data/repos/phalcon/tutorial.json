@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tutorial",
+  "full_name": "phalcon/tutorial",
+  "owner": "phalcon",
+  "private": false,
+  "html_url": "https://github.com/phalcon/tutorial",
+  "description": "Phalcon Tutorial",
+  "fork": false,
+  "url": "https://api.github.com/repos/phalcon/tutorial",
+  "languages_url": "https://api.github.com/repos/phalcon/tutorial/languages",
+  "pulls_url": "https://api.github.com/repos/phalcon/tutorial/pulls{/number}",
+  "created_at": "2012-06-13T05:46:09Z",
+  "updated_at": "2018-08-28T14:22:10Z",
+  "pushed_at": "2017-08-13T21:13:50Z",
+  "homepage": "http://docs.phalconphp.com/en/latest/reference/tutorial.html",
+  "size": 20,
+  "stargazers_count": 145,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "phalcon",
+    "id": 1221505,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMjE1MDU=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1221505?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/phalcon",
+    "html_url": "https://github.com/phalcon",
+    "followers_url": "https://api.github.com/users/phalcon/followers",
+    "following_url": "https://api.github.com/users/phalcon/following{/other_user}",
+    "gists_url": "https://api.github.com/users/phalcon/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/phalcon/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/phalcon/subscriptions",
+    "organizations_url": "https://api.github.com/users/phalcon/orgs",
+    "repos_url": "https://api.github.com/users/phalcon/repos",
+    "events_url": "https://api.github.com/users/phalcon/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/phalcon/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "SidRoberts": 1,
+    "sergeyklay": 1,
+    "kenjikobe": 1,
+    "ninjapanzer": 2,
+    "andresgutierrez": 3
+  },
+  "pulls_authors": [
+    "ninjapanzer",
+    "Sharfikk",
+    "SidRoberts",
+    "sergeyklay",
+    "fizbin",
+    "rvzzz",
+    "phalcon"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 3536,
+      "color": "#4F5D95"
+    },
+    "HTML": {
+      "bytes": 424,
+      "color": "#e34c26"
+    },
+    "ApacheConf": {
+      "bytes": 361,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:51.638Z"
+}

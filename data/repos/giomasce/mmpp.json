@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mmpp",
+  "full_name": "giomasce/mmpp",
+  "owner": "giomasce",
+  "private": false,
+  "html_url": "https://github.com/giomasce/mmpp",
+  "description": "Metamath in C++",
+  "fork": false,
+  "url": "https://api.github.com/repos/giomasce/mmpp",
+  "languages_url": "https://api.github.com/repos/giomasce/mmpp/languages",
+  "pulls_url": "https://api.github.com/repos/giomasce/mmpp/pulls{/number}",
+  "created_at": "2017-01-02T23:17:37Z",
+  "updated_at": "2018-08-18T13:04:41Z",
+  "pushed_at": "2018-08-18T13:04:39Z",
+  "homepage": null,
+  "size": 1620,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "giomasce": 515
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 1462600,
+      "color": "#f34b7d"
+    },
+    "TypeScript": {
+      "bytes": 69321,
+      "color": "#2b7489"
+    },
+    "JavaScript": {
+      "bytes": 19391,
+      "color": "#f1e05a"
+    },
+    "QMake": {
+      "bytes": 6674,
+      "color": "#ccc"
+    },
+    "CSS": {
+      "bytes": 2258,
+      "color": "#563d7c"
+    },
+    "C": {
+      "bytes": 1789,
+      "color": "#555555"
+    },
+    "Dockerfile": {
+      "bytes": 1068,
+      "color": "#0db7ed"
+    },
+    "HTML": {
+      "bytes": 486,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:22.145Z"
+}

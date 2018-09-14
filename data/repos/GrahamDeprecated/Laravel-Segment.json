@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Laravel-Segment",
+  "full_name": "GrahamDeprecated/Laravel-Segment",
+  "owner": "GrahamDeprecated",
+  "private": false,
+  "html_url": "https://github.com/GrahamDeprecated/Laravel-Segment",
+  "description": "[DEPRECATED] Segment.com wrapper for Laravel 5",
+  "fork": false,
+  "url": "https://api.github.com/repos/GrahamDeprecated/Laravel-Segment",
+  "languages_url": "https://api.github.com/repos/GrahamDeprecated/Laravel-Segment/languages",
+  "pulls_url": "https://api.github.com/repos/GrahamDeprecated/Laravel-Segment/pulls{/number}",
+  "created_at": "2015-01-23T12:10:51Z",
+  "updated_at": "2017-11-09T22:00:55Z",
+  "pushed_at": "2015-12-29T17:14:31Z",
+  "homepage": "",
+  "size": 44,
+  "stargazers_count": 15,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "GrahamDeprecated",
+    "id": 10372766,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwMzcyNzY2",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/10372766?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/GrahamDeprecated",
+    "html_url": "https://github.com/GrahamDeprecated",
+    "followers_url": "https://api.github.com/users/GrahamDeprecated/followers",
+    "following_url": "https://api.github.com/users/GrahamDeprecated/following{/other_user}",
+    "gists_url": "https://api.github.com/users/GrahamDeprecated/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/GrahamDeprecated/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/GrahamDeprecated/subscriptions",
+    "organizations_url": "https://api.github.com/users/GrahamDeprecated/orgs",
+    "repos_url": "https://api.github.com/users/GrahamDeprecated/repos",
+    "events_url": "https://api.github.com/users/GrahamDeprecated/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/GrahamDeprecated/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "vinkla": 1,
+    "joecohens": 2,
+    "GrahamCampbell": 32,
+    "jbrooksuk": 45
+  },
+  "pulls_authors": [
+    "vinkla",
+    "jbrooksuk"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 2583,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:48.314Z"
+}

@@ -1,0 +1,100 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "Lausbert/Exermote": {
+      "full_name": "Lausbert/Exermote",
+      "name": "Exermote",
+      "stargazers_count": 58,
+      "popularity": 2.7566751284457114,
+      "percentage": 100,
+      "maturity": 3.2006670924923255,
+      "total_commits_count": 198,
+      "activity": 5,
+      "total_score": 55.50813624011603,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Lausbert/An-Introduction-to-Machine-Learning": {
+      "full_name": "Lausbert/An-Introduction-to-Machine-Learning",
+      "name": "An-Introduction-to-Machine-Learning",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 12,
+      "activity": 1.6174209135477375,
+      "total_score": 1.6174209135477375,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Lausbert/Snaptake": {
+      "full_name": "Lausbert/Snaptake",
+      "name": "Snaptake",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 9,
+      "activity": 1.6174225198695682,
+      "total_score": 18.28027404695661,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "apploft/ExpandableLabel": {
+      "full_name": "apploft/ExpandableLabel",
+      "name": "ExpandableLabel",
+      "stargazers_count": 148,
+      "popularity": 3.167651734809155,
+      "percentage": 1.639344262295082,
+      "maturity": 2.3260105612596127,
+      "total_commits_count": 61,
+      "activity": 1.984406560003113,
+      "total_score": 16.814456207482902,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "likedan/Awesome-CoreML-Models": {
+      "full_name": "likedan/Awesome-CoreML-Models",
+      "name": "Awesome-CoreML-Models",
+      "stargazers_count": 3281,
+      "popularity": 4.515926171656903,
+      "percentage": 1.2345679012345678,
+      "maturity": 2.6155739242796985,
+      "total_commits_count": 81,
+      "activity": 1.3783623518461616,
+      "total_score": 20.882066989839718,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Lausbert/LausNet_Firebase": {
+      "full_name": "Lausbert/LausNet_Firebase",
+      "name": "LausNet_Firebase",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 6,
+      "activity": 0.9784490244175501,
+      "total_score": 0.9784490244175501,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "xmartlabs/Eureka": {
+      "full_name": "xmartlabs/Eureka",
+      "name": "Eureka",
+      "stargazers_count": 8979,
+      "popularity": 4.95322352657541,
+      "percentage": 0.14792899408284024,
+      "maturity": 3.805261441767992,
+      "total_commits_count": 676,
+      "activity": 5,
+      "total_score": 27.565447761850205,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "apploft",
+    "xmartlabs"
+  ]
+}

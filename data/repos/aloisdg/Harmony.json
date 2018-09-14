@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Harmony",
+  "full_name": "aloisdg/Harmony",
+  "owner": "aloisdg",
+  "private": false,
+  "html_url": "https://github.com/aloisdg/Harmony",
+  "description": "[WIP] Harmony is a .NET library to create color harmonies",
+  "fork": false,
+  "url": "https://api.github.com/repos/aloisdg/Harmony",
+  "languages_url": "https://api.github.com/repos/aloisdg/Harmony/languages",
+  "pulls_url": "https://api.github.com/repos/aloisdg/Harmony/pulls{/number}",
+  "created_at": "2016-06-12T00:04:35Z",
+  "updated_at": "2018-03-20T11:33:35Z",
+  "pushed_at": "2016-10-17T21:44:27Z",
+  "homepage": "",
+  "size": 122,
+  "stargazers_count": 3,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mpl-2.0",
+    "name": "Mozilla Public License 2.0",
+    "spdx_id": "MPL-2.0",
+    "url": "https://api.github.com/licenses/mpl-2.0",
+    "node_id": "MDc6TGljZW5zZTE0"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "aloisdg": 22
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 23077,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:13.599Z"
+}

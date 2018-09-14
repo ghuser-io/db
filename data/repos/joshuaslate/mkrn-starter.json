@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mkrn-starter",
+  "full_name": "joshuaslate/mkrn-starter",
+  "owner": "joshuaslate",
+  "private": false,
+  "html_url": "https://github.com/joshuaslate/mkrn-starter",
+  "description": "Revised starter for future apps.",
+  "fork": false,
+  "url": "https://api.github.com/repos/joshuaslate/mkrn-starter",
+  "languages_url": "https://api.github.com/repos/joshuaslate/mkrn-starter/languages",
+  "pulls_url": "https://api.github.com/repos/joshuaslate/mkrn-starter/pulls{/number}",
+  "created_at": "2017-07-16T18:42:28Z",
+  "updated_at": "2018-09-13T06:56:15Z",
+  "pushed_at": "2018-03-08T12:02:21Z",
+  "homepage": null,
+  "size": 8577,
+  "stargazers_count": 46,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "monkeywithacupcake": 1,
+    "joshuaslate": 31
+  },
+  "pulls_authors": [
+    "monkeywithacupcake",
+    "BitHighlander"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 74408,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 12892,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 532,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-13T16:35:52.108Z"
+}

@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "elm-d3",
+  "full_name": "philderbeast/elm-d3",
+  "owner": "philderbeast",
+  "private": false,
+  "html_url": "https://github.com/philderbeast/elm-d3",
+  "description": "Elm bindings for D3.js",
+  "fork": true,
+  "url": "https://api.github.com/repos/philderbeast/elm-d3",
+  "languages_url": "https://api.github.com/repos/philderbeast/elm-d3/languages",
+  "pulls_url": "https://api.github.com/repos/philderbeast/elm-d3/pulls{/number}",
+  "created_at": "2015-11-18T14:21:51Z",
+  "updated_at": "2017-06-22T07:11:18Z",
+  "pushed_at": "2016-02-27T15:49:44Z",
+  "homepage": "",
+  "size": 213,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "shuaibiyy": 1,
+    "RMKD": 1,
+    "Hoverbear": 1,
+    "rylev": 1,
+    "rrichardson": 2,
+    "process-bot": 2,
+    "michaelbjames": 8,
+    "philderbeast": 12,
+    "seliopou": 88
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 21217,
+      "color": "#f1e05a"
+    },
+    "Elm": {
+      "bytes": 17027,
+      "color": "#60B5CC"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:36.932Z"
+}

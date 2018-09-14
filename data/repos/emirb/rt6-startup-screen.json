@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rt6-startup-screen",
+  "full_name": "emirb/rt6-startup-screen",
+  "owner": "emirb",
+  "private": false,
+  "html_url": "https://github.com/emirb/rt6-startup-screen",
+  "description": "Change startup screen image on your RT6 (eMyWay) navigation.",
+  "fork": false,
+  "url": "https://api.github.com/repos/emirb/rt6-startup-screen",
+  "languages_url": "https://api.github.com/repos/emirb/rt6-startup-screen/languages",
+  "pulls_url": "https://api.github.com/repos/emirb/rt6-startup-screen/pulls{/number}",
+  "created_at": "2015-12-29T15:09:20Z",
+  "updated_at": "2016-04-24T16:23:38Z",
+  "pushed_at": "2015-12-29T15:12:14Z",
+  "homepage": "",
+  "size": 19,
+  "stargazers_count": 1,
+  "language": "Batchfile",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "emirb": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Batchfile": {
+      "bytes": 43568,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-11T20:47:20.774Z"
+}

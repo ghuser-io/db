@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 7
+  },
+  "name": "openrw-website",
+  "full_name": "Calinou/openrw-website",
+  "owner": "Calinou",
+  "private": false,
+  "html_url": "https://github.com/Calinou/openrw-website",
+  "description": "Website for the OpenRW project",
+  "fork": false,
+  "url": "https://api.github.com/repos/Calinou/openrw-website",
+  "languages_url": "https://api.github.com/repos/Calinou/openrw-website/languages",
+  "created_at": "2016-08-14T18:46:32Z",
+  "updated_at": "2016-08-17T21:13:11Z",
+  "pushed_at": "2016-09-02T10:19:13Z",
+  "homepage": "https://calinou.github.io/openrw-website/",
+  "size": 1977,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "gh-pages",
+  "languages": {
+    "CSS": {
+      "bytes": 9078,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 4843,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/Calinou/openrw-website/pulls{/number}",
+  "pulls_authors": []
+}

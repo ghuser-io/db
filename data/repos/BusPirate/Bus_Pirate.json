@@ -1,0 +1,146 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Bus_Pirate",
+  "full_name": "BusPirate/Bus_Pirate",
+  "owner": "BusPirate",
+  "private": false,
+  "html_url": "https://github.com/BusPirate/Bus_Pirate",
+  "description": "Community driven firmware and hardware for Bus Pirate version 3 and 4",
+  "fork": true,
+  "url": "https://api.github.com/repos/BusPirate/Bus_Pirate",
+  "languages_url": "https://api.github.com/repos/BusPirate/Bus_Pirate/languages",
+  "pulls_url": "https://api.github.com/repos/BusPirate/Bus_Pirate/pulls{/number}",
+  "created_at": "2016-03-31T19:13:05Z",
+  "updated_at": "2018-09-12T14:31:05Z",
+  "pushed_at": "2018-09-05T22:31:25Z",
+  "homepage": "",
+  "size": 37153,
+  "stargazers_count": 243,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "BusPirate",
+    "id": 18196766,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4MTk2NzY2",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/18196766?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/BusPirate",
+    "html_url": "https://github.com/BusPirate",
+    "followers_url": "https://api.github.com/users/BusPirate/followers",
+    "following_url": "https://api.github.com/users/BusPirate/following{/other_user}",
+    "gists_url": "https://api.github.com/users/BusPirate/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/BusPirate/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/BusPirate/subscriptions",
+    "organizations_url": "https://api.github.com/users/BusPirate/orgs",
+    "repos_url": "https://api.github.com/users/BusPirate/repos",
+    "events_url": "https://api.github.com/users/BusPirate/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/BusPirate/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ChristopherSamSoon": 1,
+    "Fullmetal5": 1,
+    "ep1cman": 1,
+    "GHPS": 1,
+    "larks": 1,
+    "sajattack": 1,
+    "sylvainpelissier": 1,
+    "frankiek3": 1,
+    "robertlong13": 1,
+    "gdamjan": 1,
+    "viswesr": 1,
+    "hb9xar": 2,
+    "Elemecca": 2,
+    "JarrettR": 2,
+    "u1f35c": 2,
+    "majbthrd": 3,
+    "perillamint": 3,
+    "brimston3": 5,
+    "mikebdp2": 5,
+    "andersm": 7,
+    "kallisti5": 12,
+    "tayken": 13,
+    "vimark": 21,
+    "filipdulic": 34,
+    "brentbxr": 64,
+    "agatti": 196
+  },
+  "pulls_authors": [
+    "hb9xar",
+    "ipatch",
+    "andersm",
+    "Elemecca",
+    "ChristopherSamSoon",
+    "Fullmetal5",
+    "ep1cman",
+    "GHPS",
+    "larks",
+    "sajattack",
+    "kallisti5",
+    "sylvainpelissier",
+    "JarrettR",
+    "frankiek3",
+    "pixeldoc2000",
+    "u1f35c",
+    "brimston3",
+    "mikebdp2",
+    "agatti",
+    "majbthrd",
+    "robertlong13"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 1348820,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 298661,
+      "color": "#f34b7d"
+    },
+    "Assembly": {
+      "bytes": 193488,
+      "color": "#6E4C13"
+    },
+    "Python": {
+      "bytes": 100376,
+      "color": "#3572A5"
+    },
+    "C#": {
+      "bytes": 57742,
+      "color": "#178600"
+    },
+    "Perl": {
+      "bytes": 36599,
+      "color": "#0298c3"
+    },
+    "Makefile": {
+      "bytes": 14783,
+      "color": "#427819"
+    },
+    "HTML": {
+      "bytes": 5939,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 3439,
+      "color": "#89e051"
+    },
+    "Batchfile": {
+      "bytes": 3339,
+      "color": "#C1F12E"
+    },
+    "CMake": {
+      "bytes": 2749,
+      "color": "#ccc"
+    },
+    "QMake": {
+      "bytes": 2420,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:30:51.015Z"
+}

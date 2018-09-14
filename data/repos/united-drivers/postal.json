@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "postal",
+  "full_name": "united-drivers/postal",
+  "owner": "united-drivers",
+  "private": false,
+  "html_url": "https://github.com/united-drivers/postal",
+  "description": ":postbox: international postal address normalizer and renderer",
+  "fork": false,
+  "url": "https://api.github.com/repos/united-drivers/postal",
+  "languages_url": "https://api.github.com/repos/united-drivers/postal/languages",
+  "pulls_url": "https://api.github.com/repos/united-drivers/postal/pulls{/number}",
+  "created_at": "2018-02-03T08:46:49Z",
+  "updated_at": "2018-06-22T22:02:21Z",
+  "pushed_at": "2018-02-07T21:20:55Z",
+  "homepage": "",
+  "size": 22,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "united-drivers",
+    "id": 40503471,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQwNTAzNDcx",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/40503471?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/united-drivers",
+    "html_url": "https://github.com/united-drivers",
+    "followers_url": "https://api.github.com/users/united-drivers/followers",
+    "following_url": "https://api.github.com/users/united-drivers/following{/other_user}",
+    "gists_url": "https://api.github.com/users/united-drivers/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/united-drivers/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/united-drivers/subscriptions",
+    "organizations_url": "https://api.github.com/users/united-drivers/orgs",
+    "repos_url": "https://api.github.com/users/united-drivers/repos",
+    "events_url": "https://api.github.com/users/united-drivers/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/united-drivers/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "moul": 9
+  },
+  "pulls_authors": [
+    "moul"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 22578,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 355,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:43.472Z"
+}

@@ -1,0 +1,85 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "verification-pages",
+  "full_name": "mysociety/verification-pages",
+  "owner": "mysociety",
+  "private": false,
+  "html_url": "https://github.com/mysociety/verification-pages",
+  "description": "Tool to generate and push verification pages to Wikidata",
+  "fork": false,
+  "url": "https://api.github.com/repos/mysociety/verification-pages",
+  "languages_url": "https://api.github.com/repos/mysociety/verification-pages/languages",
+  "pulls_url": "https://api.github.com/repos/mysociety/verification-pages/pulls{/number}",
+  "created_at": "2018-01-31T09:24:33Z",
+  "updated_at": "2018-09-13T13:04:58Z",
+  "pushed_at": "2018-09-13T13:04:55Z",
+  "homepage": "https://www.mysociety.org/",
+  "size": 723,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "mysociety",
+    "id": 141338,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/141338?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mysociety",
+    "html_url": "https://github.com/mysociety",
+    "followers_url": "https://api.github.com/users/mysociety/followers",
+    "following_url": "https://api.github.com/users/mysociety/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mysociety/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mysociety/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mysociety/subscriptions",
+    "organizations_url": "https://api.github.com/users/mysociety/orgs",
+    "repos_url": "https://api.github.com/users/mysociety/repos",
+    "events_url": "https://api.github.com/users/mysociety/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mysociety/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "sagepe": 1,
+    "tmtmtmtm": 3,
+    "zarino": 23,
+    "dependabot-bot": 32,
+    "mhl": 88,
+    "chrismytton": 107,
+    "gbp": 225
+  },
+  "pulls_authors": [
+    "gbp",
+    "dependabot[bot]",
+    "chrismytton",
+    "mhl",
+    "tmtmtmtm",
+    "zarino",
+    "sagepe"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 226035,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 47368,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 36795,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 5660,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 1665,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T16:27:23.069Z"
+}

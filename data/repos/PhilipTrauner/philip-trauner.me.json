@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "philip-trauner.me",
+  "full_name": "PhilipTrauner/philip-trauner.me",
+  "owner": "PhilipTrauner",
+  "private": false,
+  "html_url": "https://github.com/PhilipTrauner/philip-trauner.me",
+  "description": "Code of my website.",
+  "fork": false,
+  "url": "https://api.github.com/repos/PhilipTrauner/philip-trauner.me",
+  "languages_url": "https://api.github.com/repos/PhilipTrauner/philip-trauner.me/languages",
+  "pulls_url": "https://api.github.com/repos/PhilipTrauner/philip-trauner.me/pulls{/number}",
+  "created_at": "2015-08-27T23:03:18Z",
+  "updated_at": "2018-08-26T20:38:51Z",
+  "pushed_at": "2018-08-26T20:38:49Z",
+  "homepage": "https://philip-trauner.me",
+  "size": 159,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "PhilipTrauner": 117
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 30842,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 12754,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 7155,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 2960,
+      "color": "#f1e05a"
+    },
+    "Makefile": {
+      "bytes": 2424,
+      "color": "#427819"
+    },
+    "Dockerfile": {
+      "bytes": 2103,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:05.282Z"
+}

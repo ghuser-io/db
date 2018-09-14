@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "typescript-runescape",
+  "full_name": "petter-kaspersen/typescript-runescape",
+  "owner": "petter-kaspersen",
+  "private": false,
+  "html_url": "https://github.com/petter-kaspersen/typescript-runescape",
+  "description": "A RuneScape server ported from Java to TypeScript/Node.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/petter-kaspersen/typescript-runescape",
+  "languages_url": "https://api.github.com/repos/petter-kaspersen/typescript-runescape/languages",
+  "pulls_url": "https://api.github.com/repos/petter-kaspersen/typescript-runescape/pulls{/number}",
+  "created_at": "2018-07-06T21:13:32Z",
+  "updated_at": "2018-07-12T21:00:13Z",
+  "pushed_at": "2018-07-06T21:15:37Z",
+  "homepage": "",
+  "size": 6,
+  "stargazers_count": 1,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "petter-kaspersen": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "TypeScript": {
+      "bytes": 1650,
+      "color": "#2b7489"
+    },
+    "JavaScript": {
+      "bytes": 186,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:39:48.159Z"
+}

@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dnsd",
+  "full_name": "iriscouch/dnsd",
+  "owner": "iriscouch",
+  "private": false,
+  "html_url": "https://github.com/iriscouch/dnsd",
+  "description": "Dynamic authoritative name server",
+  "fork": false,
+  "url": "https://api.github.com/repos/iriscouch/dnsd",
+  "languages_url": "https://api.github.com/repos/iriscouch/dnsd/languages",
+  "pulls_url": "https://api.github.com/repos/iriscouch/dnsd/pulls{/number}",
+  "created_at": "2012-07-27T00:26:47Z",
+  "updated_at": "2018-08-14T17:47:49Z",
+  "pushed_at": "2017-09-20T21:29:07Z",
+  "homepage": "",
+  "size": 762,
+  "stargazers_count": 236,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "iriscouch",
+    "id": 690133,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY5MDEzMw==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/690133?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/iriscouch",
+    "html_url": "https://github.com/iriscouch",
+    "followers_url": "https://api.github.com/users/iriscouch/followers",
+    "following_url": "https://api.github.com/users/iriscouch/following{/other_user}",
+    "gists_url": "https://api.github.com/users/iriscouch/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/iriscouch/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/iriscouch/subscriptions",
+    "organizations_url": "https://api.github.com/users/iriscouch/orgs",
+    "repos_url": "https://api.github.com/users/iriscouch/repos",
+    "events_url": "https://api.github.com/users/iriscouch/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/iriscouch/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "KrishnaSwathi": 1,
+    "mattjay": 1,
+    "mmalecki": 3,
+    "jhs": 86
+  },
+  "pulls_authors": [
+    "mdelaossa",
+    "meyskens",
+    "tutman96",
+    "demmer",
+    "rsandor",
+    "KrishnaSwathi",
+    "mmalecki",
+    "mattjay"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 59959,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T20:50:29.299Z"
+}

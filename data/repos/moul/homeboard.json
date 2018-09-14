@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "homeboard",
+  "full_name": "moul/homeboard",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/homeboard",
+  "description": ":house: my home dashboard",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/homeboard",
+  "languages_url": "https://api.github.com/repos/moul/homeboard/languages",
+  "pulls_url": "https://api.github.com/repos/moul/homeboard/pulls{/number}",
+  "created_at": "2016-02-04T23:01:45Z",
+  "updated_at": "2016-04-17T21:55:05Z",
+  "pushed_at": "2018-08-18T16:11:36Z",
+  "homepage": null,
+  "size": 482,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 17
+  },
+  "pulls_authors": [
+    "imgbot[bot]"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 122997,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 18481,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 14356,
+      "color": "#e34c26"
+    },
+    "CoffeeScript": {
+      "bytes": 12376,
+      "color": "#244776"
+    },
+    "Ruby": {
+      "bytes": 10736,
+      "color": "#701516"
+    },
+    "Makefile": {
+      "bytes": 59,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:56.239Z"
+}

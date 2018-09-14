@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "geekcampsg.github.io",
+  "full_name": "GeekcampSG/geekcampsg.github.io",
+  "owner": "GeekcampSG",
+  "private": false,
+  "html_url": "https://github.com/GeekcampSG/geekcampsg.github.io",
+  "description": "GeekcampSG website 2017.",
+  "fork": false,
+  "url": "https://api.github.com/repos/GeekcampSG/geekcampsg.github.io",
+  "languages_url": "https://api.github.com/repos/GeekcampSG/geekcampsg.github.io/languages",
+  "pulls_url": "https://api.github.com/repos/GeekcampSG/geekcampsg.github.io/pulls{/number}",
+  "created_at": "2017-07-11T14:04:07Z",
+  "updated_at": "2018-09-09T11:33:43Z",
+  "pushed_at": "2018-09-09T11:33:47Z",
+  "homepage": null,
+  "size": 1395,
+  "stargazers_count": 2,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "GeekcampSG",
+    "id": 4515959,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ1MTU5NTk=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/4515959?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/GeekcampSG",
+    "html_url": "https://github.com/GeekcampSG",
+    "followers_url": "https://api.github.com/users/GeekcampSG/followers",
+    "following_url": "https://api.github.com/users/GeekcampSG/following{/other_user}",
+    "gists_url": "https://api.github.com/users/GeekcampSG/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/GeekcampSG/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/GeekcampSG/subscriptions",
+    "organizations_url": "https://api.github.com/users/GeekcampSG/orgs",
+    "repos_url": "https://api.github.com/users/GeekcampSG/repos",
+    "events_url": "https://api.github.com/users/GeekcampSG/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/GeekcampSG/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "SheldonCheng": 1,
+    "elfgoh": 10,
+    "ravernkoh": 10,
+    "hongkheng": 17,
+    "cheeaun": 49
+  },
+  "pulls_authors": [
+    "SheldonCheng",
+    "cheeaun",
+    "elfgoh",
+    "hongkheng"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 77575,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 16475,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 388,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:54.618Z"
+}

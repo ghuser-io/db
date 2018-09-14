@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nixpkgs-cheatsheet",
+  "full_name": "Profpatsch/nixpkgs-cheatsheet",
+  "owner": "Profpatsch",
+  "private": false,
+  "html_url": "https://github.com/Profpatsch/nixpkgs-cheatsheet",
+  "description": "Small overview of the most important nixpkgs functionality",
+  "fork": false,
+  "url": "https://api.github.com/repos/Profpatsch/nixpkgs-cheatsheet",
+  "languages_url": "https://api.github.com/repos/Profpatsch/nixpkgs-cheatsheet/languages",
+  "pulls_url": "https://api.github.com/repos/Profpatsch/nixpkgs-cheatsheet/pulls{/number}",
+  "created_at": "2016-04-18T10:36:35Z",
+  "updated_at": "2017-11-19T09:14:52Z",
+  "pushed_at": "2016-05-23T08:45:01Z",
+  "homepage": null,
+  "size": 7,
+  "stargazers_count": 7,
+  "language": "Nix",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Profpatsch": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Nix": {
+      "bytes": 1303,
+      "color": "#7e7eff"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:46.760Z"
+}

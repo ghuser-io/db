@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vuepress-base",
+  "full_name": "anishkny/vuepress-base",
+  "owner": "anishkny",
+  "private": false,
+  "html_url": "https://github.com/anishkny/vuepress-base",
+  "description": "Starter template for VuePress",
+  "fork": false,
+  "url": "https://api.github.com/repos/anishkny/vuepress-base",
+  "languages_url": "https://api.github.com/repos/anishkny/vuepress-base/languages",
+  "pulls_url": "https://api.github.com/repos/anishkny/vuepress-base/pulls{/number}",
+  "created_at": "2018-04-15T01:50:46Z",
+  "updated_at": "2018-05-26T14:07:15Z",
+  "pushed_at": "2018-06-07T00:46:09Z",
+  "homepage": "https://vuepress-base.netlify.com",
+  "size": 182,
+  "stargazers_count": 2,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "anishkny": 7
+  },
+  "pulls_authors": [
+    "anishkny"
+  ],
+  "languages": {},
+  "fetched_at": "2018-08-18T09:17:37.503Z"
+}

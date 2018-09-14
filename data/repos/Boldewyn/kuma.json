@@ -1,0 +1,122 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "kuma",
+  "full_name": "Boldewyn/kuma",
+  "owner": "Boldewyn",
+  "private": false,
+  "html_url": "https://github.com/Boldewyn/kuma",
+  "description": "MDNv2 cloned from jsocol/kitsune",
+  "fork": true,
+  "url": "https://api.github.com/repos/Boldewyn/kuma",
+  "languages_url": "https://api.github.com/repos/Boldewyn/kuma/languages",
+  "pulls_url": "https://api.github.com/repos/Boldewyn/kuma/pulls{/number}",
+  "created_at": "2011-06-05T10:35:10Z",
+  "updated_at": "2013-11-27T20:37:59Z",
+  "pushed_at": "2013-11-22T23:01:49Z",
+  "homepage": "https://kuma-stage.mozilla.org",
+  "size": 24532,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mpl-2.0",
+    "name": "Mozilla Public License 2.0",
+    "spdx_id": "MPL-2.0",
+    "url": "https://api.github.com/licenses/mpl-2.0",
+    "node_id": "MDc6TGljZW5zZTE0"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "anushbmx": 1,
+    "sayanchowdhury": 1,
+    "cronco": 1,
+    "mnoorenberghe": 1,
+    "timchurch": 1,
+    "FredericBourgeon": 1,
+    "mythmon": 1,
+    "Thibaut": 1,
+    "hardfire": 1,
+    "klamping": 1,
+    "mattbasta": 1,
+    "fmarier": 1,
+    "apapirovski": 1,
+    "louisremi": 1,
+    "DavidBruant": 1,
+    "connor": 1,
+    "TannerFilip": 1,
+    "stasm": 1,
+    "Kapeli": 2,
+    "jsocol": 2,
+    "iakshay": 2,
+    "Ms2ger": 2,
+    "Boldewyn": 2,
+    "GPHemsley": 3,
+    "netoarmando": 3,
+    "a2sheppy": 3,
+    "SitePenDavidWalsh": 4,
+    "buddylindsey": 4,
+    "icaaq": 5,
+    "kaustavdm": 5,
+    "nhenezi": 6,
+    "Jean-Yves-P": 6,
+    "LucianU": 7,
+    "berkerpeksag": 8,
+    "tx2z": 8,
+    "nickolay": 9,
+    "pmclanahan": 9,
+    "ethertank": 13,
+    "teoli2003": 17,
+    "Elchi3": 27,
+    "jezdez": 29,
+    "fwenzel": 30,
+    "openjck": 88,
+    "erikrose": 129,
+    "ubernostrum": 139,
+    "craigcook": 144,
+    "rlr": 278,
+    "groovecoder": 598,
+    "lmorchard": 608,
+    "darkwing": 818
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6598470,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 2423999,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 736470,
+      "color": "#563d7c"
+    },
+    "PHP": {
+      "bytes": 48726,
+      "color": "#4F5D95"
+    },
+    "Puppet": {
+      "bytes": 24105,
+      "color": "#302B6D"
+    },
+    "ASP": {
+      "bytes": 17194,
+      "color": "#6a40fd"
+    },
+    "Shell": {
+      "bytes": 16753,
+      "color": "#89e051"
+    },
+    "Ruby": {
+      "bytes": 5558,
+      "color": "#701516"
+    },
+    "Erlang": {
+      "bytes": 1071,
+      "color": "#B83998"
+    }
+  },
+  "fetched_at": "2018-09-12T04:57:58.068Z"
+}

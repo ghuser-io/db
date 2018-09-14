@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "python-pathwar",
+  "full_name": "pathwar/python-pathwar",
+  "owner": "pathwar",
+  "private": false,
+  "html_url": "https://github.com/pathwar/python-pathwar",
+  "description": ":snake: Pathwar API client in Python",
+  "fork": false,
+  "url": "https://api.github.com/repos/pathwar/python-pathwar",
+  "languages_url": "https://api.github.com/repos/pathwar/python-pathwar/languages",
+  "pulls_url": "https://api.github.com/repos/pathwar/python-pathwar/pulls{/number}",
+  "created_at": "2015-01-21T10:53:39Z",
+  "updated_at": "2015-05-07T22:13:45Z",
+  "pushed_at": "2018-03-02T17:44:39Z",
+  "homepage": "",
+  "size": 6,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pathwar",
+    "id": 2904560,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI5MDQ1NjA=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/2904560?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pathwar",
+    "html_url": "https://github.com/pathwar",
+    "followers_url": "https://api.github.com/users/pathwar/followers",
+    "following_url": "https://api.github.com/users/pathwar/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pathwar/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pathwar/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pathwar/subscriptions",
+    "organizations_url": "https://api.github.com/users/pathwar/orgs",
+    "repos_url": "https://api.github.com/users/pathwar/repos",
+    "events_url": "https://api.github.com/users/pathwar/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pathwar/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "moul": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 2416,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:36.517Z"
+}

@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Orion",
+  "full_name": "Siderus/Orion",
+  "owner": "Siderus",
+  "private": false,
+  "html_url": "https://github.com/Siderus/Orion",
+  "description": "Easy to Use, Inter Planetary File System (IPFS) desktop client",
+  "fork": false,
+  "url": "https://api.github.com/repos/Siderus/Orion",
+  "languages_url": "https://api.github.com/repos/Siderus/Orion/languages",
+  "pulls_url": "https://api.github.com/repos/Siderus/Orion/pulls{/number}",
+  "created_at": "2017-01-29T17:34:03Z",
+  "updated_at": "2018-09-12T14:51:26Z",
+  "pushed_at": "2018-09-12T14:51:27Z",
+  "homepage": "https://orion.siderus.io/",
+  "size": 8190,
+  "stargazers_count": 52,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "Siderus",
+    "id": 29894370,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI5ODk0Mzcw",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/29894370?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Siderus",
+    "html_url": "https://github.com/Siderus",
+    "followers_url": "https://api.github.com/users/Siderus/followers",
+    "following_url": "https://api.github.com/users/Siderus/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Siderus/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Siderus/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Siderus/subscriptions",
+    "organizations_url": "https://api.github.com/users/Siderus/orgs",
+    "repos_url": "https://api.github.com/users/Siderus/repos",
+    "events_url": "https://api.github.com/users/Siderus/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Siderus/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jbarthelmes": 1,
+    "amanvell": 1,
+    "mkg20001": 2,
+    "0x6431346e": 210,
+    "koalalorenzo": 370
+  },
+  "pulls_authors": [
+    "0x6431346e",
+    "koalalorenzo",
+    "jbarthelmes",
+    "mkg20001",
+    "fossabot",
+    "amanvell"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 168276,
+      "color": "#f1e05a"
+    },
+    "Makefile": {
+      "bytes": 4474,
+      "color": "#427819"
+    },
+    "HTML": {
+      "bytes": 2980,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:22.215Z"
+}

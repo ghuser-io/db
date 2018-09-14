@@ -1,0 +1,62 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Ether.Network",
+  "full_name": "Eastrall/Ether.Network",
+  "owner": "Eastrall",
+  "private": false,
+  "html_url": "https://github.com/Eastrall/Ether.Network",
+  "description": "Simple and fast C# networking library. Compatible with .NET Standard 1.3 and 2.0",
+  "fork": false,
+  "url": "https://api.github.com/repos/Eastrall/Ether.Network",
+  "languages_url": "https://api.github.com/repos/Eastrall/Ether.Network/languages",
+  "pulls_url": "https://api.github.com/repos/Eastrall/Ether.Network/pulls{/number}",
+  "created_at": "2016-10-28T07:31:34Z",
+  "updated_at": "2018-09-14T05:19:23Z",
+  "pushed_at": "2018-09-13T19:36:04Z",
+  "homepage": "",
+  "size": 345,
+  "stargazers_count": 133,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "develop",
+  "contributors": {
+    "liangminhua": 1,
+    "SheppeR": 1,
+    "Megalan": 2,
+    "aloisdg": 2,
+    "johmarjac": 4,
+    "TheToor": 4,
+    "carlst99": 7,
+    "Eastrall": 196,
+    "ivanroubicek": 2
+  },
+  "pulls_authors": [
+    "ivanroubicek",
+    "carlst99",
+    "liangminhua",
+    "realswoosh",
+    "Eastrall",
+    "SheppeR",
+    "johmarjac",
+    "ghost",
+    "Megalan",
+    "TheToor",
+    "aloisdg",
+    "vfrz"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 90232,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-14T08:20:24.046Z"
+}

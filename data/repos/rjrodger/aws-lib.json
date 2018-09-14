@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "aws-lib",
+  "full_name": "rjrodger/aws-lib",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/aws-lib",
+  "description": "Extendable Node.js library for the Amazon Web Services API (currently including EC2 and Product Advertising API)",
+  "fork": true,
+  "url": "https://api.github.com/repos/rjrodger/aws-lib",
+  "languages_url": "https://api.github.com/repos/rjrodger/aws-lib/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/aws-lib/pulls{/number}",
+  "created_at": "2011-01-17T17:47:44Z",
+  "updated_at": "2014-06-02T17:31:23Z",
+  "pushed_at": "2011-01-17T23:29:21Z",
+  "homepage": "http://mirkokiefer.com/blog/2010/09/node-js-and-amazon-web-services/",
+  "size": 237,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rjrodger": 2,
+    "dvalentiate": 2,
+    "pib": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 11578,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:41.643Z"
+}

@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cryptex",
+  "full_name": "jdevlabs/cryptex",
+  "owner": "jdevlabs",
+  "private": false,
+  "html_url": "https://github.com/jdevlabs/cryptex",
+  "description": "harry-potter-themed hacking-and-treasure-hunting game. created for our college's annual fest -- Algorhythm '14.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jdevlabs/cryptex",
+  "languages_url": "https://api.github.com/repos/jdevlabs/cryptex/languages",
+  "pulls_url": "https://api.github.com/repos/jdevlabs/cryptex/pulls{/number}",
+  "created_at": "2014-04-06T01:58:10Z",
+  "updated_at": "2018-03-25T15:58:24Z",
+  "pushed_at": "2015-09-22T10:14:53Z",
+  "homepage": "http://jdev.in/cryptex/",
+  "size": 3188,
+  "stargazers_count": 5,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "jdevlabs",
+    "id": 6861653,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY4NjE2NTM=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/6861653?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jdevlabs",
+    "html_url": "https://github.com/jdevlabs",
+    "followers_url": "https://api.github.com/users/jdevlabs/followers",
+    "following_url": "https://api.github.com/users/jdevlabs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jdevlabs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jdevlabs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jdevlabs/subscriptions",
+    "organizations_url": "https://api.github.com/users/jdevlabs/orgs",
+    "repos_url": "https://api.github.com/users/jdevlabs/repos",
+    "events_url": "https://api.github.com/users/jdevlabs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jdevlabs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "kwikadi": 1,
+    "bitdeli-chef": 1,
+    "zishanAhmad": 5,
+    "agr-shrn": 6,
+    "rootAvish": 12,
+    "TrigonaMinima": 49,
+    "hammadhaleem": 53,
+    "dufferzafar": 136
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 110006,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 43260,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 1977,
+      "color": "#89e051"
+    },
+    "PLpgSQL": {
+      "bytes": 1288,
+      "color": "#ccc"
+    },
+    "CSS": {
+      "bytes": 562,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-03T12:57:00.946Z"
+}

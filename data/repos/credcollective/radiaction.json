@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "radiaction",
+  "full_name": "credcollective/radiaction",
+  "owner": "credcollective",
+  "private": false,
+  "html_url": "https://github.com/credcollective/radiaction",
+  "description": "Powerful nodejs library for building seamless distributed applications.",
+  "fork": false,
+  "url": "https://api.github.com/repos/credcollective/radiaction",
+  "languages_url": "https://api.github.com/repos/credcollective/radiaction/languages",
+  "pulls_url": "https://api.github.com/repos/credcollective/radiaction/pulls{/number}",
+  "created_at": "2018-03-24T12:35:52Z",
+  "updated_at": "2018-05-02T08:08:37Z",
+  "pushed_at": "2018-04-03T08:12:15Z",
+  "homepage": "",
+  "size": 6147,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "credcollective",
+    "id": 15685116,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1Njg1MTE2",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/15685116?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/credcollective",
+    "html_url": "https://github.com/credcollective",
+    "followers_url": "https://api.github.com/users/credcollective/followers",
+    "following_url": "https://api.github.com/users/credcollective/following{/other_user}",
+    "gists_url": "https://api.github.com/users/credcollective/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/credcollective/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/credcollective/subscriptions",
+    "organizations_url": "https://api.github.com/users/credcollective/orgs",
+    "repos_url": "https://api.github.com/users/credcollective/repos",
+    "events_url": "https://api.github.com/users/credcollective/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/credcollective/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "zvictor": 103
+  },
+  "pulls_authors": [
+    "zvictor"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 10901,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:20.899Z"
+}

@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Ubuntu-for-Devs",
+  "full_name": "ankitjain28may/Ubuntu-for-Devs",
+  "owner": "ankitjain28may",
+  "private": false,
+  "html_url": "https://github.com/ankitjain28may/Ubuntu-for-Devs",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/ankitjain28may/Ubuntu-for-Devs",
+  "languages_url": "https://api.github.com/repos/ankitjain28may/Ubuntu-for-Devs/languages",
+  "created_at": "2017-11-10T18:34:38Z",
+  "updated_at": "2018-07-23T17:51:03Z",
+  "pushed_at": "2017-11-15T11:33:16Z",
+  "homepage": null,
+  "size": 4,
+  "stargazers_count": 5,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ankitjain28may": 3
+  },
+  "languages": {},
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/ankitjain28may/Ubuntu-for-Devs/pulls{/number}",
+  "pulls_authors": []
+}

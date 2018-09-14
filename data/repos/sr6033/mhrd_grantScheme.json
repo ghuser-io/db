@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mhrd_grantScheme",
+  "full_name": "sr6033/mhrd_grantScheme",
+  "owner": "sr6033",
+  "private": false,
+  "html_url": "https://github.com/sr6033/mhrd_grantScheme",
+  "description": "3rd Semester college project to virtualize the calculation and distribution of grants to various colleges as done by MHRD.",
+  "fork": false,
+  "url": "https://api.github.com/repos/sr6033/mhrd_grantScheme",
+  "languages_url": "https://api.github.com/repos/sr6033/mhrd_grantScheme/languages",
+  "created_at": "2017-07-24T13:24:51Z",
+  "updated_at": "2018-07-25T07:20:10Z",
+  "pushed_at": "2017-07-24T13:31:45Z",
+  "homepage": null,
+  "size": 955,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sr6033": 3
+  },
+  "languages": {
+    "C++": {
+      "bytes": 27787,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 163,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/sr6033/mhrd_grantScheme/pulls{/number}",
+  "pulls_authors": []
+}

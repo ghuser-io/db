@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "FileXShared",
+  "full_name": "TiagoDanin/FileXShared",
+  "owner": "TiagoDanin",
+  "private": false,
+  "html_url": "https://github.com/TiagoDanin/FileXShared",
+  "description": "Share files Fast and Easy, on your local network!",
+  "fork": false,
+  "url": "https://api.github.com/repos/TiagoDanin/FileXShared",
+  "languages_url": "https://api.github.com/repos/TiagoDanin/FileXShared/languages",
+  "pulls_url": "https://api.github.com/repos/TiagoDanin/FileXShared/pulls{/number}",
+  "created_at": "2017-06-13T17:49:34Z",
+  "updated_at": "2017-07-04T13:43:07Z",
+  "pushed_at": "2018-08-11T16:22:04Z",
+  "homepage": "https://TiagoDanin.github.io/FileXShared",
+  "size": 375,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "renovate[bot]": 1,
+    "TiagoDanin": 17
+  },
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 3994,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-12T17:48:20.581Z"
+}

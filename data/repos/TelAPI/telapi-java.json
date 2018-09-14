@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "telapi-java",
+  "full_name": "TelAPI/telapi-java",
+  "owner": "TelAPI",
+  "private": false,
+  "html_url": "https://github.com/TelAPI/telapi-java",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/TelAPI/telapi-java",
+  "languages_url": "https://api.github.com/repos/TelAPI/telapi-java/languages",
+  "pulls_url": "https://api.github.com/repos/TelAPI/telapi-java/pulls{/number}",
+  "created_at": "2012-07-30T14:26:45Z",
+  "updated_at": "2016-01-25T21:13:45Z",
+  "pushed_at": "2016-01-25T21:13:44Z",
+  "homepage": null,
+  "size": 747,
+  "stargazers_count": 2,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "TelAPI",
+    "id": 1863336,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4NjMzMzY=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1863336?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/TelAPI",
+    "html_url": "https://github.com/TelAPI",
+    "followers_url": "https://api.github.com/users/TelAPI/followers",
+    "following_url": "https://api.github.com/users/TelAPI/following{/other_user}",
+    "gists_url": "https://api.github.com/users/TelAPI/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/TelAPI/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/TelAPI/subscriptions",
+    "organizations_url": "https://api.github.com/users/TelAPI/orgs",
+    "repos_url": "https://api.github.com/users/TelAPI/repos",
+    "events_url": "https://api.github.com/users/TelAPI/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/TelAPI/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mattwilliamson": 1,
+    "Yerhabe": 1,
+    "ronniekritou": 1,
+    "tomek22": 18,
+    "vprenner": 21
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 342418,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-11T13:51:24.482Z"
+}

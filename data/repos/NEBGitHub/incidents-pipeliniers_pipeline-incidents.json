@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "incidents-pipeliniers_pipeline-incidents",
+  "full_name": "NEBGitHub/incidents-pipeliniers_pipeline-incidents",
+  "owner": "NEBGitHub",
+  "private": false,
+  "html_url": "https://github.com/NEBGitHub/incidents-pipeliniers_pipeline-incidents",
+  "description": "A visualization of pipeline incident data from the National Energy Board | Une visualisation des données sur les incidents pipeliniers, recueillies par l’Office national de l’énergie.",
+  "fork": false,
+  "url": "https://api.github.com/repos/NEBGitHub/incidents-pipeliniers_pipeline-incidents",
+  "languages_url": "https://api.github.com/repos/NEBGitHub/incidents-pipeliniers_pipeline-incidents/languages",
+  "pulls_url": "https://api.github.com/repos/NEBGitHub/incidents-pipeliniers_pipeline-incidents/pulls{/number}",
+  "created_at": "2017-10-24T17:14:08Z",
+  "updated_at": "2018-07-05T12:42:14Z",
+  "pushed_at": "2018-06-01T21:34:30Z",
+  "homepage": null,
+  "size": 39392,
+  "stargazers_count": 4,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "develop",
+  "contributors": {
+    "SpenserJ": 28,
+    "Azazi": 124,
+    "PatrickKing": 279,
+    "ccheuvizworx": 294
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 33159082,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 10227298,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 6212694,
+      "color": "#563d7c"
+    },
+    "PHP": {
+      "bytes": 2127,
+      "color": "#4F5D95"
+    },
+    "ASP": {
+      "bytes": 914,
+      "color": "#6a40fd"
+    },
+    "Perl": {
+      "bytes": 493,
+      "color": "#0298c3"
+    }
+  },
+  "fetched_at": "2018-09-11T15:20:01.073Z"
+}

@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "well",
+  "full_name": "nearform/well",
+  "owner": "nearform",
+  "private": false,
+  "html_url": "https://github.com/nearform/well",
+  "description": "well",
+  "fork": false,
+  "url": "https://api.github.com/repos/nearform/well",
+  "languages_url": "https://api.github.com/repos/nearform/well/languages",
+  "pulls_url": "https://api.github.com/repos/nearform/well/pulls{/number}",
+  "created_at": "2012-09-17T09:43:02Z",
+  "updated_at": "2017-05-15T00:34:48Z",
+  "pushed_at": "2015-04-30T12:32:16Z",
+  "homepage": null,
+  "size": 4789,
+  "stargazers_count": 35,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "nearform",
+    "id": 1544687,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1NDQ2ODc=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/1544687?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/nearform",
+    "html_url": "https://github.com/nearform",
+    "followers_url": "https://api.github.com/users/nearform/followers",
+    "following_url": "https://api.github.com/users/nearform/following{/other_user}",
+    "gists_url": "https://api.github.com/users/nearform/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/nearform/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/nearform/subscriptions",
+    "organizations_url": "https://api.github.com/users/nearform/orgs",
+    "repos_url": "https://api.github.com/users/nearform/repos",
+    "events_url": "https://api.github.com/users/nearform/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/nearform/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "rjrodger": 73
+  },
+  "pulls_authors": [
+    "kamil-mech"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 9567627,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 1551799,
+      "color": "#563d7c"
+    },
+    "Ruby": {
+      "bytes": 2164,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:34.449Z"
+}

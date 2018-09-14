@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "win32-window",
+  "full_name": "schmich/win32-window",
+  "owner": "schmich",
+  "private": false,
+  "html_url": "https://github.com/schmich/win32-window",
+  "description": "Ruby interface to the Win32 window management APIs.",
+  "fork": false,
+  "url": "https://api.github.com/repos/schmich/win32-window",
+  "languages_url": "https://api.github.com/repos/schmich/win32-window/languages",
+  "pulls_url": "https://api.github.com/repos/schmich/win32-window/pulls{/number}",
+  "created_at": "2012-07-02T07:07:37Z",
+  "updated_at": "2018-06-28T05:37:34Z",
+  "pushed_at": "2014-10-02T07:33:56Z",
+  "homepage": "",
+  "size": 220,
+  "stargazers_count": 4,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schmich": 41
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 17307,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:25.349Z"
+}

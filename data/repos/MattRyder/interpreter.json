@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "interpreter",
+  "full_name": "MattRyder/interpreter",
+  "owner": "MattRyder",
+  "private": false,
+  "html_url": "https://github.com/MattRyder/interpreter",
+  "description": "A Ruby interpreter written in C, as part of my CS degree.",
+  "fork": false,
+  "url": "https://api.github.com/repos/MattRyder/interpreter",
+  "languages_url": "https://api.github.com/repos/MattRyder/interpreter/languages",
+  "pulls_url": "https://api.github.com/repos/MattRyder/interpreter/pulls{/number}",
+  "created_at": "2014-01-28T17:22:44Z",
+  "updated_at": "2018-03-15T09:10:43Z",
+  "pushed_at": "2014-05-22T21:49:27Z",
+  "homepage": "",
+  "size": 354,
+  "stargazers_count": 2,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "MattRyder": 30
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 23609,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 531,
+      "color": "#f34b7d"
+    },
+    "Ruby": {
+      "bytes": 247,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T00:06:00.349Z"
+}

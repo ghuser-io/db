@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "AnimeWallpaper",
+  "full_name": "miao1007/AnimeWallpaper",
+  "owner": "miao1007",
+  "private": false,
+  "html_url": "https://github.com/miao1007/AnimeWallpaper",
+  "description": "[Android] Konachan wallpaper downloader",
+  "fork": false,
+  "url": "https://api.github.com/repos/miao1007/AnimeWallpaper",
+  "languages_url": "https://api.github.com/repos/miao1007/AnimeWallpaper/languages",
+  "pulls_url": "https://api.github.com/repos/miao1007/AnimeWallpaper/pulls{/number}",
+  "created_at": "2014-11-13T08:57:18Z",
+  "updated_at": "2018-09-09T10:34:53Z",
+  "pushed_at": "2018-04-16T14:20:36Z",
+  "homepage": "http://www.jianshu.com/p/93475df308b8",
+  "size": 7986,
+  "stargazers_count": 377,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "bitdeli-chef": 1,
+    "anshumanv": 6,
+    "miao1007": 89
+  },
+  "pulls_authors": [
+    "anshumanv",
+    "bitdeli-chef"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 138963,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-09T13:07:04.985Z"
+}

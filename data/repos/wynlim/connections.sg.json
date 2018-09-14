@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "connections.sg",
+  "full_name": "wynlim/connections.sg",
+  "owner": "wynlim",
+  "private": false,
+  "html_url": "https://github.com/wynlim/connections.sg",
+  "description": "Fostering connections in Singapore",
+  "fork": false,
+  "url": "https://api.github.com/repos/wynlim/connections.sg",
+  "languages_url": "https://api.github.com/repos/wynlim/connections.sg/languages",
+  "pulls_url": "https://api.github.com/repos/wynlim/connections.sg/pulls{/number}",
+  "created_at": "2014-03-15T20:48:31Z",
+  "updated_at": "2016-11-26T09:47:01Z",
+  "pushed_at": "2016-10-18T10:23:45Z",
+  "homepage": "http://connections.sg",
+  "size": 131,
+  "stargazers_count": 15,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "gh-pages",
+  "contributors": {
+    "skinnylatte": 1,
+    "wizztjh": 1,
+    "zz85": 1,
+    "mauris": 1,
+    "sayanee": 1,
+    "wynlim": 34
+  },
+  "pulls_authors": [
+    "skinnylatte",
+    "wizztjh",
+    "zz85",
+    "mauris",
+    "sayanee"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 1736,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1079,
+      "color": "#563d7c"
+    },
+    "Ruby": {
+      "bytes": 48,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:59.080Z"
+}

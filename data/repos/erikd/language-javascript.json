@@ -1,0 +1,104 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "language-javascript",
+  "full_name": "erikd/language-javascript",
+  "owner": "erikd",
+  "private": false,
+  "html_url": "https://github.com/erikd/language-javascript",
+  "description": "Parser for JavaScript, in Haskell",
+  "fork": false,
+  "url": "https://api.github.com/repos/erikd/language-javascript",
+  "languages_url": "https://api.github.com/repos/erikd/language-javascript/languages",
+  "pulls_url": "https://api.github.com/repos/erikd/language-javascript/pulls{/number}",
+  "created_at": "2010-11-21T19:29:30Z",
+  "updated_at": "2018-09-13T18:20:50Z",
+  "pushed_at": "2018-09-07T20:26:58Z",
+  "homepage": "",
+  "size": 1048,
+  "stargazers_count": 107,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "new-ast",
+  "contributors": {
+    "RyanGlScott": 1,
+    "EdwardBetts": 1,
+    "fgaray": 1,
+    "adrianherrera": 1,
+    "teh": 1,
+    "erdeszt": 1,
+    "trofi": 1,
+    "simonmichael": 1,
+    "peti": 1,
+    "maoe": 1,
+    "albertov": 1,
+    "nomeata": 1,
+    "mietek": 1,
+    "markwright": 1,
+    "gwils": 2,
+    "snoyberg": 2,
+    "aszlig": 2,
+    "diasbruno": 3,
+    "alanz": 173,
+    "erikd": 205
+  },
+  "pulls_authors": [
+    "Cmdv",
+    "gwils",
+    "erikd",
+    "pedrofurla",
+    "23Skidoo",
+    "RyanGlScott",
+    "diasbruno",
+    "EdwardBetts",
+    "fgaray",
+    "adrianherrera",
+    "teh",
+    "hdgarrood",
+    "erdeszt",
+    "trofi",
+    "simonmichael",
+    "peti",
+    "snoyberg",
+    "maoe",
+    "albertov",
+    "nomeata",
+    "mietek",
+    "aszlig",
+    "markwright"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 295397,
+      "color": "#5e5086"
+    },
+    "Yacc": {
+      "bytes": 94813,
+      "color": "#4B6C4B"
+    },
+    "Logos": {
+      "bytes": 37537,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 2184,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 691,
+      "color": "#427819"
+    },
+    "JavaScript": {
+      "bytes": 66,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-13T23:56:16.633Z"
+}

@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "slides-techforum",
+  "full_name": "maxired/slides-techforum",
+  "owner": "maxired",
+  "private": false,
+  "html_url": "https://github.com/maxired/slides-techforum",
+  "description": "slides-techforum",
+  "fork": false,
+  "url": "https://api.github.com/repos/maxired/slides-techforum",
+  "languages_url": "https://api.github.com/repos/maxired/slides-techforum/languages",
+  "pulls_url": "https://api.github.com/repos/maxired/slides-techforum/pulls{/number}",
+  "created_at": "2012-05-25T13:22:41Z",
+  "updated_at": "2017-02-21T09:38:20Z",
+  "pushed_at": "2012-06-13T11:25:23Z",
+  "homepage": null,
+  "size": 508,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "gh-pages",
+  "contributors": {
+    "romainwurtz": 1,
+    "sylvainw": 1,
+    "AlecRust": 1,
+    "dolanor": 1,
+    "Metallion": 1,
+    "thingsinjars": 1,
+    "Haacked": 1,
+    "fulljames": 1,
+    "OpenGrid": 1,
+    "lioshi": 1,
+    "mattmakai": 1,
+    "shama": 1,
+    "jasondavies": 1,
+    "nhodges": 2,
+    "exequiel09": 2,
+    "medikoo": 3,
+    "maxired": 4,
+    "bartaz": 141
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 35315,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:32.658Z"
+}

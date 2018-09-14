@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sparse",
+  "full_name": "djspiewak/sparse",
+  "owner": "djspiewak",
+  "private": false,
+  "html_url": "https://github.com/djspiewak/sparse",
+  "description": "Generalized, incremental parser combinators for scalaz-stream",
+  "fork": false,
+  "url": "https://api.github.com/repos/djspiewak/sparse",
+  "languages_url": "https://api.github.com/repos/djspiewak/sparse/languages",
+  "pulls_url": "https://api.github.com/repos/djspiewak/sparse/pulls{/number}",
+  "created_at": "2014-12-29T22:45:42Z",
+  "updated_at": "2016-11-13T14:17:01Z",
+  "pushed_at": "2015-01-02T03:05:29Z",
+  "homepage": null,
+  "size": 235,
+  "stargazers_count": 59,
+  "language": "Scala",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mandubian": 1,
+    "amir": 1,
+    "djspiewak": 28
+  },
+  "pulls_authors": [
+    "gitter-badger",
+    "mandubian",
+    "amir"
+  ],
+  "languages": {
+    "Scala": {
+      "bytes": 33110,
+      "color": "#c22d40"
+    }
+  },
+  "fetched_at": "2018-09-11T22:27:01.215Z"
+}

@@ -1,0 +1,93 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "clorichel": 1,
+    "perguth": 1,
+    "Calinou": 1,
+    "Waateur": 1,
+    "morizono": 1,
+    "codelahoma": 1,
+    "tboronczyk": 2,
+    "ddunlop": 2,
+    "nebulade": 3,
+    "raincole": 5,
+    "wlangstroth": 8,
+    "aliasaria": 30
+  },
+  "name": "scrumblr",
+  "full_name": "aliasaria/scrumblr",
+  "owner": "aliasaria",
+  "private": false,
+  "html_url": "https://github.com/aliasaria/scrumblr",
+  "description": "Collaborative Online Scrum Tool Using Websockets, Node.js, jQuery, and CSS3",
+  "fork": false,
+  "url": "https://api.github.com/repos/aliasaria/scrumblr",
+  "languages_url": "https://api.github.com/repos/aliasaria/scrumblr/languages",
+  "created_at": "2011-03-10T02:29:38Z",
+  "updated_at": "2018-09-11T14:05:59Z",
+  "pushed_at": "2018-08-07T18:37:00Z",
+  "homepage": "http://scrumblr.ca",
+  "size": 5774,
+  "stargazers_count": 1114,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "languages": {
+    "HTML": {
+      "bytes": 839867,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 91298,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 30401,
+      "color": "#563d7c"
+    },
+    "PHP": {
+      "bytes": 27273,
+      "color": "#4F5D95"
+    },
+    "Shell": {
+      "bytes": 48,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T15:11:51.389Z",
+  "pulls_url": "https://api.github.com/repos/aliasaria/scrumblr/pulls{/number}",
+  "pulls_authors": [
+    "mumrik58",
+    "moenka",
+    "mattcoffey",
+    "ldidry",
+    "nonai",
+    "nebulade",
+    "fanglinli",
+    "perguth",
+    "neithere",
+    "clorichel",
+    "Calinou",
+    "tim-mit",
+    "manishlad",
+    "tboronczyk",
+    "nedk",
+    "Waateur",
+    "morizono",
+    "giacomomacri",
+    "wlangstroth",
+    "codelahoma",
+    "raincole",
+    "pvilchez",
+    "ddunlop",
+    "JCulley"
+  ]
+}

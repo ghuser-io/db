@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "monicelli",
+  "full_name": "esseks/monicelli",
+  "owner": "esseks",
+  "private": false,
+  "html_url": "https://github.com/esseks/monicelli",
+  "description": "An esoteric programming language, come se fosse antani.",
+  "fork": false,
+  "url": "https://api.github.com/repos/esseks/monicelli",
+  "languages_url": "https://api.github.com/repos/esseks/monicelli/languages",
+  "pulls_url": "https://api.github.com/repos/esseks/monicelli/pulls{/number}",
+  "created_at": "2014-11-28T23:56:19Z",
+  "updated_at": "2018-09-07T08:54:06Z",
+  "pushed_at": "2017-04-28T13:52:23Z",
+  "homepage": "",
+  "size": 997,
+  "stargazers_count": 734,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "calamarim": 1,
+    "slattarini": 1,
+    "nsanitate": 1,
+    "alessandropellegrini": 1,
+    "skeru": 2,
+    "agatti": 4,
+    "esseks": 277
+  },
+  "pulls_authors": [
+    "BalestraPatrick",
+    "bryant1410",
+    "rbino",
+    "simonelai",
+    "calamarim",
+    "taganaka",
+    "agatti",
+    "massix",
+    "slattarini",
+    "nsanitate",
+    "alessandropellegrini",
+    "gsora",
+    "phosphore",
+    "skeru"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 75287,
+      "color": "#f34b7d"
+    },
+    "CMake": {
+      "bytes": 9026,
+      "color": "#ccc"
+    },
+    "C": {
+      "bytes": 3581,
+      "color": "#555555"
+    },
+    "Objective-C++": {
+      "bytes": 629,
+      "color": "#6866fb"
+    },
+    "Makefile": {
+      "bytes": 162,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T15:09:54.451Z"
+}

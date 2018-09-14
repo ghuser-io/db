@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bbtooth",
+  "full_name": "schollz/bbtooth",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/bbtooth",
+  "description": "Beaglebone Black Bluetooth RSSI scanner",
+  "fork": true,
+  "url": "https://api.github.com/repos/schollz/bbtooth",
+  "languages_url": "https://api.github.com/repos/schollz/bbtooth/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/bbtooth/pulls{/number}",
+  "created_at": "2018-02-13T17:25:34Z",
+  "updated_at": "2018-06-07T12:23:16Z",
+  "pushed_at": "2015-01-04T15:16:11Z",
+  "homepage": null,
+  "size": 148,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jtbonhomme": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 7332,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 85,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:52.067Z"
+}

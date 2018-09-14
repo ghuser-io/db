@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "worldcup",
+  "full_name": "alexraileanu/worldcup",
+  "owner": "alexraileanu",
+  "private": false,
+  "html_url": "https://github.com/alexraileanu/worldcup",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/alexraileanu/worldcup",
+  "languages_url": "https://api.github.com/repos/alexraileanu/worldcup/languages",
+  "pulls_url": "https://api.github.com/repos/alexraileanu/worldcup/pulls{/number}",
+  "created_at": "2014-06-19T17:46:11Z",
+  "updated_at": "2017-05-21T09:09:31Z",
+  "pushed_at": "2017-10-25T18:34:17Z",
+  "homepage": null,
+  "size": 803,
+  "stargazers_count": 2,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "faltad": 1,
+    "sablepear": 1,
+    "atul-kumar02": 1,
+    "mt80": 4,
+    "alexraileanu": 101
+  },
+  "pulls_authors": [
+    "peckjon",
+    "faltad",
+    "sablepear",
+    "atul-kumar02",
+    "mt80",
+    "alexraileanu"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 10255,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 8096,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 1454,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 58,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:36.001Z"
+}

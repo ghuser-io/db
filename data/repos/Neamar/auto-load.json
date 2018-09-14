@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "auto-load",
+  "full_name": "Neamar/auto-load",
+  "owner": "Neamar",
+  "private": false,
+  "html_url": "https://github.com/Neamar/auto-load",
+  "description": "require() all files in subfolders.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Neamar/auto-load",
+  "languages_url": "https://api.github.com/repos/Neamar/auto-load/languages",
+  "pulls_url": "https://api.github.com/repos/Neamar/auto-load/pulls{/number}",
+  "created_at": "2014-04-08T08:03:11Z",
+  "updated_at": "2018-08-31T08:55:51Z",
+  "pushed_at": "2018-08-31T08:55:54Z",
+  "homepage": null,
+  "size": 23,
+  "stargazers_count": 9,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "monemihir": 1,
+    "rricard": 1,
+    "danpantry": 2,
+    "aboveyou00": 2,
+    "franciscop": 4,
+    "Neamar": 24
+  },
+  "pulls_authors": [
+    "danpantry",
+    "greenkeeper[bot]",
+    "monemihir",
+    "aboveyou00",
+    "franciscop",
+    "Neamar",
+    "rricard"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 4126,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T00:05:03.046Z"
+}

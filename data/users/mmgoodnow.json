@@ -1,0 +1,33 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "mmgoodnow",
+  "ghuser_created_at": "2018-09-11T11:09:14.484Z",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/9119498?v=4",
+  "html_url": "https://github.com/mmgoodnow",
+  "organizations_url": "https://api.github.com/users/mmgoodnow/orgs",
+  "repos_url": "https://api.github.com/users/mmgoodnow/repos",
+  "type": "User",
+  "name": "Michael Goodnow",
+  "company": null,
+  "blog": "",
+  "location": "Massachusetts",
+  "email": "goodnow.m@husky.neu.edu",
+  "bio": "Northeastern University CS/CE, 2020",
+  "public_gists": 1,
+  "created_at": "2014-10-09T19:04:17Z",
+  "updated_at": "2018-09-14T02:42:36Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:15:58.147Z",
+    "repos": [
+      "RajaSrinivasan/rlmlogs",
+      "mmgoodnow/snooker-tracker",
+      "mmgoodnow/playlist-metrics",
+      "james-herbstritt/Algorithm-Trainer",
+      "mmgoodnow/Sub-Zero.bundle",
+      "pannal/Sub-Zero.bundle",
+      "mmgoodnow/python-ping",
+      "mmgoodnow/this-week-fm"
+    ]
+  }
+}

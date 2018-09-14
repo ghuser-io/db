@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "seth",
+  "full_name": "newalchemylimited/seth",
+  "owner": "newalchemylimited",
+  "private": false,
+  "html_url": "https://github.com/newalchemylimited/seth",
+  "description": "Go tools for Ethereum",
+  "fork": false,
+  "url": "https://api.github.com/repos/newalchemylimited/seth",
+  "languages_url": "https://api.github.com/repos/newalchemylimited/seth/languages",
+  "pulls_url": "https://api.github.com/repos/newalchemylimited/seth/pulls{/number}",
+  "created_at": "2017-11-09T17:41:35Z",
+  "updated_at": "2018-07-25T14:02:44Z",
+  "pushed_at": "2018-09-11T07:19:53Z",
+  "homepage": null,
+  "size": 1417,
+  "stargazers_count": 4,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "newalchemylimited",
+    "id": 22063689,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIyMDYzNjg5",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/22063689?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/newalchemylimited",
+    "html_url": "https://github.com/newalchemylimited",
+    "followers_url": "https://api.github.com/users/newalchemylimited/followers",
+    "following_url": "https://api.github.com/users/newalchemylimited/following{/other_user}",
+    "gists_url": "https://api.github.com/users/newalchemylimited/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/newalchemylimited/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/newalchemylimited/subscriptions",
+    "organizations_url": "https://api.github.com/users/newalchemylimited/orgs",
+    "repos_url": "https://api.github.com/users/newalchemylimited/repos",
+    "events_url": "https://api.github.com/users/newalchemylimited/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/newalchemylimited/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "bwross": 1,
+    "jperson": 3,
+    "reddhouse": 3,
+    "philhofer": 36
+  },
+  "pulls_authors": [
+    "elliots",
+    "jperson",
+    "philhofer",
+    "bwross",
+    "filcap",
+    "reddhouse"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 1750053,
+      "color": "#375eab"
+    },
+    "Assembly": {
+      "bytes": 14510,
+      "color": "#6E4C13"
+    },
+    "Shell": {
+      "bytes": 1818,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T13:45:48.819Z"
+}

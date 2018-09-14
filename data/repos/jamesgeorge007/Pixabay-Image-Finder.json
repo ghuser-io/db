@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Pixabay-Image-Finder",
+  "full_name": "jamesgeorge007/Pixabay-Image-Finder",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/Pixabay-Image-Finder",
+  "description": "React app that retrieves images from the Pixabay Api as per the amount provided by the user beautified with material-ui :+1:",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/Pixabay-Image-Finder",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/Pixabay-Image-Finder/languages",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/Pixabay-Image-Finder/pulls{/number}",
+  "created_at": "2018-07-26T14:22:15Z",
+  "updated_at": "2018-08-18T07:19:29Z",
+  "pushed_at": "2018-08-11T03:14:30Z",
+  "homepage": "",
+  "size": 6255,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jamesgeorge007": 14
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 9916,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1601,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 440,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-18T09:20:04.628Z"
+}

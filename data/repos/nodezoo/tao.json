@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tao",
+  "full_name": "nodezoo/tao",
+  "owner": "nodezoo",
+  "private": false,
+  "html_url": "https://github.com/nodezoo/tao",
+  "description": "Getting started guide for the Tao of Microservices nodezoo microservice demonstration architecture.",
+  "fork": false,
+  "url": "https://api.github.com/repos/nodezoo/tao",
+  "languages_url": "https://api.github.com/repos/nodezoo/tao/languages",
+  "pulls_url": "https://api.github.com/repos/nodezoo/tao/pulls{/number}",
+  "created_at": "2017-08-10T16:21:37Z",
+  "updated_at": "2018-08-23T13:39:56Z",
+  "pushed_at": "2017-11-27T22:04:25Z",
+  "homepage": null,
+  "size": 4,
+  "stargazers_count": 11,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "nodezoo",
+    "id": 2903118,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI5MDMxMTg=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2903118?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/nodezoo",
+    "html_url": "https://github.com/nodezoo",
+    "followers_url": "https://api.github.com/users/nodezoo/followers",
+    "following_url": "https://api.github.com/users/nodezoo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/nodezoo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/nodezoo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/nodezoo/subscriptions",
+    "organizations_url": "https://api.github.com/users/nodezoo/orgs",
+    "repos_url": "https://api.github.com/users/nodezoo/repos",
+    "events_url": "https://api.github.com/users/nodezoo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/nodezoo/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "rjrodger": 9
+  },
+  "pulls_authors": [
+    "denizozger"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 1215,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:29.932Z"
+}

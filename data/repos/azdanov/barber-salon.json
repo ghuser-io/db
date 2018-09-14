@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "barber-salon",
+  "full_name": "azdanov/barber-salon",
+  "owner": "azdanov",
+  "private": false,
+  "html_url": "https://github.com/azdanov/barber-salon",
+  "description": "Barber Salon fictional business template",
+  "fork": false,
+  "url": "https://api.github.com/repos/azdanov/barber-salon",
+  "languages_url": "https://api.github.com/repos/azdanov/barber-salon/languages",
+  "pulls_url": "https://api.github.com/repos/azdanov/barber-salon/pulls{/number}",
+  "created_at": "2017-12-19T02:59:16Z",
+  "updated_at": "2018-08-08T18:15:45Z",
+  "pushed_at": "2018-08-08T18:15:44Z",
+  "homepage": "https://azdanov.github.io/barber-salon/",
+  "size": 1064,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "azdanov": 19
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CSS": {
+      "bytes": 35600,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 22685,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-17T12:34:58.938Z"
+}

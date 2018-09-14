@@ -1,0 +1,83 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ktmjs",
+  "full_name": "developers-nepal/ktmjs",
+  "owner": "developers-nepal",
+  "private": false,
+  "html_url": "https://github.com/developers-nepal/ktmjs",
+  "description": "Kathmandu Javascript User Group ",
+  "fork": false,
+  "url": "https://api.github.com/repos/developers-nepal/ktmjs",
+  "languages_url": "https://api.github.com/repos/developers-nepal/ktmjs/languages",
+  "pulls_url": "https://api.github.com/repos/developers-nepal/ktmjs/pulls{/number}",
+  "created_at": "2015-08-05T17:17:50Z",
+  "updated_at": "2018-08-19T03:02:16Z",
+  "pushed_at": "2018-08-08T13:08:41Z",
+  "homepage": "http://developers-nepal.github.io/ktmjs/",
+  "size": 163964,
+  "stargazers_count": 9,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "develop",
+  "organization": {
+    "login": "developers-nepal",
+    "id": 11923870,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExOTIzODcw",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/11923870?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/developers-nepal",
+    "html_url": "https://github.com/developers-nepal",
+    "followers_url": "https://api.github.com/users/developers-nepal/followers",
+    "following_url": "https://api.github.com/users/developers-nepal/following{/other_user}",
+    "gists_url": "https://api.github.com/users/developers-nepal/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/developers-nepal/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/developers-nepal/subscriptions",
+    "organizations_url": "https://api.github.com/users/developers-nepal/orgs",
+    "repos_url": "https://api.github.com/users/developers-nepal/repos",
+    "events_url": "https://api.github.com/users/developers-nepal/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/developers-nepal/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "amitness": 2,
+    "parewa-punit": 3,
+    "parewa-ranjit": 5,
+    "developerPratik": 7,
+    "sumn2u": 22,
+    "jaisonjustus": 33,
+    "rabishah": 48
+  },
+  "pulls_authors": [
+    "roshangm1",
+    "sumn2u",
+    "developerPratik",
+    "amitness",
+    "rabishah",
+    "jaisonjustus",
+    "parewa-punit"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 58150,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 52738,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 39230,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-19T07:30:51.062Z"
+}

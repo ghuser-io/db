@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ninja-presence-base",
+  "full_name": "elliots/ninja-presence-base",
+  "owner": "elliots",
+  "private": false,
+  "html_url": "https://github.com/elliots/ninja-presence-base",
+  "description": "A base for NinjaBlocks presence drivers to extend",
+  "fork": false,
+  "url": "https://api.github.com/repos/elliots/ninja-presence-base",
+  "languages_url": "https://api.github.com/repos/elliots/ninja-presence-base/languages",
+  "pulls_url": "https://api.github.com/repos/elliots/ninja-presence-base/pulls{/number}",
+  "created_at": "2013-05-30T11:56:12Z",
+  "updated_at": "2014-01-05T19:43:37Z",
+  "pushed_at": "2013-08-08T02:26:42Z",
+  "homepage": null,
+  "size": 142,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "elliots": 13
+  },
+  "pulls_authors": [
+    "svrooij"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1831,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T13:46:01.149Z"
+}

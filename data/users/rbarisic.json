@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "rbarisic",
+  "ghuser_created_at": "2018-09-12T00:33:16.524Z",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/9211959?v=4",
+  "html_url": "https://github.com/rbarisic",
+  "organizations_url": "https://api.github.com/users/rbarisic/orgs",
+  "repos_url": "https://api.github.com/users/rbarisic/repos",
+  "type": "User",
+  "name": "R. Barisic",
+  "company": "@xrlabs | @UnitedSignals ",
+  "blog": "http://www.xrlabs.de",
+  "location": "Germany",
+  "email": "info@xrlabs.de",
+  "bio": null,
+  "public_gists": 0,
+  "created_at": "2014-10-14T10:02:01Z",
+  "updated_at": "2018-09-10T13:25:02Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:16:56.287Z",
+    "repos": [
+      "fnky/behave-theme",
+      "rbarisic/RB.reactReddit",
+      "rspec/rspec-expectations",
+      "jwt/ruby-jwe",
+      "rbarisic/yadda",
+      "rbarisic/fuel-graph",
+      "rbarisic/useful_stuff",
+      "rbarisic/GDBM-Wrapper",
+      "xrlabs/emotion",
+      "rbarisic/stylesheets",
+      "rbarisic/blitz3d",
+      "rbarisic/monkey"
+    ]
+  }
+}

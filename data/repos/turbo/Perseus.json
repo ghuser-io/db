@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Perseus",
+  "full_name": "turbo/Perseus",
+  "owner": "turbo",
+  "private": false,
+  "html_url": "https://github.com/turbo/Perseus",
+  "description": "Perseus Programming Language (Windows), Integrated Assembler & Linker",
+  "fork": false,
+  "url": "https://api.github.com/repos/turbo/Perseus",
+  "languages_url": "https://api.github.com/repos/turbo/Perseus/languages",
+  "pulls_url": "https://api.github.com/repos/turbo/Perseus/pulls{/number}",
+  "created_at": "2015-07-12T16:24:03Z",
+  "updated_at": "2018-06-11T05:04:23Z",
+  "pushed_at": "2016-11-26T12:04:01Z",
+  "homepage": "",
+  "size": 3808,
+  "stargazers_count": 21,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "artistic-2.0",
+    "name": "Artistic License 2.0",
+    "spdx_id": "Artistic-2.0",
+    "url": "https://api.github.com/licenses/artistic-2.0",
+    "node_id": "MDc6TGljZW5zZTM="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "tuxcrafting": 1,
+    "rjframe": 1
+  },
+  "pulls_authors": [
+    "ghost",
+    "rjframe"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 154126,
+      "color": "#f34b7d"
+    },
+    "Visual Basic": {
+      "bytes": 137621,
+      "color": "#945db7"
+    },
+    "SourcePawn": {
+      "bytes": 98513,
+      "color": "#5c7611"
+    },
+    "Assembly": {
+      "bytes": 63436,
+      "color": "#6E4C13"
+    },
+    "AutoIt": {
+      "bytes": 317,
+      "color": "#1C3552"
+    },
+    "Batchfile": {
+      "bytes": 232,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:10.319Z"
+}

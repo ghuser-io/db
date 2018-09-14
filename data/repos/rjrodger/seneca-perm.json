@@ -1,0 +1,62 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "seneca-perm",
+  "full_name": "rjrodger/seneca-perm",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/seneca-perm",
+  "description": "Seneca permissions plugin",
+  "fork": false,
+  "url": "https://api.github.com/repos/rjrodger/seneca-perm",
+  "languages_url": "https://api.github.com/repos/rjrodger/seneca-perm/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/seneca-perm/pulls{/number}",
+  "created_at": "2013-04-03T14:34:52Z",
+  "updated_at": "2017-09-11T09:34:45Z",
+  "pushed_at": "2016-09-09T21:14:57Z",
+  "homepage": null,
+  "size": 665,
+  "stargazers_count": 9,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "darsee": 1,
+    "guyellis": 2,
+    "soldair": 4,
+    "david-cahill": 15,
+    "rjrodger": 16,
+    "nherment": 69
+  },
+  "pulls_authors": [
+    "tswaters",
+    "AdrieanKhisbe",
+    "soldair",
+    "guyellis",
+    "david-cahill",
+    "darsee",
+    "nherment"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 84567,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 12856,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 2575,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:34.694Z"
+}

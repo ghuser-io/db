@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gifencoder",
+  "full_name": "eugeneware/gifencoder",
+  "owner": "eugeneware",
+  "private": false,
+  "html_url": "https://github.com/eugeneware/gifencoder",
+  "description": "Server side animated gif generation for node.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/eugeneware/gifencoder",
+  "languages_url": "https://api.github.com/repos/eugeneware/gifencoder/languages",
+  "pulls_url": "https://api.github.com/repos/eugeneware/gifencoder/pulls{/number}",
+  "created_at": "2013-10-04T16:36:54Z",
+  "updated_at": "2018-09-06T17:25:00Z",
+  "pushed_at": "2018-09-01T11:24:08Z",
+  "homepage": null,
+  "size": 90,
+  "stargazers_count": 260,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rochoa": 1,
+    "raine": 1,
+    "heikkipora": 2,
+    "eugeneware": 37,
+    "anishkny": 1
+  },
+  "pulls_authors": [
+    "anishkny",
+    "heikkipora",
+    "rochoa",
+    "raine"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 48096,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-07T03:29:40.034Z"
+}

@@ -1,0 +1,92 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tuist",
+  "full_name": "tuist/tuist",
+  "owner": "tuist",
+  "private": false,
+  "html_url": "https://github.com/tuist/tuist",
+  "description": "🚀 Create, maintain, and interact with Xcode projects at scale",
+  "fork": false,
+  "url": "https://api.github.com/repos/tuist/tuist",
+  "languages_url": "https://api.github.com/repos/tuist/tuist/languages",
+  "pulls_url": "https://api.github.com/repos/tuist/tuist/pulls{/number}",
+  "created_at": "2018-04-16T07:02:54Z",
+  "updated_at": "2018-09-14T07:17:05Z",
+  "pushed_at": "2018-09-12T15:53:32Z",
+  "homepage": "https://tuist.io",
+  "size": 38941,
+  "stargazers_count": 69,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "tuist",
+    "id": 38419084,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM4NDE5MDg0",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/38419084?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/tuist",
+    "html_url": "https://github.com/tuist",
+    "followers_url": "https://api.github.com/users/tuist/followers",
+    "following_url": "https://api.github.com/users/tuist/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tuist/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/tuist/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tuist/subscriptions",
+    "organizations_url": "https://api.github.com/users/tuist/orgs",
+    "repos_url": "https://api.github.com/users/tuist/repos",
+    "events_url": "https://api.github.com/users/tuist/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/tuist/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "zdnk": 1,
+    "dcordero": 2,
+    "santos88": 2,
+    "esttorhe": 3,
+    "pepibumur": 9
+  },
+  "pulls_authors": [
+    "pepibumur",
+    "dcordero",
+    "zdnk",
+    "santos88",
+    "Juanpe",
+    "cotsog"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 518685,
+      "color": "#ffac45"
+    },
+    "JavaScript": {
+      "bytes": 1015,
+      "color": "#f1e05a"
+    },
+    "Makefile": {
+      "bytes": 567,
+      "color": "#427819"
+    },
+    "Ruby": {
+      "bytes": 519,
+      "color": "#701516"
+    },
+    "Objective-C": {
+      "bytes": 480,
+      "color": "#438eff"
+    },
+    "Shell": {
+      "bytes": 175,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T08:25:17.184Z"
+}

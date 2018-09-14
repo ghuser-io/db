@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Portfolio-Generator",
+  "full_name": "jamesgeorge007/Portfolio-Generator",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/Portfolio-Generator",
+  "description": "HoxNox - Portfolios Made Easy, Generate portfolios in 3 easy steps",
+  "fork": true,
+  "url": "https://api.github.com/repos/jamesgeorge007/Portfolio-Generator",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/Portfolio-Generator/languages",
+  "created_at": "2018-04-02T11:40:45Z",
+  "updated_at": "2018-04-02T11:46:12Z",
+  "pushed_at": "2018-04-02T11:45:47Z",
+  "homepage": "https://hoxnox.herokuapp.com/",
+  "size": 10058,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Divy123": 1,
+    "saifat29": 1,
+    "kira0204": 1,
+    "hankandre": 1,
+    "gauthamzz": 1,
+    "dgarvit": 2,
+    "Jigar3": 3,
+    "pulkonet": 3,
+    "jamesgeorge007": 5,
+    "maitreyav": 5,
+    "Anupam-dagar": 110
+  },
+  "languages": {
+    "Python": {
+      "bytes": 306948,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 150217,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 84342,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/Portfolio-Generator/pulls{/number}",
+  "pulls_authors": []
+}

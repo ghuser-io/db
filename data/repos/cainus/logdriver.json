@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "logdriver",
+  "full_name": "cainus/logdriver",
+  "owner": "cainus",
+  "private": false,
+  "html_url": "https://github.com/cainus/logdriver",
+  "description": "node logger that only logs to stdout",
+  "fork": false,
+  "url": "https://api.github.com/repos/cainus/logdriver",
+  "languages_url": "https://api.github.com/repos/cainus/logdriver/languages",
+  "pulls_url": "https://api.github.com/repos/cainus/logdriver/pulls{/number}",
+  "created_at": "2013-03-18T01:27:52Z",
+  "updated_at": "2018-08-09T19:35:12Z",
+  "pushed_at": "2018-02-19T17:38:34Z",
+  "homepage": null,
+  "size": 130,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "isc",
+    "name": "ISC License",
+    "spdx_id": "ISC",
+    "url": "https://api.github.com/licenses/isc",
+    "node_id": "MDc6TGljZW5zZTEw"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "anishkny": 1,
+    "RobLoach": 1,
+    "ilanbiala": 8,
+    "cainus": 30
+  },
+  "pulls_authors": [
+    "anishkny",
+    "DominicKramer",
+    "RobLoach",
+    "ilanbiala"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 4465,
+      "color": "#f1e05a"
+    },
+    "Makefile": {
+      "bytes": 579,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:39.411Z"
+}

@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "autocomplete-trie",
+  "full_name": "mdibaiee/autocomplete-trie",
+  "owner": "mdibaiee",
+  "private": false,
+  "html_url": "https://github.com/mdibaiee/autocomplete-trie",
+  "description": "Autocompletion system using Tries",
+  "fork": false,
+  "url": "https://api.github.com/repos/mdibaiee/autocomplete-trie",
+  "languages_url": "https://api.github.com/repos/mdibaiee/autocomplete-trie/languages",
+  "pulls_url": "https://api.github.com/repos/mdibaiee/autocomplete-trie/pulls{/number}",
+  "created_at": "2015-07-26T07:26:02Z",
+  "updated_at": "2016-11-02T15:01:22Z",
+  "pushed_at": "2016-11-02T15:01:21Z",
+  "homepage": null,
+  "size": 93,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "gh-pages",
+  "contributors": {
+    "mdibaiee": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 24698,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 2760,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 561,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:39.877Z"
+}

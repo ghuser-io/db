@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "kopi.guide",
+  "full_name": "cheeaun/kopi.guide",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/kopi.guide",
+  "description": "A helpful guide on how to order Kopi in Singapore and some say Malaysia too.",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/kopi.guide",
+  "languages_url": "https://api.github.com/repos/cheeaun/kopi.guide/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/kopi.guide/pulls{/number}",
+  "created_at": "2017-12-01T00:20:56Z",
+  "updated_at": "2017-12-01T01:11:42Z",
+  "pushed_at": "2017-12-01T02:52:56Z",
+  "homepage": "http://kopi.guide",
+  "size": 32,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 11316,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 7881,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:54.528Z"
+}

@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "isitrandom",
+  "full_name": "tscholl2/isitrandom",
+  "owner": "tscholl2",
+  "private": false,
+  "html_url": "https://github.com/tscholl2/isitrandom",
+  "description": "NIST Statistical Test Suite in Go",
+  "fork": false,
+  "url": "https://api.github.com/repos/tscholl2/isitrandom",
+  "languages_url": "https://api.github.com/repos/tscholl2/isitrandom/languages",
+  "pulls_url": "https://api.github.com/repos/tscholl2/isitrandom/pulls{/number}",
+  "created_at": "2016-09-07T23:55:25Z",
+  "updated_at": "2016-09-10T18:02:54Z",
+  "pushed_at": "2016-09-22T21:36:56Z",
+  "homepage": null,
+  "size": 664,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "tscholl2": 11,
+    "schollz": 22
+  },
+  "pulls_authors": [
+    "schollz"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 1322775,
+      "color": "#375eab"
+    },
+    "Matlab": {
+      "bytes": 2170,
+      "color": "#e16737"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:44.664Z"
+}

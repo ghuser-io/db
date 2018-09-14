@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "next-plugin-transpile-modules",
+  "full_name": "martpie/next-plugin-transpile-modules",
+  "owner": "martpie",
+  "private": false,
+  "html_url": "https://github.com/martpie/next-plugin-transpile-modules",
+  "description": "An alternative for @weco/next-plugin-transpile-modules supporting TypeScript",
+  "fork": true,
+  "url": "https://api.github.com/repos/martpie/next-plugin-transpile-modules",
+  "languages_url": "https://api.github.com/repos/martpie/next-plugin-transpile-modules/languages",
+  "pulls_url": "https://api.github.com/repos/martpie/next-plugin-transpile-modules/pulls{/number}",
+  "created_at": "2018-08-09T08:17:58Z",
+  "updated_at": "2018-08-27T09:06:07Z",
+  "pushed_at": "2018-08-09T09:18:38Z",
+  "homepage": "",
+  "size": 6,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jamesgorrie": 3,
+    "martpie": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1338,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T13:48:16.626Z"
+}

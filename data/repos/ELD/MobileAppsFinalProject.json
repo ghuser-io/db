@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "MobileAppsFinalProject",
+  "full_name": "ELD/MobileAppsFinalProject",
+  "owner": "ELD",
+  "private": false,
+  "html_url": "https://github.com/ELD/MobileAppsFinalProject",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/ELD/MobileAppsFinalProject",
+  "languages_url": "https://api.github.com/repos/ELD/MobileAppsFinalProject/languages",
+  "pulls_url": "https://api.github.com/repos/ELD/MobileAppsFinalProject/pulls{/number}",
+  "created_at": "2016-04-06T22:00:27Z",
+  "updated_at": "2016-12-21T18:52:06Z",
+  "pushed_at": "2016-05-11T17:10:36Z",
+  "homepage": null,
+  "size": 11137,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ELD": 25,
+    "andersonalex": 35
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 76623,
+      "color": "#b07219"
+    },
+    "TeX": {
+      "bytes": 8669,
+      "color": "#3D6117"
+    },
+    "HTML": {
+      "bytes": 5900,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T10:35:58.131Z"
+}

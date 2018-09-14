@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vim-addon-sql",
+  "full_name": "captbaritone/vim-addon-sql",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/vim-addon-sql",
+  "description": "kiss alias aware SQL completion for Vim",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/vim-addon-sql",
+  "languages_url": "https://api.github.com/repos/captbaritone/vim-addon-sql/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/vim-addon-sql/pulls{/number}",
+  "created_at": "2014-01-15T18:22:37Z",
+  "updated_at": "2018-07-29T22:16:33Z",
+  "pushed_at": "2014-01-15T18:23:17Z",
+  "homepage": "",
+  "size": 166,
+  "stargazers_count": 1,
+  "language": "VimL",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "MarcWeber": 21
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Vim script": {
+      "bytes": 21927,
+      "color": "#199f4b"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:54.991Z"
+}

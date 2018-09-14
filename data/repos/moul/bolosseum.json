@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bolosseum",
+  "full_name": "moul/bolosseum",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/bolosseum",
+  "description": ":hocho: colosseum for bots",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/bolosseum",
+  "languages_url": "https://api.github.com/repos/moul/bolosseum/languages",
+  "pulls_url": "https://api.github.com/repos/moul/bolosseum/pulls{/number}",
+  "created_at": "2016-05-23T09:47:54Z",
+  "updated_at": "2017-01-11T19:24:34Z",
+  "pushed_at": "2018-08-18T16:14:22Z",
+  "homepage": "",
+  "size": 1687,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "gnieark": 1,
+    "QuentinPerez": 3,
+    "moul": 100
+  },
+  "pulls_authors": [
+    "renovate[bot]",
+    "imgbot[bot]",
+    "QuentinPerez",
+    "gnieark",
+    "moul"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 40831,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 1154,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 812,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 573,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:45.993Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "poe-graph-optimization",
+  "full_name": "brunoalano/poe-graph-optimization",
+  "owner": "brunoalano",
+  "private": false,
+  "html_url": "https://github.com/brunoalano/poe-graph-optimization",
+  "description": "Backpropagation in Graph (DAG) Structure for Attribute Maximization",
+  "fork": false,
+  "url": "https://api.github.com/repos/brunoalano/poe-graph-optimization",
+  "languages_url": "https://api.github.com/repos/brunoalano/poe-graph-optimization/languages",
+  "pulls_url": "https://api.github.com/repos/brunoalano/poe-graph-optimization/pulls{/number}",
+  "created_at": "2018-06-04T19:54:58Z",
+  "updated_at": "2018-06-04T22:12:05Z",
+  "pushed_at": "2018-06-04T22:12:04Z",
+  "homepage": null,
+  "size": 187,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "brunoalano": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 831,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:36:03.680Z"
+}

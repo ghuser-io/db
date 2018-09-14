@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mootools-core",
+  "full_name": "cheeaun/mootools-core",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/mootools-core",
+  "description": "MooTools Core Repository",
+  "fork": true,
+  "url": "https://api.github.com/repos/cheeaun/mootools-core",
+  "languages_url": "https://api.github.com/repos/cheeaun/mootools-core/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/mootools-core/pulls{/number}",
+  "created_at": "2009-01-10T08:19:35Z",
+  "updated_at": "2016-05-08T22:02:23Z",
+  "pushed_at": "2010-05-27T15:25:33Z",
+  "homepage": "http://mootools.net",
+  "size": 6135,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "131": 2,
+    "josip": 1,
+    "nagaozen": 1,
+    "rexxars": 1,
+    "Yuffster": 1,
+    "bryanjswift": 2,
+    "alcohol": 2,
+    "sebmarkbage": 4,
+    "djahandarie": 4,
+    "w00fz": 4,
+    "ibolmo": 13,
+    "darkwing": 16,
+    "tomocchino": 18,
+    "fakedarren": 20,
+    "3n": 20,
+    "subtleGradient": 30,
+    "arian": 46,
+    "fabiomcosta": 48,
+    "appden": 55,
+    "anutron": 71,
+    "cpojer": 100,
+    "kassens": 103,
+    "kamicane": 120
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 134613,
+      "color": "#f1e05a"
+    },
+    "PHP": {
+      "bytes": 163,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-10T19:00:13.079Z"
+}

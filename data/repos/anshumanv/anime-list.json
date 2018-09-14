@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "anime-list",
+  "full_name": "anshumanv/anime-list",
+  "owner": "anshumanv",
+  "private": false,
+  "html_url": "https://github.com/anshumanv/anime-list",
+  "description": "A simple list to keep track completed animes",
+  "fork": false,
+  "url": "https://api.github.com/repos/anshumanv/anime-list",
+  "languages_url": "https://api.github.com/repos/anshumanv/anime-list/languages",
+  "pulls_url": "https://api.github.com/repos/anshumanv/anime-list/pulls{/number}",
+  "created_at": "2017-03-28T19:01:23Z",
+  "updated_at": "2018-09-04T10:27:15Z",
+  "pushed_at": "2018-09-04T10:27:14Z",
+  "homepage": "https://anshumanv.github.io/anime-list/",
+  "size": 18,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "anshumanv": 51
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-04T12:17:52.499Z"
+}

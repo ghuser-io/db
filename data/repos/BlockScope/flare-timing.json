@@ -1,0 +1,97 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "flare-timing",
+  "full_name": "BlockScope/flare-timing",
+  "owner": "BlockScope",
+  "private": false,
+  "html_url": "https://github.com/BlockScope/flare-timing",
+  "description": "Scoring for hang gliding and paragliding competitions",
+  "fork": false,
+  "url": "https://api.github.com/repos/BlockScope/flare-timing",
+  "languages_url": "https://api.github.com/repos/BlockScope/flare-timing/languages",
+  "pulls_url": "https://api.github.com/repos/BlockScope/flare-timing/pulls{/number}",
+  "created_at": "2017-09-03T18:24:05Z",
+  "updated_at": "2018-09-11T19:07:29Z",
+  "pushed_at": "2018-09-11T19:07:27Z",
+  "homepage": "",
+  "size": 3271,
+  "stargazers_count": 3,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mpl-2.0",
+    "name": "Mozilla Public License 2.0",
+    "spdx_id": "MPL-2.0",
+    "url": "https://api.github.com/licenses/mpl-2.0",
+    "node_id": "MDc6TGljZW5zZTE0"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "BlockScope",
+    "id": 3971638,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM5NzE2Mzg=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/3971638?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/BlockScope",
+    "html_url": "https://github.com/BlockScope",
+    "followers_url": "https://api.github.com/users/BlockScope/followers",
+    "following_url": "https://api.github.com/users/BlockScope/following{/other_user}",
+    "gists_url": "https://api.github.com/users/BlockScope/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/BlockScope/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/BlockScope/subscriptions",
+    "organizations_url": "https://api.github.com/users/BlockScope/orgs",
+    "repos_url": "https://api.github.com/users/BlockScope/repos",
+    "events_url": "https://api.github.com/users/BlockScope/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/BlockScope/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "philderbeast": 2145
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Haskell": {
+      "bytes": 1100293,
+      "color": "#5e5086"
+    },
+    "JavaScript": {
+      "bytes": 76208,
+      "color": "#f1e05a"
+    },
+    "Nix": {
+      "bytes": 66529,
+      "color": "#7e7eff"
+    },
+    "Python": {
+      "bytes": 41573,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 5127,
+      "color": "#e34c26"
+    },
+    "F#": {
+      "bytes": 4359,
+      "color": "#b845fc"
+    },
+    "Batchfile": {
+      "bytes": 858,
+      "color": "#C1F12E"
+    },
+    "Makefile": {
+      "bytes": 608,
+      "color": "#427819"
+    },
+    "CSS": {
+      "bytes": 579,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 328,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T20:52:40.309Z"
+}

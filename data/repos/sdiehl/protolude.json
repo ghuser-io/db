@@ -1,0 +1,76 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "protolude",
+  "full_name": "sdiehl/protolude",
+  "owner": "sdiehl",
+  "private": false,
+  "html_url": "https://github.com/sdiehl/protolude",
+  "description": "A sensible starting Prelude template.",
+  "fork": false,
+  "url": "https://api.github.com/repos/sdiehl/protolude",
+  "languages_url": "https://api.github.com/repos/sdiehl/protolude/languages",
+  "pulls_url": "https://api.github.com/repos/sdiehl/protolude/pulls{/number}",
+  "created_at": "2016-04-07T15:47:12Z",
+  "updated_at": "2018-09-12T20:55:50Z",
+  "pushed_at": "2018-08-03T12:14:41Z",
+  "homepage": "http://www.stephendiehl.com/posts/protolude.html",
+  "size": 227,
+  "stargazers_count": 280,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dten": 1,
+    "snoyberg": 1,
+    "vendethiel": 1,
+    "timmot": 1,
+    "4e6": 1,
+    "MichaelBurge": 1,
+    "alexanderkjeldaas": 1,
+    "cbaatz": 1,
+    "mitchellwrosen": 1,
+    "seagreen": 2,
+    "Profpatsch": 2,
+    "tonyday567": 4,
+    "cocreature": 5,
+    "PierreR": 7,
+    "sdiehl": 200
+  },
+  "pulls_authors": [
+    "tonyday567",
+    "dten",
+    "snoyberg",
+    "sdiehl",
+    "vendethiel",
+    "seagreen",
+    "Profpatsch",
+    "cocreature",
+    "PierreR",
+    "timmot",
+    "4e6",
+    "MichaelBurge",
+    "Martoon-00",
+    "alexanderkjeldaas",
+    "cbaatz",
+    "mitchellwrosen"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 36820,
+      "color": "#5e5086"
+    },
+    "Shell": {
+      "bytes": 2819,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T00:22:48.857Z"
+}

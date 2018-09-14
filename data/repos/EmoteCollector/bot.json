@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bot",
+  "full_name": "EmoteCollector/bot",
+  "owner": "EmoteCollector",
+  "private": false,
+  "html_url": "https://github.com/EmoteCollector/bot",
+  "description": "Curates emojis from other servers for use by people who don't have Nitro",
+  "fork": false,
+  "url": "https://api.github.com/repos/EmoteCollector/bot",
+  "languages_url": "https://api.github.com/repos/EmoteCollector/bot/languages",
+  "pulls_url": "https://api.github.com/repos/EmoteCollector/bot/pulls{/number}",
+  "created_at": "2018-01-21T05:54:13Z",
+  "updated_at": "2018-09-11T20:17:28Z",
+  "pushed_at": "2018-09-11T20:17:27Z",
+  "homepage": "",
+  "size": 688,
+  "stargazers_count": 6,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "EmoteCollector",
+    "id": 38902122,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM4OTAyMTIy",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/38902122?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/EmoteCollector",
+    "html_url": "https://github.com/EmoteCollector",
+    "followers_url": "https://api.github.com/users/EmoteCollector/followers",
+    "following_url": "https://api.github.com/users/EmoteCollector/following{/other_user}",
+    "gists_url": "https://api.github.com/users/EmoteCollector/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/EmoteCollector/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/EmoteCollector/subscriptions",
+    "organizations_url": "https://api.github.com/users/EmoteCollector/orgs",
+    "repos_url": "https://api.github.com/users/EmoteCollector/repos",
+    "events_url": "https://api.github.com/users/EmoteCollector/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/EmoteCollector/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "bmintz": 679
+  },
+  "pulls_authors": [
+    "bmintz",
+    "nickwanninger"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 123933,
+      "color": "#3572A5"
+    },
+    "PLpgSQL": {
+      "bytes": 3893,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 524,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T20:51:40.510Z"
+}

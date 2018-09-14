@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "quinn",
+  "full_name": "djc/quinn",
+  "owner": "djc",
+  "private": false,
+  "html_url": "https://github.com/djc/quinn",
+  "description": "Futures-based QUIC implementation in Rust",
+  "fork": false,
+  "url": "https://api.github.com/repos/djc/quinn",
+  "languages_url": "https://api.github.com/repos/djc/quinn/languages",
+  "pulls_url": "https://api.github.com/repos/djc/quinn/pulls{/number}",
+  "created_at": "2018-04-03T07:47:41Z",
+  "updated_at": "2018-09-14T02:57:32Z",
+  "pushed_at": "2018-09-09T18:09:20Z",
+  "homepage": null,
+  "size": 901,
+  "stargazers_count": 96,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dependabot-bot": 1,
+    "cheme": 1,
+    "ctz": 1,
+    "djc": 312
+  },
+  "pulls_authors": [
+    "dependabot[bot]",
+    "evolix1",
+    "ctz",
+    "gitter-badger"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 87101,
+      "color": "#dea584"
+    },
+    "Shell": {
+      "bytes": 829,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T08:25:33.921Z"
+}

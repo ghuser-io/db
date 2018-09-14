@@ -1,0 +1,103 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "botwillacceptanything",
+  "full_name": "SpenserJ/botwillacceptanything",
+  "owner": "SpenserJ",
+  "private": false,
+  "html_url": "https://github.com/SpenserJ/botwillacceptanything",
+  "description": "The project where anything goes, as long as the code allows it",
+  "fork": true,
+  "url": "https://api.github.com/repos/SpenserJ/botwillacceptanything",
+  "languages_url": "https://api.github.com/repos/SpenserJ/botwillacceptanything/languages",
+  "pulls_url": "https://api.github.com/repos/SpenserJ/botwillacceptanything/pulls{/number}",
+  "created_at": "2015-04-10T01:29:43Z",
+  "updated_at": "2015-04-20T03:49:11Z",
+  "pushed_at": "2015-04-24T02:45:44Z",
+  "homepage": "",
+  "size": 3504,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "SamsPepper1": 1,
+    "Gaelan": 1,
+    "aristidb": 1,
+    "clay-to-n": 1,
+    "OliverCole": 1,
+    "mitar": 1,
+    "ChristoSilvia": 1,
+    "jgod": 1,
+    "bradleybuda": 1,
+    "botwillacceptanything": 1,
+    "blister": 1,
+    "hatboysam": 1,
+    "edwardhotchkiss": 1,
+    "jamescostian": 1,
+    "thenightwassave": 2,
+    "jish": 2,
+    "gmpersons": 2,
+    "rspeer": 2,
+    "rdancer": 2,
+    "fiveminuteargument": 2,
+    "vespakoen": 2,
+    "avdg": 3,
+    "kaendfinger": 3,
+    "sparky222b": 3,
+    "rickardnorlander": 4,
+    "timweightman": 9,
+    "shalecraig": 12,
+    "dbpokorny": 16,
+    "Prior99": 19,
+    "AlphaT3ch": 23,
+    "dos1": 24,
+    "mappum": 27,
+    "SpenserJ": 77,
+    "korczis": 97
+  },
+  "pulls_authors": [
+    "SpenserJ",
+    "rickardnorlander",
+    "AlphaT3ch",
+    "gmpersons"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 93109,
+      "color": "#f1e05a"
+    },
+    "Handlebars": {
+      "bytes": 9838,
+      "color": "#ccc"
+    },
+    "Dart": {
+      "bytes": 2928,
+      "color": "#00B4AB"
+    },
+    "CSS": {
+      "bytes": 1522,
+      "color": "#563d7c"
+    },
+    "Nginx": {
+      "bytes": 948,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 736,
+      "color": "#89e051"
+    },
+    "Go": {
+      "bytes": 75,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T15:20:06.066Z"
+}

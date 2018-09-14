@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "deepin-scrot",
+  "full_name": "linuxdeepin-packages/deepin-scrot",
+  "owner": "linuxdeepin-packages",
+  "private": false,
+  "html_url": "https://github.com/linuxdeepin-packages/deepin-scrot",
+  "description": "Deepin snapshot tools",
+  "fork": false,
+  "url": "https://api.github.com/repos/linuxdeepin-packages/deepin-scrot",
+  "languages_url": "https://api.github.com/repos/linuxdeepin-packages/deepin-scrot/languages",
+  "pulls_url": "https://api.github.com/repos/linuxdeepin-packages/deepin-scrot/pulls{/number}",
+  "created_at": "2011-11-22T03:14:27Z",
+  "updated_at": "2018-07-12T14:04:47Z",
+  "pushed_at": "2016-08-29T12:21:31Z",
+  "homepage": "",
+  "size": 327,
+  "stargazers_count": 26,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "wzssyqa": 3,
+    "StephenPCG": 13,
+    "lovesnow": 14,
+    "manateelazycat": 20
+  },
+  "pulls_authors": [
+    "clarkzjw",
+    "kindlychung",
+    "ChanningBJ",
+    "sdeleon28"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 114557,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 2117,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-23T12:44:42.671Z"
+}

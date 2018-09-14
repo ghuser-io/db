@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 1,
+    "bvbfan": 1,
+    "Lyxnx": 1,
+    "crhallberg": 2,
+    "jm-janzen": 239
+  },
+  "name": "termq-engine",
+  "full_name": "jm-janzen/termq-engine",
+  "owner": "jm-janzen",
+  "private": false,
+  "html_url": "https://github.com/jm-janzen/termq-engine",
+  "description": "Turn-based Roguelike Game Engine",
+  "fork": false,
+  "url": "https://api.github.com/repos/jm-janzen/termq-engine",
+  "languages_url": "https://api.github.com/repos/jm-janzen/termq-engine/languages",
+  "created_at": "2016-07-26T00:41:30Z",
+  "updated_at": "2018-06-23T15:21:46Z",
+  "pushed_at": "2018-06-23T15:21:44Z",
+  "homepage": "",
+  "size": 282,
+  "stargazers_count": 3,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "C++": {
+      "bytes": 46445,
+      "color": "#f34b7d"
+    },
+    "CMake": {
+      "bytes": 3188,
+      "color": "#ccc"
+    },
+    "C": {
+      "bytes": 559,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 97,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/jm-janzen/termq-engine/pulls{/number}",
+  "pulls_authors": [
+    "jm-janzen",
+    "Calinou",
+    "bvbfan",
+    "crhallberg",
+    "Lyxnx"
+  ]
+}

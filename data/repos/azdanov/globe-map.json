@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "globe-map",
+  "full_name": "azdanov/globe-map",
+  "owner": "azdanov",
+  "private": false,
+  "html_url": "https://github.com/azdanov/globe-map",
+  "description": "D3.js world map of meteorite impact sites.",
+  "fork": false,
+  "url": "https://api.github.com/repos/azdanov/globe-map",
+  "languages_url": "https://api.github.com/repos/azdanov/globe-map/languages",
+  "pulls_url": "https://api.github.com/repos/azdanov/globe-map/pulls{/number}",
+  "created_at": "2017-12-12T22:41:32Z",
+  "updated_at": "2018-08-08T17:36:19Z",
+  "pushed_at": "2018-08-08T17:36:17Z",
+  "homepage": "https://azdanov.github.io/globe-map/",
+  "size": 1802,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "prettierci-commits": 1,
+    "azdanov": 14
+  },
+  "pulls_authors": [
+    "prettierci[bot]"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6016,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 1425,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 745,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-17T12:34:59.031Z"
+}

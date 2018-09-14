@@ -1,0 +1,95 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "eyp-systemd",
+  "full_name": "NTTCom-MS/eyp-systemd",
+  "owner": "NTTCom-MS",
+  "private": false,
+  "html_url": "https://github.com/NTTCom-MS/eyp-systemd",
+  "description": "management of systemd services, services dropins, sockets and timers",
+  "fork": false,
+  "url": "https://api.github.com/repos/NTTCom-MS/eyp-systemd",
+  "languages_url": "https://api.github.com/repos/NTTCom-MS/eyp-systemd/languages",
+  "pulls_url": "https://api.github.com/repos/NTTCom-MS/eyp-systemd/pulls{/number}",
+  "created_at": "2015-12-16T12:51:56Z",
+  "updated_at": "2018-08-20T14:22:51Z",
+  "pushed_at": "2018-08-20T14:24:33Z",
+  "homepage": null,
+  "size": 251,
+  "stargazers_count": 6,
+  "language": "Puppet",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "NTTCom-MS",
+    "id": 16290459,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2MjkwNDU5",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/16290459?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/NTTCom-MS",
+    "html_url": "https://github.com/NTTCom-MS",
+    "followers_url": "https://api.github.com/users/NTTCom-MS/followers",
+    "following_url": "https://api.github.com/users/NTTCom-MS/following{/other_user}",
+    "gists_url": "https://api.github.com/users/NTTCom-MS/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/NTTCom-MS/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/NTTCom-MS/subscriptions",
+    "organizations_url": "https://api.github.com/users/NTTCom-MS/orgs",
+    "repos_url": "https://api.github.com/users/NTTCom-MS/repos",
+    "events_url": "https://api.github.com/users/NTTCom-MS/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/NTTCom-MS/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "oleg-glushak": 1,
+    "bagasse": 1,
+    "alquez": 1,
+    "func0der": 1,
+    "fraenki": 2,
+    "oOHenry": 2,
+    "steveniemitz": 2,
+    "davidnewhall": 3,
+    "TuningYourCode": 3,
+    "cedef": 6,
+    "jordiprats": 212
+  },
+  "pulls_authors": [
+    "jordiprats",
+    "davidnewhall",
+    "TuningYourCode",
+    "schlitzered",
+    "oleg-glushak",
+    "bagasse",
+    "fraenki",
+    "jtreminio",
+    "alquez",
+    "cedef",
+    "oOHenry",
+    "fbarbeira",
+    "func0der",
+    "Dwarfex",
+    "steveniemitz",
+    "dzmitryv",
+    "ghost"
+  ],
+  "languages": {
+    "Puppet": {
+      "bytes": 31540,
+      "color": "#302B6D"
+    },
+    "HTML": {
+      "bytes": 19424,
+      "color": "#e34c26"
+    },
+    "Ruby": {
+      "bytes": 10205,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 509,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:26.672Z"
+}

@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rpi-ws281x-python",
+  "full_name": "rpi-ws281x/rpi-ws281x-python",
+  "owner": "rpi-ws281x",
+  "private": false,
+  "html_url": "https://github.com/rpi-ws281x/rpi-ws281x-python",
+  "description": "Python library wrapping for the rpi-ws281x library",
+  "fork": false,
+  "url": "https://api.github.com/repos/rpi-ws281x/rpi-ws281x-python",
+  "languages_url": "https://api.github.com/repos/rpi-ws281x/rpi-ws281x-python/languages",
+  "pulls_url": "https://api.github.com/repos/rpi-ws281x/rpi-ws281x-python/pulls{/number}",
+  "created_at": "2017-01-10T15:35:28Z",
+  "updated_at": "2018-09-06T12:53:08Z",
+  "pushed_at": "2018-08-29T13:34:29Z",
+  "homepage": null,
+  "size": 96,
+  "stargazers_count": 12,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-2-clause",
+    "name": "BSD 2-Clause \"Simplified\" License",
+    "spdx_id": "BSD-2-Clause",
+    "url": "https://api.github.com/licenses/bsd-2-clause",
+    "node_id": "MDc6TGljZW5zZTQ="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "rpi-ws281x",
+    "id": 35821029,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM1ODIxMDI5",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/35821029?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/rpi-ws281x",
+    "html_url": "https://github.com/rpi-ws281x",
+    "followers_url": "https://api.github.com/users/rpi-ws281x/followers",
+    "following_url": "https://api.github.com/users/rpi-ws281x/following{/other_user}",
+    "gists_url": "https://api.github.com/users/rpi-ws281x/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/rpi-ws281x/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/rpi-ws281x/subscriptions",
+    "organizations_url": "https://api.github.com/users/rpi-ws281x/orgs",
+    "repos_url": "https://api.github.com/users/rpi-ws281x/repos",
+    "events_url": "https://api.github.com/users/rpi-ws281x/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/rpi-ws281x/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "pimoroni-phil": 1,
+    "Gadgetoid": 43
+  },
+  "pulls_authors": [
+    "Gadgetoid",
+    "grantramsay"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 170522,
+      "color": "#555555"
+    },
+    "Python": {
+      "bytes": 19398,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 506,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:03.823Z"
+}

@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "spree_dotpay_pl",
+  "full_name": "tomash/spree_dotpay_pl",
+  "owner": "tomash",
+  "private": false,
+  "html_url": "https://github.com/tomash/spree_dotpay_pl",
+  "description": "Dotpay.pl payments support for Spree",
+  "fork": false,
+  "url": "https://api.github.com/repos/tomash/spree_dotpay_pl",
+  "languages_url": "https://api.github.com/repos/tomash/spree_dotpay_pl/languages",
+  "pulls_url": "https://api.github.com/repos/tomash/spree_dotpay_pl/pulls{/number}",
+  "created_at": "2014-12-12T14:11:51Z",
+  "updated_at": "2015-06-15T11:38:30Z",
+  "pushed_at": "2014-12-12T14:52:10Z",
+  "homepage": null,
+  "size": 108,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "tomash": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 6793,
+      "color": "#701516"
+    },
+    "CSS": {
+      "bytes": 70,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 58,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T16:53:05.679Z"
+}

@@ -1,0 +1,161 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "WALA",
+  "full_name": "wala/WALA",
+  "owner": "wala",
+  "private": false,
+  "html_url": "https://github.com/wala/WALA",
+  "description": "T.J. Watson Libraries for Analysis",
+  "fork": false,
+  "url": "https://api.github.com/repos/wala/WALA",
+  "languages_url": "https://api.github.com/repos/wala/WALA/languages",
+  "pulls_url": "https://api.github.com/repos/wala/WALA/pulls{/number}",
+  "created_at": "2012-04-05T18:57:03Z",
+  "updated_at": "2018-09-12T19:56:00Z",
+  "pushed_at": "2018-09-12T19:55:58Z",
+  "homepage": "http://wala.sourceforge.net",
+  "size": 50892,
+  "stargazers_count": 196,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "epl-2.0",
+    "name": "Eclipse Public License 2.0",
+    "spdx_id": "EPL-2.0",
+    "url": "https://api.github.com/licenses/epl-2.0",
+    "node_id": "MDc6TGljZW5zZTMy"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "wala",
+    "id": 1616493,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2MTY0OTM=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/1616493?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/wala",
+    "html_url": "https://github.com/wala",
+    "followers_url": "https://api.github.com/users/wala/followers",
+    "following_url": "https://api.github.com/users/wala/following{/other_user}",
+    "gists_url": "https://api.github.com/users/wala/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/wala/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/wala/subscriptions",
+    "organizations_url": "https://api.github.com/users/wala/orgs",
+    "repos_url": "https://api.github.com/users/wala/repos",
+    "events_url": "https://api.github.com/users/wala/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/wala/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "bryantam": 1,
+    "Leeleo3x": 1,
+    "caiusb": 1,
+    "balliet-gt": 1,
+    "d2an3": 1,
+    "lsubel": 1,
+    "collinw": 1,
+    "karimhamdanali": 2,
+    "aaandrewww": 3,
+    "ksrinivs64": 3,
+    "vazexqi": 3,
+    "dperelman": 3,
+    "sblackshear": 4,
+    "sewe": 5,
+    "khatchad": 7,
+    "codetrails": 9,
+    "michaelheilmann": 11,
+    "mhecker": 13,
+    "cos": 13,
+    "StephanGocht": 30,
+    "milnet2": 68,
+    "jgf": 98,
+    "mohrm": 109,
+    "liblit": 673,
+    "msridhar": 944,
+    "juliandolby": 1268,
+    "sjfink": 2013
+  },
+  "pulls_authors": [
+    "SunghoLee",
+    "bryantam",
+    "liblit",
+    "cotsog",
+    "subarnob",
+    "Leeleo3x",
+    "msridhar",
+    "pierlauro",
+    "khatchad",
+    "karimhamdanali",
+    "caiusb",
+    "balliet-gt",
+    "d2an3",
+    "mohrm",
+    "mhecker",
+    "Pfarrer",
+    "mherzberg",
+    "sewe",
+    "StephanGocht",
+    "lsubel",
+    "collinw",
+    "cos",
+    "aaandrewww",
+    "wondee",
+    "sblackshear",
+    "michaelheilmann",
+    "vazexqi",
+    "dperelman",
+    "sifislag"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 10282119,
+      "color": "#b07219"
+    },
+    "JavaScript": {
+      "bytes": 467223,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 55703,
+      "color": "#e34c26"
+    },
+    "C++": {
+      "bytes": 43581,
+      "color": "#f34b7d"
+    },
+    "Shell": {
+      "bytes": 4521,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 2931,
+      "color": "#427819"
+    },
+    "Python": {
+      "bytes": 2089,
+      "color": "#3572A5"
+    },
+    "Groovy": {
+      "bytes": 1847,
+      "color": "#e69f56"
+    },
+    "OCaml": {
+      "bytes": 961,
+      "color": "#3be133"
+    },
+    "Scheme": {
+      "bytes": 192,
+      "color": "#1e4aec"
+    },
+    "Emacs Lisp": {
+      "bytes": 134,
+      "color": "#c065db"
+    },
+    "C": {
+      "bytes": 128,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T23:48:39.217Z"
+}

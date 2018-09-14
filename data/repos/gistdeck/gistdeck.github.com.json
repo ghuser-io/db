@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gistdeck.github.com",
+  "full_name": "gistdeck/gistdeck.github.com",
+  "owner": "gistdeck",
+  "private": false,
+  "html_url": "https://github.com/gistdeck/gistdeck.github.com",
+  "description": "https://gistdeck.github.com",
+  "fork": false,
+  "url": "https://api.github.com/repos/gistdeck/gistdeck.github.com",
+  "languages_url": "https://api.github.com/repos/gistdeck/gistdeck.github.com/languages",
+  "pulls_url": "https://api.github.com/repos/gistdeck/gistdeck.github.com/pulls{/number}",
+  "created_at": "2014-11-27T06:39:04Z",
+  "updated_at": "2018-08-09T19:31:46Z",
+  "pushed_at": "2018-07-27T13:11:43Z",
+  "homepage": null,
+  "size": 30,
+  "stargazers_count": 41,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "gistdeck",
+    "id": 9942942,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjk5NDI5NDI=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/9942942?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/gistdeck",
+    "html_url": "https://github.com/gistdeck",
+    "followers_url": "https://api.github.com/users/gistdeck/followers",
+    "following_url": "https://api.github.com/users/gistdeck/following{/other_user}",
+    "gists_url": "https://api.github.com/users/gistdeck/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/gistdeck/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/gistdeck/subscriptions",
+    "organizations_url": "https://api.github.com/users/gistdeck/orgs",
+    "repos_url": "https://api.github.com/users/gistdeck/repos",
+    "events_url": "https://api.github.com/users/gistdeck/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/gistdeck/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "vierbergenlars": 1,
+    "jcouyang": 22
+  },
+  "pulls_authors": [
+    "vierbergenlars"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 12559,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T17:16:19.418Z"
+}

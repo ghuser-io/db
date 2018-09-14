@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "FirefoxDiscordPresence",
+  "full_name": "BenTearzz/FirefoxDiscordPresence",
+  "owner": "BenTearzz",
+  "private": false,
+  "html_url": "https://github.com/BenTearzz/FirefoxDiscordPresence",
+  "description": "Show currently open websites in Discord using Rich Presence",
+  "fork": false,
+  "url": "https://api.github.com/repos/BenTearzz/FirefoxDiscordPresence",
+  "languages_url": "https://api.github.com/repos/BenTearzz/FirefoxDiscordPresence/languages",
+  "pulls_url": "https://api.github.com/repos/BenTearzz/FirefoxDiscordPresence/pulls{/number}",
+  "created_at": "2018-07-30T15:18:48Z",
+  "updated_at": "2018-08-18T12:00:01Z",
+  "pushed_at": "2018-07-31T13:53:43Z",
+  "homepage": "",
+  "size": 23,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "BenTearzz": 14
+  },
+  "pulls_authors": [
+    "fossabot"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 7601,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-18T20:05:52.543Z"
+}

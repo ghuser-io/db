@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "intermine-apps-c",
+  "full_name": "intermine/intermine-apps-c",
+  "owner": "intermine",
+  "private": false,
+  "html_url": "https://github.com/intermine/intermine-apps-c",
+  "description": "InterMine apps built using Bower and Grunt",
+  "fork": false,
+  "url": "https://api.github.com/repos/intermine/intermine-apps-c",
+  "languages_url": "https://api.github.com/repos/intermine/intermine-apps-c/languages",
+  "pulls_url": "https://api.github.com/repos/intermine/intermine-apps-c/pulls{/number}",
+  "created_at": "2013-08-02T15:21:29Z",
+  "updated_at": "2015-02-26T15:57:54Z",
+  "pushed_at": "2015-10-22T09:31:14Z",
+  "homepage": "http://intermine-apps-c.labs.intermine.org/",
+  "size": 97475,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "intermine",
+    "id": 179399,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3OTM5OQ==",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/179399?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/intermine",
+    "html_url": "https://github.com/intermine",
+    "followers_url": "https://api.github.com/users/intermine/followers",
+    "following_url": "https://api.github.com/users/intermine/following{/other_user}",
+    "gists_url": "https://api.github.com/users/intermine/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/intermine/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/intermine/subscriptions",
+    "organizations_url": "https://api.github.com/users/intermine/orgs",
+    "repos_url": "https://api.github.com/users/intermine/repos",
+    "events_url": "https://api.github.com/users/intermine/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/intermine/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "alexkalderimis": 3,
+    "yochannah": 4,
+    "joshkh": 35,
+    "radekstepan": 463
+  },
+  "pulls_authors": [
+    "yochannah",
+    "radekstepan"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 9376583,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 1434126,
+      "color": "#563d7c"
+    },
+    "CoffeeScript": {
+      "bytes": 201460,
+      "color": "#244776"
+    },
+    "HTML": {
+      "bytes": 43588,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T13:50:56.952Z"
+}

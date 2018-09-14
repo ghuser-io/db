@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "metaphone",
+  "full_name": "vividvilla/metaphone",
+  "owner": "vividvilla",
+  "private": false,
+  "html_url": "https://github.com/vividvilla/metaphone",
+  "description": "Metaphone and double metaphone implemetation in Go",
+  "fork": true,
+  "url": "https://api.github.com/repos/vividvilla/metaphone",
+  "languages_url": "https://api.github.com/repos/vividvilla/metaphone/languages",
+  "pulls_url": "https://api.github.com/repos/vividvilla/metaphone/pulls{/number}",
+  "created_at": "2017-01-18T18:42:09Z",
+  "updated_at": "2017-01-19T10:54:15Z",
+  "pushed_at": "2017-01-18T20:13:43Z",
+  "homepage": "",
+  "size": 552,
+  "stargazers_count": 2,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "vividvilla": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 32012,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:19.156Z"
+}

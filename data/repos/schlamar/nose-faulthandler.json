@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nose-faulthandler",
+  "full_name": "schlamar/nose-faulthandler",
+  "owner": "schlamar",
+  "private": false,
+  "html_url": "https://github.com/schlamar/nose-faulthandler",
+  "description": "Nose plugin. Activates faulthandler module for test runs.",
+  "fork": false,
+  "url": "https://api.github.com/repos/schlamar/nose-faulthandler",
+  "languages_url": "https://api.github.com/repos/schlamar/nose-faulthandler/languages",
+  "pulls_url": "https://api.github.com/repos/schlamar/nose-faulthandler/pulls{/number}",
+  "created_at": "2013-06-10T14:06:01Z",
+  "updated_at": "2017-02-15T18:39:34Z",
+  "pushed_at": "2017-02-16T01:39:36Z",
+  "homepage": null,
+  "size": 3,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "pajaco": 1,
+    "schlamar": 2
+  },
+  "pulls_authors": [
+    "pajaco",
+    "jayvdb"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 2378,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

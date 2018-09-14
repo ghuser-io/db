@@ -1,0 +1,76 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "opera-zeroclickinfo",
+  "full_name": "duckduckgo/opera-zeroclickinfo",
+  "owner": "duckduckgo",
+  "private": false,
+  "html_url": "https://github.com/duckduckgo/opera-zeroclickinfo",
+  "description": "ZeroClickInfo for Opera",
+  "fork": false,
+  "url": "https://api.github.com/repos/duckduckgo/opera-zeroclickinfo",
+  "languages_url": "https://api.github.com/repos/duckduckgo/opera-zeroclickinfo/languages",
+  "pulls_url": "https://api.github.com/repos/duckduckgo/opera-zeroclickinfo/pulls{/number}",
+  "created_at": "2012-01-20T23:10:49Z",
+  "updated_at": "2018-05-19T08:32:17Z",
+  "pushed_at": "2017-08-22T17:56:57Z",
+  "homepage": "",
+  "size": 4291,
+  "stargazers_count": 15,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "duckduckgo",
+    "id": 342708,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM0MjcwOA==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/342708?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/duckduckgo",
+    "html_url": "https://github.com/duckduckgo",
+    "followers_url": "https://api.github.com/users/duckduckgo/followers",
+    "following_url": "https://api.github.com/users/duckduckgo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/duckduckgo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/duckduckgo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/duckduckgo/subscriptions",
+    "organizations_url": "https://api.github.com/users/duckduckgo/orgs",
+    "repos_url": "https://api.github.com/users/duckduckgo/repos",
+    "events_url": "https://api.github.com/users/duckduckgo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/duckduckgo/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mrshu": 93
+  },
+  "pulls_authors": [
+    "TiagoDanin",
+    "mrshu"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 54345,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 19223,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 11515,
+      "color": "#563d7c"
+    },
+    "Makefile": {
+      "bytes": 956,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-08-12T17:48:20.581Z"
+}

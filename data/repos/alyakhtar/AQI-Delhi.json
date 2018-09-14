@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "AQI-Delhi",
+  "full_name": "alyakhtar/AQI-Delhi",
+  "owner": "alyakhtar",
+  "private": false,
+  "html_url": "https://github.com/alyakhtar/AQI-Delhi",
+  "description": "Predicting air pollution level in a specific city",
+  "fork": false,
+  "url": "https://api.github.com/repos/alyakhtar/AQI-Delhi",
+  "languages_url": "https://api.github.com/repos/alyakhtar/AQI-Delhi/languages",
+  "pulls_url": "https://api.github.com/repos/alyakhtar/AQI-Delhi/pulls{/number}",
+  "created_at": "2016-02-01T13:05:31Z",
+  "updated_at": "2018-08-12T17:38:57Z",
+  "pushed_at": "2016-05-19T17:24:47Z",
+  "homepage": null,
+  "size": 3009,
+  "stargazers_count": 7,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "iCHAIT": 29,
+    "alyakhtar": 36
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 47185,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-03T17:15:06.786Z"
+}

@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "star-wars-battle-pod",
+  "full_name": "moul/star-wars-battle-pod",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/star-wars-battle-pod",
+  "description": "Star Wars Battle Pod @ La Maison (Scaleway)",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/star-wars-battle-pod",
+  "languages_url": "https://api.github.com/repos/moul/star-wars-battle-pod/languages",
+  "pulls_url": "https://api.github.com/repos/moul/star-wars-battle-pod/pulls{/number}",
+  "created_at": "2017-12-08T12:38:29Z",
+  "updated_at": "2018-01-04T14:34:17Z",
+  "pushed_at": "2017-12-08T19:34:59Z",
+  "homepage": "https://careers.scaleway.com/la-maison",
+  "size": 2,
+  "stargazers_count": 2,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 3
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-05T13:06:44.499Z"
+}

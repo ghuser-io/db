@@ -1,0 +1,113 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "minton/Spot": {
+      "full_name": "minton/Spot",
+      "name": "Spot",
+      "stargazers_count": 75,
+      "popularity": 2.8698572438837533,
+      "percentage": 61.53846153846154,
+      "maturity": 2.710153827630827,
+      "total_commits_count": 91,
+      "activity": 1.1363235260633573,
+      "total_score": 38.1250608640463,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "minton/binda": {
+      "full_name": "minton/binda",
+      "name": "binda",
+      "stargazers_count": 8,
+      "popularity": 1.8512968868523627,
+      "percentage": 59.375,
+      "maturity": 2.3837461708665604,
+      "total_commits_count": 64,
+      "activity": 1.0394516537235505,
+      "total_score": 25.650532501405433,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "minton/DataButler": {
+      "full_name": "minton/DataButler",
+      "name": "DataButler",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 78.57142857142857,
+      "maturity": 0,
+      "total_commits_count": 28,
+      "activity": 0.5720887029838924,
+      "total_score": 0.5720887029838924,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "psake/psake": {
+      "full_name": "psake/psake",
+      "name": "psake",
+      "stargazers_count": 1113,
+      "popularity": 4.046182925887807,
+      "percentage": 0.2597402597402597,
+      "maturity": 3.539680775770477,
+      "total_commits_count": 385,
+      "activity": 5,
+      "total_score": 24.354534687740845,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "minton/hubot-spot": {
+      "full_name": "minton/hubot-spot",
+      "name": "hubot-spot",
+      "stargazers_count": 3,
+      "popularity": 1.3222565221025262,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 7,
+      "activity": 0.46186173274711084,
+      "total_score": 21.61796608638753,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "minton/rhubot": {
+      "full_name": "minton/rhubot",
+      "name": "rhubot",
+      "stargazers_count": 5,
+      "popularity": 1.6128219920330789,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 16,
+      "activity": 0.3520233091406242,
+      "total_score": 26.157175181669885,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "github/hubot-scripts": {
+      "full_name": "github/hubot-scripts",
+      "name": "hubot-scripts",
+      "stargazers_count": 3506,
+      "popularity": 4.544739500376804,
+      "percentage": 0.3391267486222976,
+      "maturity": 4.367055719785081,
+      "total_commits_count": 2359,
+      "activity": 0.9582054137748344,
+      "total_score": 23.526896909388164,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "stympy/faker": {
+      "full_name": "stympy/faker",
+      "name": "faker",
+      "stargazers_count": 6963,
+      "popularity": 4.842779345066016,
+      "percentage": 0.07604562737642585,
+      "maturity": 4.107280428456993,
+      "total_commits_count": 1315,
+      "activity": 5,
+      "total_score": 27.790774277272384,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "psake",
+    "github"
+  ]
+}

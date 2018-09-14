@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "socksjs",
+  "full_name": "M2Ys4U/socksjs",
+  "owner": "M2Ys4U",
+  "private": false,
+  "html_url": "https://github.com/M2Ys4U/socksjs",
+  "description": "A SOCKS (v5) client library for node.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/M2Ys4U/socksjs",
+  "languages_url": "https://api.github.com/repos/M2Ys4U/socksjs/languages",
+  "pulls_url": "https://api.github.com/repos/M2Ys4U/socksjs/pulls{/number}",
+  "created_at": "2013-04-19T18:56:21Z",
+  "updated_at": "2018-06-06T02:51:35Z",
+  "pushed_at": "2014-11-26T17:39:37Z",
+  "homepage": null,
+  "size": 250,
+  "stargazers_count": 7,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "hakt0r": 1,
+    "M2Ys4U": 19
+  },
+  "pulls_authors": [
+    "sidorares",
+    "hakt0r"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 10131,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:35.811Z"
+}

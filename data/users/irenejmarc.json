@@ -1,0 +1,34 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "IrenejMarc",
+  "ghuser_created_at": "2018-09-10T22:16:42.450Z",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/15063546?v=4",
+  "html_url": "https://github.com/IrenejMarc",
+  "organizations_url": "https://api.github.com/users/IrenejMarc/orgs",
+  "repos_url": "https://api.github.com/users/IrenejMarc/repos",
+  "type": "User",
+  "name": "Irenej Marc",
+  "company": "@dlabs ",
+  "blog": "",
+  "location": "Slovenia",
+  "email": null,
+  "bio": null,
+  "public_gists": 1,
+  "created_at": "2015-10-10T11:45:37Z",
+  "updated_at": "2018-09-08T13:38:07Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:14:17.803Z",
+    "repos": [
+      "IrenejMarc/commander",
+      "IrenejMarc/solidity-workshop-3",
+      "IrenejMarc/dpq",
+      "IrenejMarc/derail-test-app",
+      "IrenejMarc/derail",
+      "IrenejMarc/ruby-workshop-chat-shell",
+      "IrenejMarc/mined",
+      "IrenejMarc/tg-admin-bot",
+      "vibe-d/vibe.d"
+    ]
+  }
+}

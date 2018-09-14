@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Awesome-Config",
+  "full_name": "rockneurotiko/Awesome-Config",
+  "owner": "rockneurotiko",
+  "private": false,
+  "html_url": "https://github.com/rockneurotiko/Awesome-Config",
+  "description": "My own awesome configuration :)",
+  "fork": false,
+  "url": "https://api.github.com/repos/rockneurotiko/Awesome-Config",
+  "languages_url": "https://api.github.com/repos/rockneurotiko/Awesome-Config/languages",
+  "pulls_url": "https://api.github.com/repos/rockneurotiko/Awesome-Config/pulls{/number}",
+  "created_at": "2012-02-06T08:58:17Z",
+  "updated_at": "2016-12-17T04:53:53Z",
+  "pushed_at": "2014-02-14T20:07:47Z",
+  "homepage": "",
+  "size": 2189,
+  "stargazers_count": 9,
+  "language": "Lua",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "rockneurotiko": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Lua": {
+      "bytes": 61974,
+      "color": "#000080"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:51.258Z"
+}

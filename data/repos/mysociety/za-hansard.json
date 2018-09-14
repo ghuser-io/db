@@ -1,0 +1,83 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "za-hansard",
+  "full_name": "mysociety/za-hansard",
+  "owner": "mysociety",
+  "private": false,
+  "html_url": "https://github.com/mysociety/za-hansard",
+  "description": "A parser for South African Hansards, as published at  http://www.parliament.gov.za/live/content.php?Category_ID=119",
+  "fork": false,
+  "url": "https://api.github.com/repos/mysociety/za-hansard",
+  "languages_url": "https://api.github.com/repos/mysociety/za-hansard/languages",
+  "pulls_url": "https://api.github.com/repos/mysociety/za-hansard/pulls{/number}",
+  "created_at": "2013-07-01T09:21:17Z",
+  "updated_at": "2018-09-10T15:03:14Z",
+  "pushed_at": "2018-09-10T15:03:12Z",
+  "homepage": null,
+  "size": 4349,
+  "stargazers_count": 2,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "mysociety",
+    "id": 141338,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/141338?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mysociety",
+    "html_url": "https://github.com/mysociety",
+    "followers_url": "https://api.github.com/users/mysociety/followers",
+    "following_url": "https://api.github.com/users/mysociety/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mysociety/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mysociety/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mysociety/subscriptions",
+    "organizations_url": "https://api.github.com/users/mysociety/orgs",
+    "repos_url": "https://api.github.com/users/mysociety/repos",
+    "events_url": "https://api.github.com/users/mysociety/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mysociety/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jacksonj04": 1,
+    "struan": 1,
+    "longhotsummer": 2,
+    "chrismytton": 4,
+    "dracos": 5,
+    "geoffkilpin": 12,
+    "evdb": 90,
+    "mhl": 94,
+    "osfameron": 111
+  },
+  "pulls_authors": [
+    "mhl",
+    "duncanparkes",
+    "longhotsummer",
+    "geoffkilpin",
+    "chrismytton",
+    "dracos",
+    "stevenday",
+    "osfameron",
+    "evdb"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 845276,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 235717,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:46.995Z"
+}

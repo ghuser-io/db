@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "JCBird1012",
+  "ghuser_created_at": "2018-09-11T19:37:45.424Z",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/5911308?v=4",
+  "html_url": "https://github.com/JCBird1012",
+  "organizations_url": "https://api.github.com/users/JCBird1012/orgs",
+  "repos_url": "https://api.github.com/users/JCBird1012/repos",
+  "type": "User",
+  "name": "Jonathan Elias Caicedo",
+  "company": null,
+  "blog": "https://jcaicedo.com",
+  "location": "New Castle, Delaware",
+  "email": "Jonathan@jcaicedo.com",
+  "bio": "I do things with computers sometimes.",
+  "public_gists": 1,
+  "created_at": "2013-11-11T17:22:15Z",
+  "updated_at": "2018-09-03T15:09:20Z",
+  "organizations": [
+    "wtg",
+    "thepoly",
+    "hack-rpi",
+    "codingandcommunity"
+  ],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:14:37.711Z",
+    "repos": [
+      "JCBird1012/jcaicedo.com",
+      "kochman/hotshots",
+      "rachelroks9/rpi-printers",
+      "JCBird1012/burrito",
+      "wtg/shuttletracker",
+      "bobmayuze/Borilliant_Sandwich",
+      "hack-rpi/hackrpi.com",
+      "JCBird1012/Dockerfiles",
+      "wtg/site",
+      "JCBird1012/Charmfind",
+      "wtg/shuttle-signups",
+      "LucienBrule/unknowntome",
+      "hack-rpi/Status-Board",
+      "thepoly/cryptoquote",
+      "JCBird1012/FoodStatus",
+      "LucienBrule/local_service_framework",
+      "garretpremo/summarytospeech",
+      "LucienBrule/Story-Fall2016",
+      "mskmoorthy/Fall2016PullReq",
+      "rcos/CSCI2961-01-Fall2016",
+      "Nakiami/MultithreadedSimpleHTTPServer",
+      "JCBird1012/BrickBreaker",
+      "JCBird1012/Compile"
+    ]
+  }
+}

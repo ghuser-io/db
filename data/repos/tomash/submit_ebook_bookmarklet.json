@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "submit_ebook_bookmarklet",
+  "full_name": "tomash/submit_ebook_bookmarklet",
+  "owner": "tomash",
+  "private": false,
+  "html_url": "https://github.com/tomash/submit_ebook_bookmarklet",
+  "description": "bookmarklet for submitting bought books (shelf) to upolujebooka.pl",
+  "fork": false,
+  "url": "https://api.github.com/repos/tomash/submit_ebook_bookmarklet",
+  "languages_url": "https://api.github.com/repos/tomash/submit_ebook_bookmarklet/languages",
+  "pulls_url": "https://api.github.com/repos/tomash/submit_ebook_bookmarklet/pulls{/number}",
+  "created_at": "2013-10-17T21:05:13Z",
+  "updated_at": "2013-10-17T21:06:54Z",
+  "pushed_at": "2013-10-17T21:06:49Z",
+  "homepage": null,
+  "size": 100,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "tomash": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2529,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T16:53:06.913Z"
+}

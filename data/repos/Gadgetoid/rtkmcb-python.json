@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rtkmcb-python",
+  "full_name": "Gadgetoid/rtkmcb-python",
+  "owner": "Gadgetoid",
+  "private": false,
+  "html_url": "https://github.com/Gadgetoid/rtkmcb-python",
+  "description": "Ryanteck Motor Controller Board Python Library",
+  "fork": false,
+  "url": "https://api.github.com/repos/Gadgetoid/rtkmcb-python",
+  "languages_url": "https://api.github.com/repos/Gadgetoid/rtkmcb-python/languages",
+  "pulls_url": "https://api.github.com/repos/Gadgetoid/rtkmcb-python/pulls{/number}",
+  "created_at": "2014-05-11T21:45:02Z",
+  "updated_at": "2017-12-29T07:49:04Z",
+  "pushed_at": "2014-05-12T13:41:37Z",
+  "homepage": null,
+  "size": 140,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Gadgetoid": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 4382,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:14.760Z"
+}

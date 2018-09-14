@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nodescale",
+  "full_name": "rjrodger/nodescale",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/nodescale",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/rjrodger/nodescale",
+  "languages_url": "https://api.github.com/repos/rjrodger/nodescale/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/nodescale/pulls{/number}",
+  "created_at": "2012-02-27T13:50:34Z",
+  "updated_at": "2013-11-20T21:00:40Z",
+  "pushed_at": "2013-07-31T15:49:06Z",
+  "homepage": "http://www.nodescale.com",
+  "size": 104,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "rjrodger": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 7627,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 86,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:39.431Z"
+}

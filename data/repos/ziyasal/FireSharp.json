@@ -1,0 +1,90 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "FireSharp",
+  "full_name": "ziyasal/FireSharp",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/FireSharp",
+  "description": "An asynchronous .Net client library for Firebase",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal/FireSharp",
+  "languages_url": "https://api.github.com/repos/ziyasal/FireSharp/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/FireSharp/pulls{/number}",
+  "created_at": "2013-11-13T17:20:26Z",
+  "updated_at": "2018-08-30T02:52:12Z",
+  "pushed_at": "2018-08-05T19:57:21Z",
+  "homepage": "",
+  "size": 1201,
+  "stargazers_count": 480,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Ishmael-Moreno": 1,
+    "LamboJ": 1,
+    "shibuya246": 1,
+    "AwsomeWyatt": 1,
+    "jazpearson": 1,
+    "kernel32uiuc": 1,
+    "makzee": 1,
+    "aupp": 1,
+    "csotomon": 1,
+    "iurmsepol": 1,
+    "DavidRieman": 1,
+    "ernestopedrosa": 2,
+    "kevindfs": 2,
+    "tillerstarredwards": 2,
+    "AButler": 3,
+    "pjhuck": 6,
+    "brunohbrito": 7,
+    "moonpyk": 15,
+    "ziyasal": 116
+  },
+  "pulls_authors": [
+    "Ishmael-Moreno",
+    "LamboJ",
+    "shibuya246",
+    "brunohbrito",
+    "gizmohd",
+    "AwsomeWyatt",
+    "khan007",
+    "AButler",
+    "makzee",
+    "aupp",
+    "kernel32uiuc",
+    "jazpearson",
+    "iurmsepol",
+    "ghost",
+    "csotomon",
+    "moonpyk",
+    "ernestopedrosa",
+    "kevindfs",
+    "hanabi1224",
+    "DavidRieman",
+    "tillerstarredwards",
+    "pjhuck"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 81206,
+      "color": "#178600"
+    },
+    "HTML": {
+      "bytes": 33082,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 1352,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:02.898Z"
+}

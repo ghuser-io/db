@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "CssDN",
+  "full_name": "deletescape/CssDN",
+  "owner": "deletescape",
+  "private": false,
+  "html_url": "https://github.com/deletescape/CssDN",
+  "description": "Simple js/css CDN with automated daily builds",
+  "fork": false,
+  "url": "https://api.github.com/repos/deletescape/CssDN",
+  "languages_url": "https://api.github.com/repos/deletescape/CssDN/languages",
+  "pulls_url": "https://api.github.com/repos/deletescape/CssDN/pulls{/number}",
+  "created_at": "2017-01-03T10:19:09Z",
+  "updated_at": "2018-05-17T07:12:10Z",
+  "pushed_at": "2017-05-06T20:19:45Z",
+  "homepage": "https://deletescape-media.github.io/CssDN",
+  "size": 1019,
+  "stargazers_count": 1,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "deletescape": 78
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 6223,
+      "color": "#89e051"
+    },
+    "JavaScript": {
+      "bytes": 537,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-20T12:16:22.809Z"
+}

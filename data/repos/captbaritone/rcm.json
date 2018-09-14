@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rcm",
+  "full_name": "captbaritone/rcm",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/rcm",
+  "description": "rc file (dotfile) management",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/rcm",
+  "languages_url": "https://api.github.com/repos/captbaritone/rcm/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/rcm/pulls{/number}",
+  "created_at": "2014-02-06T21:50:00Z",
+  "updated_at": "2018-07-29T22:12:48Z",
+  "pushed_at": "2014-02-06T21:50:49Z",
+  "homepage": null,
+  "size": 394,
+  "stargazers_count": 1,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "robertopedroso": 1,
+    "pablox-cl": 1,
+    "croaky": 1,
+    "georgebrock": 2,
+    "pbrisbin": 4,
+    "mike-burns": 67
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 14293,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:53.552Z"
+}

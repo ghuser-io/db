@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hardware",
+  "full_name": "BusPirate/hardware",
+  "owner": "BusPirate",
+  "private": false,
+  "html_url": "https://github.com/BusPirate/hardware",
+  "description": "Hardware and support board schematics",
+  "fork": false,
+  "url": "https://api.github.com/repos/BusPirate/hardware",
+  "languages_url": "https://api.github.com/repos/BusPirate/hardware/languages",
+  "pulls_url": "https://api.github.com/repos/BusPirate/hardware/pulls{/number}",
+  "created_at": "2016-11-10T20:29:19Z",
+  "updated_at": "2018-03-24T13:59:26Z",
+  "pushed_at": "2016-11-10T20:29:47Z",
+  "homepage": null,
+  "size": 12472,
+  "stargazers_count": 6,
+  "language": "Eagle",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "BusPirate",
+    "id": 18196766,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4MTk2NzY2",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/18196766?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/BusPirate",
+    "html_url": "https://github.com/BusPirate",
+    "followers_url": "https://api.github.com/users/BusPirate/followers",
+    "following_url": "https://api.github.com/users/BusPirate/following{/other_user}",
+    "gists_url": "https://api.github.com/users/BusPirate/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/BusPirate/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/BusPirate/subscriptions",
+    "organizations_url": "https://api.github.com/users/BusPirate/orgs",
+    "repos_url": "https://api.github.com/users/BusPirate/repos",
+    "events_url": "https://api.github.com/users/BusPirate/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/BusPirate/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "agatti": 3,
+    "filipdulic": 7,
+    "tayken": 7,
+    "vimark": 22
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Eagle": {
+      "bytes": 2699320,
+      "color": "#ccc"
+    },
+    "HTML": {
+      "bytes": 19109,
+      "color": "#e34c26"
+    },
+    "Batchfile": {
+      "bytes": 67,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-11T15:09:53.276Z"
+}

@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "photon",
+  "full_name": "amitness/photon",
+  "owner": "amitness",
+  "private": false,
+  "html_url": "https://github.com/amitness/photon",
+  "description": "Light as transmission medium between smartphones",
+  "fork": false,
+  "url": "https://api.github.com/repos/amitness/photon",
+  "languages_url": "https://api.github.com/repos/amitness/photon/languages",
+  "pulls_url": "https://api.github.com/repos/amitness/photon/pulls{/number}",
+  "created_at": "2016-11-29T11:40:57Z",
+  "updated_at": "2018-06-25T10:01:20Z",
+  "pushed_at": "2017-11-05T04:46:40Z",
+  "homepage": "",
+  "size": 267,
+  "stargazers_count": 7,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "deAshish": 1,
+    "koiralakiran1": 14,
+    "amitness": 85
+  },
+  "pulls_authors": [
+    "amitness",
+    "koiralakiran1"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 23991,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:24.871Z"
+}

@@ -1,0 +1,68 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dataStructure-Algorithms",
+  "full_name": "sr6033/dataStructure-Algorithms",
+  "owner": "sr6033",
+  "private": false,
+  "html_url": "https://github.com/sr6033/dataStructure-Algorithms",
+  "description": "Implementations of various data structures and algorithms using C/C++, Python & Java.",
+  "fork": false,
+  "url": "https://api.github.com/repos/sr6033/dataStructure-Algorithms",
+  "languages_url": "https://api.github.com/repos/sr6033/dataStructure-Algorithms/languages",
+  "created_at": "2017-09-09T06:36:40Z",
+  "updated_at": "2018-07-25T07:18:38Z",
+  "pushed_at": "2018-01-19T09:07:58Z",
+  "homepage": "https://sr6033.github.io/dataStructure-Algorithms/",
+  "size": 873,
+  "stargazers_count": 5,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "namanjain1812": 1,
+    "Rupeshiya": 2,
+    "Swaraj1998": 3,
+    "jp8042": 5,
+    "sibasish14": 6,
+    "sr6033": 7,
+    "debck": 29
+  },
+  "languages": {
+    "C++": {
+      "bytes": 39916,
+      "color": "#f34b7d"
+    },
+    "Java": {
+      "bytes": 31975,
+      "color": "#b07219"
+    },
+    "Python": {
+      "bytes": 2396,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 1659,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/sr6033/dataStructure-Algorithms/pulls{/number}",
+  "pulls_authors": [
+    "Rupeshiya",
+    "namanjain1812",
+    "debck",
+    "Swaraj1998",
+    "sibasish14",
+    "sr6033",
+    "b117020",
+    "jp8042"
+  ]
+}

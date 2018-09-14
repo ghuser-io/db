@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "juju-cards",
+  "full_name": "CanonicalLtd/juju-cards",
+  "owner": "CanonicalLtd",
+  "private": false,
+  "html_url": "https://github.com/CanonicalLtd/juju-cards",
+  "description": "Code base for for juju embedded card system for charm, bundle and profiles.",
+  "fork": false,
+  "url": "https://api.github.com/repos/CanonicalLtd/juju-cards",
+  "languages_url": "https://api.github.com/repos/CanonicalLtd/juju-cards/languages",
+  "pulls_url": "https://api.github.com/repos/CanonicalLtd/juju-cards/pulls{/number}",
+  "created_at": "2015-11-03T16:29:30Z",
+  "updated_at": "2018-05-01T21:09:41Z",
+  "pushed_at": "2018-05-01T21:14:25Z",
+  "homepage": "",
+  "size": 300,
+  "stargazers_count": 5,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "CanonicalLtd",
+    "id": 7490288,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc0OTAyODg=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/7490288?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/CanonicalLtd",
+    "html_url": "https://github.com/CanonicalLtd",
+    "followers_url": "https://api.github.com/users/CanonicalLtd/followers",
+    "following_url": "https://api.github.com/users/CanonicalLtd/following{/other_user}",
+    "gists_url": "https://api.github.com/users/CanonicalLtd/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/CanonicalLtd/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/CanonicalLtd/subscriptions",
+    "organizations_url": "https://api.github.com/users/CanonicalLtd/orgs",
+    "repos_url": "https://api.github.com/users/CanonicalLtd/repos",
+    "events_url": "https://api.github.com/users/CanonicalLtd/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/CanonicalLtd/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mitechie": 1,
+    "sparkiegeek": 1,
+    "brenopolanski": 1,
+    "luke-0": 4,
+    "marcoceppi": 4,
+    "anthonydillon": 38
+  },
+  "pulls_authors": [
+    "anthonydillon",
+    "mitechie",
+    "Lukewh",
+    "sparkiegeek",
+    "brenopolanski",
+    "marcoceppi"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 16780,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 14938,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1645,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T17:15:38.880Z"
+}

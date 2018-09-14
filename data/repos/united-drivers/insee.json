@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "insee",
+  "full_name": "united-drivers/insee",
+  "owner": "united-drivers",
+  "private": false,
+  "html_url": "https://github.com/united-drivers/insee",
+  "description": ":necktie: INSEE codes helpers (FR only)",
+  "fork": false,
+  "url": "https://api.github.com/repos/united-drivers/insee",
+  "languages_url": "https://api.github.com/repos/united-drivers/insee/languages",
+  "pulls_url": "https://api.github.com/repos/united-drivers/insee/pulls{/number}",
+  "created_at": "2018-03-28T12:03:40Z",
+  "updated_at": "2018-06-22T22:01:28Z",
+  "pushed_at": "2018-03-29T15:43:28Z",
+  "homepage": null,
+  "size": 5,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "united-drivers",
+    "id": 40503471,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQwNTAzNDcx",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/40503471?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/united-drivers",
+    "html_url": "https://github.com/united-drivers",
+    "followers_url": "https://api.github.com/users/united-drivers/followers",
+    "following_url": "https://api.github.com/users/united-drivers/following{/other_user}",
+    "gists_url": "https://api.github.com/users/united-drivers/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/united-drivers/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/united-drivers/subscriptions",
+    "organizations_url": "https://api.github.com/users/united-drivers/orgs",
+    "repos_url": "https://api.github.com/users/united-drivers/repos",
+    "events_url": "https://api.github.com/users/united-drivers/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/united-drivers/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "moul": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 3856,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:42.860Z"
+}

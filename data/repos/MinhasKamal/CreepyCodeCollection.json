@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "CreepyCodeCollection",
+  "full_name": "MinhasKamal/CreepyCodeCollection",
+  "owner": "MinhasKamal",
+  "private": false,
+  "html_url": "https://github.com/MinhasKamal/CreepyCodeCollection",
+  "description": "A Nonsense Collection of Disgusting Codes (quine-polyglot-code-golf-obfuscated-signature-creepy-codes-mandelbrot-esoteric-language-esoteric-programming-strange-golfing)",
+  "fork": false,
+  "url": "https://api.github.com/repos/MinhasKamal/CreepyCodeCollection",
+  "languages_url": "https://api.github.com/repos/MinhasKamal/CreepyCodeCollection/languages",
+  "pulls_url": "https://api.github.com/repos/MinhasKamal/CreepyCodeCollection/pulls{/number}",
+  "created_at": "2016-08-28T08:43:19Z",
+  "updated_at": "2018-09-12T20:02:16Z",
+  "pushed_at": "2017-12-11T09:47:32Z",
+  "homepage": "https://minhaskamal.github.io/CreepyCodeCollection/",
+  "size": 89,
+  "stargazers_count": 1931,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "TheTrio": 1,
+    "moul": 1,
+    "aemkei": 1,
+    "Grimy": 1,
+    "MinhasKamal": 153
+  },
+  "pulls_authors": [
+    "vaibhavsingh1993",
+    "TheTrio",
+    "moul",
+    "langthom",
+    "tvanro",
+    "aemkei",
+    "xxc3nsoredxx",
+    "Grimy"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 9518,
+      "color": "#555555"
+    },
+    "Java": {
+      "bytes": 6007,
+      "color": "#b07219"
+    },
+    "Ruby": {
+      "bytes": 3241,
+      "color": "#701516"
+    },
+    "Perl 6": {
+      "bytes": 1580,
+      "color": "#0000fb"
+    },
+    "C++": {
+      "bytes": 1522,
+      "color": "#f34b7d"
+    },
+    "Python": {
+      "bytes": 1188,
+      "color": "#3572A5"
+    },
+    "Perl": {
+      "bytes": 1144,
+      "color": "#0298c3"
+    },
+    "HTML": {
+      "bytes": 1102,
+      "color": "#e34c26"
+    },
+    "Brainfuck": {
+      "bytes": 433,
+      "color": "#2F2530"
+    }
+  },
+  "fetched_at": "2018-09-13T00:00:09.416Z"
+}

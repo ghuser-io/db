@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SublimeEntypoCompletions",
+  "full_name": "jbrooksuk/SublimeEntypoCompletions",
+  "owner": "jbrooksuk",
+  "private": false,
+  "html_url": "https://github.com/jbrooksuk/SublimeEntypoCompletions",
+  "description": "Completions file for Entypo font icon",
+  "fork": false,
+  "url": "https://api.github.com/repos/jbrooksuk/SublimeEntypoCompletions",
+  "languages_url": "https://api.github.com/repos/jbrooksuk/SublimeEntypoCompletions/languages",
+  "pulls_url": "https://api.github.com/repos/jbrooksuk/SublimeEntypoCompletions/pulls{/number}",
+  "created_at": "2013-08-24T12:36:38Z",
+  "updated_at": "2013-10-21T03:44:28Z",
+  "pushed_at": "2013-08-27T08:50:10Z",
+  "homepage": null,
+  "size": 108,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jbrooksuk": 3
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T07:35:02.025Z"
+}

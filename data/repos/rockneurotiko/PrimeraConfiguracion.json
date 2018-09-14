@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PrimeraConfiguracion",
+  "full_name": "rockneurotiko/PrimeraConfiguracion",
+  "owner": "rockneurotiko",
+  "private": false,
+  "html_url": "https://github.com/rockneurotiko/PrimeraConfiguracion",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/rockneurotiko/PrimeraConfiguracion",
+  "languages_url": "https://api.github.com/repos/rockneurotiko/PrimeraConfiguracion/languages",
+  "pulls_url": "https://api.github.com/repos/rockneurotiko/PrimeraConfiguracion/pulls{/number}",
+  "created_at": "2017-01-03T11:40:48Z",
+  "updated_at": "2017-05-10T13:16:54Z",
+  "pushed_at": "2017-01-31T17:37:00Z",
+  "homepage": null,
+  "size": 1562,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ignaciobll": 4,
+    "rockneurotiko": 10
+  },
+  "pulls_authors": [
+    "ignaciobll"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 247180,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 191809,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 93187,
+      "color": "#e34c26"
+    },
+    "Emacs Lisp": {
+      "bytes": 21876,
+      "color": "#c065db"
+    },
+    "Shell": {
+      "bytes": 235,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:43.010Z"
+}

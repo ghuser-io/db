@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "proxycache",
+  "full_name": "schollz/proxycache",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/proxycache",
+  "description": "Setup a reverse proxy to cache all responses",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/proxycache",
+  "languages_url": "https://api.github.com/repos/schollz/proxycache/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/proxycache/pulls{/number}",
+  "created_at": "2017-01-22T15:49:54Z",
+  "updated_at": "2017-04-09T18:39:28Z",
+  "pushed_at": "2017-01-22T16:15:37Z",
+  "homepage": null,
+  "size": 1,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 1836,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:42.118Z"
+}

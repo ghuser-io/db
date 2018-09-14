@@ -1,0 +1,111 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rubygems-infrastructure",
+  "full_name": "rubygems/rubygems-infrastructure",
+  "owner": "rubygems",
+  "private": false,
+  "html_url": "https://github.com/rubygems/rubygems-infrastructure",
+  "description": "The new RubyGems.org infrastructure.",
+  "fork": false,
+  "url": "https://api.github.com/repos/rubygems/rubygems-infrastructure",
+  "languages_url": "https://api.github.com/repos/rubygems/rubygems-infrastructure/languages",
+  "pulls_url": "https://api.github.com/repos/rubygems/rubygems-infrastructure/pulls{/number}",
+  "created_at": "2014-06-03T15:05:43Z",
+  "updated_at": "2018-07-10T11:39:26Z",
+  "pushed_at": "2018-07-10T11:39:24Z",
+  "homepage": "",
+  "size": 142411,
+  "stargazers_count": 40,
+  "language": "Perl",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "rubygems",
+    "id": 208761,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIwODc2MQ==",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/208761?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/rubygems",
+    "html_url": "https://github.com/rubygems",
+    "followers_url": "https://api.github.com/users/rubygems/followers",
+    "following_url": "https://api.github.com/users/rubygems/following{/other_user}",
+    "gists_url": "https://api.github.com/users/rubygems/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/rubygems/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/rubygems/subscriptions",
+    "organizations_url": "https://api.github.com/users/rubygems/orgs",
+    "repos_url": "https://api.github.com/users/rubygems/repos",
+    "events_url": "https://api.github.com/users/rubygems/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/rubygems/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "skottler": 1,
+    "sonalkr132": 1,
+    "Atul9": 1,
+    "rthbound": 1,
+    "indirect": 1,
+    "bai": 1,
+    "kerrizor": 1,
+    "JonathanTron": 1,
+    "arthurnn": 2,
+    "ktheory": 2,
+    "SuriyaaKudoIsc": 2,
+    "mveytsman": 2,
+    "evverx": 5,
+    "evanphx": 6,
+    "andremedeiros": 12,
+    "dwradcliffe": 455
+  },
+  "pulls_authors": [
+    "hsbt",
+    "sonalkr132",
+    "skottler",
+    "arthurnn",
+    "ktheory",
+    "Atul9",
+    "SuriyaaKudoIsc",
+    "rthbound",
+    "nateberkopec",
+    "indirect",
+    "maclover7",
+    "bai",
+    "andremedeiros",
+    "kerrizor",
+    "mveytsman",
+    "evverx",
+    "benkaehneATninefold",
+    "JonathanTron"
+  ],
+  "languages": {
+    "Perl": {
+      "bytes": 388154,
+      "color": "#0298c3"
+    },
+    "HTML": {
+      "bytes": 359775,
+      "color": "#e34c26"
+    },
+    "Ruby": {
+      "bytes": 88665,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 3172,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 1923,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T10:32:17.180Z"
+}

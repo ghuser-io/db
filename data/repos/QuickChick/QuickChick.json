@@ -1,0 +1,104 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "QuickChick",
+  "full_name": "QuickChick/QuickChick",
+  "owner": "QuickChick",
+  "private": false,
+  "html_url": "https://github.com/QuickChick/QuickChick",
+  "description": "Randomized Property-Based Testing Plugin for Coq",
+  "fork": false,
+  "url": "https://api.github.com/repos/QuickChick/QuickChick",
+  "languages_url": "https://api.github.com/repos/QuickChick/QuickChick/languages",
+  "pulls_url": "https://api.github.com/repos/QuickChick/QuickChick/pulls{/number}",
+  "created_at": "2014-04-03T22:36:19Z",
+  "updated_at": "2018-09-08T21:03:32Z",
+  "pushed_at": "2018-08-30T21:35:03Z",
+  "homepage": "",
+  "size": 2397,
+  "stargazers_count": 114,
+  "language": "Coq",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "QuickChick",
+    "id": 8515341,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjg1MTUzNDE=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/8515341?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/QuickChick",
+    "html_url": "https://github.com/QuickChick",
+    "followers_url": "https://api.github.com/users/QuickChick/followers",
+    "following_url": "https://api.github.com/users/QuickChick/following{/other_user}",
+    "gists_url": "https://api.github.com/users/QuickChick/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/QuickChick/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/QuickChick/subscriptions",
+    "organizations_url": "https://api.github.com/users/QuickChick/orgs",
+    "repos_url": "https://api.github.com/users/QuickChick/repos",
+    "events_url": "https://api.github.com/users/QuickChick/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/QuickChick/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "nomeata": 1,
+    "antalsz": 1,
+    "JasonGross": 2,
+    "ejgallego": 3,
+    "nclskh": 3,
+    "lastland": 6,
+    "arthuraa": 30,
+    "Lysxia": 36,
+    "liyishuai": 93,
+    "maximedenes": 102,
+    "bcpierce00": 111,
+    "zoep": 222,
+    "catalin-hritcu": 231,
+    "lemonidas": 396
+  },
+  "pulls_authors": [
+    "liyishuai",
+    "Lysxia",
+    "maximedenes",
+    "JasonGross",
+    "ejgallego",
+    "nomeata",
+    "lemonidas",
+    "lastland",
+    "palmskog"
+  ],
+  "languages": {
+    "Coq": {
+      "bytes": 721574,
+      "color": "#ccc"
+    },
+    "OCaml": {
+      "bytes": 321924,
+      "color": "#3be133"
+    },
+    "Makefile": {
+      "bytes": 10947,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 1243,
+      "color": "#89e051"
+    },
+    "Emacs Lisp": {
+      "bytes": 397,
+      "color": "#c065db"
+    },
+    "Dockerfile": {
+      "bytes": 304,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-09T03:11:27.700Z"
+}

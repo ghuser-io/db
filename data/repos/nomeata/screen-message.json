@@ -1,0 +1,68 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "screen-message",
+  "full_name": "nomeata/screen-message",
+  "owner": "nomeata",
+  "private": false,
+  "html_url": "https://github.com/nomeata/screen-message",
+  "description": "Very simple tool to display some text as large as possible",
+  "fork": false,
+  "url": "https://api.github.com/repos/nomeata/screen-message",
+  "languages_url": "https://api.github.com/repos/nomeata/screen-message/languages",
+  "pulls_url": "https://api.github.com/repos/nomeata/screen-message/pulls{/number}",
+  "created_at": "2017-05-09T11:57:18Z",
+  "updated_at": "2018-07-08T17:03:22Z",
+  "pushed_at": "2018-03-08T13:53:39Z",
+  "homepage": null,
+  "size": 1605,
+  "stargazers_count": 18,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "hartwork": 2,
+    "medicalwei": 2,
+    "Florianjw": 2,
+    "rafl": 2,
+    "chusiang": 4,
+    "lunar-debian": 4,
+    "rhonda": 6,
+    "nomeata": 313
+  },
+  "pulls_authors": [
+    "fleutot"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 17079,
+      "color": "#555555"
+    },
+    "HTML": {
+      "bytes": 9462,
+      "color": "#e34c26"
+    },
+    "Roff": {
+      "bytes": 3940,
+      "color": "#ecdebe"
+    },
+    "Python": {
+      "bytes": 3914,
+      "color": "#3572A5"
+    },
+    "M4": {
+      "bytes": 1902,
+      "color": "#ccc"
+    },
+    "Makefile": {
+      "bytes": 1464,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 138,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:07.787Z"
+}

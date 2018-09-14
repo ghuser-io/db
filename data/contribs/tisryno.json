@@ -1,0 +1,19 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "Cecer1/Bluedot": {
+      "full_name": "Cecer1/Bluedot",
+      "name": "Bluedot",
+      "stargazers_count": 3,
+      "popularity": 1.3222565221025262,
+      "percentage": 15.217391304347826,
+      "maturity": 1.7870377452764827,
+      "total_commits_count": 46,
+      "activity": 0.29825227596007853,
+      "total_score": 10.454865670023448,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

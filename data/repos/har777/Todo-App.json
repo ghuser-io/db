@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Todo-App",
+  "full_name": "har777/Todo-App",
+  "owner": "har777",
+  "private": false,
+  "html_url": "https://github.com/har777/Todo-App",
+  "description": "Made using the MEAN stack.",
+  "fork": false,
+  "url": "https://api.github.com/repos/har777/Todo-App",
+  "languages_url": "https://api.github.com/repos/har777/Todo-App/languages",
+  "pulls_url": "https://api.github.com/repos/har777/Todo-App/pulls{/number}",
+  "created_at": "2013-11-10T07:41:18Z",
+  "updated_at": "2013-11-10T13:19:50Z",
+  "pushed_at": "2013-11-10T08:01:21Z",
+  "homepage": null,
+  "size": 4580,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "har777": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2764,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T22:30:25.633Z"
+}

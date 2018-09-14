@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Hashcat-rules-perl",
+  "full_name": "0xbsec/Hashcat-rules-perl",
+  "owner": "0xbsec",
+  "private": false,
+  "html_url": "https://github.com/0xbsec/Hashcat-rules-perl",
+  "description": "Perl binding for Hashcat rule engine.",
+  "fork": false,
+  "url": "https://api.github.com/repos/0xbsec/Hashcat-rules-perl",
+  "languages_url": "https://api.github.com/repos/0xbsec/Hashcat-rules-perl/languages",
+  "pulls_url": "https://api.github.com/repos/0xbsec/Hashcat-rules-perl/pulls{/number}",
+  "created_at": "2016-07-23T15:14:55Z",
+  "updated_at": "2018-01-28T22:04:23Z",
+  "pushed_at": "2016-07-23T15:29:20Z",
+  "homepage": null,
+  "size": 6468,
+  "stargazers_count": 2,
+  "language": "Perl6",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "0xbsec": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Perl 6": {
+      "bytes": 9993465,
+      "color": "#0000fb"
+    },
+    "Perl": {
+      "bytes": 6826350,
+      "color": "#0298c3"
+    }
+  },
+  "fetched_at": "2018-09-11T17:04:54.610Z"
+}

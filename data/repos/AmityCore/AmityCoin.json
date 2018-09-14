@@ -1,0 +1,88 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "AmityCoin",
+  "full_name": "AmityCore/AmityCoin",
+  "owner": "AmityCore",
+  "private": false,
+  "html_url": "https://github.com/AmityCore/AmityCoin",
+  "description": "Fast, truly private and durable crypto-currency",
+  "fork": false,
+  "url": "https://api.github.com/repos/AmityCore/AmityCoin",
+  "languages_url": "https://api.github.com/repos/AmityCore/AmityCoin/languages",
+  "pulls_url": "https://api.github.com/repos/AmityCore/AmityCoin/pulls{/number}",
+  "created_at": "2018-09-02T22:30:20Z",
+  "updated_at": "2018-09-09T00:10:55Z",
+  "pushed_at": "2018-09-09T00:30:21Z",
+  "homepage": "",
+  "size": 7111,
+  "stargazers_count": 3,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "AmityCore",
+    "id": 42702015,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQyNzAyMDE1",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/42702015?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/AmityCore",
+    "html_url": "https://github.com/AmityCore",
+    "followers_url": "https://api.github.com/users/AmityCore/followers",
+    "following_url": "https://api.github.com/users/AmityCore/following{/other_user}",
+    "gists_url": "https://api.github.com/users/AmityCore/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/AmityCore/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/AmityCore/subscriptions",
+    "organizations_url": "https://api.github.com/users/AmityCore/orgs",
+    "repos_url": "https://api.github.com/users/AmityCore/repos",
+    "events_url": "https://api.github.com/users/AmityCore/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/AmityCore/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "zpalmtree": 1,
+    "Watt3r": 2,
+    "Amity-Core": 47
+  },
+  "pulls_authors": [
+    "Amity-Core",
+    "zpalmtree",
+    "Watt3r",
+    "ErrorCoin"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 2286152,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 423300,
+      "color": "#555555"
+    },
+    "CMake": {
+      "bytes": 10254,
+      "color": "#ccc"
+    },
+    "Assembly": {
+      "bytes": 934,
+      "color": "#6E4C13"
+    },
+    "Makefile": {
+      "bytes": 738,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 428,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-09T03:13:35.439Z"
+}

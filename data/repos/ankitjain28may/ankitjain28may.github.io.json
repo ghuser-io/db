@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ankitjain28may.github.io",
+  "full_name": "ankitjain28may/ankitjain28may.github.io",
+  "owner": "ankitjain28may",
+  "private": false,
+  "html_url": "https://github.com/ankitjain28may/ankitjain28may.github.io",
+  "description": "Resume",
+  "fork": false,
+  "url": "https://api.github.com/repos/ankitjain28may/ankitjain28may.github.io",
+  "languages_url": "https://api.github.com/repos/ankitjain28may/ankitjain28may.github.io/languages",
+  "created_at": "2016-01-24T03:15:28Z",
+  "updated_at": "2018-07-21T12:37:12Z",
+  "pushed_at": "2017-09-16T13:23:54Z",
+  "homepage": "http://ankitjain28may.github.io",
+  "size": 9807,
+  "stargazers_count": 3,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ankitjain28may": 49
+  },
+  "languages": {
+    "CSS": {
+      "bytes": 495393,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 281094,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 52060,
+      "color": "#e34c26"
+    },
+    "PHP": {
+      "bytes": 27538,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/ankitjain28may/ankitjain28may.github.io/pulls{/number}",
+  "pulls_authors": []
+}

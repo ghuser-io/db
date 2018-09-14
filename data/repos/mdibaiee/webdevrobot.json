@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "webdevrobot",
+  "full_name": "mdibaiee/webdevrobot",
+  "owner": "mdibaiee",
+  "private": false,
+  "html_url": "https://github.com/mdibaiee/webdevrobot",
+  "description": "The code powering @webdevrobot",
+  "fork": false,
+  "url": "https://api.github.com/repos/mdibaiee/webdevrobot",
+  "languages_url": "https://api.github.com/repos/mdibaiee/webdevrobot/languages",
+  "pulls_url": "https://api.github.com/repos/mdibaiee/webdevrobot/pulls{/number}",
+  "created_at": "2015-07-03T15:39:38Z",
+  "updated_at": "2017-07-04T16:48:58Z",
+  "pushed_at": "2015-07-13T04:43:23Z",
+  "homepage": "http://telegram.me/webdevrobot",
+  "size": 338,
+  "stargazers_count": 9,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "artistic-2.0",
+    "name": "Artistic License 2.0",
+    "spdx_id": "Artistic-2.0",
+    "url": "https://api.github.com/licenses/artistic-2.0",
+    "node_id": "MDc6TGljZW5zZTM="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "amovah": 4,
+    "mdibaiee": 54
+  },
+  "pulls_authors": [
+    "amovah"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 10696,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:44.843Z"
+}

@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hyper-rustls",
+  "full_name": "ctz/hyper-rustls",
+  "owner": "ctz",
+  "private": false,
+  "html_url": "https://github.com/ctz/hyper-rustls",
+  "description": "Integration between hyper HTTP library and rustls TLS stack",
+  "fork": false,
+  "url": "https://api.github.com/repos/ctz/hyper-rustls",
+  "languages_url": "https://api.github.com/repos/ctz/hyper-rustls/languages",
+  "pulls_url": "https://api.github.com/repos/ctz/hyper-rustls/pulls{/number}",
+  "created_at": "2016-10-02T16:48:40Z",
+  "updated_at": "2018-09-07T14:02:31Z",
+  "pushed_at": "2018-08-29T09:02:46Z",
+  "homepage": null,
+  "size": 80,
+  "stargazers_count": 47,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "kpcyrd": 1,
+    "mehcode": 1,
+    "martell": 1,
+    "briansmith": 1,
+    "frewsxcv": 1,
+    "mkocot": 1,
+    "bruceadams": 1,
+    "alex": 3,
+    "crawford": 5,
+    "lucab": 16,
+    "ctz": 34
+  },
+  "pulls_authors": [
+    "mehcode",
+    "lucab",
+    "matthauck",
+    "crawford",
+    "alex",
+    "ctz",
+    "SimranGujral",
+    "martell",
+    "briansmith",
+    "frewsxcv",
+    "mikeokner",
+    "tshepang",
+    "mkocot",
+    "bruceadams"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 8202,
+      "color": "#dea584"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:15.516Z"
+}

@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vanitygen-snap",
+  "full_name": "mkg20001/vanitygen-snap",
+  "owner": "mkg20001",
+  "private": false,
+  "html_url": "https://github.com/mkg20001/vanitygen-snap",
+  "description": "Vanitygen as a snap",
+  "fork": false,
+  "url": "https://api.github.com/repos/mkg20001/vanitygen-snap",
+  "languages_url": "https://api.github.com/repos/mkg20001/vanitygen-snap/languages",
+  "pulls_url": "https://api.github.com/repos/mkg20001/vanitygen-snap/pulls{/number}",
+  "created_at": "2017-04-01T11:00:00Z",
+  "updated_at": "2017-04-01T11:11:24Z",
+  "pushed_at": "2017-04-01T11:10:54Z",
+  "homepage": null,
+  "size": 2,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mkg20001": 2
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-13T23:54:34.110Z"
+}

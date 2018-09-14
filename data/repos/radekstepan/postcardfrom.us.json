@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "postcardfrom.us",
+  "full_name": "radekstepan/postcardfrom.us",
+  "owner": "radekstepan",
+  "private": false,
+  "html_url": "https://github.com/radekstepan/postcardfrom.us",
+  "description": "Travel log in Jekyll",
+  "fork": false,
+  "url": "https://api.github.com/repos/radekstepan/postcardfrom.us",
+  "languages_url": "https://api.github.com/repos/radekstepan/postcardfrom.us/languages",
+  "pulls_url": "https://api.github.com/repos/radekstepan/postcardfrom.us/pulls{/number}",
+  "created_at": "2014-01-18T13:20:13Z",
+  "updated_at": "2014-08-23T00:16:58Z",
+  "pushed_at": "2014-08-23T00:13:16Z",
+  "homepage": "",
+  "size": 3846,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "gh-pages",
+  "contributors": {
+    "radekstepan": 90
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 348989,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 34393,
+      "color": "#563d7c"
+    },
+    "CoffeeScript": {
+      "bytes": 1721,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-11T13:50:56.442Z"
+}

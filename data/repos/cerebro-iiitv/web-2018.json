@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "web-2018",
+  "full_name": "cerebro-iiitv/web-2018",
+  "owner": "cerebro-iiitv",
+  "private": false,
+  "html_url": "https://github.com/cerebro-iiitv/web-2018",
+  "description": "Website of the Techfest  2018 of IIITV",
+  "fork": false,
+  "url": "https://api.github.com/repos/cerebro-iiitv/web-2018",
+  "languages_url": "https://api.github.com/repos/cerebro-iiitv/web-2018/languages",
+  "pulls_url": "https://api.github.com/repos/cerebro-iiitv/web-2018/pulls{/number}",
+  "created_at": "2018-02-08T20:25:46Z",
+  "updated_at": "2018-03-20T17:56:25Z",
+  "pushed_at": "2018-03-12T04:09:17Z",
+  "homepage": "https://cerebro.iiitv.ac.in",
+  "size": 462,
+  "stargazers_count": 13,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "cerebro-iiitv",
+    "id": 36279124,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM2Mjc5MTI0",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/36279124?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/cerebro-iiitv",
+    "html_url": "https://github.com/cerebro-iiitv",
+    "followers_url": "https://api.github.com/users/cerebro-iiitv/followers",
+    "following_url": "https://api.github.com/users/cerebro-iiitv/following{/other_user}",
+    "gists_url": "https://api.github.com/users/cerebro-iiitv/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/cerebro-iiitv/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/cerebro-iiitv/subscriptions",
+    "organizations_url": "https://api.github.com/users/cerebro-iiitv/orgs",
+    "repos_url": "https://api.github.com/users/cerebro-iiitv/repos",
+    "events_url": "https://api.github.com/users/cerebro-iiitv/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/cerebro-iiitv/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "singhrohan62": 1,
+    "igniteeng000": 2,
+    "DivyeshPuri": 3,
+    "Rohit280297": 3,
+    "aashutoshrathi": 4,
+    "shashihack": 5,
+    "Monal5031": 12,
+    "anshumanv": 58,
+    "singhpratyush": 68
+  },
+  "pulls_authors": [
+    "DivyeshPuri",
+    "anshumanv",
+    "shashihack",
+    "Rohit280297",
+    "igniteeng000",
+    "Monal5031",
+    "singhrohan62"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 40045,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 13147,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1949,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-04T12:17:54.631Z"
+}

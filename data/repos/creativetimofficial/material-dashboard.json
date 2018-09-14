@@ -1,0 +1,88 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "material-dashboard",
+  "full_name": "creativetimofficial/material-dashboard",
+  "owner": "creativetimofficial",
+  "private": false,
+  "html_url": "https://github.com/creativetimofficial/material-dashboard",
+  "description": "Material Dashboard - Open Source Bootstrap 4 Material Design Admin",
+  "fork": false,
+  "url": "https://api.github.com/repos/creativetimofficial/material-dashboard",
+  "languages_url": "https://api.github.com/repos/creativetimofficial/material-dashboard/languages",
+  "pulls_url": "https://api.github.com/repos/creativetimofficial/material-dashboard/pulls{/number}",
+  "created_at": "2016-09-19T15:36:24Z",
+  "updated_at": "2018-09-14T04:49:58Z",
+  "pushed_at": "2018-08-29T14:41:10Z",
+  "homepage": "https://demos.creative-tim.com/material-dashboard/examples/dashboard.html",
+  "size": 35908,
+  "stargazers_count": 7094,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "creativetimofficial",
+    "id": 20172349,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIwMTcyMzQ5",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/20172349?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/creativetimofficial",
+    "html_url": "https://github.com/creativetimofficial",
+    "followers_url": "https://api.github.com/users/creativetimofficial/followers",
+    "following_url": "https://api.github.com/users/creativetimofficial/following{/other_user}",
+    "gists_url": "https://api.github.com/users/creativetimofficial/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/creativetimofficial/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/creativetimofficial/subscriptions",
+    "organizations_url": "https://api.github.com/users/creativetimofficial/orgs",
+    "repos_url": "https://api.github.com/users/creativetimofficial/repos",
+    "events_url": "https://api.github.com/users/creativetimofficial/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/creativetimofficial/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "franciscop": 1,
+    "EINazare": 1,
+    "hoaaah": 1,
+    "timcreative": 1,
+    "aynzad": 3,
+    "conacelelena": 4,
+    "groovemen": 13,
+    "marqbeniamin": 14,
+    "alexandru-paduraru": 50,
+    "dragosct10": 80
+  },
+  "pulls_authors": [
+    "trestini",
+    "mberneti",
+    "aynzad",
+    "franciscop",
+    "shababhsiddique",
+    "hoaaah",
+    "ztvMark",
+    "JackSie",
+    "conacelelena"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 710738,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 21117,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 4572,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-14T08:27:35.925Z"
+}

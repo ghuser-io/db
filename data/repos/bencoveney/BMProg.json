@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "BMProg",
+  "full_name": "bencoveney/BMProg",
+  "owner": "bencoveney",
+  "private": false,
+  "html_url": "https://github.com/bencoveney/BMProg",
+  "description": "Bitmap based programming.",
+  "fork": false,
+  "url": "https://api.github.com/repos/bencoveney/BMProg",
+  "languages_url": "https://api.github.com/repos/bencoveney/BMProg/languages",
+  "pulls_url": "https://api.github.com/repos/bencoveney/BMProg/pulls{/number}",
+  "created_at": "2015-12-06T22:01:13Z",
+  "updated_at": "2018-03-31T17:51:25Z",
+  "pushed_at": "2018-03-31T17:51:23Z",
+  "homepage": "https://bencoveney.github.io/BMProg",
+  "size": 2990,
+  "stargazers_count": 1,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "greenkeeper[bot]": 2,
+    "bencoveney": 51
+  },
+  "pulls_authors": [
+    "bencoveney"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 43728,
+      "color": "#2b7489"
+    },
+    "C#": {
+      "bytes": 32081,
+      "color": "#178600"
+    },
+    "HTML": {
+      "bytes": 589,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 217,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-17T11:57:00.288Z"
+}

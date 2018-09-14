@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cloudinary-cli",
+  "full_name": "knrt10/cloudinary-cli",
+  "owner": "knrt10",
+  "private": false,
+  "html_url": "https://github.com/knrt10/cloudinary-cli",
+  "description": "Manage files of cloudinary.com using your command line.",
+  "fork": false,
+  "url": "https://api.github.com/repos/knrt10/cloudinary-cli",
+  "languages_url": "https://api.github.com/repos/knrt10/cloudinary-cli/languages",
+  "created_at": "2018-04-24T11:44:37Z",
+  "updated_at": "2018-06-03T08:30:03Z",
+  "pushed_at": "2018-04-29T18:38:10Z",
+  "homepage": "",
+  "size": 29,
+  "stargazers_count": 10,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "knrt10": 23
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 9551,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-24T14:33:12.483Z",
+  "pulls_url": "https://api.github.com/repos/knrt10/cloudinary-cli/pulls{/number}",
+  "pulls_authors": []
+}

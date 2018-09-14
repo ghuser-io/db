@@ -1,0 +1,97 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "passport",
+  "full_name": "opendrops/passport",
+  "owner": "opendrops",
+  "private": false,
+  "html_url": "https://github.com/opendrops/passport",
+  "description": "Provides authentication for phoenix application",
+  "fork": false,
+  "url": "https://api.github.com/repos/opendrops/passport",
+  "languages_url": "https://api.github.com/repos/opendrops/passport/languages",
+  "pulls_url": "https://api.github.com/repos/opendrops/passport/pulls{/number}",
+  "created_at": "2015-04-24T13:02:52Z",
+  "updated_at": "2018-09-14T04:05:07Z",
+  "pushed_at": "2017-05-31T12:46:19Z",
+  "homepage": "",
+  "size": 152,
+  "stargazers_count": 159,
+  "language": "Elixir",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "opendrops",
+    "id": 1995891,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5OTU4OTE=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1995891?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/opendrops",
+    "html_url": "https://github.com/opendrops",
+    "followers_url": "https://api.github.com/users/opendrops/followers",
+    "following_url": "https://api.github.com/users/opendrops/following{/other_user}",
+    "gists_url": "https://api.github.com/users/opendrops/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/opendrops/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/opendrops/subscriptions",
+    "organizations_url": "https://api.github.com/users/opendrops/orgs",
+    "repos_url": "https://api.github.com/users/opendrops/repos",
+    "events_url": "https://api.github.com/users/opendrops/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/opendrops/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "JoeNorth": 1,
+    "bagilevi": 1,
+    "barberj": 1,
+    "toraritte": 1,
+    "pauloancheta": 1,
+    "barttenbrinke": 1,
+    "hikeeba": 1,
+    "iaddict": 1,
+    "cloudbring": 1,
+    "dhosterman": 19,
+    "shankardevy": 39
+  },
+  "pulls_authors": [
+    "elpikel",
+    "JoeNorth",
+    "bagilevi",
+    "toraritte",
+    "barberj",
+    "pauloancheta",
+    "shankardevy",
+    "acconrad",
+    "barttenbrinke",
+    "nithinbekal",
+    "arthurcolle",
+    "smeevil",
+    "hikeeba",
+    "iaddict",
+    "lowks",
+    "cloudbring",
+    "dhosterman"
+  ],
+  "languages": {
+    "Elixir": {
+      "bytes": 55090,
+      "color": "#6e4a7e"
+    },
+    "HTML": {
+      "bytes": 6613,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 4682,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-14T08:19:25.500Z"
+}

@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gtk-vector-screenshot",
+  "full_name": "nomeata/gtk-vector-screenshot",
+  "owner": "nomeata",
+  "private": false,
+  "html_url": "https://github.com/nomeata/gtk-vector-screenshot",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/nomeata/gtk-vector-screenshot",
+  "languages_url": "https://api.github.com/repos/nomeata/gtk-vector-screenshot/languages",
+  "pulls_url": "https://api.github.com/repos/nomeata/gtk-vector-screenshot/pulls{/number}",
+  "created_at": "2012-06-03T12:26:58Z",
+  "updated_at": "2018-09-11T06:55:57Z",
+  "pushed_at": "2017-03-20T14:04:20Z",
+  "homepage": null,
+  "size": 46,
+  "stargazers_count": 32,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-2.1",
+    "name": "GNU Lesser General Public License v2.1",
+    "spdx_id": "LGPL-2.1",
+    "url": "https://api.github.com/licenses/lgpl-2.1",
+    "node_id": "MDc6TGljZW5zZTEx"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "liblit": 1,
+    "gajdusek": 1,
+    "nomeata": 59
+  },
+  "pulls_authors": [
+    "liblit"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 27566,
+      "color": "#555555"
+    },
+    "M4": {
+      "bytes": 1527,
+      "color": "#ccc"
+    },
+    "Makefile": {
+      "bytes": 1097,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T10:39:27.271Z"
+}

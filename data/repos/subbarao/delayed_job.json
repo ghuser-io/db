@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "delayed_job",
+  "full_name": "subbarao/delayed_job",
+  "owner": "subbarao",
+  "private": false,
+  "html_url": "https://github.com/subbarao/delayed_job",
+  "description": "Database backed asynchronous priority queue -- Extracted from Shopify ",
+  "fork": true,
+  "url": "https://api.github.com/repos/subbarao/delayed_job",
+  "languages_url": "https://api.github.com/repos/subbarao/delayed_job/languages",
+  "pulls_url": "https://api.github.com/repos/subbarao/delayed_job/pulls{/number}",
+  "created_at": "2012-02-08T20:57:08Z",
+  "updated_at": "2013-08-30T16:20:18Z",
+  "pushed_at": "2012-02-08T20:59:50Z",
+  "homepage": "http://tobi.github.com/delayed_job",
+  "size": 2718,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "subbarao": 1,
+    "lorensr": 1,
+    "kch": 1,
+    "brunograsselli": 1,
+    "elia": 1,
+    "chalkers": 1,
+    "olegshaldibin": 1,
+    "dhh": 1,
+    "mocoso": 1,
+    "tedkulp": 1,
+    "eric": 1,
+    "andersondias": 2,
+    "dmag": 2,
+    "lukemelia": 2,
+    "jbarnette": 2,
+    "defunkt": 4,
+    "technoweenie": 5,
+    "rares": 6,
+    "tobi": 18
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 32419,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T10:41:36.698Z"
+}

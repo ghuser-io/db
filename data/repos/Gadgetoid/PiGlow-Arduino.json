@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PiGlow-Arduino",
+  "full_name": "Gadgetoid/PiGlow-Arduino",
+  "owner": "Gadgetoid",
+  "private": false,
+  "html_url": "https://github.com/Gadgetoid/PiGlow-Arduino",
+  "description": "Arduino Library for the PiGlow",
+  "fork": false,
+  "url": "https://api.github.com/repos/Gadgetoid/PiGlow-Arduino",
+  "languages_url": "https://api.github.com/repos/Gadgetoid/PiGlow-Arduino/languages",
+  "pulls_url": "https://api.github.com/repos/Gadgetoid/PiGlow-Arduino/pulls{/number}",
+  "created_at": "2013-10-13T19:11:58Z",
+  "updated_at": "2017-05-23T13:36:46Z",
+  "pushed_at": "2016-06-11T13:31:20Z",
+  "homepage": null,
+  "size": 100,
+  "stargazers_count": 4,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Gadgetoid": 4
+  },
+  "pulls_authors": [
+    "RogueM"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 3514,
+      "color": "#f34b7d"
+    },
+    "Arduino": {
+      "bytes": 1688,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:15.327Z"
+}

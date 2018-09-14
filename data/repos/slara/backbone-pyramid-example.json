@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "backbone-pyramid-example",
+  "full_name": "slara/backbone-pyramid-example",
+  "owner": "slara",
+  "private": false,
+  "html_url": "https://github.com/slara/backbone-pyramid-example",
+  "description": "backbone-pyramid-example",
+  "fork": false,
+  "url": "https://api.github.com/repos/slara/backbone-pyramid-example",
+  "languages_url": "https://api.github.com/repos/slara/backbone-pyramid-example/languages",
+  "pulls_url": "https://api.github.com/repos/slara/backbone-pyramid-example/pulls{/number}",
+  "created_at": "2013-10-29T22:24:29Z",
+  "updated_at": "2014-02-12T03:10:56Z",
+  "pushed_at": "2013-10-29T22:24:52Z",
+  "homepage": null,
+  "size": 196,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "slara": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 236280,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 11311,
+      "color": "#563d7c"
+    },
+    "Python": {
+      "bytes": 2358,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T16:51:02.410Z"
+}

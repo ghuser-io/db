@@ -1,0 +1,85 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "prestashop-plugin",
+  "full_name": "bitpay/prestashop-plugin",
+  "owner": "bitpay",
+  "private": false,
+  "html_url": "https://github.com/bitpay/prestashop-plugin",
+  "description": "BitPay payment plugin for PrestaShop",
+  "fork": true,
+  "url": "https://api.github.com/repos/bitpay/prestashop-plugin",
+  "languages_url": "https://api.github.com/repos/bitpay/prestashop-plugin/languages",
+  "pulls_url": "https://api.github.com/repos/bitpay/prestashop-plugin/pulls{/number}",
+  "created_at": "2012-11-09T15:27:15Z",
+  "updated_at": "2018-01-27T17:06:08Z",
+  "pushed_at": "2018-08-29T13:31:57Z",
+  "homepage": null,
+  "size": 157,
+  "stargazers_count": 23,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "bitpay",
+    "id": 2554930,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1NTQ5MzA=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/2554930?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/bitpay",
+    "html_url": "https://github.com/bitpay",
+    "followers_url": "https://api.github.com/users/bitpay/followers",
+    "following_url": "https://api.github.com/users/bitpay/following{/other_user}",
+    "gists_url": "https://api.github.com/users/bitpay/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/bitpay/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/bitpay/subscriptions",
+    "organizations_url": "https://api.github.com/users/bitpay/orgs",
+    "repos_url": "https://api.github.com/users/bitpay/repos",
+    "events_url": "https://api.github.com/users/bitpay/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/bitpay/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jameswalpole": 1,
+    "gasteve": 1,
+    "Nolaan": 2,
+    "kleetus": 3,
+    "jaafit": 4,
+    "philosodad": 6,
+    "pieterpoorthuis": 7,
+    "elahurd": 11,
+    "ionux": 34
+  },
+  "pulls_authors": [
+    "damianbz321",
+    "Nolaan",
+    "jameswalpole",
+    "ionux",
+    "philosodad",
+    "samuelbohler",
+    "JoshuaEstes",
+    "cstevens88",
+    "elahurd",
+    "antoinediligent",
+    "jaafit"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 45757,
+      "color": "#4F5D95"
+    },
+    "Smarty": {
+      "bytes": 3698,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T16:48:31.569Z"
+}

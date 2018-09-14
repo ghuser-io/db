@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Python-Scripts",
+  "full_name": "iCHAIT/Python-Scripts",
+  "owner": "iCHAIT",
+  "private": false,
+  "html_url": "https://github.com/iCHAIT/Python-Scripts",
+  "description": ":clipboard: My Python scripts.",
+  "fork": false,
+  "url": "https://api.github.com/repos/iCHAIT/Python-Scripts",
+  "languages_url": "https://api.github.com/repos/iCHAIT/Python-Scripts/languages",
+  "pulls_url": "https://api.github.com/repos/iCHAIT/Python-Scripts/pulls{/number}",
+  "created_at": "2014-10-05T16:18:56Z",
+  "updated_at": "2018-08-09T20:27:56Z",
+  "pushed_at": "2016-05-08T13:42:40Z",
+  "homepage": "",
+  "size": 138,
+  "stargazers_count": 75,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx_id": "LGPL-3.0",
+    "url": "https://api.github.com/licenses/lgpl-3.0",
+    "node_id": "MDc6TGljZW5zZTEy"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jas7553": 1,
+    "nickedes": 1,
+    "iCHAIT": 88
+  },
+  "pulls_authors": [
+    "jas7553",
+    "dufferzafar",
+    "rootAvish"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 5285,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-03T12:57:04.390Z"
+}

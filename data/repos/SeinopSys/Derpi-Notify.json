@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Derpi-Notify",
+  "full_name": "SeinopSys/Derpi-Notify",
+  "owner": "SeinopSys",
+  "private": false,
+  "html_url": "https://github.com/SeinopSys/Derpi-Notify",
+  "description": "Keep track of your Derpibooru notifications and messages in (almost) real time",
+  "fork": false,
+  "url": "https://api.github.com/repos/SeinopSys/Derpi-Notify",
+  "languages_url": "https://api.github.com/repos/SeinopSys/Derpi-Notify/languages",
+  "pulls_url": "https://api.github.com/repos/SeinopSys/Derpi-Notify/pulls{/number}",
+  "created_at": "2018-04-21T02:36:59Z",
+  "updated_at": "2018-08-15T16:32:44Z",
+  "pushed_at": "2018-08-15T16:32:43Z",
+  "homepage": null,
+  "size": 269,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mkg20001": 3,
+    "SeinopSys": 14
+  },
+  "pulls_authors": [
+    "mkg20001"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 105307,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 20486,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 5564,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-18T09:22:01.448Z"
+}

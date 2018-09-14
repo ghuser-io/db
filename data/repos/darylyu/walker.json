@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "walker",
+  "full_name": "darylyu/walker",
+  "owner": "darylyu",
+  "private": false,
+  "html_url": "https://github.com/darylyu/walker",
+  "description": "Walker executes the same command on multiple directories.",
+  "fork": false,
+  "url": "https://api.github.com/repos/darylyu/walker",
+  "languages_url": "https://api.github.com/repos/darylyu/walker/languages",
+  "pulls_url": "https://api.github.com/repos/darylyu/walker/pulls{/number}",
+  "created_at": "2014-09-13T05:50:56Z",
+  "updated_at": "2016-11-05T07:39:26Z",
+  "pushed_at": "2016-11-06T04:31:16Z",
+  "homepage": null,
+  "size": 16,
+  "stargazers_count": 9,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "darylyu": 3
+  },
+  "pulls_authors": [
+    "darylyu"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 11213,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 6466,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:34.170Z"
+}

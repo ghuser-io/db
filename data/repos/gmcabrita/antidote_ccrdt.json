@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "antidote_ccrdt",
+  "full_name": "gmcabrita/antidote_ccrdt",
+  "owner": "gmcabrita",
+  "private": false,
+  "html_url": "https://github.com/gmcabrita/antidote_ccrdt",
+  "description": ":floppy_disk: Non-uniform operation-based CRDT implementations to use with AntidoteDB",
+  "fork": false,
+  "url": "https://api.github.com/repos/gmcabrita/antidote_ccrdt",
+  "languages_url": "https://api.github.com/repos/gmcabrita/antidote_ccrdt/languages",
+  "pulls_url": "https://api.github.com/repos/gmcabrita/antidote_ccrdt/pulls{/number}",
+  "created_at": "2016-11-27T12:36:25Z",
+  "updated_at": "2018-03-16T20:58:02Z",
+  "pushed_at": "2017-03-13T21:03:07Z",
+  "homepage": "",
+  "size": 1067,
+  "stargazers_count": 8,
+  "language": "Erlang",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "gmcabrita": 77
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Erlang": {
+      "bytes": 66292,
+      "color": "#B83998"
+    },
+    "Makefile": {
+      "bytes": 527,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:44:00.911Z"
+}

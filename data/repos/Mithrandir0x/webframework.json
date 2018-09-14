@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "webframework",
+  "full_name": "Mithrandir0x/webframework",
+  "owner": "Mithrandir0x",
+  "private": false,
+  "html_url": "https://github.com/Mithrandir0x/webframework",
+  "description": "A minimalistic approach to Spring Web Annotations for educational purposes",
+  "fork": false,
+  "url": "https://api.github.com/repos/Mithrandir0x/webframework",
+  "languages_url": "https://api.github.com/repos/Mithrandir0x/webframework/languages",
+  "pulls_url": "https://api.github.com/repos/Mithrandir0x/webframework/pulls{/number}",
+  "created_at": "2015-06-18T09:48:15Z",
+  "updated_at": "2015-06-19T17:20:12Z",
+  "pushed_at": "2015-07-01T14:36:07Z",
+  "homepage": null,
+  "size": 2196,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Mithrandir0x": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 56202,
+      "color": "#b07219"
+    },
+    "CSS": {
+      "bytes": 8440,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 7343,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:37:19.728Z"
+}

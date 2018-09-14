@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "noflo-framer",
+  "full_name": "paulyoung/noflo-framer",
+  "owner": "paulyoung",
+  "private": false,
+  "html_url": "https://github.com/paulyoung/noflo-framer",
+  "description": "Framer components for NoFlo.",
+  "fork": false,
+  "url": "https://api.github.com/repos/paulyoung/noflo-framer",
+  "languages_url": "https://api.github.com/repos/paulyoung/noflo-framer/languages",
+  "pulls_url": "https://api.github.com/repos/paulyoung/noflo-framer/pulls{/number}",
+  "created_at": "2014-05-17T02:11:05Z",
+  "updated_at": "2016-12-07T23:54:40Z",
+  "pushed_at": "2014-06-11T02:14:50Z",
+  "homepage": null,
+  "size": 170,
+  "stargazers_count": 3,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "paulyoung": 13
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 3964,
+      "color": "#244776"
+    },
+    "JavaScript": {
+      "bytes": 195,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-08T12:41:01.559Z"
+}

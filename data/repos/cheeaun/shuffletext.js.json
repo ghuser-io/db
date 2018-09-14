@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "shuffletext.js",
+  "full_name": "cheeaun/shuffletext.js",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/shuffletext.js",
+  "description": "shuffleText.js - Class for creating text shuffling effects",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/shuffletext.js",
+  "languages_url": "https://api.github.com/repos/cheeaun/shuffletext.js/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/shuffletext.js/pulls{/number}",
+  "created_at": "2009-03-17T20:54:56Z",
+  "updated_at": "2016-05-09T07:06:04Z",
+  "pushed_at": "2009-03-17T21:15:00Z",
+  "homepage": "http://cheeaun.github.com/shuffletext.js/",
+  "size": 76,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1678,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T19:00:11.039Z"
+}

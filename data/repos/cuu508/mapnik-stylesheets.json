@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mapnik-stylesheets",
+  "full_name": "cuu508/mapnik-stylesheets",
+  "owner": "cuu508",
+  "private": false,
+  "html_url": "https://github.com/cuu508/mapnik-stylesheets",
+  "description": "Mirror of the mapnik stylesheets used on OpenStreetMap.org",
+  "fork": true,
+  "url": "https://api.github.com/repos/cuu508/mapnik-stylesheets",
+  "languages_url": "https://api.github.com/repos/cuu508/mapnik-stylesheets/languages",
+  "pulls_url": "https://api.github.com/repos/cuu508/mapnik-stylesheets/pulls{/number}",
+  "created_at": "2011-09-28T11:40:10Z",
+  "updated_at": "2013-01-04T08:04:47Z",
+  "pushed_at": "2011-09-28T13:36:28Z",
+  "homepage": "http://svn.openstreetmap.org/applications/rendering/mapnik/",
+  "size": 1017,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cuu508": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 37543,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 32291,
+      "color": "#555555"
+    },
+    "Perl": {
+      "bytes": 21026,
+      "color": "#0298c3"
+    },
+    "Shell": {
+      "bytes": 11009,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:23.825Z"
+}

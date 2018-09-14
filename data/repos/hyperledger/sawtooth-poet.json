@@ -1,0 +1,104 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sawtooth-poet",
+  "full_name": "hyperledger/sawtooth-poet",
+  "owner": "hyperledger",
+  "private": false,
+  "html_url": "https://github.com/hyperledger/sawtooth-poet",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/hyperledger/sawtooth-poet",
+  "languages_url": "https://api.github.com/repos/hyperledger/sawtooth-poet/languages",
+  "pulls_url": "https://api.github.com/repos/hyperledger/sawtooth-poet/pulls{/number}",
+  "created_at": "2018-06-19T22:20:07Z",
+  "updated_at": "2018-09-12T18:40:35Z",
+  "pushed_at": "2018-09-12T18:40:32Z",
+  "homepage": null,
+  "size": 940,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "hyperledger",
+    "id": 7657900,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc2NTc5MDA=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/7657900?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hyperledger",
+    "html_url": "https://github.com/hyperledger",
+    "followers_url": "https://api.github.com/users/hyperledger/followers",
+    "following_url": "https://api.github.com/users/hyperledger/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hyperledger/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hyperledger/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hyperledger/subscriptions",
+    "organizations_url": "https://api.github.com/users/hyperledger/orgs",
+    "repos_url": "https://api.github.com/users/hyperledger/repos",
+    "events_url": "https://api.github.com/users/hyperledger/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hyperledger/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "danintel": 1,
+    "benoitrazet": 1,
+    "cclauss": 1,
+    "boydjohnson": 1,
+    "jsmitchell": 1,
+    "delventhalz": 1,
+    "chenette": 2,
+    "ojalatodd": 2,
+    "rberg2": 6,
+    "cianx": 3,
+    "vaporos": 3,
+    "feihujiang": 3,
+    "askmish": 4,
+    "agunde406": 8,
+    "nconde": 8,
+    "rbuysse": 14,
+    "peterschwarz": 15,
+    "nick-drozd": 25,
+    "dcmiddle": 35,
+    "aludvik": 51,
+    "jjason": 134
+  },
+  "pulls_authors": [
+    "rberg2",
+    "aludvik"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 836676,
+      "color": "#3572A5"
+    },
+    "C++": {
+      "bytes": 231257,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 97952,
+      "color": "#555555"
+    },
+    "Dockerfile": {
+      "bytes": 19641,
+      "color": "#0db7ed"
+    },
+    "CMake": {
+      "bytes": 18394,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 16549,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T00:22:13.602Z"
+}

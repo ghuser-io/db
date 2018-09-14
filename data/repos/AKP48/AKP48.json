@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "AKP48",
+  "full_name": "AKP48/AKP48",
+  "owner": "AKP48",
+  "private": false,
+  "html_url": "https://github.com/AKP48/AKP48",
+  "description": "IRC bot written in Javascript.",
+  "fork": false,
+  "url": "https://api.github.com/repos/AKP48/AKP48",
+  "languages_url": "https://api.github.com/repos/AKP48/AKP48/languages",
+  "pulls_url": "https://api.github.com/repos/AKP48/AKP48/pulls{/number}",
+  "created_at": "2015-01-06T00:58:19Z",
+  "updated_at": "2016-01-15T20:42:34Z",
+  "pushed_at": "2016-01-26T20:40:50Z",
+  "homepage": null,
+  "size": 883,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "AKP48",
+    "id": 10410282,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNDEwMjgy",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/10410282?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/AKP48",
+    "html_url": "https://github.com/AKP48",
+    "followers_url": "https://api.github.com/users/AKP48/followers",
+    "following_url": "https://api.github.com/users/AKP48/following{/other_user}",
+    "gists_url": "https://api.github.com/users/AKP48/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/AKP48/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/AKP48/subscriptions",
+    "organizations_url": "https://api.github.com/users/AKP48/orgs",
+    "repos_url": "https://api.github.com/users/AKP48/repos",
+    "events_url": "https://api.github.com/users/AKP48/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/AKP48/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "gitter-badger": 1,
+    "feildmaster": 59,
+    "AKPWebDesign": 592
+  },
+  "pulls_authors": [
+    "gitter-badger",
+    "AKPWebDesign",
+    "feildmaster"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 277170,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:15.231Z"
+}

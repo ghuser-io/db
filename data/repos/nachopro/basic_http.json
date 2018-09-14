@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "basic_http",
+  "full_name": "nachopro/basic_http",
+  "owner": "nachopro",
+  "private": false,
+  "html_url": "https://github.com/nachopro/basic_http",
+  "description": "A easy to use and clean HTTP client lib for Python ",
+  "fork": false,
+  "url": "https://api.github.com/repos/nachopro/basic_http",
+  "languages_url": "https://api.github.com/repos/nachopro/basic_http/languages",
+  "pulls_url": "https://api.github.com/repos/nachopro/basic_http/pulls{/number}",
+  "created_at": "2010-09-02T02:50:14Z",
+  "updated_at": "2015-05-08T18:36:16Z",
+  "pushed_at": "2015-05-08T18:36:16Z",
+  "homepage": "",
+  "size": 135,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jayvdb": 2,
+    "nachopro": 19
+  },
+  "pulls_authors": [
+    "jayvdb"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 4366,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

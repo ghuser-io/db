@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "flastm",
+  "full_name": "sumthief/flastm",
+  "owner": "sumthief",
+  "private": false,
+  "html_url": "https://github.com/sumthief/flastm",
+  "description": "Yet another Last.fm JS library",
+  "fork": false,
+  "url": "https://api.github.com/repos/sumthief/flastm",
+  "languages_url": "https://api.github.com/repos/sumthief/flastm/languages",
+  "pulls_url": "https://api.github.com/repos/sumthief/flastm/pulls{/number}",
+  "created_at": "2017-11-25T12:28:14Z",
+  "updated_at": "2018-07-08T15:53:57Z",
+  "pushed_at": "2018-07-08T15:53:56Z",
+  "homepage": "",
+  "size": 138,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "TiagoDanin": 2,
+    "sumthief": 60
+  },
+  "pulls_authors": [
+    "TiagoDanin"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 96856,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-12T17:48:20.581Z"
+}

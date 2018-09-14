@@ -1,0 +1,82 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mapnik-stylesheets",
+  "full_name": "openstreetmap/mapnik-stylesheets",
+  "owner": "openstreetmap",
+  "private": false,
+  "html_url": "https://github.com/openstreetmap/mapnik-stylesheets",
+  "description": "Mirror of the mapnik stylesheets formerly used on OpenStreetMap.org",
+  "fork": false,
+  "url": "https://api.github.com/repos/openstreetmap/mapnik-stylesheets",
+  "languages_url": "https://api.github.com/repos/openstreetmap/mapnik-stylesheets/languages",
+  "pulls_url": "https://api.github.com/repos/openstreetmap/mapnik-stylesheets/pulls{/number}",
+  "created_at": "2010-05-01T20:43:49Z",
+  "updated_at": "2018-09-09T22:31:22Z",
+  "pushed_at": "2013-10-26T16:15:10Z",
+  "homepage": "http://svn.openstreetmap.org/applications/rendering/mapnik/",
+  "size": 1682,
+  "stargazers_count": 101,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "openstreetmap",
+    "id": 261431,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI2MTQzMQ==",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/261431?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/openstreetmap",
+    "html_url": "https://github.com/openstreetmap",
+    "followers_url": "https://api.github.com/users/openstreetmap/followers",
+    "following_url": "https://api.github.com/users/openstreetmap/following{/other_user}",
+    "gists_url": "https://api.github.com/users/openstreetmap/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/openstreetmap/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/openstreetmap/subscriptions",
+    "organizations_url": "https://api.github.com/users/openstreetmap/orgs",
+    "repos_url": "https://api.github.com/users/openstreetmap/repos",
+    "events_url": "https://api.github.com/users/openstreetmap/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/openstreetmap/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {},
+  "pulls_authors": [
+    "jzf2101",
+    "joeferner",
+    "miurahr",
+    "CloCkWeRX",
+    "danstowell",
+    "oeon",
+    "kozuch",
+    "cuu508"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 62627,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 32291,
+      "color": "#555555"
+    },
+    "Perl": {
+      "bytes": 21540,
+      "color": "#0298c3"
+    },
+    "Ruby": {
+      "bytes": 5299,
+      "color": "#701516"
+    },
+    "Racket": {
+      "bytes": 2711,
+      "color": "#22228f"
+    },
+    "Shell": {
+      "bytes": 2516,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:23.356Z"
+}

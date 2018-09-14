@@ -1,0 +1,124 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "miniflux",
+  "full_name": "miniflux/miniflux",
+  "owner": "miniflux",
+  "private": false,
+  "html_url": "https://github.com/miniflux/miniflux",
+  "description": "Minimalist feed reader written in Go and Postgresql",
+  "fork": false,
+  "url": "https://api.github.com/repos/miniflux/miniflux",
+  "languages_url": "https://api.github.com/repos/miniflux/miniflux/languages",
+  "pulls_url": "https://api.github.com/repos/miniflux/miniflux/pulls{/number}",
+  "created_at": "2017-11-20T05:07:17Z",
+  "updated_at": "2018-09-14T01:14:23Z",
+  "pushed_at": "2018-09-13T18:07:02Z",
+  "homepage": "https://miniflux.app/",
+  "size": 21657,
+  "stargazers_count": 690,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "miniflux",
+    "id": 10584991,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNTg0OTkx",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/10584991?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/miniflux",
+    "html_url": "https://github.com/miniflux",
+    "followers_url": "https://api.github.com/users/miniflux/followers",
+    "following_url": "https://api.github.com/users/miniflux/following{/other_user}",
+    "gists_url": "https://api.github.com/users/miniflux/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/miniflux/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/miniflux/subscriptions",
+    "organizations_url": "https://api.github.com/users/miniflux/orgs",
+    "repos_url": "https://api.github.com/users/miniflux/repos",
+    "events_url": "https://api.github.com/users/miniflux/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/miniflux/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "AdamVig": 1,
+    "michael-k": 1,
+    "tleb": 1,
+    "neepl": 1,
+    "pascalw": 1,
+    "isavegas": 1,
+    "abnd90": 1,
+    "bbrks": 1,
+    "MoritzFago": 1,
+    "ReVanTis": 1,
+    "ncarlier": 1,
+    "mahendrakalkura": 1,
+    "sullivant": 1,
+    "dsprenkels": 2,
+    "allanbreyes": 2,
+    "aniranc": 2,
+    "modInfo": 2,
+    "rogierlommers": 3,
+    "dzaikos": 8,
+    "stratmaster": 18,
+    "fguillot": 279
+  },
+  "pulls_authors": [
+    "AdamVig",
+    "dzaikos",
+    "fguillot",
+    "michael-k",
+    "stratmaster",
+    "tleb",
+    "neepl",
+    "dsprenkels",
+    "pascalw",
+    "allanbreyes",
+    "isavegas",
+    "abnd90",
+    "aniranc",
+    "bbrks",
+    "MoritzFago",
+    "ReVanTis",
+    "ncarlier",
+    "modInfo",
+    "rogierlommers",
+    "mahendrakalkura",
+    "sullivant",
+    "aeoris"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 616276,
+      "color": "#375eab"
+    },
+    "HTML": {
+      "bytes": 63641,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 23359,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 15789,
+      "color": "#563d7c"
+    },
+    "Makefile": {
+      "bytes": 2639,
+      "color": "#427819"
+    },
+    "PLSQL": {
+      "bytes": 58,
+      "color": "#dad8d8"
+    }
+  },
+  "fetched_at": "2018-09-14T08:22:10.920Z"
+}

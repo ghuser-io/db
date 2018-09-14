@@ -1,0 +1,100 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "fnky/behave-theme": {
+      "full_name": "fnky/behave-theme",
+      "name": "behave-theme",
+      "stargazers_count": 51,
+      "popularity": 2.6998767365027594,
+      "percentage": 3.8461538461538463,
+      "maturity": 0,
+      "total_commits_count": 26,
+      "activity": 1.6132788328728296,
+      "total_score": 11.062847410632488,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "rspec/rspec-expectations": {
+      "full_name": "rspec/rspec-expectations",
+      "name": "rspec-expectations",
+      "stargazers_count": 981,
+      "popularity": 3.991309473860322,
+      "percentage": 0,
+      "maturity": 4.353938061256941,
+      "total_commits_count": 2290,
+      "activity": 5,
+      "total_score": 25.681804544094845,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jwt/ruby-jwe": {
+      "full_name": "jwt/ruby-jwe",
+      "name": "ruby-jwe",
+      "stargazers_count": 30,
+      "popularity": 2.463931943319936,
+      "percentage": 1.5625,
+      "maturity": 2.3837461708665604,
+      "total_commits_count": 64,
+      "activity": 1.5757049236122644,
+      "total_score": 14.235479271292055,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "rbarisic/fuel-graph": {
+      "full_name": "rbarisic/fuel-graph",
+      "name": "fuel-graph",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 0.5885876744988243,
+      "total_score": 0.5885876744988243,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "rbarisic/useful_stuff": {
+      "full_name": "rbarisic/useful_stuff",
+      "name": "useful_stuff",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 0.4394077601418864,
+      "total_score": 0.4394077601418864,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "rbarisic/GDBM-Wrapper": {
+      "full_name": "rbarisic/GDBM-Wrapper",
+      "name": "GDBM-Wrapper",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 0.4229360679768943,
+      "total_score": 0.4229360679768943,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "rbarisic/stylesheets": {
+      "full_name": "rbarisic/stylesheets",
+      "name": "stylesheets",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 0.41346706895641727,
+      "total_score": 0.41346706895641727,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "rspec",
+    "jwt"
+  ]
+}

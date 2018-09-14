@@ -1,0 +1,90 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "help_pages",
+  "full_name": "pythonanywhere/help_pages",
+  "owner": "pythonanywhere",
+  "private": false,
+  "html_url": "https://github.com/pythonanywhere/help_pages",
+  "description": "The help pages for help.pythonanywhere.com",
+  "fork": false,
+  "url": "https://api.github.com/repos/pythonanywhere/help_pages",
+  "languages_url": "https://api.github.com/repos/pythonanywhere/help_pages/languages",
+  "pulls_url": "https://api.github.com/repos/pythonanywhere/help_pages/pulls{/number}",
+  "created_at": "2015-08-21T16:49:08Z",
+  "updated_at": "2018-09-12T15:24:05Z",
+  "pushed_at": "2018-09-12T15:24:04Z",
+  "homepage": null,
+  "size": 2046,
+  "stargazers_count": 11,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ralstonia": 1,
+    "Mktk00": 1,
+    "LeMinaw": 1,
+    "kdwarn": 1,
+    "Michael-E-Rose": 1,
+    "sestus": 1,
+    "dundeemt": 1,
+    "sharpchris": 1,
+    "rogererens": 2,
+    "jdemonasterio": 2,
+    "Windsooon": 2,
+    "millenniumhand": 3,
+    "GregKaleka": 4,
+    "2x2xplz": 5,
+    "conradho": 29,
+    "pythonanywhere": 39,
+    "gpjt": 109,
+    "hjwp": 139,
+    "javabrett": 1
+  },
+  "pulls_authors": [
+    "ralstonia",
+    "Mktk00",
+    "cfisher5",
+    "GregKaleka",
+    "rogererens",
+    "jdemonasterio",
+    "amakarudze",
+    "Windsooon",
+    "Oliver-Wright",
+    "EndenDragon",
+    "2x2xplz",
+    "amitness",
+    "vinyldarkscratch",
+    "LeMinaw",
+    "kdwarn",
+    "Michael-E-Rose",
+    "sestus",
+    "dundeemt",
+    "sharpchris",
+    "javabrett"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 74076,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 38242,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 9249,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 868,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 120,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:32:46.957Z"
+}

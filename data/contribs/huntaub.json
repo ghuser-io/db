@@ -1,0 +1,152 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "ndesh26/evdev-rs": {
+      "full_name": "ndesh26/evdev-rs",
+      "name": "evdev-rs",
+      "stargazers_count": 5,
+      "popularity": 1.6128219920330789,
+      "percentage": 1.9047619047619047,
+      "maturity": 2.8153146453382947,
+      "total_commits_count": 105,
+      "activity": 2.306458550580081,
+      "total_score": 13.174919263002195,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "huntaub/ajidamal": {
+      "full_name": "huntaub/ajidamal",
+      "name": "ajidamal",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 1.9101999437230757,
+      "total_commits_count": 48,
+      "activity": 1.142436691795588,
+      "total_score": 21.62568810632878,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "melange-app/melange": {
+      "full_name": "melange-app/melange",
+      "name": "melange",
+      "stargazers_count": 22,
+      "popularity": 2.3243213587049825,
+      "percentage": 100,
+      "maturity": 3.6240535659735245,
+      "total_commits_count": 459,
+      "activity": 0.599903527532498,
+      "total_score": 45.03715239875927,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "airdispatch/airdispatch-go": {
+      "full_name": "airdispatch/airdispatch-go",
+      "name": "airdispatch-go",
+      "stargazers_count": 23,
+      "popularity": 2.3444311854745736,
+      "percentage": 90.97472924187726,
+      "maturity": 3.3766671417344045,
+      "total_commits_count": 277,
+      "activity": 0.555720758673357,
+      "total_score": 42.06926760078503,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "huntaub/whirlwind-cs": {
+      "full_name": "huntaub/whirlwind-cs",
+      "name": "whirlwind-cs",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 17,
+      "activity": 0.5475786644530496,
+      "total_score": 0.5475786644530496,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "huntaub/hft-simulator": {
+      "full_name": "huntaub/hft-simulator",
+      "name": "hft-simulator",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 23,
+      "activity": 0.4695288655013634,
+      "total_score": 0.4695288655013634,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "melange-app/getmelange.com": {
+      "full_name": "melange-app/getmelange.com",
+      "name": "getmelange.com",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 30,
+      "activity": 0.4511554940564615,
+      "total_score": 0.4511554940564615,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "airdispatch/tracker": {
+      "full_name": "airdispatch/tracker",
+      "name": "tracker",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 23,
+      "activity": 0.4465704239492103,
+      "total_score": 0.4465704239492103,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "huntaub/go-db": {
+      "full_name": "huntaub/go-db",
+      "name": "go-db",
+      "stargazers_count": 4,
+      "popularity": 1.49139952161816,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 14,
+      "activity": 0.39552672092225816,
+      "total_score": 24.257919066812818,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "airdispatch/protocol": {
+      "full_name": "airdispatch/protocol",
+      "name": "protocol",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 27,
+      "activity": 0.3614197129729284,
+      "total_score": 0.3614197129729284,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "huntaub/evdev-rs": {
+      "full_name": "huntaub/evdev-rs",
+      "name": "evdev-rs",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 2.1739130434782608,
+      "maturity": 2.718570715884442,
+      "total_commits_count": 92,
+      "activity": 1.2349306770116844,
+      "total_score": 6.6720721087805686,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "melange-app",
+    "airdispatch"
+  ]
+}

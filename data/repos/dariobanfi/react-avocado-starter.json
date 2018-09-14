@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "react-avocado-starter",
+  "full_name": "dariobanfi/react-avocado-starter",
+  "owner": "dariobanfi",
+  "private": false,
+  "html_url": "https://github.com/dariobanfi/react-avocado-starter",
+  "description": "🥑 Opinionated Offline-first & Universal React Starter Boilerplate built from my experience",
+  "fork": false,
+  "url": "https://api.github.com/repos/dariobanfi/react-avocado-starter",
+  "languages_url": "https://api.github.com/repos/dariobanfi/react-avocado-starter/languages",
+  "pulls_url": "https://api.github.com/repos/dariobanfi/react-avocado-starter/pulls{/number}",
+  "created_at": "2017-08-03T10:14:18Z",
+  "updated_at": "2018-05-14T08:07:30Z",
+  "pushed_at": "2017-11-11T08:41:52Z",
+  "homepage": "",
+  "size": 346,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "greenkeeper[bot]": 15,
+    "dariobanfi": 18
+  },
+  "pulls_authors": [
+    "greenkeeper[bot]",
+    "dariobanfi"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 97495,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:30.742Z"
+}

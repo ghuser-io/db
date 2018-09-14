@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "eldredge-our_love_will_last_as_long",
+  "full_name": "captbaritone/eldredge-our_love_will_last_as_long",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/eldredge-our_love_will_last_as_long",
+  "description": "Original doo-wop micro-song typeset using Lilypond",
+  "fork": false,
+  "url": "https://api.github.com/repos/captbaritone/eldredge-our_love_will_last_as_long",
+  "languages_url": "https://api.github.com/repos/captbaritone/eldredge-our_love_will_last_as_long/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/eldredge-our_love_will_last_as_long/pulls{/number}",
+  "created_at": "2013-08-04T20:39:17Z",
+  "updated_at": "2018-07-29T22:02:30Z",
+  "pushed_at": "2013-08-04T20:39:31Z",
+  "homepage": "http://jordaneldredge.com/blog/original-song-our-love-will-last-as-long",
+  "size": 104,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 2
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T04:58:45.290Z"
+}

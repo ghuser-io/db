@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "babel-plugin-transform-export-default-name",
+  "full_name": "gajus/babel-plugin-transform-export-default-name",
+  "owner": "gajus",
+  "private": false,
+  "html_url": "https://github.com/gajus/babel-plugin-transform-export-default-name",
+  "description": "Babel plugin that transforms default exports to named exports.",
+  "fork": false,
+  "url": "https://api.github.com/repos/gajus/babel-plugin-transform-export-default-name",
+  "languages_url": "https://api.github.com/repos/gajus/babel-plugin-transform-export-default-name/languages",
+  "pulls_url": "https://api.github.com/repos/gajus/babel-plugin-transform-export-default-name/pulls{/number}",
+  "created_at": "2016-02-03T12:08:54Z",
+  "updated_at": "2018-05-21T11:12:56Z",
+  "pushed_at": "2018-03-14T14:14:15Z",
+  "homepage": "",
+  "size": 137,
+  "stargazers_count": 19,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "zvictor": 1,
+    "laggingreflex": 1,
+    "christophehurpeau": 2,
+    "rpatil26": 9,
+    "gajus": 21
+  },
+  "pulls_authors": [
+    "zvictor",
+    "laggingreflex",
+    "christophehurpeau"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6450,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:20.987Z"
+}

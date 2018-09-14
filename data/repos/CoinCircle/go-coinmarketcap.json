@@ -1,0 +1,76 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-coinmarketcap",
+  "full_name": "CoinCircle/go-coinmarketcap",
+  "owner": "CoinCircle",
+  "private": false,
+  "html_url": "https://github.com/CoinCircle/go-coinmarketcap",
+  "description": "The Unofficial Coin Market Cap API client for Go.",
+  "fork": false,
+  "url": "https://api.github.com/repos/CoinCircle/go-coinmarketcap",
+  "languages_url": "https://api.github.com/repos/CoinCircle/go-coinmarketcap/languages",
+  "pulls_url": "https://api.github.com/repos/CoinCircle/go-coinmarketcap/pulls{/number}",
+  "created_at": "2017-09-06T03:56:18Z",
+  "updated_at": "2018-09-14T06:03:39Z",
+  "pushed_at": "2018-09-07T06:36:30Z",
+  "homepage": "",
+  "size": 130,
+  "stargazers_count": 50,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "CoinCircle",
+    "id": 30851072,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMwODUxMDcy",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/30851072?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/CoinCircle",
+    "html_url": "https://github.com/CoinCircle",
+    "followers_url": "https://api.github.com/users/CoinCircle/followers",
+    "following_url": "https://api.github.com/users/CoinCircle/following{/other_user}",
+    "gists_url": "https://api.github.com/users/CoinCircle/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/CoinCircle/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/CoinCircle/subscriptions",
+    "organizations_url": "https://api.github.com/users/CoinCircle/orgs",
+    "repos_url": "https://api.github.com/users/CoinCircle/repos",
+    "events_url": "https://api.github.com/users/CoinCircle/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/CoinCircle/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "bearbeard": 1,
+    "imdario": 1,
+    "chekalskiy": 1,
+    "reteps": 2,
+    "miguelmota": 56
+  },
+  "pulls_authors": [
+    "kurianCoding",
+    "TheCount",
+    "bearbeard",
+    "imdario",
+    "reteps",
+    "chekalskiy"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 17815,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 44,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-14T08:29:06.420Z"
+}

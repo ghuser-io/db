@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pyml",
+  "full_name": "gmcabrita/pyml",
+  "owner": "gmcabrita",
+  "private": false,
+  "html_url": "https://github.com/gmcabrita/pyml",
+  "description": "A prototype on OCaml and Python interoperability.",
+  "fork": false,
+  "url": "https://api.github.com/repos/gmcabrita/pyml",
+  "languages_url": "https://api.github.com/repos/gmcabrita/pyml/languages",
+  "pulls_url": "https://api.github.com/repos/gmcabrita/pyml/pulls{/number}",
+  "created_at": "2013-04-29T21:13:52Z",
+  "updated_at": "2017-12-16T00:10:09Z",
+  "pushed_at": "2013-06-19T21:33:02Z",
+  "homepage": "",
+  "size": 810,
+  "stargazers_count": 2,
+  "language": "C",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "gmcabrita": 15
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 7840,
+      "color": "#555555"
+    },
+    "OCaml": {
+      "bytes": 1762,
+      "color": "#3be133"
+    },
+    "Python": {
+      "bytes": 1086,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:44:04.939Z"
+}

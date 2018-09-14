@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "minesweeper_js",
+  "full_name": "reed-jones/minesweeper_js",
+  "owner": "reed-jones",
+  "private": false,
+  "html_url": "https://github.com/reed-jones/minesweeper_js",
+  "description": "A re-creation of minesweeper written in JavaScript",
+  "fork": false,
+  "url": "https://api.github.com/repos/reed-jones/minesweeper_js",
+  "languages_url": "https://api.github.com/repos/reed-jones/minesweeper_js/languages",
+  "pulls_url": "https://api.github.com/repos/reed-jones/minesweeper_js/pulls{/number}",
+  "created_at": "2017-03-22T23:01:46Z",
+  "updated_at": "2018-06-30T01:07:46Z",
+  "pushed_at": "2017-05-14T07:38:41Z",
+  "homepage": "https://minesweeper.zone/",
+  "size": 83,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "reed-jones": 20
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 55008,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 13492,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 9140,
+      "color": "#e34c26"
+    },
+    "PHP": {
+      "bytes": 4431,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:24.737Z"
+}

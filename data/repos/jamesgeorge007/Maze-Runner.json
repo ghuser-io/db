@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Maze-Runner",
+  "full_name": "jamesgeorge007/Maze-Runner",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/Maze-Runner",
+  "description": "The Maze Runner game inspired by Chrome T-Rex. :video_game:",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/Maze-Runner",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/Maze-Runner/languages",
+  "created_at": "2017-11-29T15:32:17Z",
+  "updated_at": "2018-08-24T08:20:04Z",
+  "pushed_at": "2018-08-24T08:20:02Z",
+  "homepage": "",
+  "size": 8411,
+  "stargazers_count": 10,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jamesgeorge007": 30
+  },
+  "languages": {
+    "Python": {
+      "bytes": 13607,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-24T12:41:52.675Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/Maze-Runner/pulls{/number}",
+  "pulls_authors": []
+}

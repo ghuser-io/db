@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Hippo",
+  "full_name": "HippoPHP/Hippo",
+  "owner": "HippoPHP",
+  "private": false,
+  "html_url": "https://github.com/HippoPHP/Hippo",
+  "description": "PHP standards checker.",
+  "fork": false,
+  "url": "https://api.github.com/repos/HippoPHP/Hippo",
+  "languages_url": "https://api.github.com/repos/HippoPHP/Hippo/languages",
+  "pulls_url": "https://api.github.com/repos/HippoPHP/Hippo/pulls{/number}",
+  "created_at": "2014-10-30T17:49:36Z",
+  "updated_at": "2018-02-21T16:24:00Z",
+  "pushed_at": "2017-08-12T11:36:31Z",
+  "homepage": "",
+  "size": 469,
+  "stargazers_count": 82,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "HippoPHP",
+    "id": 9467031,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjk0NjcwMzE=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/9467031?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/HippoPHP",
+    "html_url": "https://github.com/HippoPHP",
+    "followers_url": "https://api.github.com/users/HippoPHP/followers",
+    "following_url": "https://api.github.com/users/HippoPHP/following{/other_user}",
+    "gists_url": "https://api.github.com/users/HippoPHP/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/HippoPHP/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/HippoPHP/subscriptions",
+    "organizations_url": "https://api.github.com/users/HippoPHP/orgs",
+    "repos_url": "https://api.github.com/users/HippoPHP/repos",
+    "events_url": "https://api.github.com/users/HippoPHP/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/HippoPHP/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "GrahamCampbell": 8,
+    "jbrooksuk": 336
+  },
+  "pulls_authors": [
+    "GrahamCampbell",
+    "rr-",
+    "jbrooksuk"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 172018,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T05:04:18.150Z"
+}

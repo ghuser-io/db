@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "moi-j-aime-generator",
+  "full_name": "camembertaulaitcrew/moi-j-aime-generator",
+  "owner": "camembertaulaitcrew",
+  "private": false,
+  "html_url": "https://github.com/camembertaulaitcrew/moi-j-aime-generator",
+  "description": ":heart: moi-j-aime-generator",
+  "fork": false,
+  "url": "https://api.github.com/repos/camembertaulaitcrew/moi-j-aime-generator",
+  "languages_url": "https://api.github.com/repos/camembertaulaitcrew/moi-j-aime-generator/languages",
+  "pulls_url": "https://api.github.com/repos/camembertaulaitcrew/moi-j-aime-generator/pulls{/number}",
+  "created_at": "2014-05-29T19:58:23Z",
+  "updated_at": "2016-07-15T22:20:00Z",
+  "pushed_at": "2016-07-15T22:24:47Z",
+  "homepage": "http://www.camembertaulaitcrew.biz/hackz/moijaime",
+  "size": 13,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "camembertaulaitcrew",
+    "id": 7717490,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc3MTc0OTA=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/7717490?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/camembertaulaitcrew",
+    "html_url": "https://github.com/camembertaulaitcrew",
+    "followers_url": "https://api.github.com/users/camembertaulaitcrew/followers",
+    "following_url": "https://api.github.com/users/camembertaulaitcrew/following{/other_user}",
+    "gists_url": "https://api.github.com/users/camembertaulaitcrew/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/camembertaulaitcrew/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/camembertaulaitcrew/subscriptions",
+    "organizations_url": "https://api.github.com/users/camembertaulaitcrew/orgs",
+    "repos_url": "https://api.github.com/users/camembertaulaitcrew/repos",
+    "events_url": "https://api.github.com/users/camembertaulaitcrew/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/camembertaulaitcrew/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "aimxhaisse": 2,
+    "moul": 8
+  },
+  "pulls_authors": [
+    "gnieark",
+    "aimxhaisse"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 5519,
+      "color": "#3572A5"
+    },
+    "Go": {
+      "bytes": 3402,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:53.157Z"
+}

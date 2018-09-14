@@ -1,0 +1,121 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "eccoin",
+  "full_name": "project-ecc/eccoin",
+  "owner": "project-ecc",
+  "private": false,
+  "html_url": "https://github.com/project-ecc/eccoin",
+  "description": "ECC integration/staging tree",
+  "fork": false,
+  "url": "https://api.github.com/repos/project-ecc/eccoin",
+  "languages_url": "https://api.github.com/repos/project-ecc/eccoin/languages",
+  "pulls_url": "https://api.github.com/repos/project-ecc/eccoin/pulls{/number}",
+  "created_at": "2014-08-03T21:19:00Z",
+  "updated_at": "2018-08-28T03:35:10Z",
+  "pushed_at": "2018-09-11T01:05:23Z",
+  "homepage": "https://ecc.network",
+  "size": 173021,
+  "stargazers_count": 53,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "project-ecc",
+    "id": 34050475,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM0MDUwNDc1",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/34050475?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/project-ecc",
+    "html_url": "https://github.com/project-ecc",
+    "followers_url": "https://api.github.com/users/project-ecc/followers",
+    "following_url": "https://api.github.com/users/project-ecc/following{/other_user}",
+    "gists_url": "https://api.github.com/users/project-ecc/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/project-ecc/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/project-ecc/subscriptions",
+    "organizations_url": "https://api.github.com/users/project-ecc/orgs",
+    "repos_url": "https://api.github.com/users/project-ecc/repos",
+    "events_url": "https://api.github.com/users/project-ecc/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/project-ecc/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ptrus": 1,
+    "AltJ": 4,
+    "danmolitor": 6,
+    "brunoalano": 24,
+    "Greg-Griffith": 143
+  },
+  "pulls_authors": [
+    "troymccabe",
+    "Greg-Griffith",
+    "HenryYoung42",
+    "imdevin567",
+    "brunoalano",
+    "ptrus",
+    "AltJ",
+    "danmolitor",
+    "sheepman0",
+    "MaryjanecoinDev",
+    "CryptoBarTeam"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 4227904,
+      "color": "#f34b7d"
+    },
+    "Python": {
+      "bytes": 862353,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 628818,
+      "color": "#555555"
+    },
+    "CMake": {
+      "bytes": 251415,
+      "color": "#ccc"
+    },
+    "M4": {
+      "bytes": 180957,
+      "color": "#ccc"
+    },
+    "Makefile": {
+      "bytes": 102759,
+      "color": "#427819"
+    },
+    "Java": {
+      "bytes": 30290,
+      "color": "#b07219"
+    },
+    "Assembly": {
+      "bytes": 28453,
+      "color": "#6E4C13"
+    },
+    "HTML": {
+      "bytes": 20970,
+      "color": "#e34c26"
+    },
+    "QMake": {
+      "bytes": 16740,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 11810,
+      "color": "#89e051"
+    },
+    "Objective-C": {
+      "bytes": 2162,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-12T15:36:03.790Z"
+}

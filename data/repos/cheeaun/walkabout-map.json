@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "walkabout-map",
+  "full_name": "cheeaun/walkabout-map",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/walkabout-map",
+  "description": "Map for all participating companies in walkabout.sg",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/walkabout-map",
+  "languages_url": "https://api.github.com/repos/cheeaun/walkabout-map/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/walkabout-map/pulls{/number}",
+  "created_at": "2015-06-06T08:31:38Z",
+  "updated_at": "2018-05-03T23:29:12Z",
+  "pushed_at": "2015-06-26T06:20:35Z",
+  "homepage": "http://cheeaun.github.io/walkabout-map/",
+  "size": 924,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 15
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 3403,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 1401,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:59.256Z"
+}

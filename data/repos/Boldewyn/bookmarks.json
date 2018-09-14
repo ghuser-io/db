@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bookmarks",
+  "full_name": "Boldewyn/bookmarks",
+  "owner": "Boldewyn",
+  "private": false,
+  "html_url": "https://github.com/Boldewyn/bookmarks",
+  "description": "A private bookmarking tool with a social touch.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Boldewyn/bookmarks",
+  "languages_url": "https://api.github.com/repos/Boldewyn/bookmarks/languages",
+  "pulls_url": "https://api.github.com/repos/Boldewyn/bookmarks/pulls{/number}",
+  "created_at": "2011-02-13T13:16:35Z",
+  "updated_at": "2013-10-26T21:13:18Z",
+  "pushed_at": "2011-10-04T19:57:51Z",
+  "homepage": "http://boldewyn.github.com/bookmarks/",
+  "size": 1332,
+  "stargazers_count": 4,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Boldewyn": 198
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 146396,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 8381,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:57:56.343Z"
+}

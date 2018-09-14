@@ -1,0 +1,102 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "opsgenie/opsgenie-go-sdk": {
+      "full_name": "opsgenie/opsgenie-go-sdk",
+      "name": "opsgenie-go-sdk",
+      "stargazers_count": 14,
+      "popularity": 2.117310085935697,
+      "percentage": 1.492537313432836,
+      "maturity": 2.4346992151481284,
+      "total_commits_count": 67,
+      "activity": 3.0316079422292344,
+      "total_score": 14.663757990290256,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "zendesk/samson": {
+      "full_name": "zendesk/samson",
+      "name": "samson",
+      "stargazers_count": 1166,
+      "popularity": 4.066402287556958,
+      "percentage": 0.030988534242330338,
+      "maturity": 4.808872018172739,
+      "total_commits_count": 6454,
+      "activity": 5,
+      "total_score": 26.833332439065387,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "FlashBoys/go-finance": {
+      "full_name": "FlashBoys/go-finance",
+      "name": "go-finance",
+      "stargazers_count": 542,
+      "popularity": 3.733316615362256,
+      "percentage": 2.4390243902439024,
+      "maturity": 1.0429714431619128,
+      "total_commits_count": 41,
+      "activity": 1.3565798276196994,
+      "total_score": 15.826207096608568,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "helpyio/helpy": {
+      "full_name": "helpyio/helpy",
+      "name": "helpy",
+      "stargazers_count": 1394,
+      "popularity": 4.144021378071502,
+      "percentage": 0.06369426751592357,
+      "maturity": 4.186456020509105,
+      "total_commits_count": 1570,
+      "activity": 5,
+      "total_score": 25.839289728044772,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ellimist/dotfiles": {
+      "full_name": "ellimist/dotfiles",
+      "name": "dotfiles",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 0.9921371723684151,
+      "total_score": 0.9921371723684151,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "obihann/archey-osx": {
+      "full_name": "obihann/archey-osx",
+      "name": "archey-osx",
+      "stargazers_count": 213,
+      "popularity": 3.3265797387413136,
+      "percentage": 7.2727272727272725,
+      "maturity": 2.1807017899081935,
+      "total_commits_count": 55,
+      "activity": 5,
+      "total_score": 22.486272730850295,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "adambard/learnxinyminutes-docs": {
+      "full_name": "adambard/learnxinyminutes-docs",
+      "name": "learnxinyminutes-docs",
+      "stargazers_count": 5548,
+      "popularity": 4.7441050831147855,
+      "percentage": 0.10189525168127166,
+      "maturity": 4.689006552406254,
+      "total_commits_count": 4907,
+      "activity": 5,
+      "total_score": 28.673170585744895,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "opsgenie",
+    "zendesk",
+    "FlashBoys",
+    "helpyio"
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "errors",
+  "full_name": "ahmetabdi/errors",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/errors",
+  "description": "Handles HTTP status codes to give more detailed information.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ahmetabdi/errors",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/errors/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/errors/pulls{/number}",
+  "created_at": "2014-08-04T15:33:56Z",
+  "updated_at": "2015-11-03T15:21:29Z",
+  "pushed_at": "2014-08-05T08:03:34Z",
+  "homepage": "",
+  "size": 142,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 7
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 7439,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:04.357Z"
+}

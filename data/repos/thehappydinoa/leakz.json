@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "leakz",
+  "full_name": "thehappydinoa/leakz",
+  "owner": "thehappydinoa",
+  "private": false,
+  "html_url": "https://github.com/thehappydinoa/leakz",
+  "description": "Python API wrapper for lea.kz",
+  "fork": false,
+  "url": "https://api.github.com/repos/thehappydinoa/leakz",
+  "languages_url": "https://api.github.com/repos/thehappydinoa/leakz/languages",
+  "pulls_url": "https://api.github.com/repos/thehappydinoa/leakz/pulls{/number}",
+  "created_at": "2018-09-08T20:06:12Z",
+  "updated_at": "2018-09-12T12:34:45Z",
+  "pushed_at": "2018-09-11T13:20:19Z",
+  "homepage": "https://pypi.org/project/leakz/",
+  "size": 6,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "thehappydinoa": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 3295,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 146,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T16:52:29.873Z"
+}

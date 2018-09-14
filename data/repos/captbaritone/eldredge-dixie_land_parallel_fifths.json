@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "eldredge-dixie_land_parallel_fifths",
+  "full_name": "captbaritone/eldredge-dixie_land_parallel_fifths",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/eldredge-dixie_land_parallel_fifths",
+  "description": "Classic Barbershop tag typeset in parallel fifths in Lilypond",
+  "fork": false,
+  "url": "https://api.github.com/repos/captbaritone/eldredge-dixie_land_parallel_fifths",
+  "languages_url": "https://api.github.com/repos/captbaritone/eldredge-dixie_land_parallel_fifths/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/eldredge-dixie_land_parallel_fifths/pulls{/number}",
+  "created_at": "2013-08-04T21:13:04Z",
+  "updated_at": "2018-07-29T22:02:09Z",
+  "pushed_at": "2013-08-04T21:13:13Z",
+  "homepage": "http://blog.classicalcode.com/2009/11/eight-part-barbershop-tag-in-parallel-fifths/",
+  "size": 104,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 1
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T04:58:45.467Z"
+}

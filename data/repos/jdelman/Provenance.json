@@ -1,0 +1,135 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Provenance",
+  "full_name": "jdelman/Provenance",
+  "owner": "jdelman",
+  "private": false,
+  "html_url": "https://github.com/jdelman/Provenance",
+  "description": "An iOS/tvOS Frontend for multiple emulators, currently supporting Sega Genesis, Game Gear/Master System, Sega CD, SNES, NES, GB/GBC and GBA.",
+  "fork": true,
+  "url": "https://api.github.com/repos/jdelman/Provenance",
+  "languages_url": "https://api.github.com/repos/jdelman/Provenance/languages",
+  "pulls_url": "https://api.github.com/repos/jdelman/Provenance/pulls{/number}",
+  "created_at": "2016-02-24T17:47:17Z",
+  "updated_at": "2018-03-24T16:56:49Z",
+  "pushed_at": "2017-12-18T17:48:12Z",
+  "homepage": "http://jamesaddyman.com/provenance",
+  "size": 123028,
+  "stargazers_count": 2,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "adriencanterot": 1,
+    "SteveBarnegren": 1,
+    "carloperez": 1,
+    "msikma": 1,
+    "blanham": 1,
+    "kcm": 1,
+    "svanimpe": 1,
+    "jkjwong": 1,
+    "capnslipp": 1,
+    "davidsomen": 1,
+    "kyuzumaki": 1,
+    "jinjorge": 1,
+    "jonathantneal": 1,
+    "SFrost007": 1,
+    "anwnn": 1,
+    "jtrstz": 1,
+    "mattsson": 2,
+    "gklka": 2,
+    "thedrick": 2,
+    "kckd-geocaching": 2,
+    "peanut256": 2,
+    "stefz": 3,
+    "gabrieloc": 3,
+    "thales17": 3,
+    "jabwd": 4,
+    "drakkhen": 4,
+    "cplr": 5,
+    "DanielFontes": 6,
+    "stuartjmoore": 6,
+    "leolobato": 8,
+    "dantheman213": 8,
+    "apexad": 10,
+    "willco007": 11,
+    "davidmuzi": 15,
+    "rafcabezas": 16,
+    "marcelvoss": 18,
+    "josejulio": 20,
+    "JoeMatt": 80,
+    "jasarien": 323
+  },
+  "pulls_authors": [
+    "jdelman"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 11280170,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 10684511,
+      "color": "#555555"
+    },
+    "Objective-C": {
+      "bytes": 962489,
+      "color": "#438eff"
+    },
+    "Assembly": {
+      "bytes": 615757,
+      "color": "#6E4C13"
+    },
+    "Objective-C++": {
+      "bytes": 116781,
+      "color": "#6866fb"
+    },
+    "TeX": {
+      "bytes": 85181,
+      "color": "#3D6117"
+    },
+    "Makefile": {
+      "bytes": 48926,
+      "color": "#427819"
+    },
+    "JavaScript": {
+      "bytes": 44689,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 23945,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 6163,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 3351,
+      "color": "#563d7c"
+    },
+    "SourcePawn": {
+      "bytes": 2590,
+      "color": "#5c7611"
+    },
+    "Lua": {
+      "bytes": 1724,
+      "color": "#000080"
+    },
+    "Module Management System": {
+      "bytes": 1548,
+      "color": "#ccc"
+    },
+    "Scheme": {
+      "bytes": 1548,
+      "color": "#1e4aec"
+    },
+    "Shell": {
+      "bytes": 1157,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T13:47:41.324Z"
+}

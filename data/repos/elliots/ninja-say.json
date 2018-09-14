@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ninja-say",
+  "full_name": "elliots/ninja-say",
+  "owner": "elliots",
+  "private": false,
+  "html_url": "https://github.com/elliots/ninja-say",
+  "description": "NinjaBlocks Text-to-Speech driver (Mac, Linux, Windows)",
+  "fork": false,
+  "url": "https://api.github.com/repos/elliots/ninja-say",
+  "languages_url": "https://api.github.com/repos/elliots/ninja-say/languages",
+  "pulls_url": "https://api.github.com/repos/elliots/ninja-say/pulls{/number}",
+  "created_at": "2013-05-23T14:56:45Z",
+  "updated_at": "2014-09-14T19:37:58Z",
+  "pushed_at": "2013-11-27T00:12:16Z",
+  "homepage": "",
+  "size": 124,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "elliots": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1593,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T13:45:58.757Z"
+}

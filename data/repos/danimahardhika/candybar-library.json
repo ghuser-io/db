@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "candybar-library",
+  "full_name": "danimahardhika/candybar-library",
+  "owner": "danimahardhika",
+  "private": false,
+  "html_url": "https://github.com/danimahardhika/candybar-library",
+  "description": "Android icon pack material dashboard",
+  "fork": false,
+  "url": "https://api.github.com/repos/danimahardhika/candybar-library",
+  "languages_url": "https://api.github.com/repos/danimahardhika/candybar-library/languages",
+  "pulls_url": "https://api.github.com/repos/danimahardhika/candybar-library/pulls{/number}",
+  "created_at": "2016-11-07T05:14:40Z",
+  "updated_at": "2018-09-05T07:13:32Z",
+  "pushed_at": "2018-07-28T10:05:48Z",
+  "homepage": "",
+  "size": 8946,
+  "stargazers_count": 275,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "kshitijdeota": 1,
+    "Technologx": 2,
+    "leifniem": 3,
+    "danimahardhika": 526
+  },
+  "pulls_authors": [
+    "deletescape",
+    "razor84",
+    "dalight13",
+    "dongfengweixiao",
+    "kshitijdeota",
+    "Technologx",
+    "leifniem"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 737004,
+      "color": "#b07219"
+    },
+    "HTML": {
+      "bytes": 11451,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-05T13:03:14.007Z"
+}

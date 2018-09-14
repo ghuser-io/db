@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "richenum",
+  "full_name": "captbaritone/richenum",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/richenum",
+  "description": "A powerful enum library for Python.",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/richenum",
+  "languages_url": "https://api.github.com/repos/captbaritone/richenum/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/richenum/pulls{/number}",
+  "created_at": "2017-03-22T22:15:25Z",
+  "updated_at": "2018-07-29T22:13:38Z",
+  "pushed_at": "2016-12-05T19:37:00Z",
+  "homepage": "http://engineering.hearsaysocial.com/2013/09/16/enums-in-python/",
+  "size": 95,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jemiahlee": 1,
+    "afahim": 1,
+    "akshayjshah": 1,
+    "tulioz": 3,
+    "rbm": 5,
+    "adepue": 15,
+    "samv": 18
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 26237,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:53.962Z"
+}

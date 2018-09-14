@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pxt-midi",
+  "full_name": "Microsoft/pxt-midi",
+  "owner": "Microsoft",
+  "private": false,
+  "html_url": "https://github.com/Microsoft/pxt-midi",
+  "description": "A MIDI interface for MakeCode",
+  "fork": false,
+  "url": "https://api.github.com/repos/Microsoft/pxt-midi",
+  "languages_url": "https://api.github.com/repos/Microsoft/pxt-midi/languages",
+  "pulls_url": "https://api.github.com/repos/Microsoft/pxt-midi/pulls{/number}",
+  "created_at": "2017-04-22T00:26:45Z",
+  "updated_at": "2018-09-06T15:38:14Z",
+  "pushed_at": "2018-09-06T15:38:14Z",
+  "homepage": "https://pxt.microbit.org/pkg/microsoft/pxt-midi",
+  "size": 72,
+  "stargazers_count": 5,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "Microsoft",
+    "id": 6154722,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxNTQ3MjI=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/6154722?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Microsoft",
+    "html_url": "https://github.com/Microsoft",
+    "followers_url": "https://api.github.com/users/Microsoft/followers",
+    "following_url": "https://api.github.com/users/Microsoft/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Microsoft/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Microsoft/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Microsoft/subscriptions",
+    "organizations_url": "https://api.github.com/users/Microsoft/orgs",
+    "repos_url": "https://api.github.com/users/Microsoft/repos",
+    "events_url": "https://api.github.com/users/Microsoft/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Microsoft/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Gadgetoid": 1,
+    "msftgits": 1,
+    "microsoftopensource": 2,
+    "pelikhan": 49
+  },
+  "pulls_authors": [
+    "Gadgetoid",
+    "linclip"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 25858,
+      "color": "#2b7489"
+    },
+    "C++": {
+      "bytes": 190,
+      "color": "#f34b7d"
+    },
+    "Makefile": {
+      "bytes": 69,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:07.513Z"
+}

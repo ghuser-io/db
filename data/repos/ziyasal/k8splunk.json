@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "k8splunk",
+  "full_name": "ziyasal/k8splunk",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/k8splunk",
+  "description": "Send kubernetes logs to splunk using fluentd",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal/k8splunk",
+  "languages_url": "https://api.github.com/repos/ziyasal/k8splunk/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/k8splunk/pulls{/number}",
+  "created_at": "2017-03-03T19:00:09Z",
+  "updated_at": "2018-03-28T23:00:01Z",
+  "pushed_at": "2017-11-30T19:35:14Z",
+  "homepage": "",
+  "size": 16,
+  "stargazers_count": 7,
+  "language": "Smarty",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ziyasal": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Smarty": {
+      "bytes": 516,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 91,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:04.796Z"
+}

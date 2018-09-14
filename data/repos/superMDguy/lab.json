@@ -1,0 +1,98 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "lab",
+  "full_name": "superMDguy/lab",
+  "owner": "superMDguy",
+  "private": false,
+  "html_url": "https://github.com/superMDguy/lab",
+  "description": "A customisable 3D platform for agent-based AI research",
+  "fork": true,
+  "url": "https://api.github.com/repos/superMDguy/lab",
+  "languages_url": "https://api.github.com/repos/superMDguy/lab/languages",
+  "pulls_url": "https://api.github.com/repos/superMDguy/lab/pulls{/number}",
+  "created_at": "2017-03-11T20:24:39Z",
+  "updated_at": "2018-03-24T15:56:57Z",
+  "pushed_at": "2017-10-18T14:28:43Z",
+  "homepage": "",
+  "size": 33852,
+  "stargazers_count": 7,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "SimsGautam": 1,
+    "decster": 1,
+    "superMDguy": 1,
+    "tkoeppe": 27
+  },
+  "pulls_authors": [
+    "superMDguy"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 12396074,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 532412,
+      "color": "#f34b7d"
+    },
+    "GLSL": {
+      "bytes": 173997,
+      "color": "#ccc"
+    },
+    "Objective-C": {
+      "bytes": 89882,
+      "color": "#438eff"
+    },
+    "Python": {
+      "bytes": 87010,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 69262,
+      "color": "#e34c26"
+    },
+    "ShaderLab": {
+      "bytes": 33425,
+      "color": "#ccc"
+    },
+    "Lua": {
+      "bytes": 26160,
+      "color": "#000080"
+    },
+    "Assembly": {
+      "bytes": 25861,
+      "color": "#6E4C13"
+    },
+    "Roff": {
+      "bytes": 21060,
+      "color": "#ecdebe"
+    },
+    "Yacc": {
+      "bytes": 4260,
+      "color": "#4B6C4B"
+    },
+    "Shell": {
+      "bytes": 2993,
+      "color": "#89e051"
+    },
+    "Perl": {
+      "bytes": 944,
+      "color": "#0298c3"
+    },
+    "Makefile": {
+      "bytes": 829,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T22:37:07.750Z"
+}

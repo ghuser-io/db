@@ -1,0 +1,76 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "reframe",
+  "full_name": "reframejs/reframe",
+  "owner": "reframejs",
+  "private": false,
+  "html_url": "https://github.com/reframejs/reframe",
+  "description": "Flexible web framework.",
+  "fork": false,
+  "url": "https://api.github.com/repos/reframejs/reframe",
+  "languages_url": "https://api.github.com/repos/reframejs/reframe/languages",
+  "created_at": "2018-01-22T23:03:59Z",
+  "updated_at": "2018-09-12T21:28:30Z",
+  "pushed_at": "2018-09-10T18:48:43Z",
+  "homepage": "",
+  "size": 4555,
+  "stargazers_count": 167,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "cc0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "spdx_id": "CC0-1.0",
+    "url": "https://api.github.com/licenses/cc0-1.0",
+    "node_id": "MDc6TGljZW5zZTY="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "reframejs",
+    "id": 36308163,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM2MzA4MTYz",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/36308163?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/reframejs",
+    "html_url": "https://github.com/reframejs",
+    "followers_url": "https://api.github.com/users/reframejs/followers",
+    "following_url": "https://api.github.com/users/reframejs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/reframejs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/reframejs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/reframejs/subscriptions",
+    "organizations_url": "https://api.github.com/users/reframejs/orgs",
+    "repos_url": "https://api.github.com/users/reframejs/repos",
+    "events_url": "https://api.github.com/users/reframejs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/reframejs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "AurelienLourot": 11,
+    "tdfranklin": 22,
+    "brillout": 2033,
+    "yuxal": 4
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 291224,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 948,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 460,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T23:44:19.729Z",
+  "pulls_url": "https://api.github.com/repos/reframejs/reframe/pulls{/number}",
+  "pulls_authors": [
+    "AurelienLourot",
+    "yuxal",
+    "tdfranklin"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "tsteven4": 1,
+    "Calinou": 1,
+    "TheLastProject": 1,
+    "aferrero2707": 1,
+    "TheAssassin": 9,
+    "dirkhh": 19,
+    "probonopd": 53
+  },
+  "name": "uploadtool",
+  "full_name": "probonopd/uploadtool",
+  "owner": "probonopd",
+  "private": false,
+  "html_url": "https://github.com/probonopd/uploadtool",
+  "description": "Upload builds to GitHub Releases easily",
+  "fork": false,
+  "url": "https://api.github.com/repos/probonopd/uploadtool",
+  "languages_url": "https://api.github.com/repos/probonopd/uploadtool/languages",
+  "created_at": "2016-11-06T14:02:01Z",
+  "updated_at": "2018-09-09T11:25:21Z",
+  "pushed_at": "2018-07-25T18:28:40Z",
+  "homepage": null,
+  "size": 52,
+  "stargazers_count": 27,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "Shell": {
+      "bytes": 9096,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-09T13:07:49.782Z",
+  "pulls_url": "https://api.github.com/repos/probonopd/uploadtool/pulls{/number}",
+  "pulls_authors": [
+    "TheAssassin",
+    "tsteven4",
+    "dirkhh",
+    "Calinou",
+    "TheLastProject",
+    "aferrero2707"
+  ]
+}

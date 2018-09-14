@@ -1,0 +1,76 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "site",
+  "full_name": "wtg/site",
+  "owner": "wtg",
+  "private": false,
+  "html_url": "https://github.com/wtg/site",
+  "description": "Provides an overview of WebTech projects, commits, and contributors.",
+  "fork": false,
+  "url": "https://api.github.com/repos/wtg/site",
+  "languages_url": "https://api.github.com/repos/wtg/site/languages",
+  "pulls_url": "https://api.github.com/repos/wtg/site/pulls{/number}",
+  "created_at": "2014-06-01T03:18:25Z",
+  "updated_at": "2018-09-07T20:53:25Z",
+  "pushed_at": "2018-09-07T20:53:23Z",
+  "homepage": "https://webtech.union.rpi.edu/",
+  "size": 3005,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "wtg",
+    "id": 142864,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0Mjg2NA==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/142864?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/wtg",
+    "html_url": "https://github.com/wtg",
+    "followers_url": "https://api.github.com/users/wtg/followers",
+    "following_url": "https://api.github.com/users/wtg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/wtg/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/wtg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/wtg/subscriptions",
+    "organizations_url": "https://api.github.com/users/wtg/orgs",
+    "repos_url": "https://api.github.com/users/wtg/repos",
+    "events_url": "https://api.github.com/users/wtg/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/wtg/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "garoller": 1,
+    "draab": 1,
+    "JCBird1012": 2,
+    "jzblee": 3,
+    "ddbruce": 3,
+    "justetz": 10,
+    "kochman": 16
+  },
+  "pulls_authors": [
+    "kochman",
+    "jzblee"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 4587,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 2577,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 2071,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 634,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:05.136Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vimrc-survey",
+  "full_name": "captbaritone/vimrc-survey",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/vimrc-survey",
+  "description": "Looking for the most common lines in .vimrc files on GitHub",
+  "fork": false,
+  "url": "https://api.github.com/repos/captbaritone/vimrc-survey",
+  "languages_url": "https://api.github.com/repos/captbaritone/vimrc-survey/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/vimrc-survey/pulls{/number}",
+  "created_at": "2015-02-04T01:10:13Z",
+  "updated_at": "2018-07-29T22:17:38Z",
+  "pushed_at": "2015-02-10T07:06:19Z",
+  "homepage": "https://gist.github.com/captbaritone/87a439ca2651f167e6a7",
+  "size": 128,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 2525,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:42.022Z"
+}

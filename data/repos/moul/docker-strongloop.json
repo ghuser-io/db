@@ -1,0 +1,32 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docker-strongloop",
+  "full_name": "moul/docker-strongloop",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/docker-strongloop",
+  "description": ":whale: Strongloop in Docker, with pm2",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/docker-strongloop",
+  "languages_url": "https://api.github.com/repos/moul/docker-strongloop/languages",
+  "pulls_url": "https://api.github.com/repos/moul/docker-strongloop/pulls{/number}",
+  "created_at": "2014-12-26T15:30:01Z",
+  "updated_at": "2015-03-11T12:46:15Z",
+  "pushed_at": "2018-08-18T16:11:01Z",
+  "homepage": "",
+  "size": 3,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 3
+  },
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-05T13:07:33.961Z"
+}

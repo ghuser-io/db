@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "clj-bonecp-url",
+  "full_name": "myfreeweb/clj-bonecp-url",
+  "owner": "myfreeweb",
+  "private": false,
+  "html_url": "https://github.com/myfreeweb/clj-bonecp-url",
+  "description": "Clojure wrapper for BoneCP that also parses database URLs, works with Heroku Postgres",
+  "fork": false,
+  "url": "https://api.github.com/repos/myfreeweb/clj-bonecp-url",
+  "languages_url": "https://api.github.com/repos/myfreeweb/clj-bonecp-url/languages",
+  "pulls_url": "https://api.github.com/repos/myfreeweb/clj-bonecp-url/pulls{/number}",
+  "created_at": "2013-02-16T11:49:42Z",
+  "updated_at": "2016-10-07T16:43:38Z",
+  "pushed_at": "2015-05-29T14:55:26Z",
+  "homepage": null,
+  "size": 168,
+  "stargazers_count": 10,
+  "language": "Clojure",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "bjeanes": 1,
+    "ccfontes": 1,
+    "peterschwarz": 1,
+    "myfreeweb": 9
+  },
+  "pulls_authors": [
+    "bjeanes",
+    "ccfontes",
+    "peterschwarz"
+  ],
+  "languages": {
+    "Clojure": {
+      "bytes": 3802,
+      "color": "#db5855"
+    }
+  },
+  "fetched_at": "2018-09-11T17:14:26.507Z"
+}

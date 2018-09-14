@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docker-golang-glide",
+  "full_name": "fabiorphp/docker-golang-glide",
+  "owner": "fabiorphp",
+  "private": false,
+  "html_url": "https://github.com/fabiorphp/docker-golang-glide",
+  "description": "Golang docker image with Glide",
+  "fork": false,
+  "url": "https://api.github.com/repos/fabiorphp/docker-golang-glide",
+  "languages_url": "https://api.github.com/repos/fabiorphp/docker-golang-glide/languages",
+  "created_at": "2017-02-26T12:09:07Z",
+  "updated_at": "2017-06-20T14:38:17Z",
+  "pushed_at": "2017-09-03T11:09:40Z",
+  "homepage": null,
+  "size": 3,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "DiSiqueira": 1,
+    "fabiorphp": 4
+  },
+  "languages": {},
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/fabiorphp/docker-golang-glide/pulls{/number}",
+  "pulls_authors": [
+    "DiSiqueira"
+  ]
+}

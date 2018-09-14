@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "shuttle-signups",
+  "full_name": "wtg/shuttle-signups",
+  "owner": "wtg",
+  "private": false,
+  "html_url": "https://github.com/wtg/shuttle-signups",
+  "description": "A web interface to simplify the process of signing up for special shuttles at RPI.",
+  "fork": false,
+  "url": "https://api.github.com/repos/wtg/shuttle-signups",
+  "languages_url": "https://api.github.com/repos/wtg/shuttle-signups/languages",
+  "pulls_url": "https://api.github.com/repos/wtg/shuttle-signups/pulls{/number}",
+  "created_at": "2016-10-01T01:22:56Z",
+  "updated_at": "2017-10-05T00:43:01Z",
+  "pushed_at": "2018-04-03T17:55:21Z",
+  "homepage": null,
+  "size": 2437,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-2-clause",
+    "name": "BSD 2-Clause \"Simplified\" License",
+    "spdx_id": "BSD-2-Clause",
+    "url": "https://api.github.com/licenses/bsd-2-clause",
+    "node_id": "MDc6TGljZW5zZTQ="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "wtg",
+    "id": 142864,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0Mjg2NA==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/142864?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/wtg",
+    "html_url": "https://github.com/wtg",
+    "followers_url": "https://api.github.com/users/wtg/followers",
+    "following_url": "https://api.github.com/users/wtg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/wtg/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/wtg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/wtg/subscriptions",
+    "organizations_url": "https://api.github.com/users/wtg/orgs",
+    "repos_url": "https://api.github.com/users/wtg/repos",
+    "events_url": "https://api.github.com/users/wtg/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/wtg/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mwang25277": 2,
+    "dawneraq": 30,
+    "LucienBrule": 55,
+    "JCBird1012": 121
+  },
+  "pulls_authors": [
+    "JCBird1012",
+    "LucienBrule",
+    "mwang25277"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 39284,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 18671,
+      "color": "#e34c26"
+    },
+    "TypeScript": {
+      "bytes": 18058,
+      "color": "#2b7489"
+    },
+    "CSS": {
+      "bytes": 6565,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:05.335Z"
+}

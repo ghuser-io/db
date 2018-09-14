@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "github-notable-comments",
+  "full_name": "kamranahmedse/github-notable-comments",
+  "owner": "kamranahmedse",
+  "private": false,
+  "html_url": "https://github.com/kamranahmedse/github-notable-comments",
+  "description": "Chrome Extension – Navigate through the most reacted comments in github issues and PRs",
+  "fork": false,
+  "url": "https://api.github.com/repos/kamranahmedse/github-notable-comments",
+  "languages_url": "https://api.github.com/repos/kamranahmedse/github-notable-comments/languages",
+  "pulls_url": "https://api.github.com/repos/kamranahmedse/github-notable-comments/pulls{/number}",
+  "created_at": "2018-04-20T19:51:49Z",
+  "updated_at": "2018-09-05T05:47:58Z",
+  "pushed_at": "2018-04-21T17:45:08Z",
+  "homepage": "https://goo.gl/KMTUNg",
+  "size": 1453,
+  "stargazers_count": 26,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Nilegfx": 1,
+    "kamranahmedse": 12
+  },
+  "pulls_authors": [
+    "Nilegfx"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 18083,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 2050,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:38.221Z"
+}

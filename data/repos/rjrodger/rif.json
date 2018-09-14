@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rif",
+  "full_name": "rjrodger/rif",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/rif",
+  "description": "Node.js module to resolve network interfaces.",
+  "fork": false,
+  "url": "https://api.github.com/repos/rjrodger/rif",
+  "languages_url": "https://api.github.com/repos/rjrodger/rif/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/rif/pulls{/number}",
+  "created_at": "2016-07-12T20:28:57Z",
+  "updated_at": "2018-02-06T00:37:05Z",
+  "pushed_at": "2016-07-20T22:51:53Z",
+  "homepage": null,
+  "size": 7,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rjrodger": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 5048,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:31.905Z"
+}

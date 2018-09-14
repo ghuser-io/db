@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "posio",
+  "full_name": "abrenaut/posio",
+  "owner": "abrenaut",
+  "private": false,
+  "html_url": "https://github.com/abrenaut/posio",
+  "description": "A multiplayer geography game using Websockets",
+  "fork": false,
+  "url": "https://api.github.com/repos/abrenaut/posio",
+  "languages_url": "https://api.github.com/repos/abrenaut/posio/languages",
+  "pulls_url": "https://api.github.com/repos/abrenaut/posio/pulls{/number}",
+  "created_at": "2016-07-01T09:51:20Z",
+  "updated_at": "2018-08-28T21:09:36Z",
+  "pushed_at": "2016-10-22T15:36:27Z",
+  "homepage": "",
+  "size": 1133,
+  "stargazers_count": 399,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "liviu-": 1,
+    "SlashmanX": 1,
+    "rbutler-us": 3,
+    "abrenaut": 25
+  },
+  "pulls_authors": [
+    "liviu-",
+    "rbutler-us",
+    "SlashmanX"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 19094,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 10017,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 3486,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 2560,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:30:40.677Z"
+}

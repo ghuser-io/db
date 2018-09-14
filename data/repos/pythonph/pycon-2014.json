@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pycon-2014",
+  "full_name": "pythonph/pycon-2014",
+  "owner": "pythonph",
+  "private": false,
+  "html_url": "https://github.com/pythonph/pycon-2014",
+  "description": "PyCon Philippines 2014",
+  "fork": false,
+  "url": "https://api.github.com/repos/pythonph/pycon-2014",
+  "languages_url": "https://api.github.com/repos/pythonph/pycon-2014/languages",
+  "pulls_url": "https://api.github.com/repos/pythonph/pycon-2014/pulls{/number}",
+  "created_at": "2013-11-07T23:53:58Z",
+  "updated_at": "2017-06-01T10:15:16Z",
+  "pushed_at": "2016-09-13T04:25:27Z",
+  "homepage": "http://pycon-2014.python.ph",
+  "size": 1959,
+  "stargazers_count": 6,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "pythonph",
+    "id": 1917785,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5MTc3ODU=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/1917785?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pythonph",
+    "html_url": "https://github.com/pythonph",
+    "followers_url": "https://api.github.com/users/pythonph/followers",
+    "following_url": "https://api.github.com/users/pythonph/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pythonph/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pythonph/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pythonph/subscriptions",
+    "organizations_url": "https://api.github.com/users/pythonph/orgs",
+    "repos_url": "https://api.github.com/users/pythonph/repos",
+    "events_url": "https://api.github.com/users/pythonph/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pythonph/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "darylyu": 1,
+    "codemickeycode": 14,
+    "marksteve": 150
+  },
+  "pulls_authors": [
+    "darylyu",
+    "codemickeycode"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 6329,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 4247,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 2671,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 2178,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:34.456Z"
+}

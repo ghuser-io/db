@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ansible-basic-security",
+  "full_name": "darylyu/ansible-basic-security",
+  "owner": "darylyu",
+  "private": false,
+  "html_url": "https://github.com/darylyu/ansible-basic-security",
+  "description": "This Ansible Role sets up basic security on your Ubuntu server. The aim is to protect you from most drive-by brute force attacks and mass scans.",
+  "fork": false,
+  "url": "https://api.github.com/repos/darylyu/ansible-basic-security",
+  "languages_url": "https://api.github.com/repos/darylyu/ansible-basic-security/languages",
+  "pulls_url": "https://api.github.com/repos/darylyu/ansible-basic-security/pulls{/number}",
+  "created_at": "2016-07-23T14:03:54Z",
+  "updated_at": "2017-07-26T07:45:09Z",
+  "pushed_at": "2018-02-19T13:37:04Z",
+  "homepage": null,
+  "size": 10,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "darylyu": 23
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T05:00:32.393Z"
+}

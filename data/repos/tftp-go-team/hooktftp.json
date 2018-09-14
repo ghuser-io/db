@@ -1,0 +1,82 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hooktftp",
+  "full_name": "tftp-go-team/hooktftp",
+  "owner": "tftp-go-team",
+  "private": false,
+  "html_url": "https://github.com/tftp-go-team/hooktftp",
+  "description": "Hook based tftp server written in Go (golang)",
+  "fork": false,
+  "url": "https://api.github.com/repos/tftp-go-team/hooktftp",
+  "languages_url": "https://api.github.com/repos/tftp-go-team/hooktftp/languages",
+  "pulls_url": "https://api.github.com/repos/tftp-go-team/hooktftp/pulls{/number}",
+  "created_at": "2013-10-06T20:28:25Z",
+  "updated_at": "2018-07-25T21:47:58Z",
+  "pushed_at": "2018-01-17T10:52:40Z",
+  "homepage": "",
+  "size": 889,
+  "stargazers_count": 144,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "tftp-go-team",
+    "id": 12627799,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyNjI3Nzk5",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/12627799?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/tftp-go-team",
+    "html_url": "https://github.com/tftp-go-team",
+    "followers_url": "https://api.github.com/users/tftp-go-team/followers",
+    "following_url": "https://api.github.com/users/tftp-go-team/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tftp-go-team/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/tftp-go-team/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tftp-go-team/subscriptions",
+    "organizations_url": "https://api.github.com/users/tftp-go-team/orgs",
+    "repos_url": "https://api.github.com/users/tftp-go-team/repos",
+    "events_url": "https://api.github.com/users/tftp-go-team/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/tftp-go-team/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "moul": 1,
+    "tfheen": 1,
+    "aclissold": 1,
+    "harobed": 2,
+    "sspans": 4,
+    "brmzkw": 28,
+    "epeli": 119
+  },
+  "pulls_authors": [
+    "harobed",
+    "k00mi",
+    "brmzkw",
+    "moul",
+    "BonkaBonka",
+    "sspans",
+    "tfheen",
+    "rmedaer",
+    "pandrew",
+    "aclissold"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 25174,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 4532,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:22.836Z"
+}

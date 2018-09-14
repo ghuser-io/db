@@ -1,0 +1,111 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "CMS",
+  "full_name": "BootstrapCMS/CMS",
+  "owner": "BootstrapCMS",
+  "private": false,
+  "html_url": "https://github.com/BootstrapCMS/CMS",
+  "description": "A PHP CMS powered by Laravel 5 and Sentry",
+  "fork": false,
+  "url": "https://api.github.com/repos/BootstrapCMS/CMS",
+  "languages_url": "https://api.github.com/repos/BootstrapCMS/CMS/languages",
+  "pulls_url": "https://api.github.com/repos/BootstrapCMS/CMS/pulls{/number}",
+  "created_at": "2013-07-19T19:50:13Z",
+  "updated_at": "2018-09-13T09:25:58Z",
+  "pushed_at": "2016-06-28T10:28:14Z",
+  "homepage": "",
+  "size": 7420,
+  "stargazers_count": 2398,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "BootstrapCMS",
+    "id": 10179423,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwMTc5NDIz",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/10179423?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/BootstrapCMS",
+    "html_url": "https://github.com/BootstrapCMS",
+    "followers_url": "https://api.github.com/users/BootstrapCMS/followers",
+    "following_url": "https://api.github.com/users/BootstrapCMS/following{/other_user}",
+    "gists_url": "https://api.github.com/users/BootstrapCMS/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/BootstrapCMS/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/BootstrapCMS/subscriptions",
+    "organizations_url": "https://api.github.com/users/BootstrapCMS/orgs",
+    "repos_url": "https://api.github.com/users/BootstrapCMS/repos",
+    "events_url": "https://api.github.com/users/BootstrapCMS/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/BootstrapCMS/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Necronru": 1,
+    "miharbi": 1,
+    "xcaptain": 1,
+    "DeftNerd": 1,
+    "jbrooksuk": 1,
+    "rweas": 1,
+    "scrutinizer-auto-fixer": 1,
+    "grrnikos": 1,
+    "myalban": 1,
+    "scil": 1,
+    "rverrips": 1,
+    "bitdeli-chef": 1,
+    "Drethic": 2,
+    "apps4u": 2,
+    "mrrsm": 3,
+    "tirjok": 5,
+    "GrahamCampbell": 1546
+  },
+  "pulls_authors": [
+    "GrahamCampbell",
+    "tirjok",
+    "sh4ka",
+    "Haafiz",
+    "Necronru",
+    "miharbi",
+    "Drethic",
+    "xcaptain",
+    "jwilson8767",
+    "mrrsm",
+    "aqnouch",
+    "DeftNerd",
+    "cyberid41",
+    "jbrooksuk",
+    "rweas",
+    "scrutinizer-auto-fixer",
+    "grrnikos",
+    "scil",
+    "apps4u",
+    "rverrips",
+    "bitdeli-chef"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 294048,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 18281,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 1883,
+      "color": "#563d7c"
+    },
+    "ApacheConf": {
+      "bytes": 288,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-13T16:35:09.123Z"
+}

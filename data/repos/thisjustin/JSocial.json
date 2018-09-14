@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "JSocial",
+  "full_name": "thisjustin/JSocial",
+  "owner": "thisjustin",
+  "private": false,
+  "html_url": "https://github.com/thisjustin/JSocial",
+  "description": "A social coding experiment in Javascript",
+  "fork": false,
+  "url": "https://api.github.com/repos/thisjustin/JSocial",
+  "languages_url": "https://api.github.com/repos/thisjustin/JSocial/languages",
+  "pulls_url": "https://api.github.com/repos/thisjustin/JSocial/pulls{/number}",
+  "created_at": "2013-04-23T03:40:48Z",
+  "updated_at": "2015-02-06T21:46:55Z",
+  "pushed_at": "2015-02-06T21:46:55Z",
+  "homepage": null,
+  "size": 189,
+  "stargazers_count": 7,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "igdaloff": 1,
+    "jefferyjake": 1,
+    "petehunt": 1,
+    "xyclos": 2,
+    "fidian": 2,
+    "MichaelArestad": 2,
+    "tbeseda": 2,
+    "Aldream": 4,
+    "thisjustin": 5
+  },
+  "pulls_authors": [
+    "xyclos",
+    "cwc",
+    "igdaloff",
+    "fidian",
+    "EmzoSmizo",
+    "MichaelArestad",
+    "tbeseda",
+    "jefferyjake",
+    "Aldream",
+    "petehunt"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 25048,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T21:40:22.526Z"
+}

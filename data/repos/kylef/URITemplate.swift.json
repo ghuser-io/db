@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "URITemplate.swift",
+  "full_name": "kylef/URITemplate.swift",
+  "owner": "kylef",
+  "private": false,
+  "html_url": "https://github.com/kylef/URITemplate.swift",
+  "description": "Swift implementation of URI Template (RFC6570)",
+  "fork": false,
+  "url": "https://api.github.com/repos/kylef/URITemplate.swift",
+  "languages_url": "https://api.github.com/repos/kylef/URITemplate.swift/languages",
+  "pulls_url": "https://api.github.com/repos/kylef/URITemplate.swift/pulls{/number}",
+  "created_at": "2014-11-25T21:57:38Z",
+  "updated_at": "2018-08-03T11:26:50Z",
+  "pushed_at": "2018-07-07T06:47:10Z",
+  "homepage": "",
+  "size": 113,
+  "stargazers_count": 160,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "oysta": 1,
+    "ehuynh": 1,
+    "zachwaugh": 1,
+    "paulyoung": 1,
+    "neonichu": 1,
+    "romair": 2,
+    "kellydun": 4,
+    "kylef": 98
+  },
+  "pulls_authors": [
+    "rhysforyou",
+    "stefanrenne",
+    "romair",
+    "kylef",
+    "darkzlave",
+    "feliperuzg",
+    "m4rkk",
+    "oysta",
+    "ehuynh",
+    "kellydun",
+    "HEYGUL",
+    "zachwaugh",
+    "taiheng",
+    "paulyoung",
+    "RuiAAPeres",
+    "mogstad",
+    "neonichu"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 30917,
+      "color": "#ffac45"
+    },
+    "Ruby": {
+      "bytes": 716,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:56.045Z"
+}

@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cargo-script-template",
+  "full_name": "bwasty/cargo-script-template",
+  "owner": "bwasty",
+  "private": false,
+  "html_url": "https://github.com/bwasty/cargo-script-template",
+  "description": "Small template for Rust scripts using cargo-script",
+  "fork": false,
+  "url": "https://api.github.com/repos/bwasty/cargo-script-template",
+  "languages_url": "https://api.github.com/repos/bwasty/cargo-script-template/languages",
+  "pulls_url": "https://api.github.com/repos/bwasty/cargo-script-template/pulls{/number}",
+  "created_at": "2018-07-19T19:59:28Z",
+  "updated_at": "2018-07-23T08:25:26Z",
+  "pushed_at": "2018-07-19T20:28:39Z",
+  "homepage": null,
+  "size": 1,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bwasty": 1
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-11T00:29:53.579Z"
+}

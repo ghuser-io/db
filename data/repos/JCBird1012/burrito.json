@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "burrito",
+  "full_name": "JCBird1012/burrito",
+  "owner": "JCBird1012",
+  "private": false,
+  "html_url": "https://github.com/JCBird1012/burrito",
+  "description": "Chipotle Online Ordering from the comfort of your command line.",
+  "fork": false,
+  "url": "https://api.github.com/repos/JCBird1012/burrito",
+  "languages_url": "https://api.github.com/repos/JCBird1012/burrito/languages",
+  "pulls_url": "https://api.github.com/repos/JCBird1012/burrito/pulls{/number}",
+  "created_at": "2017-02-12T00:03:31Z",
+  "updated_at": "2018-07-27T20:54:55Z",
+  "pushed_at": "2018-02-01T16:20:52Z",
+  "homepage": "",
+  "size": 2586,
+  "stargazers_count": 4,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-2-clause",
+    "name": "BSD 2-Clause \"Simplified\" License",
+    "spdx_id": "BSD-2-Clause",
+    "url": "https://api.github.com/licenses/bsd-2-clause",
+    "node_id": "MDc6TGljZW5zZTQ="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "JCBird1012": 7,
+    "LucienBrule": 12
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 8948,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:04.614Z"
+}

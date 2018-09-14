@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gst",
+  "full_name": "amir/gst",
+  "owner": "amir",
+  "private": false,
+  "html_url": "https://github.com/amir/gst",
+  "description": "Go bindings for GStreamer",
+  "fork": true,
+  "url": "https://api.github.com/repos/amir/gst",
+  "languages_url": "https://api.github.com/repos/amir/gst/languages",
+  "pulls_url": "https://api.github.com/repos/amir/gst/pulls{/number}",
+  "created_at": "2013-09-15T15:44:18Z",
+  "updated_at": "2017-07-02T18:11:55Z",
+  "pushed_at": "2013-09-15T16:05:30Z",
+  "homepage": "",
+  "size": 114,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "amir": 1,
+    "ziutek": 29
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 32372,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T22:27:05.303Z"
+}

@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ovpn-manager",
+  "full_name": "superboum/ovpn-manager",
+  "owner": "superboum",
+  "private": false,
+  "html_url": "https://github.com/superboum/ovpn-manager",
+  "description": "A web interface to OpenVPN",
+  "fork": false,
+  "url": "https://api.github.com/repos/superboum/ovpn-manager",
+  "languages_url": "https://api.github.com/repos/superboum/ovpn-manager/languages",
+  "pulls_url": "https://api.github.com/repos/superboum/ovpn-manager/pulls{/number}",
+  "created_at": "2018-01-30T20:03:07Z",
+  "updated_at": "2018-02-06T14:06:21Z",
+  "pushed_at": "2018-01-31T07:03:50Z",
+  "homepage": null,
+  "size": 31,
+  "stargazers_count": 3,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "public",
+  "contributors": {
+    "superboum": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 11284,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 7935,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 254,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:19.568Z"
+}

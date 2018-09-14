@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "unity-spaceshooter",
+  "full_name": "ahmetabdi/unity-spaceshooter",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/unity-spaceshooter",
+  "description": "Work through of tutorial from http://unity3d.com/learn/tutorials/projects/space-shooter using Unity 5",
+  "fork": false,
+  "url": "https://api.github.com/repos/ahmetabdi/unity-spaceshooter",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/unity-spaceshooter/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/unity-spaceshooter/pulls{/number}",
+  "created_at": "2015-03-10T08:20:45Z",
+  "updated_at": "2015-11-03T15:21:14Z",
+  "pushed_at": "2015-03-10T08:58:01Z",
+  "homepage": null,
+  "size": 21960,
+  "stargazers_count": 1,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 6934,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:02.219Z"
+}

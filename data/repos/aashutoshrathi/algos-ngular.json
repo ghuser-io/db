@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "algos-ngular",
+  "full_name": "aashutoshrathi/algos-ngular",
+  "owner": "aashutoshrathi",
+  "private": false,
+  "html_url": "https://github.com/aashutoshrathi/algos-ngular",
+  "description": null,
+  "fork": true,
+  "url": "https://api.github.com/repos/aashutoshrathi/algos-ngular",
+  "languages_url": "https://api.github.com/repos/aashutoshrathi/algos-ngular/languages",
+  "pulls_url": "https://api.github.com/repos/aashutoshrathi/algos-ngular/pulls{/number}",
+  "created_at": "2017-09-13T06:16:24Z",
+  "updated_at": "2017-09-13T09:06:44Z",
+  "pushed_at": "2017-09-14T17:33:57Z",
+  "homepage": "https://mohitkyadav.github.io/algos-ngular/",
+  "size": 654,
+  "stargazers_count": 1,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "aashutoshrathi": 14,
+    "mohitkyadav": 57
+  },
+  "pulls_authors": [],
+  "languages": {
+    "TypeScript": {
+      "bytes": 12166,
+      "color": "#2b7489"
+    },
+    "HTML": {
+      "bytes": 5536,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 1646,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 865,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-05T16:59:38.302Z"
+}

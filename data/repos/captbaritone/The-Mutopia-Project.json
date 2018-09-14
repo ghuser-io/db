@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "The-Mutopia-Project",
+  "full_name": "captbaritone/The-Mutopia-Project",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/The-Mutopia-Project",
+  "description": "Open source sheet music",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/The-Mutopia-Project",
+  "languages_url": "https://api.github.com/repos/captbaritone/The-Mutopia-Project/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/The-Mutopia-Project/pulls{/number}",
+  "created_at": "2013-08-05T03:43:38Z",
+  "updated_at": "2018-07-29T22:15:04Z",
+  "pushed_at": "2013-09-01T16:05:29Z",
+  "homepage": "http://www.mutopiaproject.org/",
+  "size": 112,
+  "stargazers_count": 1,
+  "language": "Perl",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "horndude77": 1,
+    "fedelibre": 3,
+    "glenl": 6,
+    "dominicus": 8,
+    "doughdemon": 144,
+    "chrissawer": 1134
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Perl": {
+      "bytes": 277786,
+      "color": "#0298c3"
+    },
+    "Java": {
+      "bytes": 49847,
+      "color": "#b07219"
+    },
+    "C": {
+      "bytes": 28461,
+      "color": "#555555"
+    },
+    "TeX": {
+      "bytes": 12628,
+      "color": "#3D6117"
+    },
+    "Shell": {
+      "bytes": 11764,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 1388,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:54.456Z"
+}

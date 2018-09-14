@@ -1,0 +1,104 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "website",
+  "full_name": "libp2p/website",
+  "owner": "libp2p",
+  "private": false,
+  "html_url": "https://github.com/libp2p/website",
+  "description": "Webpage of the libp2p project. A multi protocol approach for a interoperable network stack that follows the 'self description' in favor of assumptions",
+  "fork": false,
+  "url": "https://api.github.com/repos/libp2p/website",
+  "languages_url": "https://api.github.com/repos/libp2p/website/languages",
+  "pulls_url": "https://api.github.com/repos/libp2p/website/pulls{/number}",
+  "created_at": "2015-09-12T14:58:45Z",
+  "updated_at": "2018-09-10T15:48:13Z",
+  "pushed_at": "2018-09-13T08:44:55Z",
+  "homepage": "https://libp2p.io",
+  "size": 18911,
+  "stargazers_count": 17,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "libp2p",
+    "id": 14838238,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0ODM4MjM4",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/14838238?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/libp2p",
+    "html_url": "https://github.com/libp2p",
+    "followers_url": "https://api.github.com/users/libp2p/followers",
+    "following_url": "https://api.github.com/users/libp2p/following{/other_user}",
+    "gists_url": "https://api.github.com/users/libp2p/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/libp2p/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/libp2p/subscriptions",
+    "organizations_url": "https://api.github.com/users/libp2p/orgs",
+    "repos_url": "https://api.github.com/users/libp2p/repos",
+    "events_url": "https://api.github.com/users/libp2p/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/libp2p/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mgoelzer": 1,
+    "quanbrew": 1,
+    "olizilla": 1,
+    "lgierth": 1,
+    "kolpin": 1,
+    "whyrusleeping": 1,
+    "RichardLitt": 1,
+    "kyledrake": 1,
+    "alanshaw": 3,
+    "mkg20001": 4,
+    "richsilv": 4,
+    "VictorBjelkholm": 17,
+    "diasdavid": 18,
+    "jesseclay": 22
+  },
+  "pulls_authors": [
+    "diasdavid",
+    "gnunicorn",
+    "mkg20001",
+    "mgoelzer",
+    "quanbrew",
+    "VictorBjelkholm",
+    "alanshaw",
+    "richsilv",
+    "olizilla",
+    "lgierth",
+    "jesseclay",
+    "kolpin",
+    "whyrusleeping",
+    "RichardLitt",
+    "kyledrake"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 63627,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 36635,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 14386,
+      "color": "#f1e05a"
+    },
+    "Makefile": {
+      "bytes": 4285,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 1665,
+      "color": "#89e051"
+    },
+    "Groovy": {
+      "bytes": 52,
+      "color": "#e69f56"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:22.798Z"
+}

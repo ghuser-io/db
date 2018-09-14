@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "demjson",
+  "full_name": "dmeranda/demjson",
+  "owner": "dmeranda",
+  "private": false,
+  "html_url": "https://github.com/dmeranda/demjson",
+  "description": "Python module for JSON data encoding, including jsonlint.  See the project Wiki here on Github.  Also read the README at the bottom of this page, or the project homepage at",
+  "fork": false,
+  "url": "https://api.github.com/repos/dmeranda/demjson",
+  "languages_url": "https://api.github.com/repos/dmeranda/demjson/languages",
+  "pulls_url": "https://api.github.com/repos/dmeranda/demjson/pulls{/number}",
+  "created_at": "2012-06-09T00:09:35Z",
+  "updated_at": "2018-09-10T08:13:32Z",
+  "pushed_at": "2018-03-12T15:50:52Z",
+  "homepage": "http://deron.meranda.us/python/demjson/",
+  "size": 300,
+  "stargazers_count": 149,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dmeranda": 41
+  },
+  "pulls_authors": [
+    "julienbaley",
+    "marcwilson",
+    "jayvdb",
+    "hugovk",
+    "jannepeltola",
+    "mattboyer",
+    "sardok",
+    "tonyseek"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 333765,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 1985,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-10T15:07:52.212Z"
+}

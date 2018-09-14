@@ -1,0 +1,34 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "BenTearzz",
+  "ghuser_created_at": "2018-08-17T13:45:22.103Z",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/24865450?v=4",
+  "html_url": "https://github.com/BenTearzz",
+  "organizations_url": "https://api.github.com/users/BenTearzz/orgs",
+  "repos_url": "https://api.github.com/users/BenTearzz/repos",
+  "type": "User",
+  "name": "Tearzz",
+  "company": null,
+  "blog": "https://www.twitch.tv/Tearzz",
+  "location": "Denmark",
+  "email": null,
+  "bio": "I stream most of my development on Twitch: https://www.twitch.tv/Tearzz",
+  "public_gists": 8,
+  "created_at": "2017-01-01T18:39:11Z",
+  "updated_at": "2018-09-12T15:20:58Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:10:02.415Z",
+    "repos": [
+      "BenTearzz/MobilePayAlerts",
+      "BenTearzz/FirefoxDiscordPresence",
+      "BenTearzz/BenTearzz.github.io",
+      "BenTearzz/RubyTwitchChatbot",
+      "BenTearzz/GMTwitchIO",
+      "BenTearzz/TwitchInteractiveLove2D",
+      "BenTearzz/LuaTwitchChatbot",
+      "BenTearzz/RandomAssRepo",
+      "BenTearzz/ShitHubRepo"
+    ]
+  }
+}

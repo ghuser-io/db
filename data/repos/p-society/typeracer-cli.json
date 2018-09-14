@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "typeracer-cli",
+  "full_name": "p-society/typeracer-cli",
+  "owner": "p-society",
+  "private": false,
+  "html_url": "https://github.com/p-society/typeracer-cli",
+  "description": "Learn how to touch type from the comfort of your terminal and challenge your friends for a match :balloon:.",
+  "fork": false,
+  "url": "https://api.github.com/repos/p-society/typeracer-cli",
+  "languages_url": "https://api.github.com/repos/p-society/typeracer-cli/languages",
+  "created_at": "2018-05-02T04:32:05Z",
+  "updated_at": "2018-09-10T19:16:08Z",
+  "pushed_at": "2018-07-19T18:41:36Z",
+  "homepage": "",
+  "size": 216,
+  "stargazers_count": 142,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "p-society",
+    "id": 29895434,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI5ODk1NDM0",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/29895434?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/p-society",
+    "html_url": "https://github.com/p-society",
+    "followers_url": "https://api.github.com/users/p-society/followers",
+    "following_url": "https://api.github.com/users/p-society/following{/other_user}",
+    "gists_url": "https://api.github.com/users/p-society/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/p-society/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/p-society/subscriptions",
+    "organizations_url": "https://api.github.com/users/p-society/orgs",
+    "repos_url": "https://api.github.com/users/p-society/repos",
+    "events_url": "https://api.github.com/users/p-society/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/p-society/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "DanielRuf": 1,
+    "palash25": 2,
+    "RajuKalidindi": 5,
+    "IamRaviTejaG": 8,
+    "knrt10": 55
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 24844,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T21:35:54.671Z",
+  "pulls_url": "https://api.github.com/repos/p-society/typeracer-cli/pulls{/number}",
+  "pulls_authors": [
+    "DanielRuf",
+    "palash25",
+    "knrt10",
+    "RajuKalidindi",
+    "IamRaviTejaG"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "max-tabs",
+  "full_name": "cheeaun/max-tabs",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/max-tabs",
+  "description": "A no-restart Firefox extension to set maximum number of opened tabs in a window.",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/max-tabs",
+  "languages_url": "https://api.github.com/repos/cheeaun/max-tabs/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/max-tabs/pulls{/number}",
+  "created_at": "2012-05-24T14:04:39Z",
+  "updated_at": "2018-07-20T15:20:31Z",
+  "pushed_at": "2016-10-18T11:38:34Z",
+  "homepage": "https://addons.mozilla.org/en-US/firefox/addon/max-tabs/",
+  "size": 253,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 10
+  },
+  "pulls_authors": [
+    "quarterto",
+    "rindeal"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2216,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:59.842Z"
+}

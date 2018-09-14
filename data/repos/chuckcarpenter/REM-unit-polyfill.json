@@ -1,0 +1,88 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 1,
+    "chrishouse": 1,
+    "hitautodestruct": 1,
+    "muchabi": 1,
+    "dvorapa": 1,
+    "ajb": 1,
+    "RedKnight91": 1,
+    "rbhalla": 2,
+    "asakurayoh": 2,
+    "bradmerlin": 5,
+    "DFurnes": 6,
+    "danReynolds": 18,
+    "alray": 20,
+    "chuckcarpenter": 21,
+    "squat": 26
+  },
+  "name": "REM-unit-polyfill",
+  "full_name": "chuckcarpenter/REM-unit-polyfill",
+  "owner": "chuckcarpenter",
+  "private": false,
+  "html_url": "https://github.com/chuckcarpenter/REM-unit-polyfill",
+  "description": "A polyfill to parse CSS links and rewrite pixel equivalents into head for non supporting browsers ",
+  "fork": false,
+  "url": "https://api.github.com/repos/chuckcarpenter/REM-unit-polyfill",
+  "languages_url": "https://api.github.com/repos/chuckcarpenter/REM-unit-polyfill/languages",
+  "created_at": "2012-08-03T13:34:59Z",
+  "updated_at": "2018-09-06T00:18:30Z",
+  "pushed_at": "2015-07-06T21:04:23Z",
+  "homepage": "http://chuckcarpenter.github.io/REM-unit-polyfill/",
+  "size": 724,
+  "stargazers_count": 714,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "JavaScript": {
+      "bytes": 9288,
+      "color": "#f1e05a"
+    },
+    "CoffeeScript": {
+      "bytes": 1687,
+      "color": "#244776"
+    },
+    "CSS": {
+      "bytes": 1559,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1242,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-06T06:39:34.623Z",
+  "pulls_url": "https://api.github.com/repos/chuckcarpenter/REM-unit-polyfill/pulls{/number}",
+  "pulls_authors": [
+    "Calinou",
+    "chrishouse",
+    "hitautodestruct",
+    "alray",
+    "muchabi",
+    "danReynolds",
+    "chuckcarpenter",
+    "rbhalla",
+    "mchandleraz",
+    "dvorapa",
+    "DFurnes",
+    "ajb",
+    "asakurayoh",
+    "lohmander",
+    "davelavoie",
+    "bradmerlin",
+    "lsvx",
+    "elsom25",
+    "nextgenthemes",
+    "RedKnight91"
+  ]
+}

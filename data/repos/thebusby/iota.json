@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "iota",
+  "full_name": "thebusby/iota",
+  "owner": "thebusby",
+  "private": false,
+  "html_url": "https://github.com/thebusby/iota",
+  "description": "A simple IO library for using Clojure's reducers",
+  "fork": false,
+  "url": "https://api.github.com/repos/thebusby/iota",
+  "languages_url": "https://api.github.com/repos/thebusby/iota/languages",
+  "pulls_url": "https://api.github.com/repos/thebusby/iota/pulls{/number}",
+  "created_at": "2012-11-01T12:54:43Z",
+  "updated_at": "2018-09-04T01:47:57Z",
+  "pushed_at": "2017-04-16T01:45:48Z",
+  "homepage": null,
+  "size": 42,
+  "stargazers_count": 273,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "smee": 1,
+    "mangolas": 3,
+    "thebusby": 24
+  },
+  "pulls_authors": [
+    "mangolas",
+    "smee"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 22290,
+      "color": "#b07219"
+    },
+    "Clojure": {
+      "bytes": 16518,
+      "color": "#db5855"
+    }
+  },
+  "fetched_at": "2018-09-11T13:51:49.443Z"
+}

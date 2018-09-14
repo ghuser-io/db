@@ -1,0 +1,85 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "incredible",
+  "full_name": "nomeata/incredible",
+  "owner": "nomeata",
+  "private": false,
+  "html_url": "https://github.com/nomeata/incredible",
+  "description": "The Incredible Proof Machine",
+  "fork": false,
+  "url": "https://api.github.com/repos/nomeata/incredible",
+  "languages_url": "https://api.github.com/repos/nomeata/incredible/languages",
+  "pulls_url": "https://api.github.com/repos/nomeata/incredible/pulls{/number}",
+  "created_at": "2015-07-24T07:46:31Z",
+  "updated_at": "2018-09-02T08:23:33Z",
+  "pushed_at": "2018-07-24T13:45:53Z",
+  "homepage": null,
+  "size": 1456,
+  "stargazers_count": 180,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "benzrf": 1,
+    "blinry": 1,
+    "michaelgwelch": 1,
+    "qznc": 1,
+    "TillRauch": 1,
+    "NightRa": 3,
+    "psibi": 3,
+    "olydis": 4,
+    "NicoleRauch": 11,
+    "mohrm": 17,
+    "gattschardo": 32,
+    "lohner": 40,
+    "nomeata": 469
+  },
+  "pulls_authors": [
+    "lohner",
+    "benzrf",
+    "cookietime--yay",
+    "NightRa",
+    "blinry",
+    "ratefuchs",
+    "michaelgwelch",
+    "rampion",
+    "gattschardo",
+    "DeepSpawn",
+    "psibi"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 76673,
+      "color": "#5e5086"
+    },
+    "JavaScript": {
+      "bytes": 68540,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 17719,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 3223,
+      "color": "#563d7c"
+    },
+    "Makefile": {
+      "bytes": 1785,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 1599,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:02.254Z"
+}

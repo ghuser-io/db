@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "FSEventDispatcher",
+  "full_name": "MasGaNo/FSEventDispatcher",
+  "owner": "MasGaNo",
+  "private": false,
+  "html_url": "https://github.com/MasGaNo/FSEventDispatcher",
+  "description": "EventDispatcher lite with real delegate management.",
+  "fork": false,
+  "url": "https://api.github.com/repos/MasGaNo/FSEventDispatcher",
+  "languages_url": "https://api.github.com/repos/MasGaNo/FSEventDispatcher/languages",
+  "pulls_url": "https://api.github.com/repos/MasGaNo/FSEventDispatcher/pulls{/number}",
+  "created_at": "2015-05-29T07:46:36Z",
+  "updated_at": "2016-11-28T10:34:44Z",
+  "pushed_at": "2017-11-08T15:29:20Z",
+  "homepage": null,
+  "size": 31,
+  "stargazers_count": 4,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "MasGaNo": 26
+  },
+  "pulls_authors": [
+    "FabianLauer",
+    "MasGaNo"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 9699,
+      "color": "#2b7489"
+    }
+  },
+  "fetched_at": "2018-09-11T17:09:41.454Z"
+}

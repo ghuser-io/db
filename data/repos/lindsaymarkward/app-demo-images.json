@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "app-demo-images",
+  "full_name": "lindsaymarkward/app-demo-images",
+  "owner": "lindsaymarkward",
+  "private": false,
+  "html_url": "https://github.com/lindsaymarkward/app-demo-images",
+  "description": "Ninja Sphere app to demo creating a pane and showing images on the LED matrix & responding to tap gestures",
+  "fork": false,
+  "url": "https://api.github.com/repos/lindsaymarkward/app-demo-images",
+  "languages_url": "https://api.github.com/repos/lindsaymarkward/app-demo-images/languages",
+  "pulls_url": "https://api.github.com/repos/lindsaymarkward/app-demo-images/pulls{/number}",
+  "created_at": "2015-07-29T10:41:22Z",
+  "updated_at": "2018-03-02T16:13:49Z",
+  "pushed_at": "2015-08-18T13:18:15Z",
+  "homepage": null,
+  "size": 190,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "elliots": 1,
+    "lindsaymarkward": 9
+  },
+  "pulls_authors": [
+    "elliots",
+    "lindsaymarkward"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 7484,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T13:45:52.206Z"
+}

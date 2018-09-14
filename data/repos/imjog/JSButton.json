@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "JSButton",
+  "full_name": "jogendra/JSButton",
+  "owner": "jogendra",
+  "private": false,
+  "html_url": "https://github.com/jogendra/JSButton",
+  "description": "A fully customisable swift subclass on UIButton which allows you to create beautiful buttons without writing any line of code.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jogendra/JSButton",
+  "languages_url": "https://api.github.com/repos/jogendra/JSButton/languages",
+  "pulls_url": "https://api.github.com/repos/jogendra/JSButton/pulls{/number}",
+  "created_at": "2017-07-31T18:33:39Z",
+  "updated_at": "2018-09-07T20:23:08Z",
+  "pushed_at": "2018-04-06T21:27:47Z",
+  "homepage": "http://www.jogendrasingh.me",
+  "size": 193,
+  "stargazers_count": 10,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "imjog": 25
+  },
+  "pulls_authors": [
+    "imjog",
+    "mikerudoy"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 11390,
+      "color": "#ffac45"
+    },
+    "Ruby": {
+      "bytes": 1879,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-08T00:03:53.578Z"
+}

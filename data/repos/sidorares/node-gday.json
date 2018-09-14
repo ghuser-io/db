@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-gday",
+  "full_name": "sidorares/node-gday",
+  "owner": "sidorares",
+  "private": false,
+  "html_url": "https://github.com/sidorares/node-gday",
+  "description": "dns-sd client (Avahi/dbus wrapper)",
+  "fork": false,
+  "url": "https://api.github.com/repos/sidorares/node-gday",
+  "languages_url": "https://api.github.com/repos/sidorares/node-gday/languages",
+  "pulls_url": "https://api.github.com/repos/sidorares/node-gday/pulls{/number}",
+  "created_at": "2013-02-12T05:51:35Z",
+  "updated_at": "2015-03-10T21:08:42Z",
+  "pushed_at": "2017-05-01T05:48:26Z",
+  "homepage": null,
+  "size": 4,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sidorares": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 11323,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:45.711Z"
+}

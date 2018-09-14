@@ -1,0 +1,76 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hxexpress",
+  "full_name": "abedev/hxexpress",
+  "owner": "abedev",
+  "private": false,
+  "html_url": "https://github.com/abedev/hxexpress",
+  "description": "Express types for Haxe",
+  "fork": false,
+  "url": "https://api.github.com/repos/abedev/hxexpress",
+  "languages_url": "https://api.github.com/repos/abedev/hxexpress/languages",
+  "pulls_url": "https://api.github.com/repos/abedev/hxexpress/pulls{/number}",
+  "created_at": "2015-02-22T01:28:37Z",
+  "updated_at": "2017-09-16T19:40:55Z",
+  "pushed_at": "2017-12-29T14:23:44Z",
+  "homepage": null,
+  "size": 363,
+  "stargazers_count": 7,
+  "language": "Haxe",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "abedev",
+    "id": 11136769,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExMTM2NzY5",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/11136769?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/abedev",
+    "html_url": "https://github.com/abedev",
+    "followers_url": "https://api.github.com/users/abedev/followers",
+    "following_url": "https://api.github.com/users/abedev/following{/other_user}",
+    "gists_url": "https://api.github.com/users/abedev/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/abedev/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/abedev/subscriptions",
+    "organizations_url": "https://api.github.com/users/abedev/orgs",
+    "repos_url": "https://api.github.com/users/abedev/repos",
+    "events_url": "https://api.github.com/users/abedev/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/abedev/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "nulld": 1,
+    "NicoM1": 1,
+    "andywhite37": 3,
+    "mlms13": 4,
+    "fponticelli": 64
+  },
+  "pulls_authors": [
+    "kLabz",
+    "andywhite37",
+    "fponticelli",
+    "nulld",
+    "mlms13",
+    "NicoM1"
+  ],
+  "languages": {
+    "Haxe": {
+      "bytes": 29969,
+      "color": "#df7900"
+    },
+    "Shell": {
+      "bytes": 393,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:52.172Z"
+}

@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "OdarGM",
+  "ghuser_created_at": "2018-08-22T05:44:52.823Z",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/28188739?v=4",
+  "html_url": "https://github.com/OdarGM",
+  "organizations_url": "https://api.github.com/users/OdarGM/orgs",
+  "repos_url": "https://api.github.com/users/OdarGM/repos",
+  "type": "User",
+  "name": "Odar",
+  "company": "@OdarArmy ",
+  "blog": "http://odar.xyz",
+  "location": "Bulgaria",
+  "email": "support@odar.xyz",
+  "bio": "Hello i am Odar and i like coding xD \r\n\r\nOwner of @OdarArmy",
+  "public_gists": 0,
+  "created_at": "2017-04-29T10:46:06Z",
+  "updated_at": "2018-09-03T14:20:03Z",
+  "organizations": [
+    "OdarArmy"
+  ],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:16:26.269Z",
+    "repos": [
+      "OdarGM/test2",
+      "OdarGM/OdarBot",
+      "OdarGM/odar.xyz",
+      "OdarGM/OdarBotInfo",
+      "OdarGM/test",
+      "OdarGM/odargm.github.io",
+      "OdarArmy/odararmy.github.io",
+      "OdarArmy/EasyDiscordPresence",
+      "js-org/js.org",
+      "OdarGM/OAWIDGETS",
+      "Forceror/PT",
+      "OdarGM/AHM-bot",
+      "OdarGM/SaliensStop",
+      "OdarGM/lolping",
+      "OdarGM/shopbot",
+      "OdarGM/GoldenCommunity-bot",
+      "OdarGM/node-opskins-tradeoffer-manager"
+    ]
+  }
+}

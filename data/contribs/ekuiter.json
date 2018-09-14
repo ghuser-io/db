@@ -1,0 +1,123 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "FeatureIDE/FeatureIDE": {
+      "full_name": "FeatureIDE/FeatureIDE",
+      "name": "FeatureIDE",
+      "stargazers_count": 53,
+      "popularity": 2.716876736929962,
+      "percentage": 0,
+      "maturity": 4.589794984097468,
+      "total_commits_count": 3913,
+      "activity": 5,
+      "total_score": 22.330220178984824,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ekuiter/PCLocator": {
+      "full_name": "ekuiter/PCLocator",
+      "name": "PCLocator",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 1.709272515882201,
+      "total_commits_count": 45,
+      "activity": 5,
+      "total_score": 8.418545031764403,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ekuiter/uvr2web": {
+      "full_name": "ekuiter/uvr2web",
+      "name": "uvr2web",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 98.18181818181819,
+      "maturity": 2.1807017899081935,
+      "total_commits_count": 55,
+      "activity": 5,
+      "total_score": 25.778099345707826,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ekuiter/feature-configurator": {
+      "full_name": "ekuiter/feature-configurator",
+      "name": "feature-configurator",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 17,
+      "activity": 1.912415948995338,
+      "total_score": 1.912415948995338,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ekuiter/kmax-vm": {
+      "full_name": "ekuiter/kmax-vm",
+      "name": "kmax-vm",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 1.6192154181954566,
+      "total_score": 1.6192154181954566,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ekuiter/feature-web": {
+      "full_name": "ekuiter/feature-web",
+      "name": "feature-web",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 9,
+      "activity": 1.4057632375592006,
+      "total_score": 1.4057632375592006,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ekuiter/stm32-projects": {
+      "full_name": "ekuiter/stm32-projects",
+      "name": "stm32-projects",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 10,
+      "activity": 0.609829706464482,
+      "total_score": 0.609829706464482,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ekuiter/stm32-docs": {
+      "full_name": "ekuiter/stm32-docs",
+      "name": "stm32-docs",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 0.5404594739921071,
+      "total_score": 0.5404594739921071,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sachinbhutani/meteor-openshift": {
+      "full_name": "sachinbhutani/meteor-openshift",
+      "name": "meteor-openshift",
+      "stargazers_count": 31,
+      "popularity": 2.478605454390306,
+      "percentage": 2.0408163265306123,
+      "maturity": 1.9607586681802867,
+      "total_commits_count": 49,
+      "activity": 0.6595054228484294,
+      "total_score": 12.674428324565104,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

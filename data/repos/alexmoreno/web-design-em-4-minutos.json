@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "web-design-em-4-minutos",
+  "full_name": "alexmoreno/web-design-em-4-minutos",
+  "owner": "alexmoreno",
+  "private": false,
+  "html_url": "https://github.com/alexmoreno/web-design-em-4-minutos",
+  "description": "Aprenda o básico do webdesign em 4 minutos!",
+  "fork": true,
+  "url": "https://api.github.com/repos/alexmoreno/web-design-em-4-minutos",
+  "languages_url": "https://api.github.com/repos/alexmoreno/web-design-em-4-minutos/languages",
+  "pulls_url": "https://api.github.com/repos/alexmoreno/web-design-em-4-minutos/pulls{/number}",
+  "created_at": "2016-07-28T18:59:47Z",
+  "updated_at": "2017-02-09T17:06:19Z",
+  "pushed_at": "2016-07-29T16:22:25Z",
+  "homepage": "http://alexmoreno.github.io/web-design-em-4-minutos/",
+  "size": 1315,
+  "stargazers_count": 5,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "AdenFlorian": 1,
+    "queuebit": 1,
+    "jonbri": 1,
+    "vincentbernat": 1,
+    "jgthms": 1,
+    "alexmoreno": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 16477,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 9238,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T04:55:59.022Z"
+}

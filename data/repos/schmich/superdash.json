@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "superdash",
+  "full_name": "schmich/superdash",
+  "owner": "schmich",
+  "private": false,
+  "html_url": "https://github.com/schmich/superdash",
+  "description": "Supervisor web dashboard.",
+  "fork": false,
+  "url": "https://api.github.com/repos/schmich/superdash",
+  "languages_url": "https://api.github.com/repos/schmich/superdash/languages",
+  "pulls_url": "https://api.github.com/repos/schmich/superdash/pulls{/number}",
+  "created_at": "2014-11-13T10:57:07Z",
+  "updated_at": "2014-11-21T01:52:22Z",
+  "pushed_at": "2014-11-21T01:52:22Z",
+  "homepage": null,
+  "size": 784,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "schmich": 29
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 10695,
+      "color": "#f1e05a"
+    },
+    "Ruby": {
+      "bytes": 5205,
+      "color": "#701516"
+    },
+    "CSS": {
+      "bytes": 5065,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:24.801Z"
+}

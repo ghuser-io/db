@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "widelands-it",
+  "full_name": "giomasce/widelands-it",
+  "owner": "giomasce",
+  "private": false,
+  "html_url": "https://github.com/giomasce/widelands-it",
+  "description": "Italian translation for Widelands",
+  "fork": false,
+  "url": "https://api.github.com/repos/giomasce/widelands-it",
+  "languages_url": "https://api.github.com/repos/giomasce/widelands-it/languages",
+  "pulls_url": "https://api.github.com/repos/giomasce/widelands-it/pulls{/number}",
+  "created_at": "2009-07-25T09:13:40Z",
+  "updated_at": "2016-05-16T14:07:22Z",
+  "pushed_at": "2010-01-07T14:22:45Z",
+  "homepage": "",
+  "size": 260,
+  "stargazers_count": 3,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "giomasce": 4,
+    "gabrielrota": 31
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T05:02:27.123Z"
+}

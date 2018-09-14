@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fui",
+  "full_name": "dblock/fui",
+  "owner": "dblock",
+  "private": false,
+  "html_url": "https://github.com/dblock/fui",
+  "description": "Find unused Objective-C imports.",
+  "fork": false,
+  "url": "https://api.github.com/repos/dblock/fui",
+  "languages_url": "https://api.github.com/repos/dblock/fui/languages",
+  "pulls_url": "https://api.github.com/repos/dblock/fui/pulls{/number}",
+  "created_at": "2014-01-22T18:18:09Z",
+  "updated_at": "2018-09-14T02:10:27Z",
+  "pushed_at": "2017-08-17T07:34:22Z",
+  "homepage": "",
+  "size": 45,
+  "stargazers_count": 1264,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ReadmeCritic": 1,
+    "Ezor": 1,
+    "paulyoung": 1,
+    "Shachlan": 5,
+    "dblock": 27
+  },
+  "pulls_authors": [
+    "Shachlan",
+    "ReadmeCritic",
+    "Ezor",
+    "jcavar",
+    "paulyoung"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 14850,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-14T08:38:07.677Z"
+}

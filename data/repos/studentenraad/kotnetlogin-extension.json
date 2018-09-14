@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "kotnetlogin-extension",
+  "full_name": "studentenraad/kotnetlogin-extension",
+  "owner": "studentenraad",
+  "private": false,
+  "html_url": "https://github.com/studentenraad/kotnetlogin-extension",
+  "description": "Kotnet Login Browser Extension",
+  "fork": false,
+  "url": "https://api.github.com/repos/studentenraad/kotnetlogin-extension",
+  "languages_url": "https://api.github.com/repos/studentenraad/kotnetlogin-extension/languages",
+  "pulls_url": "https://api.github.com/repos/studentenraad/kotnetlogin-extension/pulls{/number}",
+  "created_at": "2015-03-13T11:05:42Z",
+  "updated_at": "2018-09-13T12:54:07Z",
+  "pushed_at": "2017-02-28T15:53:05Z",
+  "homepage": "",
+  "size": 935,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "studentenraad",
+    "id": 9550012,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjk1NTAwMTI=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/9550012?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/studentenraad",
+    "html_url": "https://github.com/studentenraad",
+    "followers_url": "https://api.github.com/users/studentenraad/followers",
+    "following_url": "https://api.github.com/users/studentenraad/following{/other_user}",
+    "gists_url": "https://api.github.com/users/studentenraad/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/studentenraad/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/studentenraad/subscriptions",
+    "organizations_url": "https://api.github.com/users/studentenraad/orgs",
+    "repos_url": "https://api.github.com/users/studentenraad/repos",
+    "events_url": "https://api.github.com/users/studentenraad/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/studentenraad/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "berndie": 1,
+    "vierbergenlars": 9,
+    "eliasvandeun": 18,
+    "petermylemans": 21,
+    "ajorissen": 50
+  },
+  "pulls_authors": [
+    "berndie"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 25531,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 4106,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 2011,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-13T17:04:43.263Z"
+}

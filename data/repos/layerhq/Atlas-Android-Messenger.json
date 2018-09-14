@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Atlas-Android-Messenger",
+  "full_name": "layerhq/Atlas-Android-Messenger",
+  "owner": "layerhq",
+  "private": false,
+  "html_url": "https://github.com/layerhq/Atlas-Android-Messenger",
+  "description": "A fully-featured messaging app following Material Design guidelines, built on top of the Layer SDK, using the Atlas UI toolkit.",
+  "fork": false,
+  "url": "https://api.github.com/repos/layerhq/Atlas-Android-Messenger",
+  "languages_url": "https://api.github.com/repos/layerhq/Atlas-Android-Messenger/languages",
+  "pulls_url": "https://api.github.com/repos/layerhq/Atlas-Android-Messenger/pulls{/number}",
+  "created_at": "2015-11-17T06:19:03Z",
+  "updated_at": "2018-09-07T06:43:14Z",
+  "pushed_at": "2018-09-04T17:48:09Z",
+  "homepage": "https://layer.com",
+  "size": 1029,
+  "stargazers_count": 70,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "layerhq",
+    "id": 5497685,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjU0OTc2ODU=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/5497685?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/layerhq",
+    "html_url": "https://github.com/layerhq",
+    "followers_url": "https://api.github.com/users/layerhq/followers",
+    "following_url": "https://api.github.com/users/layerhq/following{/other_user}",
+    "gists_url": "https://api.github.com/users/layerhq/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/layerhq/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/layerhq/subscriptions",
+    "organizations_url": "https://api.github.com/users/layerhq/orgs",
+    "repos_url": "https://api.github.com/users/layerhq/repos",
+    "events_url": "https://api.github.com/users/layerhq/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/layerhq/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "bryant1410": 1,
+    "nilgradisnik": 1,
+    "sjones94549": 7,
+    "smpete": 11,
+    "sriamar": 16,
+    "thecombatwombat": 22
+  },
+  "pulls_authors": [
+    "smpete",
+    "thecombatwombat",
+    "spykins",
+    "ctrl-alt-del",
+    "sriamar",
+    "amitness",
+    "rocboronat",
+    "csbrandt",
+    "feifanzhou",
+    "sjones94549",
+    "bryant1410",
+    "nilgradisnik"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 119427,
+      "color": "#b07219"
+    },
+    "Shell": {
+      "bytes": 1760,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-07T11:19:13.047Z"
+}

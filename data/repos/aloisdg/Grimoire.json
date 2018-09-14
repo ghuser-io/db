@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Grimoire",
+  "full_name": "aloisdg/Grimoire",
+  "owner": "aloisdg",
+  "private": false,
+  "html_url": "https://github.com/aloisdg/Grimoire",
+  "description": "Grimoire is a spellcards generator for Pathfinder-fr",
+  "fork": false,
+  "url": "https://api.github.com/repos/aloisdg/Grimoire",
+  "languages_url": "https://api.github.com/repos/aloisdg/Grimoire/languages",
+  "pulls_url": "https://api.github.com/repos/aloisdg/Grimoire/pulls{/number}",
+  "created_at": "2016-10-27T00:15:49Z",
+  "updated_at": "2016-11-11T13:47:54Z",
+  "pushed_at": "2016-11-19T11:15:44Z",
+  "homepage": "",
+  "size": 588,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "godwin42sh": 2,
+    "aloisdg": 30
+  },
+  "pulls_authors": [
+    "godwin42sh"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 206225,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 5364,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 4618,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:11.001Z"
+}

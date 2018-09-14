@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "exnumerator",
+  "full_name": "KamilLelonek/exnumerator",
+  "owner": "KamilLelonek",
+  "private": false,
+  "html_url": "https://github.com/KamilLelonek/exnumerator",
+  "description": "Enumerable type in Elixir",
+  "fork": false,
+  "url": "https://api.github.com/repos/KamilLelonek/exnumerator",
+  "languages_url": "https://api.github.com/repos/KamilLelonek/exnumerator/languages",
+  "pulls_url": "https://api.github.com/repos/KamilLelonek/exnumerator/pulls{/number}",
+  "created_at": "2015-10-08T18:41:45Z",
+  "updated_at": "2018-09-14T04:30:13Z",
+  "pushed_at": "2018-04-17T16:09:48Z",
+  "homepage": null,
+  "size": 29,
+  "stargazers_count": 48,
+  "language": "Elixir",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "danielberkompas": 1,
+    "hl": 1,
+    "michalmuskala": 1,
+    "yordis": 2,
+    "jung-hunsoo": 2,
+    "mbenatti": 3,
+    "KamilLelonek": 35
+  },
+  "pulls_authors": [
+    "yordis",
+    "KamilLelonek",
+    "rzane",
+    "danielberkompas",
+    "mbenatti",
+    "jung-hunsoo",
+    "hl",
+    "michalmuskala"
+  ],
+  "languages": {
+    "Elixir": {
+      "bytes": 10245,
+      "color": "#6e4a7e"
+    }
+  },
+  "fetched_at": "2018-09-14T08:28:45.687Z"
+}

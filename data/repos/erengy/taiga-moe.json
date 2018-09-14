@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "taiga-moe",
+  "full_name": "erengy/taiga-moe",
+  "owner": "erengy",
+  "private": false,
+  "html_url": "https://github.com/erengy/taiga-moe",
+  "description": "Home page of Taiga",
+  "fork": false,
+  "url": "https://api.github.com/repos/erengy/taiga-moe",
+  "languages_url": "https://api.github.com/repos/erengy/taiga-moe/languages",
+  "pulls_url": "https://api.github.com/repos/erengy/taiga-moe/pulls{/number}",
+  "created_at": "2017-03-16T21:40:37Z",
+  "updated_at": "2018-08-30T10:32:09Z",
+  "pushed_at": "2018-08-30T10:32:08Z",
+  "homepage": "https://taiga.moe",
+  "size": 1495,
+  "stargazers_count": 3,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "wopian": 1,
+    "erengy": 47
+  },
+  "pulls_authors": [
+    "wopian"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 39792,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 20729,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 1264,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:34.241Z"
+}

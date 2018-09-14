@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mailing-postfix",
+  "full_name": "superboum/mailing-postfix",
+  "owner": "superboum",
+  "private": false,
+  "html_url": "https://github.com/superboum/mailing-postfix",
+  "description": "A web interface to handle really simple mailing lists with postfix !",
+  "fork": false,
+  "url": "https://api.github.com/repos/superboum/mailing-postfix",
+  "languages_url": "https://api.github.com/repos/superboum/mailing-postfix/languages",
+  "pulls_url": "https://api.github.com/repos/superboum/mailing-postfix/pulls{/number}",
+  "created_at": "2015-04-02T22:05:13Z",
+  "updated_at": "2015-04-03T10:11:25Z",
+  "pushed_at": "2015-04-03T10:11:25Z",
+  "homepage": null,
+  "size": 132,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "superboum": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 2558,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 1647,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:23.424Z"
+}

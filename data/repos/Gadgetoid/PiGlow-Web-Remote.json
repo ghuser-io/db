@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PiGlow-Web-Remote",
+  "full_name": "Gadgetoid/PiGlow-Web-Remote",
+  "owner": "Gadgetoid",
+  "private": false,
+  "html_url": "https://github.com/Gadgetoid/PiGlow-Web-Remote",
+  "description": "PiGlow remote using RaphaelJS front-end and Python/Flask with WiringPi2-Python back-end",
+  "fork": false,
+  "url": "https://api.github.com/repos/Gadgetoid/PiGlow-Web-Remote",
+  "languages_url": "https://api.github.com/repos/Gadgetoid/PiGlow-Web-Remote/languages",
+  "pulls_url": "https://api.github.com/repos/Gadgetoid/PiGlow-Web-Remote/pulls{/number}",
+  "created_at": "2013-08-22T15:29:16Z",
+  "updated_at": "2018-03-01T02:40:44Z",
+  "pushed_at": "2013-09-07T20:01:12Z",
+  "homepage": null,
+  "size": 124,
+  "stargazers_count": 9,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Gadgetoid": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 10558,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 8652,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 301,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:15.411Z"
+}

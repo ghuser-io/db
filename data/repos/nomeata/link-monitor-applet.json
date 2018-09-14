@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "link-monitor-applet",
+  "full_name": "nomeata/link-monitor-applet",
+  "owner": "nomeata",
+  "private": false,
+  "html_url": "https://github.com/nomeata/link-monitor-applet",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/nomeata/link-monitor-applet",
+  "languages_url": "https://api.github.com/repos/nomeata/link-monitor-applet/languages",
+  "pulls_url": "https://api.github.com/repos/nomeata/link-monitor-applet/pulls{/number}",
+  "created_at": "2012-06-03T12:50:19Z",
+  "updated_at": "2014-06-26T20:37:37Z",
+  "pushed_at": "2014-06-26T20:37:44Z",
+  "homepage": null,
+  "size": 1428,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "nomeata": 42
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 264508,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 3236,
+      "color": "#89e051"
+    },
+    "C++": {
+      "bytes": 2866,
+      "color": "#f34b7d"
+    },
+    "CSS": {
+      "bytes": 176,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:16.696Z"
+}

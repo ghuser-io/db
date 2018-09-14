@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "data-queue",
+  "full_name": "mkg20001/data-queue",
+  "owner": "mkg20001",
+  "private": false,
+  "html_url": "https://github.com/mkg20001/data-queue",
+  "description": "Queue and get data",
+  "fork": false,
+  "url": "https://api.github.com/repos/mkg20001/data-queue",
+  "languages_url": "https://api.github.com/repos/mkg20001/data-queue/languages",
+  "pulls_url": "https://api.github.com/repos/mkg20001/data-queue/pulls{/number}",
+  "created_at": "2017-08-11T16:22:54Z",
+  "updated_at": "2017-08-11T16:23:49Z",
+  "pushed_at": "2017-11-14T11:10:18Z",
+  "homepage": null,
+  "size": 5,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mkg20001": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 847,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:30.930Z"
+}

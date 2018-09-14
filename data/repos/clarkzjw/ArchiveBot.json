@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ArchiveBot",
+  "full_name": "clarkzjw/ArchiveBot",
+  "owner": "clarkzjw",
+  "private": false,
+  "html_url": "https://github.com/clarkzjw/ArchiveBot",
+  "description": "Send web links via Telegram bot and archive to webpage.",
+  "fork": false,
+  "url": "https://api.github.com/repos/clarkzjw/ArchiveBot",
+  "languages_url": "https://api.github.com/repos/clarkzjw/ArchiveBot/languages",
+  "pulls_url": "https://api.github.com/repos/clarkzjw/ArchiveBot/pulls{/number}",
+  "created_at": "2016-06-29T14:03:43Z",
+  "updated_at": "2018-07-13T16:29:00Z",
+  "pushed_at": "2018-07-13T16:28:59Z",
+  "homepage": "",
+  "size": 6,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "clarkzjw": 13
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 2961,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 359,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-23T12:44:40.733Z"
+}

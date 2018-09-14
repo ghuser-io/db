@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pingzy",
+  "full_name": "Flolagale/pingzy",
+  "owner": "Flolagale",
+  "private": false,
+  "html_url": "https://github.com/Flolagale/pingzy",
+  "description": "Ultra cheap website monitoring. Posts downtime notifications to Slack.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Flolagale/pingzy",
+  "languages_url": "https://api.github.com/repos/Flolagale/pingzy/languages",
+  "pulls_url": "https://api.github.com/repos/Flolagale/pingzy/pulls{/number}",
+  "created_at": "2014-12-27T23:14:55Z",
+  "updated_at": "2017-12-15T00:06:43Z",
+  "pushed_at": "2015-05-04T07:48:54Z",
+  "homepage": null,
+  "size": 175,
+  "stargazers_count": 11,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 1,
+    "Flolagale": 7
+  },
+  "pulls_authors": [
+    "moul"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 13565,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:37.172Z"
+}

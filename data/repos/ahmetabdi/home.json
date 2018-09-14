@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "home",
+  "full_name": "ahmetabdi/home",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/home",
+  "description": "Portfolio & Blog written in Elixir & Phoenix",
+  "fork": false,
+  "url": "https://api.github.com/repos/ahmetabdi/home",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/home/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/home/pulls{/number}",
+  "created_at": "2017-07-30T13:32:32Z",
+  "updated_at": "2017-09-20T09:07:11Z",
+  "pushed_at": "2017-10-21T16:16:04Z",
+  "homepage": "http://ahmet.pro",
+  "size": 8040,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 38
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 350550,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 48502,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 43975,
+      "color": "#563d7c"
+    },
+    "Elixir": {
+      "bytes": 29314,
+      "color": "#6e4a7e"
+    },
+    "Makefile": {
+      "bytes": 438,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:30:53.692Z"
+}

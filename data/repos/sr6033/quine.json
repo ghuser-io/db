@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "quine",
+  "full_name": "sr6033/quine",
+  "owner": "sr6033",
+  "private": false,
+  "html_url": "https://github.com/sr6033/quine",
+  "description": "Quine is a self-replication computer program",
+  "fork": false,
+  "url": "https://api.github.com/repos/sr6033/quine",
+  "languages_url": "https://api.github.com/repos/sr6033/quine/languages",
+  "created_at": "2018-07-22T04:39:32Z",
+  "updated_at": "2018-07-25T07:12:30Z",
+  "pushed_at": "2018-07-23T17:47:04Z",
+  "homepage": null,
+  "size": 13,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sr6033": 23
+  },
+  "languages": {
+    "C++": {
+      "bytes": 727,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/sr6033/quine/pulls{/number}",
+  "pulls_authors": []
+}

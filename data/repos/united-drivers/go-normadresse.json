@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-normadresse",
+  "full_name": "united-drivers/go-normadresse",
+  "owner": "united-drivers",
+  "private": false,
+  "html_url": "https://github.com/united-drivers/go-normadresse",
+  "description": ":fr: French Postal Addresses Normalizer (Golang port of etalab/normadresse)",
+  "fork": false,
+  "url": "https://api.github.com/repos/united-drivers/go-normadresse",
+  "languages_url": "https://api.github.com/repos/united-drivers/go-normadresse/languages",
+  "pulls_url": "https://api.github.com/repos/united-drivers/go-normadresse/pulls{/number}",
+  "created_at": "2018-01-30T09:46:05Z",
+  "updated_at": "2018-06-22T22:02:44Z",
+  "pushed_at": "2018-02-03T08:51:06Z",
+  "homepage": "https://www.wulo.fr/",
+  "size": 50,
+  "stargazers_count": 6,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "united-drivers",
+    "id": 40503471,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQwNTAzNDcx",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/40503471?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/united-drivers",
+    "html_url": "https://github.com/united-drivers",
+    "followers_url": "https://api.github.com/users/united-drivers/followers",
+    "following_url": "https://api.github.com/users/united-drivers/following{/other_user}",
+    "gists_url": "https://api.github.com/users/united-drivers/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/united-drivers/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/united-drivers/subscriptions",
+    "organizations_url": "https://api.github.com/users/united-drivers/orgs",
+    "repos_url": "https://api.github.com/users/united-drivers/repos",
+    "events_url": "https://api.github.com/users/united-drivers/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/united-drivers/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "moul": 20
+  },
+  "pulls_authors": [
+    "moul"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 33290,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 596,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:43.610Z"
+}

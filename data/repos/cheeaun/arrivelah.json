@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "arrivelah",
+  "full_name": "cheeaun/arrivelah",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/arrivelah",
+  "description": "Fast simple API for bus arrival times in Singapore.",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/arrivelah",
+  "languages_url": "https://api.github.com/repos/cheeaun/arrivelah/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/arrivelah/pulls{/number}",
+  "created_at": "2015-04-30T10:43:08Z",
+  "updated_at": "2018-08-09T04:34:00Z",
+  "pushed_at": "2018-08-09T04:33:58Z",
+  "homepage": "https://arrivelah.herokuapp.com/",
+  "size": 40,
+  "stargazers_count": 40,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "matiassingers": 3,
+    "cheeaun": 35
+  },
+  "pulls_authors": [
+    "matiassingers"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2473,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:52.552Z"
+}

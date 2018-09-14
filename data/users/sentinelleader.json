@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "sentinelleader",
+  "ghuser_created_at": "2018-09-10T13:06:36.675Z",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/2027982?v=4",
+  "html_url": "https://github.com/sentinelleader",
+  "organizations_url": "https://api.github.com/users/sentinelleader/orgs",
+  "repos_url": "https://api.github.com/users/sentinelleader/repos",
+  "type": "User",
+  "name": "A Sentinel Being",
+  "company": "Dropbox",
+  "blog": "http://beingasysadmin.wordpress.com",
+  "location": "Dublin",
+  "email": "deepakmdass88@gmail.com",
+  "bio": "A Sentinel Being",
+  "public_gists": 14,
+  "created_at": "2012-07-23T15:25:21Z",
+  "updated_at": "2018-07-18T23:06:06Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:17:34.813Z",
+    "repos": [
+      "sentinelleader/tailr",
+      "bazelbuild/rules_scala",
+      "sentinelleader/flete",
+      "sentinelleader/puppet-slack-reporter",
+      "sentinelleader/rtcscope-server",
+      "sentinelleader/freeswitch-debian-package",
+      "sentinelleader/file-grid",
+      "sentinelleader/sharq-metric-agents",
+      "sentinelleader/my-huboard",
+      "markwalkom/kibana-dashboards",
+      "sentinelleader/event-monitoring",
+      "sentinelleader/plivo-ruby-examples",
+      "sentinelleader/YMSGR-Ruby",
+      "sensu/sensu-community-plugins",
+      "sentinelleader/limbo"
+    ]
+  }
+}

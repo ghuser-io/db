@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "BrazilianFootball",
+  "full_name": "DiSiqueira/BrazilianFootball",
+  "owner": "DiSiqueira",
+  "private": false,
+  "html_url": "https://github.com/DiSiqueira/BrazilianFootball",
+  "description": "Display data about Brazilian football games that will occur in the next few days",
+  "fork": false,
+  "url": "https://api.github.com/repos/DiSiqueira/BrazilianFootball",
+  "languages_url": "https://api.github.com/repos/DiSiqueira/BrazilianFootball/languages",
+  "created_at": "2017-04-02T19:41:39Z",
+  "updated_at": "2017-06-03T16:28:20Z",
+  "pushed_at": "2017-04-02T22:42:26Z",
+  "homepage": null,
+  "size": 7,
+  "stargazers_count": 4,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "DiSiqueira": 6
+  },
+  "languages": {
+    "Go": {
+      "bytes": 6325,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/DiSiqueira/BrazilianFootball/pulls{/number}",
+  "pulls_authors": []
+}

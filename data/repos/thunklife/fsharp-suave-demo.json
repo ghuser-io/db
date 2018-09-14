@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fsharp-suave-demo",
+  "full_name": "thunklife/fsharp-suave-demo",
+  "owner": "thunklife",
+  "private": false,
+  "html_url": "https://github.com/thunklife/fsharp-suave-demo",
+  "description": "Demo app to show off alternatives to C#",
+  "fork": false,
+  "url": "https://api.github.com/repos/thunklife/fsharp-suave-demo",
+  "languages_url": "https://api.github.com/repos/thunklife/fsharp-suave-demo/languages",
+  "pulls_url": "https://api.github.com/repos/thunklife/fsharp-suave-demo/pulls{/number}",
+  "created_at": "2017-05-02T19:17:27Z",
+  "updated_at": "2017-05-03T12:20:25Z",
+  "pushed_at": "2017-05-03T14:03:51Z",
+  "homepage": null,
+  "size": 3,
+  "stargazers_count": 6,
+  "language": "F#",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "brase": 1
+  },
+  "pulls_authors": [
+    "brase"
+  ],
+  "languages": {
+    "F#": {
+      "bytes": 6876,
+      "color": "#b845fc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:35:38.906Z"
+}

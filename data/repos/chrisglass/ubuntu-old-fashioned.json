@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ubuntu-old-fashioned",
+  "full_name": "chrisglass/ubuntu-old-fashioned",
+  "owner": "chrisglass",
+  "private": false,
+  "html_url": "https://github.com/chrisglass/ubuntu-old-fashioned",
+  "description": "An old fashioned image builder for ubuntu.",
+  "fork": false,
+  "url": "https://api.github.com/repos/chrisglass/ubuntu-old-fashioned",
+  "languages_url": "https://api.github.com/repos/chrisglass/ubuntu-old-fashioned/languages",
+  "pulls_url": "https://api.github.com/repos/chrisglass/ubuntu-old-fashioned/pulls{/number}",
+  "created_at": "2018-01-04T14:29:22Z",
+  "updated_at": "2018-05-11T06:14:20Z",
+  "pushed_at": "2018-05-11T06:14:18Z",
+  "homepage": null,
+  "size": 846,
+  "stargazers_count": 4,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "chrisglass": 1,
+    "OddBloke": 1,
+    "rcj4747": 1,
+    "philroche": 3,
+    "sparkiegeek": 3
+  },
+  "pulls_authors": [
+    "philroche",
+    "OddBloke",
+    "chrisglass",
+    "rcj4747",
+    "sparkiegeek"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 6367,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T17:15:37.371Z"
+}

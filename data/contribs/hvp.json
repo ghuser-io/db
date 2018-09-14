@@ -1,0 +1,32 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "plamere/spotipy": {
+      "full_name": "plamere/spotipy",
+      "name": "spotipy",
+      "stargazers_count": 1340,
+      "popularity": 4.126852095775933,
+      "percentage": 0.45662100456621,
+      "maturity": 3.254830936924326,
+      "total_commits_count": 219,
+      "activity": 5,
+      "total_score": 24.13519111663347,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "hvp/Squareosity": {
+      "full_name": "hvp/Squareosity",
+      "name": "Squareosity",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 92.6829268292683,
+      "maturity": 1.0429714431619128,
+      "total_commits_count": 41,
+      "activity": 0.8473913383678155,
+      "total_score": 18.605558907942715,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

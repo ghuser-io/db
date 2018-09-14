@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "RetroCade_Synth",
+  "full_name": "Gadgetoid/RetroCade_Synth",
+  "owner": "Gadgetoid",
+  "private": false,
+  "html_url": "https://github.com/Gadgetoid/RetroCade_Synth",
+  "description": "RetroCade Synth - C64 SID, YM2149, and POKEY audio chips with MIDI interface. ",
+  "fork": true,
+  "url": "https://api.github.com/repos/Gadgetoid/RetroCade_Synth",
+  "languages_url": "https://api.github.com/repos/Gadgetoid/RetroCade_Synth/languages",
+  "pulls_url": "https://api.github.com/repos/Gadgetoid/RetroCade_Synth/pulls{/number}",
+  "created_at": "2013-05-07T18:50:00Z",
+  "updated_at": "2013-05-18T09:54:56Z",
+  "pushed_at": "2013-05-11T21:25:49Z",
+  "homepage": null,
+  "size": 129911,
+  "stargazers_count": 1,
+  "language": "Verilog",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Gadgetoid": 4,
+    "jackgassett": 83
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Verilog": {
+      "bytes": 1328816,
+      "color": "#b2b7f8"
+    },
+    "VHDL": {
+      "bytes": 1150492,
+      "color": "#adb2cb"
+    },
+    "C++": {
+      "bytes": 301021,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 43439,
+      "color": "#555555"
+    },
+    "Arduino": {
+      "bytes": 32495,
+      "color": "#ccc"
+    },
+    "Objective-C": {
+      "bytes": 11310,
+      "color": "#438eff"
+    },
+    "Shell": {
+      "bytes": 2307,
+      "color": "#89e051"
+    },
+    "Tcl": {
+      "bytes": 2155,
+      "color": "#e4cc98"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:16.679Z"
+}

@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Pumubuntu",
+  "full_name": "Pumubuntu/Pumubuntu",
+  "owner": "Pumubuntu",
+  "private": false,
+  "html_url": "https://github.com/Pumubuntu/Pumubuntu",
+  "description": "Pomodoro applet for Ubuntu with Unity compatibility.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Pumubuntu/Pumubuntu",
+  "languages_url": "https://api.github.com/repos/Pumubuntu/Pumubuntu/languages",
+  "pulls_url": "https://api.github.com/repos/Pumubuntu/Pumubuntu/pulls{/number}",
+  "created_at": "2011-05-03T20:03:51Z",
+  "updated_at": "2017-09-04T15:29:19Z",
+  "pushed_at": "2014-11-21T19:47:37Z",
+  "homepage": "pumubuntu.github.com",
+  "size": 1297,
+  "stargazers_count": 20,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "Pumubuntu",
+    "id": 1525295,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1MjUyOTU=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/1525295?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Pumubuntu",
+    "html_url": "https://github.com/Pumubuntu",
+    "followers_url": "https://api.github.com/users/Pumubuntu/followers",
+    "following_url": "https://api.github.com/users/Pumubuntu/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Pumubuntu/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Pumubuntu/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Pumubuntu/subscriptions",
+    "organizations_url": "https://api.github.com/users/Pumubuntu/orgs",
+    "repos_url": "https://api.github.com/users/Pumubuntu/repos",
+    "events_url": "https://api.github.com/users/Pumubuntu/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Pumubuntu/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ScreamingDev": 1,
+    "gilsondev": 1,
+    "rockneurotiko": 1,
+    "cemsbr": 4,
+    "jorgebg": 6,
+    "dc740": 6,
+    "antoniovazquezblanco": 28
+  },
+  "pulls_authors": [
+    "cemsbr",
+    "miguelalba-old",
+    "ScreamingDev",
+    "jorgebg",
+    "gilsondev",
+    "rockneurotiko",
+    "dc740"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 18913,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 56,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:51.806Z"
+}

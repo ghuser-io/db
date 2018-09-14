@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rosnodejs",
+  "full_name": "baalexander/rosnodejs",
+  "owner": "baalexander",
+  "private": false,
+  "html_url": "https://github.com/baalexander/rosnodejs",
+  "description": "A ROS client library using node.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/baalexander/rosnodejs",
+  "languages_url": "https://api.github.com/repos/baalexander/rosnodejs/languages",
+  "pulls_url": "https://api.github.com/repos/baalexander/rosnodejs/pulls{/number}",
+  "created_at": "2011-05-16T03:23:49Z",
+  "updated_at": "2018-02-06T14:25:04Z",
+  "pushed_at": "2013-11-02T17:38:08Z",
+  "homepage": "http://baalexander.github.com/rosnodejs/",
+  "size": 5018,
+  "stargazers_count": 37,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "garaemon": 1,
+    "temsa": 4,
+    "maxired": 8,
+    "baalexander": 181
+  },
+  "pulls_authors": [
+    "garaemon",
+    "OTL",
+    "maxired",
+    "temsa"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 62238,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 1319,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:32.828Z"
+}

@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "markdownr.com",
+  "full_name": "soffes/markdownr.com",
+  "owner": "soffes",
+  "private": false,
+  "html_url": "https://github.com/soffes/markdownr.com",
+  "description": "A nifty markdown notepad",
+  "fork": false,
+  "url": "https://api.github.com/repos/soffes/markdownr.com",
+  "languages_url": "https://api.github.com/repos/soffes/markdownr.com/languages",
+  "pulls_url": "https://api.github.com/repos/soffes/markdownr.com/pulls{/number}",
+  "created_at": "2009-08-29T19:50:50Z",
+  "updated_at": "2018-06-03T17:28:47Z",
+  "pushed_at": "2014-01-09T23:32:00Z",
+  "homepage": "http://markdownr.com",
+  "size": 1024,
+  "stargazers_count": 92,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "soffes": 105
+  },
+  "pulls_authors": [
+    "jcla1",
+    "joneslee85"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 8398,
+      "color": "#563d7c"
+    },
+    "Ruby": {
+      "bytes": 5665,
+      "color": "#701516"
+    },
+    "CoffeeScript": {
+      "bytes": 1130,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:09.281Z"
+}

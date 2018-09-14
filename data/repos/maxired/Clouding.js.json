@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Clouding.js",
+  "full_name": "maxired/Clouding.js",
+  "owner": "maxired",
+  "private": false,
+  "html_url": "https://github.com/maxired/Clouding.js",
+  "description": "Test",
+  "fork": false,
+  "url": "https://api.github.com/repos/maxired/Clouding.js",
+  "languages_url": "https://api.github.com/repos/maxired/Clouding.js/languages",
+  "pulls_url": "https://api.github.com/repos/maxired/Clouding.js/pulls{/number}",
+  "created_at": "2012-04-19T22:15:44Z",
+  "updated_at": "2017-02-21T09:38:20Z",
+  "pushed_at": "2012-04-19T22:15:44Z",
+  "homepage": null,
+  "size": 96,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "maxired": 1
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T07:36:32.729Z"
+}

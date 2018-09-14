@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gitshelf",
+  "full_name": "gitshelf/gitshelf",
+  "owner": "gitshelf",
+  "private": false,
+  "html_url": "https://github.com/gitshelf/gitshelf",
+  "description": "Manage a collection of git repos",
+  "fork": false,
+  "url": "https://api.github.com/repos/gitshelf/gitshelf",
+  "languages_url": "https://api.github.com/repos/gitshelf/gitshelf/languages",
+  "pulls_url": "https://api.github.com/repos/gitshelf/gitshelf/pulls{/number}",
+  "created_at": "2013-11-08T19:50:19Z",
+  "updated_at": "2017-11-25T22:19:07Z",
+  "pushed_at": "2018-04-04T01:05:16Z",
+  "homepage": null,
+  "size": 239,
+  "stargazers_count": 17,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "gitshelf",
+    "id": 697169,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY5NzE2OQ==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/697169?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/gitshelf",
+    "html_url": "https://github.com/gitshelf",
+    "followers_url": "https://api.github.com/users/gitshelf/followers",
+    "following_url": "https://api.github.com/users/gitshelf/following{/other_user}",
+    "gists_url": "https://api.github.com/users/gitshelf/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/gitshelf/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/gitshelf/subscriptions",
+    "organizations_url": "https://api.github.com/users/gitshelf/orgs",
+    "repos_url": "https://api.github.com/users/gitshelf/repos",
+    "events_url": "https://api.github.com/users/gitshelf/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/gitshelf/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jayvdb": 3,
+    "simonmcc": 5
+  },
+  "pulls_authors": [
+    "jayvdb"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 49779,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "skillsMeterified",
+  "full_name": "vithalreddy/skillsMeterified",
+  "owner": "vithalreddy",
+  "private": false,
+  "html_url": "https://github.com/vithalreddy/skillsMeterified",
+  "description": "A Multiple choice test taking system in which tests are tracked live and analytics are generated based on That. Built Using MEAN stack",
+  "fork": false,
+  "url": "https://api.github.com/repos/vithalreddy/skillsMeterified",
+  "languages_url": "https://api.github.com/repos/vithalreddy/skillsMeterified/languages",
+  "pulls_url": "https://api.github.com/repos/vithalreddy/skillsMeterified/pulls{/number}",
+  "created_at": "2017-06-27T15:22:37Z",
+  "updated_at": "2017-11-03T08:07:08Z",
+  "pushed_at": "2017-10-13T09:44:39Z",
+  "homepage": "http://ec2-13-59-30-132.us-east-2.compute.amazonaws.com/",
+  "size": 469,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "vithalreddy": 23
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 111570,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 44642,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 6403,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:23.246Z"
+}

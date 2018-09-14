@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hublist",
+  "full_name": "Mithrandir0x/hublist",
+  "owner": "Mithrandir0x",
+  "private": false,
+  "html_url": "https://github.com/Mithrandir0x/hublist",
+  "description": "A little web application experiment that allows the user to see his/her list of watched repos ordered by update time.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Mithrandir0x/hublist",
+  "languages_url": "https://api.github.com/repos/Mithrandir0x/hublist/languages",
+  "pulls_url": "https://api.github.com/repos/Mithrandir0x/hublist/pulls{/number}",
+  "created_at": "2012-06-22T09:25:50Z",
+  "updated_at": "2013-10-06T10:42:37Z",
+  "pushed_at": "2012-06-22T11:41:06Z",
+  "homepage": "http://mithrandir0x.github.com/hublist/",
+  "size": 232,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Mithrandir0x": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 34148,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:37:21.611Z"
+}

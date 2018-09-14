@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-sphero",
+  "full_name": "rjrodger/node-sphero",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/node-sphero",
+  "description": "Some examples of using Node to control Sphero and an SDK.",
+  "fork": true,
+  "url": "https://api.github.com/repos/rjrodger/node-sphero",
+  "languages_url": "https://api.github.com/repos/rjrodger/node-sphero/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/node-sphero/pulls{/number}",
+  "created_at": "2013-08-14T16:27:46Z",
+  "updated_at": "2016-02-04T09:36:22Z",
+  "pushed_at": "2014-03-02T12:26:15Z",
+  "homepage": null,
+  "size": 138,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "bmeck": 1,
+    "mko": 2,
+    "rjrodger": 3,
+    "shama": 3,
+    "mick": 12
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 14749,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:42.409Z"
+}

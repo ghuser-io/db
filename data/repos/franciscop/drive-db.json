@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "drive-db",
+  "full_name": "franciscop/drive-db",
+  "owner": "franciscop",
+  "private": false,
+  "html_url": "https://github.com/franciscop/drive-db",
+  "description": ":bar_chart: A Google Drive spreadsheet simple database",
+  "fork": false,
+  "url": "https://api.github.com/repos/franciscop/drive-db",
+  "languages_url": "https://api.github.com/repos/franciscop/drive-db/languages",
+  "pulls_url": "https://api.github.com/repos/franciscop/drive-db/pulls{/number}",
+  "created_at": "2015-01-19T14:25:00Z",
+  "updated_at": "2018-09-12T05:22:41Z",
+  "pushed_at": "2018-02-10T10:35:37Z",
+  "homepage": "",
+  "size": 102,
+  "stargazers_count": 519,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "franciscop": 64
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 12441,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:33:37.182Z"
+}

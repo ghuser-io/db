@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hackercreep",
+  "full_name": "toyg/hackercreep",
+  "owner": "toyg",
+  "private": false,
+  "html_url": "https://github.com/toyg/hackercreep",
+  "description": "HackerNews / Pinboard.in integration.",
+  "fork": false,
+  "url": "https://api.github.com/repos/toyg/hackercreep",
+  "languages_url": "https://api.github.com/repos/toyg/hackercreep/languages",
+  "pulls_url": "https://api.github.com/repos/toyg/hackercreep/pulls{/number}",
+  "created_at": "2016-02-21T14:58:29Z",
+  "updated_at": "2018-04-19T12:43:38Z",
+  "pushed_at": "2017-12-29T20:38:27Z",
+  "homepage": null,
+  "size": 452,
+  "stargazers_count": 9,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "toyg": 23
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 23662,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:01.941Z"
+}

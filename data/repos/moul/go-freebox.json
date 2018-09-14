@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-freebox",
+  "full_name": "moul/go-freebox",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/go-freebox",
+  "description": ":wrench: Freebox API v3 client in GO (Golang)",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/go-freebox",
+  "languages_url": "https://api.github.com/repos/moul/go-freebox/languages",
+  "pulls_url": "https://api.github.com/repos/moul/go-freebox/pulls{/number}",
+  "created_at": "2015-08-10T23:13:41Z",
+  "updated_at": "2017-12-22T17:01:56Z",
+  "pushed_at": "2015-09-06T17:24:03Z",
+  "homepage": null,
+  "size": 160,
+  "stargazers_count": 4,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 12
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 9750,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:26.286Z"
+}

@@ -1,0 +1,76 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "scaleway-camlistore",
+  "full_name": "scaleway-community/scaleway-camlistore",
+  "owner": "scaleway-community",
+  "private": false,
+  "html_url": "https://github.com/scaleway-community/scaleway-camlistore",
+  "description": ":minidisc: Camlistore as a scaleway image",
+  "fork": false,
+  "url": "https://api.github.com/repos/scaleway-community/scaleway-camlistore",
+  "languages_url": "https://api.github.com/repos/scaleway-community/scaleway-camlistore/languages",
+  "pulls_url": "https://api.github.com/repos/scaleway-community/scaleway-camlistore/pulls{/number}",
+  "created_at": "2015-09-10T13:11:47Z",
+  "updated_at": "2018-08-30T08:06:42Z",
+  "pushed_at": "2017-07-31T11:23:42Z",
+  "homepage": "https://www.scaleway.com/imagehub/camlistore/",
+  "size": 32,
+  "stargazers_count": 7,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "scaleway-community",
+    "id": 14197047,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0MTk3MDQ3",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/14197047?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/scaleway-community",
+    "html_url": "https://github.com/scaleway-community",
+    "followers_url": "https://api.github.com/users/scaleway-community/followers",
+    "following_url": "https://api.github.com/users/scaleway-community/following{/other_user}",
+    "gists_url": "https://api.github.com/users/scaleway-community/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/scaleway-community/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/scaleway-community/subscriptions",
+    "organizations_url": "https://api.github.com/users/scaleway-community/orgs",
+    "repos_url": "https://api.github.com/users/scaleway-community/repos",
+    "events_url": "https://api.github.com/users/scaleway-community/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/scaleway-community/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "moul": 1,
+    "QuentinPerez": 2,
+    "mpl": 27
+  },
+  "pulls_authors": [
+    "carmebar",
+    "QuentinPerez",
+    "mpl",
+    "moul"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 6742,
+      "color": "#375eab"
+    },
+    "Shell": {
+      "bytes": 1986,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 536,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:03.737Z"
+}

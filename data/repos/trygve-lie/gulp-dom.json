@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gulp-dom",
+  "full_name": "trygve-lie/gulp-dom",
+  "owner": "trygve-lie",
+  "private": false,
+  "html_url": "https://github.com/trygve-lie/gulp-dom",
+  "description": "Gulp plugin for generic DOM manipulation",
+  "fork": false,
+  "url": "https://api.github.com/repos/trygve-lie/gulp-dom",
+  "languages_url": "https://api.github.com/repos/trygve-lie/gulp-dom/languages",
+  "pulls_url": "https://api.github.com/repos/trygve-lie/gulp-dom/pulls{/number}",
+  "created_at": "2014-09-08T09:51:33Z",
+  "updated_at": "2017-11-22T09:28:35Z",
+  "pushed_at": "2017-06-19T04:10:47Z",
+  "homepage": "",
+  "size": 74,
+  "stargazers_count": 18,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "SeinopSys": 1,
+    "greenkeeperio-bot": 61,
+    "trygve-lie": 90
+  },
+  "pulls_authors": [
+    "mortonfox",
+    "greenkeeperio-bot",
+    "kmorey",
+    "SeinopSys",
+    "trygve-lie",
+    "msc654",
+    "mil"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 3453,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-18T09:22:04.376Z"
+}

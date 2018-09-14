@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "LINQExamples",
+  "full_name": "exceptionnotfound/LINQExamples",
+  "owner": "exceptionnotfound",
+  "private": false,
+  "html_url": "https://github.com/exceptionnotfound/LINQExamples",
+  "description": "A Beginner's Guide to LINQ in .NET",
+  "fork": false,
+  "url": "https://api.github.com/repos/exceptionnotfound/LINQExamples",
+  "languages_url": "https://api.github.com/repos/exceptionnotfound/LINQExamples/languages",
+  "pulls_url": "https://api.github.com/repos/exceptionnotfound/LINQExamples/pulls{/number}",
+  "created_at": "2015-04-23T21:04:38Z",
+  "updated_at": "2018-06-04T05:49:03Z",
+  "pushed_at": "2015-10-05T10:45:07Z",
+  "homepage": "http://www.exceptionnotfound.net/linq-for-beginners/",
+  "size": 8834,
+  "stargazers_count": 4,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "exceptionnotfound": 3
+  },
+  "pulls_authors": [
+    "aloisdg"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 48640,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:20.141Z"
+}

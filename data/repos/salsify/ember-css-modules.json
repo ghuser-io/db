@@ -1,0 +1,103 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ember-css-modules",
+  "full_name": "salsify/ember-css-modules",
+  "owner": "salsify",
+  "private": false,
+  "html_url": "https://github.com/salsify/ember-css-modules",
+  "description": "CSS Modules for ambitious applications",
+  "fork": false,
+  "url": "https://api.github.com/repos/salsify/ember-css-modules",
+  "languages_url": "https://api.github.com/repos/salsify/ember-css-modules/languages",
+  "created_at": "2016-02-16T15:16:29Z",
+  "updated_at": "2018-09-13T22:35:01Z",
+  "pushed_at": "2018-09-13T22:35:00Z",
+  "homepage": "",
+  "size": 902,
+  "stargazers_count": 217,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "salsify",
+    "id": 2165267,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIxNjUyNjc=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/2165267?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/salsify",
+    "html_url": "https://github.com/salsify",
+    "followers_url": "https://api.github.com/users/salsify/followers",
+    "following_url": "https://api.github.com/users/salsify/following{/other_user}",
+    "gists_url": "https://api.github.com/users/salsify/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/salsify/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/salsify/subscriptions",
+    "organizations_url": "https://api.github.com/users/salsify/orgs",
+    "repos_url": "https://api.github.com/users/salsify/repos",
+    "events_url": "https://api.github.com/users/salsify/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/salsify/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "buschtoens": 14,
+    "devotox": 1,
+    "kellyselden": 1,
+    "garno": 1,
+    "wattyrevBT": 1,
+    "deverstalmage": 1,
+    "jessedijkstra": 1,
+    "rlivsey": 1,
+    "timkendall": 1,
+    "cibernox": 1,
+    "ember-tomster": 1,
+    "alexlafroscia": 4,
+    "kehphin": 4,
+    "jasonmit": 7,
+    "dfreeman": 187,
+    "runspired": 1
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 93858,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 4612,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 3931,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-13T23:51:49.753Z",
+  "pulls_url": "https://api.github.com/repos/salsify/ember-css-modules/pulls{/number}",
+  "pulls_authors": [
+    "buschtoens",
+    "dfreeman",
+    "devotox",
+    "kellyselden",
+    "garno",
+    "luxferresum",
+    "wattyrevBT",
+    "alexlafroscia",
+    "jasonmit",
+    "kehphin",
+    "jessedijkstra",
+    "rlivsey",
+    "asvny",
+    "mattsacks",
+    "timkendall",
+    "cibernox",
+    "ghost",
+    "runspired"
+  ]
+}

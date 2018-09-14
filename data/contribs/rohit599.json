@@ -1,0 +1,110 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "BaReinhard/Hacktoberfest-Data-Structure-and-Algorithms": {
+      "full_name": "BaReinhard/Hacktoberfest-Data-Structure-and-Algorithms",
+      "name": "Hacktoberfest-Data-Structure-and-Algorithms",
+      "stargazers_count": 114,
+      "popularity": 3.0535016590191395,
+      "percentage": 0,
+      "maturity": 3.7871370595744747,
+      "total_commits_count": 650,
+      "activity": 1.624749493782836,
+      "total_score": 18.359528589989203,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Roshanjossey/first-contributions": {
+      "full_name": "Roshanjossey/first-contributions",
+      "name": "first-contributions",
+      "stargazers_count": 2887,
+      "popularity": 4.460350462114573,
+      "percentage": 0.019696671262556628,
+      "maturity": 5,
+      "total_commits_count": 10154,
+      "activity": 5,
+      "total_score": 28.392472413723567,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "rishabh-bansal/Make-a-Pull-Request": {
+      "full_name": "rishabh-bansal/Make-a-Pull-Request",
+      "name": "Make-a-Pull-Request",
+      "stargazers_count": 131,
+      "popularity": 3.1143163551711277,
+      "percentage": 0.14992503748125938,
+      "maturity": 3.7990728430571212,
+      "total_commits_count": 667,
+      "activity": 5,
+      "total_score": 22.001793571143704,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "AliceWonderland/hacktoberfest": {
+      "full_name": "AliceWonderland/hacktoberfest",
+      "name": "hacktoberfest",
+      "stargazers_count": 319,
+      "popularity": 3.5026027454730246,
+      "percentage": 0,
+      "maturity": 4.18045422288865,
+      "total_commits_count": 1549,
+      "activity": 5,
+      "total_score": 23.86871668219637,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Nguyen17/Hacktoberfest-Sign-In": {
+      "full_name": "Nguyen17/Hacktoberfest-Sign-In",
+      "name": "Hacktoberfest-Sign-In",
+      "stargazers_count": 66,
+      "popularity": 2.813620017180149,
+      "percentage": 0,
+      "maturity": 2.9978082245019047,
+      "total_commits_count": 139,
+      "activity": 5,
+      "total_score": 19.436476500544256,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Rohit599/Shell_Scripts": {
+      "full_name": "Rohit599/Shell_Scripts",
+      "name": "Shell_Scripts",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 30,
+      "activity": 1.1098592535800416,
+      "total_score": 1.1098592535800416,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Rohit599/Android_Projects": {
+      "full_name": "Rohit599/Android_Projects",
+      "name": "Android_Projects",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 1.0527991910619305,
+      "total_score": 1.0527991910619305,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Rohit599/Database_Structures-Algorithms": {
+      "full_name": "Rohit599/Database_Structures-Algorithms",
+      "name": "Database_Structures-Algorithms",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 5,
+      "total_score": 5,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

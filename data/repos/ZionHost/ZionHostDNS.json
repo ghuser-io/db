@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ZionHostDNS",
+  "full_name": "ZionHost/ZionHostDNS",
+  "owner": "ZionHost",
+  "private": false,
+  "html_url": "https://github.com/ZionHost/ZionHostDNS",
+  "description": "ZionHostDNS based on DjangoPowerDNS",
+  "fork": false,
+  "url": "https://api.github.com/repos/ZionHost/ZionHostDNS",
+  "languages_url": "https://api.github.com/repos/ZionHost/ZionHostDNS/languages",
+  "pulls_url": "https://api.github.com/repos/ZionHost/ZionHostDNS/pulls{/number}",
+  "created_at": "2017-12-10T18:39:38Z",
+  "updated_at": "2017-12-11T00:58:03Z",
+  "pushed_at": "2017-12-10T19:11:35Z",
+  "homepage": null,
+  "size": 4207,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ZionHost",
+    "id": 16609326,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2NjA5MzI2",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/16609326?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ZionHost",
+    "html_url": "https://github.com/ZionHost",
+    "followers_url": "https://api.github.com/users/ZionHost/followers",
+    "following_url": "https://api.github.com/users/ZionHost/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ZionHost/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ZionHost/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ZionHost/subscriptions",
+    "organizations_url": "https://api.github.com/users/ZionHost/orgs",
+    "repos_url": "https://api.github.com/users/ZionHost/repos",
+    "events_url": "https://api.github.com/users/ZionHost/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ZionHost/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mkg20001": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CSS": {
+      "bytes": 422348,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 346863,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 269140,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 57754,
+      "color": "#3572A5"
+    },
+    "Ruby": {
+      "bytes": 7835,
+      "color": "#701516"
+    },
+    "PowerShell": {
+      "bytes": 935,
+      "color": "#012456"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:29.826Z"
+}

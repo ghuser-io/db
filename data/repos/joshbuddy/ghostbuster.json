@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ghostbuster",
+  "full_name": "joshbuddy/ghostbuster",
+  "owner": "joshbuddy",
+  "private": false,
+  "html_url": "https://github.com/joshbuddy/ghostbuster",
+  "description": "Integration testing ftw",
+  "fork": false,
+  "url": "https://api.github.com/repos/joshbuddy/ghostbuster",
+  "languages_url": "https://api.github.com/repos/joshbuddy/ghostbuster/languages",
+  "pulls_url": "https://api.github.com/repos/joshbuddy/ghostbuster/pulls{/number}",
+  "created_at": "2011-08-26T09:29:57Z",
+  "updated_at": "2018-07-25T22:36:02Z",
+  "pushed_at": "2012-04-10T17:54:25Z",
+  "homepage": "",
+  "size": 182,
+  "stargazers_count": 274,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "iStefo": 1,
+    "bo-chen": 1,
+    "FranklinChen": 1,
+    "masondesu": 4,
+    "harob": 5,
+    "joshbuddy": 64
+  },
+  "pulls_authors": [
+    "iStefo",
+    "masondesu",
+    "zensatellite",
+    "bo-chen",
+    "gregwebs",
+    "harob",
+    "chrismytton",
+    "schmurfy"
+  ],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 19914,
+      "color": "#244776"
+    },
+    "Ruby": {
+      "bytes": 11237,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 303,
+      "color": "#89e051"
+    },
+    "JavaScript": {
+      "bytes": 297,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:50.549Z"
+}

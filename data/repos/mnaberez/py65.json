@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "py65",
+  "full_name": "mnaberez/py65",
+  "owner": "mnaberez",
+  "private": false,
+  "html_url": "https://github.com/mnaberez/py65",
+  "description": "Simulate 6502-based microcomputer systems in Python",
+  "fork": false,
+  "url": "https://api.github.com/repos/mnaberez/py65",
+  "languages_url": "https://api.github.com/repos/mnaberez/py65/languages",
+  "pulls_url": "https://api.github.com/repos/mnaberez/py65/pulls{/number}",
+  "created_at": "2009-02-08T05:01:22Z",
+  "updated_at": "2018-08-26T00:08:45Z",
+  "pushed_at": "2018-07-18T20:56:43Z",
+  "homepage": "http://py65.readthedocs.org/",
+  "size": 698,
+  "stargazers_count": 106,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "scotws": 1,
+    "agatti": 1,
+    "irmen": 2,
+    "mkeller0815": 6,
+    "offe": 21,
+    "BigEd": 26,
+    "mnaberez": 448
+  },
+  "pulls_authors": [
+    "BigEd",
+    "scotws",
+    "6502cloud",
+    "irmen",
+    "mkeller0815",
+    "agatti",
+    "GunioRobot"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 484357,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T15:09:54.621Z"
+}

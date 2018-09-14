@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "translator",
+  "full_name": "moul/translator",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/translator",
+  "description": ":microphone: Translator micro-service",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/translator",
+  "languages_url": "https://api.github.com/repos/moul/translator/languages",
+  "pulls_url": "https://api.github.com/repos/moul/translator/pulls{/number}",
+  "created_at": "2016-12-14T19:16:20Z",
+  "updated_at": "2018-06-19T23:13:27Z",
+  "pushed_at": "2018-08-18T16:16:18Z",
+  "homepage": null,
+  "size": 4233,
+  "stargazers_count": 7,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 18
+  },
+  "pulls_authors": [
+    "imgbot[bot]",
+    "renovate[bot]"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 5836,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 941,
+      "color": "#427819"
+    },
+    "Protocol Buffer": {
+      "bytes": 380,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:49.435Z"
+}

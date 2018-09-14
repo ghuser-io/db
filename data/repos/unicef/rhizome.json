@@ -1,0 +1,102 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rhizome",
+  "full_name": "unicef/rhizome",
+  "owner": "unicef",
+  "private": false,
+  "html_url": "https://github.com/unicef/rhizome",
+  "description": "Generic ETL Engine / Visualization Framework for Polio and Beyond!",
+  "fork": false,
+  "url": "https://api.github.com/repos/unicef/rhizome",
+  "languages_url": "https://api.github.com/repos/unicef/rhizome/languages",
+  "pulls_url": "https://api.github.com/repos/unicef/rhizome/pulls{/number}",
+  "created_at": "2015-09-21T00:46:23Z",
+  "updated_at": "2018-08-09T23:29:07Z",
+  "pushed_at": "2016-10-05T20:51:38Z",
+  "homepage": null,
+  "size": 55677,
+  "stargazers_count": 13,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "unicef",
+    "id": 175849,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3NTg0OQ==",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/175849?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/unicef",
+    "html_url": "https://github.com/unicef",
+    "followers_url": "https://api.github.com/users/unicef/followers",
+    "following_url": "https://api.github.com/users/unicef/following{/other_user}",
+    "gists_url": "https://api.github.com/users/unicef/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/unicef/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/unicef/subscriptions",
+    "organizations_url": "https://api.github.com/users/unicef/orgs",
+    "repos_url": "https://api.github.com/users/unicef/repos",
+    "events_url": "https://api.github.com/users/unicef/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/unicef/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "cotsog": 2,
+    "default50": 8,
+    "liubko": 8,
+    "vhpgomes": 10,
+    "ahmadzai": 16,
+    "dandelany": 24,
+    "lzufengye": 25,
+    "morlay": 25,
+    "cloudonshore": 33,
+    "abruzzi": 39,
+    "sypl": 133,
+    "liurong92": 218,
+    "mepoole": 220,
+    "lrrfantasy": 294,
+    "zhangsichu": 364,
+    "vivihuang": 394,
+    "darthmall": 550,
+    "dimamarkus": 1021,
+    "Adusei": 3529
+  },
+  "pulls_authors": [
+    "er-san",
+    "cotsog",
+    "default50",
+    "vhpgomes",
+    "abruzzi",
+    "gigix"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 706786,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 466350,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 221765,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 10753,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 2487,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T17:08:30.924Z"
+}

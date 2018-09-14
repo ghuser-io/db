@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "api-docs",
+  "full_name": "hummingbird-me/api-docs",
+  "owner": "hummingbird-me",
+  "private": false,
+  "html_url": "https://github.com/hummingbird-me/api-docs",
+  "description": "🤖 API documentation for Kitsu",
+  "fork": false,
+  "url": "https://api.github.com/repos/hummingbird-me/api-docs",
+  "languages_url": "https://api.github.com/repos/hummingbird-me/api-docs/languages",
+  "pulls_url": "https://api.github.com/repos/hummingbird-me/api-docs/pulls{/number}",
+  "created_at": "2017-05-26T04:21:01Z",
+  "updated_at": "2018-09-12T06:27:07Z",
+  "pushed_at": "2018-08-10T19:13:14Z",
+  "homepage": "https://kitsu.docs.apiary.io",
+  "size": 495,
+  "stargazers_count": 26,
+  "language": "API Blueprint",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "source",
+  "organization": {
+    "login": "hummingbird-me",
+    "id": 7648832,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc2NDg4MzI=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/7648832?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hummingbird-me",
+    "html_url": "https://github.com/hummingbird-me",
+    "followers_url": "https://api.github.com/users/hummingbird-me/followers",
+    "following_url": "https://api.github.com/users/hummingbird-me/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hummingbird-me/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hummingbird-me/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hummingbird-me/subscriptions",
+    "organizations_url": "https://api.github.com/users/hummingbird-me/orgs",
+    "repos_url": "https://api.github.com/users/hummingbird-me/repos",
+    "events_url": "https://api.github.com/users/hummingbird-me/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hummingbird-me/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "synthtech": 26,
+    "JasonLighthunter": 30,
+    "wopian": 144
+  },
+  "pulls_authors": [
+    "Kadantte",
+    "synthtech",
+    "JasonLighthunter"
+  ],
+  "languages": {
+    "API Blueprint": {
+      "bytes": 199977,
+      "color": "#2ACCA8"
+    },
+    "JavaScript": {
+      "bytes": 1201,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 501,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:33.377Z"
+}

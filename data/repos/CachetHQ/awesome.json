@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "awesome",
+  "full_name": "CachetHQ/awesome",
+  "owner": "CachetHQ",
+  "private": false,
+  "html_url": "https://github.com/CachetHQ/awesome",
+  "description": "A collection of awesome Cachet articles, resources and shiny things. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/CachetHQ/awesome",
+  "languages_url": "https://api.github.com/repos/CachetHQ/awesome/languages",
+  "pulls_url": "https://api.github.com/repos/CachetHQ/awesome/pulls{/number}",
+  "created_at": "2018-06-16T14:26:53Z",
+  "updated_at": "2018-06-26T14:59:40Z",
+  "pushed_at": "2018-06-16T21:36:15Z",
+  "homepage": "https://cachethq.io",
+  "size": 8,
+  "stargazers_count": 7,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "cc0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "spdx_id": "CC0-1.0",
+    "url": "https://api.github.com/licenses/cc0-1.0",
+    "node_id": "MDc6TGljZW5zZTY="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "CachetHQ",
+    "id": 9951502,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjk5NTE1MDI=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/9951502?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/CachetHQ",
+    "html_url": "https://github.com/CachetHQ",
+    "followers_url": "https://api.github.com/users/CachetHQ/followers",
+    "following_url": "https://api.github.com/users/CachetHQ/following{/other_user}",
+    "gists_url": "https://api.github.com/users/CachetHQ/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/CachetHQ/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/CachetHQ/subscriptions",
+    "organizations_url": "https://api.github.com/users/CachetHQ/orgs",
+    "repos_url": "https://api.github.com/users/CachetHQ/repos",
+    "events_url": "https://api.github.com/users/CachetHQ/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/CachetHQ/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "awjudd": 1,
+    "jbrooksuk": 9
+  },
+  "pulls_authors": [
+    "awjudd"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-12T05:04:15.606Z"
+}

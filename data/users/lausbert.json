@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "Lausbert",
+  "ghuser_created_at": "2018-09-11T01:50:30.401Z",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/13764221?v=4",
+  "html_url": "https://github.com/Lausbert",
+  "organizations_url": "https://api.github.com/users/Lausbert/orgs",
+  "repos_url": "https://api.github.com/users/Lausbert/repos",
+  "type": "User",
+  "name": "Stephan Lerner",
+  "company": null,
+  "blog": "http://lausbert.com",
+  "location": "Hamburg, Germany",
+  "email": null,
+  "bio": null,
+  "public_gists": 0,
+  "created_at": "2015-08-12T10:55:59Z",
+  "updated_at": "2018-06-25T09:57:38Z",
+  "organizations": [
+    "apploft"
+  ],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:15:20.389Z",
+    "repos": [
+      "Lausbert/Exermote",
+      "apploft/staticLibrariesTest",
+      "Lausbert/An-Introduction-to-Machine-Learning",
+      "Lausbert/Snaptake",
+      "apploft/Whisper",
+      "apploft/ExpandableLabel",
+      "Lausbert/ColorGame",
+      "likedan/Awesome-CoreML-Models",
+      "Lausbert/Pokedex",
+      "Lausbert/LausNet_Firebase",
+      "Lausbert/Woodwork",
+      "Lausbert/Codewars",
+      "Lausbert/WeatherApp",
+      "Lausbert/Puzzle",
+      "Lausbert/SCSIM",
+      "xmartlabs/Eureka"
+    ]
+  }
+}

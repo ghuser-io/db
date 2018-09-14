@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dolphin-mobile-gc-controller",
+  "full_name": "hauxir/dolphin-mobile-gc-controller",
+  "owner": "hauxir",
+  "private": false,
+  "html_url": "https://github.com/hauxir/dolphin-mobile-gc-controller",
+  "description": "Use your smartphone as a controller for the Dolphin emulator",
+  "fork": false,
+  "url": "https://api.github.com/repos/hauxir/dolphin-mobile-gc-controller",
+  "languages_url": "https://api.github.com/repos/hauxir/dolphin-mobile-gc-controller/languages",
+  "pulls_url": "https://api.github.com/repos/hauxir/dolphin-mobile-gc-controller/pulls{/number}",
+  "created_at": "2017-10-26T15:23:13Z",
+  "updated_at": "2018-08-21T10:47:01Z",
+  "pushed_at": "2018-02-23T23:58:23Z",
+  "homepage": null,
+  "size": 55,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "valtyr": 7,
+    "hauxir": 26
+  },
+  "pulls_authors": [
+    "valtyr"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 13458,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 7929,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 2651,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 335,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T17:10:00.819Z"
+}

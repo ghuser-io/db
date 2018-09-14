@@ -1,0 +1,126 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "prudhvitella/terraform-provider-infoblox": {
+      "full_name": "prudhvitella/terraform-provider-infoblox",
+      "name": "terraform-provider-infoblox",
+      "stargazers_count": 21,
+      "popularity": 2.3032349516115587,
+      "percentage": 34.146341463414636,
+      "maturity": 1.0429714431619128,
+      "total_commits_count": 41,
+      "activity": 1.7858051363673186,
+      "total_score": 21.005569004191763,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "fanatic/go-infoblox": {
+      "full_name": "fanatic/go-infoblox",
+      "name": "go-infoblox",
+      "stargazers_count": 17,
+      "popularity": 2.206864721909315,
+      "percentage": 10.81081081081081,
+      "maturity": 0,
+      "total_commits_count": 37,
+      "activity": 5,
+      "total_score": 14.722133774897792,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "monkeylittleinc/jenkins_plugins": {
+      "full_name": "monkeylittleinc/jenkins_plugins",
+      "name": "jenkins_plugins",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 37,
+      "activity": 1.1285703125872844,
+      "total_score": 1.1285703125872844,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Xorlev/slogd": {
+      "full_name": "Xorlev/slogd",
+      "name": "slogd",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 1.5873015873015872,
+      "maturity": 2.3653407969119673,
+      "total_commits_count": 63,
+      "activity": 1.182330156699035,
+      "total_score": 5.913011750522969,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sous-chefs/java": {
+      "full_name": "sous-chefs/java",
+      "name": "java",
+      "stargazers_count": 327,
+      "popularity": 3.513389875473062,
+      "percentage": 0.12150668286755771,
+      "maturity": 3.895553321296072,
+      "total_commits_count": 823,
+      "activity": 2.5530099836170215,
+      "total_score": 20.939783298048948,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "hexorx/countries": {
+      "full_name": "hexorx/countries",
+      "name": "countries",
+      "stargazers_count": 1308,
+      "popularity": 4.116347900318337,
+      "percentage": 0.10964912280701754,
+      "maturity": 3.9423024064010033,
+      "total_commits_count": 912,
+      "activity": 5,
+      "total_score": 25.29232452549401,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "JackBracken/PicnicDefender": {
+      "full_name": "JackBracken/PicnicDefender",
+      "name": "PicnicDefender",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 40,
+      "activity": 0.42195294164042174,
+      "total_score": 0.42195294164042174,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "JackBracken/Boltzmann-Machine": {
+      "full_name": "JackBracken/Boltzmann-Machine",
+      "name": "Boltzmann-Machine",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 0.19819610984270408,
+      "total_score": 16.861047636929747,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "JackBracken/ShopHelper": {
+      "full_name": "JackBracken/ShopHelper",
+      "name": "ShopHelper",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 0.19545752739310274,
+      "total_score": 0.19545752739310274,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "monkeylittleinc",
+    "sous-chefs"
+  ]
+}

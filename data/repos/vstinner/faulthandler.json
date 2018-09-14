@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "faulthandler",
+  "full_name": "vstinner/faulthandler",
+  "owner": "vstinner",
+  "private": false,
+  "html_url": "https://github.com/vstinner/faulthandler",
+  "description": "Fault handler for Python: display the Python backtrace on SIGSEGV, SIGFPE, SIGABRT, SIGBUS and SIGILL signals",
+  "fork": false,
+  "url": "https://api.github.com/repos/vstinner/faulthandler",
+  "languages_url": "https://api.github.com/repos/vstinner/faulthandler/languages",
+  "pulls_url": "https://api.github.com/repos/vstinner/faulthandler/pulls{/number}",
+  "created_at": "2010-12-23T23:59:12Z",
+  "updated_at": "2018-06-20T15:59:32Z",
+  "pushed_at": "2018-04-23T12:57:11Z",
+  "homepage": "https://faulthandler.readthedocs.io/",
+  "size": 295,
+  "stargazers_count": 86,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dotlambda": 1,
+    "EdwardBetts": 1,
+    "nirgilboa": 1,
+    "adamchainz": 1,
+    "nicoddemus": 1,
+    "bz2": 1,
+    "jayvdb": 2,
+    "ionelmc": 2,
+    "haypoenovance": 12,
+    "vstinner": 70
+  },
+  "pulls_authors": [
+    "dotlambda",
+    "jayvdb",
+    "EdwardBetts",
+    "nirgilboa",
+    "stfp",
+    "adamchainz",
+    "cowo78",
+    "ionelmc",
+    "albertz",
+    "nicoddemus",
+    "tailhook",
+    "dsully"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 43454,
+      "color": "#555555"
+    },
+    "Python": {
+      "bytes": 33700,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

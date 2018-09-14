@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "event-sourcing-clj",
+  "full_name": "harlanji/event-sourcing-clj",
+  "owner": "harlanji",
+  "private": false,
+  "html_url": "https://github.com/harlanji/event-sourcing-clj",
+  "description": "Playing around with event sourcing in Clojure -- POC / api design",
+  "fork": false,
+  "url": "https://api.github.com/repos/harlanji/event-sourcing-clj",
+  "languages_url": "https://api.github.com/repos/harlanji/event-sourcing-clj/languages",
+  "pulls_url": "https://api.github.com/repos/harlanji/event-sourcing-clj/pulls{/number}",
+  "created_at": "2016-10-10T17:49:33Z",
+  "updated_at": "2016-12-07T10:16:49Z",
+  "pushed_at": "2016-11-20T02:07:42Z",
+  "homepage": null,
+  "size": 71,
+  "stargazers_count": 1,
+  "language": "Clojure",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "harlanji": 49
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Clojure": {
+      "bytes": 35035,
+      "color": "#db5855"
+    },
+    "CSS": {
+      "bytes": 50,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T01:33:31.011Z"
+}

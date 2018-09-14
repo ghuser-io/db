@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gradlegrader",
+  "full_name": "cs125-illinois/gradlegrader",
+  "owner": "cs125-illinois",
+  "private": false,
+  "html_url": "https://github.com/cs125-illinois/gradlegrader",
+  "description": "CS125 custom grading tasks.",
+  "fork": false,
+  "url": "https://api.github.com/repos/cs125-illinois/gradlegrader",
+  "languages_url": "https://api.github.com/repos/cs125-illinois/gradlegrader/languages",
+  "pulls_url": "https://api.github.com/repos/cs125-illinois/gradlegrader/pulls{/number}",
+  "created_at": "2017-09-20T15:52:59Z",
+  "updated_at": "2018-09-12T00:31:30Z",
+  "pushed_at": "2018-09-03T20:24:37Z",
+  "homepage": null,
+  "size": 137,
+  "stargazers_count": 1,
+  "language": "Groovy",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "cs125-illinois",
+    "id": 31111283,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMxMTExMjgz",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/31111283?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/cs125-illinois",
+    "html_url": "https://github.com/cs125-illinois",
+    "followers_url": "https://api.github.com/users/cs125-illinois/followers",
+    "following_url": "https://api.github.com/users/cs125-illinois/following{/other_user}",
+    "gists_url": "https://api.github.com/users/cs125-illinois/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/cs125-illinois/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/cs125-illinois/subscriptions",
+    "organizations_url": "https://api.github.com/users/cs125-illinois/orgs",
+    "repos_url": "https://api.github.com/users/cs125-illinois/repos",
+    "events_url": "https://api.github.com/users/cs125-illinois/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/cs125-illinois/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "alichtman": 1,
+    "gchallen": 45
+  },
+  "pulls_authors": [
+    "alichtman"
+  ],
+  "languages": {
+    "Groovy": {
+      "bytes": 22386,
+      "color": "#e69f56"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:05.131Z"
+}

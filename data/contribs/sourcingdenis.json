@@ -1,0 +1,34 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "SourcingDenis/free-online-competitive-intelligence": {
+      "full_name": "SourcingDenis/free-online-competitive-intelligence",
+      "name": "free-online-competitive-intelligence",
+      "stargazers_count": 16,
+      "popularity": 2.179015777092762,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 6,
+      "activity": 1.4254730391720614,
+      "total_score": 36.28972547265625,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "listcommunity/support": {
+      "full_name": "listcommunity/support",
+      "name": "support",
+      "stargazers_count": 52,
+      "popularity": 2.708459912296993,
+      "percentage": 0.45454545454545453,
+      "maturity": 3.2572490692670404,
+      "total_commits_count": 220,
+      "activity": 1.6237450841038323,
+      "total_score": 16.423668317982806,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "listcommunity"
+  ]
+}

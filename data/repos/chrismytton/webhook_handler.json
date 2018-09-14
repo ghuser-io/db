@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "webhook_handler",
+  "full_name": "chrismytton/webhook_handler",
+  "owner": "chrismytton",
+  "private": false,
+  "html_url": "https://github.com/chrismytton/webhook_handler",
+  "description": "Rack + Sidekiq = Easy webhooks",
+  "fork": false,
+  "url": "https://api.github.com/repos/chrismytton/webhook_handler",
+  "languages_url": "https://api.github.com/repos/chrismytton/webhook_handler/languages",
+  "pulls_url": "https://api.github.com/repos/chrismytton/webhook_handler/pulls{/number}",
+  "created_at": "2015-11-23T21:30:25Z",
+  "updated_at": "2017-02-06T00:35:08Z",
+  "pushed_at": "2015-11-26T21:41:11Z",
+  "homepage": "",
+  "size": 26,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "chrismytton": 25
+  },
+  "pulls_authors": [
+    "chrismytton"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 5555,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 115,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:44.395Z"
+}

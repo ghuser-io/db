@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nscale",
+  "full_name": "rjrodger/nscale",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/nscale",
+  "description": "Deployment just got easy",
+  "fork": true,
+  "url": "https://api.github.com/repos/rjrodger/nscale",
+  "languages_url": "https://api.github.com/repos/rjrodger/nscale/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/nscale/pulls{/number}",
+  "created_at": "2015-02-23T14:30:02Z",
+  "updated_at": "2015-04-01T13:11:35Z",
+  "pushed_at": "2015-01-29T15:03:19Z",
+  "homepage": "http://nscale.nearform.com/",
+  "size": 1293,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "artistic-2.0",
+    "name": "Artistic License 2.0",
+    "spdx_id": "Artistic-2.0",
+    "url": "https://api.github.com/licenses/artistic-2.0",
+    "node_id": "MDc6TGljZW5zZTM="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dberesford": 1,
+    "gitter-badger": 1,
+    "shakywakey": 2,
+    "mmalecki": 22,
+    "pelger": 40,
+    "chico": 50,
+    "mcollina": 62
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 5728,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 2312,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:42.668Z"
+}

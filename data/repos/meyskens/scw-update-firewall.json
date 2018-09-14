@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "scw-update-firewall",
+  "full_name": "meyskens/scw-update-firewall",
+  "owner": "meyskens",
+  "private": false,
+  "html_url": "https://github.com/meyskens/scw-update-firewall",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/meyskens/scw-update-firewall",
+  "languages_url": "https://api.github.com/repos/meyskens/scw-update-firewall/languages",
+  "pulls_url": "https://api.github.com/repos/meyskens/scw-update-firewall/pulls{/number}",
+  "created_at": "2016-10-17T17:02:15Z",
+  "updated_at": "2017-02-02T17:56:17Z",
+  "pushed_at": "2016-10-28T09:23:53Z",
+  "homepage": null,
+  "size": 21,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "meyskens": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 3150,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T20:50:27.260Z"
+}

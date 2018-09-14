@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "voting-app-node",
+  "full_name": "azdanov/voting-app-node",
+  "owner": "azdanov",
+  "private": false,
+  "html_url": "https://github.com/azdanov/voting-app-node",
+  "description": "A voting app full stack project for freeCodeCamp",
+  "fork": false,
+  "url": "https://api.github.com/repos/azdanov/voting-app-node",
+  "languages_url": "https://api.github.com/repos/azdanov/voting-app-node/languages",
+  "pulls_url": "https://api.github.com/repos/azdanov/voting-app-node/pulls{/number}",
+  "created_at": "2018-04-18T09:39:03Z",
+  "updated_at": "2018-09-04T18:18:33Z",
+  "pushed_at": "2018-09-04T18:18:33Z",
+  "homepage": "https://node-voting-app.herokuapp.com/",
+  "size": 1721,
+  "stargazers_count": 3,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "greenkeeper[bot]": 3,
+    "azdanov": 261
+  },
+  "pulls_authors": [
+    "greenkeeper[bot]",
+    "azdanov"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 65221,
+      "color": "#2b7489"
+    },
+    "HTML": {
+      "bytes": 31994,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 6855,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 3830,
+      "color": "#f1e05a"
+    },
+    "Dockerfile": {
+      "bytes": 317,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-05T02:19:14.822Z"
+}

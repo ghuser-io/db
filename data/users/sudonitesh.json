@@ -1,0 +1,34 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "sudonitesh",
+  "ghuser_created_at": "2018-07-25T22:20:42.988Z",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/35661486?v=4",
+  "html_url": "https://github.com/sudonitesh",
+  "organizations_url": "https://api.github.com/users/sudonitesh/orgs",
+  "repos_url": "https://api.github.com/users/sudonitesh/repos",
+  "type": "User",
+  "name": "Nitesh Tosniwal",
+  "company": null,
+  "blog": "https://www.linkedin.com/in/sudonitesh/",
+  "location": "Orissa",
+  "email": "nktosni@gmail.com",
+  "bio": "Aspiring Full Stack Web Developer and Competitive Coder.\r\n",
+  "created_at": "2018-01-21T15:29:54Z",
+  "updated_at": "2018-09-13T15:32:00Z",
+  "organizations": [
+    "p-society"
+  ],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:18:06.147Z",
+    "repos": [
+      "sudonitesh/text-editor",
+      "GenHax/bugFrier",
+      "sudonitesh/fcc-calculator",
+      "sudonitesh/fcc-local-weather",
+      "sudonitesh/fcc-random-quotes",
+      "sudonitesh/fcc-wikipedia",
+      "p-society/p-society.github.io"
+    ]
+  },
+  "public_gists": 0
+}

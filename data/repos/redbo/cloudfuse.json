@@ -1,0 +1,99 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cloudfuse",
+  "full_name": "redbo/cloudfuse",
+  "owner": "redbo",
+  "private": false,
+  "html_url": "https://github.com/redbo/cloudfuse",
+  "description": "Filesystem (fuse) implemented on Mosso's Cloud Files",
+  "fork": false,
+  "url": "https://api.github.com/repos/redbo/cloudfuse",
+  "languages_url": "https://api.github.com/repos/redbo/cloudfuse/languages",
+  "pulls_url": "https://api.github.com/repos/redbo/cloudfuse/pulls{/number}",
+  "created_at": "2009-02-03T10:20:20Z",
+  "updated_at": "2018-09-10T18:05:26Z",
+  "pushed_at": "2017-02-21T01:02:56Z",
+  "homepage": "http://redbo.github.com/cloudfuse/",
+  "size": 508,
+  "stargazers_count": 395,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "stevenshiau": 1,
+    "fordodone": 1,
+    "SoftDed": 1,
+    "clayg": 1,
+    "davidjb": 1,
+    "moul": 1,
+    "abs0": 1,
+    "ncw": 1,
+    "dillona": 1,
+    "cwedgwood": 1,
+    "dysinger": 1,
+    "gaul": 2,
+    "h6w": 2,
+    "pataquets": 3,
+    "lucasvr": 4,
+    "justinsb": 4,
+    "novas0x2a": 4,
+    "redbo": 95
+  },
+  "pulls_authors": [
+    "s0urc3c0d3",
+    "mcapuccini",
+    "stevenshiau",
+    "gaul",
+    "fordodone",
+    "lucasvr",
+    "crankcase",
+    "erikmack",
+    "Am1GO",
+    "SoftDed",
+    "clayg",
+    "h6w",
+    "davidjb",
+    "pataquets",
+    "mtgreenway",
+    "luza",
+    "abgit",
+    "ont",
+    "maxstepanov",
+    "justinsb",
+    "moul",
+    "geraldcombs",
+    "abs0",
+    "dsnopek",
+    "novas0x2a",
+    "ncw",
+    "dillona",
+    "cwedgwood"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 42173,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 13184,
+      "color": "#89e051"
+    },
+    "M4": {
+      "bytes": 1643,
+      "color": "#ccc"
+    },
+    "Makefile": {
+      "bytes": 1100,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-10T19:04:48.836Z"
+}

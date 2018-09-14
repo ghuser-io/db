@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "clj-gpio",
+  "full_name": "peterschwarz/clj-gpio",
+  "owner": "peterschwarz",
+  "private": false,
+  "html_url": "https://github.com/peterschwarz/clj-gpio",
+  "description": "A basic library for reading, writing and watching GPIO signals on a Raspberry PI, in a REPL-friendly way.",
+  "fork": false,
+  "url": "https://api.github.com/repos/peterschwarz/clj-gpio",
+  "languages_url": "https://api.github.com/repos/peterschwarz/clj-gpio/languages",
+  "pulls_url": "https://api.github.com/repos/peterschwarz/clj-gpio/pulls{/number}",
+  "created_at": "2014-05-08T18:35:23Z",
+  "updated_at": "2018-07-11T16:11:41Z",
+  "pushed_at": "2016-01-05T20:49:28Z",
+  "homepage": "",
+  "size": 66,
+  "stargazers_count": 62,
+  "language": "Clojure",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "epl-1.0",
+    "name": "Eclipse Public License 1.0",
+    "spdx_id": "EPL-1.0",
+    "url": "https://api.github.com/licenses/epl-1.0",
+    "node_id": "MDc6TGljZW5zZTc="
+  },
+  "default_branch": "development",
+  "contributors": {
+    "peterschwarz": 53
+  },
+  "pulls_authors": [
+    "peterschwarz",
+    "mgalgs"
+  ],
+  "languages": {
+    "Clojure": {
+      "bytes": 22753,
+      "color": "#db5855"
+    },
+    "Java": {
+      "bytes": 15201,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-11T17:14:22.557Z"
+}

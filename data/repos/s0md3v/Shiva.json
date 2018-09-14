@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Shiva",
+  "full_name": "s0md3v/Shiva",
+  "owner": "s0md3v",
+  "private": false,
+  "html_url": "https://github.com/s0md3v/Shiva",
+  "description": "Improved DOS exploit for wordpress websites (CVE-2018-6389)",
+  "fork": false,
+  "url": "https://api.github.com/repos/s0md3v/Shiva",
+  "languages_url": "https://api.github.com/repos/s0md3v/Shiva/languages",
+  "pulls_url": "https://api.github.com/repos/s0md3v/Shiva/pulls{/number}",
+  "created_at": "2018-03-04T14:25:09Z",
+  "updated_at": "2018-09-11T21:19:39Z",
+  "pushed_at": "2018-03-14T13:28:24Z",
+  "homepage": null,
+  "size": 14,
+  "stargazers_count": 50,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "s0md3v": 6
+  },
+  "pulls_authors": [
+    "khast3x",
+    "thehappydinoa"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 7276,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T22:37:12.547Z"
+}

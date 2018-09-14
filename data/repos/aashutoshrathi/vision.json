@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vision",
+  "full_name": "aashutoshrathi/vision",
+  "owner": "aashutoshrathi",
+  "private": false,
+  "html_url": "https://github.com/aashutoshrathi/vision",
+  "description": "TensorFlow Image Classifier + TTS for small devices",
+  "fork": false,
+  "url": "https://api.github.com/repos/aashutoshrathi/vision",
+  "languages_url": "https://api.github.com/repos/aashutoshrathi/vision/languages",
+  "pulls_url": "https://api.github.com/repos/aashutoshrathi/vision/pulls{/number}",
+  "created_at": "2018-07-08T11:21:53Z",
+  "updated_at": "2018-09-04T14:33:04Z",
+  "pushed_at": "2018-07-22T04:30:49Z",
+  "homepage": "",
+  "size": 102065,
+  "stargazers_count": 18,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "anshumanv": 1,
+    "prithaupadhyay": 2,
+    "aashutoshrathi": 14
+  },
+  "pulls_authors": [
+    "prithaupadhyay"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 61300,
+      "color": "#3572A5"
+    },
+    "Java": {
+      "bytes": 47258,
+      "color": "#b07219"
+    },
+    "Shell": {
+      "bytes": 1268,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T02:18:56.963Z"
+}

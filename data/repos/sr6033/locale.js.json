@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "locale.js",
+  "full_name": "sr6033/locale.js",
+  "owner": "sr6033",
+  "private": false,
+  "html_url": "https://github.com/sr6033/locale.js",
+  "description": "Locale Javascript Interpreter",
+  "fork": false,
+  "url": "https://api.github.com/repos/sr6033/locale.js",
+  "languages_url": "https://api.github.com/repos/sr6033/locale.js/languages",
+  "created_at": "2017-07-20T10:43:34Z",
+  "updated_at": "2018-07-25T07:13:19Z",
+  "pushed_at": "2018-05-18T06:03:16Z",
+  "homepage": "http://sr6033.github.io/locale.js",
+  "size": 47,
+  "stargazers_count": 3,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sr6033": 6
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 3438,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 1077,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/sr6033/locale.js/pulls{/number}",
+  "pulls_authors": []
+}

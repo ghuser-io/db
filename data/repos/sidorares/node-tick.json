@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-tick",
+  "full_name": "sidorares/node-tick",
+  "owner": "sidorares",
+  "private": false,
+  "html_url": "https://github.com/sidorares/node-tick",
+  "description": "node.js-runnable v8.log processor (d8 + %platform%-tick-processor friend)",
+  "fork": false,
+  "url": "https://api.github.com/repos/sidorares/node-tick",
+  "languages_url": "https://api.github.com/repos/sidorares/node-tick/languages",
+  "pulls_url": "https://api.github.com/repos/sidorares/node-tick/pulls{/number}",
+  "created_at": "2011-11-18T05:13:13Z",
+  "updated_at": "2018-09-13T01:04:43Z",
+  "pushed_at": "2017-05-01T05:50:21Z",
+  "homepage": "",
+  "size": 82,
+  "stargazers_count": 301,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "reiz": 1,
+    "danlangford": 1,
+    "bretcope": 1,
+    "kazuho": 1,
+    "bitdeli-chef": 1,
+    "tmcw": 1,
+    "cnwzhjs": 1,
+    "pgolm": 1,
+    "Iris24": 4,
+    "sidorares": 29
+  },
+  "pulls_authors": [
+    "reiz",
+    "victorbstan",
+    "irengrig",
+    "sidorares",
+    "danlangford",
+    "bretcope",
+    "kazuho",
+    "bitdeli-chef",
+    "tmcw",
+    "oxyc",
+    "cnwzhjs",
+    "pgolm"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 115661,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-13T17:02:16.097Z"
+}

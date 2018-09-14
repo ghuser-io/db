@@ -1,0 +1,82 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "museeks",
+  "full_name": "martpie/museeks",
+  "owner": "martpie",
+  "private": false,
+  "html_url": "https://github.com/martpie/museeks",
+  "description": "🎵 A simple, clean and cross-platform music player",
+  "fork": false,
+  "url": "https://api.github.com/repos/martpie/museeks",
+  "languages_url": "https://api.github.com/repos/martpie/museeks/languages",
+  "pulls_url": "https://api.github.com/repos/martpie/museeks/pulls{/number}",
+  "created_at": "2015-03-03T13:01:31Z",
+  "updated_at": "2018-09-12T17:17:50Z",
+  "pushed_at": "2018-09-12T09:45:58Z",
+  "homepage": "https://museeks.io",
+  "size": 6787,
+  "stargazers_count": 658,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "khubo": 1,
+    "evandandrea": 1,
+    "complexSandwich": 2,
+    "vprigent": 2,
+    "Suriteka": 2,
+    "a-choi": 2,
+    "cfollet": 3,
+    "mrzmyr": 3,
+    "YurySolovyov": 38,
+    "dkniffin": 38,
+    "martpie": 853
+  },
+  "pulls_authors": [
+    "martpie",
+    "a2nt",
+    "khubo",
+    "evandandrea",
+    "NoahLiedFilmCodes",
+    "complexSandwich",
+    "vprigent",
+    "MrBlenny",
+    "sabrehagen",
+    "YurySolovyov",
+    "dkniffin",
+    "cfollet",
+    "commondream",
+    "ghost",
+    "a-choi",
+    "puranjayjain",
+    "gitter-badger",
+    "mrzmyr"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 168196,
+      "color": "#2b7489"
+    },
+    "CSS": {
+      "bytes": 36745,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 3646,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 506,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T23:58:23.180Z"
+}

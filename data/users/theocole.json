@@ -1,0 +1,32 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "theocole",
+  "ghuser_created_at": "2018-09-11T17:17:42.595Z",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/26459532?v=4",
+  "html_url": "https://github.com/theocole",
+  "organizations_url": "https://api.github.com/users/theocole/orgs",
+  "repos_url": "https://api.github.com/users/theocole/repos",
+  "type": "User",
+  "name": "Theo Cole",
+  "company": null,
+  "blog": "",
+  "location": "Lichfield, UK",
+  "email": "theo.j.cole@gmail.com",
+  "bio": "Trainee Clinical Scientist (Bioinformatics) at Birmingham Women's Hospital, UK.",
+  "public_gists": 0,
+  "created_at": "2017-03-16T11:49:16Z",
+  "updated_at": "2018-08-20T15:37:47Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:18:14.376Z",
+    "repos": [
+      "NHS-NGS/GeL2MDT",
+      "NHS-NGS/JellyPy",
+      "theocole/vimrc",
+      "WMRGL/nginx-server-blocks",
+      "theocole/aLRGee",
+      "theocole/CallCNV",
+      "natashapinto/planet"
+    ]
+  }
+}

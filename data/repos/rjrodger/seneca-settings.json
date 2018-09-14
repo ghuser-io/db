@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "seneca-settings",
+  "full_name": "rjrodger/seneca-settings",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/seneca-settings",
+  "description": "User settings plugin for Seneca",
+  "fork": false,
+  "url": "https://api.github.com/repos/rjrodger/seneca-settings",
+  "languages_url": "https://api.github.com/repos/rjrodger/seneca-settings/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/seneca-settings/pulls{/number}",
+  "created_at": "2013-09-23T22:54:48Z",
+  "updated_at": "2016-11-18T13:32:24Z",
+  "pushed_at": "2015-10-12T11:57:46Z",
+  "homepage": null,
+  "size": 264,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ananelson": 8,
+    "rjrodger": 11
+  },
+  "pulls_authors": [
+    "maxired",
+    "ananelson"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 14287,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:37.609Z"
+}

@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Procedural-Skybox",
+  "full_name": "JPBotelho/Procedural-Skybox",
+  "owner": "JPBotelho",
+  "private": false,
+  "html_url": "https://github.com/JPBotelho/Procedural-Skybox",
+  "description": "Procedural skybox shader with horizon line. Best for stylized games.",
+  "fork": false,
+  "url": "https://api.github.com/repos/JPBotelho/Procedural-Skybox",
+  "languages_url": "https://api.github.com/repos/JPBotelho/Procedural-Skybox/languages",
+  "pulls_url": "https://api.github.com/repos/JPBotelho/Procedural-Skybox/pulls{/number}",
+  "created_at": "2018-02-23T08:52:49Z",
+  "updated_at": "2018-05-13T22:34:27Z",
+  "pushed_at": "2018-05-13T13:31:54Z",
+  "homepage": null,
+  "size": 67,
+  "stargazers_count": 18,
+  "language": "ShaderLab",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "JPBotelho": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "ShaderLab": {
+      "bytes": 1882,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-08-17T14:57:55.323Z"
+}

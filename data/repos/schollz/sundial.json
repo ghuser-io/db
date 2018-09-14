@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sundial",
+  "full_name": "schollz/sundial",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/sundial",
+  "description": ":city_sunrise: :city_sunset: C program to get the next time of the sunset and sunrise",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/sundial",
+  "languages_url": "https://api.github.com/repos/schollz/sundial/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/sundial/pulls{/number}",
+  "created_at": "2016-10-13T19:15:58Z",
+  "updated_at": "2018-09-05T13:25:26Z",
+  "pushed_at": "2017-05-03T16:49:55Z",
+  "homepage": "",
+  "size": 7,
+  "stargazers_count": 3,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "HankB": 5,
+    "schollz": 10
+  },
+  "pulls_authors": [
+    "HankB"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 3745,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:41.080Z"
+}

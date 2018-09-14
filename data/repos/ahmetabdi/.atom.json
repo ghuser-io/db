@@ -1,0 +1,123 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": ".atom",
+  "full_name": "ahmetabdi/.atom",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/.atom",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/ahmetabdi/.atom",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/.atom/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/.atom/pulls{/number}",
+  "created_at": "2015-07-30T13:52:33Z",
+  "updated_at": "2015-11-03T15:21:00Z",
+  "pushed_at": "2015-07-30T13:57:19Z",
+  "homepage": null,
+  "size": 121968,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 2109083,
+      "color": "#555555"
+    },
+    "JavaScript": {
+      "bytes": 1498635,
+      "color": "#f1e05a"
+    },
+    "C++": {
+      "bytes": 1150509,
+      "color": "#f34b7d"
+    },
+    "CoffeeScript": {
+      "bytes": 720462,
+      "color": "#244776"
+    },
+    "CSS": {
+      "bytes": 103463,
+      "color": "#563d7c"
+    },
+    "Objective-C": {
+      "bytes": 17918,
+      "color": "#438eff"
+    },
+    "Shell": {
+      "bytes": 16056,
+      "color": "#89e051"
+    },
+    "PowerShell": {
+      "bytes": 5987,
+      "color": "#012456"
+    },
+    "C#": {
+      "bytes": 3424,
+      "color": "#178600"
+    },
+    "HTML": {
+      "bytes": 3227,
+      "color": "#e34c26"
+    },
+    "Ruby": {
+      "bytes": 2322,
+      "color": "#701516"
+    },
+    "Python": {
+      "bytes": 2041,
+      "color": "#3572A5"
+    },
+    "Java": {
+      "bytes": 1962,
+      "color": "#b07219"
+    },
+    "PHP": {
+      "bytes": 1938,
+      "color": "#4F5D95"
+    },
+    "Common Lisp": {
+      "bytes": 1913,
+      "color": "#3fb68b"
+    },
+    "Batchfile": {
+      "bytes": 1842,
+      "color": "#C1F12E"
+    },
+    "TypeScript": {
+      "bytes": 1557,
+      "color": "#2b7489"
+    },
+    "Go": {
+      "bytes": 273,
+      "color": "#375eab"
+    },
+    "Perl": {
+      "bytes": 248,
+      "color": "#0298c3"
+    },
+    "Handlebars": {
+      "bytes": 199,
+      "color": "#ccc"
+    },
+    "Fortran": {
+      "bytes": 131,
+      "color": "#4d41b1"
+    },
+    "Groff": {
+      "bytes": 123,
+      "color": "#ccc"
+    },
+    "Rust": {
+      "bytes": 86,
+      "color": "#dea584"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:00.563Z"
+}

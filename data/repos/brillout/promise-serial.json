@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "promise-serial",
+  "full_name": "brillout/promise-serial",
+  "owner": "brillout",
+  "private": false,
+  "html_url": "https://github.com/brillout/promise-serial",
+  "description": "Run promises in series",
+  "fork": false,
+  "url": "https://api.github.com/repos/brillout/promise-serial",
+  "languages_url": "https://api.github.com/repos/brillout/promise-serial/languages",
+  "created_at": "2016-06-26T17:55:09Z",
+  "updated_at": "2018-06-15T04:22:12Z",
+  "pushed_at": "2018-01-24T11:54:36Z",
+  "homepage": null,
+  "size": 14,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "cc0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "spdx_id": "CC0-1.0",
+    "url": "https://api.github.com/licenses/cc0-1.0",
+    "node_id": "MDc6TGljZW5zZTY="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ibc": 1,
+    "brillout": 15
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 4987,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/brillout/promise-serial/pulls{/number}",
+  "pulls_authors": [
+    "ibc"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "HelloCookieCutter1",
+  "full_name": "BruceEckel/HelloCookieCutter1",
+  "owner": "BruceEckel",
+  "private": false,
+  "html_url": "https://github.com/BruceEckel/HelloCookieCutter1",
+  "description": "The most basic template, for learning about Cookiecutter",
+  "fork": false,
+  "url": "https://api.github.com/repos/BruceEckel/HelloCookieCutter1",
+  "languages_url": "https://api.github.com/repos/BruceEckel/HelloCookieCutter1/languages",
+  "pulls_url": "https://api.github.com/repos/BruceEckel/HelloCookieCutter1/pulls{/number}",
+  "created_at": "2016-06-04T19:48:42Z",
+  "updated_at": "2016-10-09T10:45:48Z",
+  "pushed_at": "2018-08-10T10:13:54Z",
+  "homepage": "",
+  "size": 13,
+  "stargazers_count": 7,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "BruceEckel": 2
+  },
+  "pulls_authors": [
+    "themanifold",
+    "amitness",
+    "purplediane"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 53,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:23.856Z"
+}

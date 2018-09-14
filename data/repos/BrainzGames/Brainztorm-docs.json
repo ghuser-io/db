@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Brainztorm-docs",
+  "full_name": "BrainzGames/Brainztorm-docs",
+  "owner": "BrainzGames",
+  "private": false,
+  "html_url": "https://github.com/BrainzGames/Brainztorm-docs",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/BrainzGames/Brainztorm-docs",
+  "languages_url": "https://api.github.com/repos/BrainzGames/Brainztorm-docs/languages",
+  "pulls_url": "https://api.github.com/repos/BrainzGames/Brainztorm-docs/pulls{/number}",
+  "created_at": "2016-04-21T17:00:51Z",
+  "updated_at": "2017-08-15T02:10:12Z",
+  "pushed_at": "2017-08-26T04:37:11Z",
+  "homepage": null,
+  "size": 9999,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "BrainzGames",
+    "id": 6943155,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY5NDMxNTU=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/6943155?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/BrainzGames",
+    "html_url": "https://github.com/BrainzGames",
+    "followers_url": "https://api.github.com/users/BrainzGames/followers",
+    "following_url": "https://api.github.com/users/BrainzGames/following{/other_user}",
+    "gists_url": "https://api.github.com/users/BrainzGames/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/BrainzGames/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/BrainzGames/subscriptions",
+    "organizations_url": "https://api.github.com/users/BrainzGames/orgs",
+    "repos_url": "https://api.github.com/users/BrainzGames/repos",
+    "events_url": "https://api.github.com/users/BrainzGames/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/BrainzGames/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jhgutierrezt": 3,
+    "BrainzCloudBuild": 6,
+    "andresgutierrez": 12,
+    "exeleon": 46,
+    "carvajaldiazeduar": 65,
+    "halzate93": 69
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 7840,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 6137,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:49.220Z"
+}

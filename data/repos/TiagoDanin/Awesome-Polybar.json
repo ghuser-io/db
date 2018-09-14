@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Awesome-Polybar",
+  "full_name": "TiagoDanin/Awesome-Polybar",
+  "owner": "TiagoDanin",
+  "private": false,
+  "html_url": "https://github.com/TiagoDanin/Awesome-Polybar",
+  "description": "Curated list of Polybar ",
+  "fork": false,
+  "url": "https://api.github.com/repos/TiagoDanin/Awesome-Polybar",
+  "languages_url": "https://api.github.com/repos/TiagoDanin/Awesome-Polybar/languages",
+  "pulls_url": "https://api.github.com/repos/TiagoDanin/Awesome-Polybar/pulls{/number}",
+  "created_at": "2018-04-12T16:26:20Z",
+  "updated_at": "2018-08-11T16:22:06Z",
+  "pushed_at": "2018-08-11T16:22:05Z",
+  "homepage": "https://TiagoDanin.github.io/Awesome-Polybar/",
+  "size": 21,
+  "stargazers_count": 3,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "TiagoDanin": 7
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 9417,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-12T17:48:20.581Z"
+}

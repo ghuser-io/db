@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tabler-vue",
+  "full_name": "tabler/tabler-vue",
+  "owner": "tabler",
+  "private": false,
+  "html_url": "https://github.com/tabler/tabler-vue",
+  "description": "Vue.js components and demo for the Tabler UI theme.",
+  "fork": false,
+  "url": "https://api.github.com/repos/tabler/tabler-vue",
+  "languages_url": "https://api.github.com/repos/tabler/tabler-vue/languages",
+  "pulls_url": "https://api.github.com/repos/tabler/tabler-vue/pulls{/number}",
+  "created_at": "2018-04-13T07:05:40Z",
+  "updated_at": "2018-09-11T06:59:15Z",
+  "pushed_at": "2018-06-19T16:30:44Z",
+  "homepage": "https://tabler.github.io/tabler-vue/",
+  "size": 12951,
+  "stargazers_count": 80,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "tabler",
+    "id": 35471246,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM1NDcxMjQ2",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/35471246?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/tabler",
+    "html_url": "https://github.com/tabler",
+    "followers_url": "https://api.github.com/users/tabler/followers",
+    "following_url": "https://api.github.com/users/tabler/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tabler/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/tabler/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tabler/subscriptions",
+    "organizations_url": "https://api.github.com/users/tabler/orgs",
+    "repos_url": "https://api.github.com/users/tabler/repos",
+    "events_url": "https://api.github.com/users/tabler/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/tabler/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "MUCHZER": 1,
+    "Nilpo": 3,
+    "isneezy": 5
+  },
+  "pulls_authors": [
+    "isneezy",
+    "MUCHZER"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 33945,
+      "color": "#f1e05a"
+    },
+    "Vue": {
+      "bytes": 29046,
+      "color": "#2c3e50"
+    },
+    "HTML": {
+      "bytes": 685,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 59,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:38:21.301Z"
+}

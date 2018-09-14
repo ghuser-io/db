@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vault-cluster-cookbook",
+  "full_name": "bloomberg/vault-cluster-cookbook",
+  "owner": "bloomberg",
+  "private": false,
+  "html_url": "https://github.com/bloomberg/vault-cluster-cookbook",
+  "description": "Application cookbook which installs and configures Vault with Consul as a backend.",
+  "fork": false,
+  "url": "https://api.github.com/repos/bloomberg/vault-cluster-cookbook",
+  "languages_url": "https://api.github.com/repos/bloomberg/vault-cluster-cookbook/languages",
+  "pulls_url": "https://api.github.com/repos/bloomberg/vault-cluster-cookbook/pulls{/number}",
+  "created_at": "2015-06-15T01:39:06Z",
+  "updated_at": "2018-01-03T03:43:01Z",
+  "pushed_at": "2016-11-23T02:01:52Z",
+  "homepage": null,
+  "size": 31,
+  "stargazers_count": 14,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "bloomberg",
+    "id": 1416818,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0MTY4MTg=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/1416818?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/bloomberg",
+    "html_url": "https://github.com/bloomberg",
+    "followers_url": "https://api.github.com/users/bloomberg/followers",
+    "following_url": "https://api.github.com/users/bloomberg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/bloomberg/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/bloomberg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/bloomberg/subscriptions",
+    "organizations_url": "https://api.github.com/users/bloomberg/orgs",
+    "repos_url": "https://api.github.com/users/bloomberg/repos",
+    "events_url": "https://api.github.com/users/bloomberg/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/bloomberg/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "sh9189": 1,
+    "jjustice6": 1,
+    "samuelbohler": 1,
+    "johnbellone": 22
+  },
+  "pulls_authors": [
+    "wilb",
+    "sh9189",
+    "johnbellone",
+    "jjustice6",
+    "samuelbohler"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 4780,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T16:48:29.069Z"
+}

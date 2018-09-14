@@ -1,0 +1,34 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "ronniekritou",
+  "ghuser_created_at": "2018-09-11T04:02:31.972Z",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/4911478?v=4",
+  "html_url": "https://github.com/ronniekritou",
+  "organizations_url": "https://api.github.com/users/ronniekritou/orgs",
+  "repos_url": "https://api.github.com/users/ronniekritou/repos",
+  "type": "User",
+  "name": "Ronnie",
+  "company": "BounceX",
+  "blog": "",
+  "location": null,
+  "email": "ronnie@bounceexchange.com",
+  "bio": null,
+  "public_gists": 2,
+  "created_at": "2013-07-01T20:29:03Z",
+  "updated_at": "2018-09-07T00:45:31Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:17:09.539Z",
+    "repos": [
+      "ronniekritou/gofish",
+      "ronniekritou/gotelapi",
+      "TomDeVito/go-iterable-api",
+      "ronniekritou/rancher-upgrade-script",
+      "TelAPI/telapi-java",
+      "bmoyles0117/hackru-tetris",
+      "TelAPI/telapi-php",
+      "bmoyles0117/customerio-golang",
+      "ronniekritou/goapns"
+    ]
+  }
+}

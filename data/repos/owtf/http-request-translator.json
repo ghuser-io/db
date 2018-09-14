@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "http-request-translator",
+  "full_name": "owtf/http-request-translator",
+  "owner": "owtf",
+  "private": false,
+  "html_url": "https://github.com/owtf/http-request-translator",
+  "description": "HTTP Request Translator (hrt) translates raw HTTP requests to different scripts (bash, python, etc.)",
+  "fork": false,
+  "url": "https://api.github.com/repos/owtf/http-request-translator",
+  "languages_url": "https://api.github.com/repos/owtf/http-request-translator/languages",
+  "pulls_url": "https://api.github.com/repos/owtf/http-request-translator/pulls{/number}",
+  "created_at": "2014-10-20T20:00:48Z",
+  "updated_at": "2017-09-08T12:46:45Z",
+  "pushed_at": "2017-02-24T19:55:20Z",
+  "homepage": "",
+  "size": 196,
+  "stargazers_count": 10,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "default_branch": "dev",
+  "organization": {
+    "login": "owtf",
+    "id": 1230211,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMzAyMTE=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/1230211?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/owtf",
+    "html_url": "https://github.com/owtf",
+    "followers_url": "https://api.github.com/users/owtf/followers",
+    "following_url": "https://api.github.com/users/owtf/following{/other_user}",
+    "gists_url": "https://api.github.com/users/owtf/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/owtf/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/owtf/subscriptions",
+    "organizations_url": "https://api.github.com/users/owtf/orgs",
+    "repos_url": "https://api.github.com/users/owtf/repos",
+    "events_url": "https://api.github.com/users/owtf/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/owtf/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "rnehra01": 1,
+    "nlfox": 1,
+    "dufferzafar": 2,
+    "cjdupreez": 7,
+    "dhruvagarwal": 14,
+    "Sentient07": 27,
+    "DePierre": 58,
+    "arunk-s": 63
+  },
+  "pulls_authors": [
+    "rnehra01",
+    "dhruvagarwal",
+    "nlfox",
+    "dufferzafar",
+    "arunk-s",
+    "cjdupreez",
+    "Sentient07"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 75805,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 316,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-03T12:56:58.021Z"
+}

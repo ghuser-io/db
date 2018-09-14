@@ -1,0 +1,84 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "developer-docs",
+  "full_name": "ninjablocks/developer-docs",
+  "owner": "ninjablocks",
+  "private": false,
+  "html_url": "https://github.com/ninjablocks/developer-docs",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/ninjablocks/developer-docs",
+  "languages_url": "https://api.github.com/repos/ninjablocks/developer-docs/languages",
+  "pulls_url": "https://api.github.com/repos/ninjablocks/developer-docs/pulls{/number}",
+  "created_at": "2014-06-03T02:15:41Z",
+  "updated_at": "2016-12-31T21:06:04Z",
+  "pushed_at": "2015-05-11T00:00:51Z",
+  "homepage": null,
+  "size": 3329,
+  "stargazers_count": 12,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "develop",
+  "organization": {
+    "login": "ninjablocks",
+    "id": 1392949,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzOTI5NDk=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/1392949?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ninjablocks",
+    "html_url": "https://github.com/ninjablocks",
+    "followers_url": "https://api.github.com/users/ninjablocks/followers",
+    "following_url": "https://api.github.com/users/ninjablocks/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ninjablocks/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ninjablocks/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ninjablocks/subscriptions",
+    "organizations_url": "https://api.github.com/users/ninjablocks/orgs",
+    "repos_url": "https://api.github.com/users/ninjablocks/repos",
+    "events_url": "https://api.github.com/users/ninjablocks/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ninjablocks/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "perrin7": 1,
+    "lindsaymarkward": 3,
+    "cbrandlehner": 3,
+    "elliots": 4,
+    "NinjaSam": 4,
+    "wandergeek": 10,
+    "thatguydan": 17,
+    "frankyenshaw": 26,
+    "jonseymour": 27,
+    "theojulienne": 41
+  },
+  "pulls_authors": [
+    "lindsaymarkward",
+    "jplana",
+    "cbrandlehner",
+    "perrin7",
+    "theojulienne",
+    "thatguydan",
+    "elliots"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 8657,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 6794,
+      "color": "#427819"
+    },
+    "HTML": {
+      "bytes": 504,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 389,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T13:45:57.015Z"
+}

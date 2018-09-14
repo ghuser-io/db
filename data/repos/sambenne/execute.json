@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "execute",
+  "full_name": "sambenne/execute",
+  "owner": "sambenne",
+  "private": false,
+  "html_url": "https://github.com/sambenne/execute",
+  "description": "Simple script execution timer",
+  "fork": false,
+  "url": "https://api.github.com/repos/sambenne/execute",
+  "languages_url": "https://api.github.com/repos/sambenne/execute/languages",
+  "pulls_url": "https://api.github.com/repos/sambenne/execute/pulls{/number}",
+  "created_at": "2015-02-24T11:41:27Z",
+  "updated_at": "2015-04-20T12:33:13Z",
+  "pushed_at": "2016-08-15T15:28:33Z",
+  "homepage": null,
+  "size": 16,
+  "stargazers_count": 1,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sambenne": 9,
+    "jbrooksuk": 11
+  },
+  "pulls_authors": [
+    "jbrooksuk"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 3161,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:52.931Z"
+}

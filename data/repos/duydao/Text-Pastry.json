@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Text-Pastry",
+  "full_name": "duydao/Text-Pastry",
+  "owner": "duydao",
+  "private": false,
+  "html_url": "https://github.com/duydao/Text-Pastry",
+  "description": "Extend the power of multiple selections in Sublime Text 2/3. Modify selections, insert numeric sequences, incremental numbers, generate uuids, date ranges, insert continuously from a word list and more.",
+  "fork": false,
+  "url": "https://api.github.com/repos/duydao/Text-Pastry",
+  "languages_url": "https://api.github.com/repos/duydao/Text-Pastry/languages",
+  "pulls_url": "https://api.github.com/repos/duydao/Text-Pastry/pulls{/number}",
+  "created_at": "2012-10-10T16:32:35Z",
+  "updated_at": "2018-09-12T08:44:32Z",
+  "pushed_at": "2018-06-07T13:56:12Z",
+  "homepage": "",
+  "size": 261,
+  "stargazers_count": 710,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "SmartManoj": 1,
+    "mpcabd": 1,
+    "gregsadetsky": 1,
+    "edwardgronroos": 1,
+    "bitcity": 1,
+    "acroca": 1,
+    "forcey": 1,
+    "adzenith": 1,
+    "davidnormo": 2,
+    "jbrooksuk": 2,
+    "duydao": 127
+  },
+  "pulls_authors": [
+    "SmartManoj",
+    "mpcabd",
+    "gregsadetsky",
+    "KevinSnyderCodes",
+    "davidnormo",
+    "edwardgronroos",
+    "duydao",
+    "bitcity",
+    "acroca",
+    "forcey",
+    "jbrooksuk",
+    "adzenith"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 132651,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:36.872Z"
+}

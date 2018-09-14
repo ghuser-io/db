@@ -1,0 +1,372 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Algorithm-Implementations",
+  "full_name": "kennyledet/Algorithm-Implementations",
+  "owner": "kennyledet",
+  "private": false,
+  "html_url": "https://github.com/kennyledet/Algorithm-Implementations",
+  "description": "Share, discuss and learn about algorithm implementations!",
+  "fork": false,
+  "url": "https://api.github.com/repos/kennyledet/Algorithm-Implementations",
+  "languages_url": "https://api.github.com/repos/kennyledet/Algorithm-Implementations/languages",
+  "pulls_url": "https://api.github.com/repos/kennyledet/Algorithm-Implementations/pulls{/number}",
+  "created_at": "2013-12-24T00:39:48Z",
+  "updated_at": "2018-09-13T10:13:53Z",
+  "pushed_at": "2018-08-11T17:50:28Z",
+  "homepage": "http://algorithm.zone",
+  "size": 1303,
+  "stargazers_count": 2029,
+  "language": "Lua",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bb010g": 1,
+    "panderson54": 1,
+    "utsavoza": 1,
+    "sphuff": 1,
+    "lakshmanaram": 1,
+    "nthmai1805": 1,
+    "Meyito": 1,
+    "isalnikov": 1,
+    "pars87": 1,
+    "gitter-badger": 1,
+    "estuardolh": 1,
+    "ShahanM": 1,
+    "rauljordan": 1,
+    "ryandougherty": 1,
+    "BisoyeO": 1,
+    "todipratik": 1,
+    "troublebob": 1,
+    "godspeed1989": 1,
+    "corpix": 1,
+    "James-ZHANG": 1,
+    "liambinnsconroy": 1,
+    "bitdeli-chef": 1,
+    "skuschel": 1,
+    "adityasainidaiict": 1,
+    "caseykulm": 1,
+    "derek": 1,
+    "jhurliman": 1,
+    "yblondeau": 1,
+    "grasGendarme": 1,
+    "ncraun": 1,
+    "mholt": 1,
+    "alsuga": 2,
+    "praserocking": 2,
+    "sokalauvalery": 2,
+    "mariolamacchia": 2,
+    "irisyuan": 2,
+    "Arpan-Patel": 2,
+    "3Hren": 2,
+    "shivam5992": 2,
+    "ducthanhtran": 2,
+    "mukeshtiwari": 3,
+    "GreenJoey": 3,
+    "ZoranPandovski": 3,
+    "shreyans800755": 3,
+    "nixfox": 3,
+    "mahaveerverma": 3,
+    "AvramRobert": 3,
+    "jb1717": 3,
+    "TarangKhanna": 3,
+    "argvk": 3,
+    "tylerferraro": 3,
+    "aesptux": 3,
+    "n1ghtmare": 3,
+    "harshasrisri": 3,
+    "seamusabshere": 3,
+    "pravsingh": 3,
+    "lericson": 3,
+    "xCyborg": 4,
+    "ddschmitz": 4,
+    "RCMainak": 4,
+    "JanBerktold": 4,
+    "sebasguts": 4,
+    "aaronabf": 4,
+    "swapkh91": 4,
+    "abhin4v": 4,
+    "ivanchoff": 5,
+    "girishramnani": 5,
+    "jay754": 5,
+    "AlexMathew": 5,
+    "CodyMcWilliams": 5,
+    "majjoha": 5,
+    "dagumak": 5,
+    "mike168m": 6,
+    "roman-kachanovsky": 6,
+    "paveldedik": 6,
+    "tdoly": 6,
+    "sjs7007": 7,
+    "jakobhans": 7,
+    "joshimoo": 7,
+    "jonathanlebron": 7,
+    "intoxicated": 7,
+    "Wayfur": 9,
+    "upasana-me": 11,
+    "bhupenchn": 11,
+    "warreee": 13,
+    "wasi0013": 14,
+    "rrivera1849": 14,
+    "NicoHinderling": 15,
+    "Davipb": 17,
+    "dalleng": 23,
+    "patrickyevsukov": 24,
+    "internetsadboy": 25,
+    "aayushKumarJarvis": 34,
+    "mitogh": 46,
+    "jcla1": 220,
+    "Yonaba": 230
+  },
+  "pulls_authors": [
+    "Renard-Chase",
+    "pmutua",
+    "mukeshtiwari",
+    "GregPrice24",
+    "bb010g",
+    "panderson54",
+    "utsavoza",
+    "ivanchoff",
+    "princebatra2315",
+    "GreenJoey",
+    "ZoranPandovski",
+    "mike168m",
+    "shreyans800755",
+    "pravsingh",
+    "roman-kachanovsky",
+    "nixfox",
+    "sphuff",
+    "ddschmitz",
+    "mahaveerverma",
+    "lakshmanaram",
+    "nthmai1805",
+    "marius-rizac",
+    "RCMainak",
+    "sjs7007",
+    "jakobhans",
+    "alsuga",
+    "Meyito",
+    "AvramRobert",
+    "xCyborg",
+    "isalnikov",
+    "joshimoo",
+    "jb1717",
+    "ghost",
+    "rohanp",
+    "jiangz1024",
+    "warreee",
+    "upasana-me",
+    "pars87",
+    "TarangKhanna",
+    "gitter-badger",
+    "praserocking",
+    "estuardolh",
+    "JanBerktold",
+    "argvk",
+    "ShahanM",
+    "sokalauvalery",
+    "ducthanhtran",
+    "Wayfur",
+    "Davipb",
+    "tylerferraro",
+    "rauljordan",
+    "sunilshahu",
+    "NicoHinderling",
+    "sebasguts",
+    "ryandougherty",
+    "BisoyeO",
+    "mariolamacchia",
+    "todipratik",
+    "girishramnani",
+    "aayushKumarJarvis",
+    "irisyuan",
+    "aaronabf",
+    "troublebob",
+    "aesptux",
+    "wasi0013",
+    "jcla1",
+    "godspeed1989",
+    "paveldedik",
+    "Yonaba",
+    "Arpan-Patel",
+    "corpix",
+    "NorfairKing",
+    "mitogh",
+    "rrivera1849",
+    "internetsadboy",
+    "Dezahead",
+    "jay754",
+    "James-ZHANG",
+    "3Hren",
+    "iptpv",
+    "timleathart",
+    "liambinnsconroy",
+    "jonathanlebron",
+    "SinghRahul",
+    "AlexMathew",
+    "intoxicated",
+    "tdoly",
+    "n1ghtmare",
+    "harshasrisri",
+    "swapkh91",
+    "fernandomoraes",
+    "SArnab",
+    "probablyup",
+    "bitdeli-chef",
+    "majjoha",
+    "dalleng",
+    "seamusabshere",
+    "skuschel",
+    "adityasainidaiict",
+    "shivam5992",
+    "lichtsprung",
+    "abhin4v",
+    "patrickyevsukov",
+    "caseykulm",
+    "derek",
+    "lericson",
+    "jhurliman",
+    "madisonmay",
+    "yblondeau",
+    "grasGendarme",
+    "dagumak",
+    "ncraun",
+    "slcjordan",
+    "stolendata",
+    "mholt"
+  ],
+  "languages": {
+    "Lua": {
+      "bytes": 353290,
+      "color": "#000080"
+    },
+    "Java": {
+      "bytes": 138448,
+      "color": "#b07219"
+    },
+    "C#": {
+      "bytes": 81443,
+      "color": "#178600"
+    },
+    "Python": {
+      "bytes": 77464,
+      "color": "#3572A5"
+    },
+    "Go": {
+      "bytes": 60539,
+      "color": "#375eab"
+    },
+    "C++": {
+      "bytes": 54827,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 50022,
+      "color": "#555555"
+    },
+    "Scala": {
+      "bytes": 41380,
+      "color": "#c22d40"
+    },
+    "JavaScript": {
+      "bytes": 39210,
+      "color": "#f1e05a"
+    },
+    "PHP": {
+      "bytes": 32549,
+      "color": "#4F5D95"
+    },
+    "Objective-C": {
+      "bytes": 31651,
+      "color": "#438eff"
+    },
+    "Ruby": {
+      "bytes": 29260,
+      "color": "#701516"
+    },
+    "Haskell": {
+      "bytes": 22744,
+      "color": "#5e5086"
+    },
+    "Pascal": {
+      "bytes": 8780,
+      "color": "#E3F171"
+    },
+    "Haxe": {
+      "bytes": 8280,
+      "color": "#df7900"
+    },
+    "Perl": {
+      "bytes": 7764,
+      "color": "#0298c3"
+    },
+    "Swift": {
+      "bytes": 7358,
+      "color": "#ffac45"
+    },
+    "Erlang": {
+      "bytes": 6024,
+      "color": "#B83998"
+    },
+    "Prolog": {
+      "bytes": 6004,
+      "color": "#74283c"
+    },
+    "Scheme": {
+      "bytes": 5460,
+      "color": "#1e4aec"
+    },
+    "GAP": {
+      "bytes": 3044,
+      "color": "#ccc"
+    },
+    "Assembly": {
+      "bytes": 2542,
+      "color": "#6E4C13"
+    },
+    "Awk": {
+      "bytes": 2111,
+      "color": "#ccc"
+    },
+    "Matlab": {
+      "bytes": 1936,
+      "color": "#e16737"
+    },
+    "Makefile": {
+      "bytes": 1831,
+      "color": "#427819"
+    },
+    "D": {
+      "bytes": 1686,
+      "color": "#ba595e"
+    },
+    "Perl 6": {
+      "bytes": 1481,
+      "color": "#0000fb"
+    },
+    "APL": {
+      "bytes": 1309,
+      "color": "#5A8164"
+    },
+    "R": {
+      "bytes": 698,
+      "color": "#198CE7"
+    },
+    "Racket": {
+      "bytes": 451,
+      "color": "#22228f"
+    },
+    "Shell": {
+      "bytes": 46,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T16:35:37.320Z"
+}

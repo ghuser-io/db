@@ -1,0 +1,86 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SensIDL",
+  "full_name": "SENSIDL-PROJECT/SensIDL",
+  "owner": "SENSIDL-PROJECT",
+  "private": false,
+  "html_url": "https://github.com/SENSIDL-PROJECT/SensIDL",
+  "description": "A generic framework for implementing sensor communication interfaces",
+  "fork": false,
+  "url": "https://api.github.com/repos/SENSIDL-PROJECT/SensIDL",
+  "languages_url": "https://api.github.com/repos/SENSIDL-PROJECT/SensIDL/languages",
+  "pulls_url": "https://api.github.com/repos/SENSIDL-PROJECT/SensIDL/pulls{/number}",
+  "created_at": "2014-11-18T08:53:06Z",
+  "updated_at": "2017-12-30T03:33:58Z",
+  "pushed_at": "2017-05-16T11:56:12Z",
+  "homepage": "http://sensidl-project.github.io/SensIDL/",
+  "size": 45130,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "epl-1.0",
+    "name": "Eclipse Public License 1.0",
+    "spdx_id": "EPL-1.0",
+    "url": "https://api.github.com/licenses/epl-1.0",
+    "node_id": "MDc6TGljZW5zZTc="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "SENSIDL-PROJECT",
+    "id": 9782437,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjk3ODI0Mzc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/9782437?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/SENSIDL-PROJECT",
+    "html_url": "https://github.com/SENSIDL-PROJECT",
+    "followers_url": "https://api.github.com/users/SENSIDL-PROJECT/followers",
+    "following_url": "https://api.github.com/users/SENSIDL-PROJECT/following{/other_user}",
+    "gists_url": "https://api.github.com/users/SENSIDL-PROJECT/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/SENSIDL-PROJECT/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/SENSIDL-PROJECT/subscriptions",
+    "organizations_url": "https://api.github.com/users/SENSIDL-PROJECT/orgs",
+    "repos_url": "https://api.github.com/users/SENSIDL-PROJECT/repos",
+    "events_url": "https://api.github.com/users/SENSIDL-PROJECT/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/SENSIDL-PROJECT/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ChristophRathfelder": 1,
+    "tusharshring": 1,
+    "max-peters": 2,
+    "maPieper": 2,
+    "nathaliehipp": 5,
+    "BenedictP": 9,
+    "pawelbielski": 14,
+    "Taspolat": 32,
+    "FabiScheytt": 65,
+    "max-sch": 94,
+    "SvenEckhardt": 107
+  },
+  "pulls_authors": [
+    "msdeibel",
+    "BenedictP"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 2225784,
+      "color": "#b07219"
+    },
+    "Xtend": {
+      "bytes": 247306,
+      "color": "#ccc"
+    },
+    "GAP": {
+      "bytes": 230816,
+      "color": "#ccc"
+    },
+    "HTML": {
+      "bytes": 20734,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T22:28:05.705Z"
+}

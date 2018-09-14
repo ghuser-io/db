@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gfx-hat",
+  "full_name": "pimoroni/gfx-hat",
+  "owner": "pimoroni",
+  "private": false,
+  "html_url": "https://github.com/pimoroni/gfx-hat",
+  "description": "Python library for the Pimoroni GFX HAT",
+  "fork": false,
+  "url": "https://api.github.com/repos/pimoroni/gfx-hat",
+  "languages_url": "https://api.github.com/repos/pimoroni/gfx-hat/languages",
+  "pulls_url": "https://api.github.com/repos/pimoroni/gfx-hat/pulls{/number}",
+  "created_at": "2018-08-21T12:14:26Z",
+  "updated_at": "2018-09-04T20:56:23Z",
+  "pushed_at": "2018-09-01T16:31:17Z",
+  "homepage": "https://shop.pimoroni.com/products/gfx-hat",
+  "size": 350,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pimoroni",
+    "id": 2399917,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzOTk5MTc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2399917?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pimoroni",
+    "html_url": "https://github.com/pimoroni",
+    "followers_url": "https://api.github.com/users/pimoroni/followers",
+    "following_url": "https://api.github.com/users/pimoroni/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pimoroni/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pimoroni/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pimoroni/subscriptions",
+    "organizations_url": "https://api.github.com/users/pimoroni/orgs",
+    "repos_url": "https://api.github.com/users/pimoroni/repos",
+    "events_url": "https://api.github.com/users/pimoroni/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pimoroni/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Gadgetoid": 24
+  },
+  "pulls_authors": [
+    "bebon901"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 26197,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 9363,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 9179,
+      "color": "#89e051"
+    },
+    "HTML": {
+      "bytes": 1098,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1038,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:03.476Z"
+}

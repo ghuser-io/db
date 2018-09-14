@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docker-skeleton-php",
+  "full_name": "Federkun/docker-skeleton-php",
+  "owner": "Federkun",
+  "private": false,
+  "html_url": "https://github.com/Federkun/docker-skeleton-php",
+  "description": "A simple Docker PHP development environment",
+  "fork": false,
+  "url": "https://api.github.com/repos/Federkun/docker-skeleton-php",
+  "languages_url": "https://api.github.com/repos/Federkun/docker-skeleton-php/languages",
+  "pulls_url": "https://api.github.com/repos/Federkun/docker-skeleton-php/pulls{/number}",
+  "created_at": "2016-09-08T21:01:40Z",
+  "updated_at": "2018-06-16T13:13:13Z",
+  "pushed_at": "2016-12-30T21:04:18Z",
+  "homepage": "",
+  "size": 77,
+  "stargazers_count": 41,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "emirb": 1,
+    "Federkun": 17
+  },
+  "pulls_authors": [
+    "emirb"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 1012,
+      "color": "#89e051"
+    },
+    "Nginx": {
+      "bytes": 571,
+      "color": "#ccc"
+    },
+    "PHP": {
+      "bytes": 486,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-11T20:47:20.276Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rses",
+  "full_name": "sjg/rses",
+  "owner": "sjg",
+  "private": false,
+  "html_url": "https://github.com/sjg/rses",
+  "description": "Really Simple Echo Server",
+  "fork": false,
+  "url": "https://api.github.com/repos/sjg/rses",
+  "languages_url": "https://api.github.com/repos/sjg/rses/languages",
+  "pulls_url": "https://api.github.com/repos/sjg/rses/pulls{/number}",
+  "created_at": "2012-01-20T14:36:53Z",
+  "updated_at": "2014-04-18T10:07:30Z",
+  "pushed_at": "2012-01-20T15:04:02Z",
+  "homepage": null,
+  "size": 158,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sjg": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1698,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:40.720Z"
+}

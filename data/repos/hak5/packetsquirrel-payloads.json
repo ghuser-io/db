@@ -1,0 +1,82 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "packetsquirrel-payloads",
+  "full_name": "hak5/packetsquirrel-payloads",
+  "owner": "hak5",
+  "private": false,
+  "html_url": "https://github.com/hak5/packetsquirrel-payloads",
+  "description": "Official Packet Squirrel Payload Repository",
+  "fork": false,
+  "url": "https://api.github.com/repos/hak5/packetsquirrel-payloads",
+  "languages_url": "https://api.github.com/repos/hak5/packetsquirrel-payloads/languages",
+  "pulls_url": "https://api.github.com/repos/hak5/packetsquirrel-payloads/pulls{/number}",
+  "created_at": "2017-10-15T21:48:58Z",
+  "updated_at": "2018-09-10T21:23:05Z",
+  "pushed_at": "2018-07-04T09:06:12Z",
+  "homepage": "https://packetsquirrel.com",
+  "size": 29,
+  "stargazers_count": 148,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "hak5",
+    "id": 9473275,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjk0NzMyNzU=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/9473275?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hak5",
+    "html_url": "https://github.com/hak5",
+    "followers_url": "https://api.github.com/users/hak5/followers",
+    "following_url": "https://api.github.com/users/hak5/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hak5/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hak5/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hak5/subscriptions",
+    "organizations_url": "https://api.github.com/users/hak5/orgs",
+    "repos_url": "https://api.github.com/users/hak5/repos",
+    "events_url": "https://api.github.com/users/hak5/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hak5/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "cdhop": 1,
+    "Zappus": 1,
+    "DannyK999": 1,
+    "SebSeifert": 1,
+    "hak5darren": 1,
+    "sundhaug92": 1,
+    "TheDragonkeeper": 2,
+    "thehappydinoa": 2,
+    "sebkinne": 3,
+    "infoskirmish": 3
+  },
+  "pulls_authors": [
+    "moliata",
+    "TheDragonkeeper",
+    "kaasmanxd",
+    "cdhop",
+    "Zappus",
+    "DannyK999",
+    "SebSeifert",
+    "infoskirmish",
+    "SkiddieTech",
+    "hak5darren",
+    "Anandesh-Sharma",
+    "sundhaug92",
+    "thehappydinoa"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 28101,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 2560,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-10T21:39:48.284Z"
+}

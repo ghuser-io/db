@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "homebrew-formula",
+  "full_name": "chrismytton/homebrew-formula",
+  "owner": "chrismytton",
+  "private": false,
+  "html_url": "https://github.com/chrismytton/homebrew-formula",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/chrismytton/homebrew-formula",
+  "languages_url": "https://api.github.com/repos/chrismytton/homebrew-formula/languages",
+  "pulls_url": "https://api.github.com/repos/chrismytton/homebrew-formula/pulls{/number}",
+  "created_at": "2014-02-15T14:57:50Z",
+  "updated_at": "2016-04-01T16:47:09Z",
+  "pushed_at": "2016-04-01T16:49:57Z",
+  "homepage": null,
+  "size": 1,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "chrismytton": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 561,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:40.405Z"
+}

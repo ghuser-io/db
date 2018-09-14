@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "scheduling-algo",
+  "full_name": "anshumanv/scheduling-algo",
+  "owner": "anshumanv",
+  "private": false,
+  "html_url": "https://github.com/anshumanv/scheduling-algo",
+  "description": "A bunch of system scheduling algorithms",
+  "fork": false,
+  "url": "https://api.github.com/repos/anshumanv/scheduling-algo",
+  "languages_url": "https://api.github.com/repos/anshumanv/scheduling-algo/languages",
+  "pulls_url": "https://api.github.com/repos/anshumanv/scheduling-algo/pulls{/number}",
+  "created_at": "2017-11-08T05:34:03Z",
+  "updated_at": "2017-11-16T05:41:20Z",
+  "pushed_at": "2017-11-16T05:41:00Z",
+  "homepage": null,
+  "size": 25,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "PiyushPawar17": 2,
+    "amany9000": 3,
+    "shivamsaboo17": 6,
+    "anshumanv": 20
+  },
+  "pulls_authors": [
+    "anshumanv",
+    "shivamsaboo17",
+    "amany9000",
+    "PiyushPawar17"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 14111,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-04T12:17:56.722Z"
+}

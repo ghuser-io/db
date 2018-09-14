@@ -1,0 +1,68 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pyswf",
+  "full_name": "timknip/pyswf",
+  "owner": "timknip",
+  "private": false,
+  "html_url": "https://github.com/timknip/pyswf",
+  "description": "A Python library to read and write SWF files",
+  "fork": false,
+  "url": "https://api.github.com/repos/timknip/pyswf",
+  "languages_url": "https://api.github.com/repos/timknip/pyswf/languages",
+  "pulls_url": "https://api.github.com/repos/timknip/pyswf/pulls{/number}",
+  "created_at": "2011-05-29T19:24:35Z",
+  "updated_at": "2018-09-12T07:39:25Z",
+  "pushed_at": "2017-06-23T17:25:01Z",
+  "homepage": "https://github.com/timknip/pyswf/wiki",
+  "size": 182,
+  "stargazers_count": 115,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "apolkosnik-old": 1,
+    "zhzhzoo": 1,
+    "crackinglandia": 1,
+    "tuomassalo": 2,
+    "robvinson": 2,
+    "Charley-Peng": 2,
+    "skrat": 2,
+    "jackrusher": 2,
+    "CounterPillow": 3,
+    "leag": 4,
+    "mikep-moto": 6,
+    "ctz": 15,
+    "timknip2": 39
+  },
+  "pulls_authors": [
+    "CounterPillow",
+    "tuomassalo",
+    "wxsBSD",
+    "knifeyspoony",
+    "apolkosnik-old",
+    "robvinson",
+    "marcocova",
+    "zhzhzoo",
+    "poxyran",
+    "chid",
+    "crackinglandia",
+    "intonarumori",
+    "ctz",
+    "leag"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 242112,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:40:49.887Z"
+}

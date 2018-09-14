@@ -1,0 +1,68 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "uni-task-2-Lidilidian",
+  "full_name": "BesutKode/uni-task-2-Lidilidian",
+  "owner": "BesutKode",
+  "private": false,
+  "html_url": "https://github.com/BesutKode/uni-task-2-Lidilidian",
+  "description": "uni-task-2-Lidilidian created by GitHub Classroom",
+  "fork": false,
+  "url": "https://api.github.com/repos/BesutKode/uni-task-2-Lidilidian",
+  "languages_url": "https://api.github.com/repos/BesutKode/uni-task-2-Lidilidian/languages",
+  "pulls_url": "https://api.github.com/repos/BesutKode/uni-task-2-Lidilidian/pulls{/number}",
+  "created_at": "2016-11-11T09:18:32Z",
+  "updated_at": "2017-08-22T11:53:42Z",
+  "pushed_at": "2016-11-17T15:34:45Z",
+  "homepage": "https://github.com/arkwrn/Pahawang-Island-Data",
+  "size": 249,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "BesutKode",
+    "id": 18556752,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4NTU2NzUy",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/18556752?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/BesutKode",
+    "html_url": "https://github.com/BesutKode",
+    "followers_url": "https://api.github.com/users/BesutKode/followers",
+    "following_url": "https://api.github.com/users/BesutKode/following{/other_user}",
+    "gists_url": "https://api.github.com/users/BesutKode/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/BesutKode/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/BesutKode/subscriptions",
+    "organizations_url": "https://api.github.com/users/BesutKode/orgs",
+    "repos_url": "https://api.github.com/users/BesutKode/repos",
+    "events_url": "https://api.github.com/users/BesutKode/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/BesutKode/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jayvdb": 1,
+    "arkwrn": 11
+  },
+  "pulls_authors": [
+    "arkwrn"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 4872,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 29,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

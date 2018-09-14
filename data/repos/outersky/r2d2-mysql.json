@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "r2d2-mysql",
+  "full_name": "outersky/r2d2-mysql",
+  "owner": "outersky",
+  "private": false,
+  "html_url": "https://github.com/outersky/r2d2-mysql",
+  "description": "MySQL support for the r2d2 connection pool (Rust)",
+  "fork": false,
+  "url": "https://api.github.com/repos/outersky/r2d2-mysql",
+  "languages_url": "https://api.github.com/repos/outersky/r2d2-mysql/languages",
+  "pulls_url": "https://api.github.com/repos/outersky/r2d2-mysql/pulls{/number}",
+  "created_at": "2015-07-20T14:40:15Z",
+  "updated_at": "2018-09-08T05:57:31Z",
+  "pushed_at": "2018-07-23T13:57:18Z",
+  "homepage": null,
+  "size": 4880,
+  "stargazers_count": 17,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ELD": 1,
+    "k3m3": 1,
+    "cy-keitaro-onishi": 1,
+    "pocket7878": 3,
+    "outersky": 20
+  },
+  "pulls_authors": [
+    "ELD",
+    "k3m3",
+    "ghost",
+    "pocket7878",
+    "cy-keitaro-onishi"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 3778,
+      "color": "#dea584"
+    },
+    "Shell": {
+      "bytes": 347,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T10:35:54.672Z"
+}

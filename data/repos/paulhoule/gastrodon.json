@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gastrodon",
+  "full_name": "paulhoule/gastrodon",
+  "owner": "paulhoule",
+  "private": false,
+  "html_url": "https://github.com/paulhoule/gastrodon",
+  "description": "Visualize RDF data in Jupyter with Pandas",
+  "fork": false,
+  "url": "https://api.github.com/repos/paulhoule/gastrodon",
+  "languages_url": "https://api.github.com/repos/paulhoule/gastrodon/languages",
+  "pulls_url": "https://api.github.com/repos/paulhoule/gastrodon/pulls{/number}",
+  "created_at": "2016-07-15T13:05:39Z",
+  "updated_at": "2018-08-31T18:16:18Z",
+  "pushed_at": "2018-01-22T02:03:58Z",
+  "homepage": "",
+  "size": 2669,
+  "stargazers_count": 42,
+  "language": "Jupyter Notebook",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "paulhoule": 51
+  },
+  "pulls_authors": [
+    "paulhoule"
+  ],
+  "languages": {
+    "Jupyter Notebook": {
+      "bytes": 1000349,
+      "color": "#DA5B0B"
+    },
+    "Python": {
+      "bytes": 41835,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 19217,
+      "color": "#e34c26"
+    },
+    "Batchfile": {
+      "bytes": 340,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-11T23:10:15.706Z"
+}

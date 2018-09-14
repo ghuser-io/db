@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "csv_to_popolo",
+  "full_name": "tmtmtmtm/csv_to_popolo",
+  "owner": "tmtmtmtm",
+  "private": false,
+  "html_url": "https://github.com/tmtmtmtm/csv_to_popolo",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/tmtmtmtm/csv_to_popolo",
+  "languages_url": "https://api.github.com/repos/tmtmtmtm/csv_to_popolo/languages",
+  "pulls_url": "https://api.github.com/repos/tmtmtmtm/csv_to_popolo/pulls{/number}",
+  "created_at": "2015-02-09T15:14:06Z",
+  "updated_at": "2018-04-05T11:11:04Z",
+  "pushed_at": "2018-04-05T11:11:05Z",
+  "homepage": null,
+  "size": 387,
+  "stargazers_count": 3,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "chrismytton": 9,
+    "mhl": 9,
+    "ondenman": 18,
+    "tmtmtmtm": 207
+  },
+  "pulls_authors": [
+    "tmtmtmtm",
+    "ondenman",
+    "chrismytton",
+    "mhl"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 50300,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:39.197Z"
+}

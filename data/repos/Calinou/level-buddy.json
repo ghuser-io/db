@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 1
+  },
+  "name": "level-buddy",
+  "full_name": "Calinou/level-buddy",
+  "owner": "Calinou",
+  "private": false,
+  "html_url": "https://github.com/Calinou/level-buddy",
+  "description": "Level Buddy add-on for Blender written by Matt Lucas",
+  "fork": false,
+  "url": "https://api.github.com/repos/Calinou/level-buddy",
+  "languages_url": "https://api.github.com/repos/Calinou/level-buddy/languages",
+  "created_at": "2018-03-05T00:52:25Z",
+  "updated_at": "2018-07-21T00:50:02Z",
+  "pushed_at": "2018-03-05T00:56:50Z",
+  "homepage": "https://matt-lucas.itch.io/level-buddy",
+  "size": 21,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "languages": {
+    "Python": {
+      "bytes": 45206,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-07-21T08:12:16.618Z",
+  "pulls_url": "https://api.github.com/repos/Calinou/level-buddy/pulls{/number}",
+  "pulls_authors": []
+}

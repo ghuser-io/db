@@ -1,0 +1,95 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vagrant-lamp",
+  "full_name": "r8/vagrant-lamp",
+  "owner": "r8",
+  "private": false,
+  "html_url": "https://github.com/r8/vagrant-lamp",
+  "description": "My default LAMP development stack for Vagrant",
+  "fork": false,
+  "url": "https://api.github.com/repos/r8/vagrant-lamp",
+  "languages_url": "https://api.github.com/repos/r8/vagrant-lamp/languages",
+  "pulls_url": "https://api.github.com/repos/r8/vagrant-lamp/pulls{/number}",
+  "created_at": "2012-03-13T06:04:01Z",
+  "updated_at": "2018-09-14T02:27:12Z",
+  "pushed_at": "2018-04-08T11:16:03Z",
+  "homepage": "http://r8.github.io/vagrant-lamp/",
+  "size": 3923,
+  "stargazers_count": 768,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "marlomgirardi": 1,
+    "captbaritone": 1,
+    "jo-m": 1,
+    "lushc": 1,
+    "lhas2": 1,
+    "kasperisager": 1,
+    "flacostec": 1,
+    "melissamcewen": 2,
+    "gitter-badger": 2,
+    "mattbostock": 2,
+    "markpfletcher": 2,
+    "pmgarman": 2,
+    "aaronbushnell": 2,
+    "peterrus": 6,
+    "eelkeblok": 9,
+    "r8": 154
+  },
+  "pulls_authors": [
+    "r8",
+    "madeinnordeste",
+    "melissamcewen",
+    "marlomgirardi",
+    "mohamed-ea",
+    "gitter-badger",
+    "ilyar",
+    "eelkeblok",
+    "papoms",
+    "mattbostock",
+    "mwcavender",
+    "spoetnik",
+    "markpfletcher",
+    "pmgarman",
+    "aaronbushnell",
+    "captbaritone",
+    "jo-m",
+    "peterrus",
+    "lushc",
+    "lhas",
+    "tomasliubinas",
+    "mmarquez",
+    "kasperisager",
+    "flacostec"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 1328040,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 520526,
+      "color": "#e34c26"
+    },
+    "Perl": {
+      "bytes": 83401,
+      "color": "#0298c3"
+    },
+    "C": {
+      "bytes": 47932,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 19853,
+      "color": "#89e051"
+    },
+    "Batchfile": {
+      "bytes": 446,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-14T08:23:44.469Z"
+}

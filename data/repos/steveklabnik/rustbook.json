@@ -1,0 +1,76 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rustbook",
+  "full_name": "steveklabnik/rustbook",
+  "owner": "steveklabnik",
+  "private": false,
+  "html_url": "https://github.com/steveklabnik/rustbook",
+  "description": "A simplified version of gitbook, atop rustdoc",
+  "fork": false,
+  "url": "https://api.github.com/repos/steveklabnik/rustbook",
+  "languages_url": "https://api.github.com/repos/steveklabnik/rustbook/languages",
+  "pulls_url": "https://api.github.com/repos/steveklabnik/rustbook/pulls{/number}",
+  "created_at": "2014-07-16T22:46:19Z",
+  "updated_at": "2018-05-18T15:45:28Z",
+  "pushed_at": "2016-11-03T11:54:04Z",
+  "homepage": null,
+  "size": 798,
+  "stargazers_count": 113,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "edunham": 1,
+    "tatsuya6502": 1,
+    "funkill": 1,
+    "hawkw": 1,
+    "euc": 1,
+    "druzn3k": 1,
+    "sinistersnare": 1,
+    "japaric": 1,
+    "mkpankov": 4,
+    "aturon": 12,
+    "steveklabnik": 33
+  },
+  "pulls_authors": [
+    "edunham",
+    "mkpankov",
+    "tatsuya6502",
+    "ghost",
+    "steveklabnik",
+    "funkill",
+    "mdinger",
+    "hawkw",
+    "euc",
+    "druzn3k",
+    "sinistersnare",
+    "japaric"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 28944,
+      "color": "#dea584"
+    },
+    "JavaScript": {
+      "bytes": 4615,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 2828,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 410,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:37.591Z"
+}

@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "crconsole",
+  "full_name": "sidorares/crconsole",
+  "owner": "sidorares",
+  "private": false,
+  "html_url": "https://github.com/sidorares/crconsole",
+  "description": "Remote JavaScript console for Chrome/Webkit",
+  "fork": false,
+  "url": "https://api.github.com/repos/sidorares/crconsole",
+  "languages_url": "https://api.github.com/repos/sidorares/crconsole/languages",
+  "pulls_url": "https://api.github.com/repos/sidorares/crconsole/pulls{/number}",
+  "created_at": "2013-09-23T05:23:51Z",
+  "updated_at": "2018-08-27T16:03:53Z",
+  "pushed_at": "2017-05-01T05:45:00Z",
+  "homepage": null,
+  "size": 52,
+  "stargazers_count": 209,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "yukinying": 1,
+    "outaTiME": 1,
+    "bitdeli-chef": 1,
+    "sidorares": 29
+  },
+  "pulls_authors": [
+    "snyk-bot",
+    "yukinying",
+    "outaTiME",
+    "bitdeli-chef"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 78716,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:30.584Z"
+}

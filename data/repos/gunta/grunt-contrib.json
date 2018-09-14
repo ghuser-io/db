@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "grunt-contrib",
+  "full_name": "gunta/grunt-contrib",
+  "owner": "gunta",
+  "private": false,
+  "html_url": "https://github.com/gunta/grunt-contrib",
+  "description": "A collection of common grunt tasks.",
+  "fork": true,
+  "url": "https://api.github.com/repos/gunta/grunt-contrib",
+  "languages_url": "https://api.github.com/repos/gunta/grunt-contrib/languages",
+  "pulls_url": "https://api.github.com/repos/gunta/grunt-contrib/pulls{/number}",
+  "created_at": "2012-07-18T08:14:54Z",
+  "updated_at": "2013-01-11T06:45:25Z",
+  "pushed_at": "2012-08-07T08:34:33Z",
+  "homepage": "",
+  "size": 1674,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mikaelkaron": 1,
+    "jney": 1,
+    "gcpantazis": 1,
+    "dsyph3r": 1,
+    "liamks": 1,
+    "paulirish": 1,
+    "tonyxiao": 1,
+    "ypomortsev": 1,
+    "cowboy": 1,
+    "searls": 2,
+    "shama": 2,
+    "asciidisco": 2,
+    "errcw": 2,
+    "outaTiME": 3,
+    "conradz": 3,
+    "thomasboyt": 3,
+    "tkazec": 4,
+    "jgoodall": 4,
+    "gunta": 6,
+    "tkellen": 47,
+    "ctalkington": 93
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 49278,
+      "color": "#f1e05a"
+    },
+    "CoffeeScript": {
+      "bytes": 51,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-11T23:06:06.502Z"
+}

@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wp-rest-api-v2-menus",
+  "full_name": "qwince/wp-rest-api-v2-menus",
+  "owner": "qwince",
+  "private": false,
+  "html_url": "https://github.com/qwince/wp-rest-api-v2-menus",
+  "description": "Adding menus endpoints on WP REST API v2",
+  "fork": false,
+  "url": "https://api.github.com/repos/qwince/wp-rest-api-v2-menus",
+  "languages_url": "https://api.github.com/repos/qwince/wp-rest-api-v2-menus/languages",
+  "pulls_url": "https://api.github.com/repos/qwince/wp-rest-api-v2-menus/pulls{/number}",
+  "created_at": "2015-12-29T11:40:21Z",
+  "updated_at": "2018-09-11T15:03:24Z",
+  "pushed_at": "2018-08-20T15:12:52Z",
+  "homepage": null,
+  "size": 7,
+  "stargazers_count": 12,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "qwince",
+    "id": 20069607,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIwMDY5NjA3",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/20069607?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/qwince",
+    "html_url": "https://github.com/qwince",
+    "followers_url": "https://api.github.com/users/qwince/followers",
+    "following_url": "https://api.github.com/users/qwince/following{/other_user}",
+    "gists_url": "https://api.github.com/users/qwince/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/qwince/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/qwince/subscriptions",
+    "organizations_url": "https://api.github.com/users/qwince/orgs",
+    "repos_url": "https://api.github.com/users/qwince/repos",
+    "events_url": "https://api.github.com/users/qwince/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/qwince/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "joshuaslate": 1,
+    "thebatclaudio": 10,
+    "odnamrataizem": 1
+  },
+  "pulls_authors": [
+    "joshuaslate",
+    "thebatclaudio",
+    "odnamrataizem"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 1385,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-11T15:15:28.291Z"
+}

@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rudder",
+  "full_name": "AcalephStorage/rudder",
+  "owner": "AcalephStorage",
+  "private": false,
+  "html_url": "https://github.com/AcalephStorage/rudder",
+  "description": "RESTful API Proxy for Helm",
+  "fork": false,
+  "url": "https://api.github.com/repos/AcalephStorage/rudder",
+  "languages_url": "https://api.github.com/repos/AcalephStorage/rudder/languages",
+  "pulls_url": "https://api.github.com/repos/AcalephStorage/rudder/pulls{/number}",
+  "created_at": "2016-10-26T13:48:36Z",
+  "updated_at": "2018-09-13T01:58:56Z",
+  "pushed_at": "2018-04-29T21:08:40Z",
+  "homepage": "",
+  "size": 827,
+  "stargazers_count": 49,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "develop",
+  "organization": {
+    "login": "AcalephStorage",
+    "id": 3954932,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM5NTQ5MzI=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/3954932?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/AcalephStorage",
+    "html_url": "https://github.com/AcalephStorage",
+    "followers_url": "https://api.github.com/users/AcalephStorage/followers",
+    "following_url": "https://api.github.com/users/AcalephStorage/following{/other_user}",
+    "gists_url": "https://api.github.com/users/AcalephStorage/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/AcalephStorage/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/AcalephStorage/subscriptions",
+    "organizations_url": "https://api.github.com/users/AcalephStorage/orgs",
+    "repos_url": "https://api.github.com/users/AcalephStorage/repos",
+    "events_url": "https://api.github.com/users/AcalephStorage/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/AcalephStorage/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "peterbroadhurst": 1,
+    "Awk34": 1,
+    "yarntime": 1,
+    "stefanymarie": 2,
+    "hunter": 3,
+    "darkcrux": 28
+  },
+  "pulls_authors": [
+    "amir",
+    "peterbroadhurst",
+    "MiethanerR",
+    "darkcrux",
+    "stefanymarie",
+    "Awk34",
+    "yarntime"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 39908,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 680,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-13T16:23:03.858Z"
+}

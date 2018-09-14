@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bot",
+  "full_name": "Ideabin/bot",
+  "owner": "Ideabin",
+  "private": false,
+  "html_url": "https://github.com/Ideabin/bot",
+  "description": "A gang of bots that fetch gists and share the ideas on Twitter.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Ideabin/bot",
+  "languages_url": "https://api.github.com/repos/Ideabin/bot/languages",
+  "pulls_url": "https://api.github.com/repos/Ideabin/bot/pulls{/number}",
+  "created_at": "2014-11-15T20:28:09Z",
+  "updated_at": "2018-07-10T17:23:12Z",
+  "pushed_at": "2018-07-10T17:23:10Z",
+  "homepage": "",
+  "size": 26,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "Ideabin",
+    "id": 8464018,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjg0NjQwMTg=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/8464018?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Ideabin",
+    "html_url": "https://github.com/Ideabin",
+    "followers_url": "https://api.github.com/users/Ideabin/followers",
+    "following_url": "https://api.github.com/users/Ideabin/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Ideabin/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Ideabin/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Ideabin/subscriptions",
+    "organizations_url": "https://api.github.com/users/Ideabin/orgs",
+    "repos_url": "https://api.github.com/users/Ideabin/repos",
+    "events_url": "https://api.github.com/users/Ideabin/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Ideabin/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "kwikadi": 1,
+    "dufferzafar": 18
+  },
+  "pulls_authors": [
+    "kwikadi"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 10248,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-03T12:56:53.509Z"
+}

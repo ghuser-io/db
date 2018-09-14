@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "TelegramXEmojis",
+  "full_name": "skittles9823/TelegramXEmojis",
+  "owner": "skittles9823",
+  "private": false,
+  "html_url": "https://github.com/skittles9823/TelegramXEmojis",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/skittles9823/TelegramXEmojis",
+  "languages_url": "https://api.github.com/repos/skittles9823/TelegramXEmojis/languages",
+  "pulls_url": "https://api.github.com/repos/skittles9823/TelegramXEmojis/pulls{/number}",
+  "created_at": "2018-03-31T03:13:00Z",
+  "updated_at": "2018-08-11T05:27:27Z",
+  "pushed_at": "2018-08-12T13:04:52Z",
+  "homepage": null,
+  "size": 87444,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "kt-n",
+  "contributors": {
+    "pierx": 1,
+    "ohayoubaka": 1,
+    "Adarsh-MR": 1,
+    "BlackFoxy757": 1,
+    "BDFrostbite": 1,
+    "chriskardas": 1,
+    "Surge1223": 1,
+    "westcripp": 1,
+    "lhypl": 1,
+    "sstarkenburg": 1,
+    "mddanishansari": 1,
+    "ungeeked": 1,
+    "ashoksoni": 1,
+    "szecs": 1,
+    "KreAch3R": 1,
+    "gcantoni": 2,
+    "Jertlok": 2,
+    "SubhrajyotiSen": 2,
+    "srisurya95": 2,
+    "valiantshadow": 3,
+    "jahirfiquitiva": 3,
+    "nitanmarcel": 4,
+    "spannaa": 4,
+    "AllanWang": 4,
+    "tetsuo55": 5,
+    "MihailMihov": 7,
+    "gmillz": 9,
+    "MSF-Jarvis": 29,
+    "iskandar1023": 33,
+    "deletescape": 34,
+    "nicholaschum": 112,
+    "skittles9823": 182
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 32663,
+      "color": "#3572A5"
+    },
+    "Kotlin": {
+      "bytes": 24538,
+      "color": "#F18E33"
+    },
+    "Shell": {
+      "bytes": 3960,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-20T12:16:17.428Z"
+}

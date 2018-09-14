@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mlprague2018_tutorial",
+  "full_name": "avidLearnerInProgress/mlprague2018_tutorial",
+  "owner": "avidLearnerInProgress",
+  "private": false,
+  "html_url": "https://github.com/avidLearnerInProgress/mlprague2018_tutorial",
+  "description": "Code and Datasets for the \"Deep Learning for Music Classification using Keras\" Workshop",
+  "fork": true,
+  "url": "https://api.github.com/repos/avidLearnerInProgress/mlprague2018_tutorial",
+  "languages_url": "https://api.github.com/repos/avidLearnerInProgress/mlprague2018_tutorial/languages",
+  "created_at": "2018-03-23T13:03:06Z",
+  "updated_at": "2018-03-30T01:49:19Z",
+  "pushed_at": "2018-03-23T12:51:10Z",
+  "homepage": null,
+  "size": 6696,
+  "stargazers_count": 1,
+  "language": "Jupyter Notebook",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "slychief": 7
+  },
+  "languages": {
+    "Jupyter Notebook": {
+      "bytes": 6506993,
+      "color": "#DA5B0B"
+    },
+    "Python": {
+      "bytes": 25651,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/avidLearnerInProgress/mlprague2018_tutorial/pulls{/number}",
+  "pulls_authors": []
+}

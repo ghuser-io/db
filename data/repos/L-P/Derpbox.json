@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Derpbox",
+  "full_name": "L-P/Derpbox",
+  "owner": "L-P",
+  "private": false,
+  "html_url": "https://github.com/L-P/Derpbox",
+  "description": "Dropbox alternative written in bash.",
+  "fork": false,
+  "url": "https://api.github.com/repos/L-P/Derpbox",
+  "languages_url": "https://api.github.com/repos/L-P/Derpbox/languages",
+  "pulls_url": "https://api.github.com/repos/L-P/Derpbox/pulls{/number}",
+  "created_at": "2011-07-29T18:53:11Z",
+  "updated_at": "2018-09-07T12:23:42Z",
+  "pushed_at": "2012-05-04T10:11:53Z",
+  "homepage": "",
+  "size": 111,
+  "stargazers_count": 69,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "L-P": 13
+  },
+  "pulls_authors": [
+    "curtisullerich"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 6574,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T23:08:03.023Z"
+}

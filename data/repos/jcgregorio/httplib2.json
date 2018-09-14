@@ -1,0 +1,103 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "httplib2",
+  "full_name": "jcgregorio/httplib2",
+  "owner": "jcgregorio",
+  "private": false,
+  "html_url": "https://github.com/jcgregorio/httplib2",
+  "description": "The former official repository for httplib2. Now see https://github.com/httplib2.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jcgregorio/httplib2",
+  "languages_url": "https://api.github.com/repos/jcgregorio/httplib2/languages",
+  "pulls_url": "https://api.github.com/repos/jcgregorio/httplib2/pulls{/number}",
+  "created_at": "2013-02-26T22:04:09Z",
+  "updated_at": "2018-08-18T08:44:49Z",
+  "pushed_at": "2017-04-02T06:50:02Z",
+  "homepage": "https://github.com/httplib2/httplib2",
+  "size": 3316,
+  "stargazers_count": 387,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ccstolley": 1,
+    "davidsansome": 1,
+    "cganterh": 1,
+    "i026e": 1,
+    "micolous": 1,
+    "jone": 1,
+    "snarfed": 2,
+    "cdent": 2,
+    "djc": 2,
+    "alainv": 4,
+    "jaraco": 20,
+    "durin42": 20,
+    "jcgregorio": 199
+  },
+  "pulls_authors": [
+    "phuslu",
+    "bisho",
+    "stephenR",
+    "gmixo",
+    "smurfix",
+    "reingart",
+    "mbettan",
+    "graingert",
+    "jwilk",
+    "ccstolley",
+    "vytisb",
+    "davidsansome",
+    "gward",
+    "amake",
+    "chroniton",
+    "cganterh",
+    "i026e",
+    "jayvdb",
+    "r14c",
+    "dabertram",
+    "vinodc",
+    "charsyam",
+    "jstnlef",
+    "micolous",
+    "AusIV",
+    "gcd0318",
+    "povtux",
+    "jone",
+    "snarfed"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 326443,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 68724,
+      "color": "#e34c26"
+    },
+    "TeX": {
+      "bytes": 20241,
+      "color": "#3D6117"
+    },
+    "CSS": {
+      "bytes": 9779,
+      "color": "#563d7c"
+    },
+    "Makefile": {
+      "bytes": 1782,
+      "color": "#427819"
+    },
+    "ApacheConf": {
+      "bytes": 1170,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-08-18T09:20:27.899Z"
+}

@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SwipeView",
+  "full_name": "jeffbarg/SwipeView",
+  "owner": "jeffbarg",
+  "private": false,
+  "html_url": "https://github.com/jeffbarg/SwipeView",
+  "description": "A Swift recreation of Tinder.app's swipe view in pure Swift 2.0",
+  "fork": false,
+  "url": "https://api.github.com/repos/jeffbarg/SwipeView",
+  "languages_url": "https://api.github.com/repos/jeffbarg/SwipeView/languages",
+  "pulls_url": "https://api.github.com/repos/jeffbarg/SwipeView/pulls{/number}",
+  "created_at": "2014-06-17T22:18:21Z",
+  "updated_at": "2018-09-09T23:02:54Z",
+  "pushed_at": "2018-09-09T23:02:52Z",
+  "homepage": "",
+  "size": 6380,
+  "stargazers_count": 31,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jeffbarg": 2
+  },
+  "pulls_authors": [
+    "datomnurdin",
+    "cameronbarker",
+    "arjunblj"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 21874,
+      "color": "#ffac45"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:11.304Z"
+}

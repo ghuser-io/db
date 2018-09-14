@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "coala-brackets",
+  "full_name": "coala/coala-brackets",
+  "owner": "coala",
+  "private": false,
+  "html_url": "https://github.com/coala/coala-brackets",
+  "description": "A coala integration plugin for brackets",
+  "fork": false,
+  "url": "https://api.github.com/repos/coala/coala-brackets",
+  "languages_url": "https://api.github.com/repos/coala/coala-brackets/languages",
+  "pulls_url": "https://api.github.com/repos/coala/coala-brackets/pulls{/number}",
+  "created_at": "2017-03-26T13:38:21Z",
+  "updated_at": "2017-12-06T05:54:11Z",
+  "pushed_at": "2018-06-22T06:53:40Z",
+  "homepage": "https://coala.io/",
+  "size": 42,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "coala",
+    "id": 10620750,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNjIwNzUw",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/10620750?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/coala",
+    "html_url": "https://github.com/coala",
+    "followers_url": "https://api.github.com/users/coala/followers",
+    "following_url": "https://api.github.com/users/coala/following{/other_user}",
+    "gists_url": "https://api.github.com/users/coala/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/coala/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/coala/subscriptions",
+    "organizations_url": "https://api.github.com/users/coala/orgs",
+    "repos_url": "https://api.github.com/users/coala/repos",
+    "events_url": "https://api.github.com/users/coala/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/coala/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "shikhar-scs": 2,
+    "binore": 2
+  },
+  "pulls_authors": [
+    "jayvdb",
+    "shikhar-scs"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 17663,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 2880,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1042,
+      "color": "#e34c26"
+    },
+    "CoffeeScript": {
+      "bytes": 136,
+      "color": "#244776"
+    },
+    "Python": {
+      "bytes": 120,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

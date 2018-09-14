@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Droopy",
+  "full_name": "stackp/Droopy",
+  "owner": "stackp",
+  "private": false,
+  "html_url": "https://github.com/stackp/Droopy",
+  "description": "Mini Web server that let others upload files to your computer",
+  "fork": false,
+  "url": "https://api.github.com/repos/stackp/Droopy",
+  "languages_url": "https://api.github.com/repos/stackp/Droopy/languages",
+  "pulls_url": "https://api.github.com/repos/stackp/Droopy/pulls{/number}",
+  "created_at": "2012-03-14T22:19:58Z",
+  "updated_at": "2018-09-07T03:03:33Z",
+  "pushed_at": "2018-06-28T12:46:53Z",
+  "homepage": "stackp.online.fr/droopy",
+  "size": 274,
+  "stargazers_count": 163,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "claytonaalves": 1,
+    "cathalgarvey": 19,
+    "stackp": 57
+  },
+  "pulls_authors": [
+    "hdf",
+    "ikarus23",
+    "gurnec",
+    "Profpatsch",
+    "fcremo",
+    "claytonaalves",
+    "cathalgarvey",
+    "kiseok7",
+    "KrisztiDennis",
+    "nkiesel",
+    "terrorbyte"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 43626,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:44.992Z"
+}

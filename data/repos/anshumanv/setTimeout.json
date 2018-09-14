@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "setTimeout",
+  "full_name": "anshumanv/setTimeout",
+  "owner": "anshumanv",
+  "private": false,
+  "html_url": "https://github.com/anshumanv/setTimeout",
+  "description": "An app to set timeout ?",
+  "fork": false,
+  "url": "https://api.github.com/repos/anshumanv/setTimeout",
+  "languages_url": "https://api.github.com/repos/anshumanv/setTimeout/languages",
+  "pulls_url": "https://api.github.com/repos/anshumanv/setTimeout/pulls{/number}",
+  "created_at": "2017-07-15T10:11:18Z",
+  "updated_at": "2018-09-07T04:49:10Z",
+  "pushed_at": "2017-10-02T11:24:58Z",
+  "homepage": "https://timeout.js.org",
+  "size": 3909,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "shaun-frost": 1,
+    "flaredragon": 1,
+    "anshumanv": 11
+  },
+  "pulls_authors": [
+    "shaun-frost",
+    "flaredragon"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2734,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 1260,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1238,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-07T11:19:43.712Z"
+}

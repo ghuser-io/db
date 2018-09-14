@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "MicrosoftLearning/20483-Programming-in-C-Sharp": {
+      "full_name": "MicrosoftLearning/20483-Programming-in-C-Sharp",
+      "name": "20483-Programming-in-C-Sharp",
+      "stargazers_count": 26,
+      "popularity": 2.3997126544096057,
+      "percentage": 0,
+      "maturity": 3.4202026784141966,
+      "total_commits_count": 302,
+      "activity": 5,
+      "total_score": 19.03954332005721,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "vmandic/react-dead-simple-intro": {
+      "full_name": "vmandic/react-dead-simple-intro",
+      "name": "react-dead-simple-intro",
+      "stargazers_count": 5,
+      "popularity": 1.6128219920330789,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 0.8488453968384437,
+      "total_score": 26.653997269367707,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "vmandic/PushSharp-Anywhere": {
+      "full_name": "vmandic/PushSharp-Anywhere",
+      "name": "PushSharp-Anywhere",
+      "stargazers_count": 16,
+      "popularity": 2.179015777092762,
+      "percentage": 97.72727272727273,
+      "maturity": 1.614477908582291,
+      "total_commits_count": 44,
+      "activity": 0.8488483068109707,
+      "total_score": 38.29825644150052,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "vmandic/masters-thesis-paper": {
+      "full_name": "vmandic/masters-thesis-paper",
+      "name": "masters-thesis-paper",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 19,
+      "activity": 0.503348959021003,
+      "total_score": 0.503348959021003,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "vmandic/sports-dataset-tsql": {
+      "full_name": "vmandic/sports-dataset-tsql",
+      "name": "sports-dataset-tsql",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 0.4000204782142731,
+      "total_score": 0.4000204782142731,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "MicrosoftLearning"
+  ]
+}

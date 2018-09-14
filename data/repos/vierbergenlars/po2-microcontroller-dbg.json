@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "po2-microcontroller-dbg",
+  "full_name": "vierbergenlars/po2-microcontroller-dbg",
+  "owner": "vierbergenlars",
+  "private": false,
+  "html_url": "https://github.com/vierbergenlars/po2-microcontroller-dbg",
+  "description": "Microcontroller micro-IDE & debugger",
+  "fork": false,
+  "url": "https://api.github.com/repos/vierbergenlars/po2-microcontroller-dbg",
+  "languages_url": "https://api.github.com/repos/vierbergenlars/po2-microcontroller-dbg/languages",
+  "pulls_url": "https://api.github.com/repos/vierbergenlars/po2-microcontroller-dbg/pulls{/number}",
+  "created_at": "2013-03-07T11:48:10Z",
+  "updated_at": "2014-04-24T16:19:01Z",
+  "pushed_at": "2013-04-15T13:56:52Z",
+  "homepage": "",
+  "size": 743,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "vierbergenlars": 22
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1137846,
+      "color": "#f1e05a"
+    },
+    "C": {
+      "bytes": 15944,
+      "color": "#555555"
+    },
+    "Objective-C": {
+      "bytes": 1151,
+      "color": "#438eff"
+    },
+    "Racket": {
+      "bytes": 36,
+      "color": "#22228f"
+    }
+  },
+  "fetched_at": "2018-09-11T17:16:22.770Z"
+}

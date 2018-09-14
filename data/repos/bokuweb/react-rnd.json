@@ -1,0 +1,106 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "react-rnd",
+  "full_name": "bokuweb/react-rnd",
+  "owner": "bokuweb",
+  "private": false,
+  "html_url": "https://github.com/bokuweb/react-rnd",
+  "description": "🖱  A resizable and draggable component for React.",
+  "fork": false,
+  "url": "https://api.github.com/repos/bokuweb/react-rnd",
+  "languages_url": "https://api.github.com/repos/bokuweb/react-rnd/languages",
+  "pulls_url": "https://api.github.com/repos/bokuweb/react-rnd/pulls{/number}",
+  "created_at": "2016-01-02T07:47:27Z",
+  "updated_at": "2018-09-14T07:34:35Z",
+  "pushed_at": "2018-09-13T21:40:36Z",
+  "homepage": "https://bokuweb.github.io/react-rnd/stories",
+  "size": 21197,
+  "stargazers_count": 692,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "idleberg": 1,
+    "NewOldMax": 1,
+    "Jason121250148": 1,
+    "danielholmes": 1,
+    "kiwidan": 1,
+    "harry2636": 1,
+    "p4bloch": 1,
+    "kudlajz": 1,
+    "lokeshgahlot": 1,
+    "volkandkaya": 1,
+    "orlandobrent": 1,
+    "anyxem": 1,
+    "dtipson": 1,
+    "calculon0": 1,
+    "tauren": 2,
+    "alicebob": 2,
+    "paulyoung": 2,
+    "EugeneHlushko": 3,
+    "bdyetton": 3,
+    "greenkeeper[bot]": 44,
+    "renovate[bot]": 119,
+    "bokuweb": 228
+  },
+  "pulls_authors": [
+    "renovate[bot]",
+    "bokuweb",
+    "idleberg",
+    "n8tz",
+    "greenkeeper[bot]",
+    "tauren",
+    "NewOldMax",
+    "Jason121250148",
+    "danielholmes",
+    "kiwidan",
+    "imerkle",
+    "harry2636",
+    "mdluo",
+    "p4bloch",
+    "bloodmozg",
+    "kudlajz",
+    "lokeshgahlot",
+    "ammycloud",
+    "volkandkaya",
+    "alicebob",
+    "paulyoung",
+    "orlandobrent",
+    "anyxem",
+    "EugeneHlushko",
+    "dtipson",
+    "calculon0",
+    "bdyetton"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 56094,
+      "color": "#2b7489"
+    },
+    "JavaScript": {
+      "bytes": 6695,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 462,
+      "color": "#89e051"
+    },
+    "HTML": {
+      "bytes": 302,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 153,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-14T08:37:51.479Z"
+}

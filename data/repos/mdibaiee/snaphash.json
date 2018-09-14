@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "snaphash",
+  "full_name": "mdibaiee/snaphash",
+  "owner": "mdibaiee",
+  "private": false,
+  "html_url": "https://github.com/mdibaiee/snaphash",
+  "description": "Preview video frames on <img> elements with ease",
+  "fork": false,
+  "url": "https://api.github.com/repos/mdibaiee/snaphash",
+  "languages_url": "https://api.github.com/repos/mdibaiee/snaphash/languages",
+  "pulls_url": "https://api.github.com/repos/mdibaiee/snaphash/pulls{/number}",
+  "created_at": "2015-09-25T15:33:00Z",
+  "updated_at": "2015-09-25T16:39:09Z",
+  "pushed_at": "2015-09-25T17:24:07Z",
+  "homepage": null,
+  "size": 1869,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "gh-pages",
+  "contributors": {
+    "mdibaiee": 4
+  },
+  "pulls_authors": [
+    "mamal72"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2263,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 421,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:43.723Z"
+}

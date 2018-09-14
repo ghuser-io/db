@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pandemix",
+  "full_name": "superboum/pandemix",
+  "owner": "superboum",
+  "private": false,
+  "html_url": "https://github.com/superboum/pandemix",
+  "description": "A collaborative and distributed web radio",
+  "fork": false,
+  "url": "https://api.github.com/repos/superboum/pandemix",
+  "languages_url": "https://api.github.com/repos/superboum/pandemix/languages",
+  "pulls_url": "https://api.github.com/repos/superboum/pandemix/pulls{/number}",
+  "created_at": "2018-06-28T18:40:19Z",
+  "updated_at": "2018-08-01T23:31:56Z",
+  "pushed_at": "2018-07-14T19:09:00Z",
+  "homepage": "",
+  "size": 348,
+  "stargazers_count": 2,
+  "language": "Scheme",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "superboum": 33
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Scheme": {
+      "bytes": 8104,
+      "color": "#1e4aec"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:18.916Z"
+}

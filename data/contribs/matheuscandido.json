@@ -1,0 +1,19 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "matheuscandido/LastSurvivor": {
+      "full_name": "matheuscandido/LastSurvivor",
+      "name": "LastSurvivor",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 83.33333333333333,
+      "maturity": 0,
+      "total_commits_count": 30,
+      "activity": 1.8220201342429108,
+      "total_score": 1.8220201342429108,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

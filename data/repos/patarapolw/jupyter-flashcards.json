@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jupyter-flashcards",
+  "full_name": "patarapolw/jupyter-flashcards",
+  "owner": "patarapolw",
+  "private": false,
+  "html_url": "https://github.com/patarapolw/jupyter-flashcards",
+  "description": "Jupyter notebook utility to view flashcards in both Excel and markdown format.",
+  "fork": false,
+  "url": "https://api.github.com/repos/patarapolw/jupyter-flashcards",
+  "languages_url": "https://api.github.com/repos/patarapolw/jupyter-flashcards/languages",
+  "pulls_url": "https://api.github.com/repos/patarapolw/jupyter-flashcards/pulls{/number}",
+  "created_at": "2018-07-18T06:14:53Z",
+  "updated_at": "2018-08-13T00:22:51Z",
+  "pushed_at": "2018-08-07T04:02:39Z",
+  "homepage": null,
+  "size": 2901,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "patarapolw": 40
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 19083,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 668,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 237,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-17T13:22:18.838Z"
+}

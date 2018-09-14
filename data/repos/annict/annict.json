@@ -1,0 +1,112 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "annict",
+  "full_name": "annict/annict",
+  "owner": "annict",
+  "private": false,
+  "html_url": "https://github.com/annict/annict",
+  "description": "The platform for anime addicts built with Rails 5.2 and Vue.js 2.5.",
+  "fork": false,
+  "url": "https://api.github.com/repos/annict/annict",
+  "languages_url": "https://api.github.com/repos/annict/annict/languages",
+  "pulls_url": "https://api.github.com/repos/annict/annict/pulls{/number}",
+  "created_at": "2014-07-11T17:18:18Z",
+  "updated_at": "2018-09-13T18:02:34Z",
+  "pushed_at": "2018-09-12T20:14:30Z",
+  "homepage": "https://annict.com",
+  "size": 50458,
+  "stargazers_count": 364,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "annict",
+    "id": 7150984,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjcxNTA5ODQ=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/7150984?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/annict",
+    "html_url": "https://github.com/annict",
+    "followers_url": "https://api.github.com/users/annict/followers",
+    "following_url": "https://api.github.com/users/annict/following{/other_user}",
+    "gists_url": "https://api.github.com/users/annict/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/annict/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/annict/subscriptions",
+    "organizations_url": "https://api.github.com/users/annict/orgs",
+    "repos_url": "https://api.github.com/users/annict/repos",
+    "events_url": "https://api.github.com/users/annict/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/annict/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "kajisha": 1,
+    "mottox2": 1,
+    "magnonellie": 1,
+    "greenkeeperio-bot": 1,
+    "polamjag": 1,
+    "takuan-osho": 1,
+    "elzup": 2,
+    "henriquebremenkanp": 3,
+    "Racion": 3,
+    "eagletmt": 4,
+    "koic": 5,
+    "flada-auxv": 5,
+    "taki": 5,
+    "kunitoo": 7,
+    "wopian": 8,
+    "greenkeeper[bot]": 60,
+    "deppbot": 144,
+    "dependabot-bot": 275,
+    "shimbaco": 2149
+  },
+  "pulls_authors": [
+    "dependabot[bot]",
+    "kateinoigakukun",
+    "shimbaco",
+    "kajisha",
+    "koic",
+    "elzup",
+    "greenkeeper[bot]",
+    "mottox2",
+    "deppbot",
+    "eagletmt",
+    "wopian",
+    "magnonellie",
+    "greenkeeperio-bot",
+    "henriquebremenkanp",
+    "taki",
+    "rxon",
+    "flada-auxv",
+    "polamjag",
+    "kunitoo",
+    "takuan-osho"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 783969,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 590511,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 82866,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 30730,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:37.511Z"
+}

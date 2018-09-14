@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "findx",
+  "full_name": "drmikehenry/findx",
+  "owner": "drmikehenry",
+  "private": false,
+  "html_url": "https://github.com/drmikehenry/findx",
+  "description": "Wrapper to extend the Unix ``find`` command",
+  "fork": false,
+  "url": "https://api.github.com/repos/drmikehenry/findx",
+  "languages_url": "https://api.github.com/repos/drmikehenry/findx/languages",
+  "pulls_url": "https://api.github.com/repos/drmikehenry/findx/pulls{/number}",
+  "created_at": "2013-02-17T13:39:46Z",
+  "updated_at": "2018-08-26T19:44:37Z",
+  "pushed_at": "2016-08-09T22:30:14Z",
+  "homepage": null,
+  "size": 67,
+  "stargazers_count": 7,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jayvdb": 1,
+    "jszakmeister": 1,
+    "mhaig": 3,
+    "drmikehenry": 41
+  },
+  "pulls_authors": [
+    "jayvdb",
+    "jszakmeister",
+    "mhaig"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 68269,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 39,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-08-27T06:19:03.379Z"
+}

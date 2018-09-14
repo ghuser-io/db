@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "webvs",
+  "full_name": "captbaritone/webvs",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/webvs",
+  "description": "Audio Visualization rendering library for the browser",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/webvs",
+  "languages_url": "https://api.github.com/repos/captbaritone/webvs/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/webvs/pulls{/number}",
+  "created_at": "2018-03-30T04:45:04Z",
+  "updated_at": "2018-07-29T22:18:20Z",
+  "pushed_at": "2018-03-30T04:04:34Z",
+  "homepage": "",
+  "size": 42720,
+  "stargazers_count": 1,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "idleberg": 2,
+    "azeem": 333
+  },
+  "pulls_authors": [],
+  "languages": {
+    "TypeScript": {
+      "bytes": 256127,
+      "color": "#2b7489"
+    },
+    "JavaScript": {
+      "bytes": 3076,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:56.306Z"
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jquery-handlebars",
+  "full_name": "softwarespot/jquery-handlebars",
+  "owner": "softwarespot",
+  "private": false,
+  "html_url": "https://github.com/softwarespot/jquery-handlebars",
+  "description": "A jQuery plugin for easily creating Handlebars templates",
+  "fork": false,
+  "url": "https://api.github.com/repos/softwarespot/jquery-handlebars",
+  "languages_url": "https://api.github.com/repos/softwarespot/jquery-handlebars/languages",
+  "pulls_url": "https://api.github.com/repos/softwarespot/jquery-handlebars/pulls{/number}",
+  "created_at": "2015-08-02T08:29:30Z",
+  "updated_at": "2018-08-24T21:34:25Z",
+  "pushed_at": "2017-04-25T22:16:46Z",
+  "homepage": "http://softwarespot.github.io/jquery-handlebars/",
+  "size": 199,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jbrooksuk": 1,
+    "softwarespot": 211
+  },
+  "pulls_authors": [
+    "softwarespot",
+    "jbrooksuk"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2724,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:50.146Z"
+}

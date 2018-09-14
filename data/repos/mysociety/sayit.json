@@ -1,0 +1,104 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sayit",
+  "full_name": "mysociety/sayit",
+  "owner": "mysociety",
+  "private": false,
+  "html_url": "https://github.com/mysociety/sayit",
+  "description": "SayIt - a component for recording and storing public statements.",
+  "fork": false,
+  "url": "https://api.github.com/repos/mysociety/sayit",
+  "languages_url": "https://api.github.com/repos/mysociety/sayit/languages",
+  "pulls_url": "https://api.github.com/repos/mysociety/sayit/pulls{/number}",
+  "created_at": "2012-09-12T10:57:38Z",
+  "updated_at": "2018-07-31T03:23:51Z",
+  "pushed_at": "2018-06-11T14:11:33Z",
+  "homepage": "http://sayit.mysociety.org/",
+  "size": 5956,
+  "stargazers_count": 85,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "mysociety",
+    "id": 141338,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/141338?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mysociety",
+    "html_url": "https://github.com/mysociety",
+    "followers_url": "https://api.github.com/users/mysociety/followers",
+    "following_url": "https://api.github.com/users/mysociety/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mysociety/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mysociety/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mysociety/subscriptions",
+    "organizations_url": "https://api.github.com/users/mysociety/orgs",
+    "repos_url": "https://api.github.com/users/mysociety/repos",
+    "events_url": "https://api.github.com/users/mysociety/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mysociety/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ajlanghorn": 1,
+    "ironchicken": 1,
+    "davewhiteland": 1,
+    "struan": 1,
+    "chrismytton": 1,
+    "girogiro": 3,
+    "mhl": 34,
+    "zarino": 39,
+    "jpmckinney": 40,
+    "evdb": 45,
+    "osfameron": 111,
+    "wrightmartin": 207,
+    "dracos": 477
+  },
+  "pulls_authors": [
+    "billy3321",
+    "zarino",
+    "mhl",
+    "dracos",
+    "jpmckinney",
+    "duncanparkes",
+    "tuttinator",
+    "girogiro",
+    "wrightmartin",
+    "ajlanghorn",
+    "ironchicken",
+    "osfameron",
+    "evdb",
+    "chrismytton"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 323902,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 298674,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 90535,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 61969,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 1117,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:47.967Z"
+}

@@ -1,0 +1,68 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "named-placeholders",
+  "full_name": "mysqljs/named-placeholders",
+  "owner": "mysqljs",
+  "private": false,
+  "html_url": "https://github.com/mysqljs/named-placeholders",
+  "description": "PDO-style named to unnamed placeholders compiler",
+  "fork": false,
+  "url": "https://api.github.com/repos/mysqljs/named-placeholders",
+  "languages_url": "https://api.github.com/repos/mysqljs/named-placeholders/languages",
+  "pulls_url": "https://api.github.com/repos/mysqljs/named-placeholders/pulls{/number}",
+  "created_at": "2014-08-30T07:56:49Z",
+  "updated_at": "2018-07-09T23:08:33Z",
+  "pushed_at": "2018-08-29T16:56:25Z",
+  "homepage": null,
+  "size": 12,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "mysqljs",
+    "id": 18713232,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4NzEzMjMy",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/18713232?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mysqljs",
+    "html_url": "https://github.com/mysqljs",
+    "followers_url": "https://api.github.com/users/mysqljs/followers",
+    "following_url": "https://api.github.com/users/mysqljs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mysqljs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mysqljs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mysqljs/subscriptions",
+    "organizations_url": "https://api.github.com/users/mysqljs/orgs",
+    "repos_url": "https://api.github.com/users/mysqljs/repos",
+    "events_url": "https://api.github.com/users/mysqljs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mysqljs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "hongkevin": 1,
+    "csimi": 1,
+    "sidorares": 11
+  },
+  "pulls_authors": [
+    "hyperivo",
+    "rmullenix",
+    "hongkevin",
+    "csimi"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 4394,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:29.733Z"
+}

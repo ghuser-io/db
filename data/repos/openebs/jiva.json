@@ -1,0 +1,116 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jiva",
+  "full_name": "openebs/jiva",
+  "owner": "openebs",
+  "private": false,
+  "html_url": "https://github.com/openebs/jiva",
+  "description": "Distributed and scalable storage delivered through containers.",
+  "fork": false,
+  "url": "https://api.github.com/repos/openebs/jiva",
+  "languages_url": "https://api.github.com/repos/openebs/jiva/languages",
+  "created_at": "2016-11-11T10:26:12Z",
+  "updated_at": "2018-09-12T09:16:20Z",
+  "pushed_at": "2018-09-12T12:59:57Z",
+  "homepage": "https://hub.docker.com/r/openebs/jiva/",
+  "size": 2213,
+  "stargazers_count": 65,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "openebs",
+    "id": 20769039,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIwNzY5MDM5",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/20769039?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/openebs",
+    "html_url": "https://github.com/openebs",
+    "followers_url": "https://api.github.com/users/openebs/followers",
+    "following_url": "https://api.github.com/users/openebs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/openebs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/openebs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/openebs/subscriptions",
+    "organizations_url": "https://api.github.com/users/openebs/orgs",
+    "repos_url": "https://api.github.com/users/openebs/repos",
+    "events_url": "https://api.github.com/users/openebs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/openebs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "gfleury": 1,
+    "circa10a": 1,
+    "NexWeb": 1,
+    "sanket0896": 1,
+    "BaoTran91": 1,
+    "AliceWonderland": 1,
+    "AmitKumarDas": 1,
+    "pawanpraka1": 2,
+    "dargasudarshan": 2,
+    "utkarshmani1997": 14,
+    "vishnuitta": 9,
+    "ksatchit": 5,
+    "imikushin": 7,
+    "ajkumar01": 11,
+    "kp6": 23,
+    "cjellick": 26,
+    "prateekpandey14": 27,
+    "ibuildthecloud": 43,
+    "kmova": 66,
+    "payes": 77,
+    "yasker": 200
+  },
+  "languages": {
+    "Go": {
+      "bytes": 337610,
+      "color": "#375eab"
+    },
+    "Python": {
+      "bytes": 65749,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 43110,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 2054,
+      "color": "#427819"
+    },
+    "Dockerfile": {
+      "bytes": 416,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-12T15:53:34.530Z",
+  "pulls_url": "https://api.github.com/repos/openebs/jiva/pulls{/number}",
+  "pulls_authors": [
+    "utkarshmani1997",
+    "vishnuitta",
+    "payes",
+    "kmova",
+    "pawanpraka1",
+    "prateekpandey14",
+    "gfleury",
+    "Miyurz",
+    "gila",
+    "ksatchit",
+    "dargasudarshan",
+    "nvzard",
+    "circa10a",
+    "NexWeb",
+    "sanket0896",
+    "BaoTran91",
+    "AliceWonderland",
+    "maheshreddy7797"
+  ]
+}

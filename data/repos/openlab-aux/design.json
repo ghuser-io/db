@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "design",
+  "full_name": "openlab-aux/design",
+  "owner": "openlab-aux",
+  "private": false,
+  "html_url": "https://github.com/openlab-aux/design",
+  "description": "Logo, Icons, Logo-Generator und sonstiger Grafikkram",
+  "fork": false,
+  "url": "https://api.github.com/repos/openlab-aux/design",
+  "languages_url": "https://api.github.com/repos/openlab-aux/design/languages",
+  "pulls_url": "https://api.github.com/repos/openlab-aux/design/pulls{/number}",
+  "created_at": "2013-03-26T23:12:15Z",
+  "updated_at": "2016-05-25T10:06:42Z",
+  "pushed_at": "2017-07-15T20:57:40Z",
+  "homepage": "",
+  "size": 12443,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "openlab-aux",
+    "id": 3979750,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM5Nzk3NTA=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/3979750?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/openlab-aux",
+    "html_url": "https://github.com/openlab-aux",
+    "followers_url": "https://api.github.com/users/openlab-aux/followers",
+    "following_url": "https://api.github.com/users/openlab-aux/following{/other_user}",
+    "gists_url": "https://api.github.com/users/openlab-aux/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/openlab-aux/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/openlab-aux/subscriptions",
+    "organizations_url": "https://api.github.com/users/openlab-aux/orgs",
+    "repos_url": "https://api.github.com/users/openlab-aux/repos",
+    "events_url": "https://api.github.com/users/openlab-aux/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/openlab-aux/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "grindhold": 1,
+    "moba": 3,
+    "sternenseemann": 4,
+    "vinzv": 4,
+    "momo-aux": 5,
+    "koppi": 10,
+    "Profpatsch": 11,
+    "michiwend": 18
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 51107,
+      "color": "#f1e05a"
+    },
+    "C": {
+      "bytes": 7427,
+      "color": "#555555"
+    },
+    "HTML": {
+      "bytes": 6925,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 688,
+      "color": "#427819"
+    },
+    "ApacheConf": {
+      "bytes": 71,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:46.564Z"
+}

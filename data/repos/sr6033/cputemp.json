@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cputemp",
+  "full_name": "sr6033/cputemp",
+  "owner": "sr6033",
+  "private": false,
+  "html_url": "https://github.com/sr6033/cputemp",
+  "description": "Script to check your CPU temperature periodically",
+  "fork": false,
+  "url": "https://api.github.com/repos/sr6033/cputemp",
+  "languages_url": "https://api.github.com/repos/sr6033/cputemp/languages",
+  "created_at": "2016-05-14T14:41:15Z",
+  "updated_at": "2018-07-25T07:19:59Z",
+  "pushed_at": "2017-09-09T07:00:31Z",
+  "homepage": "http://sr6033.github.io/cputemp",
+  "size": 14,
+  "stargazers_count": 1,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sr6033": 8
+  },
+  "languages": {
+    "Shell": {
+      "bytes": 260,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/sr6033/cputemp/pulls{/number}",
+  "pulls_authors": []
+}

@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "evilginx",
+  "full_name": "kgretzky/evilginx",
+  "owner": "kgretzky",
+  "private": false,
+  "html_url": "https://github.com/kgretzky/evilginx",
+  "description": "PLEASE USE NEW VERSION: https://github.com/kgretzky/evilginx2",
+  "fork": false,
+  "url": "https://api.github.com/repos/kgretzky/evilginx",
+  "languages_url": "https://api.github.com/repos/kgretzky/evilginx/languages",
+  "pulls_url": "https://api.github.com/repos/kgretzky/evilginx/pulls{/number}",
+  "created_at": "2017-04-02T12:37:34Z",
+  "updated_at": "2018-09-12T07:58:57Z",
+  "pushed_at": "2018-07-26T12:25:21Z",
+  "homepage": "",
+  "size": 66,
+  "stargazers_count": 787,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "alepacheco": 1,
+    "poweroftrue": 7,
+    "kgretzky": 21
+  },
+  "pulls_authors": [
+    "ltdenard",
+    "poweroftrue",
+    "thehappydinoa",
+    "tbobm",
+    "kgretzky",
+    "alepacheco"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 29000,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 5629,
+      "color": "#89e051"
+    },
+    "Dockerfile": {
+      "bytes": 207,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-12T16:52:28.155Z"
+}

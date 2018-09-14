@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hgettext",
+  "full_name": "haskell-hvr/hgettext",
+  "owner": "haskell-hvr",
+  "private": false,
+  "html_url": "https://github.com/haskell-hvr/hgettext",
+  "description": "hgettext a simple wrapper to libintl and gettext to provide localization in Haskell applications",
+  "fork": false,
+  "url": "https://api.github.com/repos/haskell-hvr/hgettext",
+  "languages_url": "https://api.github.com/repos/haskell-hvr/hgettext/languages",
+  "pulls_url": "https://api.github.com/repos/haskell-hvr/hgettext/pulls{/number}",
+  "created_at": "2013-01-17T10:41:36Z",
+  "updated_at": "2018-01-04T08:51:31Z",
+  "pushed_at": "2018-01-19T11:14:49Z",
+  "homepage": "https://hackage.haskell.org/package/hgettext",
+  "size": 32,
+  "stargazers_count": 2,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "haskell-hvr",
+    "id": 34610799,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM0NjEwNzk5",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/34610799?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/haskell-hvr",
+    "html_url": "https://github.com/haskell-hvr",
+    "followers_url": "https://api.github.com/users/haskell-hvr/followers",
+    "following_url": "https://api.github.com/users/haskell-hvr/following{/other_user}",
+    "gists_url": "https://api.github.com/users/haskell-hvr/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/haskell-hvr/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/haskell-hvr/subscriptions",
+    "organizations_url": "https://api.github.com/users/haskell-hvr/orgs",
+    "repos_url": "https://api.github.com/users/haskell-hvr/repos",
+    "events_url": "https://api.github.com/users/haskell-hvr/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/haskell-hvr/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "thiago-silva": 1,
+    "nomeata": 1,
+    "trofi": 1,
+    "vasylp": 2,
+    "hvr": 13
+  },
+  "pulls_authors": [
+    "jtojnar",
+    "trofi",
+    "volhovm",
+    "nomeata",
+    "wjt",
+    "ivanperez-keera",
+    "thiago-silva"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 21413,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:13.804Z"
+}

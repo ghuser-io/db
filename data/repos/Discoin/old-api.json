@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "old-api",
+  "full_name": "Discoin/old-api",
+  "owner": "Discoin",
+  "private": false,
+  "html_url": "https://github.com/Discoin/old-api",
+  "description": "The OLD API that powers the cross-bot currency exchange.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Discoin/old-api",
+  "languages_url": "https://api.github.com/repos/Discoin/old-api/languages",
+  "created_at": "2017-07-20T17:13:59Z",
+  "updated_at": "2018-09-12T21:26:12Z",
+  "pushed_at": "2017-08-15T22:51:39Z",
+  "homepage": "",
+  "size": 2646,
+  "stargazers_count": 11,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "Discoin",
+    "id": 30993376,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMwOTkzMzc2",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/30993376?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Discoin",
+    "html_url": "https://github.com/Discoin",
+    "followers_url": "https://api.github.com/users/Discoin/followers",
+    "following_url": "https://api.github.com/users/Discoin/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Discoin/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Discoin/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Discoin/subscriptions",
+    "organizations_url": "https://api.github.com/users/Discoin/orgs",
+    "repos_url": "https://api.github.com/users/Discoin/repos",
+    "events_url": "https://api.github.com/users/Discoin/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Discoin/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "FireGamer3": 1,
+    "heyitswither": 1,
+    "CyberiumShadow": 2,
+    "TJDoesCode": 3,
+    "gtsatsis": 3,
+    "JoeBanks13": 4,
+    "FNCxPro": 6,
+    "smartbunny009": 9,
+    "austinhuang0131": 41
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 11750,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T23:52:58.330Z",
+  "pulls_url": "https://api.github.com/repos/Discoin/old-api/pulls{/number}",
+  "pulls_authors": [
+    "JoeBanks13",
+    "FireGamer3",
+    "TJDoesCode",
+    "FNCxPro",
+    "heyitswither",
+    "smartbunny009",
+    "LewisTehMinerz",
+    "gtsatsis",
+    "CyberiumShadow"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-elo",
+  "full_name": "jbrooksuk/node-elo",
+  "owner": "jbrooksuk",
+  "private": false,
+  "html_url": "https://github.com/jbrooksuk/node-elo",
+  "description": "Elo rating system for Node.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/jbrooksuk/node-elo",
+  "languages_url": "https://api.github.com/repos/jbrooksuk/node-elo/languages",
+  "pulls_url": "https://api.github.com/repos/jbrooksuk/node-elo/pulls{/number}",
+  "created_at": "2013-10-16T16:30:29Z",
+  "updated_at": "2017-12-28T22:59:10Z",
+  "pushed_at": "2014-03-09T18:31:35Z",
+  "homepage": null,
+  "size": 417,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jbrooksuk": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1787,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:58.346Z"
+}

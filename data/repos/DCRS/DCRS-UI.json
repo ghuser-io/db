@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "DCRS-UI",
+  "full_name": "DCRS/DCRS-UI",
+  "owner": "DCRS",
+  "private": false,
+  "html_url": "https://github.com/DCRS/DCRS-UI",
+  "description": "Web/HTML5 based computing.",
+  "fork": false,
+  "url": "https://api.github.com/repos/DCRS/DCRS-UI",
+  "languages_url": "https://api.github.com/repos/DCRS/DCRS-UI/languages",
+  "pulls_url": "https://api.github.com/repos/DCRS/DCRS-UI/pulls{/number}",
+  "created_at": "2015-08-03T14:09:37Z",
+  "updated_at": "2018-09-12T06:08:25Z",
+  "pushed_at": "2017-04-28T13:34:49Z",
+  "homepage": "",
+  "size": 788,
+  "stargazers_count": 6,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "DCRS",
+    "id": 27725719,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI3NzI1NzE5",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/27725719?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/DCRS",
+    "html_url": "https://github.com/DCRS",
+    "followers_url": "https://api.github.com/users/DCRS/followers",
+    "following_url": "https://api.github.com/users/DCRS/following{/other_user}",
+    "gists_url": "https://api.github.com/users/DCRS/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/DCRS/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/DCRS/subscriptions",
+    "organizations_url": "https://api.github.com/users/DCRS/orgs",
+    "repos_url": "https://api.github.com/users/DCRS/repos",
+    "events_url": "https://api.github.com/users/DCRS/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/DCRS/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "gitter-badger": 1,
+    "mkg20001": 4,
+    "DaniellMesquita": 84
+  },
+  "pulls_authors": [
+    "gitter-badger"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 46974,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 12622,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 7482,
+      "color": "#f1e05a"
+    },
+    "CoffeeScript": {
+      "bytes": 1619,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:33.528Z"
+}

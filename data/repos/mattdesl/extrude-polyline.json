@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "extrude-polyline",
+  "full_name": "mattdesl/extrude-polyline",
+  "owner": "mattdesl",
+  "private": false,
+  "html_url": "https://github.com/mattdesl/extrude-polyline",
+  "description": "triangulates a 2D polyline into a stroke",
+  "fork": false,
+  "url": "https://api.github.com/repos/mattdesl/extrude-polyline",
+  "languages_url": "https://api.github.com/repos/mattdesl/extrude-polyline/languages",
+  "pulls_url": "https://api.github.com/repos/mattdesl/extrude-polyline/pulls{/number}",
+  "created_at": "2014-11-21T21:22:03Z",
+  "updated_at": "2018-08-31T11:02:13Z",
+  "pushed_at": "2016-01-06T15:20:45Z",
+  "homepage": "",
+  "size": 20,
+  "stargazers_count": 75,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sidorares": 1,
+    "mattdesl": 23
+  },
+  "pulls_authors": [
+    "sidorares"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 8037,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:34.655Z"
+}

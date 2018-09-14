@@ -1,0 +1,106 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "oii-web",
+  "full_name": "veluca93/oii-web",
+  "owner": "veluca93",
+  "private": false,
+  "html_url": "https://github.com/veluca93/oii-web",
+  "description": "Sito web per il training delle olimpiadi di informatica",
+  "fork": false,
+  "url": "https://api.github.com/repos/veluca93/oii-web",
+  "languages_url": "https://api.github.com/repos/veluca93/oii-web/languages",
+  "pulls_url": "https://api.github.com/repos/veluca93/oii-web/pulls{/number}",
+  "created_at": "2013-10-12T18:05:35Z",
+  "updated_at": "2016-12-21T13:24:54Z",
+  "pushed_at": "2015-12-02T00:56:30Z",
+  "homepage": null,
+  "size": 11749,
+  "stargazers_count": 6,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "vytisb": 1,
+    "m0r13": 1,
+    "evgenymartynov": 1,
+    "kennyboy": 1,
+    "volpino": 1,
+    "gabrfarina": 2,
+    "WPettersson": 2,
+    "VittGam": 2,
+    "NextLight": 3,
+    "fagu": 3,
+    "qnighy": 4,
+    "artikz": 7,
+    "davidg2603": 9,
+    "gcampax": 13,
+    "lucach": 15,
+    "bblackham": 133,
+    "Bosco89": 148,
+    "veluca93": 151,
+    "wil93": 175,
+    "lerks": 321,
+    "giomasce": 797,
+    "stefano-maggiolo": 826
+  },
+  "pulls_authors": [
+    "NextLight",
+    "gabrfarina",
+    "lucach"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 2025559,
+      "color": "#b07219"
+    },
+    "Python": {
+      "bytes": 1507983,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 327083,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 257678,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 114517,
+      "color": "#563d7c"
+    },
+    "C++": {
+      "bytes": 104944,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 8021,
+      "color": "#555555"
+    },
+    "Pascal": {
+      "bytes": 3865,
+      "color": "#E3F171"
+    },
+    "Shell": {
+      "bytes": 1545,
+      "color": "#89e051"
+    },
+    "PHP": {
+      "bytes": 1149,
+      "color": "#4F5D95"
+    },
+    "TeX": {
+      "bytes": 633,
+      "color": "#3D6117"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:26.161Z"
+}

@@ -1,0 +1,88 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "s2geometry",
+  "full_name": "google/s2geometry",
+  "owner": "google",
+  "private": false,
+  "html_url": "https://github.com/google/s2geometry",
+  "description": "Computational geometry and spatial indexing on the sphere",
+  "fork": false,
+  "url": "https://api.github.com/repos/google/s2geometry",
+  "languages_url": "https://api.github.com/repos/google/s2geometry/languages",
+  "pulls_url": "https://api.github.com/repos/google/s2geometry/pulls{/number}",
+  "created_at": "2015-11-16T17:41:03Z",
+  "updated_at": "2018-09-14T03:14:06Z",
+  "pushed_at": "2018-08-24T05:46:10Z",
+  "homepage": "http://s2geometry.io/",
+  "size": 7916,
+  "stargazers_count": 487,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "google",
+    "id": 1342004,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzNDIwMDQ=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1342004?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/google",
+    "html_url": "https://github.com/google",
+    "followers_url": "https://api.github.com/users/google/followers",
+    "following_url": "https://api.github.com/users/google/following{/other_user}",
+    "gists_url": "https://api.github.com/users/google/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/google/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/google/subscriptions",
+    "organizations_url": "https://api.github.com/users/google/orgs",
+    "repos_url": "https://api.github.com/users/google/repos",
+    "events_url": "https://api.github.com/users/google/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/google/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "pelson": 1,
+    "bdon": 1,
+    "graetzer": 2,
+    "danielhlarkin": 9,
+    "jmr": 244
+  },
+  "pulls_authors": [
+    "justinwp",
+    "daudrain",
+    "AndrewAtAvenza",
+    "ObiWahn",
+    "pelson",
+    "graetzer",
+    "danielhlarkin",
+    "bdon",
+    "jsteemann",
+    "ianegordon"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 4020032,
+      "color": "#f34b7d"
+    },
+    "CMake": {
+      "bytes": 22671,
+      "color": "#ccc"
+    },
+    "Python": {
+      "bytes": 18635,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 5059,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-14T08:32:04.156Z"
+}

@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "viner-app",
+  "full_name": "ahmetabdi/viner-app",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/viner-app",
+  "description": "Viner Sinatra App",
+  "fork": false,
+  "url": "https://api.github.com/repos/ahmetabdi/viner-app",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/viner-app/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/viner-app/pulls{/number}",
+  "created_at": "2014-01-05T10:48:56Z",
+  "updated_at": "2017-08-14T11:19:15Z",
+  "pushed_at": "2014-01-05T11:03:03Z",
+  "homepage": null,
+  "size": 220,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CSS": {
+      "bytes": 2422,
+      "color": "#563d7c"
+    },
+    "Ruby": {
+      "bytes": 1415,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 225,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:06.497Z"
+}

@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "libnss-myhostname",
+  "full_name": "nomeata/libnss-myhostname",
+  "owner": "nomeata",
+  "private": false,
+  "html_url": "https://github.com/nomeata/libnss-myhostname",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/nomeata/libnss-myhostname",
+  "languages_url": "https://api.github.com/repos/nomeata/libnss-myhostname/languages",
+  "pulls_url": "https://api.github.com/repos/nomeata/libnss-myhostname/pulls{/number}",
+  "created_at": "2012-06-03T12:49:21Z",
+  "updated_at": "2017-09-27T13:27:19Z",
+  "pushed_at": "2014-07-23T11:06:18Z",
+  "homepage": null,
+  "size": 1345,
+  "stargazers_count": 2,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-2.1",
+    "name": "GNU Lesser General Public License v2.1",
+    "spdx_id": "LGPL-2.1",
+    "url": "https://api.github.com/licenses/lgpl-2.1",
+    "node_id": "MDc6TGljZW5zZTEx"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "poettering": 1,
+    "edolstra": 2,
+    "robertmillan": 3,
+    "nomeata": 76
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 26106,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 1714,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 1016,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:16.231Z"
+}

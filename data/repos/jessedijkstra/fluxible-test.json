@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fluxible-test",
+  "full_name": "jessedijkstra/fluxible-test",
+  "owner": "jessedijkstra",
+  "private": false,
+  "html_url": "https://github.com/jessedijkstra/fluxible-test",
+  "description": "Test with Fluxible, React, Immutable and Routr",
+  "fork": false,
+  "url": "https://api.github.com/repos/jessedijkstra/fluxible-test",
+  "languages_url": "https://api.github.com/repos/jessedijkstra/fluxible-test/languages",
+  "created_at": "2015-05-03T09:36:41Z",
+  "updated_at": "2015-05-08T10:16:17Z",
+  "pushed_at": "2015-05-08T10:16:17Z",
+  "homepage": "",
+  "size": 488,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jessedijkstra": 3
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 985352,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 329,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 269,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 170,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-07-28T01:44:43.412Z",
+  "pulls_url": "https://api.github.com/repos/jessedijkstra/fluxible-test/pulls{/number}",
+  "pulls_authors": []
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-sse",
+  "full_name": "schmich/node-sse",
+  "owner": "schmich",
+  "private": false,
+  "html_url": "https://github.com/schmich/node-sse",
+  "description": "Server-sent events for Node.",
+  "fork": false,
+  "url": "https://api.github.com/repos/schmich/node-sse",
+  "languages_url": "https://api.github.com/repos/schmich/node-sse/languages",
+  "pulls_url": "https://api.github.com/repos/schmich/node-sse/pulls{/number}",
+  "created_at": "2014-04-10T02:44:57Z",
+  "updated_at": "2014-04-28T19:46:50Z",
+  "pushed_at": "2014-04-26T16:11:44Z",
+  "homepage": "",
+  "size": 108,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "schmich": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6130,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:26.512Z"
+}

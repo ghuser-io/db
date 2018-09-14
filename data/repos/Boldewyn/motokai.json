@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "motokai",
+  "full_name": "Boldewyn/motokai",
+  "owner": "Boldewyn",
+  "private": false,
+  "html_url": "https://github.com/Boldewyn/motokai",
+  "description": "A monokai based dark ChatZilla motif",
+  "fork": false,
+  "url": "https://api.github.com/repos/Boldewyn/motokai",
+  "languages_url": "https://api.github.com/repos/Boldewyn/motokai/languages",
+  "pulls_url": "https://api.github.com/repos/Boldewyn/motokai/pulls{/number}",
+  "created_at": "2011-06-27T19:29:39Z",
+  "updated_at": "2017-07-23T19:50:55Z",
+  "pushed_at": "2012-03-09T21:24:23Z",
+  "homepage": "http://boldewyn.github.com/motokai/",
+  "size": 132,
+  "stargazers_count": 5,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Boldewyn": 13
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T04:57:56.093Z"
+}

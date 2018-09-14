@@ -1,0 +1,84 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "alchemist.vim",
+  "full_name": "slashmili/alchemist.vim",
+  "owner": "slashmili",
+  "private": false,
+  "html_url": "https://github.com/slashmili/alchemist.vim",
+  "description": "Elixir Integration Into Vim",
+  "fork": false,
+  "url": "https://api.github.com/repos/slashmili/alchemist.vim",
+  "languages_url": "https://api.github.com/repos/slashmili/alchemist.vim/languages",
+  "pulls_url": "https://api.github.com/repos/slashmili/alchemist.vim/pulls{/number}",
+  "created_at": "2016-03-22T21:54:07Z",
+  "updated_at": "2018-09-14T03:16:11Z",
+  "pushed_at": "2018-09-02T14:20:28Z",
+  "homepage": "https://github.com/slashmili/alchemist.vim/wiki",
+  "size": 366,
+  "stargazers_count": 496,
+  "language": "Elixir",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sjava": 1,
+    "arcseldon": 1,
+    "jrowlingson": 1,
+    "glittershark": 1,
+    "lATAl": 1,
+    "epilgrim": 1,
+    "minijackson": 1,
+    "paulnice": 1,
+    "gmcabrita": 1,
+    "linduxed": 2,
+    "leocamelo": 3,
+    "bees": 3,
+    "lucidstack": 4,
+    "c-brenn": 10,
+    "carloslima": 13,
+    "slashmili": 154
+  },
+  "pulls_authors": [
+    "leocamelo",
+    "slashmili",
+    "sjava",
+    "arcseldon",
+    "bees",
+    "jrowlingson",
+    "glittershark",
+    "rlbaker",
+    "linduxed",
+    "lATAl",
+    "c-brenn",
+    "epilgrim",
+    "gasparch",
+    "minijackson",
+    "carloslima",
+    "paulnice",
+    "mlaco",
+    "gmcabrita",
+    "lucidstack"
+  ],
+  "languages": {
+    "Elixir": {
+      "bytes": 204304,
+      "color": "#6e4a7e"
+    },
+    "Python": {
+      "bytes": 42656,
+      "color": "#3572A5"
+    },
+    "Vim script": {
+      "bytes": 23261,
+      "color": "#199f4b"
+    }
+  },
+  "fetched_at": "2018-09-14T08:28:19.441Z"
+}

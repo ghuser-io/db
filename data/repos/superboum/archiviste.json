@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "archiviste",
+  "full_name": "superboum/archiviste",
+  "owner": "superboum",
+  "private": false,
+  "html_url": "https://github.com/superboum/archiviste",
+  "description": "A web frontend to youtube-dl",
+  "fork": false,
+  "url": "https://api.github.com/repos/superboum/archiviste",
+  "languages_url": "https://api.github.com/repos/superboum/archiviste/languages",
+  "pulls_url": "https://api.github.com/repos/superboum/archiviste/pulls{/number}",
+  "created_at": "2017-08-20T20:53:53Z",
+  "updated_at": "2017-08-21T08:15:41Z",
+  "pushed_at": "2017-08-22T21:30:03Z",
+  "homepage": null,
+  "size": 168,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "superboum": 9
+  },
+  "pulls_authors": [
+    "halfa"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 3910,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 2431,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 1514,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:20.141Z"
+}

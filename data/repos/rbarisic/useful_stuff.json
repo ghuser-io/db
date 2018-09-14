@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "useful_stuff",
+  "full_name": "rbarisic/useful_stuff",
+  "owner": "rbarisic",
+  "private": false,
+  "html_url": "https://github.com/rbarisic/useful_stuff",
+  "description": "A collection of recurring stuff.",
+  "fork": false,
+  "url": "https://api.github.com/repos/rbarisic/useful_stuff",
+  "languages_url": "https://api.github.com/repos/rbarisic/useful_stuff/languages",
+  "pulls_url": "https://api.github.com/repos/rbarisic/useful_stuff/pulls{/number}",
+  "created_at": "2014-12-18T08:54:49Z",
+  "updated_at": "2015-11-06T03:42:44Z",
+  "pushed_at": "2015-01-05T13:13:18Z",
+  "homepage": null,
+  "size": 164,
+  "stargazers_count": 1,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rbarisic": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 91,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:56:08.822Z"
+}

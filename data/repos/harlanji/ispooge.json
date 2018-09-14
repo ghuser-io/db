@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ispooge",
+  "full_name": "harlanji/ispooge",
+  "owner": "harlanji",
+  "private": false,
+  "html_url": "https://github.com/harlanji/ispooge",
+  "description": "A boilerplate for video websites and apps with live stream support.  No centralization unless you want there to be.",
+  "fork": false,
+  "url": "https://api.github.com/repos/harlanji/ispooge",
+  "languages_url": "https://api.github.com/repos/harlanji/ispooge/languages",
+  "pulls_url": "https://api.github.com/repos/harlanji/ispooge/pulls{/number}",
+  "created_at": "2018-04-05T03:14:41Z",
+  "updated_at": "2018-08-12T18:40:04Z",
+  "pushed_at": "2018-08-12T18:40:03Z",
+  "homepage": "https://ispooge.com",
+  "size": 672,
+  "stargazers_count": 6,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "harlanji": 89
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 28235,
+      "color": "#e34c26"
+    },
+    "Clojure": {
+      "bytes": 14356,
+      "color": "#db5855"
+    },
+    "Shell": {
+      "bytes": 10297,
+      "color": "#89e051"
+    },
+    "JavaScript": {
+      "bytes": 6241,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 5625,
+      "color": "#563d7c"
+    },
+    "Dockerfile": {
+      "bytes": 127,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-11T01:33:30.240Z"
+}

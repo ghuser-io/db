@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "security_release_practice",
+  "full_name": "steveklabnik/security_release_practice",
+  "owner": "steveklabnik",
+  "private": false,
+  "html_url": "https://github.com/steveklabnik/security_release_practice",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/steveklabnik/security_release_practice",
+  "languages_url": "https://api.github.com/repos/steveklabnik/security_release_practice/languages",
+  "pulls_url": "https://api.github.com/repos/steveklabnik/security_release_practice/pulls{/number}",
+  "created_at": "2013-03-08T19:49:32Z",
+  "updated_at": "2017-07-03T13:52:37Z",
+  "pushed_at": "2014-06-09T02:38:19Z",
+  "homepage": null,
+  "size": 224,
+  "stargazers_count": 35,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dstufft": 1,
+    "solnic": 1,
+    "chrismytton": 1,
+    "alexrothenberg": 1,
+    "steveklabnik": 5
+  },
+  "pulls_authors": [
+    "dstufft",
+    "solnic",
+    "chrismytton",
+    "alexrothenberg",
+    "sdball"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 1785,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:48.397Z"
+}

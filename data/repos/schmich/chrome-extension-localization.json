@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "chrome-extension-localization",
+  "full_name": "schmich/chrome-extension-localization",
+  "owner": "schmich",
+  "private": false,
+  "html_url": "https://github.com/schmich/chrome-extension-localization",
+  "description": "Organize and manage localization for your Chrome extension",
+  "fork": false,
+  "url": "https://api.github.com/repos/schmich/chrome-extension-localization",
+  "languages_url": "https://api.github.com/repos/schmich/chrome-extension-localization/languages",
+  "pulls_url": "https://api.github.com/repos/schmich/chrome-extension-localization/pulls{/number}",
+  "created_at": "2017-10-27T01:34:16Z",
+  "updated_at": "2018-02-20T19:47:32Z",
+  "pushed_at": "2017-12-13T13:41:39Z",
+  "homepage": "https://schmich.github.io/marinara-localization",
+  "size": 2067,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schmich": 78
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 8404,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 7771,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 6480,
+      "color": "#563d7c"
+    },
+    "Ruby": {
+      "bytes": 4603,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 917,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:18.964Z"
+}

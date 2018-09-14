@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vuejs-pwa",
+  "full_name": "itaditya/vuejs-pwa",
+  "owner": "itaditya",
+  "private": false,
+  "html_url": "https://github.com/itaditya/vuejs-pwa",
+  "description": "Getting my hands dirty in vuejs by making a simple PWA",
+  "fork": false,
+  "url": "https://api.github.com/repos/itaditya/vuejs-pwa",
+  "languages_url": "https://api.github.com/repos/itaditya/vuejs-pwa/languages",
+  "created_at": "2017-10-07T04:19:59Z",
+  "updated_at": "2017-10-08T08:43:12Z",
+  "pushed_at": "2017-10-10T05:26:13Z",
+  "homepage": null,
+  "size": 175,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "itaditya": 5
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 25712,
+      "color": "#f1e05a"
+    },
+    "Vue": {
+      "bytes": 6537,
+      "color": "#2c3e50"
+    },
+    "HTML": {
+      "bytes": 2043,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/itaditya/vuejs-pwa/pulls{/number}",
+  "pulls_authors": []
+}

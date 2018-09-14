@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "purescript-corefn",
+  "full_name": "paulyoung/purescript-corefn",
+  "owner": "paulyoung",
+  "private": false,
+  "html_url": "https://github.com/paulyoung/purescript-corefn",
+  "description": "A library for working with the PureScript functional core.",
+  "fork": false,
+  "url": "https://api.github.com/repos/paulyoung/purescript-corefn",
+  "languages_url": "https://api.github.com/repos/paulyoung/purescript-corefn/languages",
+  "pulls_url": "https://api.github.com/repos/paulyoung/purescript-corefn/pulls{/number}",
+  "created_at": "2016-10-18T03:27:16Z",
+  "updated_at": "2018-08-22T19:31:20Z",
+  "pushed_at": "2018-07-17T05:06:39Z",
+  "homepage": null,
+  "size": 194,
+  "stargazers_count": 13,
+  "language": "PureScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "anttih": 2,
+    "paulyoung": 123
+  },
+  "pulls_authors": [
+    "felixSchl",
+    "paulyoung",
+    "joneshf",
+    "zudov",
+    "anttih"
+  ],
+  "languages": {
+    "PureScript": {
+      "bytes": 54319,
+      "color": "#1D222D"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:51.617Z"
+}

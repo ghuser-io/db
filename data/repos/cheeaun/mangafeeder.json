@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mangafeeder",
+  "full_name": "cheeaun/mangafeeder",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/mangafeeder",
+  "description": "Latest manga chapters from Mangareader.net, available in JSON and RSS formats.",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/mangafeeder",
+  "languages_url": "https://api.github.com/repos/cheeaun/mangafeeder/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/mangafeeder/pulls{/number}",
+  "created_at": "2012-08-26T01:07:20Z",
+  "updated_at": "2018-06-15T05:24:30Z",
+  "pushed_at": "2016-10-22T07:23:27Z",
+  "homepage": "http://mangafeeder.azurewebsites.net/",
+  "size": 13,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "stanleynguyen": 3,
+    "cheeaun": 22
+  },
+  "pulls_authors": [
+    "stanleynguyen"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 5814,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 3834,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:56.630Z"
+}

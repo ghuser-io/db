@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "flipdot-gschichtler",
+  "full_name": "openlab-aux/flipdot-gschichtler",
+  "owner": "openlab-aux",
+  "private": false,
+  "html_url": "https://github.com/openlab-aux/flipdot-gschichtler",
+  "description": "It gschichtles Flipdots over da interwebz.",
+  "fork": false,
+  "url": "https://api.github.com/repos/openlab-aux/flipdot-gschichtler",
+  "languages_url": "https://api.github.com/repos/openlab-aux/flipdot-gschichtler/languages",
+  "pulls_url": "https://api.github.com/repos/openlab-aux/flipdot-gschichtler/pulls{/number}",
+  "created_at": "2016-05-11T08:16:16Z",
+  "updated_at": "2017-05-31T17:59:54Z",
+  "pushed_at": "2017-02-01T18:50:46Z",
+  "homepage": "http://flipdot.openlab-augsburg.de/",
+  "size": 941,
+  "stargazers_count": 4,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "openlab-aux",
+    "id": 3979750,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM5Nzk3NTA=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/3979750?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/openlab-aux",
+    "html_url": "https://github.com/openlab-aux",
+    "followers_url": "https://api.github.com/users/openlab-aux/followers",
+    "following_url": "https://api.github.com/users/openlab-aux/following{/other_user}",
+    "gists_url": "https://api.github.com/users/openlab-aux/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/openlab-aux/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/openlab-aux/subscriptions",
+    "organizations_url": "https://api.github.com/users/openlab-aux/orgs",
+    "repos_url": "https://api.github.com/users/openlab-aux/repos",
+    "events_url": "https://api.github.com/users/openlab-aux/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/openlab-aux/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "glaxx": 1,
+    "Profpatsch": 6,
+    "sternenseemann": 13
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 4278,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 3862,
+      "color": "#3572A5"
+    },
+    "Nix": {
+      "bytes": 538,
+      "color": "#7e7eff"
+    },
+    "JavaScript": {
+      "bytes": 484,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:46.638Z"
+}

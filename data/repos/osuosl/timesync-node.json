@@ -1,0 +1,89 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "timesync-node",
+  "full_name": "osuosl/timesync-node",
+  "owner": "osuosl",
+  "private": false,
+  "html_url": "https://github.com/osuosl/timesync-node",
+  "description": "NodeJS implementation of the TimeSync API",
+  "fork": false,
+  "url": "https://api.github.com/repos/osuosl/timesync-node",
+  "languages_url": "https://api.github.com/repos/osuosl/timesync-node/languages",
+  "pulls_url": "https://api.github.com/repos/osuosl/timesync-node/pulls{/number}",
+  "created_at": "2015-04-09T18:20:54Z",
+  "updated_at": "2017-05-26T21:45:04Z",
+  "pushed_at": "2017-11-10T20:08:32Z",
+  "homepage": "",
+  "size": 1142,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "develop",
+  "organization": {
+    "login": "osuosl",
+    "id": 1380625,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzODA2MjU=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1380625?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/osuosl",
+    "html_url": "https://github.com/osuosl",
+    "followers_url": "https://api.github.com/users/osuosl/followers",
+    "following_url": "https://api.github.com/users/osuosl/following{/other_user}",
+    "gists_url": "https://api.github.com/users/osuosl/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/osuosl/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/osuosl/subscriptions",
+    "organizations_url": "https://api.github.com/users/osuosl/orgs",
+    "repos_url": "https://api.github.com/users/osuosl/repos",
+    "events_url": "https://api.github.com/users/osuosl/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/osuosl/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mathuin": 1,
+    "ursuladavidson": 1,
+    "Kennric": 1,
+    "aaroncohen73": 2,
+    "iCHAIT": 2,
+    "LyonesGamer": 3,
+    "iankronquist": 38,
+    "pop": 48,
+    "MaraJade": 57,
+    "athai": 144,
+    "tschuy": 197
+  },
+  "pulls_authors": [
+    "LyonesGamer",
+    "mathuin",
+    "aaroncohen73",
+    "Kennric",
+    "iCHAIT",
+    "pop",
+    "athai",
+    "tschuy",
+    "iankronquist",
+    "lucywyman",
+    "ursuladavidson",
+    "MaraJade",
+    "matthewrsj"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 477656,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 4541,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-03T17:15:06.706Z"
+}

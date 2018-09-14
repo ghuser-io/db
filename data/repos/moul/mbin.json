@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mbin",
+  "full_name": "moul/mbin",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/mbin",
+  "description": ":neckbeard: plenty of more-or-less useful scripts I use(d)",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/mbin",
+  "languages_url": "https://api.github.com/repos/moul/mbin/languages",
+  "pulls_url": "https://api.github.com/repos/moul/mbin/pulls{/number}",
+  "created_at": "2014-12-12T08:19:38Z",
+  "updated_at": "2017-07-16T14:49:00Z",
+  "pushed_at": "2016-07-14T12:07:30Z",
+  "homepage": "",
+  "size": 168,
+  "stargazers_count": 4,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 237
+  },
+  "pulls_authors": [
+    "moul"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 87220,
+      "color": "#3572A5"
+    },
+    "Perl": {
+      "bytes": 78371,
+      "color": "#0298c3"
+    },
+    "Shell": {
+      "bytes": 28906,
+      "color": "#89e051"
+    },
+    "CoffeeScript": {
+      "bytes": 4464,
+      "color": "#244776"
+    },
+    "PHP": {
+      "bytes": 2226,
+      "color": "#4F5D95"
+    },
+    "Ruby": {
+      "bytes": 689,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:54.322Z"
+}

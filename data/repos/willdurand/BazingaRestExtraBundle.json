@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "BazingaRestExtraBundle",
+  "full_name": "willdurand/BazingaRestExtraBundle",
+  "owner": "willdurand",
+  "private": false,
+  "html_url": "https://github.com/willdurand/BazingaRestExtraBundle",
+  "description": "Provides extra features for your REST APIs built using Symfony.",
+  "fork": false,
+  "url": "https://api.github.com/repos/willdurand/BazingaRestExtraBundle",
+  "languages_url": "https://api.github.com/repos/willdurand/BazingaRestExtraBundle/languages",
+  "pulls_url": "https://api.github.com/repos/willdurand/BazingaRestExtraBundle/pulls{/number}",
+  "created_at": "2013-08-12T00:09:39Z",
+  "updated_at": "2018-07-09T14:52:38Z",
+  "pushed_at": "2017-11-18T16:29:45Z",
+  "homepage": "",
+  "size": 74,
+  "stargazers_count": 94,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "COil": 1,
+    "Nyholm": 1,
+    "gruzilla": 1,
+    "jaugustin": 1,
+    "vierbergenlars": 2,
+    "jrobeson": 2,
+    "tonivdv": 4,
+    "willdurand": 30
+  },
+  "pulls_authors": [
+    "michalkurzeja",
+    "lsmith77",
+    "vierbergenlars",
+    "COil",
+    "luciano-jr",
+    "alexanza",
+    "jrobeson",
+    "Nyholm",
+    "mcrumm",
+    "gruzilla",
+    "tonivdv",
+    "jaugustin"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 28977,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-11T17:16:18.039Z"
+}

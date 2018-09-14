@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "loki",
+  "full_name": "dufferzafar/loki",
+  "owner": "dufferzafar",
+  "private": false,
+  "html_url": "https://github.com/dufferzafar/loki",
+  "description": "PyQt based file searcher (a frontend for locate tool)",
+  "fork": false,
+  "url": "https://api.github.com/repos/dufferzafar/loki",
+  "languages_url": "https://api.github.com/repos/dufferzafar/loki/languages",
+  "pulls_url": "https://api.github.com/repos/dufferzafar/loki/pulls{/number}",
+  "created_at": "2015-05-05T13:55:24Z",
+  "updated_at": "2018-08-25T16:52:36Z",
+  "pushed_at": "2017-04-11T12:11:43Z",
+  "homepage": "",
+  "size": 443,
+  "stargazers_count": 12,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dufferzafar": 11
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 6828,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-03T12:56:56.459Z"
+}

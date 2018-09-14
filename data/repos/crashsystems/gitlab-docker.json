@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gitlab-docker",
+  "full_name": "crashsystems/gitlab-docker",
+  "owner": "crashsystems",
+  "private": false,
+  "html_url": "https://github.com/crashsystems/gitlab-docker",
+  "description": "Automated buld of GitLab with Docker.io",
+  "fork": false,
+  "url": "https://api.github.com/repos/crashsystems/gitlab-docker",
+  "languages_url": "https://api.github.com/repos/crashsystems/gitlab-docker/languages",
+  "pulls_url": "https://api.github.com/repos/crashsystems/gitlab-docker/pulls{/number}",
+  "created_at": "2013-08-19T21:00:33Z",
+  "updated_at": "2018-09-11T04:09:09Z",
+  "pushed_at": "2015-11-05T13:54:25Z",
+  "homepage": null,
+  "size": 269,
+  "stargazers_count": 203,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 1,
+    "saracen": 1,
+    "bwq": 1,
+    "lodagro": 1,
+    "shapeshed": 2,
+    "ligouras": 3,
+    "crashsystems": 16
+  },
+  "pulls_authors": [
+    "d33tah",
+    "eelcocramer",
+    "axilleas",
+    "shapeshed",
+    "moul",
+    "saracen",
+    "ligouras",
+    "bwq",
+    "lodagro"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 6691,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T10:39:10.637Z"
+}

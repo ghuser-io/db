@@ -1,0 +1,90 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "protoc-gen-gotemplate",
+  "full_name": "moul/protoc-gen-gotemplate",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/protoc-gen-gotemplate",
+  "description": ":open_file_folder: protocol generator + golang text/template (protobuf)",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/protoc-gen-gotemplate",
+  "languages_url": "https://api.github.com/repos/moul/protoc-gen-gotemplate/languages",
+  "pulls_url": "https://api.github.com/repos/moul/protoc-gen-gotemplate/pulls{/number}",
+  "created_at": "2016-11-04T20:44:49Z",
+  "updated_at": "2018-09-13T15:57:57Z",
+  "pushed_at": "2018-09-13T16:00:34Z",
+  "homepage": "http://protoc-gen-gotemplate.m.42.am",
+  "size": 10221,
+  "stargazers_count": 89,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Tommy-42": 1,
+    "weitzj": 1,
+    "shiwano": 1,
+    "abronan": 1,
+    "astaluego": 1,
+    "sfroment": 2,
+    "pmoroney": 6,
+    "QuentinPerez": 6,
+    "jhayotte": 8,
+    "proullon": 8,
+    "vgheri": 8,
+    "gfanton": 14,
+    "zoontek": 29,
+    "moul": 87,
+    "renovate-bot": 1
+  },
+  "pulls_authors": [
+    "sfroment",
+    "gfanton",
+    "renovate[bot]",
+    "jhayotte",
+    "huangjunwen",
+    "Tommy-42",
+    "weitzj",
+    "tkerambloch",
+    "webii",
+    "pmoroney",
+    "moul",
+    "shiwano",
+    "abronan",
+    "astaluego",
+    "proullon",
+    "vgheri",
+    "zoontek",
+    "QuentinPerez"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 42352,
+      "color": "#375eab"
+    },
+    "HTML": {
+      "bytes": 13597,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 1096,
+      "color": "#427819"
+    },
+    "Ruby": {
+      "bytes": 730,
+      "color": "#701516"
+    },
+    "Dockerfile": {
+      "bytes": 436,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-13T16:38:30.075Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "luislezcair",
+  "ghuser_created_at": "2018-09-10T13:52:04.352Z",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/706171?v=4",
+  "html_url": "https://github.com/luislezcair",
+  "organizations_url": "https://api.github.com/users/luislezcair/orgs",
+  "repos_url": "https://api.github.com/users/luislezcair/repos",
+  "type": "User",
+  "name": "Luis Lezcano Airaldi",
+  "company": "Ksys",
+  "blog": "http://www.ksys.com.ar/",
+  "location": "Corrientes",
+  "email": "luislezcair@gmail.com",
+  "bio": null,
+  "public_gists": 0,
+  "created_at": "2011-04-03T02:33:18Z",
+  "updated_at": "2018-07-03T16:43:15Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:15:26.372Z",
+    "repos": [
+      "luislezcair/erb-loader-test",
+      "luislezcair/gisia_srr",
+      "luislezcair/gisiaws",
+      "luislezcair/Ringo",
+      "luislezcair/RingoApp",
+      "luislezcair/IAgents",
+      "zaufi/kate-cpp-helper-plugin",
+      "luislezcair/tremfusion",
+      "luislezcair/VelozQVM",
+      "Unvanquished/Unvanquished"
+    ]
+  }
+}

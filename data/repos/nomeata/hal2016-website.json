@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hal2016-website",
+  "full_name": "nomeata/hal2016-website",
+  "owner": "nomeata",
+  "private": false,
+  "html_url": "https://github.com/nomeata/hal2016-website",
+  "description": "Webseite for Haskell in Leipzig 2016",
+  "fork": false,
+  "url": "https://api.github.com/repos/nomeata/hal2016-website",
+  "languages_url": "https://api.github.com/repos/nomeata/hal2016-website/languages",
+  "pulls_url": "https://api.github.com/repos/nomeata/hal2016-website/pulls{/number}",
+  "created_at": "2016-02-25T23:40:47Z",
+  "updated_at": "2016-08-14T14:26:58Z",
+  "pushed_at": "2016-10-09T19:19:07Z",
+  "homepage": null,
+  "size": 4864,
+  "stargazers_count": 3,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "andorp": 1,
+    "rm--": 1,
+    "phischu": 1,
+    "jvoigtlaender": 1,
+    "fisx": 2,
+    "jwaldmann": 3,
+    "urs-of-the-backwoods": 3,
+    "ggreif": 4,
+    "sgraf812": 5,
+    "thielema": 5,
+    "nomeata": 82
+  },
+  "pulls_authors": [
+    "kantp",
+    "sgraf812",
+    "fisx",
+    "andorp",
+    "thielema",
+    "phischu",
+    "rm--",
+    "jwaldmann",
+    "ggreif",
+    "choener",
+    "urs-of-the-backwoods",
+    "brunjlar",
+    "jvoigtlaender"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 369298,
+      "color": "#e34c26"
+    },
+    "Haskell": {
+      "bytes": 17551,
+      "color": "#5e5086"
+    },
+    "CSS": {
+      "bytes": 5991,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 562,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:08.559Z"
+}

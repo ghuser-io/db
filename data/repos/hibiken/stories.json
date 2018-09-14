@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "stories",
+  "full_name": "hibiken/stories",
+  "owner": "hibiken",
+  "private": false,
+  "html_url": "https://github.com/hibiken/stories",
+  "description": "Medium clone built with Ruby on Rails",
+  "fork": false,
+  "url": "https://api.github.com/repos/hibiken/stories",
+  "languages_url": "https://api.github.com/repos/hibiken/stories/languages",
+  "pulls_url": "https://api.github.com/repos/hibiken/stories/pulls{/number}",
+  "created_at": "2016-01-03T00:35:53Z",
+  "updated_at": "2018-09-12T13:36:43Z",
+  "pushed_at": "2018-09-11T23:20:53Z",
+  "homepage": "https://my-medium-clone.herokuapp.com/",
+  "size": 2611,
+  "stargazers_count": 519,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "nearkingdom": 1,
+    "AjayBarot": 2,
+    "hibiken": 516
+  },
+  "pulls_authors": [
+    "withoutwax",
+    "reckr",
+    "AjayBarot",
+    "amitness",
+    "BruhKofi",
+    "nearkingdom",
+    "ryou1993",
+    "gitter-badger",
+    "michelson"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 184565,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 66380,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 50831,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 48907,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:32:47.051Z"
+}

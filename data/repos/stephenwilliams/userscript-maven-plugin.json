@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "userscript-maven-plugin",
+  "full_name": "stephenwilliams/userscript-maven-plugin",
+  "owner": "stephenwilliams",
+  "private": false,
+  "html_url": "https://github.com/stephenwilliams/userscript-maven-plugin",
+  "description": "This plugin for maven allows you to \"compile\" a userscript. It generates the Userscript metadata block and also alows you to include other files to combine them into one.",
+  "fork": false,
+  "url": "https://api.github.com/repos/stephenwilliams/userscript-maven-plugin",
+  "languages_url": "https://api.github.com/repos/stephenwilliams/userscript-maven-plugin/languages",
+  "pulls_url": "https://api.github.com/repos/stephenwilliams/userscript-maven-plugin/pulls{/number}",
+  "created_at": "2015-01-01T02:58:08Z",
+  "updated_at": "2015-01-02T00:50:23Z",
+  "pushed_at": "2015-01-01T23:02:34Z",
+  "homepage": "",
+  "size": 152,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "stephenwilliams": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 18187,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:09.362Z"
+}

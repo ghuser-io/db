@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "api",
+  "full_name": "hibari-moe/api",
+  "owner": "hibari-moe",
+  "private": false,
+  "html_url": "https://github.com/hibari-moe/api",
+  "description": "🗺 API for Hibari",
+  "fork": false,
+  "url": "https://api.github.com/repos/hibari-moe/api",
+  "languages_url": "https://api.github.com/repos/hibari-moe/api/languages",
+  "pulls_url": "https://api.github.com/repos/hibari-moe/api/pulls{/number}",
+  "created_at": "2018-01-05T17:47:18Z",
+  "updated_at": "2018-08-04T14:26:02Z",
+  "pushed_at": "2018-08-04T14:25:59Z",
+  "homepage": "https://wopian.github.io/hibari-api",
+  "size": 816,
+  "stargazers_count": 1,
+  "language": "Crystal",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "hibari-moe",
+    "id": 39924905,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM5OTI0OTA1",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/39924905?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hibari-moe",
+    "html_url": "https://github.com/hibari-moe",
+    "followers_url": "https://api.github.com/users/hibari-moe/followers",
+    "following_url": "https://api.github.com/users/hibari-moe/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hibari-moe/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hibari-moe/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hibari-moe/subscriptions",
+    "organizations_url": "https://api.github.com/users/hibari-moe/orgs",
+    "repos_url": "https://api.github.com/users/hibari-moe/repos",
+    "events_url": "https://api.github.com/users/hibari-moe/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hibari-moe/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "wopian": 138
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Crystal": {
+      "bytes": 21019,
+      "color": "#776791"
+    },
+    "TeX": {
+      "bytes": 18108,
+      "color": "#3D6117"
+    },
+    "Shell": {
+      "bytes": 665,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:33.943Z"
+}

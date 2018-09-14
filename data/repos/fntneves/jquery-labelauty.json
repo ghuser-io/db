@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jquery-labelauty",
+  "full_name": "fntneves/jquery-labelauty",
+  "owner": "fntneves",
+  "private": false,
+  "html_url": "https://github.com/fntneves/jquery-labelauty",
+  "description": "A lightweight and beautiful jQuery plugin for radio and checkbox inputs.",
+  "fork": false,
+  "url": "https://api.github.com/repos/fntneves/jquery-labelauty",
+  "languages_url": "https://api.github.com/repos/fntneves/jquery-labelauty/languages",
+  "pulls_url": "https://api.github.com/repos/fntneves/jquery-labelauty/pulls{/number}",
+  "created_at": "2013-08-31T19:13:41Z",
+  "updated_at": "2018-07-22T20:49:48Z",
+  "pushed_at": "2017-10-11T00:25:35Z",
+  "homepage": "http://labelauty.js.org",
+  "size": 133,
+  "stargazers_count": 909,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "MUCHZER": 1,
+    "SandroMiguel": 1,
+    "Quazer": 1,
+    "Nikita240": 1,
+    "jcb121": 1,
+    "Misterhex": 1,
+    "pborreli": 1,
+    "gergo85": 1,
+    "hpatoio": 1,
+    "fntneves": 37
+  },
+  "pulls_authors": [
+    "MUCHZER",
+    "SandroMiguel",
+    "Quazer",
+    "Nikita240",
+    "jcb121",
+    "Misterhex",
+    "c-rack",
+    "pborreli",
+    "gergo85",
+    "hpatoio"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 3282,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1118,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T07:38:22.573Z"
+}

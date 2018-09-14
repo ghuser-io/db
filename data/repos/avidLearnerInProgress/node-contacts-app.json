@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-contacts-app",
+  "full_name": "avidLearnerInProgress/node-contacts-app",
+  "owner": "avidLearnerInProgress",
+  "private": false,
+  "html_url": "https://github.com/avidLearnerInProgress/node-contacts-app",
+  "description": "Minimal nodejs application used to store user contacts",
+  "fork": false,
+  "url": "https://api.github.com/repos/avidLearnerInProgress/node-contacts-app",
+  "languages_url": "https://api.github.com/repos/avidLearnerInProgress/node-contacts-app/languages",
+  "created_at": "2018-02-05T18:02:48Z",
+  "updated_at": "2018-03-30T01:49:57Z",
+  "pushed_at": "2018-02-05T18:16:55Z",
+  "homepage": null,
+  "size": 43,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "avidLearnerInProgress": 3
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 5549,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/avidLearnerInProgress/node-contacts-app/pulls{/number}",
+  "pulls_authors": []
+}

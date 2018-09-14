@@ -1,0 +1,90 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "raganwald.github.com",
+  "full_name": "captbaritone/raganwald.github.com",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/raganwald.github.com",
+  "description": "raganwald.com jekyll source",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/raganwald.github.com",
+  "languages_url": "https://api.github.com/repos/captbaritone/raganwald.github.com/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/raganwald.github.com/pulls{/number}",
+  "created_at": "2015-09-08T19:51:06Z",
+  "updated_at": "2018-07-29T22:12:07Z",
+  "pushed_at": "2015-09-08T19:53:43Z",
+  "homepage": "http://raganwald.github.com",
+  "size": 53347,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "christiantakle": 1,
+    "alexnormand": 1,
+    "hallmark": 1,
+    "eik3": 1,
+    "latentflip": 1,
+    "swanson": 1,
+    "kmarekspartz": 1,
+    "rahult": 1,
+    "tlehman": 1,
+    "davidchambers": 1,
+    "tomekwojcik": 1,
+    "obmarg": 1,
+    "dmd": 1,
+    "jboehmig": 1,
+    "jrsconfitto": 2,
+    "raganwald": 984
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 15501812,
+      "color": "#e34c26"
+    },
+    "Java": {
+      "bytes": 205448,
+      "color": "#b07219"
+    },
+    "XSLT": {
+      "bytes": 125620,
+      "color": "#EB8CEB"
+    },
+    "CSS": {
+      "bytes": 112997,
+      "color": "#563d7c"
+    },
+    "C++": {
+      "bytes": 73790,
+      "color": "#f34b7d"
+    },
+    "NewLisp": {
+      "bytes": 62530,
+      "color": "#87AED7"
+    },
+    "JavaScript": {
+      "bytes": 33722,
+      "color": "#f1e05a"
+    },
+    "Common Lisp": {
+      "bytes": 12246,
+      "color": "#3fb68b"
+    },
+    "Ruby": {
+      "bytes": 6082,
+      "color": "#701516"
+    },
+    "Groovy": {
+      "bytes": 2506,
+      "color": "#e69f56"
+    },
+    "Shell": {
+      "bytes": 408,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:53.173Z"
+}

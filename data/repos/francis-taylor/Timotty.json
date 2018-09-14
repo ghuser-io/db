@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Timotty",
+  "full_name": "francis-taylor/Timotty",
+  "owner": "francis-taylor",
+  "private": false,
+  "html_url": "https://github.com/francis-taylor/Timotty",
+  "description": "Bot para Telegram feito com Threads nativa da linguagem Python. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/francis-taylor/Timotty",
+  "languages_url": "https://api.github.com/repos/francis-taylor/Timotty/languages",
+  "pulls_url": "https://api.github.com/repos/francis-taylor/Timotty/pulls{/number}",
+  "created_at": "2017-10-17T10:06:03Z",
+  "updated_at": "2017-12-27T17:01:54Z",
+  "pushed_at": "2017-10-23T22:37:46Z",
+  "homepage": "",
+  "size": 102,
+  "stargazers_count": 6,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "marminino": 1,
+    "Synk0": 4,
+    "TiagoDanin": 10,
+    "francis-taylor": 114
+  },
+  "pulls_authors": [
+    "marminino",
+    "TiagoDanin",
+    "Synk0"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 138728,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-12T17:48:20.581Z"
+}

@@ -1,0 +1,142 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mongo-php-driver",
+  "full_name": "mongodb/mongo-php-driver",
+  "owner": "mongodb",
+  "private": false,
+  "html_url": "https://github.com/mongodb/mongo-php-driver",
+  "description": "MongoDB PHP driver",
+  "fork": false,
+  "url": "https://api.github.com/repos/mongodb/mongo-php-driver",
+  "languages_url": "https://api.github.com/repos/mongodb/mongo-php-driver/languages",
+  "pulls_url": "https://api.github.com/repos/mongodb/mongo-php-driver/pulls{/number}",
+  "created_at": "2014-05-06T23:18:32Z",
+  "updated_at": "2018-09-13T20:06:59Z",
+  "pushed_at": "2018-09-07T16:46:03Z",
+  "homepage": "https://pecl.php.net/package/mongodb",
+  "size": 6829,
+  "stargazers_count": 555,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "mongodb",
+    "id": 45120,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ1MTIw",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/45120?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mongodb",
+    "html_url": "https://github.com/mongodb",
+    "followers_url": "https://api.github.com/users/mongodb/followers",
+    "following_url": "https://api.github.com/users/mongodb/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mongodb/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mongodb/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mongodb/subscriptions",
+    "organizations_url": "https://api.github.com/users/mongodb/orgs",
+    "repos_url": "https://api.github.com/users/mongodb/repos",
+    "events_url": "https://api.github.com/users/mongodb/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mongodb/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "photodude": 1,
+    "emirb": 1,
+    "7snovic": 1,
+    "asp24": 1,
+    "dogrocker": 1,
+    "krakjoe": 1,
+    "JorgenEvens": 1,
+    "serebro": 1,
+    "christkv": 1,
+    "puppyofkosh": 2,
+    "hannesvdvreken": 2,
+    "DaveRandom": 3,
+    "petk": 3,
+    "kaplanlior": 3,
+    "pboyd04": 8,
+    "remicollet": 11,
+    "kvwalker": 21,
+    "derickr": 267,
+    "bjori": 864,
+    "jmikola": 1132
+  },
+  "pulls_authors": [
+    "derickr",
+    "DaveRandom",
+    "jmikola",
+    "petk",
+    "719media",
+    "kvwalker",
+    "photodude",
+    "kabel",
+    "emirb",
+    "7snovic",
+    "bjori",
+    "stolenegg",
+    "sandipmavani",
+    "puppyofkosh",
+    "remicollet",
+    "asp24",
+    "kaplanlior",
+    "makasim",
+    "dogrocker",
+    "JorgenEvens",
+    "pboyd04",
+    "serebro",
+    "hannesvdvreken",
+    "christkv",
+    "mcuadros"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 1826307,
+      "color": "#4F5D95"
+    },
+    "Python": {
+      "bytes": 1597432,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 690638,
+      "color": "#555555"
+    },
+    "M4": {
+      "bytes": 85958,
+      "color": "#ccc"
+    },
+    "C++": {
+      "bytes": 22649,
+      "color": "#f34b7d"
+    },
+    "Shell": {
+      "bytes": 14018,
+      "color": "#89e051"
+    },
+    "JavaScript": {
+      "bytes": 13419,
+      "color": "#f1e05a"
+    },
+    "Batchfile": {
+      "bytes": 6867,
+      "color": "#C1F12E"
+    },
+    "Makefile": {
+      "bytes": 3096,
+      "color": "#427819"
+    },
+    "GDB": {
+      "bytes": 190,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-13T23:47:59.919Z"
+}

@@ -1,0 +1,68 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SimpleMvcSitemap",
+  "full_name": "uhaciogullari/SimpleMvcSitemap",
+  "owner": "uhaciogullari",
+  "private": false,
+  "html_url": "https://github.com/uhaciogullari/SimpleMvcSitemap",
+  "description": "A minimalist library for creating sitemap files inside ASP.NET MVC and ASP.NET Core MVC applications",
+  "fork": false,
+  "url": "https://api.github.com/repos/uhaciogullari/SimpleMvcSitemap",
+  "languages_url": "https://api.github.com/repos/uhaciogullari/SimpleMvcSitemap/languages",
+  "pulls_url": "https://api.github.com/repos/uhaciogullari/SimpleMvcSitemap/pulls{/number}",
+  "created_at": "2013-12-13T21:05:17Z",
+  "updated_at": "2018-08-07T06:54:56Z",
+  "pushed_at": "2018-06-11T09:45:05Z",
+  "homepage": "",
+  "size": 874,
+  "stargazers_count": 57,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "humanbeinc": 1,
+    "bitdeli-chef": 1,
+    "burakcetin": 2,
+    "ziyasal": 19,
+    "uhaciogullari": 277
+  },
+  "pulls_authors": [
+    "uhaciogullari",
+    "fcuneyt",
+    "humanbeinc",
+    "ziyasal",
+    "burakcetin",
+    "bitdeli-chef"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 122796,
+      "color": "#178600"
+    },
+    "PowerShell": {
+      "bytes": 49409,
+      "color": "#012456"
+    },
+    "XSLT": {
+      "bytes": 9644,
+      "color": "#EB8CEB"
+    },
+    "CSS": {
+      "bytes": 2026,
+      "color": "#563d7c"
+    },
+    "ASP": {
+      "bytes": 107,
+      "color": "#6a40fd"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:19.215Z"
+}

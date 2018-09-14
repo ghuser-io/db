@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "openstf.github.io",
+  "full_name": "openstf/openstf.github.io",
+  "owner": "openstf",
+  "private": false,
+  "html_url": "https://github.com/openstf/openstf.github.io",
+  "description": "Public site for STF",
+  "fork": false,
+  "url": "https://api.github.com/repos/openstf/openstf.github.io",
+  "languages_url": "https://api.github.com/repos/openstf/openstf.github.io/languages",
+  "pulls_url": "https://api.github.com/repos/openstf/openstf.github.io/pulls{/number}",
+  "created_at": "2015-06-24T08:17:27Z",
+  "updated_at": "2018-08-09T01:07:44Z",
+  "pushed_at": "2018-08-09T08:03:57Z",
+  "homepage": "http://openstf.github.io",
+  "size": 6450,
+  "stargazers_count": 19,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "openstf",
+    "id": 12196621,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMTk2NjIx",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/12196621?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/openstf",
+    "html_url": "https://github.com/openstf",
+    "followers_url": "https://api.github.com/users/openstf/followers",
+    "following_url": "https://api.github.com/users/openstf/following{/other_user}",
+    "gists_url": "https://api.github.com/users/openstf/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/openstf/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/openstf/subscriptions",
+    "organizations_url": "https://api.github.com/users/openstf/orgs",
+    "repos_url": "https://api.github.com/users/openstf/repos",
+    "events_url": "https://api.github.com/users/openstf/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/openstf/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "waldyrious": 1,
+    "sorccu": 1,
+    "louisremi": 1,
+    "koral--": 4,
+    "gunta": 23
+  },
+  "pulls_authors": [
+    "koral--",
+    "waldyrious",
+    "louisremi"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 185173,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 138469,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 41669,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T23:06:03.234Z"
+}

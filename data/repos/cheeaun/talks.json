@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "talks",
+  "full_name": "cheeaun/talks",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/talks",
+  "description": "My talks",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/talks",
+  "languages_url": "https://api.github.com/repos/cheeaun/talks/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/talks/pulls{/number}",
+  "created_at": "2013-01-20T15:58:00Z",
+  "updated_at": "2017-11-30T00:42:30Z",
+  "pushed_at": "2017-11-30T00:44:21Z",
+  "homepage": null,
+  "size": 92750,
+  "stargazers_count": 3,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 13
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 18999,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 16806,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 12614,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:54.431Z"
+}

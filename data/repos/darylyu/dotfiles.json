@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dotfiles",
+  "full_name": "darylyu/dotfiles",
+  "owner": "darylyu",
+  "private": false,
+  "html_url": "https://github.com/darylyu/dotfiles",
+  "description": "My configuration files for Linux.",
+  "fork": false,
+  "url": "https://api.github.com/repos/darylyu/dotfiles",
+  "languages_url": "https://api.github.com/repos/darylyu/dotfiles/languages",
+  "pulls_url": "https://api.github.com/repos/darylyu/dotfiles/pulls{/number}",
+  "created_at": "2011-11-26T18:25:05Z",
+  "updated_at": "2018-07-29T06:18:12Z",
+  "pushed_at": "2018-07-29T06:18:10Z",
+  "homepage": "",
+  "size": 63,
+  "stargazers_count": 3,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "darylyu": 130
+  },
+  "pulls_authors": [
+    "darylyu"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 3232,
+      "color": "#89e051"
+    },
+    "Vim script": {
+      "bytes": 3004,
+      "color": "#199f4b"
+    },
+    "Haskell": {
+      "bytes": 103,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:32.197Z"
+}

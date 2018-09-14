@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "writeit.poplus.org",
+  "full_name": "mysociety/writeit.poplus.org",
+  "owner": "mysociety",
+  "private": false,
+  "html_url": "https://github.com/mysociety/writeit.poplus.org",
+  "description": "The Jekyll site for http://writeit.poplus.org",
+  "fork": false,
+  "url": "https://api.github.com/repos/mysociety/writeit.poplus.org",
+  "languages_url": "https://api.github.com/repos/mysociety/writeit.poplus.org/languages",
+  "pulls_url": "https://api.github.com/repos/mysociety/writeit.poplus.org/pulls{/number}",
+  "created_at": "2014-04-30T10:16:11Z",
+  "updated_at": "2015-09-23T13:06:31Z",
+  "pushed_at": "2014-11-06T09:50:57Z",
+  "homepage": null,
+  "size": 576,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "gh-pages",
+  "organization": {
+    "login": "mysociety",
+    "id": 141338,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/141338?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mysociety",
+    "html_url": "https://github.com/mysociety",
+    "followers_url": "https://api.github.com/users/mysociety/followers",
+    "following_url": "https://api.github.com/users/mysociety/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mysociety/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mysociety/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mysociety/subscriptions",
+    "organizations_url": "https://api.github.com/users/mysociety/orgs",
+    "repos_url": "https://api.github.com/users/mysociety/repos",
+    "events_url": "https://api.github.com/users/mysociety/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mysociety/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jpmckinney": 1,
+    "chrismytton": 2,
+    "zarino": 12
+  },
+  "pulls_authors": [
+    "jpmckinney"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 53142,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:46.807Z"
+}

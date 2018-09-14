@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hue.js",
+  "full_name": "thatguydan/hue.js",
+  "owner": "thatguydan",
+  "private": false,
+  "html_url": "https://github.com/thatguydan/hue.js",
+  "description": "Node.js library for interacting with a Philips Hue bridge",
+  "fork": false,
+  "url": "https://api.github.com/repos/thatguydan/hue.js",
+  "languages_url": "https://api.github.com/repos/thatguydan/hue.js/languages",
+  "pulls_url": "https://api.github.com/repos/thatguydan/hue.js/pulls{/number}",
+  "created_at": "2013-01-04T05:26:08Z",
+  "updated_at": "2018-08-14T01:46:58Z",
+  "pushed_at": "2015-11-08T10:02:06Z",
+  "homepage": "",
+  "size": 257,
+  "stargazers_count": 39,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "elliots": 1,
+    "ceejbot": 2,
+    "eelcocramer": 2,
+    "bahamas10": 4,
+    "thatguydan": 34
+  },
+  "pulls_authors": [
+    "Remiii",
+    "valentinalexeev",
+    "bahamas10",
+    "ceejbot",
+    "eelcocramer",
+    "elliots"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 9359,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T13:46:01.553Z"
+}

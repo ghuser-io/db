@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "xray",
+  "full_name": "captbaritone/xray",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/xray",
+  "description": "An experimental next-generation Electron-based text editor",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/xray",
+  "languages_url": "https://api.github.com/repos/captbaritone/xray/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/xray/pulls{/number}",
+  "created_at": "2018-03-23T21:47:33Z",
+  "updated_at": "2018-07-29T22:19:51Z",
+  "pushed_at": "2018-03-23T19:35:57Z",
+  "homepage": "",
+  "size": 902,
+  "stargazers_count": 1,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Jpunt": 1,
+    "leroix": 1,
+    "karlbecker": 1,
+    "eyelash": 2,
+    "matthewwithanm": 3,
+    "max-sixty": 4,
+    "dirk": 23,
+    "maxbrunsfeld": 27,
+    "as-cii": 87,
+    "nathansobo": 182
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Rust": {
+      "bytes": 141500,
+      "color": "#dea584"
+    },
+    "JavaScript": {
+      "bytes": 47616,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 329,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:56.687Z"
+}

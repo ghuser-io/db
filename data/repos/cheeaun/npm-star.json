@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "npm-star",
+  "full_name": "cheeaun/npm-star",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/npm-star",
+  "description": "Star GitHub repositories of your project's npm dependencies",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/npm-star",
+  "languages_url": "https://api.github.com/repos/cheeaun/npm-star/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/npm-star/pulls{/number}",
+  "created_at": "2017-06-28T02:55:19Z",
+  "updated_at": "2017-08-31T21:25:09Z",
+  "pushed_at": "2017-06-28T16:16:05Z",
+  "homepage": null,
+  "size": 343,
+  "stargazers_count": 10,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 7
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2013,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:55.609Z"
+}

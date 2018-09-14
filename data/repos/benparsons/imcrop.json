@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "imcrop",
+  "full_name": "benparsons/imcrop",
+  "owner": "benparsons",
+  "private": false,
+  "html_url": "https://github.com/benparsons/imcrop",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/benparsons/imcrop",
+  "languages_url": "https://api.github.com/repos/benparsons/imcrop/languages",
+  "pulls_url": "https://api.github.com/repos/benparsons/imcrop/pulls{/number}",
+  "created_at": "2015-11-29T13:11:27Z",
+  "updated_at": "2016-04-29T07:15:12Z",
+  "pushed_at": "2016-04-26T20:00:06Z",
+  "homepage": null,
+  "size": 10555,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "benparsons": 35
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 10099,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 6450,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T17:06:55.354Z"
+}

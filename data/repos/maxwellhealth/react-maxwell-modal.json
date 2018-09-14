@@ -1,0 +1,74 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "react-maxwell-modal",
+  "full_name": "maxwellhealth/react-maxwell-modal",
+  "owner": "maxwellhealth",
+  "private": false,
+  "html_url": "https://github.com/maxwellhealth/react-maxwell-modal",
+  "description": "React Powered version of Maxwell Modal",
+  "fork": false,
+  "url": "https://api.github.com/repos/maxwellhealth/react-maxwell-modal",
+  "languages_url": "https://api.github.com/repos/maxwellhealth/react-maxwell-modal/languages",
+  "pulls_url": "https://api.github.com/repos/maxwellhealth/react-maxwell-modal/pulls{/number}",
+  "created_at": "2015-03-21T20:26:13Z",
+  "updated_at": "2016-10-21T19:05:17Z",
+  "pushed_at": "2017-04-13T18:02:44Z",
+  "homepage": null,
+  "size": 34,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "maxwellhealth",
+    "id": 9834950,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjk4MzQ5NTA=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/9834950?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/maxwellhealth",
+    "html_url": "https://github.com/maxwellhealth",
+    "followers_url": "https://api.github.com/users/maxwellhealth/followers",
+    "following_url": "https://api.github.com/users/maxwellhealth/following{/other_user}",
+    "gists_url": "https://api.github.com/users/maxwellhealth/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/maxwellhealth/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/maxwellhealth/subscriptions",
+    "organizations_url": "https://api.github.com/users/maxwellhealth/orgs",
+    "repos_url": "https://api.github.com/users/maxwellhealth/repos",
+    "events_url": "https://api.github.com/users/maxwellhealth/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/maxwellhealth/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "andrewbritt": 1,
+    "ShaynaCummings": 1,
+    "micheletedeschi": 1,
+    "ethanbarr": 5,
+    "securingsincity": 21
+  },
+  "pulls_authors": [
+    "andrewbritt",
+    "ethanbarr",
+    "securingsincity",
+    "micheletedeschi"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 27983,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 448,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T00:33:39.111Z"
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "batch-heal",
+  "full_name": "dufferzafar/batch-heal",
+  "owner": "dufferzafar",
+  "private": false,
+  "html_url": "https://github.com/dufferzafar/batch-heal",
+  "description": "A batch file that used to fix common PC problems.",
+  "fork": false,
+  "url": "https://api.github.com/repos/dufferzafar/batch-heal",
+  "languages_url": "https://api.github.com/repos/dufferzafar/batch-heal/languages",
+  "pulls_url": "https://api.github.com/repos/dufferzafar/batch-heal/pulls{/number}",
+  "created_at": "2013-11-02T04:55:56Z",
+  "updated_at": "2017-04-13T15:57:02Z",
+  "pushed_at": "2014-03-12T11:32:32Z",
+  "homepage": "",
+  "size": 1124,
+  "stargazers_count": 1,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dufferzafar": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 201335,
+      "color": "#89e051"
+    },
+    "Visual Basic": {
+      "bytes": 3010,
+      "color": "#945db7"
+    }
+  },
+  "fetched_at": "2018-09-03T12:57:06.535Z"
+}

@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "unfurl",
+  "full_name": "probot/unfurl",
+  "owner": "probot",
+  "private": false,
+  "html_url": "https://github.com/probot/unfurl",
+  "description": "a GitHub App built with Probot that unfurls links on Issues and Pull Request discussions",
+  "fork": false,
+  "url": "https://api.github.com/repos/probot/unfurl",
+  "languages_url": "https://api.github.com/repos/probot/unfurl/languages",
+  "created_at": "2017-10-26T05:24:49Z",
+  "updated_at": "2018-08-18T06:33:51Z",
+  "pushed_at": "2018-08-13T17:26:08Z",
+  "homepage": "https://probot.github.io/apps/unfurl-links/",
+  "size": 102,
+  "stargazers_count": 39,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "isc",
+    "name": "ISC License",
+    "spdx_id": "ISC",
+    "url": "https://api.github.com/licenses/isc",
+    "node_id": "MDc6TGljZW5zZTEw"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "probot",
+    "id": 26350515,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI2MzUwNTE1",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/26350515?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/probot",
+    "html_url": "https://github.com/probot",
+    "followers_url": "https://api.github.com/users/probot/followers",
+    "following_url": "https://api.github.com/users/probot/following{/other_user}",
+    "gists_url": "https://api.github.com/users/probot/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/probot/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/probot/subscriptions",
+    "organizations_url": "https://api.github.com/users/probot/orgs",
+    "repos_url": "https://api.github.com/users/probot/repos",
+    "events_url": "https://api.github.com/users/probot/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/probot/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "koddsson": 1,
+    "philschatz": 1,
+    "hiimbex": 2,
+    "greenkeeper[bot]": 2,
+    "aryannarora": 6,
+    "rsarky": 8,
+    "bkeepers": 15
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 8311,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:03.909Z",
+  "pulls_url": "https://api.github.com/repos/probot/unfurl/pulls{/number}",
+  "pulls_authors": [
+    "hiimbex",
+    "greenkeeper[bot]",
+    "knrt10",
+    "abhijeetps",
+    "aryannarora",
+    "rsarky",
+    "koddsson",
+    "bkeepers",
+    "philschatz",
+    "Kikobeats",
+    "JasonEtco"
+  ]
+}

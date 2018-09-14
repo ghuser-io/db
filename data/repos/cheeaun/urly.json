@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "urly",
+  "full_name": "cheeaun/urly",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/urly",
+  "description": "URL shortener for Google App Engine",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/urly",
+  "languages_url": "https://api.github.com/repos/cheeaun/urly/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/urly/pulls{/number}",
+  "created_at": "2009-09-25T09:09:58Z",
+  "updated_at": "2015-04-13T05:20:13Z",
+  "pushed_at": "2009-09-28T09:48:01Z",
+  "homepage": "http://code.google.com/p/urly/",
+  "size": 91,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 11036,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 10664,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T19:00:09.557Z"
+}

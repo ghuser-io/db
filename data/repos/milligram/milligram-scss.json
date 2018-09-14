@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "milligram-scss",
+  "full_name": "milligram/milligram-scss",
+  "owner": "milligram",
+  "private": false,
+  "html_url": "https://github.com/milligram/milligram-scss",
+  "description": "A minimalist CSS framework on SCSS version.",
+  "fork": false,
+  "url": "https://api.github.com/repos/milligram/milligram-scss",
+  "languages_url": "https://api.github.com/repos/milligram/milligram-scss/languages",
+  "pulls_url": "https://api.github.com/repos/milligram/milligram-scss/pulls{/number}",
+  "created_at": "2016-01-01T09:47:46Z",
+  "updated_at": "2018-08-31T12:55:49Z",
+  "pushed_at": "2017-04-07T19:59:52Z",
+  "homepage": "https://milligram.io",
+  "size": 100,
+  "stargazers_count": 40,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "milligram",
+    "id": 16243913,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2MjQzOTEz",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/16243913?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/milligram",
+    "html_url": "https://github.com/milligram",
+    "followers_url": "https://api.github.com/users/milligram/followers",
+    "following_url": "https://api.github.com/users/milligram/following{/other_user}",
+    "gists_url": "https://api.github.com/users/milligram/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/milligram/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/milligram/subscriptions",
+    "organizations_url": "https://api.github.com/users/milligram/orgs",
+    "repos_url": "https://api.github.com/users/milligram/repos",
+    "events_url": "https://api.github.com/users/milligram/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/milligram/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "cjpatoilo": 26
+  },
+  "pulls_authors": [
+    "juanbrujo",
+    "jefersondaniel",
+    "jvanveen",
+    "bencoveney",
+    "carlosxjm",
+    "Ekushisu",
+    "ghost"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 21724,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 343,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-31T16:27:07.664Z"
+}

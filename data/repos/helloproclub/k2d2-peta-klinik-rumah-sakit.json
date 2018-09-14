@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "k2d2-peta-klinik-rumah-sakit",
+  "full_name": "helloproclub/k2d2-peta-klinik-rumah-sakit",
+  "owner": "helloproclub",
+  "private": false,
+  "html_url": "https://github.com/helloproclub/k2d2-peta-klinik-rumah-sakit",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/helloproclub/k2d2-peta-klinik-rumah-sakit",
+  "languages_url": "https://api.github.com/repos/helloproclub/k2d2-peta-klinik-rumah-sakit/languages",
+  "pulls_url": "https://api.github.com/repos/helloproclub/k2d2-peta-klinik-rumah-sakit/pulls{/number}",
+  "created_at": "2017-08-18T13:25:02Z",
+  "updated_at": "2017-08-21T04:45:13Z",
+  "pushed_at": "2017-08-20T04:26:43Z",
+  "homepage": null,
+  "size": 1278,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "helloproclub",
+    "id": 24437877,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI0NDM3ODc3",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/24437877?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/helloproclub",
+    "html_url": "https://github.com/helloproclub",
+    "followers_url": "https://api.github.com/users/helloproclub/followers",
+    "following_url": "https://api.github.com/users/helloproclub/following{/other_user}",
+    "gists_url": "https://api.github.com/users/helloproclub/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/helloproclub/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/helloproclub/subscriptions",
+    "organizations_url": "https://api.github.com/users/helloproclub/orgs",
+    "repos_url": "https://api.github.com/users/helloproclub/repos",
+    "events_url": "https://api.github.com/users/helloproclub/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/helloproclub/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "bekicot": 1,
+    "satriahrharsono": 2,
+    "Arsfiqball": 2,
+    "jayvdb": 10
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 7198,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1523,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 620,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

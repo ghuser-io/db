@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ssshare",
+  "full_name": "gdassori/ssshare",
+  "owner": "gdassori",
+  "private": false,
+  "html_url": "https://github.com/gdassori/ssshare",
+  "description": "Secret sharing system",
+  "fork": false,
+  "url": "https://api.github.com/repos/gdassori/ssshare",
+  "languages_url": "https://api.github.com/repos/gdassori/ssshare/languages",
+  "pulls_url": "https://api.github.com/repos/gdassori/ssshare/pulls{/number}",
+  "created_at": "2017-06-06T18:32:58Z",
+  "updated_at": "2017-06-10T09:39:11Z",
+  "pushed_at": "2017-07-01T09:53:38Z",
+  "homepage": null,
+  "size": 115,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "gdassori": 43
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 53970,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 1827,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T10:36:11.138Z"
+}

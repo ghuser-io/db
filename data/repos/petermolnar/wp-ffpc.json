@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wp-ffpc",
+  "full_name": "petermolnar/wp-ffpc",
+  "owner": "petermolnar",
+  "private": false,
+  "html_url": "https://github.com/petermolnar/wp-ffpc",
+  "description": "WordPress Plugin WP-FFPC",
+  "fork": false,
+  "url": "https://api.github.com/repos/petermolnar/wp-ffpc",
+  "languages_url": "https://api.github.com/repos/petermolnar/wp-ffpc/languages",
+  "pulls_url": "https://api.github.com/repos/petermolnar/wp-ffpc/pulls{/number}",
+  "created_at": "2013-03-19T14:44:49Z",
+  "updated_at": "2018-07-31T21:05:22Z",
+  "pushed_at": "2017-02-11T00:11:56Z",
+  "homepage": "https://wordpress.org/plugins/wp-ffpc/",
+  "size": 595,
+  "stargazers_count": 56,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "vdwijngaert": 1,
+    "szepeviktor": 1,
+    "tomcastleman": 1,
+    "shimoju": 1,
+    "igordb": 1,
+    "ameir": 2,
+    "dkcwd": 2,
+    "gablau": 4,
+    "plescheff": 11,
+    "haroldkyle": 12
+  },
+  "pulls_authors": [
+    "glaydston",
+    "khromov",
+    "gablau",
+    "larsschenk",
+    "vdwijngaert",
+    "szepeviktor",
+    "haroldkyle",
+    "tomcastleman",
+    "shimoju",
+    "plescheff",
+    "ameir",
+    "petermolnar",
+    "IgorCode",
+    "dkcwd",
+    "cconover"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 120979,
+      "color": "#4F5D95"
+    },
+    "CSS": {
+      "bytes": 4804,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:01.461Z"
+}

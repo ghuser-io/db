@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "AurelienLourot.github.io",
+  "full_name": "AurelienLourot/AurelienLourot.github.io",
+  "owner": "AurelienLourot",
+  "private": false,
+  "html_url": "https://github.com/AurelienLourot/AurelienLourot.github.io",
+  "description": "My resume and other stuff",
+  "fork": false,
+  "url": "https://api.github.com/repos/AurelienLourot/AurelienLourot.github.io",
+  "languages_url": "https://api.github.com/repos/AurelienLourot/AurelienLourot.github.io/languages",
+  "pulls_url": "https://api.github.com/repos/AurelienLourot/AurelienLourot.github.io/pulls{/number}",
+  "created_at": "2016-01-16T18:18:35Z",
+  "updated_at": "2018-09-13T14:57:22Z",
+  "pushed_at": "2018-09-13T14:57:20Z",
+  "homepage": "",
+  "size": 4477,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "AurelienLourot": 217
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 36920,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 9874,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 689,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 434,
+      "color": "#89e051"
+    }
+  },
+  "settings": {
+    "_comment": "Repo metadata for ghuser.io. See https://github.com/ghuser-io/ghuser.io/blob/master/docs/repo-settings.md",
+    "avatar_url": "https://rawgit.com/ghuser-io/ghuser.io/master/docs/logo_square.png",
+    "techs": [
+      "GitHub Pages",
+      "CSS Grids"
+    ]
+  },
+  "fetched_at": "2018-09-13T16:24:12.731Z"
+}

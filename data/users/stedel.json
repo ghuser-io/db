@@ -1,0 +1,27 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "stedel",
+  "ghuser_created_at": "2018-09-11T00:06:58.365Z",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/4320826?v=4",
+  "html_url": "https://github.com/stedel",
+  "organizations_url": "https://api.github.com/users/stedel/orgs",
+  "repos_url": "https://api.github.com/users/stedel/repos",
+  "type": "User",
+  "name": "stedel",
+  "company": null,
+  "blog": "",
+  "location": "Kiel, Germany",
+  "email": null,
+  "bio": null,
+  "public_gists": 0,
+  "created_at": "2013-05-02T10:59:41Z",
+  "updated_at": "2018-09-08T15:01:34Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:18:00.158Z",
+    "repos": [
+      "stedel/stedel.github.io",
+      "vermilionfox/FumyCrib"
+    ]
+  }
+}

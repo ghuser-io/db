@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hexom",
+  "full_name": "leobourgue/hexom",
+  "owner": "leobourgue",
+  "private": false,
+  "html_url": "https://github.com/leobourgue/hexom",
+  "description": "The hexagonal home page",
+  "fork": false,
+  "url": "https://api.github.com/repos/leobourgue/hexom",
+  "languages_url": "https://api.github.com/repos/leobourgue/hexom/languages",
+  "pulls_url": "https://api.github.com/repos/leobourgue/hexom/pulls{/number}",
+  "created_at": "2016-01-20T18:48:05Z",
+  "updated_at": "2017-05-17T07:51:21Z",
+  "pushed_at": "2016-07-02T13:28:05Z",
+  "homepage": "",
+  "size": 2335,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "matt5555": 1,
+    "leobourgue": 69
+  },
+  "pulls_authors": [
+    "leobourgue"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 60580,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 45020,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 23052,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T02:26:50.895Z"
+}

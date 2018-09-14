@@ -1,0 +1,76 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "store",
+  "full_name": "phalcon/store",
+  "owner": "phalcon",
+  "private": false,
+  "html_url": "https://github.com/phalcon/store",
+  "description": "Official store repository",
+  "fork": false,
+  "url": "https://api.github.com/repos/phalcon/store",
+  "languages_url": "https://api.github.com/repos/phalcon/store/languages",
+  "pulls_url": "https://api.github.com/repos/phalcon/store/pulls{/number}",
+  "created_at": "2013-05-18T03:00:58Z",
+  "updated_at": "2018-08-08T03:44:12Z",
+  "pushed_at": "2017-04-30T07:48:56Z",
+  "homepage": null,
+  "size": 486,
+  "stargazers_count": 30,
+  "language": "Volt",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "phalcon",
+    "id": 1221505,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMjE1MDU=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1221505?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/phalcon",
+    "html_url": "https://github.com/phalcon",
+    "followers_url": "https://api.github.com/users/phalcon/followers",
+    "following_url": "https://api.github.com/users/phalcon/following{/other_user}",
+    "gists_url": "https://api.github.com/users/phalcon/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/phalcon/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/phalcon/subscriptions",
+    "organizations_url": "https://api.github.com/users/phalcon/orgs",
+    "repos_url": "https://api.github.com/users/phalcon/repos",
+    "events_url": "https://api.github.com/users/phalcon/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/phalcon/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Ultimater": 1,
+    "niden": 1,
+    "andresgutierrez": 5
+  },
+  "pulls_authors": [
+    "Ultimater",
+    "niden"
+  ],
+  "languages": {
+    "Volt": {
+      "bytes": 5086,
+      "color": "#1F1F1F"
+    },
+    "PHP": {
+      "bytes": 3456,
+      "color": "#4F5D95"
+    },
+    "CSS": {
+      "bytes": 1093,
+      "color": "#563d7c"
+    },
+    "ApacheConf": {
+      "bytes": 291,
+      "color": "#ccc"
+    },
+    "HTML": {
+      "bytes": 123,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:53.113Z"
+}

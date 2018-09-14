@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "timeout.pl",
+  "full_name": "dex4er/timeout.pl",
+  "owner": "dex4er",
+  "private": false,
+  "html_url": "https://github.com/dex4er/timeout.pl",
+  "description": "The very small and very useful script which runs a shell command with bounded time and kills spawned process if it is timeouted.",
+  "fork": false,
+  "url": "https://api.github.com/repos/dex4er/timeout.pl",
+  "languages_url": "https://api.github.com/repos/dex4er/timeout.pl/languages",
+  "pulls_url": "https://api.github.com/repos/dex4er/timeout.pl/pulls{/number}",
+  "created_at": "2012-01-04T12:00:41Z",
+  "updated_at": "2017-12-11T23:37:20Z",
+  "pushed_at": "2016-04-26T11:40:09Z",
+  "homepage": "",
+  "size": 8,
+  "stargazers_count": 1,
+  "language": "Perl",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "0xbsec": 1,
+    "dex4er": 5
+  },
+  "pulls_authors": [
+    "0xbsec"
+  ],
+  "languages": {
+    "Perl": {
+      "bytes": 4333,
+      "color": "#0298c3"
+    }
+  },
+  "fetched_at": "2018-09-11T17:04:55.283Z"
+}

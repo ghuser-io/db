@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "article-date-extractor",
+  "full_name": "amir/article-date-extractor",
+  "owner": "amir",
+  "private": false,
+  "html_url": "https://github.com/amir/article-date-extractor",
+  "description": "Extracts an online article's publication date",
+  "fork": false,
+  "url": "https://api.github.com/repos/amir/article-date-extractor",
+  "languages_url": "https://api.github.com/repos/amir/article-date-extractor/languages",
+  "pulls_url": "https://api.github.com/repos/amir/article-date-extractor/pulls{/number}",
+  "created_at": "2016-02-08T22:20:43Z",
+  "updated_at": "2017-05-13T10:57:24Z",
+  "pushed_at": "2016-02-27T17:35:10Z",
+  "homepage": null,
+  "size": 9,
+  "stargazers_count": 7,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "amir": 10
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Haskell": {
+      "bytes": 4792,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-11T22:27:00.808Z"
+}

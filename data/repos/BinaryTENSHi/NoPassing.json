@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "NoPassing",
+  "full_name": "BinaryTENSHi/NoPassing",
+  "owner": "BinaryTENSHi",
+  "private": false,
+  "html_url": "https://github.com/BinaryTENSHi/NoPassing",
+  "description": "DEPRECATED A libgdx game where you'll manage a border checkpoint. Sometime...",
+  "fork": false,
+  "url": "https://api.github.com/repos/BinaryTENSHi/NoPassing",
+  "languages_url": "https://api.github.com/repos/BinaryTENSHi/NoPassing/languages",
+  "pulls_url": "https://api.github.com/repos/BinaryTENSHi/NoPassing/pulls{/number}",
+  "created_at": "2014-01-05T20:08:13Z",
+  "updated_at": "2015-02-24T09:17:49Z",
+  "pushed_at": "2014-03-14T15:50:13Z",
+  "homepage": "",
+  "size": 7572,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "BinaryTENSHi": 28
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 29208,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-11T20:44:42.864Z"
+}

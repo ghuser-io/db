@@ -1,0 +1,76 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "telemachy",
+  "full_name": "code-orange/telemachy",
+  "owner": "code-orange",
+  "private": false,
+  "html_url": "https://github.com/code-orange/telemachy",
+  "description": "Easy guided tours for Angular apps",
+  "fork": false,
+  "url": "https://api.github.com/repos/code-orange/telemachy",
+  "languages_url": "https://api.github.com/repos/code-orange/telemachy/languages",
+  "pulls_url": "https://api.github.com/repos/code-orange/telemachy/pulls{/number}",
+  "created_at": "2017-08-31T10:54:08Z",
+  "updated_at": "2018-08-11T17:00:46Z",
+  "pushed_at": "2018-04-20T10:55:27Z",
+  "homepage": "https://code-orange.github.io/telemachy/",
+  "size": 3053,
+  "stargazers_count": 32,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "code-orange",
+    "id": 23122286,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzMTIyMjg2",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/23122286?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/code-orange",
+    "html_url": "https://github.com/code-orange",
+    "followers_url": "https://api.github.com/users/code-orange/followers",
+    "following_url": "https://api.github.com/users/code-orange/following{/other_user}",
+    "gists_url": "https://api.github.com/users/code-orange/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/code-orange/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/code-orange/subscriptions",
+    "organizations_url": "https://api.github.com/users/code-orange/orgs",
+    "repos_url": "https://api.github.com/users/code-orange/repos",
+    "events_url": "https://api.github.com/users/code-orange/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/code-orange/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "anteadea": 1,
+    "dmlang": 1,
+    "tahuba": 1,
+    "timvdalen": 21
+  },
+  "pulls_authors": [
+    "anteadea",
+    "dmlang",
+    "tahuba"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 13994,
+      "color": "#2b7489"
+    },
+    "HTML": {
+      "bytes": 2412,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1390,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:53.236Z"
+}

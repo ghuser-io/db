@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "griddler-ses",
+  "full_name": "85x14/griddler-ses",
+  "owner": "85x14",
+  "private": false,
+  "html_url": "https://github.com/85x14/griddler-ses",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/85x14/griddler-ses",
+  "languages_url": "https://api.github.com/repos/85x14/griddler-ses/languages",
+  "pulls_url": "https://api.github.com/repos/85x14/griddler-ses/pulls{/number}",
+  "created_at": "2016-04-07T22:21:04Z",
+  "updated_at": "2018-08-28T18:42:54Z",
+  "pushed_at": "2018-08-30T01:06:14Z",
+  "homepage": null,
+  "size": 43,
+  "stargazers_count": 13,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "85x14",
+    "id": 259917,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1OTkxNw==",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/259917?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/85x14",
+    "html_url": "https://github.com/85x14",
+    "followers_url": "https://api.github.com/users/85x14/followers",
+    "following_url": "https://api.github.com/users/85x14/following{/other_user}",
+    "gists_url": "https://api.github.com/users/85x14/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/85x14/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/85x14/subscriptions",
+    "organizations_url": "https://api.github.com/users/85x14/orgs",
+    "repos_url": "https://api.github.com/users/85x14/repos",
+    "events_url": "https://api.github.com/users/85x14/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/85x14/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "kmewhort": 24
+  },
+  "pulls_authors": [
+    "ccallebs",
+    "jdurand",
+    "Nightforge",
+    "sergio1990",
+    "kmewhort"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 15477,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:03.545Z"
+}

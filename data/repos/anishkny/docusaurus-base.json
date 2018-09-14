@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docusaurus-base",
+  "full_name": "anishkny/docusaurus-base",
+  "owner": "anishkny",
+  "private": false,
+  "html_url": "https://github.com/anishkny/docusaurus-base",
+  "description": "Netlify template for Docusaurus",
+  "fork": false,
+  "url": "https://api.github.com/repos/anishkny/docusaurus-base",
+  "languages_url": "https://api.github.com/repos/anishkny/docusaurus-base/languages",
+  "pulls_url": "https://api.github.com/repos/anishkny/docusaurus-base/pulls{/number}",
+  "created_at": "2018-03-18T11:48:33Z",
+  "updated_at": "2018-05-07T14:24:46Z",
+  "pushed_at": "2018-05-07T14:24:45Z",
+  "homepage": "https://docusaurus.netlify.com/",
+  "size": 52,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "anishkny": 10
+  },
+  "pulls_authors": [
+    "anishkny"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 13061,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 297,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:38.059Z"
+}

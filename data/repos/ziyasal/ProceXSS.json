@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ProceXSS",
+  "full_name": "ziyasal/ProceXSS",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/ProceXSS",
+  "description": "ProceXSS is an Asp.NET Http module -tries- to prevent to xss attacks.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal/ProceXSS",
+  "languages_url": "https://api.github.com/repos/ziyasal/ProceXSS/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/ProceXSS/pulls{/number}",
+  "created_at": "2012-10-11T19:52:53Z",
+  "updated_at": "2018-09-09T19:16:43Z",
+  "pushed_at": "2018-09-09T19:16:41Z",
+  "homepage": "",
+  "size": 839,
+  "stargazers_count": 11,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ziyasal": 37
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 85012,
+      "color": "#178600"
+    },
+    "JavaScript": {
+      "bytes": 19032,
+      "color": "#f1e05a"
+    },
+    "ASP": {
+      "bytes": 14890,
+      "color": "#6a40fd"
+    },
+    "HTML": {
+      "bytes": 5125,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 4280,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:01.184Z"
+}

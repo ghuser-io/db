@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gobaby",
+  "full_name": "jcla1/gobaby",
+  "owner": "jcla1",
+  "private": false,
+  "html_url": "https://github.com/jcla1/gobaby",
+  "description": "Emulation & example programs for the SSEM aka \"the Baby\" computer",
+  "fork": false,
+  "url": "https://api.github.com/repos/jcla1/gobaby",
+  "languages_url": "https://api.github.com/repos/jcla1/gobaby/languages",
+  "pulls_url": "https://api.github.com/repos/jcla1/gobaby/pulls{/number}",
+  "created_at": "2014-08-04T19:54:40Z",
+  "updated_at": "2018-07-29T00:41:23Z",
+  "pushed_at": "2014-08-07T14:01:44Z",
+  "homepage": "",
+  "size": 148,
+  "stargazers_count": 4,
+  "language": "Assembly",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jcla1": 27
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Assembly": {
+      "bytes": 4970,
+      "color": "#6E4C13"
+    },
+    "Go": {
+      "bytes": 4853,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:07.405Z"
+}

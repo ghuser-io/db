@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Project-Epsilon",
+  "full_name": "mploux/Project-Epsilon",
+  "owner": "mploux",
+  "private": false,
+  "html_url": "https://github.com/mploux/Project-Epsilon",
+  "description": "Project Epsilon - A simple physically based game rendering engine in c++.",
+  "fork": false,
+  "url": "https://api.github.com/repos/mploux/Project-Epsilon",
+  "languages_url": "https://api.github.com/repos/mploux/Project-Epsilon/languages",
+  "pulls_url": "https://api.github.com/repos/mploux/Project-Epsilon/pulls{/number}",
+  "created_at": "2017-04-09T14:17:26Z",
+  "updated_at": "2017-05-12T11:01:29Z",
+  "pushed_at": "2017-07-07T11:03:52Z",
+  "homepage": "",
+  "size": 150900,
+  "stargazers_count": 5,
+  "language": "GLSL",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "oyagci": 1,
+    "mploux": 30
+  },
+  "pulls_authors": [
+    "oyagci"
+  ],
+  "languages": {
+    "GLSL": {
+      "bytes": 11225,
+      "color": "#ccc"
+    },
+    "C++": {
+      "bytes": 9842,
+      "color": "#f34b7d"
+    },
+    "Makefile": {
+      "bytes": 2633,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 881,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:39:11.365Z"
+}

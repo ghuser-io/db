@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Sublime-IntelliDocs",
+  "full_name": "shortcutme/Sublime-IntelliDocs",
+  "owner": "shortcutme",
+  "private": false,
+  "html_url": "https://github.com/shortcutme/Sublime-IntelliDocs",
+  "description": "Quick function parameter hint for Sublime 3.x.",
+  "fork": false,
+  "url": "https://api.github.com/repos/shortcutme/Sublime-IntelliDocs",
+  "languages_url": "https://api.github.com/repos/shortcutme/Sublime-IntelliDocs/languages",
+  "pulls_url": "https://api.github.com/repos/shortcutme/Sublime-IntelliDocs/pulls{/number}",
+  "created_at": "2014-03-02T15:21:57Z",
+  "updated_at": "2018-08-16T02:42:59Z",
+  "pushed_at": "2015-08-24T04:35:31Z",
+  "homepage": "",
+  "size": 1815,
+  "stargazers_count": 33,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "shortcutme": 13
+  },
+  "pulls_authors": [
+    "dirk-thomas",
+    "jbrooksuk",
+    "tlqmj"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 8712,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 1116,
+      "color": "#f1e05a"
+    },
+    "PHP": {
+      "bytes": 561,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:53.400Z"
+}

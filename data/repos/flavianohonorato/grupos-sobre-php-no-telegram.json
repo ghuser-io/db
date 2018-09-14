@@ -1,0 +1,34 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "grupos-sobre-php-no-telegram",
+  "full_name": "flavianohonorato/grupos-sobre-php-no-telegram",
+  "owner": "flavianohonorato",
+  "private": false,
+  "html_url": "https://github.com/flavianohonorato/grupos-sobre-php-no-telegram",
+  "description": "Repositório com links de grupos relacionados ao PHP  no Telegram",
+  "fork": false,
+  "url": "https://api.github.com/repos/flavianohonorato/grupos-sobre-php-no-telegram",
+  "languages_url": "https://api.github.com/repos/flavianohonorato/grupos-sobre-php-no-telegram/languages",
+  "pulls_url": "https://api.github.com/repos/flavianohonorato/grupos-sobre-php-no-telegram/pulls{/number}",
+  "created_at": "2016-05-27T12:27:19Z",
+  "updated_at": "2018-06-29T14:42:56Z",
+  "pushed_at": "2017-09-01T19:07:31Z",
+  "homepage": "",
+  "size": 4,
+  "stargazers_count": 6,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "alexmoreno": 1,
+    "flavianohonorato": 9
+  },
+  "pulls_authors": [
+    "ACRabelo",
+    "alexmoreno"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-12T04:55:58.129Z"
+}

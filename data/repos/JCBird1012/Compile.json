@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Compile",
+  "full_name": "JCBird1012/Compile",
+  "owner": "JCBird1012",
+  "private": false,
+  "html_url": "https://github.com/JCBird1012/Compile",
+  "description": "Compile is a simple, elegant contacts app, with a new twist on information syncing and intergrity. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/JCBird1012/Compile",
+  "languages_url": "https://api.github.com/repos/JCBird1012/Compile/languages",
+  "pulls_url": "https://api.github.com/repos/JCBird1012/Compile/pulls{/number}",
+  "created_at": "2014-07-07T18:30:41Z",
+  "updated_at": "2016-09-29T23:27:05Z",
+  "pushed_at": "2014-07-23T13:46:42Z",
+  "homepage": "",
+  "size": 15112,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "brentlee104": 2,
+    "JCBird1012": 69,
+    "jgall": 71
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 1351769,
+      "color": "#b07219"
+    },
+    "Groovy": {
+      "bytes": 1999,
+      "color": "#e69f56"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:06.732Z"
+}

@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ansible-django-stack",
+  "full_name": "jcalazan/ansible-django-stack",
+  "owner": "jcalazan",
+  "private": false,
+  "html_url": "https://github.com/jcalazan/ansible-django-stack",
+  "description": "Ansible Playbook for setting up a Django app with Nginx, Gunicorn, PostgreSQL, Celery, RabbitMQ, Supervisor, Virtualenv, and Memcached. A Vagrantfile for provisioning a VirtualBox virtual machine is included as well.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jcalazan/ansible-django-stack",
+  "languages_url": "https://api.github.com/repos/jcalazan/ansible-django-stack/languages",
+  "pulls_url": "https://api.github.com/repos/jcalazan/ansible-django-stack/pulls{/number}",
+  "created_at": "2014-03-28T02:42:36Z",
+  "updated_at": "2018-09-10T07:20:12Z",
+  "pushed_at": "2018-09-12T01:20:39Z",
+  "homepage": "",
+  "size": 170,
+  "stargazers_count": 1065,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "iceraj": 1,
+    "bhardin": 1,
+    "adrianmoisey": 1,
+    "jbants": 1,
+    "pedrospdc": 1,
+    "YPCrumble": 2,
+    "darylyu": 2,
+    "conrado": 2,
+    "DavidCain": 5,
+    "dpward": 24,
+    "jcalazan": 64
+  },
+  "pulls_authors": [
+    "YPCrumble",
+    "DavidCain",
+    "StuartMacKay",
+    "dpward",
+    "iceraj",
+    "mprat",
+    "bhardin",
+    "darylyu",
+    "lucasrcosta",
+    "adrianmoisey",
+    "jbants",
+    "pedrospdc",
+    "doodles526",
+    "conrado"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 1642,
+      "color": "#89e051"
+    },
+    "HTML": {
+      "bytes": 716,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:33.259Z"
+}

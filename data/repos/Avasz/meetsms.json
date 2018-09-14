@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "meetsms",
+  "full_name": "Avasz/meetsms",
+  "owner": "Avasz",
+  "private": false,
+  "html_url": "https://github.com/Avasz/meetsms",
+  "description": "Send sms using NTC Meet.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Avasz/meetsms",
+  "languages_url": "https://api.github.com/repos/Avasz/meetsms/languages",
+  "pulls_url": "https://api.github.com/repos/Avasz/meetsms/pulls{/number}",
+  "created_at": "2016-03-29T06:22:04Z",
+  "updated_at": "2017-07-17T10:38:46Z",
+  "pushed_at": "2017-12-11T11:16:48Z",
+  "homepage": null,
+  "size": 58,
+  "stargazers_count": 4,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "amitness": 1,
+    "Avasz": 2
+  },
+  "pulls_authors": [
+    "amitness"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 3020,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:28.652Z"
+}

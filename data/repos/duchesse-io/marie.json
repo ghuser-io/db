@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "marie",
+  "full_name": "duchesse-io/marie",
+  "owner": "duchesse-io",
+  "private": false,
+  "html_url": "https://github.com/duchesse-io/marie",
+  "description": "Duchesse's api",
+  "fork": false,
+  "url": "https://api.github.com/repos/duchesse-io/marie",
+  "languages_url": "https://api.github.com/repos/duchesse-io/marie/languages",
+  "pulls_url": "https://api.github.com/repos/duchesse-io/marie/pulls{/number}",
+  "created_at": "2014-10-21T16:33:54Z",
+  "updated_at": "2014-10-24T10:16:33Z",
+  "pushed_at": "2014-10-21T16:38:16Z",
+  "homepage": null,
+  "size": 136,
+  "stargazers_count": 1,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "duchesse-io",
+    "id": 9339244,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjkzMzkyNDQ=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/9339244?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/duchesse-io",
+    "html_url": "https://github.com/duchesse-io",
+    "followers_url": "https://api.github.com/users/duchesse-io/followers",
+    "following_url": "https://api.github.com/users/duchesse-io/following{/other_user}",
+    "gists_url": "https://api.github.com/users/duchesse-io/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/duchesse-io/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/duchesse-io/subscriptions",
+    "organizations_url": "https://api.github.com/users/duchesse-io/orgs",
+    "repos_url": "https://api.github.com/users/duchesse-io/repos",
+    "events_url": "https://api.github.com/users/duchesse-io/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/duchesse-io/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "L-P": 46
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 26050,
+      "color": "#4F5D95"
+    },
+    "Shell": {
+      "bytes": 71,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T23:08:01.596Z"
+}

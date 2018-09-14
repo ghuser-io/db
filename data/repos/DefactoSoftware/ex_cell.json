@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ex_cell",
+  "full_name": "DefactoSoftware/ex_cell",
+  "owner": "DefactoSoftware",
+  "private": false,
+  "html_url": "https://github.com/DefactoSoftware/ex_cell",
+  "description": "A module for creating coupled modules of CSS, Javascript and Views in Phoenix",
+  "fork": false,
+  "url": "https://api.github.com/repos/DefactoSoftware/ex_cell",
+  "languages_url": "https://api.github.com/repos/DefactoSoftware/ex_cell/languages",
+  "created_at": "2017-07-27T12:31:09Z",
+  "updated_at": "2018-08-24T14:15:03Z",
+  "pushed_at": "2018-08-24T11:55:07Z",
+  "homepage": null,
+  "size": 68,
+  "stargazers_count": 16,
+  "language": "Elixir",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "DefactoSoftware",
+    "id": 3899757,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM4OTk3NTc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/3899757?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/DefactoSoftware",
+    "html_url": "https://github.com/DefactoSoftware",
+    "followers_url": "https://api.github.com/users/DefactoSoftware/followers",
+    "following_url": "https://api.github.com/users/DefactoSoftware/following{/other_user}",
+    "gists_url": "https://api.github.com/users/DefactoSoftware/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/DefactoSoftware/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/DefactoSoftware/subscriptions",
+    "organizations_url": "https://api.github.com/users/DefactoSoftware/orgs",
+    "repos_url": "https://api.github.com/users/DefactoSoftware/repos",
+    "events_url": "https://api.github.com/users/DefactoSoftware/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/DefactoSoftware/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "marnen": 1,
+    "fatboypunk": 5,
+    "sn3p": 7,
+    "jessedijkstra": 34
+  },
+  "languages": {
+    "Elixir": {
+      "bytes": 36307,
+      "color": "#6e4a7e"
+    }
+  },
+  "fetched_at": "2018-08-24T22:59:36.783Z",
+  "pulls_url": "https://api.github.com/repos/DefactoSoftware/ex_cell/pulls{/number}",
+  "pulls_authors": [
+    "fatboypunk",
+    "marnen",
+    "sn3p",
+    "jessedijkstra"
+  ]
+}

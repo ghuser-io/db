@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "kelrien",
+  "ghuser_created_at": "2018-09-11T02:50:15.604Z",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/5786664?v=4",
+  "html_url": "https://github.com/kelrien",
+  "organizations_url": "https://api.github.com/users/kelrien/orgs",
+  "repos_url": "https://api.github.com/users/kelrien/repos",
+  "type": "User",
+  "name": "Patrick Beedgen",
+  "company": "sovanta AG",
+  "blog": "http://www.beedgen.net",
+  "location": "Mannheim",
+  "email": null,
+  "bio": null,
+  "public_gists": 0,
+  "created_at": "2013-10-27T13:10:56Z",
+  "updated_at": "2018-09-10T13:34:33Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:15:01.816Z",
+    "repos": [
+      "kelrien/pilotstwodotoh",
+      "kelrien/ir-workshop-beedgen",
+      "kelrien/FoundersFlats",
+      "Mu0n/XWVassal",
+      "kelrien/xwing-pilot-generator",
+      "kelrien/vue-template",
+      "kelrien/polymer-weather-card",
+      "kelrien/pyretrieval",
+      "kelrien/node-chatserver",
+      "kelrien/misc",
+      "kelrien/DotNetExampleDataBinding",
+      "kelrien/SharpExtensions",
+      "suspectpart/msi_ss14",
+      "gtRfnkN/HSMA_MMI"
+    ]
+  }
+}

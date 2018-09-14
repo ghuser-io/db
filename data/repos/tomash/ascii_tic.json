@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ascii_tic",
+  "full_name": "tomash/ascii_tic",
+  "owner": "tomash",
+  "private": false,
+  "html_url": "https://github.com/tomash/ascii_tic",
+  "description": "Rails plugin extending String, mostly notably for unicode-to-ascii conversion",
+  "fork": false,
+  "url": "https://api.github.com/repos/tomash/ascii_tic",
+  "languages_url": "https://api.github.com/repos/tomash/ascii_tic/languages",
+  "pulls_url": "https://api.github.com/repos/tomash/ascii_tic/pulls{/number}",
+  "created_at": "2009-03-15T13:27:47Z",
+  "updated_at": "2016-05-09T06:45:20Z",
+  "pushed_at": "2012-03-07T13:04:11Z",
+  "homepage": "",
+  "size": 104,
+  "stargazers_count": 5,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "tjeden": 1
+  },
+  "pulls_authors": [
+    "artur79",
+    "tjeden"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 2484,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T16:53:07.908Z"
+}

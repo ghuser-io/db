@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "NodeBeginnerBook",
+  "full_name": "philrennie/NodeBeginnerBook",
+  "owner": "philrennie",
+  "private": false,
+  "html_url": "https://github.com/philrennie/NodeBeginnerBook",
+  "description": "A node.js book for beginners",
+  "fork": true,
+  "url": "https://api.github.com/repos/philrennie/NodeBeginnerBook",
+  "languages_url": "https://api.github.com/repos/philrennie/NodeBeginnerBook/languages",
+  "pulls_url": "https://api.github.com/repos/philrennie/NodeBeginnerBook/pulls{/number}",
+  "created_at": "2011-05-20T16:35:35Z",
+  "updated_at": "2014-06-21T14:32:09Z",
+  "pushed_at": "2011-05-20T16:49:12Z",
+  "homepage": "http://www.NodeBeginner.org",
+  "size": 3807,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ashokgelal": 1,
+    "gruner": 2,
+    "manuelkiessling": 79
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 124953,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T10:40:32.440Z"
+}

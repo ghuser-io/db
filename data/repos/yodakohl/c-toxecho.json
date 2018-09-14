@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "c-toxecho",
+  "full_name": "yodakohl/c-toxecho",
+  "owner": "yodakohl",
+  "private": false,
+  "html_url": "https://github.com/yodakohl/c-toxecho",
+  "description": "Test for using tox on the raspberry pi",
+  "fork": false,
+  "url": "https://api.github.com/repos/yodakohl/c-toxecho",
+  "languages_url": "https://api.github.com/repos/yodakohl/c-toxecho/languages",
+  "pulls_url": "https://api.github.com/repos/yodakohl/c-toxecho/pulls{/number}",
+  "created_at": "2017-08-04T18:27:17Z",
+  "updated_at": "2018-04-15T21:44:28Z",
+  "pushed_at": "2017-08-04T20:34:30Z",
+  "homepage": null,
+  "size": 8,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "yodakohl": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 6171,
+      "color": "#f34b7d"
+    },
+    "CMake": {
+      "bytes": 191,
+      "color": "#ccc"
+    },
+    "C": {
+      "bytes": 36,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T16:54:22.578Z"
+}

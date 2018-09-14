@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cv.epite.ch",
+  "full_name": "epite-ch/cv.epite.ch",
+  "owner": "epite-ch",
+  "private": false,
+  "html_url": "https://github.com/epite-ch/cv.epite.ch",
+  "description": "Vous recherchez un nouveau développeur ?",
+  "fork": false,
+  "url": "https://api.github.com/repos/epite-ch/cv.epite.ch",
+  "languages_url": "https://api.github.com/repos/epite-ch/cv.epite.ch/languages",
+  "pulls_url": "https://api.github.com/repos/epite-ch/cv.epite.ch/pulls{/number}",
+  "created_at": "2013-03-06T22:45:07Z",
+  "updated_at": "2014-09-07T18:56:32Z",
+  "pushed_at": "2013-03-09T21:02:23Z",
+  "homepage": "http://cv.epite.ch/",
+  "size": 460,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "epite-ch",
+    "id": 3763258,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM3NjMyNTg=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/3763258?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/epite-ch",
+    "html_url": "https://github.com/epite-ch",
+    "followers_url": "https://api.github.com/users/epite-ch/followers",
+    "following_url": "https://api.github.com/users/epite-ch/following{/other_user}",
+    "gists_url": "https://api.github.com/users/epite-ch/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/epite-ch/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/epite-ch/subscriptions",
+    "organizations_url": "https://api.github.com/users/epite-ch/orgs",
+    "repos_url": "https://api.github.com/users/epite-ch/repos",
+    "events_url": "https://api.github.com/users/epite-ch/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/epite-ch/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "moul": 3,
+    "joshleaves": 24
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 13775,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:51.266Z"
+}

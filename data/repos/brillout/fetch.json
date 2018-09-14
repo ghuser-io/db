@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fetch",
+  "full_name": "brillout/fetch",
+  "owner": "brillout",
+  "private": false,
+  "html_url": "https://github.com/brillout/fetch",
+  "description": "WHATWG Fetch for the browser and Node.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/brillout/fetch",
+  "languages_url": "https://api.github.com/repos/brillout/fetch/languages",
+  "created_at": "2018-01-10T16:53:02Z",
+  "updated_at": "2018-08-22T10:41:24Z",
+  "pushed_at": "2018-06-06T12:50:12Z",
+  "homepage": "",
+  "size": 2,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "brillout": 3
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 466,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-22T17:10:05.088Z",
+  "pulls_url": "https://api.github.com/repos/brillout/fetch/pulls{/number}",
+  "pulls_authors": []
+}

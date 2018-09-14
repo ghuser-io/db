@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "thot-splash",
+  "full_name": "episeclab/thot-splash",
+  "owner": "episeclab",
+  "private": false,
+  "html_url": "https://github.com/episeclab/thot-splash",
+  "description": "ThotProject Splash Screen Hackage",
+  "fork": false,
+  "url": "https://api.github.com/repos/episeclab/thot-splash",
+  "languages_url": "https://api.github.com/repos/episeclab/thot-splash/languages",
+  "pulls_url": "https://api.github.com/repos/episeclab/thot-splash/pulls{/number}",
+  "created_at": "2014-02-02T12:04:32Z",
+  "updated_at": "2018-08-14T11:52:10Z",
+  "pushed_at": "2015-01-26T10:18:23Z",
+  "homepage": null,
+  "size": 2652,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "episeclab",
+    "id": 1125039,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExMjUwMzk=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/1125039?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/episeclab",
+    "html_url": "https://github.com/episeclab",
+    "followers_url": "https://api.github.com/users/episeclab/followers",
+    "following_url": "https://api.github.com/users/episeclab/following{/other_user}",
+    "gists_url": "https://api.github.com/users/episeclab/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/episeclab/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/episeclab/subscriptions",
+    "organizations_url": "https://api.github.com/users/episeclab/orgs",
+    "repos_url": "https://api.github.com/users/episeclab/repos",
+    "events_url": "https://api.github.com/users/episeclab/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/episeclab/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "moul": 11
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2756,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:47.911Z"
+}

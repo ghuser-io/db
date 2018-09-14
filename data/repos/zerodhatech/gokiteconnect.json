@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gokiteconnect",
+  "full_name": "zerodhatech/gokiteconnect",
+  "owner": "zerodhatech",
+  "private": false,
+  "html_url": "https://github.com/zerodhatech/gokiteconnect",
+  "description": "Official GO client for Kite Connect API's",
+  "fork": false,
+  "url": "https://api.github.com/repos/zerodhatech/gokiteconnect",
+  "languages_url": "https://api.github.com/repos/zerodhatech/gokiteconnect/languages",
+  "pulls_url": "https://api.github.com/repos/zerodhatech/gokiteconnect/pulls{/number}",
+  "created_at": "2017-08-20T19:51:33Z",
+  "updated_at": "2018-09-03T11:35:17Z",
+  "pushed_at": "2018-09-03T11:35:16Z",
+  "homepage": null,
+  "size": 118,
+  "stargazers_count": 10,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "zerodhatech",
+    "id": 34680622,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM0NjgwNjIy",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/34680622?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/zerodhatech",
+    "html_url": "https://github.com/zerodhatech",
+    "followers_url": "https://api.github.com/users/zerodhatech/followers",
+    "following_url": "https://api.github.com/users/zerodhatech/following{/other_user}",
+    "gists_url": "https://api.github.com/users/zerodhatech/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/zerodhatech/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/zerodhatech/subscriptions",
+    "organizations_url": "https://api.github.com/users/zerodhatech/orgs",
+    "repos_url": "https://api.github.com/users/zerodhatech/repos",
+    "events_url": "https://api.github.com/users/zerodhatech/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/zerodhatech/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mr-karan": 2,
+    "rhnvrm": 5,
+    "vividvilla": 40
+  },
+  "pulls_authors": [
+    "vividvilla",
+    "rhnvrm",
+    "mr-karan"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 88922,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:14.929Z"
+}

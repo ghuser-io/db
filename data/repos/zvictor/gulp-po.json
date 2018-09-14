@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gulp-po",
+  "full_name": "zvictor/gulp-po",
+  "owner": "zvictor",
+  "private": false,
+  "html_url": "https://github.com/zvictor/gulp-po",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/zvictor/gulp-po",
+  "languages_url": "https://api.github.com/repos/zvictor/gulp-po/languages",
+  "pulls_url": "https://api.github.com/repos/zvictor/gulp-po/pulls{/number}",
+  "created_at": "2015-08-14T13:55:42Z",
+  "updated_at": "2017-06-29T21:05:05Z",
+  "pushed_at": "2017-07-27T09:53:23Z",
+  "homepage": null,
+  "size": 1300,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "zvictor": 1
+  },
+  "pulls_authors": [
+    "grimelion"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 19661,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:21.658Z"
+}

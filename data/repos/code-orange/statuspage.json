@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "statuspage",
+  "full_name": "code-orange/statuspage",
+  "owner": "code-orange",
+  "private": false,
+  "html_url": "https://github.com/code-orange/statuspage",
+  "description": "Statuspage is a Lumen package that allows you to easily add a status page to an existing Lumen application or to create a dedicated Lumen status application.",
+  "fork": false,
+  "url": "https://api.github.com/repos/code-orange/statuspage",
+  "languages_url": "https://api.github.com/repos/code-orange/statuspage/languages",
+  "pulls_url": "https://api.github.com/repos/code-orange/statuspage/pulls{/number}",
+  "created_at": "2018-01-11T10:42:18Z",
+  "updated_at": "2018-04-22T15:48:11Z",
+  "pushed_at": "2018-01-12T10:22:12Z",
+  "homepage": "https://code-orange.github.io/statuspage/",
+  "size": 141,
+  "stargazers_count": 9,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "code-orange",
+    "id": 23122286,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzMTIyMjg2",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/23122286?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/code-orange",
+    "html_url": "https://github.com/code-orange",
+    "followers_url": "https://api.github.com/users/code-orange/followers",
+    "following_url": "https://api.github.com/users/code-orange/following{/other_user}",
+    "gists_url": "https://api.github.com/users/code-orange/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/code-orange/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/code-orange/subscriptions",
+    "organizations_url": "https://api.github.com/users/code-orange/orgs",
+    "repos_url": "https://api.github.com/users/code-orange/repos",
+    "events_url": "https://api.github.com/users/code-orange/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/code-orange/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "timvdalen": 23
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 11655,
+      "color": "#4F5D95"
+    },
+    "HTML": {
+      "bytes": 2098,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:53.656Z"
+}

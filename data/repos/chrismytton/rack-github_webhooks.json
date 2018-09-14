@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rack-github_webhooks",
+  "full_name": "chrismytton/rack-github_webhooks",
+  "owner": "chrismytton",
+  "private": false,
+  "html_url": "https://github.com/chrismytton/rack-github_webhooks",
+  "description": "Rack middleware for validating GitHub webhooks",
+  "fork": false,
+  "url": "https://api.github.com/repos/chrismytton/rack-github_webhooks",
+  "languages_url": "https://api.github.com/repos/chrismytton/rack-github_webhooks/languages",
+  "pulls_url": "https://api.github.com/repos/chrismytton/rack-github_webhooks/pulls{/number}",
+  "created_at": "2015-11-29T14:38:28Z",
+  "updated_at": "2016-10-21T11:10:34Z",
+  "pushed_at": "2016-03-28T13:32:23Z",
+  "homepage": "",
+  "size": 13,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ppworks": 4,
+    "chrismytton": 10
+  },
+  "pulls_authors": [
+    "ppworks"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 4314,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 115,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:40.650Z"
+}

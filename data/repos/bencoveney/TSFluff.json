@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "TSFluff",
+  "full_name": "bencoveney/TSFluff",
+  "owner": "bencoveney",
+  "private": false,
+  "html_url": "https://github.com/bencoveney/TSFluff",
+  "description": "TSFluff is a collection of linting rules for the masochistic developer. Enable them at your own peril!",
+  "fork": false,
+  "url": "https://api.github.com/repos/bencoveney/TSFluff",
+  "languages_url": "https://api.github.com/repos/bencoveney/TSFluff/languages",
+  "pulls_url": "https://api.github.com/repos/bencoveney/TSFluff/pulls{/number}",
+  "created_at": "2016-05-28T16:43:37Z",
+  "updated_at": "2018-08-31T20:05:49Z",
+  "pushed_at": "2016-06-05T16:23:11Z",
+  "homepage": "",
+  "size": 38,
+  "stargazers_count": 17,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bencoveney": 14
+  },
+  "pulls_authors": [
+    "bencoveney"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 8492,
+      "color": "#2b7489"
+    }
+  },
+  "fetched_at": "2018-09-01T02:46:19.474Z"
+}

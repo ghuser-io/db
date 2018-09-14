@@ -1,0 +1,133 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "codeworld",
+  "full_name": "google/codeworld",
+  "owner": "google",
+  "private": false,
+  "html_url": "https://github.com/google/codeworld",
+  "description": "Educational computer programming environment using Haskell",
+  "fork": false,
+  "url": "https://api.github.com/repos/google/codeworld",
+  "languages_url": "https://api.github.com/repos/google/codeworld/languages",
+  "pulls_url": "https://api.github.com/repos/google/codeworld/pulls{/number}",
+  "created_at": "2014-06-19T21:56:15Z",
+  "updated_at": "2018-09-12T06:16:04Z",
+  "pushed_at": "2018-09-12T06:16:01Z",
+  "homepage": "http://code.world",
+  "size": 4623,
+  "stargazers_count": 822,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "google",
+    "id": 1342004,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzNDIwMDQ=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1342004?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/google",
+    "html_url": "https://github.com/google",
+    "followers_url": "https://api.github.com/users/google/followers",
+    "following_url": "https://api.github.com/users/google/following{/other_user}",
+    "gists_url": "https://api.github.com/users/google/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/google/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/google/subscriptions",
+    "organizations_url": "https://api.github.com/users/google/orgs",
+    "repos_url": "https://api.github.com/users/google/repos",
+    "events_url": "https://api.github.com/users/google/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/google/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "bbarker": 1,
+    "jacksonsiew": 1,
+    "byorgey": 1,
+    "sassela": 1,
+    "hvardhanx": 1,
+    "2016rshah": 1,
+    "shauryab98": 1,
+    "liangxianzhe": 1,
+    "thSoft": 2,
+    "kaustubhhiware": 2,
+    "luite": 2,
+    "peterbecich": 3,
+    "tgdavies": 4,
+    "alphalambda": 4,
+    "rcook": 6,
+    "venkat24": 8,
+    "parvmor": 9,
+    "joshcough": 10,
+    "chelseaharper": 17,
+    "kammitama5": 31,
+    "pranjaltale16": 46,
+    "nomeata": 57,
+    "three": 75,
+    "stefan-j": 268,
+    "cdsmith": 850
+  },
+  "pulls_authors": [
+    "bbarker",
+    "kammitama5",
+    "jacksonsiew",
+    "rcook",
+    "cdsmith",
+    "byorgey",
+    "tgdavies",
+    "thSoft",
+    "alphalambda",
+    "chelseaharper",
+    "kant",
+    "parvmor",
+    "three",
+    "venkat24",
+    "pranjaltale16",
+    "sassela",
+    "kaustubhhiware",
+    "nomeata",
+    "peterbecich",
+    "hvardhanx",
+    "2016rshah",
+    "shauryab98",
+    "stefan-j",
+    "lhmzhou",
+    "joshcough",
+    "liangxianzhe",
+    "luite"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 459996,
+      "color": "#5e5086"
+    },
+    "JavaScript": {
+      "bytes": 186952,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 53116,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 26996,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 13820,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 296,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T07:38:42.176Z"
+}

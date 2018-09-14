@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "butty",
+  "full_name": "biglizards/butty",
+  "owner": "biglizards",
+  "private": false,
+  "html_url": "https://github.com/biglizards/butty",
+  "description": "No description, website, or topics provided",
+  "fork": false,
+  "url": "https://api.github.com/repos/biglizards/butty",
+  "languages_url": "https://api.github.com/repos/biglizards/butty/languages",
+  "created_at": "2016-09-30T06:45:58Z",
+  "updated_at": "2018-07-19T19:03:12Z",
+  "pushed_at": "2018-07-19T19:02:52Z",
+  "homepage": "",
+  "size": 912,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "heyitswither": 12,
+    "biglizards": 237,
+    "largereptile": 282
+  },
+  "languages": {
+    "Python": {
+      "bytes": 71855,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/biglizards/butty/pulls{/number}",
+  "pulls_authors": [
+    "heyitswither",
+    "biglizards"
+  ]
+}

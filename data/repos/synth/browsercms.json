@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "browsercms",
+  "full_name": "synth/browsercms",
+  "owner": "synth",
+  "private": false,
+  "html_url": "https://github.com/synth/browsercms",
+  "description": "BrowserCMS: Humane Content Management for Rails",
+  "fork": true,
+  "url": "https://api.github.com/repos/synth/browsercms",
+  "languages_url": "https://api.github.com/repos/synth/browsercms/languages",
+  "pulls_url": "https://api.github.com/repos/synth/browsercms/pulls{/number}",
+  "created_at": "2010-12-26T22:12:24Z",
+  "updated_at": "2012-12-16T04:01:37Z",
+  "pushed_at": "2011-01-03T08:35:50Z",
+  "homepage": "http://browsercms.org",
+  "size": 10131,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ahx": 1,
+    "jackdempsey": 1,
+    "schoefmann": 1,
+    "magpieuk": 1,
+    "joshuavial": 1,
+    "daemianmack": 1,
+    "cbonnet99": 2,
+    "philm": 3,
+    "djcp": 5,
+    "nate": 6,
+    "k1mmeh": 7,
+    "ssoper": 10,
+    "jonleighton": 14,
+    "jdettmann": 34,
+    "pjb3": 128,
+    "peakpg": 133
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 718107,
+      "color": "#f1e05a"
+    },
+    "Ruby": {
+      "bytes": 716045,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T23:12:22.270Z"
+}

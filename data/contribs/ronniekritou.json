@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "ronniekritou/gotelapi": {
+      "full_name": "ronniekritou/gotelapi",
+      "name": "gotelapi",
+      "stargazers_count": 3,
+      "popularity": 1.3222565221025262,
+      "percentage": 84.61538461538461,
+      "maturity": 0,
+      "total_commits_count": 39,
+      "activity": 0.7431422374652277,
+      "total_score": 19.254733546900596,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "TelAPI/telapi-java": {
+      "full_name": "TelAPI/telapi-java",
+      "name": "telapi-java",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 2.380952380952381,
+      "maturity": 1.323873088726792,
+      "total_commits_count": 42,
+      "activity": 0.5903565218454796,
+      "total_score": 6.684734190764984,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "TelAPI/telapi-php": {
+      "full_name": "TelAPI/telapi-php",
+      "name": "telapi-php",
+      "stargazers_count": 3,
+      "popularity": 1.3222565221025262,
+      "percentage": 4.3478260869565215,
+      "maturity": 0,
+      "total_commits_count": 23,
+      "activity": 0.5903570670131071,
+      "total_score": 5.3044890153786355,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ronniekritou/goapns": {
+      "full_name": "ronniekritou/goapns",
+      "name": "goapns",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 29.41176470588235,
+      "maturity": 0,
+      "total_commits_count": 17,
+      "activity": 0.38562984451619986,
+      "total_score": 0.38562984451619986,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "TelAPI"
+  ]
+}

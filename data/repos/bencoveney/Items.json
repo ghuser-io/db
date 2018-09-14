@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Items",
+  "full_name": "bencoveney/Items",
+  "owner": "bencoveney",
+  "private": false,
+  "html_url": "https://github.com/bencoveney/Items",
+  "description": "Library for use in the construction and utilization of domain specific models",
+  "fork": false,
+  "url": "https://api.github.com/repos/bencoveney/Items",
+  "languages_url": "https://api.github.com/repos/bencoveney/Items/languages",
+  "pulls_url": "https://api.github.com/repos/bencoveney/Items/pulls{/number}",
+  "created_at": "2015-05-16T09:50:57Z",
+  "updated_at": "2016-11-13T19:51:19Z",
+  "pushed_at": "2017-05-14T19:15:14Z",
+  "homepage": null,
+  "size": 4179,
+  "stargazers_count": 4,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "bencoveney": 78
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 248828,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-08-17T11:57:02.420Z"
+}

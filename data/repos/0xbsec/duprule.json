@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "duprule",
+  "full_name": "0xbsec/duprule",
+  "owner": "0xbsec",
+  "private": false,
+  "html_url": "https://github.com/0xbsec/duprule",
+  "description": "Detect & filter duplicate hashcat rules",
+  "fork": false,
+  "url": "https://api.github.com/repos/0xbsec/duprule",
+  "languages_url": "https://api.github.com/repos/0xbsec/duprule/languages",
+  "pulls_url": "https://api.github.com/repos/0xbsec/duprule/pulls{/number}",
+  "created_at": "2016-07-28T17:14:27Z",
+  "updated_at": "2018-02-13T07:37:34Z",
+  "pushed_at": "2017-09-11T19:29:57Z",
+  "homepage": "",
+  "size": 71,
+  "stargazers_count": 6,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "roycewilliams": 2,
+    "0xbsec": 81
+  },
+  "pulls_authors": [
+    "roycewilliams",
+    "0xbsec"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 53156,
+      "color": "#dea584"
+    }
+  },
+  "fetched_at": "2018-09-11T17:04:52.831Z"
+}

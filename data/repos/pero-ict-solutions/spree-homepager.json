@@ -1,0 +1,74 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "spree-homepager",
+  "full_name": "pero-ict-solutions/spree-homepager",
+  "owner": "pero-ict-solutions",
+  "private": false,
+  "html_url": "https://github.com/pero-ict-solutions/spree-homepager",
+  "description": "Spree extension to create a homepage with some \"featured\" products.",
+  "fork": false,
+  "url": "https://api.github.com/repos/pero-ict-solutions/spree-homepager",
+  "languages_url": "https://api.github.com/repos/pero-ict-solutions/spree-homepager/languages",
+  "pulls_url": "https://api.github.com/repos/pero-ict-solutions/spree-homepager/pulls{/number}",
+  "created_at": "2010-04-16T14:31:24Z",
+  "updated_at": "2017-06-16T12:07:33Z",
+  "pushed_at": "2011-11-01T13:25:04Z",
+  "homepage": "",
+  "size": 228,
+  "stargazers_count": 33,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pero-ict-solutions",
+    "id": 677207,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY3NzIwNw==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/677207?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pero-ict-solutions",
+    "html_url": "https://github.com/pero-ict-solutions",
+    "followers_url": "https://api.github.com/users/pero-ict-solutions/followers",
+    "following_url": "https://api.github.com/users/pero-ict-solutions/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pero-ict-solutions/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pero-ict-solutions/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pero-ict-solutions/subscriptions",
+    "organizations_url": "https://api.github.com/users/pero-ict-solutions/orgs",
+    "repos_url": "https://api.github.com/users/pero-ict-solutions/repos",
+    "events_url": "https://api.github.com/users/pero-ict-solutions/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pero-ict-solutions/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "tomash": 1,
+    "modology": 1,
+    "joneslee85": 1,
+    "peterz": 2,
+    "peterberkenbosch": 30
+  },
+  "pulls_authors": [
+    "buddhi-desilva",
+    "tomash",
+    "modology",
+    "peterz"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 45085,
+      "color": "#f1e05a"
+    },
+    "Ruby": {
+      "bytes": 7039,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T16:53:08.819Z"
+}

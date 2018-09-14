@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "jeffbarg/SwipeView": {
+      "full_name": "jeffbarg/SwipeView",
+      "name": "SwipeView",
+      "stargazers_count": 31,
+      "popularity": 2.478605454390306,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 5,
+      "total_score": 44.6576872702449,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jeffbarg/Littlecoin": {
+      "full_name": "jeffbarg/Littlecoin",
+      "name": "Littlecoin",
+      "stargazers_count": 9,
+      "popularity": 1.9085236249774054,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 34,
+      "activity": 5,
+      "total_score": 35.53637799963849,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "avelino/awesome-go": {
+      "full_name": "avelino/awesome-go",
+      "name": "awesome-go",
+      "stargazers_count": 35114,
+      "popularity": 5,
+      "percentage": 0,
+      "maturity": 4.230931540259256,
+      "total_commits_count": 1735,
+      "activity": 5,
+      "total_score": 28.461863080518512,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

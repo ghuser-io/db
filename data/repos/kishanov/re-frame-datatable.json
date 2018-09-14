@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "re-frame-datatable",
+  "full_name": "kishanov/re-frame-datatable",
+  "owner": "kishanov",
+  "private": false,
+  "html_url": "https://github.com/kishanov/re-frame-datatable",
+  "description": "DataTable component for re-frame library",
+  "fork": false,
+  "url": "https://api.github.com/repos/kishanov/re-frame-datatable",
+  "languages_url": "https://api.github.com/repos/kishanov/re-frame-datatable/languages",
+  "pulls_url": "https://api.github.com/repos/kishanov/re-frame-datatable/pulls{/number}",
+  "created_at": "2016-12-14T19:39:52Z",
+  "updated_at": "2018-09-05T15:39:57Z",
+  "pushed_at": "2017-09-10T00:32:53Z",
+  "homepage": "https://kishanov.github.io/re-frame-datatable/",
+  "size": 1440,
+  "stargazers_count": 65,
+  "language": "Clojure",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "epl-1.0",
+    "name": "Eclipse Public License 1.0",
+    "spdx_id": "EPL-1.0",
+    "url": "https://api.github.com/licenses/epl-1.0",
+    "node_id": "MDc6TGljZW5zZTc="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "pedrorgirardi": 1,
+    "smee": 1,
+    "ShortTrack": 3,
+    "kishanov": 23
+  },
+  "pulls_authors": [
+    "pedrorgirardi",
+    "ChrisHacker",
+    "kishanov",
+    "smee"
+  ],
+  "languages": {
+    "Clojure": {
+      "bytes": 18765,
+      "color": "#db5855"
+    }
+  },
+  "fetched_at": "2018-09-11T13:51:46.984Z"
+}

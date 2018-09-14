@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "StickersPlayBot",
+  "full_name": "TiagoDanin/StickersPlayBot",
+  "owner": "TiagoDanin",
+  "private": false,
+  "html_url": "https://github.com/TiagoDanin/StickersPlayBot",
+  "description": "Telegram bot - @StickersPlayBot",
+  "fork": false,
+  "url": "https://api.github.com/repos/TiagoDanin/StickersPlayBot",
+  "languages_url": "https://api.github.com/repos/TiagoDanin/StickersPlayBot/languages",
+  "pulls_url": "https://api.github.com/repos/TiagoDanin/StickersPlayBot/pulls{/number}",
+  "created_at": "2018-05-23T18:34:45Z",
+  "updated_at": "2018-09-11T19:57:00Z",
+  "pushed_at": "2018-09-11T19:57:04Z",
+  "homepage": null,
+  "size": 49,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "renovate-bot": 6,
+    "TiagoDanin": 16
+  },
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6390,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:40.913Z"
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "haskell-tetris",
+  "full_name": "hauxir/haskell-tetris",
+  "owner": "hauxir",
+  "private": false,
+  "html_url": "https://github.com/hauxir/haskell-tetris",
+  "description": "Tetris game written in Haskell using ncurses",
+  "fork": false,
+  "url": "https://api.github.com/repos/hauxir/haskell-tetris",
+  "languages_url": "https://api.github.com/repos/hauxir/haskell-tetris/languages",
+  "pulls_url": "https://api.github.com/repos/hauxir/haskell-tetris/pulls{/number}",
+  "created_at": "2014-12-08T15:52:25Z",
+  "updated_at": "2018-09-08T09:05:41Z",
+  "pushed_at": "2017-11-01T22:34:19Z",
+  "homepage": null,
+  "size": 43,
+  "stargazers_count": 46,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mihaimaruseacleapyear": 4,
+    "mihaimaruseac": 14,
+    "hauxir": 31
+  },
+  "pulls_authors": [
+    "mihaimaruseac"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 15891,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-11T17:10:00.918Z"
+}

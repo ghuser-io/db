@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "resque-status",
+  "full_name": "kronos/resque-status",
+  "owner": "kronos",
+  "private": false,
+  "html_url": "https://github.com/kronos/resque-status",
+  "description": "resque-status is an extension to the resque queue system that provides simple trackable jobs.",
+  "fork": true,
+  "url": "https://api.github.com/repos/kronos/resque-status",
+  "languages_url": "https://api.github.com/repos/kronos/resque-status/languages",
+  "pulls_url": "https://api.github.com/repos/kronos/resque-status/pulls{/number}",
+  "created_at": "2010-08-10T12:33:46Z",
+  "updated_at": "2012-12-15T01:50:17Z",
+  "pushed_at": "2010-08-11T11:42:40Z",
+  "homepage": "",
+  "size": 159,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dbalatero": 1,
+    "karmi": 1,
+    "AndrewO": 1,
+    "kronos": 3,
+    "zapnap": 3,
+    "quirkey": 51
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 26688,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:33.010Z"
+}

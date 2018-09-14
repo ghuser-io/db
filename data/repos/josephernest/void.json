@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "eBerdnA": 1,
+    "alexanderpas": 1,
+    "Calinou": 1,
+    "g-sato": 2,
+    "Tharre": 2,
+    "josephernest": 30
+  },
+  "name": "void",
+  "full_name": "josephernest/void",
+  "owner": "josephernest",
+  "private": false,
+  "html_url": "https://github.com/josephernest/void",
+  "description": "Void is a blogging platform.",
+  "fork": false,
+  "url": "https://api.github.com/repos/josephernest/void",
+  "languages_url": "https://api.github.com/repos/josephernest/void/languages",
+  "created_at": "2015-04-06T09:17:52Z",
+  "updated_at": "2018-09-07T10:55:31Z",
+  "pushed_at": "2018-05-08T19:02:07Z",
+  "homepage": null,
+  "size": 47,
+  "stargazers_count": 166,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "PHP": {
+      "bytes": 41510,
+      "color": "#4F5D95"
+    },
+    "CSS": {
+      "bytes": 2292,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-07T11:20:52.961Z",
+  "pulls_url": "https://api.github.com/repos/josephernest/void/pulls{/number}",
+  "pulls_authors": [
+    "apmuthu",
+    "nderambure",
+    "g-sato",
+    "Tharre",
+    "eBerdnA",
+    "boralp",
+    "alexanderpas",
+    "lfkeitel",
+    "Calinou"
+  ]
+}

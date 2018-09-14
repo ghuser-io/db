@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "advaita.io",
+  "full_name": "sr6033/advaita.io",
+  "owner": "sr6033",
+  "private": false,
+  "html_url": "https://github.com/sr6033/advaita.io",
+  "description": "The official website of IIIT Bhubaneswar's annual techno-cult fest.",
+  "fork": false,
+  "url": "https://api.github.com/repos/sr6033/advaita.io",
+  "languages_url": "https://api.github.com/repos/sr6033/advaita.io/languages",
+  "created_at": "2017-09-04T17:21:07Z",
+  "updated_at": "2018-07-25T07:12:12Z",
+  "pushed_at": "2018-06-26T07:32:55Z",
+  "homepage": "",
+  "size": 676,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sr6033": 4
+  },
+  "languages": {
+    "CSS": {
+      "bytes": 31551,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 20237,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 7078,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/sr6033/advaita.io/pulls{/number}",
+  "pulls_authors": []
+}

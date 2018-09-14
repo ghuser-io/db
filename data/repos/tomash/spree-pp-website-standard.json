@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "spree-pp-website-standard",
+  "full_name": "tomash/spree-pp-website-standard",
+  "owner": "tomash",
+  "private": false,
+  "html_url": "https://github.com/tomash/spree-pp-website-standard",
+  "description": "Paypal Website Payments Standard Extension for Spree, the open source shopping cart",
+  "fork": false,
+  "url": "https://api.github.com/repos/tomash/spree-pp-website-standard",
+  "languages_url": "https://api.github.com/repos/tomash/spree-pp-website-standard/languages",
+  "pulls_url": "https://api.github.com/repos/tomash/spree-pp-website-standard/pulls{/number}",
+  "created_at": "2010-11-10T09:02:39Z",
+  "updated_at": "2015-11-05T06:20:33Z",
+  "pushed_at": "2014-12-29T14:20:09Z",
+  "homepage": "",
+  "size": 497,
+  "stargazers_count": 29,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jamesotron": 2,
+    "msharp": 2,
+    "mutalis": 4,
+    "kennyadsl": 5,
+    "Gregg": 5,
+    "buddhi-desilva": 15,
+    "schof": 24,
+    "tomash": 63
+  },
+  "pulls_authors": [
+    "hoverlover",
+    "cboyd-iseatz",
+    "hector",
+    "buddhi-desilva",
+    "jamesotron",
+    "msharp",
+    "Seppone",
+    "kennyadsl",
+    "mutalis"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 14552,
+      "color": "#701516"
+    },
+    "CSS": {
+      "bytes": 70,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 58,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T16:53:05.543Z"
+}

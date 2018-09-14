@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "is-pwa",
+  "full_name": "itaditya/is-pwa",
+  "owner": "itaditya",
+  "private": false,
+  "html_url": "https://github.com/itaditya/is-pwa",
+  "description": "Detects if a given URL is a Progressive WebApp (PWA.)",
+  "fork": true,
+  "url": "https://api.github.com/repos/itaditya/is-pwa",
+  "languages_url": "https://api.github.com/repos/itaditya/is-pwa/languages",
+  "pulls_url": "https://api.github.com/repos/itaditya/is-pwa/pulls{/number}",
+  "created_at": "2017-09-24T19:37:17Z",
+  "updated_at": "2018-09-03T10:19:07Z",
+  "pushed_at": "2017-09-24T19:56:18Z",
+  "homepage": "https://git.io/is-pwa",
+  "size": 8,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "hemanth": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2307,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-03T12:57:34.264Z"
+}

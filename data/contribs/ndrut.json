@@ -1,0 +1,127 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "ndrut/docker-tinc": {
+      "full_name": "ndrut/docker-tinc",
+      "name": "docker-tinc",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 6,
+      "activity": 0.7994900403641942,
+      "total_score": 17.462341567451237,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "IdleLands/IdleLandsOld": {
+      "full_name": "IdleLands/IdleLandsOld",
+      "name": "IdleLandsOld",
+      "stargazers_count": 40,
+      "popularity": 2.5922157460826476,
+      "percentage": 0.13869625520110956,
+      "maturity": 4.328706687315712,
+      "total_commits_count": 2163,
+      "activity": 0.7025574241538903,
+      "total_score": 17.18335701719841,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "rvagg/archived-node-libssh": {
+      "full_name": "rvagg/archived-node-libssh",
+      "name": "archived-node-libssh",
+      "stargazers_count": 128,
+      "popularity": 3.1041846084544136,
+      "percentage": 4.444444444444445,
+      "maturity": 2.7015705856761913,
+      "total_commits_count": 90,
+      "activity": 0.4824738533756481,
+      "total_score": 16.991697734976047,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "v0lkan/o2.js": {
+      "full_name": "v0lkan/o2.js",
+      "name": "o2.js",
+      "stargazers_count": 73,
+      "popularity": 2.8579742991606407,
+      "percentage": 0.17301038062283736,
+      "maturity": 3.7325989886244915,
+      "total_commits_count": 578,
+      "activity": 0.7701347933740976,
+      "total_score": 16.87353536687505,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "cloudhead/http-console": {
+      "full_name": "cloudhead/http-console",
+      "name": "http-console",
+      "stargazers_count": 1332,
+      "popularity": 4.124249769153056,
+      "percentage": 3.8461538461538463,
+      "maturity": 0,
+      "total_commits_count": 26,
+      "activity": 0.8187965584682839,
+      "total_score": 15.253670750503979,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "flatiron/cradle": {
+      "full_name": "flatiron/cradle",
+      "name": "cradle",
+      "stargazers_count": 1401,
+      "popularity": 4.14619814146637,
+      "percentage": 0.47619047619047616,
+      "maturity": 3.232439613495503,
+      "total_commits_count": 210,
+      "activity": 0.7392491121318336,
+      "total_score": 19.89939217227939,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "rla/fast-feed": {
+      "full_name": "rla/fast-feed",
+      "name": "fast-feed",
+      "stargazers_count": 21,
+      "popularity": 2.3032349516115587,
+      "percentage": 1.1764705882352942,
+      "maturity": 2.6559090182261387,
+      "total_commits_count": 85,
+      "activity": 2.6286113213885622,
+      "total_score": 15.202393675863163,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ndrut/node-dnsbl": {
+      "full_name": "ndrut/node-dnsbl",
+      "name": "node-dnsbl",
+      "stargazers_count": 15,
+      "popularity": 2.149257924096549,
+      "percentage": 97.5,
+      "maturity": 0,
+      "total_commits_count": 40,
+      "activity": 0.28857666305364127,
+      "total_score": 33.97819462326705,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "nodezoo/nodezoo-workshop": {
+      "full_name": "nodezoo/nodezoo-workshop",
+      "name": "nodezoo-workshop",
+      "stargazers_count": 185,
+      "popularity": 3.2650928559259493,
+      "percentage": 0.591715976331361,
+      "maturity": 3.1126612186182565,
+      "total_commits_count": 169,
+      "activity": 1.0110212376275967,
+      "total_score": 17.28278323155934,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "IdleLands",
+    "flatiron",
+    "nodezoo"
+  ]
+}

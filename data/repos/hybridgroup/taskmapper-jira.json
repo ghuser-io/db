@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "taskmapper-jira",
+  "full_name": "hybridgroup/taskmapper-jira",
+  "owner": "hybridgroup",
+  "private": false,
+  "html_url": "https://github.com/hybridgroup/taskmapper-jira",
+  "description": "TaskMapper bindings for Atlassian Jira",
+  "fork": true,
+  "url": "https://api.github.com/repos/hybridgroup/taskmapper-jira",
+  "languages_url": "https://api.github.com/repos/hybridgroup/taskmapper-jira/languages",
+  "pulls_url": "https://api.github.com/repos/hybridgroup/taskmapper-jira/pulls{/number}",
+  "created_at": "2011-05-11T15:03:25Z",
+  "updated_at": "2017-06-02T21:40:04Z",
+  "pushed_at": "2017-05-03T13:56:53Z",
+  "homepage": "http://github.com/hybridgroup/taskmapper-jira",
+  "size": 312,
+  "stargazers_count": 3,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "hybridgroup",
+    "id": 212109,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIxMjEwOQ==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/212109?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hybridgroup",
+    "html_url": "https://github.com/hybridgroup",
+    "followers_url": "https://api.github.com/users/hybridgroup/followers",
+    "following_url": "https://api.github.com/users/hybridgroup/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hybridgroup/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hybridgroup/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hybridgroup/subscriptions",
+    "organizations_url": "https://api.github.com/users/hybridgroup/orgs",
+    "repos_url": "https://api.github.com/users/hybridgroup/repos",
+    "events_url": "https://api.github.com/users/hybridgroup/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hybridgroup/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "cowboyd": 4,
+    "cored": 67
+  },
+  "pulls_authors": [
+    "peterschwarz"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 15323,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T17:14:26.698Z"
+}

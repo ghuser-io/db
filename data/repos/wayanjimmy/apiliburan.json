@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "apiliburan",
+  "full_name": "wayanjimmy/apiliburan",
+  "owner": "wayanjimmy",
+  "private": false,
+  "html_url": "https://github.com/wayanjimmy/apiliburan",
+  "description": "API Hari libur nasional",
+  "fork": false,
+  "url": "https://api.github.com/repos/wayanjimmy/apiliburan",
+  "languages_url": "https://api.github.com/repos/wayanjimmy/apiliburan/languages",
+  "pulls_url": "https://api.github.com/repos/wayanjimmy/apiliburan/pulls{/number}",
+  "created_at": "2018-06-16T13:58:36Z",
+  "updated_at": "2018-08-24T02:17:56Z",
+  "pushed_at": "2018-06-23T13:39:54Z",
+  "homepage": "https://apiliburan.now.sh/ping",
+  "size": 67,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "wayanjimmy": 15
+  },
+  "pulls_authors": [
+    "wayanjimmy"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 4665,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:31.949Z"
+}

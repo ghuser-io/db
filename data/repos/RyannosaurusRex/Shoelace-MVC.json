@@ -1,0 +1,68 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Shoelace-MVC",
+  "full_name": "RyannosaurusRex/Shoelace-MVC",
+  "owner": "RyannosaurusRex",
+  "private": false,
+  "html_url": "https://github.com/RyannosaurusRex/Shoelace-MVC",
+  "description": "An ASP.NET MVC Project Template for building Software as a Service (SaaS) and multi-tenant applications quickly using Twitter's Bootstrap UI Framework.",
+  "fork": false,
+  "url": "https://api.github.com/repos/RyannosaurusRex/Shoelace-MVC",
+  "languages_url": "https://api.github.com/repos/RyannosaurusRex/Shoelace-MVC/languages",
+  "pulls_url": "https://api.github.com/repos/RyannosaurusRex/Shoelace-MVC/pulls{/number}",
+  "created_at": "2011-10-08T15:19:28Z",
+  "updated_at": "2018-06-12T15:20:27Z",
+  "pushed_at": "2013-11-14T20:13:04Z",
+  "homepage": "http://ryanhayes.net/blog/shoelacemvc-open-source-asp-net-mvc-3-starter-project-for-build/",
+  "size": 9971,
+  "stargazers_count": 82,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ccallebs": 1,
+    "jeff-french": 6,
+    "RyannosaurusRex": 79
+  },
+  "pulls_authors": [
+    "gsawczuk",
+    "petelopez",
+    "jeff-french",
+    "ccallebs"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1030818,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 883938,
+      "color": "#563d7c"
+    },
+    "C#": {
+      "bytes": 291230,
+      "color": "#178600"
+    },
+    "XSLT": {
+      "bytes": 21416,
+      "color": "#EB8CEB"
+    },
+    "ASP": {
+      "bytes": 516,
+      "color": "#6a40fd"
+    },
+    "Shell": {
+      "bytes": 337,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:06.584Z"
+}

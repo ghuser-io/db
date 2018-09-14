@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "html5ever_elixir",
+  "full_name": "hansihe/html5ever_elixir",
+  "owner": "hansihe",
+  "private": false,
+  "html_url": "https://github.com/hansihe/html5ever_elixir",
+  "description": "NIF wrapper of html5ever using Rustler",
+  "fork": false,
+  "url": "https://api.github.com/repos/hansihe/html5ever_elixir",
+  "languages_url": "https://api.github.com/repos/hansihe/html5ever_elixir/languages",
+  "created_at": "2017-01-13T18:55:04Z",
+  "updated_at": "2018-08-18T10:01:53Z",
+  "pushed_at": "2018-08-01T10:03:15Z",
+  "homepage": null,
+  "size": 213,
+  "stargazers_count": 36,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "philss": 1,
+    "notriddle": 1,
+    "hansihe": 15
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 37069,
+      "color": "#e34c26"
+    },
+    "Rust": {
+      "bytes": 18708,
+      "color": "#dea584"
+    },
+    "Elixir": {
+      "bytes": 6567,
+      "color": "#6e4a7e"
+    }
+  },
+  "fetched_at": "2018-08-18T20:08:06.082Z",
+  "pulls_url": "https://api.github.com/repos/hansihe/html5ever_elixir/pulls{/number}",
+  "pulls_authors": [
+    "mfeckie",
+    "jessedijkstra",
+    "philss",
+    "notriddle"
+  ]
+}

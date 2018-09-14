@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "universal-analytics",
+  "full_name": "cheeaun/universal-analytics",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/universal-analytics",
+  "description": "A node module for Google's Universal Analytics tracking",
+  "fork": true,
+  "url": "https://api.github.com/repos/cheeaun/universal-analytics",
+  "languages_url": "https://api.github.com/repos/cheeaun/universal-analytics/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/universal-analytics/pulls{/number}",
+  "created_at": "2013-08-18T07:39:45Z",
+  "updated_at": "2015-04-13T05:15:47Z",
+  "pushed_at": "2013-08-18T07:45:17Z",
+  "homepage": null,
+  "size": 78,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 1,
+    "macrauder": 1,
+    "jtillmann": 37
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 96934,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T19:00:13.874Z"
+}

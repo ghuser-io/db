@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "QuasarRAT",
+  "full_name": "hakonamatata/QuasarRAT",
+  "owner": "hakonamatata",
+  "private": false,
+  "html_url": "https://github.com/hakonamatata/QuasarRAT",
+  "description": "Remote Administration Tool for Windows",
+  "fork": true,
+  "url": "https://api.github.com/repos/hakonamatata/QuasarRAT",
+  "languages_url": "https://api.github.com/repos/hakonamatata/QuasarRAT/languages",
+  "pulls_url": "https://api.github.com/repos/hakonamatata/QuasarRAT/pulls{/number}",
+  "created_at": "2015-10-19T06:33:52Z",
+  "updated_at": "2017-04-20T14:28:36Z",
+  "pushed_at": "2015-10-21T14:28:13Z",
+  "homepage": "",
+  "size": 3558,
+  "stargazers_count": 1,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "maddnias": 1,
+    "ShittyAdvice": 1,
+    "Crash129": 2,
+    "SandPox": 3,
+    "DragonzMaster": 3,
+    "rotthh": 4,
+    "tidusjar": 5,
+    "abdullah2993": 6,
+    "yankejustin": 131,
+    "MaxXor": 575
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 1109285,
+      "color": "#178600"
+    },
+    "Batchfile": {
+      "bytes": 224,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-11T20:47:41.600Z"
+}

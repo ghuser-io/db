@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "toxpython",
+  "full_name": "yodakohl/toxpython",
+  "owner": "yodakohl",
+  "private": false,
+  "html_url": "https://github.com/yodakohl/toxpython",
+  "description": "python bindings for toxcore",
+  "fork": false,
+  "url": "https://api.github.com/repos/yodakohl/toxpython",
+  "languages_url": "https://api.github.com/repos/yodakohl/toxpython/languages",
+  "pulls_url": "https://api.github.com/repos/yodakohl/toxpython/pulls{/number}",
+  "created_at": "2015-03-30T15:53:06Z",
+  "updated_at": "2018-07-17T12:19:35Z",
+  "pushed_at": "2017-08-03T20:47:43Z",
+  "homepage": null,
+  "size": 116,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "merlink01": 8,
+    "yodakohl": 10
+  },
+  "pulls_authors": [
+    "merlink01"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 139809,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T16:54:22.452Z"
+}

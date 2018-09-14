@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "haste_map",
+  "full_name": "aaronabramov/haste_map",
+  "owner": "aaronabramov",
+  "private": false,
+  "html_url": "https://github.com/aaronabramov/haste_map",
+  "description": "jest-haste-map fork written in rust",
+  "fork": false,
+  "url": "https://api.github.com/repos/aaronabramov/haste_map",
+  "languages_url": "https://api.github.com/repos/aaronabramov/haste_map/languages",
+  "pulls_url": "https://api.github.com/repos/aaronabramov/haste_map/pulls{/number}",
+  "created_at": "2018-05-21T14:13:22Z",
+  "updated_at": "2018-05-28T07:17:22Z",
+  "pushed_at": "2018-05-24T11:38:56Z",
+  "homepage": "",
+  "size": 68,
+  "stargazers_count": 5,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "aaronabramov": 4,
+    "captbaritone": 13
+  },
+  "pulls_authors": [
+    "captbaritone",
+    "aaronabramov"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 12367,
+      "color": "#dea584"
+    },
+    "JavaScript": {
+      "bytes": 1818,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 1142,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:34.964Z"
+}

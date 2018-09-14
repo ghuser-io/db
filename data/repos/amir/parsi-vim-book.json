@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "parsi-vim-book",
+  "full_name": "amir/parsi-vim-book",
+  "owner": "amir",
+  "private": false,
+  "html_url": "https://github.com/amir/parsi-vim-book",
+  "description": "Parsi vim book, written in TeX",
+  "fork": false,
+  "url": "https://api.github.com/repos/amir/parsi-vim-book",
+  "languages_url": "https://api.github.com/repos/amir/parsi-vim-book/languages",
+  "pulls_url": "https://api.github.com/repos/amir/parsi-vim-book/pulls{/number}",
+  "created_at": "2008-11-22T09:55:38Z",
+  "updated_at": "2016-05-08T17:35:39Z",
+  "pushed_at": "2008-11-22T19:06:18Z",
+  "homepage": "",
+  "size": 88,
+  "stargazers_count": 3,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "amir": 5
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-11T22:27:05.220Z"
+}

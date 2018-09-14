@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Egg-Catching-Game",
+  "full_name": "jamesgeorge007/Egg-Catching-Game",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/Egg-Catching-Game",
+  "description": "Traditional Egg Catching Game clone in the C programming language on DOS based environment using the native Graphics library.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/Egg-Catching-Game",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/Egg-Catching-Game/languages",
+  "created_at": "2018-02-18T12:47:15Z",
+  "updated_at": "2018-05-09T05:53:22Z",
+  "pushed_at": "2018-04-01T18:22:05Z",
+  "homepage": "",
+  "size": 47,
+  "stargazers_count": 3,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "CodeYourIdeas": 2,
+    "jamesgeorge007": 22
+  },
+  "languages": {
+    "C": {
+      "bytes": 11475,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/Egg-Catching-Game/pulls{/number}",
+  "pulls_authors": [
+    "jamesgeorge007",
+    "CodeYourIdeas"
+  ]
+}

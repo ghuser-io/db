@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "converter",
+  "full_name": "moul/converter",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/converter",
+  "description": ":scissors: multiformat data conversion",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/converter",
+  "languages_url": "https://api.github.com/repos/moul/converter/languages",
+  "pulls_url": "https://api.github.com/repos/moul/converter/pulls{/number}",
+  "created_at": "2015-11-17T23:10:29Z",
+  "updated_at": "2017-07-27T10:11:27Z",
+  "pushed_at": "2018-08-18T16:12:17Z",
+  "homepage": null,
+  "size": 344,
+  "stargazers_count": 4,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 66
+  },
+  "pulls_authors": [
+    "imgbot[bot]"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 37171,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 1897,
+      "color": "#427819"
+    },
+    "Ruby": {
+      "bytes": 1224,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 310,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:47.402Z"
+}

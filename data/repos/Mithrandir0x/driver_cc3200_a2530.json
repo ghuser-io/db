@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "driver_cc3200_a2530",
+  "full_name": "Mithrandir0x/driver_cc3200_a2530",
+  "owner": "Mithrandir0x",
+  "private": false,
+  "html_url": "https://github.com/Mithrandir0x/driver_cc3200_a2530",
+  "description": "Static library to connect a CC3200XL with an Anaren A2530 Transceiver shield",
+  "fork": false,
+  "url": "https://api.github.com/repos/Mithrandir0x/driver_cc3200_a2530",
+  "languages_url": "https://api.github.com/repos/Mithrandir0x/driver_cc3200_a2530/languages",
+  "pulls_url": "https://api.github.com/repos/Mithrandir0x/driver_cc3200_a2530/pulls{/number}",
+  "created_at": "2015-01-15T10:22:46Z",
+  "updated_at": "2015-02-18T07:57:15Z",
+  "pushed_at": "2015-02-05T17:52:24Z",
+  "homepage": null,
+  "size": 256,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Mithrandir0x": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 200379,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 14150,
+      "color": "#f34b7d"
+    },
+    "Shell": {
+      "bytes": 7046,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:37:20.301Z"
+}

@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vim-choosewin",
+  "full_name": "captbaritone/vim-choosewin",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/vim-choosewin",
+  "description": "Land on window you chose like tmux's 'display-pane'",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/vim-choosewin",
+  "languages_url": "https://api.github.com/repos/captbaritone/vim-choosewin/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/vim-choosewin/pulls{/number}",
+  "created_at": "2015-09-18T16:14:16Z",
+  "updated_at": "2018-07-29T22:17:02Z",
+  "pushed_at": "2015-09-27T00:29:42Z",
+  "homepage": "",
+  "size": 309,
+  "stargazers_count": 1,
+  "language": "VimL",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "tao12345666333": 1,
+    "lkdjiin": 1,
+    "wikimatze": 2,
+    "KevinSjoberg": 3,
+    "t9md": 203
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Vim script": {
+      "bytes": 35494,
+      "color": "#199f4b"
+    },
+    "Ruby": {
+      "bytes": 827,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:55.611Z"
+}

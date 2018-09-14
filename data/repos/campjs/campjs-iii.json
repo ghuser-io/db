@@ -1,0 +1,91 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "campjs-iii",
+  "full_name": "campjs/campjs-iii",
+  "owner": "campjs",
+  "private": false,
+  "html_url": "https://github.com/campjs/campjs-iii",
+  "description": "The magic behind campjs.com",
+  "fork": false,
+  "url": "https://api.github.com/repos/campjs/campjs-iii",
+  "languages_url": "https://api.github.com/repos/campjs/campjs-iii/languages",
+  "pulls_url": "https://api.github.com/repos/campjs/campjs-iii/pulls{/number}",
+  "created_at": "2012-06-24T05:15:18Z",
+  "updated_at": "2017-06-26T03:09:20Z",
+  "pushed_at": "2015-03-25T06:56:46Z",
+  "homepage": "http://campjs.com/",
+  "size": 10368,
+  "stargazers_count": 31,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "gh-pages",
+  "organization": {
+    "login": "campjs",
+    "id": 1798557,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3OTg1NTc=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/1798557?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/campjs",
+    "html_url": "https://github.com/campjs",
+    "followers_url": "https://api.github.com/users/campjs/followers",
+    "following_url": "https://api.github.com/users/campjs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/campjs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/campjs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/campjs/subscriptions",
+    "organizations_url": "https://api.github.com/users/campjs/orgs",
+    "repos_url": "https://api.github.com/users/campjs/repos",
+    "events_url": "https://api.github.com/users/campjs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/campjs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "sporto": 1,
+    "sidorares": 1,
+    "pauljt": 1,
+    "codemiller": 1,
+    "domenic": 1,
+    "geelen": 1,
+    "pomke": 1,
+    "alexmackey": 1,
+    "soareschen": 2,
+    "hxoht": 2,
+    "hughsk": 2,
+    "davidmason": 3,
+    "JedWatson": 4,
+    "timoxley": 254
+  },
+  "pulls_authors": [
+    "davidmason",
+    "sporto",
+    "JedWatson",
+    "soareschen",
+    "hxoht",
+    "sidorares",
+    "pauljt",
+    "codemiller",
+    "domenic",
+    "geelen",
+    "pomke",
+    "alexmackey",
+    "hughsk",
+    "colingourlay"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 121491,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 11416,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 2543,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:39.478Z"
+}

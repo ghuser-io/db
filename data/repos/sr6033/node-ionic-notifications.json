@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-ionic-notifications",
+  "full_name": "sr6033/node-ionic-notifications",
+  "owner": "sr6033",
+  "private": false,
+  "html_url": "https://github.com/sr6033/node-ionic-notifications",
+  "description": "Project repo for my blogpost in medium:",
+  "fork": false,
+  "url": "https://api.github.com/repos/sr6033/node-ionic-notifications",
+  "languages_url": "https://api.github.com/repos/sr6033/node-ionic-notifications/languages",
+  "created_at": "2018-07-04T18:58:10Z",
+  "updated_at": "2018-08-24T18:00:20Z",
+  "pushed_at": "2018-07-04T19:54:38Z",
+  "homepage": "https://medium.com/@sr6033/independent-notification-service-using-ionic-node-fcm-5cdde219480a",
+  "size": 202,
+  "stargazers_count": 2,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sr6033": 4
+  },
+  "languages": {
+    "TypeScript": {
+      "bytes": 5151,
+      "color": "#2b7489"
+    },
+    "JavaScript": {
+      "bytes": 3390,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 2952,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 2852,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-24T23:01:23.031Z",
+  "pulls_url": "https://api.github.com/repos/sr6033/node-ionic-notifications/pulls{/number}",
+  "pulls_authors": []
+}

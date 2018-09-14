@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bank2ynab",
+  "full_name": "torbengb/bank2ynab",
+  "owner": "torbengb",
+  "private": false,
+  "html_url": "https://github.com/torbengb/bank2ynab",
+  "description": "A common project to consolidate all conversion efforts from various banks' export formats into YNAB's import format.",
+  "fork": false,
+  "url": "https://api.github.com/repos/torbengb/bank2ynab",
+  "languages_url": "https://api.github.com/repos/torbengb/bank2ynab/languages",
+  "pulls_url": "https://api.github.com/repos/torbengb/bank2ynab/pulls{/number}",
+  "created_at": "2017-10-10T07:22:58Z",
+  "updated_at": "2018-09-11T21:16:05Z",
+  "pushed_at": "2018-09-03T13:28:18Z",
+  "homepage": null,
+  "size": 423,
+  "stargazers_count": 35,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "develop",
+  "contributors": {
+    "martinth": 1,
+    "SebRut": 2,
+    "jd1": 3,
+    "duch11": 4,
+    "nejch": 4,
+    "njunxuan": 6,
+    "toyg": 16,
+    "torbengb": 181,
+    "nocalla": 237
+  },
+  "pulls_authors": [
+    "nocalla",
+    "duch11",
+    "nejch",
+    "jd1",
+    "torbengb",
+    "SebRut",
+    "martinth",
+    "diarmuidbourke",
+    "toyg"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 40095,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 1354,
+      "color": "#89e051"
+    },
+    "Batchfile": {
+      "bytes": 26,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:01.822Z"
+}

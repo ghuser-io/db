@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "petter-kaspersen/typescript-runescape": {
+      "full_name": "petter-kaspersen/typescript-runescape",
+      "name": "typescript-runescape",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 1.985033128141604,
+      "total_score": 1.985033128141604,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "petter-kaspersen/PoE-Rich-Presence": {
+      "full_name": "petter-kaspersen/PoE-Rich-Presence",
+      "name": "PoE-Rich-Presence",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 1.5219418520323882,
+      "total_score": 18.18479337911943,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Querijn/BottyMcBotface": {
+      "full_name": "Querijn/BottyMcBotface",
+      "name": "BottyMcBotface",
+      "stargazers_count": 11,
+      "popularity": 2.0043600754367907,
+      "percentage": 0.5037783375314862,
+      "maturity": 3.5545256835454,
+      "total_commits_count": 397,
+      "activity": 5,
+      "total_score": 18.253399507661516,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jimhigson/oboe.js-website": {
+      "full_name": "jimhigson/oboe.js-website",
+      "name": "oboe.js-website",
+      "stargazers_count": 33,
+      "popularity": 2.506543999292103,
+      "percentage": 0.3076923076923077,
+      "maturity": 3.4567329281137122,
+      "total_commits_count": 325,
+      "activity": 1.2908444617743338,
+      "total_score": 15.824204075849753,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

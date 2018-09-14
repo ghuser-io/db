@@ -1,0 +1,21 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "UNIRIO-SI/semana-cet": {
+      "full_name": "UNIRIO-SI/semana-cet",
+      "name": "semana-cet",
+      "stargazers_count": 4,
+      "popularity": 1.49139952161816,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 12,
+      "activity": 0.4138492694823226,
+      "total_score": 4.888047834336803,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "UNIRIO-SI"
+  ]
+}

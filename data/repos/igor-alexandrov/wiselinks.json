@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wiselinks",
+  "full_name": "igor-alexandrov/wiselinks",
+  "owner": "igor-alexandrov",
+  "private": false,
+  "html_url": "https://github.com/igor-alexandrov/wiselinks",
+  "description": "If Turbolinks are not enough for you. Wiselinks makes your application work faster.",
+  "fork": false,
+  "url": "https://api.github.com/repos/igor-alexandrov/wiselinks",
+  "languages_url": "https://api.github.com/repos/igor-alexandrov/wiselinks/languages",
+  "pulls_url": "https://api.github.com/repos/igor-alexandrov/wiselinks/pulls{/number}",
+  "created_at": "2012-11-21T12:58:36Z",
+  "updated_at": "2018-08-25T13:44:22Z",
+  "pushed_at": "2018-04-23T21:12:49Z",
+  "homepage": "",
+  "size": 6960,
+  "stargazers_count": 736,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "aduraj": 1,
+    "jumph4x": 1,
+    "incubus": 3,
+    "solilin": 3,
+    "cfiorini": 4,
+    "aishek": 9,
+    "igor-alexandrov": 163
+  },
+  "pulls_authors": [
+    "ppires",
+    "haffla",
+    "incubus",
+    "phlegx",
+    "raihan2006i",
+    "kshmir",
+    "aishek",
+    "ericboehs",
+    "eturino",
+    "araslanov-e",
+    "cfiorini",
+    "PikachuEXE",
+    "aduraj",
+    "hmaack",
+    "dbkbali",
+    "faustman",
+    "jumph4x",
+    "mathieul"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 358925,
+      "color": "#f1e05a"
+    },
+    "Ruby": {
+      "bytes": 26639,
+      "color": "#701516"
+    },
+    "CoffeeScript": {
+      "bytes": 15116,
+      "color": "#244776"
+    },
+    "CSS": {
+      "bytes": 1589,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T10:37:56.997Z"
+}

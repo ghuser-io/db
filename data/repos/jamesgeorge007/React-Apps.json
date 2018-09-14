@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "React-Apps",
+  "full_name": "jamesgeorge007/React-Apps",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/React-Apps",
+  "description": "Various sample projects that I created while in the path way of learning React JS.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/React-Apps",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/React-Apps/languages",
+  "created_at": "2018-04-29T13:15:35Z",
+  "updated_at": "2018-05-15T06:56:08Z",
+  "pushed_at": "2018-05-15T06:56:07Z",
+  "homepage": null,
+  "size": 419,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jamesgeorge007": 6
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 18837,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 6360,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1648,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/React-Apps/pulls{/number}",
+  "pulls_authors": []
+}

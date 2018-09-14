@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "itframe",
+  "full_name": "innovate-technologies/itframe",
+  "owner": "innovate-technologies",
+  "private": false,
+  "html_url": "https://github.com/innovate-technologies/itframe",
+  "description": " Innovate Technologies Framework - The central hub for SHOUTca.st",
+  "fork": false,
+  "url": "https://api.github.com/repos/innovate-technologies/itframe",
+  "languages_url": "https://api.github.com/repos/innovate-technologies/itframe/languages",
+  "pulls_url": "https://api.github.com/repos/innovate-technologies/itframe/pulls{/number}",
+  "created_at": "2015-07-28T18:55:35Z",
+  "updated_at": "2018-09-10T10:21:15Z",
+  "pushed_at": "2018-09-10T10:21:25Z",
+  "homepage": "",
+  "size": 26320,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "innovate-technologies",
+    "id": 11369360,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExMzY5MzYw",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/11369360?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/innovate-technologies",
+    "html_url": "https://github.com/innovate-technologies",
+    "followers_url": "https://api.github.com/users/innovate-technologies/followers",
+    "following_url": "https://api.github.com/users/innovate-technologies/following{/other_user}",
+    "gists_url": "https://api.github.com/users/innovate-technologies/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/innovate-technologies/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/innovate-technologies/subscriptions",
+    "organizations_url": "https://api.github.com/users/innovate-technologies/orgs",
+    "repos_url": "https://api.github.com/users/innovate-technologies/repos",
+    "events_url": "https://api.github.com/users/innovate-technologies/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/innovate-technologies/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "dependabot-bot": 4,
+    "snyk-bot": 7,
+    "dependabot[bot]": 36,
+    "leoetlino": 37,
+    "meyskens": 325
+  },
+  "pulls_authors": [
+    "dependabot[bot]",
+    "meyskens",
+    "snyk-bot",
+    "leoetlino"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 237048,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 1823,
+      "color": "#89e051"
+    },
+    "Dockerfile": {
+      "bytes": 650,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-11T20:50:10.077Z"
+}

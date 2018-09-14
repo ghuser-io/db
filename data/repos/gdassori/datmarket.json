@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "datmarket",
+  "full_name": "gdassori/datmarket",
+  "owner": "gdassori",
+  "private": false,
+  "html_url": "https://github.com/gdassori/datmarket",
+  "description": "Bitcoin exchangers data collector",
+  "fork": false,
+  "url": "https://api.github.com/repos/gdassori/datmarket",
+  "languages_url": "https://api.github.com/repos/gdassori/datmarket/languages",
+  "pulls_url": "https://api.github.com/repos/gdassori/datmarket/pulls{/number}",
+  "created_at": "2014-01-20T06:22:06Z",
+  "updated_at": "2015-02-10T17:05:12Z",
+  "pushed_at": "2015-02-10T17:05:12Z",
+  "homepage": null,
+  "size": 147,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "gdassori": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 96292,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T10:36:12.049Z"
+}

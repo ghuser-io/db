@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dotfiles",
+  "full_name": "amitness/dotfiles",
+  "owner": "amitness",
+  "private": false,
+  "html_url": "https://github.com/amitness/dotfiles",
+  "description": "Configuration for my machine",
+  "fork": false,
+  "url": "https://api.github.com/repos/amitness/dotfiles",
+  "languages_url": "https://api.github.com/repos/amitness/dotfiles/languages",
+  "pulls_url": "https://api.github.com/repos/amitness/dotfiles/pulls{/number}",
+  "created_at": "2017-06-03T06:56:15Z",
+  "updated_at": "2018-06-19T14:25:56Z",
+  "pushed_at": "2018-06-19T14:25:54Z",
+  "homepage": "",
+  "size": 406,
+  "stargazers_count": 2,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "amitness": 44
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CSS": {
+      "bytes": 267957,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 91552,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 1632,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:23.936Z"
+}

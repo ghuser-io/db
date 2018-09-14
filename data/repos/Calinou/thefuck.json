@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 1,
+    "alexnastetsky": 1,
+    "fordhurley": 1,
+    "LarsMichelsen": 2,
+    "nvbn": 20
+  },
+  "name": "thefuck",
+  "full_name": "Calinou/thefuck",
+  "owner": "Calinou",
+  "private": false,
+  "html_url": "https://github.com/Calinou/thefuck",
+  "description": "Magnificent app which corrects your previous console command.",
+  "fork": true,
+  "url": "https://api.github.com/repos/Calinou/thefuck",
+  "languages_url": "https://api.github.com/repos/Calinou/thefuck/languages",
+  "created_at": "2015-04-18T15:28:17Z",
+  "updated_at": "2015-04-18T18:57:15Z",
+  "pushed_at": "2015-04-18T15:30:06Z",
+  "homepage": "",
+  "size": 106,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "Python": {
+      "bytes": 14224,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/Calinou/thefuck/pulls{/number}",
+  "pulls_authors": []
+}

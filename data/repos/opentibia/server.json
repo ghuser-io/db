@@ -1,0 +1,98 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "server",
+  "full_name": "opentibia/server",
+  "owner": "opentibia",
+  "private": false,
+  "html_url": "https://github.com/opentibia/server",
+  "description": "An open source server for the MMORPG Tibia.",
+  "fork": false,
+  "url": "https://api.github.com/repos/opentibia/server",
+  "languages_url": "https://api.github.com/repos/opentibia/server/languages",
+  "pulls_url": "https://api.github.com/repos/opentibia/server/pulls{/number}",
+  "created_at": "2012-07-23T18:52:49Z",
+  "updated_at": "2018-09-04T15:20:00Z",
+  "pushed_at": "2018-04-18T04:07:18Z",
+  "homepage": null,
+  "size": 19212,
+  "stargazers_count": 250,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "opentibia",
+    "id": 2012638,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIwMTI2Mzg=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/2012638?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/opentibia",
+    "html_url": "https://github.com/opentibia",
+    "followers_url": "https://api.github.com/users/opentibia/followers",
+    "following_url": "https://api.github.com/users/opentibia/following{/other_user}",
+    "gists_url": "https://api.github.com/users/opentibia/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/opentibia/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/opentibia/subscriptions",
+    "organizations_url": "https://api.github.com/users/opentibia/orgs",
+    "repos_url": "https://api.github.com/users/opentibia/repos",
+    "events_url": "https://api.github.com/users/opentibia/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/opentibia/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "YuLeven": 1,
+    "gpedro": 1,
+    "Cayan": 2,
+    "alecc08": 3,
+    "rmujica": 6,
+    "adakraz": 10,
+    "edubart": 11,
+    "marksamman": 27,
+    "iryont": 31,
+    "ivucica": 42,
+    "rafalwrzeszcz": 81,
+    "devalicious": 85,
+    "Gilfar": 97,
+    "13r": 122,
+    "assassina": 212,
+    "hjnilsson": 514,
+    "johannesrosenqvist": 1844
+  },
+  "pulls_authors": [
+    "TobbeGMeyn",
+    "rmujica",
+    "YuLeven",
+    "Nottinghster",
+    "oliverkra",
+    "gpedro",
+    "recadra",
+    "adakraz"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 2125129,
+      "color": "#f34b7d"
+    },
+    "Lua": {
+      "bytes": 301169,
+      "color": "#000080"
+    },
+    "CMake": {
+      "bytes": 133314,
+      "color": "#ccc"
+    },
+    "C": {
+      "bytes": 21679,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-11T15:15:49.977Z"
+}

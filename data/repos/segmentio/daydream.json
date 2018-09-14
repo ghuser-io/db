@@ -1,0 +1,88 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "conorhastings": 1,
+    "roryrjb": 1,
+    "suniaoo": 1,
+    "StephanBijzitter": 1,
+    "michalbe": 1,
+    "abalmos": 1,
+    "Calinou": 1,
+    "reinpk": 1,
+    "lambtron": 3,
+    "stevenmiller888": 160
+  },
+  "name": "daydream",
+  "full_name": "segmentio/daydream",
+  "owner": "segmentio",
+  "private": false,
+  "html_url": "https://github.com/segmentio/daydream",
+  "description": "A chrome extension to record your actions into a nightmare or puppeteer script",
+  "fork": false,
+  "url": "https://api.github.com/repos/segmentio/daydream",
+  "languages_url": "https://api.github.com/repos/segmentio/daydream/languages",
+  "created_at": "2014-11-10T23:58:43Z",
+  "updated_at": "2018-09-13T14:41:12Z",
+  "pushed_at": "2018-02-23T16:49:51Z",
+  "homepage": "https://open.segment.com",
+  "size": 3983,
+  "stargazers_count": 2167,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "segmentio",
+    "id": 819518,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjgxOTUxOA==",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/819518?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/segmentio",
+    "html_url": "https://github.com/segmentio",
+    "followers_url": "https://api.github.com/users/segmentio/followers",
+    "following_url": "https://api.github.com/users/segmentio/following{/other_user}",
+    "gists_url": "https://api.github.com/users/segmentio/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/segmentio/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/segmentio/subscriptions",
+    "organizations_url": "https://api.github.com/users/segmentio/orgs",
+    "repos_url": "https://api.github.com/users/segmentio/repos",
+    "events_url": "https://api.github.com/users/segmentio/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/segmentio/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 9980,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 563,
+      "color": "#563d7c"
+    },
+    "Makefile": {
+      "bytes": 293,
+      "color": "#427819"
+    },
+    "HTML": {
+      "bytes": 122,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-13T16:25:52.077Z",
+  "pulls_url": "https://api.github.com/repos/segmentio/daydream/pulls{/number}",
+  "pulls_authors": [
+    "innoprenuer",
+    "stevenmiller888",
+    "conorhastings",
+    "roryrjb",
+    "suniaoo",
+    "yoichiro",
+    "catblade",
+    "StephanBijzitter",
+    "michalbe",
+    "abalmos",
+    "Calinou"
+  ]
+}

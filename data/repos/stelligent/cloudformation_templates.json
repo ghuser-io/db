@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cloudformation_templates",
+  "full_name": "stelligent/cloudformation_templates",
+  "owner": "stelligent",
+  "private": false,
+  "html_url": "https://github.com/stelligent/cloudformation_templates",
+  "description": "AWS - CloudFormation Templates",
+  "fork": false,
+  "url": "https://api.github.com/repos/stelligent/cloudformation_templates",
+  "languages_url": "https://api.github.com/repos/stelligent/cloudformation_templates/languages",
+  "pulls_url": "https://api.github.com/repos/stelligent/cloudformation_templates/pulls{/number}",
+  "created_at": "2016-03-30T16:43:14Z",
+  "updated_at": "2018-09-13T19:22:00Z",
+  "pushed_at": "2018-09-03T15:03:47Z",
+  "homepage": null,
+  "size": 1633,
+  "stargazers_count": 256,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "stelligent",
+    "id": 1551090,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1NTEwOTA=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/1551090?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/stelligent",
+    "html_url": "https://github.com/stelligent",
+    "followers_url": "https://api.github.com/users/stelligent/followers",
+    "following_url": "https://api.github.com/users/stelligent/following{/other_user}",
+    "gists_url": "https://api.github.com/users/stelligent/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/stelligent/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/stelligent/subscriptions",
+    "organizations_url": "https://api.github.com/users/stelligent/orgs",
+    "repos_url": "https://api.github.com/users/stelligent/repos",
+    "events_url": "https://api.github.com/users/stelligent/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/stelligent/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "emirb": 1,
+    "nvtkaszpir": 1,
+    "cplee": 2,
+    "dmurawsky": 3,
+    "PaulDuvall": 81,
+    "LevonBecker": 181
+  },
+  "pulls_authors": [
+    "dmurawsky",
+    "LevonBecker",
+    "atrakic",
+    "cplee",
+    "emirb",
+    "nvtkaszpir"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 2690,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T23:48:04.640Z"
+}

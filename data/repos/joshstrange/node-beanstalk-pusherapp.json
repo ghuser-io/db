@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-beanstalk-pusherapp",
+  "full_name": "joshstrange/node-beanstalk-pusherapp",
+  "owner": "joshstrange",
+  "private": false,
+  "html_url": "https://github.com/joshstrange/node-beanstalk-pusherapp",
+  "description": "Node.Js Heroku App for pushing Growl Notifications to your computer",
+  "fork": false,
+  "url": "https://api.github.com/repos/joshstrange/node-beanstalk-pusherapp",
+  "languages_url": "https://api.github.com/repos/joshstrange/node-beanstalk-pusherapp/languages",
+  "pulls_url": "https://api.github.com/repos/joshstrange/node-beanstalk-pusherapp/pulls{/number}",
+  "created_at": "2012-06-14T14:12:14Z",
+  "updated_at": "2013-10-06T19:09:49Z",
+  "pushed_at": "2012-06-20T14:32:50Z",
+  "homepage": null,
+  "size": 96,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "joshstrange": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 984,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T13:47:48.204Z"
+}

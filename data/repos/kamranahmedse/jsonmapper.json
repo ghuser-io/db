@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jsonmapper",
+  "full_name": "kamranahmedse/jsonmapper",
+  "owner": "kamranahmedse",
+  "private": false,
+  "html_url": "https://github.com/kamranahmedse/jsonmapper",
+  "description": "map nested JSON structures onto PHP classes",
+  "fork": true,
+  "url": "https://api.github.com/repos/kamranahmedse/jsonmapper",
+  "languages_url": "https://api.github.com/repos/kamranahmedse/jsonmapper/languages",
+  "pulls_url": "https://api.github.com/repos/kamranahmedse/jsonmapper/pulls{/number}",
+  "created_at": "2016-08-20T06:56:36Z",
+  "updated_at": "2018-03-12T09:19:23Z",
+  "pushed_at": "2016-08-20T07:13:21Z",
+  "homepage": null,
+  "size": 173,
+  "stargazers_count": 2,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "kamranahmedse": 1,
+    "olegmelnik": 1,
+    "frostieDE": 1,
+    "radmen": 1,
+    "mateusrevoredo": 1,
+    "SonicGD": 1,
+    "barryvdh": 1,
+    "philsturgeon": 1,
+    "darkgaro": 1,
+    "itscaro": 1,
+    "ammmze": 1,
+    "CybotTM": 2,
+    "loco8878": 2,
+    "Jalle19": 4,
+    "cweiske": 17
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 67504,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:42.276Z"
+}

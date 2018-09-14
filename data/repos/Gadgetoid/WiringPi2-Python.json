@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "WiringPi2-Python",
+  "full_name": "Gadgetoid/WiringPi2-Python",
+  "owner": "Gadgetoid",
+  "private": false,
+  "html_url": "https://github.com/Gadgetoid/WiringPi2-Python",
+  "description": "THIS REPOSITORY IS DEPRECATED - See https://github.com/WiringPi/WiringPi-Python",
+  "fork": true,
+  "url": "https://api.github.com/repos/Gadgetoid/WiringPi2-Python",
+  "languages_url": "https://api.github.com/repos/Gadgetoid/WiringPi2-Python/languages",
+  "pulls_url": "https://api.github.com/repos/Gadgetoid/WiringPi2-Python/pulls{/number}",
+  "created_at": "2013-03-27T22:10:08Z",
+  "updated_at": "2018-09-03T16:39:07Z",
+  "pushed_at": "2016-02-28T11:40:00Z",
+  "homepage": "",
+  "size": 519,
+  "stargazers_count": 69,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "omwah": 1,
+    "hubunator": 1,
+    "corbanmailloux": 1,
+    "jbmichel": 1,
+    "SebastianAigner": 1,
+    "sbma44": 1,
+    "YodaDaCoda": 1,
+    "nalajcie": 4,
+    "gordonDrogon": 13,
+    "Gadgetoid": 32
+  },
+  "pulls_authors": [
+    "Gadgetoid",
+    "omwah",
+    "hubunator",
+    "sprhawk",
+    "jbmichel",
+    "robotdad",
+    "SebastianAigner",
+    "sbma44",
+    "YodaDaCoda"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 754845,
+      "color": "#555555"
+    },
+    "Python": {
+      "bytes": 26407,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 23897,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 13943,
+      "color": "#89e051"
+    },
+    "C++": {
+      "bytes": 12999,
+      "color": "#f34b7d"
+    },
+    "Groff": {
+      "bytes": 9534,
+      "color": "#ccc"
+    },
+    "TeX": {
+      "bytes": 4317,
+      "color": "#3D6117"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:12.660Z"
+}

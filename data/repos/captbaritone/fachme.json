@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fachme",
+  "full_name": "captbaritone/fachme",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/fachme",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/captbaritone/fachme",
+  "languages_url": "https://api.github.com/repos/captbaritone/fachme/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/fachme/pulls{/number}",
+  "created_at": "2016-06-05T16:22:37Z",
+  "updated_at": "2018-07-29T22:04:50Z",
+  "pushed_at": "2016-09-19T17:27:50Z",
+  "homepage": null,
+  "size": 82,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 7
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 44287,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 20310,
+      "color": "#563d7c"
+    },
+    "Python": {
+      "bytes": 12581,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 3966,
+      "color": "#e34c26"
+    },
+    "Ruby": {
+      "bytes": 912,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 101,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:38.011Z"
+}

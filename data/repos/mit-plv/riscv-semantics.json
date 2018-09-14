@@ -1,0 +1,93 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "riscv-semantics",
+  "full_name": "mit-plv/riscv-semantics",
+  "owner": "mit-plv",
+  "private": false,
+  "html_url": "https://github.com/mit-plv/riscv-semantics",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/mit-plv/riscv-semantics",
+  "languages_url": "https://api.github.com/repos/mit-plv/riscv-semantics/languages",
+  "pulls_url": "https://api.github.com/repos/mit-plv/riscv-semantics/pulls{/number}",
+  "created_at": "2017-09-08T00:25:39Z",
+  "updated_at": "2018-09-14T00:40:58Z",
+  "pushed_at": "2018-09-14T00:40:57Z",
+  "homepage": null,
+  "size": 355,
+  "stargazers_count": 45,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "mit-plv",
+    "id": 11860253,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExODYwMjUz",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/11860253?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mit-plv",
+    "html_url": "https://github.com/mit-plv",
+    "followers_url": "https://api.github.com/users/mit-plv/followers",
+    "following_url": "https://api.github.com/users/mit-plv/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mit-plv/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mit-plv/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mit-plv/subscriptions",
+    "organizations_url": "https://api.github.com/users/mit-plv/orgs",
+    "repos_url": "https://api.github.com/users/mit-plv/repos",
+    "events_url": "https://api.github.com/users/mit-plv/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mit-plv/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jameyhicks": 1,
+    "nomeata": 1,
+    "cliffordwolf": 1,
+    "rsnikhil": 2,
+    "threonorm": 3,
+    "acw1251": 14,
+    "samuelgruetter": 41,
+    "ijc8": 109
+  },
+  "pulls_authors": [
+    "samuelgruetter",
+    "jameyhicks",
+    "acw1251",
+    "cliffordwolf"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 142865,
+      "color": "#5e5086"
+    },
+    "C": {
+      "bytes": 43648,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 16721,
+      "color": "#f34b7d"
+    },
+    "Makefile": {
+      "bytes": 3410,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 1899,
+      "color": "#89e051"
+    },
+    "Assembly": {
+      "bytes": 1254,
+      "color": "#6E4C13"
+    }
+  },
+  "fetched_at": "2018-09-14T08:36:47.800Z"
+}

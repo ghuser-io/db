@@ -1,0 +1,128 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "acousticbrainz-server",
+  "full_name": "metabrainz/acousticbrainz-server",
+  "owner": "metabrainz",
+  "private": false,
+  "html_url": "https://github.com/metabrainz/acousticbrainz-server",
+  "description": "The server components for the AcousticBrainz project",
+  "fork": false,
+  "url": "https://api.github.com/repos/metabrainz/acousticbrainz-server",
+  "languages_url": "https://api.github.com/repos/metabrainz/acousticbrainz-server/languages",
+  "pulls_url": "https://api.github.com/repos/metabrainz/acousticbrainz-server/pulls{/number}",
+  "created_at": "2014-10-07T14:22:44Z",
+  "updated_at": "2018-09-13T13:45:29Z",
+  "pushed_at": "2018-09-13T14:22:58Z",
+  "homepage": "https://acousticbrainz.org/",
+  "size": 2709,
+  "stargazers_count": 67,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "metabrainz",
+    "id": 293421,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI5MzQyMQ==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/293421?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/metabrainz",
+    "html_url": "https://github.com/metabrainz",
+    "followers_url": "https://api.github.com/users/metabrainz/followers",
+    "following_url": "https://api.github.com/users/metabrainz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/metabrainz/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/metabrainz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/metabrainz/subscriptions",
+    "organizations_url": "https://api.github.com/users/metabrainz/orgs",
+    "repos_url": "https://api.github.com/users/metabrainz/repos",
+    "events_url": "https://api.github.com/users/metabrainz/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/metabrainz/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "samj1912": 1,
+    "nupurbaghel": 2,
+    "hellska": 2,
+    "caroline-gschwend": 2,
+    "JonnyJD": 2,
+    "zas": 3,
+    "dufferzafar": 3,
+    "mineo": 3,
+    "ferbncode": 4,
+    "vibhorbajpai": 4,
+    "JesseWeinstein": 4,
+    "dbogdanov": 5,
+    "saifulbkhan": 7,
+    "kartikgupta0909": 13,
+    "rsh7": 14,
+    "Freso": 21,
+    "swapnilgt": 22,
+    "ianmcorvidae": 22,
+    "paramsingh": 57,
+    "mayhem": 99,
+    "alastair": 247,
+    "gentlecat": 540
+  },
+  "pulls_authors": [
+    "paramsingh",
+    "rsh7",
+    "alastair",
+    "ferbncode",
+    "jwflory",
+    "nupurbaghel",
+    "saifulbkhan",
+    "samj1912",
+    "loujine",
+    "vibhorbajpai",
+    "gentlecat",
+    "kartikgupta0909",
+    "hellska",
+    "dbogdanov",
+    "caroline-gschwend",
+    "dufferzafar",
+    "mineo",
+    "Sophist-UK",
+    "ghost",
+    "swapnilgt",
+    "JonnyJD",
+    "Freso",
+    "mayhem",
+    "JesseWeinstein",
+    "ianmcorvidae"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 394606,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 235741,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 231405,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 57400,
+      "color": "#f1e05a"
+    },
+    "PLpgSQL": {
+      "bytes": 16854,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 8600,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T16:30:13.152Z"
+}

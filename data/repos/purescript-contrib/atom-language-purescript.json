@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "atom-language-purescript",
+  "full_name": "purescript-contrib/atom-language-purescript",
+  "owner": "purescript-contrib",
+  "private": false,
+  "html_url": "https://github.com/purescript-contrib/atom-language-purescript",
+  "description": "PureScript language support for the Atom editor",
+  "fork": false,
+  "url": "https://api.github.com/repos/purescript-contrib/atom-language-purescript",
+  "languages_url": "https://api.github.com/repos/purescript-contrib/atom-language-purescript/languages",
+  "pulls_url": "https://api.github.com/repos/purescript-contrib/atom-language-purescript/pulls{/number}",
+  "created_at": "2014-06-21T00:33:56Z",
+  "updated_at": "2018-09-11T12:23:51Z",
+  "pushed_at": "2018-09-11T12:23:49Z",
+  "homepage": null,
+  "size": 73,
+  "stargazers_count": 24,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "purescript-contrib",
+    "id": 7391813,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjczOTE4MTM=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/7391813?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/purescript-contrib",
+    "html_url": "https://github.com/purescript-contrib",
+    "followers_url": "https://api.github.com/users/purescript-contrib/followers",
+    "following_url": "https://api.github.com/users/purescript-contrib/following{/other_user}",
+    "gists_url": "https://api.github.com/users/purescript-contrib/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/purescript-contrib/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/purescript-contrib/subscriptions",
+    "organizations_url": "https://api.github.com/users/purescript-contrib/orgs",
+    "repos_url": "https://api.github.com/users/purescript-contrib/repos",
+    "events_url": "https://api.github.com/users/purescript-contrib/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/purescript-contrib/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "colbyn": 1,
+    "MiracleBlue": 1,
+    "e-jigsaw": 1,
+    "paulyoung": 1,
+    "freebroccolo": 8,
+    "hdgarrood": 15,
+    "nwolverson": 19,
+    "ianbollinger": 22,
+    "timjs": 1
+  },
+  "pulls_authors": [
+    "colbyn",
+    "nwolverson",
+    "MiracleBlue",
+    "jgoux",
+    "ianbollinger",
+    "hdgarrood",
+    "e-jigsaw",
+    "paulyoung",
+    "timjs"
+  ],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 20925,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-11T12:41:54.945Z"
+}

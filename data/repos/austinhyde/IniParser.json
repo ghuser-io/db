@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "IniParser",
+  "full_name": "austinhyde/IniParser",
+  "owner": "austinhyde",
+  "private": false,
+  "html_url": "https://github.com/austinhyde/IniParser",
+  "description": "A PHP INI file parser supporting section inheritance, property nesting, and simple arrays",
+  "fork": false,
+  "url": "https://api.github.com/repos/austinhyde/IniParser",
+  "languages_url": "https://api.github.com/repos/austinhyde/IniParser/languages",
+  "pulls_url": "https://api.github.com/repos/austinhyde/IniParser/pulls{/number}",
+  "created_at": "2011-05-01T23:56:06Z",
+  "updated_at": "2018-06-26T20:21:56Z",
+  "pushed_at": "2016-07-12T15:38:15Z",
+  "homepage": "",
+  "size": 507,
+  "stargazers_count": 57,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "pyrsmk": 1,
+    "fredpe": 1,
+    "javiermarinros": 13,
+    "austinhyde": 28,
+    "till": 42
+  },
+  "pulls_authors": [
+    "kamranahmedse",
+    "javiermarinros",
+    "techmunk",
+    "vkosachev",
+    "pyrsmk",
+    "fredpe",
+    "ersmtp",
+    "till"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 20449,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:40.547Z"
+}

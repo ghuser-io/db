@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Cron-Health-Checker",
+  "full_name": "scandiwebcom/Cron-Health-Checker",
+  "owner": "scandiwebcom",
+  "private": false,
+  "html_url": "https://github.com/scandiwebcom/Cron-Health-Checker",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/scandiwebcom/Cron-Health-Checker",
+  "languages_url": "https://api.github.com/repos/scandiwebcom/Cron-Health-Checker/languages",
+  "pulls_url": "https://api.github.com/repos/scandiwebcom/Cron-Health-Checker/pulls{/number}",
+  "created_at": "2017-09-14T08:46:47Z",
+  "updated_at": "2017-10-26T11:52:39Z",
+  "pushed_at": "2017-11-15T19:38:19Z",
+  "homepage": null,
+  "size": 5,
+  "stargazers_count": 2,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cuu508": 1,
+    "scandiwebcom": 1,
+    "janiscaunecm": 2
+  },
+  "pulls_authors": [
+    "cuu508"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 2040,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:21.470Z"
+}

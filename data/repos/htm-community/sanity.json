@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sanity",
+  "full_name": "htm-community/sanity",
+  "owner": "htm-community",
+  "private": false,
+  "html_url": "https://github.com/htm-community/sanity",
+  "description": "See your HTM run.",
+  "fork": false,
+  "url": "https://api.github.com/repos/htm-community/sanity",
+  "languages_url": "https://api.github.com/repos/htm-community/sanity/languages",
+  "pulls_url": "https://api.github.com/repos/htm-community/sanity/pulls{/number}",
+  "created_at": "2014-06-23T02:22:28Z",
+  "updated_at": "2017-12-01T14:42:28Z",
+  "pushed_at": "2017-03-13T20:26:39Z",
+  "homepage": "",
+  "size": 5883,
+  "stargazers_count": 50,
+  "language": "Clojure",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "htm-community",
+    "id": 8866221,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjg4NjYyMjE=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/8866221?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/htm-community",
+    "html_url": "https://github.com/htm-community",
+    "followers_url": "https://api.github.com/users/htm-community/followers",
+    "following_url": "https://api.github.com/users/htm-community/following{/other_user}",
+    "gists_url": "https://api.github.com/users/htm-community/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/htm-community/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/htm-community/subscriptions",
+    "organizations_url": "https://api.github.com/users/htm-community/orgs",
+    "repos_url": "https://api.github.com/users/htm-community/repos",
+    "events_url": "https://api.github.com/users/htm-community/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/htm-community/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "smee": 1,
+    "fergalbyrne": 2,
+    "mrcslws": 150,
+    "floybix": 260
+  },
+  "pulls_authors": [
+    "floybix",
+    "mrcslws",
+    "gitter-badger",
+    "smee"
+  ],
+  "languages": {
+    "Clojure": {
+      "bytes": 280397,
+      "color": "#db5855"
+    },
+    "HTML": {
+      "bytes": 17717,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 385,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T13:51:48.403Z"
+}

@@ -1,0 +1,68 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Docker",
+  "full_name": "maxexcloo/Docker",
+  "owner": "maxexcloo",
+  "private": false,
+  "html_url": "https://github.com/maxexcloo/Docker",
+  "description": "See Readme",
+  "fork": false,
+  "url": "https://api.github.com/repos/maxexcloo/Docker",
+  "languages_url": "https://api.github.com/repos/maxexcloo/Docker/languages",
+  "pulls_url": "https://api.github.com/repos/maxexcloo/Docker/pulls{/number}",
+  "created_at": "2014-05-11T07:16:04Z",
+  "updated_at": "2018-08-23T17:38:58Z",
+  "pushed_at": "2016-11-14T22:26:37Z",
+  "homepage": null,
+  "size": 293,
+  "stargazers_count": 244,
+  "language": "Nginx",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "anton-ryzhov": 1,
+    "ambroisemaupate": 1,
+    "mdoukmak": 1,
+    "scmx": 1,
+    "ifdattic": 1,
+    "zergin": 2,
+    "joshstrange": 3,
+    "airtonix": 6,
+    "maxexcloo": 250
+  },
+  "pulls_authors": [
+    "anton-ryzhov",
+    "joshstrange",
+    "ambroisemaupate",
+    "mdoukmak",
+    "scmx",
+    "ifdattic",
+    "nicolerenee",
+    "zergin",
+    "thwehner",
+    "airtonix"
+  ],
+  "languages": {
+    "Nginx": {
+      "bytes": 414,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 296,
+      "color": "#89e051"
+    },
+    "PHP": {
+      "bytes": 181,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-11T13:47:46.572Z"
+}

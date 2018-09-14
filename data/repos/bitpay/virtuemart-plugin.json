@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "virtuemart-plugin",
+  "full_name": "bitpay/virtuemart-plugin",
+  "owner": "bitpay",
+  "private": false,
+  "html_url": "https://github.com/bitpay/virtuemart-plugin",
+  "description": "BitPay payment plugin for VirtueMart",
+  "fork": true,
+  "url": "https://api.github.com/repos/bitpay/virtuemart-plugin",
+  "languages_url": "https://api.github.com/repos/bitpay/virtuemart-plugin/languages",
+  "pulls_url": "https://api.github.com/repos/bitpay/virtuemart-plugin/pulls{/number}",
+  "created_at": "2012-11-09T15:25:45Z",
+  "updated_at": "2017-09-15T15:10:32Z",
+  "pushed_at": "2016-07-29T20:43:17Z",
+  "homepage": null,
+  "size": 78,
+  "stargazers_count": 7,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "bitpay",
+    "id": 2554930,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1NTQ5MzA=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/2554930?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/bitpay",
+    "html_url": "https://github.com/bitpay",
+    "followers_url": "https://api.github.com/users/bitpay/followers",
+    "following_url": "https://api.github.com/users/bitpay/following{/other_user}",
+    "gists_url": "https://api.github.com/users/bitpay/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/bitpay/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/bitpay/subscriptions",
+    "organizations_url": "https://api.github.com/users/bitpay/orgs",
+    "repos_url": "https://api.github.com/users/bitpay/repos",
+    "events_url": "https://api.github.com/users/bitpay/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/bitpay/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jameswalpole": 1,
+    "gasteve": 1,
+    "kleetus": 3,
+    "jaafit": 3,
+    "ionux": 9,
+    "brianwang9100": 10
+  },
+  "pulls_authors": [
+    "davidjosephhayes",
+    "kleetus",
+    "jameswalpole",
+    "brianwang9100",
+    "samuelbohler",
+    "cstevens88",
+    "JoshuaEstes",
+    "elahurd",
+    "ionux",
+    "jaafit"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 28190,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T16:48:31.392Z"
+}

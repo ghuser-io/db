@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "omi-summer-lab",
+  "full_name": "IntelLedger/omi-summer-lab",
+  "owner": "IntelLedger",
+  "private": false,
+  "html_url": "https://github.com/IntelLedger/omi-summer-lab",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/IntelLedger/omi-summer-lab",
+  "languages_url": "https://api.github.com/repos/IntelLedger/omi-summer-lab/languages",
+  "pulls_url": "https://api.github.com/repos/IntelLedger/omi-summer-lab/pulls{/number}",
+  "created_at": "2017-05-23T14:39:05Z",
+  "updated_at": "2018-07-23T20:20:14Z",
+  "pushed_at": "2017-06-12T19:27:45Z",
+  "homepage": null,
+  "size": 1982,
+  "stargazers_count": 8,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "IntelLedger",
+    "id": 5545289,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjU1NDUyODk=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/5545289?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/IntelLedger",
+    "html_url": "https://github.com/IntelLedger",
+    "followers_url": "https://api.github.com/users/IntelLedger/followers",
+    "following_url": "https://api.github.com/users/IntelLedger/following{/other_user}",
+    "gists_url": "https://api.github.com/users/IntelLedger/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/IntelLedger/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/IntelLedger/subscriptions",
+    "organizations_url": "https://api.github.com/users/IntelLedger/orgs",
+    "repos_url": "https://api.github.com/users/IntelLedger/repos",
+    "events_url": "https://api.github.com/users/IntelLedger/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/IntelLedger/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jsmitchell": 4,
+    "nick-drozd": 18,
+    "peterschwarz": 25
+  },
+  "pulls_authors": [
+    "peterschwarz",
+    "nick-drozd",
+    "jsmitchell"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 45457,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 35685,
+      "color": "#3572A5"
+    },
+    "Protocol Buffer": {
+      "bytes": 9501,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 1675,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T17:14:21.943Z"
+}

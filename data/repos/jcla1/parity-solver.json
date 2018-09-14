@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "parity-solver",
+  "full_name": "jcla1/parity-solver",
+  "owner": "jcla1",
+  "private": false,
+  "html_url": "https://github.com/jcla1/parity-solver",
+  "description": "Pathfinder for Parity in Haskell, the game at: http://www.abefehr.com/parity/",
+  "fork": false,
+  "url": "https://api.github.com/repos/jcla1/parity-solver",
+  "languages_url": "https://api.github.com/repos/jcla1/parity-solver/languages",
+  "pulls_url": "https://api.github.com/repos/jcla1/parity-solver/pulls{/number}",
+  "created_at": "2015-01-17T21:43:47Z",
+  "updated_at": "2017-12-04T10:10:32Z",
+  "pushed_at": "2015-01-24T16:31:47Z",
+  "homepage": "",
+  "size": 340,
+  "stargazers_count": 5,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jcla1": 30
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Haskell": {
+      "bytes": 7060,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:07.113Z"
+}

@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "B4-nibbler",
+  "full_name": "Toxicat/B4-nibbler",
+  "owner": "Toxicat",
+  "private": false,
+  "html_url": "https://github.com/Toxicat/B4-nibbler",
+  "description": "/!\\ Etudiants d'Epitech, PRENEZ GARDE /!\\ Le code de ce repo à été intégré à la moulinette de triche du Koalab. Faites pas les cons. Je décline toute responsabilité en cas de -42.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Toxicat/B4-nibbler",
+  "languages_url": "https://api.github.com/repos/Toxicat/B4-nibbler/languages",
+  "pulls_url": "https://api.github.com/repos/Toxicat/B4-nibbler/pulls{/number}",
+  "created_at": "2014-04-07T22:52:06Z",
+  "updated_at": "2014-04-07T22:55:31Z",
+  "pushed_at": "2014-04-07T22:55:33Z",
+  "homepage": null,
+  "size": 1248,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Toxicat": 28,
+    "aloisdg": 37
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 129386,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:21.900Z"
+}

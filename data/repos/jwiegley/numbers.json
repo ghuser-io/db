@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "numbers",
+  "full_name": "jwiegley/numbers",
+  "owner": "jwiegley",
+  "private": false,
+  "html_url": "https://github.com/jwiegley/numbers",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/jwiegley/numbers",
+  "languages_url": "https://api.github.com/repos/jwiegley/numbers/languages",
+  "pulls_url": "https://api.github.com/repos/jwiegley/numbers/pulls{/number}",
+  "created_at": "2012-02-21T20:06:19Z",
+  "updated_at": "2018-08-01T13:47:45Z",
+  "pushed_at": "2018-08-01T13:47:43Z",
+  "homepage": "",
+  "size": 48,
+  "stargazers_count": 18,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "kenta2": 1,
+    "jwiegley": 9,
+    "DanBurton": 10,
+    "orlitzky": 17
+  },
+  "pulls_authors": [
+    "philderbeast",
+    "kenta2",
+    "dmcclean",
+    "quickdudley",
+    "pthariensflame",
+    "DanBurton",
+    "orlitzky"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 53270,
+      "color": "#5e5086"
+    },
+    "Nix": {
+      "bytes": 755,
+      "color": "#7e7eff"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:34.321Z"
+}

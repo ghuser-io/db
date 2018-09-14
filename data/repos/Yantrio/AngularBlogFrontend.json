@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "AngularBlogFrontend",
+  "full_name": "Yantrio/AngularBlogFrontend",
+  "owner": "Yantrio",
+  "private": false,
+  "html_url": "https://github.com/Yantrio/AngularBlogFrontend",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/Yantrio/AngularBlogFrontend",
+  "languages_url": "https://api.github.com/repos/Yantrio/AngularBlogFrontend/languages",
+  "pulls_url": "https://api.github.com/repos/Yantrio/AngularBlogFrontend/pulls{/number}",
+  "created_at": "2014-08-21T20:07:54Z",
+  "updated_at": "2014-11-18T21:24:23Z",
+  "pushed_at": "2014-08-21T20:08:00Z",
+  "homepage": null,
+  "size": 140,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Yantrio": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 15628,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 1633,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:42.256Z"
+}

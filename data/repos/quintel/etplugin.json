@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "etplugin",
+  "full_name": "quintel/etplugin",
+  "owner": "quintel",
+  "private": false,
+  "html_url": "https://github.com/quintel/etplugin",
+  "description": "etplugin: integrate the etmodel on your own site!",
+  "fork": false,
+  "url": "https://api.github.com/repos/quintel/etplugin",
+  "languages_url": "https://api.github.com/repos/quintel/etplugin/languages",
+  "pulls_url": "https://api.github.com/repos/quintel/etplugin/pulls{/number}",
+  "created_at": "2012-08-24T07:17:02Z",
+  "updated_at": "2017-11-26T06:17:58Z",
+  "pushed_at": "2017-11-27T08:23:49Z",
+  "homepage": "",
+  "size": 196,
+  "stargazers_count": 1,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "quintel",
+    "id": 2242291,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIyNDIyOTE=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2242291?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/quintel",
+    "html_url": "https://github.com/quintel",
+    "followers_url": "https://api.github.com/users/quintel/followers",
+    "following_url": "https://api.github.com/users/quintel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/quintel/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/quintel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/quintel/subscriptions",
+    "organizations_url": "https://api.github.com/users/quintel/orgs",
+    "repos_url": "https://api.github.com/users/quintel/repos",
+    "events_url": "https://api.github.com/users/quintel/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/quintel/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mortonfox": 1,
+    "antw": 5,
+    "andremedeiros": 5,
+    "dennisschoenmakers": 6,
+    "pzac": 30,
+    "hasclass": 32
+  },
+  "pulls_authors": [
+    "mortonfox",
+    "andremedeiros"
+  ],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 10960,
+      "color": "#244776"
+    },
+    "Ruby": {
+      "bytes": 3103,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 1546,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T10:32:19.392Z"
+}

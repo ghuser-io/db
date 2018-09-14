@@ -1,0 +1,90 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tink_core",
+  "full_name": "haxetink/tink_core",
+  "owner": "haxetink",
+  "private": false,
+  "html_url": "https://github.com/haxetink/tink_core",
+  "description": "Core utilities",
+  "fork": false,
+  "url": "https://api.github.com/repos/haxetink/tink_core",
+  "languages_url": "https://api.github.com/repos/haxetink/tink_core/languages",
+  "pulls_url": "https://api.github.com/repos/haxetink/tink_core/pulls{/number}",
+  "created_at": "2013-06-24T08:40:25Z",
+  "updated_at": "2018-09-08T06:27:32Z",
+  "pushed_at": "2018-09-08T08:45:53Z",
+  "homepage": "https://haxetink.github.io/tink_core",
+  "size": 342,
+  "stargazers_count": 77,
+  "language": "Haxe",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "haxetink",
+    "id": 4798247,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ3OTgyNDc=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/4798247?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/haxetink",
+    "html_url": "https://github.com/haxetink",
+    "followers_url": "https://api.github.com/users/haxetink/followers",
+    "following_url": "https://api.github.com/users/haxetink/following{/other_user}",
+    "gists_url": "https://api.github.com/users/haxetink/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/haxetink/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/haxetink/subscriptions",
+    "organizations_url": "https://api.github.com/users/haxetink/orgs",
+    "repos_url": "https://api.github.com/users/haxetink/repos",
+    "events_url": "https://api.github.com/users/haxetink/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/haxetink/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ciscoheat": 1,
+    "markknol": 1,
+    "AdrianV": 1,
+    "T1mL3arn": 1,
+    "cambiata": 1,
+    "grisevg": 1,
+    "jasononeil": 2,
+    "kevinresol": 75,
+    "amecke": 116,
+    "back2dos": 132
+  },
+  "pulls_authors": [
+    "kevinresol",
+    "gene-pavlovsky",
+    "kLabz",
+    "FrancisBourre",
+    "grosmar",
+    "jdonaldson",
+    "anissen",
+    "ciscoheat",
+    "markknol",
+    "0b1kn00b",
+    "AdrianV",
+    "T1mL3arn",
+    "cambiata",
+    "grisevg",
+    "jasononeil"
+  ],
+  "languages": {
+    "Haxe": {
+      "bytes": 75429,
+      "color": "#df7900"
+    },
+    "Batchfile": {
+      "bytes": 44,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:49.771Z"
+}

@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "php-angularjs-show-all-images-in-a-folder",
+  "full_name": "mikelothar/php-angularjs-show-all-images-in-a-folder",
+  "owner": "mikelothar",
+  "private": false,
+  "html_url": "https://github.com/mikelothar/php-angularjs-show-all-images-in-a-folder",
+  "description": "Small project to display all images in a folder, using PHP and AngularJS.",
+  "fork": false,
+  "url": "https://api.github.com/repos/mikelothar/php-angularjs-show-all-images-in-a-folder",
+  "languages_url": "https://api.github.com/repos/mikelothar/php-angularjs-show-all-images-in-a-folder/languages",
+  "pulls_url": "https://api.github.com/repos/mikelothar/php-angularjs-show-all-images-in-a-folder/pulls{/number}",
+  "created_at": "2015-01-24T12:28:00Z",
+  "updated_at": "2018-06-18T20:38:01Z",
+  "pushed_at": "2017-02-11T14:17:07Z",
+  "homepage": "",
+  "size": 1747,
+  "stargazers_count": 4,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mikelothar": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 721,
+      "color": "#e34c26"
+    },
+    "PHP": {
+      "bytes": 613,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 114,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T23:08:38.939Z"
+}

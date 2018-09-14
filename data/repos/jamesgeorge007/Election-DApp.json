@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Election-DApp",
+  "full_name": "jamesgeorge007/Election-DApp",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/Election-DApp",
+  "description": "This is a D-App (De-centralised application) on top of Ethereum Blockchain which eases the task of conducting elections :smile:",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/Election-DApp",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/Election-DApp/languages",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/Election-DApp/pulls{/number}",
+  "created_at": "2018-08-22T15:49:54Z",
+  "updated_at": "2018-09-13T13:32:48Z",
+  "pushed_at": "2018-09-13T13:32:47Z",
+  "homepage": null,
+  "size": 560,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jamesgeorge007": 19
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 266784,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 2497,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-13T16:34:20.530Z"
+}

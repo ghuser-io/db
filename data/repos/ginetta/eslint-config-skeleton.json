@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "eslint-config-skeleton",
+  "full_name": "ginetta/eslint-config-skeleton",
+  "owner": "ginetta",
+  "private": false,
+  "html_url": "https://github.com/ginetta/eslint-config-skeleton",
+  "description": "Skeleton Eslint config",
+  "fork": false,
+  "url": "https://api.github.com/repos/ginetta/eslint-config-skeleton",
+  "languages_url": "https://api.github.com/repos/ginetta/eslint-config-skeleton/languages",
+  "pulls_url": "https://api.github.com/repos/ginetta/eslint-config-skeleton/pulls{/number}",
+  "created_at": "2018-02-05T16:20:26Z",
+  "updated_at": "2018-03-27T14:14:39Z",
+  "pushed_at": "2018-06-05T15:52:14Z",
+  "homepage": null,
+  "size": 13,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "ginetta",
+    "id": 1975659,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5NzU2NTk=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/1975659?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ginetta",
+    "html_url": "https://github.com/ginetta",
+    "followers_url": "https://api.github.com/users/ginetta/followers",
+    "following_url": "https://api.github.com/users/ginetta/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ginetta/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ginetta/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ginetta/subscriptions",
+    "organizations_url": "https://api.github.com/users/ginetta/orgs",
+    "repos_url": "https://api.github.com/users/ginetta/repos",
+    "events_url": "https://api.github.com/users/ginetta/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ginetta/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "brunnolou": 13
+  },
+  "pulls_authors": [
+    "martpie"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1542,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T13:48:13.870Z"
+}

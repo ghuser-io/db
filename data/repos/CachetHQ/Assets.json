@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Assets",
+  "full_name": "CachetHQ/Assets",
+  "owner": "CachetHQ",
+  "private": false,
+  "html_url": "https://github.com/CachetHQ/Assets",
+  "description": "Media resources for Cachet.",
+  "fork": false,
+  "url": "https://api.github.com/repos/CachetHQ/Assets",
+  "languages_url": "https://api.github.com/repos/CachetHQ/Assets/languages",
+  "pulls_url": "https://api.github.com/repos/CachetHQ/Assets/pulls{/number}",
+  "created_at": "2014-11-26T08:23:17Z",
+  "updated_at": "2017-11-09T21:59:10Z",
+  "pushed_at": "2015-12-29T17:09:44Z",
+  "homepage": "https://cachethq.io/",
+  "size": 3170,
+  "stargazers_count": 7,
+  "language": "PostScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "CachetHQ",
+    "id": 9951502,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjk5NTE1MDI=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/9951502?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/CachetHQ",
+    "html_url": "https://github.com/CachetHQ",
+    "followers_url": "https://api.github.com/users/CachetHQ/followers",
+    "following_url": "https://api.github.com/users/CachetHQ/following{/other_user}",
+    "gists_url": "https://api.github.com/users/CachetHQ/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/CachetHQ/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/CachetHQ/subscriptions",
+    "organizations_url": "https://api.github.com/users/CachetHQ/orgs",
+    "repos_url": "https://api.github.com/users/CachetHQ/repos",
+    "events_url": "https://api.github.com/users/CachetHQ/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/CachetHQ/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ilikeprograms": 1,
+    "Ehesp": 3,
+    "jbrooksuk": 4,
+    "joecohens": 5
+  },
+  "pulls_authors": [
+    "joecohens",
+    "ilikeprograms"
+  ],
+  "languages": {
+    "PostScript": {
+      "bytes": 47915,
+      "color": "#da291c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:48.204Z"
+}

@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "toastr_rails",
+  "full_name": "d4be4st/toastr_rails",
+  "owner": "d4be4st",
+  "private": false,
+  "html_url": "https://github.com/d4be4st/toastr_rails",
+  "description": "Toastr js gem for rails",
+  "fork": false,
+  "url": "https://api.github.com/repos/d4be4st/toastr_rails",
+  "languages_url": "https://api.github.com/repos/d4be4st/toastr_rails/languages",
+  "pulls_url": "https://api.github.com/repos/d4be4st/toastr_rails/pulls{/number}",
+  "created_at": "2015-01-16T09:24:57Z",
+  "updated_at": "2018-01-12T22:48:32Z",
+  "pushed_at": "2016-12-02T16:25:46Z",
+  "homepage": null,
+  "size": 22,
+  "stargazers_count": 10,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "entity1991": 4,
+    "d4be4st": 7
+  },
+  "pulls_authors": [
+    "entity1991",
+    "ckgagan"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 18674,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 6992,
+      "color": "#563d7c"
+    },
+    "Ruby": {
+      "bytes": 1282,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 154,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-17T16:21:31.391Z"
+}

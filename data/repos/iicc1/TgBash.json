@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "TgBash",
+  "full_name": "iicc1/TgBash",
+  "owner": "iicc1",
+  "private": false,
+  "html_url": "https://github.com/iicc1/TgBash",
+  "description": "just for test",
+  "fork": false,
+  "url": "https://api.github.com/repos/iicc1/TgBash",
+  "languages_url": "https://api.github.com/repos/iicc1/TgBash/languages",
+  "pulls_url": "https://api.github.com/repos/iicc1/TgBash/pulls{/number}",
+  "created_at": "2016-06-06T00:29:25Z",
+  "updated_at": "2018-04-09T07:09:29Z",
+  "pushed_at": "2016-12-17T17:00:45Z",
+  "homepage": null,
+  "size": 182,
+  "stargazers_count": 5,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Madji": 1,
+    "TiagoDanin": 1,
+    "otgo": 3,
+    "iicc1": 18
+  },
+  "pulls_authors": [
+    "Madji",
+    "otgo",
+    "TiagoDanin"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 45577,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-12T17:48:20.581Z"
+}

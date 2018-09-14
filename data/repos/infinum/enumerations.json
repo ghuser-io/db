@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "enumerations",
+  "full_name": "infinum/enumerations",
+  "owner": "infinum",
+  "private": false,
+  "html_url": "https://github.com/infinum/enumerations",
+  "description": "Better Rails Enumerations",
+  "fork": false,
+  "url": "https://api.github.com/repos/infinum/enumerations",
+  "languages_url": "https://api.github.com/repos/infinum/enumerations/languages",
+  "pulls_url": "https://api.github.com/repos/infinum/enumerations/pulls{/number}",
+  "created_at": "2011-07-07T09:48:00Z",
+  "updated_at": "2018-08-31T10:55:50Z",
+  "pushed_at": "2018-03-21T08:26:44Z",
+  "homepage": "",
+  "size": 136,
+  "stargazers_count": 16,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "infinum",
+    "id": 97652,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjk3NjUy",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/97652?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/infinum",
+    "html_url": "https://github.com/infinum",
+    "followers_url": "https://api.github.com/users/infinum/followers",
+    "following_url": "https://api.github.com/users/infinum/following{/other_user}",
+    "gists_url": "https://api.github.com/users/infinum/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/infinum/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/infinum/subscriptions",
+    "organizations_url": "https://api.github.com/users/infinum/orgs",
+    "repos_url": "https://api.github.com/users/infinum/repos",
+    "events_url": "https://api.github.com/users/infinum/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/infinum/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "nikajukic": 2,
+    "nikolasantic": 2,
+    "Narayanan170": 3,
+    "stankec": 4,
+    "carr": 4,
+    "neektza": 6,
+    "d4be4st": 7,
+    "DamirSvrtan": 7,
+    "janvarljen": 17,
+    "PetarCurkovic": 89
+  },
+  "pulls_authors": [
+    "PetarCurkovic",
+    "domagojnakic",
+    "Narayanan170",
+    "crutan",
+    "nikajukic",
+    "stankec",
+    "janvarljen",
+    "neektza"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 33578,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-08-31T16:28:03.377Z"
+}

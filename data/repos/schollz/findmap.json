@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "findmap",
+  "full_name": "schollz/findmap",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/findmap",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/findmap",
+  "languages_url": "https://api.github.com/repos/schollz/findmap/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/findmap/pulls{/number}",
+  "created_at": "2016-11-19T20:16:46Z",
+  "updated_at": "2018-03-02T05:58:59Z",
+  "pushed_at": "2016-11-19T20:17:22Z",
+  "homepage": null,
+  "size": 3,
+  "stargazers_count": 5,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 4591,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:43.137Z"
+}

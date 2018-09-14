@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ct-logs",
+  "full_name": "ctz/ct-logs",
+  "owner": "ctz",
+  "private": false,
+  "html_url": "https://github.com/ctz/ct-logs",
+  "description": "Google's list of Certificate Transparency logs as a rust crate for use with sct.rs",
+  "fork": false,
+  "url": "https://api.github.com/repos/ctz/ct-logs",
+  "languages_url": "https://api.github.com/repos/ctz/ct-logs/languages",
+  "pulls_url": "https://api.github.com/repos/ctz/ct-logs/pulls{/number}",
+  "created_at": "2017-07-12T20:37:59Z",
+  "updated_at": "2018-07-15T11:02:16Z",
+  "pushed_at": "2018-07-15T11:02:14Z",
+  "homepage": null,
+  "size": 24,
+  "stargazers_count": 3,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "briansmith": 1,
+    "ctz": 11
+  },
+  "pulls_authors": [
+    "briansmith"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 31184,
+      "color": "#dea584"
+    },
+    "Python": {
+      "bytes": 3998,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:15.679Z"
+}

@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "travis_log_fetch",
+  "full_name": "jayvdb/travis_log_fetch",
+  "owner": "jayvdb",
+  "private": false,
+  "html_url": "https://github.com/jayvdb/travis_log_fetch",
+  "description": "Fetch travis logs",
+  "fork": false,
+  "url": "https://api.github.com/repos/jayvdb/travis_log_fetch",
+  "languages_url": "https://api.github.com/repos/jayvdb/travis_log_fetch/languages",
+  "pulls_url": "https://api.github.com/repos/jayvdb/travis_log_fetch/pulls{/number}",
+  "created_at": "2015-10-26T03:44:47Z",
+  "updated_at": "2017-02-27T09:43:31Z",
+  "pushed_at": "2016-08-06T20:13:55Z",
+  "homepage": "",
+  "size": 23,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jayvdb": 15
+  },
+  "pulls_authors": [
+    "jayvdb"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 44229,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "luma.oled",
+  "full_name": "rm-hull/luma.oled",
+  "owner": "rm-hull",
+  "private": false,
+  "html_url": "https://github.com/rm-hull/luma.oled",
+  "description": "Python module to drive a SSD1306 / SSD1322 / SSD1325 / SSD1327 / SSD1331 / SSD1351 / SH1106 OLED ",
+  "fork": false,
+  "url": "https://api.github.com/repos/rm-hull/luma.oled",
+  "languages_url": "https://api.github.com/repos/rm-hull/luma.oled/languages",
+  "pulls_url": "https://api.github.com/repos/rm-hull/luma.oled/pulls{/number}",
+  "created_at": "2014-09-16T21:35:26Z",
+  "updated_at": "2018-09-14T07:32:24Z",
+  "pushed_at": "2018-09-14T07:44:05Z",
+  "homepage": "https://luma-oled.readthedocs.io",
+  "size": 13497,
+  "stargazers_count": 286,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sharkusk": 1,
+    "SpotlightKid": 1,
+    "rogerdahl": 1,
+    "7754359337": 1,
+    "bjerrep": 1,
+    "eudoxos": 1,
+    "Boeeerb": 1,
+    "xes": 1,
+    "Gadgetoid": 2,
+    "leragequit": 2,
+    "VxGeeks": 2,
+    "fragfutter": 3,
+    "thijstriemstra": 108,
+    "rm-hull": 309
+  },
+  "pulls_authors": [
+    "rm-hull",
+    "Gadgetoid",
+    "thijstriemstra",
+    "sharkusk",
+    "leragequit",
+    "SpotlightKid",
+    "rogerdahl",
+    "VxGeeks",
+    "7754359337",
+    "bjerrep",
+    "eudoxos",
+    "Boeeerb"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 60453,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-14T08:27:46.834Z"
+}

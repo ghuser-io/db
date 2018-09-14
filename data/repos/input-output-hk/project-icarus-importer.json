@@ -1,0 +1,178 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "project-icarus-importer",
+  "full_name": "input-output-hk/project-icarus-importer",
+  "owner": "input-output-hk",
+  "private": false,
+  "html_url": "https://github.com/input-output-hk/project-icarus-importer",
+  "description": "Icarus, a reference implementation for a lightweight wallet developed by the IOHK Engineering Team.",
+  "fork": false,
+  "url": "https://api.github.com/repos/input-output-hk/project-icarus-importer",
+  "languages_url": "https://api.github.com/repos/input-output-hk/project-icarus-importer/languages",
+  "pulls_url": "https://api.github.com/repos/input-output-hk/project-icarus-importer/pulls{/number}",
+  "created_at": "2018-08-14T20:51:41Z",
+  "updated_at": "2018-09-10T14:32:28Z",
+  "pushed_at": "2018-08-21T11:15:15Z",
+  "homepage": null,
+  "size": 84490,
+  "stargazers_count": 9,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "icarus-master",
+  "organization": {
+    "login": "input-output-hk",
+    "id": 12909177,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyOTA5MTc3",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/12909177?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/input-output-hk",
+    "html_url": "https://github.com/input-output-hk",
+    "followers_url": "https://api.github.com/users/input-output-hk/followers",
+    "following_url": "https://api.github.com/users/input-output-hk/following{/other_user}",
+    "gists_url": "https://api.github.com/users/input-output-hk/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/input-output-hk/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/input-output-hk/subscriptions",
+    "organizations_url": "https://api.github.com/users/input-output-hk/orgs",
+    "repos_url": "https://api.github.com/users/input-output-hk/repos",
+    "events_url": "https://api.github.com/users/input-output-hk/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/input-output-hk/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "matt-noonan": 1,
+    "mitchellvitez": 1,
+    "StavrosChryselis": 1,
+    "omefire": 1,
+    "flash-gordon": 1,
+    "haggl": 1,
+    "puffnfresh": 1,
+    "karknu": 1,
+    "seungwonpark": 1,
+    "staenrey": 1,
+    "manpages": 1,
+    "k0001": 2,
+    "vagoum": 2,
+    "nh2": 2,
+    "lehins": 2,
+    "et4te": 2,
+    "h4ck3rm1k3": 2,
+    "chrisdone": 2,
+    "ruhatch": 3,
+    "darko-mijic": 3,
+    "carlosdagos": 3,
+    "javierdiaz72": 4,
+    "uroboros": 4,
+    "DanielRrr": 4,
+    "arybczak": 4,
+    "AVBelyy": 4,
+    "mirkoAlic": 5,
+    "vincenthz": 6,
+    "v0d1ch": 7,
+    "jagajaga": 7,
+    "disassembler": 8,
+    "tomasvrana": 8,
+    "Profpatsch": 9,
+    "dcoutts": 9,
+    "AlanVerbner": 10,
+    "CodiePP": 10,
+    "rvl": 13,
+    "365andreas": 15,
+    "DominikGuzei": 15,
+    "naryl": 15,
+    "Jimbo4350": 19,
+    "dysinger": 23,
+    "nc6": 28,
+    "ajnsit": 30,
+    "brunjlar": 32,
+    "coot": 37,
+    "KtorZ": 46,
+    "hithroc": 48,
+    "erikd": 51,
+    "deepfire": 53,
+    "jmitchell": 53,
+    "kantp": 54,
+    "zakharvoit": 57,
+    "cleverca22": 60,
+    "ntallar": 103,
+    "denisshevchenko": 103,
+    "ChShersh": 105,
+    "edsko": 132,
+    "parsonsmatt": 137,
+    "domenkozar": 207,
+    "adinapoli-iohk": 233,
+    "int-index": 248,
+    "rockbmb": 249,
+    "Pastafarianist": 252,
+    "ksaric": 338,
+    "akegalj": 357,
+    "avieth": 433,
+    "georgeee": 473,
+    "flyingleafe": 530,
+    "pva701": 703,
+    "Martoon-00": 765,
+    "sectore": 796,
+    "neongreen": 832,
+    "volhovm": 837,
+    "gromakovsky": 2200
+  },
+  "pulls_authors": [
+    "Profpatsch",
+    "amias-iohk"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 5032858,
+      "color": "#5e5086"
+    },
+    "Nix": {
+      "bytes": 2032045,
+      "color": "#7e7eff"
+    },
+    "HTML": {
+      "bytes": 415706,
+      "color": "#e34c26"
+    },
+    "PureScript": {
+      "bytes": 313319,
+      "color": "#1D222D"
+    },
+    "TeX": {
+      "bytes": 145663,
+      "color": "#3D6117"
+    },
+    "Shell": {
+      "bytes": 103248,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 54967,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 47056,
+      "color": "#f1e05a"
+    },
+    "R": {
+      "bytes": 24062,
+      "color": "#198CE7"
+    },
+    "Makefile": {
+      "bytes": 584,
+      "color": "#427819"
+    },
+    "Batchfile": {
+      "bytes": 525,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-10T15:11:30.983Z"
+}

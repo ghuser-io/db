@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "math-relationships",
+  "full_name": "captbaritone/math-relationships",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/math-relationships",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/captbaritone/math-relationships",
+  "languages_url": "https://api.github.com/repos/captbaritone/math-relationships/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/math-relationships/pulls{/number}",
+  "created_at": "2016-05-31T04:26:00Z",
+  "updated_at": "2018-07-29T22:09:56Z",
+  "pushed_at": "2016-08-28T21:49:21Z",
+  "homepage": null,
+  "size": 10,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "neldredge": 3,
+    "captbaritone": 5
+  },
+  "pulls_authors": [
+    "neldredge",
+    "captbaritone"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 2884,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 2286,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 1035,
+      "color": "#f1e05a"
+    },
+    "Makefile": {
+      "bytes": 174,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:38.304Z"
+}

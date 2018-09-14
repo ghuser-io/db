@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Fractal-Megacollection",
+  "full_name": "JPBotelho/Fractal-Megacollection",
+  "owner": "JPBotelho",
+  "private": false,
+  "html_url": "https://github.com/JPBotelho/Fractal-Megacollection",
+  "description": "Wholesome collection of fractal types and coloring methods all in pixel shaders.",
+  "fork": false,
+  "url": "https://api.github.com/repos/JPBotelho/Fractal-Megacollection",
+  "languages_url": "https://api.github.com/repos/JPBotelho/Fractal-Megacollection/languages",
+  "pulls_url": "https://api.github.com/repos/JPBotelho/Fractal-Megacollection/pulls{/number}",
+  "created_at": "2018-02-23T09:00:36Z",
+  "updated_at": "2018-08-29T02:22:39Z",
+  "pushed_at": "2018-05-13T13:38:30Z",
+  "homepage": null,
+  "size": 7280,
+  "stargazers_count": 29,
+  "language": "ShaderLab",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "JPBotelho": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "ShaderLab": {
+      "bytes": 42835,
+      "color": "#ccc"
+    },
+    "HLSL": {
+      "bytes": 14267,
+      "color": "#ccc"
+    },
+    "C#": {
+      "bytes": 2120,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-08-29T02:28:27.894Z"
+}

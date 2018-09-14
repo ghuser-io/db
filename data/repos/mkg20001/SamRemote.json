@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SamRemote",
+  "full_name": "mkg20001/SamRemote",
+  "owner": "mkg20001",
+  "private": false,
+  "html_url": "https://github.com/mkg20001/SamRemote",
+  "description": "Simple WiFi remote for Samsung TVs",
+  "fork": false,
+  "url": "https://api.github.com/repos/mkg20001/SamRemote",
+  "languages_url": "https://api.github.com/repos/mkg20001/SamRemote/languages",
+  "pulls_url": "https://api.github.com/repos/mkg20001/SamRemote/pulls{/number}",
+  "created_at": "2016-10-01T10:31:03Z",
+  "updated_at": "2018-09-14T06:30:02Z",
+  "pushed_at": "2018-04-22T17:19:20Z",
+  "homepage": "",
+  "size": 1433,
+  "stargazers_count": 15,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mkg20001": 115
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 53130,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-14T08:34:35.394Z"
+}

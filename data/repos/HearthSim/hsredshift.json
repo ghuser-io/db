@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hsredshift",
+  "full_name": "HearthSim/hsredshift",
+  "owner": "HearthSim",
+  "private": false,
+  "html_url": "https://github.com/HearthSim/hsredshift",
+  "description": "📊 Data ingestion and ETL using Amazon Redshift.",
+  "fork": false,
+  "url": "https://api.github.com/repos/HearthSim/hsredshift",
+  "languages_url": "https://api.github.com/repos/HearthSim/hsredshift/languages",
+  "pulls_url": "https://api.github.com/repos/HearthSim/hsredshift/pulls{/number}",
+  "created_at": "2017-01-11T06:11:36Z",
+  "updated_at": "2018-09-06T18:00:36Z",
+  "pushed_at": "2018-08-30T01:44:08Z",
+  "homepage": "https://hsreplay.net",
+  "size": 1580,
+  "stargazers_count": 6,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "HearthSim",
+    "id": 11226219,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExMjI2MjE5",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/11226219?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/HearthSim",
+    "html_url": "https://github.com/HearthSim",
+    "followers_url": "https://api.github.com/users/HearthSim/followers",
+    "following_url": "https://api.github.com/users/HearthSim/following{/other_user}",
+    "gists_url": "https://api.github.com/users/HearthSim/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/HearthSim/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/HearthSim/subscriptions",
+    "organizations_url": "https://api.github.com/users/HearthSim/orgs",
+    "repos_url": "https://api.github.com/users/HearthSim/repos",
+    "events_url": "https://api.github.com/users/HearthSim/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/HearthSim/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "cotsog": 1,
+    "joolean": 52,
+    "azeier": 60,
+    "jleclanche": 215,
+    "beheh": 275,
+    "amw2104": 727
+  },
+  "pulls_authors": [
+    "joolean",
+    "beheh",
+    "jleclanche",
+    "cotsog"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 956380,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T17:08:22.320Z"
+}

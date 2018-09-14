@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "line-chart",
+  "full_name": "azdanov/line-chart",
+  "owner": "azdanov",
+  "private": false,
+  "html_url": "https://github.com/azdanov/line-chart",
+  "description": "D3.js GDP line chart made for FreeCodeCamp",
+  "fork": false,
+  "url": "https://api.github.com/repos/azdanov/line-chart",
+  "languages_url": "https://api.github.com/repos/azdanov/line-chart/languages",
+  "pulls_url": "https://api.github.com/repos/azdanov/line-chart/pulls{/number}",
+  "created_at": "2017-11-07T16:12:07Z",
+  "updated_at": "2018-08-08T10:59:21Z",
+  "pushed_at": "2018-08-08T10:59:14Z",
+  "homepage": "https://azdanov.github.io/line-chart/",
+  "size": 686,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "azdanov": 21
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 5986,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 1572,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1195,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-17T12:34:59.393Z"
+}

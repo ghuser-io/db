@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "WiringPi-Ruby-Legacy",
+  "full_name": "WiringPi/WiringPi-Ruby-Legacy",
+  "owner": "WiringPi",
+  "private": false,
+  "html_url": "https://github.com/WiringPi/WiringPi-Ruby-Legacy",
+  "description": "Ruby gem of the Arduino wiring-like C library WiringPi",
+  "fork": false,
+  "url": "https://api.github.com/repos/WiringPi/WiringPi-Ruby-Legacy",
+  "languages_url": "https://api.github.com/repos/WiringPi/WiringPi-Ruby-Legacy/languages",
+  "pulls_url": "https://api.github.com/repos/WiringPi/WiringPi-Ruby-Legacy/pulls{/number}",
+  "created_at": "2012-06-29T08:35:19Z",
+  "updated_at": "2018-08-13T13:35:15Z",
+  "pushed_at": "2015-03-25T22:20:16Z",
+  "homepage": null,
+  "size": 215,
+  "stargazers_count": 119,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "WiringPi",
+    "id": 1950827,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5NTA4Mjc=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/1950827?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/WiringPi",
+    "html_url": "https://github.com/WiringPi",
+    "followers_url": "https://api.github.com/users/WiringPi/followers",
+    "following_url": "https://api.github.com/users/WiringPi/following{/other_user}",
+    "gists_url": "https://api.github.com/users/WiringPi/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/WiringPi/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/WiringPi/subscriptions",
+    "organizations_url": "https://api.github.com/users/WiringPi/orgs",
+    "repos_url": "https://api.github.com/users/WiringPi/repos",
+    "events_url": "https://api.github.com/users/WiringPi/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/WiringPi/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mikegabriel": 1,
+    "computerlyrik": 2,
+    "Gadgetoid": 16
+  },
+  "pulls_authors": [
+    "jrmhaig",
+    "computerlyrik",
+    "mikegabriel",
+    "itkevin",
+    "staugaard"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 82896,
+      "color": "#555555"
+    },
+    "Ruby": {
+      "bytes": 6427,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:14.220Z"
+}

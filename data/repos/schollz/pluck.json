@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pluck",
+  "full_name": "schollz/pluck",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/pluck",
+  "description": "Pluck text in a fast and intuitive way :rooster:",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/pluck",
+  "languages_url": "https://api.github.com/repos/schollz/pluck/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/pluck/pulls{/number}",
+  "created_at": "2017-08-01T00:31:25Z",
+  "updated_at": "2018-09-09T12:34:46Z",
+  "pushed_at": "2018-06-08T17:07:28Z",
+  "homepage": "",
+  "size": 2681,
+  "stargazers_count": 167,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "tscholl2": 1,
+    "schollz": 79
+  },
+  "pulls_authors": [
+    "schollz",
+    "tscholl2"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 181707,
+      "color": "#e34c26"
+    },
+    "Go": {
+      "bytes": 137430,
+      "color": "#375eab"
+    },
+    "Python": {
+      "bytes": 838,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 813,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:31.621Z"
+}

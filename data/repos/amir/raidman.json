@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "raidman",
+  "full_name": "amir/raidman",
+  "owner": "amir",
+  "private": false,
+  "html_url": "https://github.com/amir/raidman",
+  "description": "Go Riemann client",
+  "fork": false,
+  "url": "https://api.github.com/repos/amir/raidman",
+  "languages_url": "https://api.github.com/repos/amir/raidman/languages",
+  "pulls_url": "https://api.github.com/repos/amir/raidman/pulls{/number}",
+  "created_at": "2013-02-05T20:18:21Z",
+  "updated_at": "2018-09-05T06:43:42Z",
+  "pushed_at": "2017-04-15T20:35:54Z",
+  "homepage": null,
+  "size": 34,
+  "stargazers_count": 64,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Bo0mer": 1,
+    "magiconair": 1,
+    "bmhatfield": 1,
+    "ktf": 1,
+    "moonpolysoft": 1,
+    "nelhage": 1,
+    "swdunlop": 1,
+    "armen": 1,
+    "allenj": 2,
+    "blalor": 3,
+    "amir": 18
+  },
+  "pulls_authors": [
+    "Bo0mer",
+    "magiconair",
+    "bmhatfield",
+    "ktf",
+    "prasincs",
+    "allenj",
+    "blalor",
+    "johnclaus",
+    "moonpolysoft",
+    "nelhage",
+    "swdunlop"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 13630,
+      "color": "#375eab"
+    },
+    "Protocol Buffer": {
+      "bytes": 979,
+      "color": "#ccc"
+    },
+    "Makefile": {
+      "bytes": 100,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T22:27:00.130Z"
+}

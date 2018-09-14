@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "euruko2012.github.com",
+  "full_name": "tomash/euruko2012.github.com",
+  "owner": "tomash",
+  "private": false,
+  "html_url": "https://github.com/tomash/euruko2012.github.com",
+  "description": "The main website",
+  "fork": true,
+  "url": "https://api.github.com/repos/tomash/euruko2012.github.com",
+  "languages_url": "https://api.github.com/repos/tomash/euruko2012.github.com/languages",
+  "pulls_url": "https://api.github.com/repos/tomash/euruko2012.github.com/pulls{/number}",
+  "created_at": "2012-03-16T13:52:35Z",
+  "updated_at": "2013-01-08T06:10:50Z",
+  "pushed_at": "2012-03-16T20:00:46Z",
+  "homepage": "2012.euruko.com",
+  "size": 1981,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "DouweM": 2,
+    "timonv": 4,
+    "joshk": 5,
+    "koos": 9,
+    "dhiemstra": 43
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 947,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 32,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T16:53:12.739Z"
+}

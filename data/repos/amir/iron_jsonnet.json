@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "iron_jsonnet",
+  "full_name": "amir/iron_jsonnet",
+  "owner": "amir",
+  "private": false,
+  "html_url": "https://github.com/amir/iron_jsonnet",
+  "description": "Ironed Jsonnet",
+  "fork": false,
+  "url": "https://api.github.com/repos/amir/iron_jsonnet",
+  "languages_url": "https://api.github.com/repos/amir/iron_jsonnet/languages",
+  "pulls_url": "https://api.github.com/repos/amir/iron_jsonnet/pulls{/number}",
+  "created_at": "2017-08-25T14:58:54Z",
+  "updated_at": "2017-08-25T16:00:10Z",
+  "pushed_at": "2017-09-06T22:23:08Z",
+  "homepage": null,
+  "size": 17,
+  "stargazers_count": 1,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "amir": 22
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Rust": {
+      "bytes": 6232,
+      "color": "#dea584"
+    },
+    "Makefile": {
+      "bytes": 1742,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T22:26:59.867Z"
+}

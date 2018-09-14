@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "seneca-ng-web",
+  "full_name": "rjrodger/seneca-ng-web",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/seneca-ng-web",
+  "description": "Seneca Angular web plugin.",
+  "fork": false,
+  "url": "https://api.github.com/repos/rjrodger/seneca-ng-web",
+  "languages_url": "https://api.github.com/repos/rjrodger/seneca-ng-web/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/seneca-ng-web/pulls{/number}",
+  "created_at": "2014-07-24T23:52:45Z",
+  "updated_at": "2017-05-05T13:27:48Z",
+  "pushed_at": "2015-04-17T16:25:42Z",
+  "homepage": null,
+  "size": 570,
+  "stargazers_count": 10,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "iantocristian": 1,
+    "rjrodger": 14
+  },
+  "pulls_authors": [
+    "iantocristian"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 4274,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 2856,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:34.027Z"
+}

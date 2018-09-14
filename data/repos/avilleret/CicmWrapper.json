@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "CicmWrapper",
+  "full_name": "avilleret/CicmWrapper",
+  "owner": "avilleret",
+  "private": false,
+  "html_url": "https://github.com/avilleret/CicmWrapper",
+  "description": "A C/TK library that aims to facilitate the creation of objects for Pure Data",
+  "fork": true,
+  "url": "https://api.github.com/repos/avilleret/CicmWrapper",
+  "languages_url": "https://api.github.com/repos/avilleret/CicmWrapper/languages",
+  "pulls_url": "https://api.github.com/repos/avilleret/CicmWrapper/pulls{/number}",
+  "created_at": "2014-09-20T10:03:48Z",
+  "updated_at": "2016-12-05T13:53:57Z",
+  "pushed_at": "2017-09-19T20:47:11Z",
+  "homepage": "",
+  "size": 68160,
+  "stargazers_count": 2,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-2-clause",
+    "name": "BSD 2-Clause \"Simplified\" License",
+    "spdx_id": "BSD-2-Clause",
+    "url": "https://api.github.com/licenses/bsd-2-clause",
+    "node_id": "MDc6TGljZW5zZTQ="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 1,
+    "thomasLeMeur": 6,
+    "avilleret": 17,
+    "pierreguillot": 361
+  },
+  "pulls_authors": [
+    "jcelerier",
+    "avilleret"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 288640,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 2322,
+      "color": "#f34b7d"
+    },
+    "M4": {
+      "bytes": 1343,
+      "color": "#ccc"
+    },
+    "Makefile": {
+      "bytes": 401,
+      "color": "#427819"
+    },
+    "CMake": {
+      "bytes": 352,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 55,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:51.094Z"
+}

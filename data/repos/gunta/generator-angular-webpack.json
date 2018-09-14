@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "generator-angular-webpack",
+  "full_name": "gunta/generator-angular-webpack",
+  "owner": "gunta",
+  "private": false,
+  "html_url": "https://github.com/gunta/generator-angular-webpack",
+  "description": "Yeoman generator for Enterprise Angular WebPack projects.",
+  "fork": true,
+  "url": "https://api.github.com/repos/gunta/generator-angular-webpack",
+  "languages_url": "https://api.github.com/repos/gunta/generator-angular-webpack/languages",
+  "pulls_url": "https://api.github.com/repos/gunta/generator-angular-webpack/pulls{/number}",
+  "created_at": "2014-03-18T08:44:47Z",
+  "updated_at": "2017-03-02T09:55:09Z",
+  "pushed_at": "2014-03-18T08:59:15Z",
+  "homepage": "",
+  "size": 205,
+  "stargazers_count": 9,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sindresorhus": 1,
+    "capelio": 2,
+    "huntout": 4,
+    "gunta": 5,
+    "cgross": 17
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 27757,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 659,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T23:06:06.277Z"
+}

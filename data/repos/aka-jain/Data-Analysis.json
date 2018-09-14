@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Data-Analysis",
+  "full_name": "aka-jain/Data-Analysis",
+  "owner": "aka-jain",
+  "private": false,
+  "html_url": "https://github.com/aka-jain/Data-Analysis",
+  "description": "Sachin's Bio data analysis",
+  "fork": false,
+  "url": "https://api.github.com/repos/aka-jain/Data-Analysis",
+  "languages_url": "https://api.github.com/repos/aka-jain/Data-Analysis/languages",
+  "created_at": "2016-09-05T06:44:11Z",
+  "updated_at": "2017-03-02T17:43:05Z",
+  "pushed_at": "2016-11-06T06:22:58Z",
+  "homepage": "https://sachinanalysis.herokuapp.com/",
+  "size": 1774,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ankitjain28may": 1,
+    "aka-jain": 1
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 13427,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 7041,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 6991,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/aka-jain/Data-Analysis/pulls{/number}",
+  "pulls_authors": [
+    "ankitjain28may"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "lssdp",
+  "full_name": "yodakohl/lssdp",
+  "owner": "yodakohl",
+  "private": false,
+  "html_url": "https://github.com/yodakohl/lssdp",
+  "description": "light weight SSDP library",
+  "fork": true,
+  "url": "https://api.github.com/repos/yodakohl/lssdp",
+  "languages_url": "https://api.github.com/repos/yodakohl/lssdp/languages",
+  "pulls_url": "https://api.github.com/repos/yodakohl/lssdp/pulls{/number}",
+  "created_at": "2017-03-02T13:54:45Z",
+  "updated_at": "2018-08-21T16:43:58Z",
+  "pushed_at": "2017-05-22T15:40:51Z",
+  "homepage": null,
+  "size": 125,
+  "stargazers_count": 2,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rolizo": 12,
+    "pmeerw": 29,
+    "zlargon": 88
+  },
+  "pulls_authors": [
+    "rolizo",
+    "pmeerw"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 33774,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 10883,
+      "color": "#f34b7d"
+    },
+    "Makefile": {
+      "bytes": 723,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 273,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T16:54:23.743Z"
+}

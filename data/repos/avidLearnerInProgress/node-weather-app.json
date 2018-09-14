@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-weather-app",
+  "full_name": "avidLearnerInProgress/node-weather-app",
+  "owner": "avidLearnerInProgress",
+  "private": false,
+  "html_url": "https://github.com/avidLearnerInProgress/node-weather-app",
+  "description": "Minimal Command Line Weather Application written in Node.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/avidLearnerInProgress/node-weather-app",
+  "languages_url": "https://api.github.com/repos/avidLearnerInProgress/node-weather-app/languages",
+  "created_at": "2018-01-26T16:22:37Z",
+  "updated_at": "2018-03-30T01:50:02Z",
+  "pushed_at": "2018-01-26T16:30:27Z",
+  "homepage": null,
+  "size": 36,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "avidLearnerInProgress": 2
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 11718,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/avidLearnerInProgress/node-weather-app/pulls{/number}",
+  "pulls_authors": []
+}

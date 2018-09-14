@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fractalify",
+  "full_name": "madvas/fractalify",
+  "owner": "madvas",
+  "private": false,
+  "html_url": "https://github.com/madvas/fractalify",
+  "description": "Repo for fractalify.com",
+  "fork": false,
+  "url": "https://api.github.com/repos/madvas/fractalify",
+  "languages_url": "https://api.github.com/repos/madvas/fractalify/languages",
+  "pulls_url": "https://api.github.com/repos/madvas/fractalify/pulls{/number}",
+  "created_at": "2015-08-11T19:33:14Z",
+  "updated_at": "2018-08-13T11:27:01Z",
+  "pushed_at": "2016-05-01T17:27:30Z",
+  "homepage": "http://fractalify.com/",
+  "size": 1843,
+  "stargazers_count": 100,
+  "language": "Clojure",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "epl-1.0",
+    "name": "Eclipse Public License 1.0",
+    "spdx_id": "EPL-1.0",
+    "url": "https://api.github.com/licenses/epl-1.0",
+    "node_id": "MDc6TGljZW5zZTc="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "smee": 1,
+    "madvas": 102
+  },
+  "pulls_authors": [
+    "smee"
+  ],
+  "languages": {
+    "Clojure": {
+      "bytes": 224933,
+      "color": "#db5855"
+    },
+    "CSS": {
+      "bytes": 12275,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 2354,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1946,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T13:51:47.584Z"
+}

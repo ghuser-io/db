@@ -1,0 +1,123 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "yournextrepresentative",
+  "full_name": "mysociety/yournextrepresentative",
+  "owner": "mysociety",
+  "private": false,
+  "html_url": "https://github.com/mysociety/yournextrepresentative",
+  "description": "A website for crowd-sourcing structured election candidate data",
+  "fork": false,
+  "url": "https://api.github.com/repos/mysociety/yournextrepresentative",
+  "languages_url": "https://api.github.com/repos/mysociety/yournextrepresentative/languages",
+  "pulls_url": "https://api.github.com/repos/mysociety/yournextrepresentative/pulls{/number}",
+  "created_at": "2014-09-10T07:32:13Z",
+  "updated_at": "2018-05-26T05:49:52Z",
+  "pushed_at": "2017-10-04T13:45:50Z",
+  "homepage": "https://candidates.democracyclub.org.uk/",
+  "size": 8736,
+  "stargazers_count": 51,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "mysociety",
+    "id": 141338,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/141338?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mysociety",
+    "html_url": "https://github.com/mysociety",
+    "followers_url": "https://api.github.com/users/mysociety/followers",
+    "following_url": "https://api.github.com/users/mysociety/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mysociety/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mysociety/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mysociety/subscriptions",
+    "organizations_url": "https://api.github.com/users/mysociety/orgs",
+    "repos_url": "https://api.github.com/users/mysociety/repos",
+    "events_url": "https://api.github.com/users/mysociety/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mysociety/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "chris48s": 1,
+    "hugovk": 1,
+    "davewhiteland": 1,
+    "EdwardBetts": 1,
+    "frabcus": 1,
+    "jarofgreen": 1,
+    "tfgg": 3,
+    "chrismytton": 3,
+    "evz": 6,
+    "jacksonj04": 8,
+    "lizconlan": 17,
+    "andylolz": 19,
+    "dracos": 22,
+    "martinszy": 22,
+    "wfdd": 59,
+    "zarino": 80,
+    "symroe": 123,
+    "struan": 165,
+    "mhl": 1561
+  },
+  "pulls_authors": [
+    "mhl",
+    "jacksonj04",
+    "zarino",
+    "hugovk",
+    "wfdd",
+    "struan",
+    "andylolz",
+    "symroe",
+    "evz",
+    "martinszy",
+    "davewhiteland",
+    "dracos",
+    "lizconlan",
+    "EdwardBetts",
+    "frabcus",
+    "tfgg",
+    "francisdavey",
+    "jarofgreen",
+    "chrismytton"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 1282739,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 196885,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 71827,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 62222,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 3969,
+      "color": "#89e051"
+    },
+    "Ruby": {
+      "bytes": 1305,
+      "color": "#701516"
+    },
+    "Emacs Lisp": {
+      "bytes": 63,
+      "color": "#c065db"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:46.572Z"
+}

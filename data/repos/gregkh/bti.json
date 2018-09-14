@@ -1,0 +1,104 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bti",
+  "full_name": "gregkh/bti",
+  "owner": "gregkh",
+  "private": false,
+  "html_url": "https://github.com/gregkh/bti",
+  "description": "bash twitter ididocy",
+  "fork": false,
+  "url": "https://api.github.com/repos/gregkh/bti",
+  "languages_url": "https://api.github.com/repos/gregkh/bti/languages",
+  "pulls_url": "https://api.github.com/repos/gregkh/bti/pulls{/number}",
+  "created_at": "2008-06-25T05:56:39Z",
+  "updated_at": "2018-08-29T04:23:24Z",
+  "pushed_at": "2017-12-27T10:18:48Z",
+  "homepage": "",
+  "size": 319,
+  "stargazers_count": 146,
+  "language": "Perl",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "anisse": 1,
+    "arssivka": 1,
+    "scop": 1,
+    "eddelbuettel": 1,
+    "pferor": 1,
+    "gmcharlt": 1,
+    "grobian": 1,
+    "siers": 1,
+    "leif81": 1,
+    "ruckuus": 1,
+    "umonkey": 1,
+    "rrthomas": 1,
+    "mathstuf": 1,
+    "ahf": 1,
+    "totdb": 1,
+    "vjsanjay": 1,
+    "michel-slm": 3,
+    "neuschaefer": 4,
+    "theappleman": 4,
+    "agimenez": 5,
+    "bartman": 7,
+    "Flameeyes": 8,
+    "paulrho": 9,
+    "gregoa": 16,
+    "amir": 30,
+    "gregkh": 174
+  },
+  "pulls_authors": [
+    "jelly",
+    "anisse",
+    "arssivka",
+    "scop",
+    "eddelbuettel",
+    "paulrho",
+    "pferor",
+    "perillamint",
+    "gmcharlt",
+    "amir",
+    "siers",
+    "ghost",
+    "agimenez",
+    "Flameeyes",
+    "leif81",
+    "ruckuus",
+    "sunng87"
+  ],
+  "languages": {
+    "Perl": {
+      "bytes": 77338,
+      "color": "#0298c3"
+    },
+    "C": {
+      "bytes": 56423,
+      "color": "#555555"
+    },
+    "Roff": {
+      "bytes": 11443,
+      "color": "#ecdebe"
+    },
+    "Shell": {
+      "bytes": 4572,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 1649,
+      "color": "#427819"
+    },
+    "M4": {
+      "bytes": 981,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-11T22:27:02.484Z"
+}

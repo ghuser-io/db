@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "flaq",
+  "full_name": "vividvilla/flaq",
+  "owner": "vividvilla",
+  "private": false,
+  "html_url": "https://github.com/vividvilla/flaq",
+  "description": "flaq - Q&A",
+  "fork": false,
+  "url": "https://api.github.com/repos/vividvilla/flaq",
+  "languages_url": "https://api.github.com/repos/vividvilla/flaq/languages",
+  "pulls_url": "https://api.github.com/repos/vividvilla/flaq/pulls{/number}",
+  "created_at": "2014-09-29T10:53:05Z",
+  "updated_at": "2018-08-16T13:29:18Z",
+  "pushed_at": "2018-03-02T17:50:16Z",
+  "homepage": "",
+  "size": 54,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "vividvilla": 60
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 35850,
+      "color": "#3572A5"
+    },
+    "PHP": {
+      "bytes": 38,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:17.899Z"
+}

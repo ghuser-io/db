@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "state-export-prototype",
+  "full_name": "peterschwarz/state-export-prototype",
+  "owner": "peterschwarz",
+  "private": false,
+  "html_url": "https://github.com/peterschwarz/state-export-prototype",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/peterschwarz/state-export-prototype",
+  "languages_url": "https://api.github.com/repos/peterschwarz/state-export-prototype/languages",
+  "pulls_url": "https://api.github.com/repos/peterschwarz/state-export-prototype/pulls{/number}",
+  "created_at": "2017-03-30T22:21:04Z",
+  "updated_at": "2018-04-24T23:08:24Z",
+  "pushed_at": "2017-12-16T23:19:15Z",
+  "homepage": null,
+  "size": 11,
+  "stargazers_count": 5,
+  "language": "Clojure",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "peterschwarz": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Clojure": {
+      "bytes": 23098,
+      "color": "#db5855"
+    }
+  },
+  "fetched_at": "2018-09-11T17:14:21.035Z"
+}

@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fundamental.js",
+  "full_name": "radekstepan/fundamental.js",
+  "owner": "radekstepan",
+  "private": false,
+  "html_url": "https://github.com/radekstepan/fundamental.js",
+  "description": "An alternative to a classic js Todo App that is meant to be less coupled and follow Addy Osmani`s Patterns For Large-Scale JavaScript Application Architecture approach.",
+  "fork": false,
+  "url": "https://api.github.com/repos/radekstepan/fundamental.js",
+  "languages_url": "https://api.github.com/repos/radekstepan/fundamental.js/languages",
+  "pulls_url": "https://api.github.com/repos/radekstepan/fundamental.js/pulls{/number}",
+  "created_at": "2011-11-24T22:51:49Z",
+  "updated_at": "2016-02-17T11:08:11Z",
+  "pushed_at": "2011-11-25T10:58:16Z",
+  "homepage": "",
+  "size": 231,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "radekstepan": 20
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 337506,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 32,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T13:51:05.368Z"
+}

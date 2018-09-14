@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "seneca-beanstalk-transport",
+  "full_name": "senecajs/seneca-beanstalk-transport",
+  "owner": "senecajs",
+  "private": false,
+  "html_url": "https://github.com/senecajs/seneca-beanstalk-transport",
+  "description": "Seneca micro-services message transport over beanstalkd queues.",
+  "fork": false,
+  "url": "https://api.github.com/repos/senecajs/seneca-beanstalk-transport",
+  "languages_url": "https://api.github.com/repos/senecajs/seneca-beanstalk-transport/languages",
+  "pulls_url": "https://api.github.com/repos/senecajs/seneca-beanstalk-transport/pulls{/number}",
+  "created_at": "2014-06-30T15:27:33Z",
+  "updated_at": "2017-09-17T15:33:42Z",
+  "pushed_at": "2018-01-21T16:00:33Z",
+  "homepage": null,
+  "size": 26,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "senecajs",
+    "id": 10085488,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwMDg1NDg4",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/10085488?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/senecajs",
+    "html_url": "https://github.com/senecajs",
+    "followers_url": "https://api.github.com/users/senecajs/followers",
+    "following_url": "https://api.github.com/users/senecajs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/senecajs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/senecajs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/senecajs/subscriptions",
+    "organizations_url": "https://api.github.com/users/senecajs/orgs",
+    "repos_url": "https://api.github.com/users/senecajs/repos",
+    "events_url": "https://api.github.com/users/senecajs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/senecajs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mcdonnelldean": 2,
+    "rjrodger": 8,
+    "maxired": 10
+  },
+  "pulls_authors": [
+    "amencionna",
+    "shanel262",
+    "eeswr",
+    "mcdonnelldean",
+    "maxired",
+    "wprl",
+    "RamonDonnell"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 8695,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:28.415Z"
+}

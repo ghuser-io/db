@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "laravel-boris",
+  "full_name": "davejamesmiller/laravel-boris",
+  "owner": "davejamesmiller",
+  "private": false,
+  "html_url": "https://github.com/davejamesmiller/laravel-boris",
+  "description": "Laravel Boris - Adds an 'artisan boris' command to run the Boris REPL in the Laravel environment",
+  "fork": false,
+  "url": "https://api.github.com/repos/davejamesmiller/laravel-boris",
+  "languages_url": "https://api.github.com/repos/davejamesmiller/laravel-boris/languages",
+  "pulls_url": "https://api.github.com/repos/davejamesmiller/laravel-boris/pulls{/number}",
+  "created_at": "2013-05-08T22:06:06Z",
+  "updated_at": "2017-11-09T12:20:11Z",
+  "pushed_at": "2016-09-24T04:27:39Z",
+  "homepage": "",
+  "size": 181,
+  "stargazers_count": 23,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "GrahamCampbell": 1,
+    "hl": 1,
+    "davejamesmiller": 11
+  },
+  "pulls_authors": [
+    "hootlex",
+    "GrahamCampbell",
+    "hl"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 1556,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:46.598Z"
+}

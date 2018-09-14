@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Task-solutions",
+  "full_name": "kronos/Task-solutions",
+  "owner": "kronos",
+  "private": false,
+  "html_url": "https://github.com/kronos/Task-solutions",
+  "description": "Solutions for sport programming tasks",
+  "fork": false,
+  "url": "https://api.github.com/repos/kronos/Task-solutions",
+  "languages_url": "https://api.github.com/repos/kronos/Task-solutions/languages",
+  "pulls_url": "https://api.github.com/repos/kronos/Task-solutions/pulls{/number}",
+  "created_at": "2009-09-02T21:40:11Z",
+  "updated_at": "2018-09-09T15:42:53Z",
+  "pushed_at": "2018-09-09T15:42:51Z",
+  "homepage": "",
+  "size": 189,
+  "stargazers_count": 2,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "kronos": 67
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 227789,
+      "color": "#f34b7d"
+    },
+    "Java": {
+      "bytes": 144626,
+      "color": "#b07219"
+    },
+    "Go": {
+      "bytes": 34360,
+      "color": "#375eab"
+    },
+    "Ruby": {
+      "bytes": 16128,
+      "color": "#701516"
+    },
+    "OCaml": {
+      "bytes": 4884,
+      "color": "#3be133"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:29.965Z"
+}

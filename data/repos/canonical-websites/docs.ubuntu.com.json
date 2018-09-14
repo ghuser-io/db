@@ -1,0 +1,103 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docs.ubuntu.com",
+  "full_name": "canonical-websites/docs.ubuntu.com",
+  "owner": "canonical-websites",
+  "private": false,
+  "html_url": "https://github.com/canonical-websites/docs.ubuntu.com",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/canonical-websites/docs.ubuntu.com",
+  "languages_url": "https://api.github.com/repos/canonical-websites/docs.ubuntu.com/languages",
+  "pulls_url": "https://api.github.com/repos/canonical-websites/docs.ubuntu.com/pulls{/number}",
+  "created_at": "2016-08-22T08:26:00Z",
+  "updated_at": "2018-09-05T14:30:59Z",
+  "pushed_at": "2018-09-05T14:30:57Z",
+  "homepage": null,
+  "size": 5815,
+  "stargazers_count": 4,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx_id": "LGPL-3.0",
+    "url": "https://api.github.com/licenses/lgpl-3.0",
+    "node_id": "MDc6TGljZW5zZTEy"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "canonical-websites",
+    "id": 26072773,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI2MDcyNzcz",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/26072773?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/canonical-websites",
+    "html_url": "https://github.com/canonical-websites",
+    "followers_url": "https://api.github.com/users/canonical-websites/followers",
+    "following_url": "https://api.github.com/users/canonical-websites/following{/other_user}",
+    "gists_url": "https://api.github.com/users/canonical-websites/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/canonical-websites/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/canonical-websites/subscriptions",
+    "organizations_url": "https://api.github.com/users/canonical-websites/orgs",
+    "repos_url": "https://api.github.com/users/canonical-websites/repos",
+    "events_url": "https://api.github.com/users/canonical-websites/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/canonical-websites/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "tbille": 1,
+    "pmahnke": 1,
+    "Caleb-Ellis": 1,
+    "pmatulis": 1,
+    "degville": 2,
+    "caldav": 2,
+    "evilnick": 4,
+    "deadlight": 5,
+    "sparkiegeek": 6,
+    "anthonydillon": 8,
+    "steverydz": 12,
+    "WillMoggridge": 20,
+    "nottrobin": 154
+  },
+  "pulls_authors": [
+    "sparkiegeek",
+    "tbille",
+    "nottrobin",
+    "pmahnke",
+    "anthonydillon",
+    "evilnick",
+    "steverydz",
+    "Caleb-Ellis",
+    "WillMoggridge",
+    "pmatulis",
+    "degville",
+    "deadlight",
+    "caldav"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 29927,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 25215,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 5196,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 1950,
+      "color": "#563d7c"
+    },
+    "Dockerfile": {
+      "bytes": 432,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-11T17:15:36.264Z"
+}

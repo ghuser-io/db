@@ -1,0 +1,74 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "babel-plugin-inline-import",
+  "full_name": "credcollective/babel-plugin-inline-import",
+  "owner": "credcollective",
+  "private": false,
+  "html_url": "https://github.com/credcollective/babel-plugin-inline-import",
+  "description": "inline the raw content of import statements",
+  "fork": false,
+  "url": "https://api.github.com/repos/credcollective/babel-plugin-inline-import",
+  "languages_url": "https://api.github.com/repos/credcollective/babel-plugin-inline-import/languages",
+  "pulls_url": "https://api.github.com/repos/credcollective/babel-plugin-inline-import/pulls{/number}",
+  "created_at": "2016-08-30T09:05:44Z",
+  "updated_at": "2018-09-13T02:44:26Z",
+  "pushed_at": "2018-06-07T16:02:50Z",
+  "homepage": "https://www.npmjs.com/package/babel-plugin-inline-import",
+  "size": 95,
+  "stargazers_count": 143,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "credcollective",
+    "id": 15685116,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1Njg1MTE2",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/15685116?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/credcollective",
+    "html_url": "https://github.com/credcollective",
+    "followers_url": "https://api.github.com/users/credcollective/followers",
+    "following_url": "https://api.github.com/users/credcollective/following{/other_user}",
+    "gists_url": "https://api.github.com/users/credcollective/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/credcollective/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/credcollective/subscriptions",
+    "organizations_url": "https://api.github.com/users/credcollective/orgs",
+    "repos_url": "https://api.github.com/users/credcollective/repos",
+    "events_url": "https://api.github.com/users/credcollective/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/credcollective/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "degr": 1,
+    "mastilver": 1,
+    "FredericHeem": 1,
+    "aldeed": 2,
+    "elliottsj": 3,
+    "arunoda": 5,
+    "michaelzoidl": 18,
+    "zvictor": 23
+  },
+  "pulls_authors": [
+    "aldeed",
+    "richardheng-okta",
+    "elliottsj",
+    "avalla",
+    "scf4"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 7930,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-13T17:05:37.998Z"
+}

@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "react-ace-webpack-example",
+  "full_name": "securingsincity/react-ace-webpack-example",
+  "owner": "securingsincity",
+  "private": false,
+  "html_url": "https://github.com/securingsincity/react-ace-webpack-example",
+  "description": "Example of react-ace using webpack. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/securingsincity/react-ace-webpack-example",
+  "languages_url": "https://api.github.com/repos/securingsincity/react-ace-webpack-example/languages",
+  "pulls_url": "https://api.github.com/repos/securingsincity/react-ace-webpack-example/pulls{/number}",
+  "created_at": "2015-03-08T23:04:23Z",
+  "updated_at": "2018-08-03T12:17:33Z",
+  "pushed_at": "2018-08-03T12:17:32Z",
+  "homepage": null,
+  "size": 6,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "snyk-bot": 1,
+    "basarat": 1,
+    "securingsincity": 3
+  },
+  "pulls_authors": [
+    "snyk-bot",
+    "basarat"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 857,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 167,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T00:33:36.936Z"
+}

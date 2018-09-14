@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "zim",
+  "full_name": "dignifiedquire/zim",
+  "owner": "dignifiedquire",
+  "private": false,
+  "html_url": "https://github.com/dignifiedquire/zim",
+  "description": "zim reader in rust",
+  "fork": true,
+  "url": "https://api.github.com/repos/dignifiedquire/zim",
+  "languages_url": "https://api.github.com/repos/dignifiedquire/zim/languages",
+  "pulls_url": "https://api.github.com/repos/dignifiedquire/zim/pulls{/number}",
+  "created_at": "2017-04-29T13:03:04Z",
+  "updated_at": "2018-09-11T16:48:03Z",
+  "pushed_at": "2018-06-04T19:20:29Z",
+  "homepage": null,
+  "size": 1940,
+  "stargazers_count": 8,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mkg20001": 1,
+    "eminence": 4,
+    "dignifiedquire": 16
+  },
+  "pulls_authors": [
+    "dignifiedquire",
+    "mkg20001"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 30375,
+      "color": "#dea584"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:32.971Z"
+}

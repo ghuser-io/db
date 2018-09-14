@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "foss-np.github.com",
+  "full_name": "foss-np/foss-np.github.com",
+  "owner": "foss-np",
+  "private": false,
+  "html_url": "https://github.com/foss-np/foss-np.github.com",
+  "description": "FOSS Nepal Community Website.",
+  "fork": false,
+  "url": "https://api.github.com/repos/foss-np/foss-np.github.com",
+  "languages_url": "https://api.github.com/repos/foss-np/foss-np.github.com/languages",
+  "pulls_url": "https://api.github.com/repos/foss-np/foss-np.github.com/pulls{/number}",
+  "created_at": "2013-02-23T17:05:24Z",
+  "updated_at": "2017-01-23T18:30:51Z",
+  "pushed_at": "2017-01-25T03:26:41Z",
+  "homepage": "http://foss-np.github.io/",
+  "size": 1481,
+  "stargazers_count": 3,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "foss-np",
+    "id": 3609970,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM2MDk5NzA=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/3609970?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/foss-np",
+    "html_url": "https://github.com/foss-np",
+    "followers_url": "https://api.github.com/users/foss-np/followers",
+    "following_url": "https://api.github.com/users/foss-np/following{/other_user}",
+    "gists_url": "https://api.github.com/users/foss-np/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/foss-np/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/foss-np/subscriptions",
+    "organizations_url": "https://api.github.com/users/foss-np/orgs",
+    "repos_url": "https://api.github.com/users/foss-np/repos",
+    "events_url": "https://api.github.com/users/foss-np/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/foss-np/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "shubhajeet": 2,
+    "rhoit": 2,
+    "prakashneupane": 2,
+    "hardfire": 4,
+    "samundra": 6,
+    "sushilthe": 9
+  },
+  "pulls_authors": [
+    "samundra",
+    "amitness"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 10361,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1191,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 742,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 62,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:33.196Z"
+}

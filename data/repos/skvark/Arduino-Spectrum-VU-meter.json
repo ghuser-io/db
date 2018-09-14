@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Arduino-Spectrum-VU-meter",
+  "full_name": "skvark/Arduino-Spectrum-VU-meter",
+  "owner": "skvark",
+  "private": false,
+  "html_url": "https://github.com/skvark/Arduino-Spectrum-VU-meter",
+  "description": "Arduino + Audio + Fast Fourier Transform + 6 x 8 RGB LED screen",
+  "fork": false,
+  "url": "https://api.github.com/repos/skvark/Arduino-Spectrum-VU-meter",
+  "languages_url": "https://api.github.com/repos/skvark/Arduino-Spectrum-VU-meter/languages",
+  "pulls_url": "https://api.github.com/repos/skvark/Arduino-Spectrum-VU-meter/pulls{/number}",
+  "created_at": "2012-08-16T14:05:15Z",
+  "updated_at": "2015-11-11T06:45:34Z",
+  "pushed_at": "2012-08-20T01:12:22Z",
+  "homepage": null,
+  "size": 304,
+  "stargazers_count": 2,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "skvark": 13
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 45139,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 16870,
+      "color": "#f34b7d"
+    },
+    "Java": {
+      "bytes": 15395,
+      "color": "#b07219"
+    },
+    "Arduino": {
+      "bytes": 13462,
+      "color": "#ccc"
+    },
+    "Objective-C": {
+      "bytes": 6853,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-11T01:16:35.484Z"
+}

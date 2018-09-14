@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "GitHub-Dash-Aligner",
+  "full_name": "aashutoshrathi/GitHub-Dash-Aligner",
+  "owner": "aashutoshrathi",
+  "private": false,
+  "html_url": "https://github.com/aashutoshrathi/GitHub-Dash-Aligner",
+  "description": "New update of GitHub moved Dashboard to Left-Hand side, switch back with just one click. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/aashutoshrathi/GitHub-Dash-Aligner",
+  "languages_url": "https://api.github.com/repos/aashutoshrathi/GitHub-Dash-Aligner/languages",
+  "pulls_url": "https://api.github.com/repos/aashutoshrathi/GitHub-Dash-Aligner/pulls{/number}",
+  "created_at": "2018-05-20T07:10:41Z",
+  "updated_at": "2018-08-18T05:39:00Z",
+  "pushed_at": "2018-08-18T05:38:58Z",
+  "homepage": "https://addons.mozilla.org/en-US/firefox/addon/github-dashboard-fix/",
+  "size": 113,
+  "stargazers_count": 29,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "aashutoshrathi": 13
+  },
+  "pulls_authors": [
+    "aashutoshrathi"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2032,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 854,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-05T16:59:33.552Z"
+}

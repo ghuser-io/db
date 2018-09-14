@@ -1,0 +1,86 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "devfest-landing-2017",
+  "full_name": "GDGVIT/devfest-landing-2017",
+  "owner": "GDGVIT",
+  "private": false,
+  "html_url": "https://github.com/GDGVIT/devfest-landing-2017",
+  "description": "Landing page for Devfest '17",
+  "fork": false,
+  "url": "https://api.github.com/repos/GDGVIT/devfest-landing-2017",
+  "languages_url": "https://api.github.com/repos/GDGVIT/devfest-landing-2017/languages",
+  "pulls_url": "https://api.github.com/repos/GDGVIT/devfest-landing-2017/pulls{/number}",
+  "created_at": "2017-09-25T17:16:15Z",
+  "updated_at": "2017-10-13T16:53:43Z",
+  "pushed_at": "2017-10-19T19:11:54Z",
+  "homepage": "http://gdgvitvellore.com/devfest-landing-2017/",
+  "size": 3774,
+  "stargazers_count": 2,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "GDGVIT",
+    "id": 11557748,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExNTU3NzQ4",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/11557748?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/GDGVIT",
+    "html_url": "https://github.com/GDGVIT",
+    "followers_url": "https://api.github.com/users/GDGVIT/followers",
+    "following_url": "https://api.github.com/users/GDGVIT/following{/other_user}",
+    "gists_url": "https://api.github.com/users/GDGVIT/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/GDGVIT/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/GDGVIT/subscriptions",
+    "organizations_url": "https://api.github.com/users/GDGVIT/orgs",
+    "repos_url": "https://api.github.com/users/GDGVIT/repos",
+    "events_url": "https://api.github.com/users/GDGVIT/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/GDGVIT/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "imjog": 1,
+    "thepriefy": 1,
+    "alxlark": 1,
+    "harshil1712": 1,
+    "digaant333": 1,
+    "systemplado": 2,
+    "sch00lb0y": 2,
+    "hkedia321": 4,
+    "saurav-bhagat": 8,
+    "technophilic": 30
+  },
+  "pulls_authors": [
+    "schalkneethling",
+    "Billmike",
+    "imjog",
+    "systemplado",
+    "saycheeseter",
+    "thotayashwanth123",
+    "thedevelopertools",
+    "thepriefy",
+    "bran921007",
+    "alxlark",
+    "harshil1712",
+    "hkedia321",
+    "digaant333"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 218375,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 147679,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 40833,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-03T18:26:35.615Z"
+}

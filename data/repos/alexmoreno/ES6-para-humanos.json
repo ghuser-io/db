@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ES6-para-humanos",
+  "full_name": "alexmoreno/ES6-para-humanos",
+  "owner": "alexmoreno",
+  "private": false,
+  "html_url": "https://github.com/alexmoreno/ES6-para-humanos",
+  "description": "Um guia de fácil compreensão pra começar a escrever ES6",
+  "fork": false,
+  "url": "https://api.github.com/repos/alexmoreno/ES6-para-humanos",
+  "languages_url": "https://api.github.com/repos/alexmoreno/ES6-para-humanos/languages",
+  "pulls_url": "https://api.github.com/repos/alexmoreno/ES6-para-humanos/pulls{/number}",
+  "created_at": "2016-07-13T14:36:59Z",
+  "updated_at": "2018-09-12T17:38:06Z",
+  "pushed_at": "2017-09-30T17:50:34Z",
+  "homepage": null,
+  "size": 95,
+  "stargazers_count": 475,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "migueltarga": 1,
+    "dmknob": 1,
+    "lennonjesus": 1,
+    "felipesousa": 1,
+    "alexmoreno": 5
+  },
+  "pulls_authors": [
+    "migueltarga",
+    "dmknob",
+    "leonardosouza",
+    "lennonjesus",
+    "felipesousa"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-12T23:42:47.306Z"
+}

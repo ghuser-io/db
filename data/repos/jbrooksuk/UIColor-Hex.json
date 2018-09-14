@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "UIColor-Hex",
+  "full_name": "jbrooksuk/UIColor-Hex",
+  "owner": "jbrooksuk",
+  "private": false,
+  "html_url": "https://github.com/jbrooksuk/UIColor-Hex",
+  "description": "UIColorCategory to create color object from hex values",
+  "fork": false,
+  "url": "https://api.github.com/repos/jbrooksuk/UIColor-Hex",
+  "languages_url": "https://api.github.com/repos/jbrooksuk/UIColor-Hex/languages",
+  "pulls_url": "https://api.github.com/repos/jbrooksuk/UIColor-Hex/pulls{/number}",
+  "created_at": "2013-09-27T16:30:30Z",
+  "updated_at": "2013-10-04T13:38:23Z",
+  "pushed_at": "2013-09-27T16:47:35Z",
+  "homepage": "http://james.brooks.so",
+  "size": 112,
+  "stargazers_count": 1,
+  "language": "Objective-C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jbrooksuk": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Objective-C": {
+      "bytes": 786,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:01.369Z"
+}

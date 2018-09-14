@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "archived-node-libssh",
+  "full_name": "rvagg/archived-node-libssh",
+  "owner": "rvagg",
+  "private": false,
+  "html_url": "https://github.com/rvagg/archived-node-libssh",
+  "description": "A Low-level Node.js binding for libssh",
+  "fork": false,
+  "url": "https://api.github.com/repos/rvagg/archived-node-libssh",
+  "languages_url": "https://api.github.com/repos/rvagg/archived-node-libssh/languages",
+  "pulls_url": "https://api.github.com/repos/rvagg/archived-node-libssh/pulls{/number}",
+  "created_at": "2013-07-13T10:01:13Z",
+  "updated_at": "2018-04-05T15:58:37Z",
+  "pushed_at": "2015-05-08T20:32:27Z",
+  "homepage": "",
+  "size": 1509,
+  "stargazers_count": 128,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dirk": 1,
+    "cfra": 1,
+    "deian": 1,
+    "nwpierce": 1,
+    "dcolens": 1,
+    "zealic": 1,
+    "pyrotechnick": 1,
+    "R4wizard": 2,
+    "mscdex": 2,
+    "AudriusButkevicius": 2,
+    "ndrut": 4,
+    "maboiteaspam": 4,
+    "KenanSulayman": 5,
+    "rvagg": 64
+  },
+  "pulls_authors": [
+    "KenanSulayman",
+    "dirk",
+    "cfra",
+    "ndrut",
+    "yu-lu",
+    "deian",
+    "tlrobinson",
+    "R4wizard",
+    "maboiteaspam",
+    "nwpierce",
+    "chrisdew",
+    "dariusc93",
+    "zdwolfe",
+    "dcolens",
+    "mscdex",
+    "AudriusButkevicius",
+    "zealic",
+    "pyrotechnick"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 59691,
+      "color": "#f34b7d"
+    },
+    "JavaScript": {
+      "bytes": 30255,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 2784,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T17:13:19.160Z"
+}

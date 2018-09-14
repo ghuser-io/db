@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "scaleway-debian-coreos",
+  "full_name": "meyskens/scaleway-debian-coreos",
+  "owner": "meyskens",
+  "private": false,
+  "html_url": "https://github.com/meyskens/scaleway-debian-coreos",
+  "description": "scaleway-ubuntu-coreos but with debian",
+  "fork": false,
+  "url": "https://api.github.com/repos/meyskens/scaleway-debian-coreos",
+  "languages_url": "https://api.github.com/repos/meyskens/scaleway-debian-coreos/languages",
+  "pulls_url": "https://api.github.com/repos/meyskens/scaleway-debian-coreos/pulls{/number}",
+  "created_at": "2016-08-03T10:03:14Z",
+  "updated_at": "2017-02-12T15:23:31Z",
+  "pushed_at": "2016-12-14T21:31:06Z",
+  "homepage": null,
+  "size": 2035,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "meyskens": 62,
+    "moul": 87
+  },
+  "pulls_authors": [
+    "meyskens"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 117589,
+      "color": "#375eab"
+    },
+    "Shell": {
+      "bytes": 3231,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 516,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T20:50:26.912Z"
+}

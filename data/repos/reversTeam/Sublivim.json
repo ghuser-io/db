@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Sublivim",
+  "full_name": "reversTeam/Sublivim",
+  "owner": "reversTeam",
+  "private": false,
+  "html_url": "https://github.com/reversTeam/Sublivim",
+  "description": "Sublime Text configuration Vim",
+  "fork": false,
+  "url": "https://api.github.com/repos/reversTeam/Sublivim",
+  "languages_url": "https://api.github.com/repos/reversTeam/Sublivim/languages",
+  "pulls_url": "https://api.github.com/repos/reversTeam/Sublivim/pulls{/number}",
+  "created_at": "2014-02-25T17:18:06Z",
+  "updated_at": "2018-07-10T02:49:45Z",
+  "pushed_at": "2018-06-01T02:49:19Z",
+  "homepage": null,
+  "size": 8740,
+  "stargazers_count": 61,
+  "language": "Vim script",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 1,
+    "amnacog": 1,
+    "reversTeam": 158
+  },
+  "pulls_authors": [
+    "moul",
+    "alex8092"
+  ],
+  "languages": {
+    "Vim script": {
+      "bytes": 1463182,
+      "color": "#199f4b"
+    },
+    "Python": {
+      "bytes": 32271,
+      "color": "#3572A5"
+    },
+    "Ruby": {
+      "bytes": 11302,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 3035,
+      "color": "#89e051"
+    },
+    "Go": {
+      "bytes": 2239,
+      "color": "#375eab"
+    },
+    "Erlang": {
+      "bytes": 2152,
+      "color": "#B83998"
+    },
+    "JavaScript": {
+      "bytes": 1064,
+      "color": "#f1e05a"
+    },
+    "AppleScript": {
+      "bytes": 995,
+      "color": "#101F1F"
+    },
+    "Makefile": {
+      "bytes": 409,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:52.581Z"
+}

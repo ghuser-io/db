@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dashbrew",
+  "full_name": "mdkholy/dashbrew",
+  "owner": "mdkholy",
+  "private": false,
+  "html_url": "https://github.com/mdkholy/dashbrew",
+  "description": "[NO LONGER MAINTAINED] Vagrant build for developing PHP projects on different PHP versions and configurations",
+  "fork": false,
+  "url": "https://api.github.com/repos/mdkholy/dashbrew",
+  "languages_url": "https://api.github.com/repos/mdkholy/dashbrew/languages",
+  "pulls_url": "https://api.github.com/repos/mdkholy/dashbrew/pulls{/number}",
+  "created_at": "2015-03-02T06:32:07Z",
+  "updated_at": "2018-08-06T19:56:19Z",
+  "pushed_at": "2016-04-02T16:54:20Z",
+  "homepage": "",
+  "size": 830,
+  "stargazers_count": 509,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "DomagojGojak": 2,
+    "jtreminio": 3,
+    "mdkholy": 161
+  },
+  "pulls_authors": [
+    "cweagans",
+    "mathewpeterson",
+    "LuCiAn0",
+    "DomagojGojak",
+    "jtreminio",
+    "mdkholy"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 136665,
+      "color": "#4F5D95"
+    },
+    "CSS": {
+      "bytes": 14625,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 11759,
+      "color": "#f1e05a"
+    },
+    "ApacheConf": {
+      "bytes": 7073,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 2336,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:28.355Z"
+}

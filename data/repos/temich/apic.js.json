@@ -1,0 +1,76 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "apic.js",
+  "full_name": "temich/apic.js",
+  "owner": "temich",
+  "private": false,
+  "html_url": "https://github.com/temich/apic.js",
+  "description": "REST API JavaScript client generator",
+  "fork": false,
+  "url": "https://api.github.com/repos/temich/apic.js",
+  "languages_url": "https://api.github.com/repos/temich/apic.js/languages",
+  "pulls_url": "https://api.github.com/repos/temich/apic.js/pulls{/number}",
+  "created_at": "2012-05-01T13:09:54Z",
+  "updated_at": "2018-05-22T07:43:29Z",
+  "pushed_at": "2017-06-19T12:00:04Z",
+  "homepage": "",
+  "size": 679,
+  "stargazers_count": 20,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "0xBADC0FFEE": 1,
+    "akoptsov": 1,
+    "vierbergenlars": 1,
+    "Semigradsky": 2,
+    "HellSquirrel": 2,
+    "Buran": 10,
+    "temich": 89
+  },
+  "pulls_authors": [
+    "dm2ko",
+    "khats",
+    "Xoxol",
+    "ascbfgwewe",
+    "vtimofeev",
+    "Imperiz",
+    "temich",
+    "Egorrr",
+    "Semigradsky",
+    "SMishin",
+    "Buran",
+    "0xBADC0FFEE",
+    "lastgin",
+    "Chetter2",
+    "freefaint",
+    "cherepanov",
+    "a-koptsov",
+    "antonruban",
+    "burlakilia",
+    "vierbergenlars"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 33295,
+      "color": "#f1e05a"
+    },
+    "XSLT": {
+      "bytes": 4452,
+      "color": "#EB8CEB"
+    },
+    "HTML": {
+      "bytes": 2045,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T17:16:22.848Z"
+}

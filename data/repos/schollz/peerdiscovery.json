@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "peerdiscovery",
+  "full_name": "schollz/peerdiscovery",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/peerdiscovery",
+  "description": "Pure-Go library for cross-platform local peer discovery using UDP multicast :woman: :repeat: :woman:",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/peerdiscovery",
+  "languages_url": "https://api.github.com/repos/schollz/peerdiscovery/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/peerdiscovery/pulls{/number}",
+  "created_at": "2018-04-22T23:59:37Z",
+  "updated_at": "2018-09-12T13:05:43Z",
+  "pushed_at": "2018-09-07T14:27:17Z",
+  "homepage": "",
+  "size": 22,
+  "stargazers_count": 288,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "barryz": 2,
+    "schollz": 25
+  },
+  "pulls_authors": [
+    "barryz",
+    "schollz"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 7976,
+      "color": "#375eab"
+    },
+    "AMPL": {
+      "bytes": 148,
+      "color": "#E6EFBB"
+    }
+  },
+  "fetched_at": "2018-09-12T16:49:04.959Z"
+}

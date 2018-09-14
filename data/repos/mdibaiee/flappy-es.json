@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "flappy-es",
+  "full_name": "mdibaiee/flappy-es",
+  "owner": "mdibaiee",
+  "private": false,
+  "html_url": "https://github.com/mdibaiee/flappy-es",
+  "description": "Playing Flappy Bird using Evolution Strategies",
+  "fork": false,
+  "url": "https://api.github.com/repos/mdibaiee/flappy-es",
+  "languages_url": "https://api.github.com/repos/mdibaiee/flappy-es/languages",
+  "pulls_url": "https://api.github.com/repos/mdibaiee/flappy-es/pulls{/number}",
+  "created_at": "2017-04-02T12:16:35Z",
+  "updated_at": "2018-09-08T00:59:54Z",
+  "pushed_at": "2017-09-11T13:57:31Z",
+  "homepage": "http://labs.aylien.com/flappy-bird",
+  "size": 3146,
+  "stargazers_count": 130,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "smoqadam": 1,
+    "mdibaiee": 25
+  },
+  "pulls_authors": [
+    "smoqadam"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 13411,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:38.677Z"
+}

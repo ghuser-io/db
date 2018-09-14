@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "WHUMP",
+  "full_name": "captbaritone/WHUMP",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/WHUMP",
+  "description": "Web HTML Universal Music Player",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/WHUMP",
+  "languages_url": "https://api.github.com/repos/captbaritone/WHUMP/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/WHUMP/pulls{/number}",
+  "created_at": "2017-10-18T02:45:51Z",
+  "updated_at": "2018-07-29T22:19:08Z",
+  "pushed_at": "2016-03-17T20:04:29Z",
+  "homepage": null,
+  "size": 37,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {},
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 12873,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:56.391Z"
+}

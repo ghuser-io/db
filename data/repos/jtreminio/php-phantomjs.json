@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "php-phantomjs",
+  "full_name": "jtreminio/php-phantomjs",
+  "owner": "jtreminio",
+  "private": false,
+  "html_url": "https://github.com/jtreminio/php-phantomjs",
+  "description": "Execute PhantomJS commands through PHP",
+  "fork": true,
+  "url": "https://api.github.com/repos/jtreminio/php-phantomjs",
+  "languages_url": "https://api.github.com/repos/jtreminio/php-phantomjs/languages",
+  "pulls_url": "https://api.github.com/repos/jtreminio/php-phantomjs/pulls{/number}",
+  "created_at": "2015-01-04T22:14:57Z",
+  "updated_at": "2015-11-26T12:58:22Z",
+  "pushed_at": "2015-01-04T22:19:22Z",
+  "homepage": null,
+  "size": 19604,
+  "stargazers_count": 2,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jtreminio": 1,
+    "regularjack": 1,
+    "JonnnyW": 1,
+    "scrutinizer-auto-fixer": 2,
+    "tuchk4": 4,
+    "jonnnnyw": 41
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 193805,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 2543,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:31.079Z"
+}

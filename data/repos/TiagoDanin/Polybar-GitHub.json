@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Polybar-GitHub",
+  "full_name": "TiagoDanin/Polybar-GitHub",
+  "owner": "TiagoDanin",
+  "private": false,
+  "html_url": "https://github.com/TiagoDanin/Polybar-GitHub",
+  "description": "A Polybar module to show unread notifications from GitHub",
+  "fork": false,
+  "url": "https://api.github.com/repos/TiagoDanin/Polybar-GitHub",
+  "languages_url": "https://api.github.com/repos/TiagoDanin/Polybar-GitHub/languages",
+  "pulls_url": "https://api.github.com/repos/TiagoDanin/Polybar-GitHub/pulls{/number}",
+  "created_at": "2018-05-02T19:23:44Z",
+  "updated_at": "2018-09-12T11:14:32Z",
+  "pushed_at": "2018-09-12T11:14:35Z",
+  "homepage": null,
+  "size": 146,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "TiagoDanin": 8,
+    "renovate-bot": 16,
+    "snyk-bot": 1
+  },
+  "pulls_authors": [
+    "renovate[bot]",
+    "snyk-bot"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1080,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T16:52:35.288Z"
+}

@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bottle_heroku_tutorial",
+  "full_name": "chucknado/bottle_heroku_tutorial",
+  "owner": "chucknado",
+  "private": false,
+  "html_url": "https://github.com/chucknado/bottle_heroku_tutorial",
+  "description": "A tutorial for deploying a Bottle app to Heroku",
+  "fork": false,
+  "url": "https://api.github.com/repos/chucknado/bottle_heroku_tutorial",
+  "languages_url": "https://api.github.com/repos/chucknado/bottle_heroku_tutorial/languages",
+  "pulls_url": "https://api.github.com/repos/chucknado/bottle_heroku_tutorial/pulls{/number}",
+  "created_at": "2015-01-24T00:08:18Z",
+  "updated_at": "2018-08-28T12:06:44Z",
+  "pushed_at": "2018-05-10T19:07:28Z",
+  "homepage": null,
+  "size": 21,
+  "stargazers_count": 19,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "chucknado": 14
+  },
+  "pulls_authors": [
+    "patarapolw"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 776,
+      "color": "#3572A5"
+    },
+    "Smarty": {
+      "bytes": 747,
+      "color": "#ccc"
+    },
+    "CSS": {
+      "bytes": 95,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 24,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-28T16:07:26.814Z"
+}

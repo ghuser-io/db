@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "x9",
+  "full_name": "grupozap/x9",
+  "owner": "grupozap",
+  "private": false,
+  "html_url": "https://github.com/grupozap/x9",
+  "description": "X9",
+  "fork": false,
+  "url": "https://api.github.com/repos/grupozap/x9",
+  "languages_url": "https://api.github.com/repos/grupozap/x9/languages",
+  "created_at": "2017-10-23T16:44:36Z",
+  "updated_at": "2018-09-11T23:06:33Z",
+  "pushed_at": "2018-09-11T23:06:43Z",
+  "homepage": "",
+  "size": 29,
+  "stargazers_count": 8,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "grupozap",
+    "id": 1659216,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2NTkyMTY=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/1659216?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/grupozap",
+    "html_url": "https://github.com/grupozap",
+    "followers_url": "https://api.github.com/users/grupozap/followers",
+    "following_url": "https://api.github.com/users/grupozap/following{/other_user}",
+    "gists_url": "https://api.github.com/users/grupozap/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/grupozap/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/grupozap/subscriptions",
+    "organizations_url": "https://api.github.com/users/grupozap/orgs",
+    "repos_url": "https://api.github.com/users/grupozap/repos",
+    "events_url": "https://api.github.com/users/grupozap/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/grupozap/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "lorieri": 1,
+    "DiSiqueira": 7,
+    "souzabrunoftw": 2
+  },
+  "languages": {
+    "Go": {
+      "bytes": 16412,
+      "color": "#375eab"
+    },
+    "HTML": {
+      "bytes": 3596,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 723,
+      "color": "#427819"
+    },
+    "Dockerfile": {
+      "bytes": 131,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:48.900Z",
+  "pulls_url": "https://api.github.com/repos/grupozap/x9/pulls{/number}",
+  "pulls_authors": [
+    "lorieri",
+    "DiSiqueira",
+    "souzabrunoftw"
+  ]
+}

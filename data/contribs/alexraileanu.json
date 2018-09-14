@@ -1,0 +1,113 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "alexraileanu/yacms": {
+      "full_name": "alexraileanu/yacms",
+      "name": "yacms",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 86.11111111111111,
+      "maturity": 0,
+      "total_commits_count": 36,
+      "activity": 1.0989042711644457,
+      "total_score": 15.881399289118402,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "underyx/flask-redis": {
+      "full_name": "underyx/flask-redis",
+      "name": "flask-redis",
+      "stargazers_count": 248,
+      "popularity": 3.392911818237103,
+      "percentage": 1.3333333333333333,
+      "maturity": 2.547038498146359,
+      "total_commits_count": 75,
+      "activity": 1.9900602036509487,
+      "total_score": 17.850977369816075,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "alexraileanu/worldcup": {
+      "full_name": "alexraileanu/worldcup",
+      "name": "worldcup",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 93.51851851851852,
+      "maturity": 2.8348808859448904,
+      "total_commits_count": 108,
+      "activity": 1.0934649270420334,
+      "total_score": 22.548578521756745,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "YouweGit/PimcoreFixtures": {
+      "full_name": "YouweGit/PimcoreFixtures",
+      "name": "PimcoreFixtures",
+      "stargazers_count": 7,
+      "popularity": 1.7853682828948099,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 24,
+      "activity": 5,
+      "total_score": 10.35610484868443,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "pimcore/pimcore": {
+      "full_name": "pimcore/pimcore",
+      "name": "pimcore",
+      "stargazers_count": 1056,
+      "popularity": 4.023332707985311,
+      "percentage": 0.00975800156128025,
+      "maturity": 5,
+      "total_commits_count": 10248,
+      "activity": 5,
+      "total_score": 27.07510188324592,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "alexraileanu/pastee": {
+      "full_name": "alexraileanu/pastee",
+      "name": "pastee",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 90,
+      "maturity": 0,
+      "total_commits_count": 30,
+      "activity": 0.7422349261896368,
+      "total_score": 0.7422349261896368,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "YouweGit/PimcoreBulkpump": {
+      "full_name": "YouweGit/PimcoreBulkpump",
+      "name": "PimcoreBulkpump",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 0,
+      "maturity": 2.5939086441356776,
+      "total_commits_count": 79,
+      "activity": 1.0155114103065372,
+      "total_score": 6.203328698577892,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "faltad/maya": {
+      "full_name": "faltad/maya",
+      "name": "maya",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 22.22222222222222,
+      "maturity": 0,
+      "total_commits_count": 9,
+      "activity": 0.7422456775459443,
+      "total_score": 0.7422456775459443,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "YouweGit",
+    "pimcore"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ofxMask",
+  "full_name": "nariakiiwatani/ofxMask",
+  "owner": "nariakiiwatani",
+  "private": false,
+  "html_url": "https://github.com/nariakiiwatani/ofxMask",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/nariakiiwatani/ofxMask",
+  "languages_url": "https://api.github.com/repos/nariakiiwatani/ofxMask/languages",
+  "pulls_url": "https://api.github.com/repos/nariakiiwatani/ofxMask/pulls{/number}",
+  "created_at": "2013-08-08T05:57:40Z",
+  "updated_at": "2018-08-03T18:51:08Z",
+  "pushed_at": "2018-07-03T14:28:11Z",
+  "homepage": null,
+  "size": 24,
+  "stargazers_count": 14,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "nariakiiwatani": 23
+  },
+  "pulls_authors": [
+    "eelke",
+    "btparker"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 9183,
+      "color": "#f34b7d"
+    },
+    "Makefile": {
+      "bytes": 6947,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:36:20.449Z"
+}

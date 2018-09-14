@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "git-get",
+  "full_name": "awesmubarak/git-get",
+  "owner": "awesmubarak",
+  "private": false,
+  "html_url": "https://github.com/awesmubarak/git-get",
+  "description": "Package manager for git repositories",
+  "fork": false,
+  "url": "https://api.github.com/repos/awesmubarak/git-get",
+  "languages_url": "https://api.github.com/repos/awesmubarak/git-get/languages",
+  "pulls_url": "https://api.github.com/repos/awesmubarak/git-get/pulls{/number}",
+  "created_at": "2017-06-12T14:08:11Z",
+  "updated_at": "2018-09-03T06:50:32Z",
+  "pushed_at": "2017-12-07T19:04:32Z",
+  "homepage": "",
+  "size": 34,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jayvdb": 1,
+    "awesmubarak": 38
+  },
+  "pulls_authors": [
+    "jayvdb"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 21511,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-03T12:57:56.873Z"
+}

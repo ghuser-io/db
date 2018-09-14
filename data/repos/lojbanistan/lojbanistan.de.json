@@ -1,0 +1,74 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "lojbanistan.de",
+  "full_name": "lojbanistan/lojbanistan.de",
+  "owner": "lojbanistan",
+  "private": false,
+  "html_url": "https://github.com/lojbanistan/lojbanistan.de",
+  "description": "Deutsche Materialien zu Lojban aus der Augsburger Lerngruppe",
+  "fork": false,
+  "url": "https://api.github.com/repos/lojbanistan/lojbanistan.de",
+  "languages_url": "https://api.github.com/repos/lojbanistan/lojbanistan.de/languages",
+  "pulls_url": "https://api.github.com/repos/lojbanistan/lojbanistan.de/pulls{/number}",
+  "created_at": "2016-11-08T20:19:05Z",
+  "updated_at": "2016-11-17T18:13:25Z",
+  "pushed_at": "2017-01-17T17:27:46Z",
+  "homepage": null,
+  "size": 69,
+  "stargazers_count": 3,
+  "language": "ApacheConf",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "lojbanistan",
+    "id": 23345296,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzMzQ1Mjk2",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/23345296?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/lojbanistan",
+    "html_url": "https://github.com/lojbanistan",
+    "followers_url": "https://api.github.com/users/lojbanistan/followers",
+    "following_url": "https://api.github.com/users/lojbanistan/following{/other_user}",
+    "gists_url": "https://api.github.com/users/lojbanistan/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/lojbanistan/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/lojbanistan/subscriptions",
+    "organizations_url": "https://api.github.com/users/lojbanistan/orgs",
+    "repos_url": "https://api.github.com/users/lojbanistan/repos",
+    "events_url": "https://api.github.com/users/lojbanistan/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/lojbanistan/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Profpatsch": 14,
+    "uwap": 27
+  },
+  "pulls_authors": [
+    "uwap"
+  ],
+  "languages": {
+    "ApacheConf": {
+      "bytes": 39693,
+      "color": "#ccc"
+    },
+    "CSS": {
+      "bytes": 8989,
+      "color": "#563d7c"
+    },
+    "Haskell": {
+      "bytes": 7260,
+      "color": "#5e5086"
+    },
+    "HTML": {
+      "bytes": 4392,
+      "color": "#e34c26"
+    },
+    "Nix": {
+      "bytes": 1592,
+      "color": "#7e7eff"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:45.336Z"
+}

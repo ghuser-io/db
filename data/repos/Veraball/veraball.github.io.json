@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 1
+  },
+  "name": "veraball.github.io",
+  "full_name": "Veraball/veraball.github.io",
+  "owner": "Veraball",
+  "private": false,
+  "html_url": "https://github.com/Veraball/veraball.github.io",
+  "description": "Veraball website",
+  "fork": false,
+  "url": "https://api.github.com/repos/Veraball/veraball.github.io",
+  "languages_url": "https://api.github.com/repos/Veraball/veraball.github.io/languages",
+  "created_at": "2015-11-29T17:17:00Z",
+  "updated_at": "2015-11-29T18:08:44Z",
+  "pushed_at": "2015-11-29T18:12:34Z",
+  "homepage": "http://veraball.github.io",
+  "size": 1774,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "Veraball",
+    "id": 15969517,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1OTY5NTE3",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/15969517?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Veraball",
+    "html_url": "https://github.com/Veraball",
+    "followers_url": "https://api.github.com/users/Veraball/followers",
+    "following_url": "https://api.github.com/users/Veraball/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Veraball/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Veraball/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Veraball/subscriptions",
+    "organizations_url": "https://api.github.com/users/Veraball/orgs",
+    "repos_url": "https://api.github.com/users/Veraball/repos",
+    "events_url": "https://api.github.com/users/Veraball/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Veraball/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 5555,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 3821,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/Veraball/veraball.github.io/pulls{/number}",
+  "pulls_authors": []
+}

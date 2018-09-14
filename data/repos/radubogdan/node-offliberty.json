@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-offliberty",
+  "full_name": "radubogdan/node-offliberty",
+  "owner": "radubogdan",
+  "private": false,
+  "html_url": "https://github.com/radubogdan/node-offliberty",
+  "description": "A simple interface to the offliberty.com download service.",
+  "fork": false,
+  "url": "https://api.github.com/repos/radubogdan/node-offliberty",
+  "languages_url": "https://api.github.com/repos/radubogdan/node-offliberty/languages",
+  "pulls_url": "https://api.github.com/repos/radubogdan/node-offliberty/pulls{/number}",
+  "created_at": "2014-05-02T10:36:36Z",
+  "updated_at": "2017-07-05T14:58:35Z",
+  "pushed_at": "2017-10-21T20:48:09Z",
+  "homepage": null,
+  "size": 16,
+  "stargazers_count": 15,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "PhilipTrauner": 1,
+    "IonicaBizau": 5,
+    "radubogdan": 13
+  },
+  "pulls_authors": [
+    "radubogdan",
+    "PhilipTrauner",
+    "IonicaBizau"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2719,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:14.583Z"
+}

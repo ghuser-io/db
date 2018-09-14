@@ -1,0 +1,106 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "EduBlocks",
+  "full_name": "AllAboutCode/EduBlocks",
+  "owner": "AllAboutCode",
+  "private": false,
+  "html_url": "https://github.com/AllAboutCode/EduBlocks",
+  "description": "Making the transition from Scratch to Python easier. Now available for Raspberry Pi & micro:bit!",
+  "fork": false,
+  "url": "https://api.github.com/repos/AllAboutCode/EduBlocks",
+  "languages_url": "https://api.github.com/repos/AllAboutCode/EduBlocks/languages",
+  "pulls_url": "https://api.github.com/repos/AllAboutCode/EduBlocks/pulls{/number}",
+  "created_at": "2017-02-13T19:37:20Z",
+  "updated_at": "2018-09-08T09:28:08Z",
+  "pushed_at": "2018-09-02T20:50:33Z",
+  "homepage": "https://edublocks.org",
+  "size": 28571,
+  "stargazers_count": 103,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "tarball-install",
+  "organization": {
+    "login": "AllAboutCode",
+    "id": 18100289,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4MTAwMjg5",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/18100289?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/AllAboutCode",
+    "html_url": "https://github.com/AllAboutCode",
+    "followers_url": "https://api.github.com/users/AllAboutCode/followers",
+    "following_url": "https://api.github.com/users/AllAboutCode/following{/other_user}",
+    "gists_url": "https://api.github.com/users/AllAboutCode/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/AllAboutCode/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/AllAboutCode/subscriptions",
+    "organizations_url": "https://api.github.com/users/AllAboutCode/orgs",
+    "repos_url": "https://api.github.com/users/AllAboutCode/repos",
+    "events_url": "https://api.github.com/users/AllAboutCode/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/AllAboutCode/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "evanwaltersdev": 2,
+    "EduBlocksBot": 5,
+    "Mrpye": 9,
+    "oldjoshaccount2004": 18,
+    "JoshuaLowe1002": 45,
+    "cjdell": 164
+  },
+  "pulls_authors": [
+    "CleoQc",
+    "JoshuaLowe1002",
+    "evanwaltersdev",
+    "willingc",
+    "sparkiegeek",
+    "cjdell",
+    "Mrpye"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 18562837,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 2753243,
+      "color": "#e34c26"
+    },
+    "TypeScript": {
+      "bytes": 177390,
+      "color": "#2b7489"
+    },
+    "CSS": {
+      "bytes": 169530,
+      "color": "#563d7c"
+    },
+    "Python": {
+      "bytes": 106125,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 19070,
+      "color": "#89e051"
+    },
+    "Emacs Lisp": {
+      "bytes": 2410,
+      "color": "#c065db"
+    },
+    "Batchfile": {
+      "bytes": 2275,
+      "color": "#C1F12E"
+    },
+    "Dockerfile": {
+      "bytes": 374,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-11T17:15:37.799Z"
+}

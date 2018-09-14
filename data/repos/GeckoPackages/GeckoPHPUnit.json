@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "GeckoPHPUnit",
+  "full_name": "GeckoPackages/GeckoPHPUnit",
+  "owner": "GeckoPackages",
+  "private": false,
+  "html_url": "https://github.com/GeckoPackages/GeckoPHPUnit",
+  "description": "Abandoned!",
+  "fork": false,
+  "url": "https://api.github.com/repos/GeckoPackages/GeckoPHPUnit",
+  "languages_url": "https://api.github.com/repos/GeckoPackages/GeckoPHPUnit/languages",
+  "pulls_url": "https://api.github.com/repos/GeckoPackages/GeckoPHPUnit/pulls{/number}",
+  "created_at": "2015-11-03T15:44:39Z",
+  "updated_at": "2018-09-04T13:33:47Z",
+  "pushed_at": "2018-02-12T09:06:10Z",
+  "homepage": "",
+  "size": 177,
+  "stargazers_count": 146,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "3.0",
+  "organization": {
+    "login": "GeckoPackages",
+    "id": 14836913,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0ODM2OTEz",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/14836913?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/GeckoPackages",
+    "html_url": "https://github.com/GeckoPackages",
+    "followers_url": "https://api.github.com/users/GeckoPackages/followers",
+    "following_url": "https://api.github.com/users/GeckoPackages/following{/other_user}",
+    "gists_url": "https://api.github.com/users/GeckoPackages/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/GeckoPackages/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/GeckoPackages/subscriptions",
+    "organizations_url": "https://api.github.com/users/GeckoPackages/orgs",
+    "repos_url": "https://api.github.com/users/GeckoPackages/repos",
+    "events_url": "https://api.github.com/users/GeckoPackages/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/GeckoPackages/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Slamdunk": 1,
+    "emirb": 1,
+    "GrahamCampbell": 1,
+    "keradus": 4,
+    "SpacePossum": 49
+  },
+  "pulls_authors": [
+    "Slamdunk",
+    "SpacePossum",
+    "emirb",
+    "GrahamCampbell",
+    "TomasVotruba",
+    "keradus"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 141726,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-11T20:47:15.071Z"
+}

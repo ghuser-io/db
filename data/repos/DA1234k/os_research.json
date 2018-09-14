@@ -1,0 +1,33 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "os_research",
+  "full_name": "DA1234k/os_research",
+  "owner": "DA1234k",
+  "private": false,
+  "html_url": "https://github.com/DA1234k/os_research",
+  "description": "Now I am uploading 3 papers.Find the attachment.",
+  "fork": false,
+  "url": "https://api.github.com/repos/DA1234k/os_research",
+  "languages_url": "https://api.github.com/repos/DA1234k/os_research/languages",
+  "created_at": "2018-01-30T12:59:58Z",
+  "updated_at": "2018-07-16T05:16:31Z",
+  "pushed_at": "2018-02-01T10:30:02Z",
+  "homepage": null,
+  "size": 4754,
+  "stargazers_count": 2,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sr6033": 1,
+    "DA1234k": 6
+  },
+  "languages": {},
+  "fetched_at": "2018-07-25T00:05:30.322Z",
+  "pulls_url": "https://api.github.com/repos/DA1234k/os_research/pulls{/number}",
+  "pulls_authors": [
+    "sr6033"
+  ]
+}

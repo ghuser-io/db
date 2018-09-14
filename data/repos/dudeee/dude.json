@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dude",
+  "full_name": "dudeee/dude",
+  "owner": "dudeee",
+  "private": false,
+  "html_url": "https://github.com/dudeee/dude",
+  "description": "Make three wishes.",
+  "fork": false,
+  "url": "https://api.github.com/repos/dudeee/dude",
+  "languages_url": "https://api.github.com/repos/dudeee/dude/languages",
+  "pulls_url": "https://api.github.com/repos/dudeee/dude/pulls{/number}",
+  "created_at": "2015-10-13T18:29:51Z",
+  "updated_at": "2016-05-11T10:59:20Z",
+  "pushed_at": "2016-05-30T06:56:18Z",
+  "homepage": "",
+  "size": 271,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "dudeee",
+    "id": 16162790,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2MTYyNzkw",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/16162790?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/dudeee",
+    "html_url": "https://github.com/dudeee",
+    "followers_url": "https://api.github.com/users/dudeee/followers",
+    "following_url": "https://api.github.com/users/dudeee/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dudeee/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/dudeee/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dudeee/subscriptions",
+    "organizations_url": "https://api.github.com/users/dudeee/orgs",
+    "repos_url": "https://api.github.com/users/dudeee/repos",
+    "events_url": "https://api.github.com/users/dudeee/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/dudeee/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mamal72": 1,
+    "mdibaiee": 117
+  },
+  "pulls_authors": [
+    "mdibaiee"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 42865,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:41.541Z"
+}

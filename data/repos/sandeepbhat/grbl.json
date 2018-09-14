@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "grbl",
+  "full_name": "sandeepbhat/grbl",
+  "owner": "sandeepbhat",
+  "private": false,
+  "html_url": "https://github.com/sandeepbhat/grbl",
+  "description": "An open source, embedded, high performance g-code-parser and CNC milling controller written in optimized C that will run on a straight Arduino",
+  "fork": true,
+  "url": "https://api.github.com/repos/sandeepbhat/grbl",
+  "languages_url": "https://api.github.com/repos/sandeepbhat/grbl/languages",
+  "pulls_url": "https://api.github.com/repos/sandeepbhat/grbl/pulls{/number}",
+  "created_at": "2011-06-21T10:16:17Z",
+  "updated_at": "2013-01-03T18:06:45Z",
+  "pushed_at": "2011-06-06T18:01:04Z",
+  "homepage": "http://dank.bengler.no/-/page/show/5470_grbl",
+  "size": 402,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx_id": "LGPL-3.0",
+    "url": "https://api.github.com/licenses/lgpl-3.0",
+    "node_id": "MDc6TGljZW5zZTEy"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "simen": 96
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-11T17:15:11.077Z"
+}

@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mkg-tool",
+  "full_name": "mkg20001/mkg-tool",
+  "owner": "mkg20001",
+  "private": false,
+  "html_url": "https://github.com/mkg20001/mkg-tool",
+  "description": "Mkg's p2p remote access tool",
+  "fork": false,
+  "url": "https://api.github.com/repos/mkg20001/mkg-tool",
+  "languages_url": "https://api.github.com/repos/mkg20001/mkg-tool/languages",
+  "pulls_url": "https://api.github.com/repos/mkg20001/mkg-tool/pulls{/number}",
+  "created_at": "2017-08-28T11:01:10Z",
+  "updated_at": "2018-09-07T22:04:47Z",
+  "pushed_at": "2018-09-07T22:04:50Z",
+  "homepage": null,
+  "size": 147,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "snyk-bot": 1,
+    "mkg20001": 52
+  },
+  "pulls_authors": [
+    "snyk-bot"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 25958,
+      "color": "#f1e05a"
+    },
+    "Makefile": {
+      "bytes": 531,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:19.371Z"
+}

@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tool-bar",
+  "full_name": "captbaritone/tool-bar",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/tool-bar",
+  "description": "Package providing customisable toolbar for Atom",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/tool-bar",
+  "languages_url": "https://api.github.com/repos/captbaritone/tool-bar/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/tool-bar/pulls{/number}",
+  "created_at": "2017-06-14T19:57:08Z",
+  "updated_at": "2018-07-29T22:15:27Z",
+  "pushed_at": "2018-09-02T06:39:22Z",
+  "homepage": null,
+  "size": 1255,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "unluisco": 1,
+    "phoenixenero": 1,
+    "afterdesign": 1,
+    "varemenos": 1,
+    "gitter-badger": 1,
+    "nkt": 1,
+    "kankaristo": 2,
+    "lexcast": 2,
+    "pbihler": 2,
+    "UziTech": 3,
+    "cakecatz": 4,
+    "JamesCoyle": 4,
+    "simurai": 5,
+    "zertosh": 17,
+    "suda": 80,
+    "jerone": 104
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CSS": {
+      "bytes": 333546,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 37145,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 177,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:54.582Z"
+}

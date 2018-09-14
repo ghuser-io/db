@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "murmur",
+  "full_name": "gmcabrita/murmur",
+  "owner": "gmcabrita",
+  "private": false,
+  "html_url": "https://github.com/gmcabrita/murmur",
+  "description": ":speech_balloon: An implementation of the non-cryptographic hash Murmur3",
+  "fork": false,
+  "url": "https://api.github.com/repos/gmcabrita/murmur",
+  "languages_url": "https://api.github.com/repos/gmcabrita/murmur/languages",
+  "pulls_url": "https://api.github.com/repos/gmcabrita/murmur/pulls{/number}",
+  "created_at": "2014-10-21T15:11:02Z",
+  "updated_at": "2018-09-06T19:43:45Z",
+  "pushed_at": "2018-08-27T07:11:38Z",
+  "homepage": "",
+  "size": 79,
+  "stargazers_count": 17,
+  "language": "Elixir",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "lowks": 1,
+    "dependabot-bot": 12,
+    "gmcabrita": 75
+  },
+  "pulls_authors": [
+    "dependabot[bot]",
+    "gmcabrita",
+    "lowks"
+  ],
+  "languages": {
+    "Elixir": {
+      "bytes": 21272,
+      "color": "#6e4a7e"
+    }
+  },
+  "fetched_at": "2018-09-12T15:43:59.327Z"
+}

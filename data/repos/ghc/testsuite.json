@@ -1,0 +1,178 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "testsuite",
+  "full_name": "ghc/testsuite",
+  "owner": "ghc",
+  "private": false,
+  "html_url": "https://github.com/ghc/testsuite",
+  "description": "Mirror of testsuite repository. OBSOLETE. DO NOT SUBMIT PULL REQUESTS HERE",
+  "fork": false,
+  "url": "https://api.github.com/repos/ghc/testsuite",
+  "languages_url": "https://api.github.com/repos/ghc/testsuite/languages",
+  "pulls_url": "https://api.github.com/repos/ghc/testsuite/pulls{/number}",
+  "created_at": "2011-04-03T19:16:03Z",
+  "updated_at": "2018-03-26T18:00:38Z",
+  "pushed_at": "2017-04-28T20:11:40Z",
+  "homepage": "",
+  "size": 25855,
+  "stargazers_count": 15,
+  "language": "Haskell",
+  "mirror_url": "http://git.haskell.org/testsuite.git",
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ghc",
+    "id": 705657,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjcwNTY1Nw==",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/705657?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ghc",
+    "html_url": "https://github.com/ghc",
+    "followers_url": "https://api.github.com/users/ghc/followers",
+    "following_url": "https://api.github.com/users/ghc/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ghc/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ghc/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ghc/subscriptions",
+    "organizations_url": "https://api.github.com/users/ghc/orgs",
+    "repos_url": "https://api.github.com/users/ghc/repos",
+    "events_url": "https://api.github.com/users/ghc/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ghc/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "hellertime": 1,
+    "bgamari": 1,
+    "lukexi": 1,
+    "anderspapitto": 1,
+    "fryguybob": 1,
+    "ggreif": 1,
+    "joeyadams": 1,
+    "dmpots": 1,
+    "dwincort": 1,
+    "scpmw": 1,
+    "nilscc": 1,
+    "gwright83": 1,
+    "foxik": 1,
+    "hgolden": 1,
+    "ajdunlap": 1,
+    "cmcq": 1,
+    "waern": 1,
+    "clefru": 1,
+    "dlicata335": 1,
+    "SamB": 1,
+    "bs4eva": 1,
+    "edsko": 2,
+    "pgj": 2,
+    "amosr": 2,
+    "mvv": 2,
+    "kgardas": 2,
+    "mkilian": 2,
+    "nominolo": 2,
+    "augustss": 2,
+    "bringert": 2,
+    "twanvl": 3,
+    "amcphail": 3,
+    "bogiebro": 3,
+    "AshleyYakeley": 3,
+    "josefs": 3,
+    "rrnewton": 4,
+    "michalt": 4,
+    "clausreinke": 4,
+    "reinerp": 5,
+    "catamorphism": 6,
+    "mainland": 7,
+    "dcoutts": 8,
+    "rwbarton": 9,
+    "yav": 13,
+    "donsbot": 14,
+    "hvr": 16,
+    "jstolarek": 17,
+    "tibbe": 17,
+    "dimitriv": 20,
+    "monoidal": 22,
+    "ezyang": 30,
+    "thoughtpolice": 31,
+    "benl23x5": 32,
+    "batterseapower": 53,
+    "pcapriotti": 58,
+    "dreixel": 59,
+    "nomeata": 69,
+    "pepeiborra": 88,
+    "mchakravarty": 152,
+    "simonmar": 683,
+    "simonpj": 1403,
+    "igfoo": 1611
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Haskell": {
+      "bytes": 3713807,
+      "color": "#5e5086"
+    },
+    "Terra": {
+      "bytes": 282116,
+      "color": "#00004c"
+    },
+    "Makefile": {
+      "bytes": 127410,
+      "color": "#427819"
+    },
+    "Gnuplot": {
+      "bytes": 103851,
+      "color": "#f0a9f0"
+    },
+    "Python": {
+      "bytes": 94530,
+      "color": "#3572A5"
+    },
+    "Perl 6": {
+      "bytes": 27078,
+      "color": "#0000fb"
+    },
+    "C": {
+      "bytes": 22087,
+      "color": "#555555"
+    },
+    "Perl": {
+      "bytes": 5258,
+      "color": "#0298c3"
+    },
+    "Assembly": {
+      "bytes": 865,
+      "color": "#6E4C13"
+    },
+    "Shell": {
+      "bytes": 683,
+      "color": "#89e051"
+    },
+    "Objective-C++": {
+      "bytes": 535,
+      "color": "#6866fb"
+    },
+    "Objective-C": {
+      "bytes": 519,
+      "color": "#438eff"
+    },
+    "C++": {
+      "bytes": 506,
+      "color": "#f34b7d"
+    },
+    "Haxe": {
+      "bytes": 218,
+      "color": "#df7900"
+    },
+    "PostScript": {
+      "bytes": 63,
+      "color": "#da291c"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:17.871Z"
+}

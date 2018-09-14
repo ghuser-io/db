@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gisia_srr",
+  "full_name": "luislezcair/gisia_srr",
+  "owner": "luislezcair",
+  "private": false,
+  "html_url": "https://github.com/luislezcair/gisia_srr",
+  "description": "Sistema de Recopilación de Requerimientos para web y data mining",
+  "fork": false,
+  "url": "https://api.github.com/repos/luislezcair/gisia_srr",
+  "languages_url": "https://api.github.com/repos/luislezcair/gisia_srr/languages",
+  "pulls_url": "https://api.github.com/repos/luislezcair/gisia_srr/pulls{/number}",
+  "created_at": "2015-11-13T00:19:53Z",
+  "updated_at": "2018-05-22T23:07:09Z",
+  "pushed_at": "2018-05-22T23:07:07Z",
+  "homepage": "",
+  "size": 11666,
+  "stargazers_count": 1,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "raulmontiel": 7,
+    "luislezcair": 58
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 197533,
+      "color": "#178600"
+    },
+    "JavaScript": {
+      "bytes": 19663,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 8309,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 5455,
+      "color": "#e34c26"
+    },
+    "ASP": {
+      "bytes": 115,
+      "color": "#6a40fd"
+    }
+  },
+  "fetched_at": "2018-09-11T00:05:54.521Z"
+}

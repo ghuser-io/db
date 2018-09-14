@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "meanrecipe",
+  "full_name": "schollz/meanrecipe",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/meanrecipe",
+  "description": "Get a consensus recipe for your next meal. :cookie: :cake:",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/meanrecipe",
+  "languages_url": "https://api.github.com/repos/schollz/meanrecipe/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/meanrecipe/pulls{/number}",
+  "created_at": "2018-03-19T06:54:15Z",
+  "updated_at": "2018-08-21T07:57:59Z",
+  "pushed_at": "2018-06-21T11:13:04Z",
+  "homepage": "https://www.averagecookbook.com",
+  "size": 21232,
+  "stargazers_count": 93,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "GeorgiosGoniotakis": 1,
+    "schollz": 111
+  },
+  "pulls_authors": [
+    "GeorgiosGoniotakis",
+    "schollz"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 56155,
+      "color": "#375eab"
+    },
+    "Python": {
+      "bytes": 2791,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:31.531Z"
+}

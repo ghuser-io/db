@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "drupal-devops",
+  "full_name": "dbjpanda/drupal-devops",
+  "owner": "dbjpanda",
+  "private": false,
+  "html_url": "https://github.com/dbjpanda/drupal-devops",
+  "description": "Drupal 8 devops workflow using Docker, Ansible, Composer and GIt . Developed in Google summer of Code 2018  ",
+  "fork": false,
+  "url": "https://api.github.com/repos/dbjpanda/drupal-devops",
+  "languages_url": "https://api.github.com/repos/dbjpanda/drupal-devops/languages",
+  "created_at": "2018-05-08T18:37:38Z",
+  "updated_at": "2018-05-15T22:45:02Z",
+  "pushed_at": "2018-05-15T22:45:00Z",
+  "homepage": "",
+  "size": 702,
+  "stargazers_count": 2,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "dbjpanda": 7,
+    "ankitjain28may": 14
+  },
+  "languages": {
+    "PHP": {
+      "bytes": 84443,
+      "color": "#4F5D95"
+    },
+    "Shell": {
+      "bytes": 1690,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/dbjpanda/drupal-devops/pulls{/number}",
+  "pulls_authors": [
+    "ankitjain28may",
+    "Chiranjeeb2410"
+  ]
+}

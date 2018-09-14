@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Milligrid",
+  "full_name": "bencoveney/Milligrid",
+  "owner": "bencoveney",
+  "private": false,
+  "html_url": "https://github.com/bencoveney/Milligrid",
+  "description": "A CSS grid framework",
+  "fork": false,
+  "url": "https://api.github.com/repos/bencoveney/Milligrid",
+  "languages_url": "https://api.github.com/repos/bencoveney/Milligrid/languages",
+  "pulls_url": "https://api.github.com/repos/bencoveney/Milligrid/pulls{/number}",
+  "created_at": "2016-02-08T12:37:38Z",
+  "updated_at": "2018-08-25T12:07:35Z",
+  "pushed_at": "2018-08-25T12:07:34Z",
+  "homepage": "http://bencoveney.github.io/Milligrid",
+  "size": 214,
+  "stargazers_count": 6,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "barrymcgee": 1,
+    "y8": 1,
+    "sudheerDev": 1,
+    "alanorth": 1,
+    "rodrigoddalmeida": 1,
+    "hiroppy": 1,
+    "Smenus": 2,
+    "joaobarbosa": 2,
+    "fredericodietz": 2,
+    "HugoGiraudel": 2,
+    "bencoveney": 38,
+    "cjpatoilo": 65,
+    "szul": 1
+  },
+  "pulls_authors": [
+    "bencoveney",
+    "nikkorn",
+    "Smenus",
+    "szul"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 17582,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 9139,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 1830,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-25T19:32:21.271Z"
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "solarsystem",
+  "full_name": "captbaritone/solarsystem",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/solarsystem",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/captbaritone/solarsystem",
+  "languages_url": "https://api.github.com/repos/captbaritone/solarsystem/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/solarsystem/pulls{/number}",
+  "created_at": "2016-01-24T23:13:27Z",
+  "updated_at": "2018-07-29T22:14:50Z",
+  "pushed_at": "2016-02-26T06:34:29Z",
+  "homepage": null,
+  "size": 13,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "gh-pages",
+  "contributors": {
+    "captbaritone": 5
+  },
+  "pulls_authors": [
+    "captbaritone"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 11224,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 5435,
+      "color": "#e34c26"
+    },
+    "Ruby": {
+      "bytes": 3580,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:39.890Z"
+}

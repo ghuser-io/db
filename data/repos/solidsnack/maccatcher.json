@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "maccatcher",
+  "full_name": "solidsnack/maccatcher",
+  "owner": "solidsnack",
+  "private": false,
+  "html_url": "https://github.com/solidsnack/maccatcher",
+  "description": "Obtain the host MAC on Windows and *NIX in Haskell.",
+  "fork": false,
+  "url": "https://api.github.com/repos/solidsnack/maccatcher",
+  "languages_url": "https://api.github.com/repos/solidsnack/maccatcher/languages",
+  "pulls_url": "https://api.github.com/repos/solidsnack/maccatcher/pulls{/number}",
+  "created_at": "2011-01-04T20:58:48Z",
+  "updated_at": "2015-11-05T19:57:06Z",
+  "pushed_at": "2011-10-23T04:23:09Z",
+  "homepage": "",
+  "size": 851,
+  "stargazers_count": 8,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "NathanHowell": 1,
+    "nomeata": 1,
+    "mgrabmueller": 1,
+    "solidsnack": 26
+  },
+  "pulls_authors": [
+    "lpsmith",
+    "NathanHowell",
+    "nomeata",
+    "mgrabmueller"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 7679,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:20.792Z"
+}

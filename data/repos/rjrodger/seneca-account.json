@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "seneca-account",
+  "full_name": "rjrodger/seneca-account",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/seneca-account",
+  "description": "Account management",
+  "fork": false,
+  "url": "https://api.github.com/repos/rjrodger/seneca-account",
+  "languages_url": "https://api.github.com/repos/rjrodger/seneca-account/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/seneca-account/pulls{/number}",
+  "created_at": "2013-07-31T16:17:06Z",
+  "updated_at": "2016-10-17T03:44:18Z",
+  "pushed_at": "2015-10-16T07:50:26Z",
+  "homepage": null,
+  "size": 279,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rjrodger": 15
+  },
+  "pulls_authors": [
+    "maxired",
+    "blainsmith",
+    "bitdeli-chef"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 14451,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:36.735Z"
+}

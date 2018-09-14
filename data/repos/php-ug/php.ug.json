@@ -1,0 +1,94 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "php.ug",
+  "full_name": "php-ug/php.ug",
+  "owner": "php-ug",
+  "private": false,
+  "html_url": "https://github.com/php-ug/php.ug",
+  "description": "A home for all PHP-related Usergroups",
+  "fork": false,
+  "url": "https://api.github.com/repos/php-ug/php.ug",
+  "languages_url": "https://api.github.com/repos/php-ug/php.ug/languages",
+  "pulls_url": "https://api.github.com/repos/php-ug/php.ug/pulls{/number}",
+  "created_at": "2012-03-06T07:52:32Z",
+  "updated_at": "2018-07-22T19:56:06Z",
+  "pushed_at": "2018-07-22T19:56:05Z",
+  "homepage": "https://php.ug",
+  "size": 4754,
+  "stargazers_count": 80,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "php-ug",
+    "id": 2031859,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIwMzE4NTk=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/2031859?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/php-ug",
+    "html_url": "https://github.com/php-ug",
+    "followers_url": "https://api.github.com/users/php-ug/followers",
+    "following_url": "https://api.github.com/users/php-ug/following{/other_user}",
+    "gists_url": "https://api.github.com/users/php-ug/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/php-ug/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/php-ug/subscriptions",
+    "organizations_url": "https://api.github.com/users/php-ug/orgs",
+    "repos_url": "https://api.github.com/users/php-ug/repos",
+    "events_url": "https://api.github.com/users/php-ug/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/php-ug/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "emirb": 1,
+    "Xethron": 1,
+    "maglnet": 1,
+    "rdohms": 1,
+    "derickr": 1,
+    "petk": 1,
+    "tsilvers": 3,
+    "heiglandreas": 253
+  },
+  "pulls_authors": [
+    "heiglandreas",
+    "Avalarion",
+    "emirb",
+    "Xethron",
+    "tsilvers",
+    "maglnet",
+    "rdohms",
+    "derickr",
+    "petk"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 454057,
+      "color": "#4F5D95"
+    },
+    "HTML": {
+      "bytes": 198952,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 31941,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 18449,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 1206,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T20:47:15.235Z"
+}

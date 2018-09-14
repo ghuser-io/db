@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "clean-shutdown",
+  "full_name": "pimoroni/clean-shutdown",
+  "owner": "pimoroni",
+  "private": false,
+  "html_url": "https://github.com/pimoroni/clean-shutdown",
+  "description": "Python daemon to watch a GPIO pin and trigger a clean shutdown.",
+  "fork": false,
+  "url": "https://api.github.com/repos/pimoroni/clean-shutdown",
+  "languages_url": "https://api.github.com/repos/pimoroni/clean-shutdown/languages",
+  "pulls_url": "https://api.github.com/repos/pimoroni/clean-shutdown/pulls{/number}",
+  "created_at": "2017-03-22T16:49:19Z",
+  "updated_at": "2018-09-12T11:19:38Z",
+  "pushed_at": "2018-09-06T21:41:38Z",
+  "homepage": "",
+  "size": 58,
+  "stargazers_count": 50,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pimoroni",
+    "id": 2399917,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzOTk5MTc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2399917?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pimoroni",
+    "html_url": "https://github.com/pimoroni",
+    "followers_url": "https://api.github.com/users/pimoroni/followers",
+    "following_url": "https://api.github.com/users/pimoroni/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pimoroni/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pimoroni/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pimoroni/subscriptions",
+    "organizations_url": "https://api.github.com/users/pimoroni/orgs",
+    "repos_url": "https://api.github.com/users/pimoroni/repos",
+    "events_url": "https://api.github.com/users/pimoroni/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pimoroni/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ax42": 1,
+    "ngreatorex": 1,
+    "Gadgetoid": 10,
+    "RogueM": 57
+  },
+  "pulls_authors": [
+    "pstray",
+    "ax42",
+    "ngreatorex",
+    "RogueM",
+    "Gadgetoid",
+    "AndiCui"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 15516,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:43:31.152Z"
+}

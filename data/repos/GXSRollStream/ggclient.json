@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ggclient",
+  "full_name": "GXSRollStream/ggclient",
+  "owner": "GXSRollStream",
+  "private": false,
+  "html_url": "https://github.com/GXSRollStream/ggclient",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/GXSRollStream/ggclient",
+  "languages_url": "https://api.github.com/repos/GXSRollStream/ggclient/languages",
+  "pulls_url": "https://api.github.com/repos/GXSRollStream/ggclient/pulls{/number}",
+  "created_at": "2012-04-24T19:04:53Z",
+  "updated_at": "2014-01-07T19:09:29Z",
+  "pushed_at": "2012-04-26T18:15:10Z",
+  "homepage": null,
+  "size": 100,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "GXSRollStream",
+    "id": 1379916,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzNzk5MTY=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/1379916?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/GXSRollStream",
+    "html_url": "https://github.com/GXSRollStream",
+    "followers_url": "https://api.github.com/users/GXSRollStream/followers",
+    "following_url": "https://api.github.com/users/GXSRollStream/following{/other_user}",
+    "gists_url": "https://api.github.com/users/GXSRollStream/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/GXSRollStream/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/GXSRollStream/subscriptions",
+    "organizations_url": "https://api.github.com/users/GXSRollStream/orgs",
+    "repos_url": "https://api.github.com/users/GXSRollStream/repos",
+    "events_url": "https://api.github.com/users/GXSRollStream/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/GXSRollStream/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "subbarao": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 18157,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 463,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T10:41:35.678Z"
+}

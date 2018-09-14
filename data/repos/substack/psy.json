@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "psy",
+  "full_name": "substack/psy",
+  "owner": "substack",
+  "private": false,
+  "html_url": "https://github.com/substack/psy",
+  "description": "process monitor command",
+  "fork": false,
+  "url": "https://api.github.com/repos/substack/psy",
+  "languages_url": "https://api.github.com/repos/substack/psy/languages",
+  "pulls_url": "https://api.github.com/repos/substack/psy/pulls{/number}",
+  "created_at": "2015-05-18T14:11:17Z",
+  "updated_at": "2018-05-29T01:31:37Z",
+  "pushed_at": "2016-12-20T00:40:41Z",
+  "homepage": null,
+  "size": 54,
+  "stargazers_count": 234,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "hustcc": 1,
+    "xyclos": 1,
+    "tnguyen14": 1,
+    "maxogden": 1,
+    "sindresorhus": 1,
+    "sjonnet19": 1,
+    "aredridel": 2,
+    "yoshuawuyts": 3,
+    "karissa": 4,
+    "substack": 62
+  },
+  "pulls_authors": [
+    "yoshuawuyts",
+    "hustcc",
+    "xyclos",
+    "tnguyen14",
+    "maxogden",
+    "karissa",
+    "sindresorhus",
+    "sjonnet19",
+    "aredridel"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 18076,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T21:40:21.188Z"
+}

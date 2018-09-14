@@ -1,0 +1,83 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "eris-sharder",
+  "full_name": "Discord-Sharders/eris-sharder",
+  "owner": "Discord-Sharders",
+  "private": false,
+  "html_url": "https://github.com/Discord-Sharders/eris-sharder",
+  "description": "A sharding manager for the JavaScript eris library",
+  "fork": false,
+  "url": "https://api.github.com/repos/Discord-Sharders/eris-sharder",
+  "languages_url": "https://api.github.com/repos/Discord-Sharders/eris-sharder/languages",
+  "pulls_url": "https://api.github.com/repos/Discord-Sharders/eris-sharder/pulls{/number}",
+  "created_at": "2017-08-24T15:55:09Z",
+  "updated_at": "2018-09-11T00:16:24Z",
+  "pushed_at": "2018-08-22T18:53:47Z",
+  "homepage": "",
+  "size": 330,
+  "stargazers_count": 11,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "dev",
+  "organization": {
+    "login": "Discord-Sharders",
+    "id": 31293490,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMxMjkzNDkw",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/31293490?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Discord-Sharders",
+    "html_url": "https://github.com/Discord-Sharders",
+    "followers_url": "https://api.github.com/users/Discord-Sharders/followers",
+    "following_url": "https://api.github.com/users/Discord-Sharders/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Discord-Sharders/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Discord-Sharders/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Discord-Sharders/subscriptions",
+    "organizations_url": "https://api.github.com/users/Discord-Sharders/orgs",
+    "repos_url": "https://api.github.com/users/Discord-Sharders/repos",
+    "events_url": "https://api.github.com/users/Discord-Sharders/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Discord-Sharders/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "melmsie": 1,
+    "qbunt": 1,
+    "rastating": 1,
+    "TiagoDanin": 1,
+    "greenkeeper[bot]": 2,
+    "Aetheryx": 2,
+    "MrJohnCoder": 187,
+    "dependabot-bot": 1
+  },
+  "pulls_authors": [
+    "dependabot[bot]",
+    "greenkeeper[bot]",
+    "rubikscraft",
+    "melmsie",
+    "MrJohnCoder",
+    "qbunt",
+    "IsNotADeveloper",
+    "rastating",
+    "TiagoDanin",
+    "Aetheryx"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 33508,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 574,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T00:34:03.754Z"
+}

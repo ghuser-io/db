@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "globalize3_accessors",
+  "full_name": "tomash/globalize3_accessors",
+  "owner": "tomash",
+  "private": false,
+  "html_url": "https://github.com/tomash/globalize3_accessors",
+  "description": "easy accessors for ActiveRecord fields translated with globalize3",
+  "fork": false,
+  "url": "https://api.github.com/repos/tomash/globalize3_accessors",
+  "languages_url": "https://api.github.com/repos/tomash/globalize3_accessors/languages",
+  "pulls_url": "https://api.github.com/repos/tomash/globalize3_accessors/pulls{/number}",
+  "created_at": "2011-07-10T14:18:56Z",
+  "updated_at": "2017-05-31T07:40:23Z",
+  "pushed_at": "2011-07-10T14:41:27Z",
+  "homepage": "",
+  "size": 98,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "tomash": 4
+  },
+  "pulls_authors": [
+    "maximgladkov"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 4223,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T16:53:09.094Z"
+}

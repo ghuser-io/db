@@ -1,0 +1,139 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "IXP-Manager",
+  "full_name": "inex/IXP-Manager",
+  "owner": "inex",
+  "private": false,
+  "html_url": "https://github.com/inex/IXP-Manager",
+  "description": "Full stack web application to manage Internet Exchange Points (IXPs)",
+  "fork": false,
+  "url": "https://api.github.com/repos/inex/IXP-Manager",
+  "languages_url": "https://api.github.com/repos/inex/IXP-Manager/languages",
+  "pulls_url": "https://api.github.com/repos/inex/IXP-Manager/pulls{/number}",
+  "created_at": "2011-05-24T15:36:58Z",
+  "updated_at": "2018-09-11T15:29:55Z",
+  "pushed_at": "2018-09-11T15:29:52Z",
+  "homepage": "http://www.ixpmanager.org/",
+  "size": 29672,
+  "stargazers_count": 154,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "inex",
+    "id": 804665,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjgwNDY2NQ==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/804665?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/inex",
+    "html_url": "https://github.com/inex",
+    "followers_url": "https://api.github.com/users/inex/followers",
+    "following_url": "https://api.github.com/users/inex/following{/other_user}",
+    "gists_url": "https://api.github.com/users/inex/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/inex/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/inex/subscriptions",
+    "organizations_url": "https://api.github.com/users/inex/orgs",
+    "repos_url": "https://api.github.com/users/inex/repos",
+    "events_url": "https://api.github.com/users/inex/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/inex/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "emirb": 1,
+    "pierky": 1,
+    "oasys": 1,
+    "LindsayHill": 1,
+    "will-h": 1,
+    "sparkeh": 2,
+    "matejv": 2,
+    "aduitsis": 3,
+    "fooelisa": 5,
+    "rowanthorpe": 37,
+    "nickhilliard": 216,
+    "yannrobin": 301,
+    "barryo": 2930
+  },
+  "pulls_authors": [
+    "yannrobin",
+    "prakunhungsit",
+    "job",
+    "kylespencer",
+    "barryo",
+    "emirb",
+    "pierky",
+    "sparkeh",
+    "oasys",
+    "medea61",
+    "aduitsis",
+    "shusugmt",
+    "LindsayHill",
+    "rowanthorpe",
+    "will-h",
+    "fooelisa",
+    "matejv",
+    "pdxmaverick",
+    "bcix",
+    "nereliz",
+    "nickhilliard"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 5742215,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 1193535,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 244732,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 241717,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 93284,
+      "color": "#89e051"
+    },
+    "Perl": {
+      "bytes": 54540,
+      "color": "#0298c3"
+    },
+    "PLpgSQL": {
+      "bytes": 22222,
+      "color": "#ccc"
+    },
+    "Hack": {
+      "bytes": 7780,
+      "color": "#878787"
+    },
+    "Smarty": {
+      "bytes": 7535,
+      "color": "#ccc"
+    },
+    "Dockerfile": {
+      "bytes": 5571,
+      "color": "#0db7ed"
+    },
+    "Perl 6": {
+      "bytes": 4271,
+      "color": "#0000fb"
+    },
+    "Ruby": {
+      "bytes": 3123,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T20:47:12.109Z"
+}

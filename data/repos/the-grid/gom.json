@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gom",
+  "full_name": "the-grid/gom",
+  "owner": "the-grid",
+  "private": false,
+  "html_url": "https://github.com/the-grid/gom",
+  "description": "Grid Object Model",
+  "fork": false,
+  "url": "https://api.github.com/repos/the-grid/gom",
+  "languages_url": "https://api.github.com/repos/the-grid/gom/languages",
+  "pulls_url": "https://api.github.com/repos/the-grid/gom/pulls{/number}",
+  "created_at": "2014-09-30T03:49:32Z",
+  "updated_at": "2016-10-08T04:58:20Z",
+  "pushed_at": "2017-01-06T16:33:21Z",
+  "homepage": null,
+  "size": 132,
+  "stargazers_count": 13,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "the-grid",
+    "id": 2418158,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI0MTgxNTg=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/2418158?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/the-grid",
+    "html_url": "https://github.com/the-grid",
+    "followers_url": "https://api.github.com/users/the-grid/followers",
+    "following_url": "https://api.github.com/users/the-grid/following{/other_user}",
+    "gists_url": "https://api.github.com/users/the-grid/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/the-grid/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/the-grid/subscriptions",
+    "organizations_url": "https://api.github.com/users/the-grid/orgs",
+    "repos_url": "https://api.github.com/users/the-grid/repos",
+    "events_url": "https://api.github.com/users/the-grid/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/the-grid/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Inviz": 2,
+    "bergie": 2,
+    "paulyoung": 3,
+    "greenkeeperio-bot": 5,
+    "cbchouinard": 11,
+    "d4tocchini": 37
+  },
+  "pulls_authors": [
+    "greenkeeperio-bot",
+    "pvdz",
+    "bergie",
+    "paulyoung",
+    "cbchouinard",
+    "Inviz"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 106366,
+      "color": "#f1e05a"
+    },
+    "CoffeeScript": {
+      "bytes": 35999,
+      "color": "#244776"
+    },
+    "HTML": {
+      "bytes": 1053,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:57.541Z"
+}

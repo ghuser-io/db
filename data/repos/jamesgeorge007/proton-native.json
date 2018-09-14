@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "proton-native",
+  "full_name": "jamesgeorge007/proton-native",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/proton-native",
+  "description": "A React environment for cross platform native desktop apps",
+  "fork": true,
+  "url": "https://api.github.com/repos/jamesgeorge007/proton-native",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/proton-native/languages",
+  "created_at": "2018-05-23T02:36:09Z",
+  "updated_at": "2018-06-29T06:15:01Z",
+  "pushed_at": "2018-06-29T06:14:58Z",
+  "homepage": "https://proton-native.js.org",
+  "size": 5362,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "zxbetter": 1,
+    "msal4": 1,
+    "DerJacques": 1,
+    "baona95": 1,
+    "bavardage": 1,
+    "jedireza": 1,
+    "cjrh": 1,
+    "albe-rosado": 1,
+    "atilacamurca": 1,
+    "benwiley4000": 1,
+    "liuyanghejerry": 1,
+    "michal-majer": 1,
+    "franciscofsales": 1,
+    "kaseyhinton": 1,
+    "palaniraja": 1,
+    "vikkio88": 2,
+    "RicheyRyan": 3,
+    "parro-it": 4,
+    "alejandronanez": 7,
+    "mischnic": 14,
+    "kusti8": 117
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 79532,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/proton-native/pulls{/number}",
+  "pulls_authors": [
+    "jamesgeorge007"
+  ]
+}

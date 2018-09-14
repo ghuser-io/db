@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sails-viewify",
+  "full_name": "scriptnull/sails-viewify",
+  "owner": "scriptnull",
+  "private": false,
+  "html_url": "https://github.com/scriptnull/sails-viewify",
+  "description": "Convert your sails models into views.",
+  "fork": false,
+  "url": "https://api.github.com/repos/scriptnull/sails-viewify",
+  "languages_url": "https://api.github.com/repos/scriptnull/sails-viewify/languages",
+  "pulls_url": "https://api.github.com/repos/scriptnull/sails-viewify/pulls{/number}",
+  "created_at": "2015-01-17T16:02:46Z",
+  "updated_at": "2017-05-02T20:32:20Z",
+  "pushed_at": "2016-03-01T16:19:20Z",
+  "homepage": null,
+  "size": 17,
+  "stargazers_count": 11,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "yannbertrand": 4,
+    "scriptnull": 18
+  },
+  "pulls_authors": [
+    "jup31",
+    "yannbertrand",
+    "gitter-badger"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 3943,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:03.503Z"
+}

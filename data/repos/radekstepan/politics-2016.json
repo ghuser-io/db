@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "politics-2016",
+  "full_name": "radekstepan/politics-2016",
+  "owner": "radekstepan",
+  "private": false,
+  "html_url": "https://github.com/radekstepan/politics-2016",
+  "description": "US Presidential Election Predictions",
+  "fork": false,
+  "url": "https://api.github.com/repos/radekstepan/politics-2016",
+  "languages_url": "https://api.github.com/repos/radekstepan/politics-2016/languages",
+  "pulls_url": "https://api.github.com/repos/radekstepan/politics-2016/pulls{/number}",
+  "created_at": "2016-03-14T17:22:01Z",
+  "updated_at": "2017-02-14T14:03:43Z",
+  "pushed_at": "2017-07-18T03:10:29Z",
+  "homepage": "http://radekstepan.com/politics-2016",
+  "size": 11865,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "radekstepan": 116
+  },
+  "pulls_authors": [
+    "snyk-bot"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1934925,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 16143,
+      "color": "#563d7c"
+    },
+    "Makefile": {
+      "bytes": 1118,
+      "color": "#427819"
+    },
+    "HTML": {
+      "bytes": 375,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T13:50:54.875Z"
+}

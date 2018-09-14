@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "css-tailor",
+  "full_name": "kamranahmedse/css-tailor",
+  "owner": "kamranahmedse",
+  "private": false,
+  "html_url": "https://github.com/kamranahmedse/css-tailor",
+  "description": "✂ Automatically generate CSS from your HTML classes",
+  "fork": false,
+  "url": "https://api.github.com/repos/kamranahmedse/css-tailor",
+  "languages_url": "https://api.github.com/repos/kamranahmedse/css-tailor/languages",
+  "pulls_url": "https://api.github.com/repos/kamranahmedse/css-tailor/pulls{/number}",
+  "created_at": "2016-09-17T11:37:04Z",
+  "updated_at": "2018-09-11T08:22:42Z",
+  "pushed_at": "2018-08-16T13:48:16Z",
+  "homepage": null,
+  "size": 34,
+  "stargazers_count": 39,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "kamranahmedse": 51
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 18239,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:37.458Z"
+}

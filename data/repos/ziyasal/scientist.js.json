@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "scientist.js",
+  "full_name": "ziyasal/scientist.js",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/scientist.js",
+  "description": ":microscope:  A JavaScript interpretation of the Ruby library Scientist, a library for carefully refactoring critical paths.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal/scientist.js",
+  "languages_url": "https://api.github.com/repos/ziyasal/scientist.js/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/scientist.js/pulls{/number}",
+  "created_at": "2016-01-25T12:51:03Z",
+  "updated_at": "2018-09-13T03:50:50Z",
+  "pushed_at": "2018-07-13T14:56:26Z",
+  "homepage": "",
+  "size": 24,
+  "stargazers_count": 580,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "themicp": 1,
+    "ozzimpact": 3,
+    "ziyasal": 26
+  },
+  "pulls_authors": [
+    "ozzimpact",
+    "themicp"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 23876,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-13T17:05:21.231Z"
+}

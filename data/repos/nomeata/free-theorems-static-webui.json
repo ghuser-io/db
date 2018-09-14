@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "free-theorems-static-webui",
+  "full_name": "nomeata/free-theorems-static-webui",
+  "owner": "nomeata",
+  "private": false,
+  "html_url": "https://github.com/nomeata/free-theorems-static-webui",
+  "description": "A browser-only web interface to the free-theorems library",
+  "fork": false,
+  "url": "https://api.github.com/repos/nomeata/free-theorems-static-webui",
+  "languages_url": "https://api.github.com/repos/nomeata/free-theorems-static-webui/languages",
+  "pulls_url": "https://api.github.com/repos/nomeata/free-theorems-static-webui/pulls{/number}",
+  "created_at": "2018-07-24T15:22:29Z",
+  "updated_at": "2018-07-27T16:32:27Z",
+  "pushed_at": "2018-07-27T16:40:39Z",
+  "homepage": null,
+  "size": 13809,
+  "stargazers_count": 3,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "byorgey": 1,
+    "nomeata": 19
+  },
+  "pulls_authors": [
+    "byorgey"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 334734,
+      "color": "#5e5086"
+    },
+    "Shell": {
+      "bytes": 61,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:02.148Z"
+}

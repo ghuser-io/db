@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "retry",
+  "full_name": "moul/retry",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/retry",
+  "description": ":shell: retry shell commands",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/retry",
+  "languages_url": "https://api.github.com/repos/moul/retry/languages",
+  "pulls_url": "https://api.github.com/repos/moul/retry/pulls{/number}",
+  "created_at": "2016-08-27T06:19:42Z",
+  "updated_at": "2018-09-04T21:44:33Z",
+  "pushed_at": "2018-09-04T21:44:32Z",
+  "homepage": "",
+  "size": 130,
+  "stargazers_count": 10,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "renovate-bot": 1,
+    "moul": 31
+  },
+  "pulls_authors": [
+    "moul",
+    "renovate[bot]"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 3313,
+      "color": "#375eab"
+    },
+    "Ruby": {
+      "bytes": 543,
+      "color": "#701516"
+    },
+    "Makefile": {
+      "bytes": 286,
+      "color": "#427819"
+    },
+    "Dockerfile": {
+      "bytes": 212,
+      "color": "#0db7ed"
+    },
+    "AMPL": {
+      "bytes": 131,
+      "color": "#E6EFBB"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:39.437Z"
+}

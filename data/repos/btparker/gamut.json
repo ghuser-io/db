@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gamut",
+  "full_name": "btparker/gamut",
+  "owner": "btparker",
+  "private": false,
+  "html_url": "https://github.com/btparker/gamut",
+  "description": "Interactive gamut masking",
+  "fork": false,
+  "url": "https://api.github.com/repos/btparker/gamut",
+  "languages_url": "https://api.github.com/repos/btparker/gamut/languages",
+  "pulls_url": "https://api.github.com/repos/btparker/gamut/pulls{/number}",
+  "created_at": "2012-06-29T02:08:29Z",
+  "updated_at": "2014-05-03T13:47:38Z",
+  "pushed_at": "2012-10-30T15:45:27Z",
+  "homepage": null,
+  "size": 776,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "btparker": 10
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 421496,
+      "color": "#f1e05a"
+    },
+    "Java": {
+      "bytes": 5475,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-12T15:36:22.759Z"
+}

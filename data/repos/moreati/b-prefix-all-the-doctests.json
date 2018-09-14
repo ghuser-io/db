@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "b-prefix-all-the-doctests",
+  "full_name": "moreati/b-prefix-all-the-doctests",
+  "owner": "moreati",
+  "private": false,
+  "html_url": "https://github.com/moreati/b-prefix-all-the-doctests",
+  "description": "Experiment in doctests for strings on Python 2.x and 3.x",
+  "fork": false,
+  "url": "https://api.github.com/repos/moreati/b-prefix-all-the-doctests",
+  "languages_url": "https://api.github.com/repos/moreati/b-prefix-all-the-doctests/languages",
+  "pulls_url": "https://api.github.com/repos/moreati/b-prefix-all-the-doctests/pulls{/number}",
+  "created_at": "2015-09-15T00:24:36Z",
+  "updated_at": "2017-05-26T19:20:11Z",
+  "pushed_at": "2017-05-26T19:24:17Z",
+  "homepage": null,
+  "size": 22,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jayvdb": 1,
+    "moreati": 34
+  },
+  "pulls_authors": [
+    "jayvdb"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 12571,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

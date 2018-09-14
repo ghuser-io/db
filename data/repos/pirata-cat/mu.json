@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mu",
+  "full_name": "pirata-cat/mu",
+  "owner": "pirata-cat",
+  "private": false,
+  "html_url": "https://github.com/pirata-cat/mu",
+  "description": "Megaupload Campaign",
+  "fork": false,
+  "url": "https://api.github.com/repos/pirata-cat/mu",
+  "languages_url": "https://api.github.com/repos/pirata-cat/mu/languages",
+  "pulls_url": "https://api.github.com/repos/pirata-cat/mu/pulls{/number}",
+  "created_at": "2012-01-23T07:49:03Z",
+  "updated_at": "2017-06-16T03:11:17Z",
+  "pushed_at": "2012-02-09T21:47:12Z",
+  "homepage": "http://megaupload.pirata.cat/",
+  "size": 320,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "pirata-cat",
+    "id": 1370211,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzNzAyMTE=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1370211?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pirata-cat",
+    "html_url": "https://github.com/pirata-cat",
+    "followers_url": "https://api.github.com/users/pirata-cat/followers",
+    "following_url": "https://api.github.com/users/pirata-cat/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pirata-cat/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pirata-cat/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pirata-cat/subscriptions",
+    "organizations_url": "https://api.github.com/users/pirata-cat/orgs",
+    "repos_url": "https://api.github.com/users/pirata-cat/repos",
+    "events_url": "https://api.github.com/users/pirata-cat/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pirata-cat/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "imdario": 21
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 34830,
+      "color": "#f1e05a"
+    },
+    "Ruby": {
+      "bytes": 712,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T20:48:12.570Z"
+}

@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "arduino-pid-autotuner",
+  "full_name": "jackw01/arduino-pid-autotuner",
+  "owner": "jackw01",
+  "private": false,
+  "html_url": "https://github.com/jackw01/arduino-pid-autotuner",
+  "description": "Automated PID tuning using Ziegler-Nichols/relay method on Arduino and compatible boards",
+  "fork": false,
+  "url": "https://api.github.com/repos/jackw01/arduino-pid-autotuner",
+  "languages_url": "https://api.github.com/repos/jackw01/arduino-pid-autotuner/languages",
+  "pulls_url": "https://api.github.com/repos/jackw01/arduino-pid-autotuner/pulls{/number}",
+  "created_at": "2017-06-06T01:58:15Z",
+  "updated_at": "2018-08-13T10:22:12Z",
+  "pushed_at": "2018-01-05T23:44:21Z",
+  "homepage": null,
+  "size": 7,
+  "stargazers_count": 22,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jackw01": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 8179,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-08-17T15:49:04.021Z"
+}

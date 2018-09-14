@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wc2018-slack-bot",
+  "full_name": "nicolopignatelli/wc2018-slack-bot",
+  "owner": "nicolopignatelli",
+  "private": false,
+  "html_url": "https://github.com/nicolopignatelli/wc2018-slack-bot",
+  "description": "World Cup 2018 Slack Bot",
+  "fork": false,
+  "url": "https://api.github.com/repos/nicolopignatelli/wc2018-slack-bot",
+  "languages_url": "https://api.github.com/repos/nicolopignatelli/wc2018-slack-bot/languages",
+  "created_at": "2018-06-15T06:57:08Z",
+  "updated_at": "2018-06-30T16:09:01Z",
+  "pushed_at": "2018-06-30T16:09:00Z",
+  "homepage": null,
+  "size": 22,
+  "stargazers_count": 11,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "DiSiqueira": 1,
+    "nicolopignatelli": 17
+  },
+  "languages": {
+    "Go": {
+      "bytes": 12911,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 585,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/nicolopignatelli/wc2018-slack-bot/pulls{/number}",
+  "pulls_authors": [
+    "DiSiqueira"
+  ]
+}

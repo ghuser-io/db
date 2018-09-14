@@ -1,0 +1,32 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nepali-datasources",
+  "full_name": "sknepal/nepali-datasources",
+  "owner": "sknepal",
+  "private": false,
+  "html_url": "https://github.com/sknepal/nepali-datasources",
+  "description": "A list of data sources for Nepal related data. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/sknepal/nepali-datasources",
+  "languages_url": "https://api.github.com/repos/sknepal/nepali-datasources/languages",
+  "pulls_url": "https://api.github.com/repos/sknepal/nepali-datasources/pulls{/number}",
+  "created_at": "2016-01-07T09:01:52Z",
+  "updated_at": "2018-07-31T14:57:43Z",
+  "pushed_at": "2016-09-15T16:38:03Z",
+  "homepage": null,
+  "size": 5,
+  "stargazers_count": 6,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sknepal": 2
+  },
+  "pulls_authors": [
+    "amitness"
+  ],
+  "languages": {},
+  "fetched_at": "2018-08-18T09:17:33.106Z"
+}

@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pytest-fastest",
+  "full_name": "kstrauser/pytest-fastest",
+  "owner": "kstrauser",
+  "private": false,
+  "html_url": "https://github.com/kstrauser/pytest-fastest",
+  "description": "Use Git and coverage data to run only needed tests",
+  "fork": false,
+  "url": "https://api.github.com/repos/kstrauser/pytest-fastest",
+  "languages_url": "https://api.github.com/repos/kstrauser/pytest-fastest/languages",
+  "pulls_url": "https://api.github.com/repos/kstrauser/pytest-fastest/pulls{/number}",
+  "created_at": "2018-05-18T00:25:57Z",
+  "updated_at": "2018-08-28T05:16:20Z",
+  "pushed_at": "2018-08-28T05:19:41Z",
+  "homepage": "http://pytest-fastest.readthedocs.io/en/latest/",
+  "size": 46,
+  "stargazers_count": 5,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "dev",
+  "contributors": {
+    "kstrauser": 36,
+    "jayvdb": 1
+  },
+  "pulls_authors": [
+    "jayvdb"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 13661,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 131,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-08-28T05:44:32.280Z"
+}

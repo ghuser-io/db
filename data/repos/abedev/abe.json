@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "abe",
+  "full_name": "abedev/abe",
+  "owner": "abedev",
+  "private": false,
+  "html_url": "https://github.com/abedev/abe",
+  "description": "API for Back-End (Haxe, NodeJS and Express)",
+  "fork": false,
+  "url": "https://api.github.com/repos/abedev/abe",
+  "languages_url": "https://api.github.com/repos/abedev/abe/languages",
+  "pulls_url": "https://api.github.com/repos/abedev/abe/pulls{/number}",
+  "created_at": "2015-02-14T00:45:01Z",
+  "updated_at": "2018-08-15T12:47:45Z",
+  "pushed_at": "2018-08-02T02:28:04Z",
+  "homepage": "",
+  "size": 211,
+  "stargazers_count": 53,
+  "language": "Haxe",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "abedev",
+    "id": 11136769,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExMTM2NzY5",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/11136769?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/abedev",
+    "html_url": "https://github.com/abedev",
+    "followers_url": "https://api.github.com/users/abedev/followers",
+    "following_url": "https://api.github.com/users/abedev/following{/other_user}",
+    "gists_url": "https://api.github.com/users/abedev/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/abedev/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/abedev/subscriptions",
+    "organizations_url": "https://api.github.com/users/abedev/orgs",
+    "repos_url": "https://api.github.com/users/abedev/repos",
+    "events_url": "https://api.github.com/users/abedev/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/abedev/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "kLabz": 1,
+    "gitter-badger": 1,
+    "TheoSabattie": 2,
+    "andywhite37": 2,
+    "mlms13": 34,
+    "fponticelli": 170
+  },
+  "pulls_authors": [
+    "TheoSabattie",
+    "kLabz",
+    "fponticelli",
+    "andywhite37",
+    "ghost",
+    "mlms13",
+    "gitter-badger"
+  ],
+  "languages": {
+    "Haxe": {
+      "bytes": 73664,
+      "color": "#df7900"
+    },
+    "Shell": {
+      "bytes": 145,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:52.099Z"
+}

@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SIDStream",
+  "full_name": "Gadgetoid/SIDStream",
+  "owner": "Gadgetoid",
+  "private": false,
+  "html_url": "https://github.com/Gadgetoid/SIDStream",
+  "description": "Decode SID files and stream them over a serial port for Parallax Propeller SIDcog emulator.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Gadgetoid/SIDStream",
+  "languages_url": "https://api.github.com/repos/Gadgetoid/SIDStream/languages",
+  "pulls_url": "https://api.github.com/repos/Gadgetoid/SIDStream/pulls{/number}",
+  "created_at": "2016-07-13T11:41:54Z",
+  "updated_at": "2017-04-15T17:11:54Z",
+  "pushed_at": "2016-07-13T11:43:23Z",
+  "homepage": null,
+  "size": 6,
+  "stargazers_count": 2,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Gadgetoid": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 30944,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 114,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:12.152Z"
+}

@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "yaka",
+  "full_name": "Lesterpig/yaka",
+  "owner": "Lesterpig",
+  "private": false,
+  "html_url": "https://github.com/Lesterpig/yaka",
+  "description": "Yaka compiler - INSA Rennes Project",
+  "fork": false,
+  "url": "https://api.github.com/repos/Lesterpig/yaka",
+  "languages_url": "https://api.github.com/repos/Lesterpig/yaka/languages",
+  "pulls_url": "https://api.github.com/repos/Lesterpig/yaka/pulls{/number}",
+  "created_at": "2015-03-02T12:44:03Z",
+  "updated_at": "2015-05-07T13:19:04Z",
+  "pushed_at": "2015-05-11T09:41:21Z",
+  "homepage": null,
+  "size": 425,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ShadowsWalker": 31,
+    "superboum": 37,
+    "Lesterpig": 54
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 33549,
+      "color": "#b07219"
+    },
+    "Assembly": {
+      "bytes": 7367,
+      "color": "#6E4C13"
+    },
+    "Makefile": {
+      "bytes": 1272,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 456,
+      "color": "#89e051"
+    },
+    "PowerShell": {
+      "bytes": 139,
+      "color": "#012456"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:23.102Z"
+}

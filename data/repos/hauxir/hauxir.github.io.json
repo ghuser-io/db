@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hauxir.github.io",
+  "full_name": "hauxir/hauxir.github.io",
+  "owner": "hauxir",
+  "private": false,
+  "html_url": "https://github.com/hauxir/hauxir.github.io",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/hauxir/hauxir.github.io",
+  "languages_url": "https://api.github.com/repos/hauxir/hauxir.github.io/languages",
+  "pulls_url": "https://api.github.com/repos/hauxir/hauxir.github.io/pulls{/number}",
+  "created_at": "2016-07-22T16:02:42Z",
+  "updated_at": "2016-09-25T07:26:58Z",
+  "pushed_at": "2016-10-07T23:00:14Z",
+  "homepage": null,
+  "size": 86956,
+  "stargazers_count": 2,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "hauxir": 28
+  },
+  "pulls_authors": [
+    "npmcdn-to-unpkg-bot"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 2492,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 2273,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 721,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 282,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T17:10:01.594Z"
+}

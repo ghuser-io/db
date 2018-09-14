@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "FunPacketCli",
+  "full_name": "Rupeshiya/FunPacketCli",
+  "owner": "Rupeshiya",
+  "private": false,
+  "html_url": "https://github.com/Rupeshiya/FunPacketCli",
+  "description": "This is a simple console application package for having fun in console.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Rupeshiya/FunPacketCli",
+  "languages_url": "https://api.github.com/repos/Rupeshiya/FunPacketCli/languages",
+  "created_at": "2018-06-18T15:13:27Z",
+  "updated_at": "2018-08-16T14:49:39Z",
+  "pushed_at": "2018-08-16T14:51:30Z",
+  "homepage": null,
+  "size": 31,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Rupeshiya": 33
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 2805,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-16T19:19:37.586Z",
+  "pulls_url": "https://api.github.com/repos/Rupeshiya/FunPacketCli/pulls{/number}",
+  "pulls_authors": [
+    "Rupeshiya"
+  ]
+}

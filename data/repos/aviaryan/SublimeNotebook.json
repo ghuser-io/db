@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SublimeNotebook",
+  "full_name": "aviaryan/SublimeNotebook",
+  "owner": "aviaryan",
+  "private": false,
+  "html_url": "https://github.com/aviaryan/SublimeNotebook",
+  "description": "📝 Make Sublime Text your favorite note taking/journal application",
+  "fork": false,
+  "url": "https://api.github.com/repos/aviaryan/SublimeNotebook",
+  "languages_url": "https://api.github.com/repos/aviaryan/SublimeNotebook/languages",
+  "pulls_url": "https://api.github.com/repos/aviaryan/SublimeNotebook/pulls{/number}",
+  "created_at": "2017-02-21T20:13:54Z",
+  "updated_at": "2018-09-14T06:46:40Z",
+  "pushed_at": "2018-04-30T09:28:17Z",
+  "homepage": "",
+  "size": 100,
+  "stargazers_count": 127,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "AllanLRH": 1,
+    "anshumanv": 3,
+    "aviaryan": 87
+  },
+  "pulls_authors": [
+    "aviaryan",
+    "AllanLRH",
+    "anshumanv"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 83617,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-14T08:21:42.402Z"
+}

@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cura-aqua-dark-theme",
+  "full_name": "jackw01/cura-aqua-dark-theme",
+  "owner": "jackw01",
+  "private": false,
+  "html_url": "https://github.com/jackw01/cura-aqua-dark-theme",
+  "description": "Dark colorful theme for the Cura slicer v3.1",
+  "fork": false,
+  "url": "https://api.github.com/repos/jackw01/cura-aqua-dark-theme",
+  "languages_url": "https://api.github.com/repos/jackw01/cura-aqua-dark-theme/languages",
+  "pulls_url": "https://api.github.com/repos/jackw01/cura-aqua-dark-theme/pulls{/number}",
+  "created_at": "2017-12-12T02:08:24Z",
+  "updated_at": "2018-01-04T00:13:08Z",
+  "pushed_at": "2017-12-12T02:25:53Z",
+  "homepage": "",
+  "size": 5,
+  "stargazers_count": 3,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jackw01": 4
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-08-17T15:49:04.276Z"
+}

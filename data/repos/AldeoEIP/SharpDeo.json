@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SharpDeo",
+  "full_name": "AldeoEIP/SharpDeo",
+  "owner": "AldeoEIP",
+  "private": false,
+  "html_url": "https://github.com/AldeoEIP/SharpDeo",
+  "description": "SharpDeo is a PCL lib for the .NET ecosystem",
+  "fork": false,
+  "url": "https://api.github.com/repos/AldeoEIP/SharpDeo",
+  "languages_url": "https://api.github.com/repos/AldeoEIP/SharpDeo/languages",
+  "pulls_url": "https://api.github.com/repos/AldeoEIP/SharpDeo/pulls{/number}",
+  "created_at": "2015-06-11T12:45:26Z",
+  "updated_at": "2016-11-24T12:55:04Z",
+  "pushed_at": "2017-01-13T11:36:33Z",
+  "homepage": null,
+  "size": 203,
+  "stargazers_count": 2,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "AldeoEIP",
+    "id": 12459196,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyNDU5MTk2",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/12459196?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/AldeoEIP",
+    "html_url": "https://github.com/AldeoEIP",
+    "followers_url": "https://api.github.com/users/AldeoEIP/followers",
+    "following_url": "https://api.github.com/users/AldeoEIP/following{/other_user}",
+    "gists_url": "https://api.github.com/users/AldeoEIP/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/AldeoEIP/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/AldeoEIP/subscriptions",
+    "organizations_url": "https://api.github.com/users/AldeoEIP/orgs",
+    "repos_url": "https://api.github.com/users/AldeoEIP/repos",
+    "events_url": "https://api.github.com/users/AldeoEIP/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/AldeoEIP/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "aloisdg": 4
+  },
+  "pulls_authors": [
+    "JulienFONTANA"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 1843,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:17.277Z"
+}

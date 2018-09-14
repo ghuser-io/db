@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ama",
+  "full_name": "cheeaun/ama",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/ama",
+  "description": "Ask me anything!",
+  "fork": true,
+  "url": "https://api.github.com/repos/cheeaun/ama",
+  "languages_url": "https://api.github.com/repos/cheeaun/ama/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/ama/pulls{/number}",
+  "created_at": "2015-07-08T02:46:10Z",
+  "updated_at": "2017-07-10T11:09:05Z",
+  "pushed_at": "2015-07-08T02:08:39Z",
+  "homepage": "",
+  "size": 56,
+  "stargazers_count": 11,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sindresorhus": 1
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-10T19:00:11.724Z"
+}

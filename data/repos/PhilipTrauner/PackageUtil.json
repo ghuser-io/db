@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PackageUtil",
+  "full_name": "PhilipTrauner/PackageUtil",
+  "owner": "PhilipTrauner",
+  "private": false,
+  "html_url": "https://github.com/PhilipTrauner/PackageUtil",
+  "description": "Clean up and uninstall OS X packages with ease.",
+  "fork": false,
+  "url": "https://api.github.com/repos/PhilipTrauner/PackageUtil",
+  "languages_url": "https://api.github.com/repos/PhilipTrauner/PackageUtil/languages",
+  "pulls_url": "https://api.github.com/repos/PhilipTrauner/PackageUtil/pulls{/number}",
+  "created_at": "2015-10-10T12:22:35Z",
+  "updated_at": "2018-02-23T23:06:10Z",
+  "pushed_at": "2016-10-06T11:17:42Z",
+  "homepage": null,
+  "size": 7,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "PhilipTrauner": 10
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 6975,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:14.310Z"
+}

@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "lisky-bdd-tutorial",
+  "full_name": "willclarktech/lisky-bdd-tutorial",
+  "owner": "willclarktech",
+  "private": false,
+  "html_url": "https://github.com/willclarktech/lisky-bdd-tutorial",
+  "description": "Companion repo for Lisky BDD tutorial",
+  "fork": false,
+  "url": "https://api.github.com/repos/willclarktech/lisky-bdd-tutorial",
+  "languages_url": "https://api.github.com/repos/willclarktech/lisky-bdd-tutorial/languages",
+  "pulls_url": "https://api.github.com/repos/willclarktech/lisky-bdd-tutorial/pulls{/number}",
+  "created_at": "2017-11-03T15:38:45Z",
+  "updated_at": "2017-11-06T13:50:00Z",
+  "pushed_at": "2017-11-13T15:23:37Z",
+  "homepage": null,
+  "size": 33,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "willclarktech": 17
+  },
+  "pulls_authors": [
+    "anishkny",
+    "Tosch110"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 3599,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:40.058Z"
+}

@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sql_query_executor",
+  "full_name": "efreesen/sql_query_executor",
+  "owner": "efreesen",
+  "private": false,
+  "html_url": "https://github.com/efreesen/sql_query_executor",
+  "description": "With SqlQueryExecutor you can run SQL like queries on any array of hashes or similar objects",
+  "fork": false,
+  "url": "https://api.github.com/repos/efreesen/sql_query_executor",
+  "languages_url": "https://api.github.com/repos/efreesen/sql_query_executor/languages",
+  "pulls_url": "https://api.github.com/repos/efreesen/sql_query_executor/pulls{/number}",
+  "created_at": "2013-12-27T22:47:41Z",
+  "updated_at": "2017-01-05T17:37:27Z",
+  "pushed_at": "2017-01-05T17:42:12Z",
+  "homepage": "",
+  "size": 95,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "tomash": 1
+  },
+  "pulls_authors": [
+    "tomash"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 63366,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T16:53:03.784Z"
+}

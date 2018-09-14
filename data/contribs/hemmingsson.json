@@ -1,0 +1,112 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "Hemmingsson/soundcloud-comments": {
+      "full_name": "Hemmingsson/soundcloud-comments",
+      "name": "soundcloud-comments",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 13,
+      "activity": 5,
+      "total_score": 5,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Hemmingsson/dancemusic.wtf": {
+      "full_name": "Hemmingsson/dancemusic.wtf",
+      "name": "dancemusic.wtf",
+      "stargazers_count": 41,
+      "popularity": 2.6031833637998933,
+      "percentage": 99.05660377358491,
+      "maturity": 2.8219351565257536,
+      "total_commits_count": 106,
+      "activity": 3.0863360363920274,
+      "total_score": 50.06188183317203,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Hemmingsson/FacePause": {
+      "full_name": "Hemmingsson/FacePause",
+      "name": "FacePause",
+      "stargazers_count": 155,
+      "popularity": 3.1878417020070624,
+      "percentage": 100,
+      "maturity": 2.582656746092775,
+      "total_commits_count": 78,
+      "activity": 3.4376547597811964,
+      "total_score": 59.60843548407975,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Hemmingsson/Freeze": {
+      "full_name": "Hemmingsson/Freeze",
+      "name": "Freeze",
+      "stargazers_count": 15,
+      "popularity": 2.149257924096549,
+      "percentage": 99.16666666666667,
+      "maturity": 2.905366671327429,
+      "total_commits_count": 120,
+      "activity": 2.1378036640058684,
+      "total_score": 42.10382751709505,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "mairod/screensaver-js": {
+      "full_name": "mairod/screensaver-js",
+      "name": "screensaver-js",
+      "stargazers_count": 10,
+      "popularity": 1.9590800514478444,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 1.2265433622679631,
+      "total_score": 7.103783516611497,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Hemmingsson/Sketch-Title-Case": {
+      "full_name": "Hemmingsson/Sketch-Title-Case",
+      "name": "Sketch-Title-Case",
+      "stargazers_count": 10,
+      "popularity": 1.9590800514478444,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 29,
+      "activity": 1.2240865096660771,
+      "total_score": 32.56936733283159,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "paulahalldin/Paula-Halldin-Portfolio": {
+      "full_name": "paulahalldin/Paula-Halldin-Portfolio",
+      "name": "Paula-Halldin-Portfolio",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 81.81818181818181,
+      "maturity": 0,
+      "total_commits_count": 11,
+      "activity": 1.2387410547185982,
+      "total_score": 1.2387410547185982,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sketchplugins/plugin-directory": {
+      "full_name": "sketchplugins/plugin-directory",
+      "name": "plugin-directory",
+      "stargazers_count": 3060,
+      "popularity": 4.485632761397933,
+      "percentage": 0,
+      "maturity": 3.980874606344315,
+      "total_commits_count": 993,
+      "activity": 5,
+      "total_score": 26.41864749688243,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "sketchplugins"
+  ]
+}

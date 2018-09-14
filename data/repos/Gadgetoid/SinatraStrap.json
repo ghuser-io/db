@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SinatraStrap",
+  "full_name": "Gadgetoid/SinatraStrap",
+  "owner": "Gadgetoid",
+  "private": false,
+  "html_url": "https://github.com/Gadgetoid/SinatraStrap",
+  "description": "Tidy Ruby website boilerplate including Sinatra, Bootstrap CSS, DataMapper, SQLite",
+  "fork": false,
+  "url": "https://api.github.com/repos/Gadgetoid/SinatraStrap",
+  "languages_url": "https://api.github.com/repos/Gadgetoid/SinatraStrap/languages",
+  "pulls_url": "https://api.github.com/repos/Gadgetoid/SinatraStrap/pulls{/number}",
+  "created_at": "2013-10-02T09:20:57Z",
+  "updated_at": "2014-07-10T21:28:45Z",
+  "pushed_at": "2013-10-17T16:35:33Z",
+  "homepage": null,
+  "size": 176,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Gadgetoid": 13
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 13465,
+      "color": "#701516"
+    },
+    "CSS": {
+      "bytes": 1553,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:15.234Z"
+}

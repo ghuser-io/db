@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-named",
+  "full_name": "trevoro/node-named",
+  "owner": "trevoro",
+  "private": false,
+  "html_url": "https://github.com/trevoro/node-named",
+  "description": "DNS Server in node.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/trevoro/node-named",
+  "languages_url": "https://api.github.com/repos/trevoro/node-named/languages",
+  "pulls_url": "https://api.github.com/repos/trevoro/node-named/pulls{/number}",
+  "created_at": "2012-03-27T00:32:54Z",
+  "updated_at": "2018-09-09T02:21:10Z",
+  "pushed_at": "2018-08-31T20:34:55Z",
+  "homepage": "",
+  "size": 224,
+  "stargazers_count": 228,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "NetOperatorWibby": 1,
+    "AsyncNick": 1,
+    "demmer": 1,
+    "brianin3d": 1,
+    "cyberglot": 1,
+    "AaronNGray": 3,
+    "trevoro": 4
+  },
+  "pulls_authors": [
+    "tlhunter",
+    "hasezoey",
+    "mkg20001",
+    "songz",
+    "AaronNGray",
+    "NetOperatorWibby",
+    "AsyncNick",
+    "demmer",
+    "brianin3d",
+    "Illizian",
+    "TomMettam",
+    "ghost",
+    "cyberglot"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 56496,
+      "color": "#f1e05a"
+    },
+    "Makefile": {
+      "bytes": 226,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:23.990Z"
+}

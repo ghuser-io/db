@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "purescript-style",
+  "full_name": "paulyoung/purescript-style",
+  "owner": "paulyoung",
+  "private": false,
+  "html_url": "https://github.com/paulyoung/purescript-style",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/paulyoung/purescript-style",
+  "languages_url": "https://api.github.com/repos/paulyoung/purescript-style/languages",
+  "pulls_url": "https://api.github.com/repos/paulyoung/purescript-style/pulls{/number}",
+  "created_at": "2018-05-09T08:18:55Z",
+  "updated_at": "2018-09-06T21:23:39Z",
+  "pushed_at": "2018-07-20T06:27:17Z",
+  "homepage": null,
+  "size": 58,
+  "stargazers_count": 12,
+  "language": "PureScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "paulyoung": 36
+  },
+  "pulls_authors": [
+    "paulyoung"
+  ],
+  "languages": {
+    "PureScript": {
+      "bytes": 56219,
+      "color": "#1D222D"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:49.917Z"
+}

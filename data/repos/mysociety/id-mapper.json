@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "id-mapper",
+  "full_name": "mysociety/id-mapper",
+  "owner": "mysociety",
+  "private": false,
+  "html_url": "https://github.com/mysociety/id-mapper",
+  "description": "A ruby gem to interface with https://github.com/mysociety/id-mapping-store",
+  "fork": false,
+  "url": "https://api.github.com/repos/mysociety/id-mapper",
+  "languages_url": "https://api.github.com/repos/mysociety/id-mapper/languages",
+  "pulls_url": "https://api.github.com/repos/mysociety/id-mapper/pulls{/number}",
+  "created_at": "2018-03-05T17:49:28Z",
+  "updated_at": "2018-08-28T15:45:31Z",
+  "pushed_at": "2018-08-28T15:45:53Z",
+  "homepage": "https://www.mysociety.org/",
+  "size": 23,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "mysociety",
+    "id": 141338,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/141338?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mysociety",
+    "html_url": "https://github.com/mysociety",
+    "followers_url": "https://api.github.com/users/mysociety/followers",
+    "following_url": "https://api.github.com/users/mysociety/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mysociety/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mysociety/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mysociety/subscriptions",
+    "organizations_url": "https://api.github.com/users/mysociety/orgs",
+    "repos_url": "https://api.github.com/users/mysociety/repos",
+    "events_url": "https://api.github.com/users/mysociety/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mysociety/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "gbp": 19
+  },
+  "pulls_authors": [
+    "chrismytton",
+    "gbp"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 12130,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:25.678Z"
+}

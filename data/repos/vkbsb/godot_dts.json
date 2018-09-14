@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {},
+  "name": "godot_dts",
+  "full_name": "vkbsb/godot_dts",
+  "owner": "vkbsb",
+  "private": false,
+  "html_url": "https://github.com/vkbsb/godot_dts",
+  "description": "Don't touch the spikes created with GoDot Engine",
+  "fork": false,
+  "url": "https://api.github.com/repos/vkbsb/godot_dts",
+  "languages_url": "https://api.github.com/repos/vkbsb/godot_dts/languages",
+  "created_at": "2015-02-21T15:58:34Z",
+  "updated_at": "2015-06-03T20:41:17Z",
+  "pushed_at": "2015-04-11T21:03:25Z",
+  "homepage": null,
+  "size": 295,
+  "stargazers_count": 3,
+  "language": "GDScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "GDScript": {
+      "bytes": 5703,
+      "color": "#355570"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/vkbsb/godot_dts/pulls{/number}",
+  "pulls_authors": [
+    "Calinou"
+  ]
+}

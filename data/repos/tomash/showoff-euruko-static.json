@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "showoff-euruko-static",
+  "full_name": "tomash/showoff-euruko-static",
+  "owner": "tomash",
+  "private": false,
+  "html_url": "https://github.com/tomash/showoff-euruko-static",
+  "description": "slides from my presentation at EuRuKo 2010",
+  "fork": false,
+  "url": "https://api.github.com/repos/tomash/showoff-euruko-static",
+  "languages_url": "https://api.github.com/repos/tomash/showoff-euruko-static/languages",
+  "pulls_url": "https://api.github.com/repos/tomash/showoff-euruko-static/pulls{/number}",
+  "created_at": "2010-05-29T10:30:26Z",
+  "updated_at": "2013-09-29T14:48:56Z",
+  "pushed_at": "2010-05-30T11:08:03Z",
+  "homepage": "",
+  "size": 416,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "tomash": 11
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 1263,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T16:53:11.543Z"
+}

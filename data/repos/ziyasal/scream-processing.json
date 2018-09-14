@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "scream-processing",
+  "full_name": "ziyasal/scream-processing",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/scream-processing",
+  "description": " Playground for Apache Kafka, Apache Flink (CEP & ML), Elasticsearch, Kibana in Scala /w Testing practices",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal/scream-processing",
+  "languages_url": "https://api.github.com/repos/ziyasal/scream-processing/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/scream-processing/pulls{/number}",
+  "created_at": "2017-06-16T09:08:17Z",
+  "updated_at": "2018-05-17T15:50:18Z",
+  "pushed_at": "2017-07-31T12:29:12Z",
+  "homepage": "",
+  "size": 13,
+  "stargazers_count": 3,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ziyasal": 28
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-11T23:13:06.321Z"
+}

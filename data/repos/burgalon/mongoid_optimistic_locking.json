@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mongoid_optimistic_locking",
+  "full_name": "burgalon/mongoid_optimistic_locking",
+  "owner": "burgalon",
+  "private": false,
+  "html_url": "https://github.com/burgalon/mongoid_optimistic_locking",
+  "description": "Addon for Mongoid to allow optimistic locking (CAS)",
+  "fork": false,
+  "url": "https://api.github.com/repos/burgalon/mongoid_optimistic_locking",
+  "languages_url": "https://api.github.com/repos/burgalon/mongoid_optimistic_locking/languages",
+  "pulls_url": "https://api.github.com/repos/burgalon/mongoid_optimistic_locking/pulls{/number}",
+  "created_at": "2012-01-25T16:28:50Z",
+  "updated_at": "2017-01-18T22:43:50Z",
+  "pushed_at": "2013-04-26T18:23:31Z",
+  "homepage": "",
+  "size": 136,
+  "stargazers_count": 43,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "tomdmaguire": 1,
+    "tomash": 1,
+    "dougbarth": 2,
+    "jingoro": 7,
+    "burgalon": 14
+  },
+  "pulls_authors": [
+    "tomdmaguire",
+    "jingoro",
+    "tomash",
+    "dougbarth"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 19768,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T16:53:07.413Z"
+}

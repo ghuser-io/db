@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Afro",
+  "full_name": "jbrooksuk/Afro",
+  "owner": "jbrooksuk",
+  "private": false,
+  "html_url": "https://github.com/jbrooksuk/Afro",
+  "description": "Expressive Routing framework for PHP.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jbrooksuk/Afro",
+  "languages_url": "https://api.github.com/repos/jbrooksuk/Afro/languages",
+  "pulls_url": "https://api.github.com/repos/jbrooksuk/Afro/pulls{/number}",
+  "created_at": "2012-11-18T10:03:50Z",
+  "updated_at": "2018-02-22T20:25:54Z",
+  "pushed_at": "2016-03-29T14:59:26Z",
+  "homepage": "http://james-brooks.uk",
+  "size": 83,
+  "stargazers_count": 33,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "WDC": 3,
+    "jbrooksuk": 42
+  },
+  "pulls_authors": [
+    "jbrooksuk",
+    "WDC"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 7366,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:53.503Z"
+}

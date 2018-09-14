@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "parity",
+  "full_name": "abejfehr/parity",
+  "owner": "abejfehr",
+  "private": false,
+  "html_url": "https://github.com/abejfehr/parity",
+  "description": "A numbers puzzle game",
+  "fork": false,
+  "url": "https://api.github.com/repos/abejfehr/parity",
+  "languages_url": "https://api.github.com/repos/abejfehr/parity/languages",
+  "pulls_url": "https://api.github.com/repos/abejfehr/parity/pulls{/number}",
+  "created_at": "2014-04-01T23:11:49Z",
+  "updated_at": "2018-03-13T00:41:12Z",
+  "pushed_at": "2016-07-22T07:21:17Z",
+  "homepage": "https://abefehr.com/parity/",
+  "size": 652,
+  "stargazers_count": 33,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "cokernel": 1,
+    "jcla1": 2,
+    "abejfehr": 175
+  },
+  "pulls_authors": [
+    "exiler0",
+    "abejfehr",
+    "ghost",
+    "jcla1",
+    "cokernel"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 22514,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 10473,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 4763,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:07.202Z"
+}

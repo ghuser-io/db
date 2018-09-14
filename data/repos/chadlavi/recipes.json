@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "recipes",
+  "full_name": "chadlavi/recipes",
+  "owner": "chadlavi",
+  "private": false,
+  "html_url": "https://github.com/chadlavi/recipes",
+  "description": "It’s recipes",
+  "fork": false,
+  "url": "https://api.github.com/repos/chadlavi/recipes",
+  "languages_url": "https://api.github.com/repos/chadlavi/recipes/languages",
+  "pulls_url": "https://api.github.com/repos/chadlavi/recipes/pulls{/number}",
+  "created_at": "2017-11-04T02:04:55Z",
+  "updated_at": "2018-09-03T07:48:09Z",
+  "pushed_at": "2018-08-04T18:02:46Z",
+  "homepage": null,
+  "size": 8132,
+  "stargazers_count": 4,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "chadlavi": 75
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T04:59:06.872Z"
+}

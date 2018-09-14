@@ -1,0 +1,87 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "papstehrenwort",
+  "full_name": "openlab-aux/papstehrenwort",
+  "owner": "openlab-aux",
+  "private": false,
+  "html_url": "https://github.com/openlab-aux/papstehrenwort",
+  "description": "Commit yourself to a task. Like a pope.",
+  "fork": false,
+  "url": "https://api.github.com/repos/openlab-aux/papstehrenwort",
+  "languages_url": "https://api.github.com/repos/openlab-aux/papstehrenwort/languages",
+  "pulls_url": "https://api.github.com/repos/openlab-aux/papstehrenwort/pulls{/number}",
+  "created_at": "2014-08-26T19:24:45Z",
+  "updated_at": "2017-01-13T03:03:18Z",
+  "pushed_at": "2017-01-13T14:54:27Z",
+  "homepage": null,
+  "size": 407,
+  "stargazers_count": 4,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "haskell-rewrite",
+  "organization": {
+    "login": "openlab-aux",
+    "id": 3979750,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM5Nzk3NTA=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/3979750?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/openlab-aux",
+    "html_url": "https://github.com/openlab-aux",
+    "followers_url": "https://api.github.com/users/openlab-aux/followers",
+    "following_url": "https://api.github.com/users/openlab-aux/following{/other_user}",
+    "gists_url": "https://api.github.com/users/openlab-aux/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/openlab-aux/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/openlab-aux/subscriptions",
+    "organizations_url": "https://api.github.com/users/openlab-aux/orgs",
+    "repos_url": "https://api.github.com/users/openlab-aux/repos",
+    "events_url": "https://api.github.com/users/openlab-aux/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/openlab-aux/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "penguwin": 2,
+    "muesli": 2,
+    "sternenseemann": 46,
+    "Profpatsch": 60
+  },
+  "pulls_authors": [
+    "sternenseemann",
+    "Profpatsch"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 139809,
+      "color": "#563d7c"
+    },
+    "Haskell": {
+      "bytes": 14546,
+      "color": "#5e5086"
+    },
+    "HTML": {
+      "bytes": 5281,
+      "color": "#e34c26"
+    },
+    "Nix": {
+      "bytes": 1231,
+      "color": "#7e7eff"
+    },
+    "JavaScript": {
+      "bytes": 644,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 272,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:45.153Z"
+}

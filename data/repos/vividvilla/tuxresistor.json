@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tuxresistor",
+  "full_name": "vividvilla/tuxresistor",
+  "owner": "vividvilla",
+  "private": false,
+  "html_url": "https://github.com/vividvilla/tuxresistor",
+  "description": "Tux Resistor is an Interactive Electronics Tool which can be used to convert Resitor color bands to Resistor values and vice versa.",
+  "fork": false,
+  "url": "https://api.github.com/repos/vividvilla/tuxresistor",
+  "languages_url": "https://api.github.com/repos/vividvilla/tuxresistor/languages",
+  "pulls_url": "https://api.github.com/repos/vividvilla/tuxresistor/pulls{/number}",
+  "created_at": "2012-06-21T05:34:17Z",
+  "updated_at": "2016-12-11T20:05:59Z",
+  "pushed_at": "2018-03-02T17:50:21Z",
+  "homepage": null,
+  "size": 1165,
+  "stargazers_count": 2,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "vividvilla": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 25281,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:16.985Z"
+}

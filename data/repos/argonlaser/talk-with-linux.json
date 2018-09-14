@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "talk-with-linux",
+  "full_name": "argonlaser/talk-with-linux",
+  "owner": "argonlaser",
+  "private": false,
+  "html_url": "https://github.com/argonlaser/talk-with-linux",
+  "description": "This repository aims to explore all the functionality of linux with simple programs. Lets talk with the linux !",
+  "fork": false,
+  "url": "https://api.github.com/repos/argonlaser/talk-with-linux",
+  "languages_url": "https://api.github.com/repos/argonlaser/talk-with-linux/languages",
+  "pulls_url": "https://api.github.com/repos/argonlaser/talk-with-linux/pulls{/number}",
+  "created_at": "2018-02-13T15:58:06Z",
+  "updated_at": "2018-02-13T18:25:00Z",
+  "pushed_at": "2018-02-16T16:59:09Z",
+  "homepage": null,
+  "size": 16,
+  "stargazers_count": 2,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "scriptnull": 1,
+    "argonlaser": 11
+  },
+  "pulls_authors": [
+    "scriptnull"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 19816,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 921,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:58.639Z"
+}

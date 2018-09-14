@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hackage2",
+  "full_name": "isomorphism/hackage2",
+  "owner": "isomorphism",
+  "private": false,
+  "html_url": "https://github.com/isomorphism/hackage2",
+  "description": "Copy of the new Hackage server code",
+  "fork": false,
+  "url": "https://api.github.com/repos/isomorphism/hackage2",
+  "languages_url": "https://api.github.com/repos/isomorphism/hackage2/languages",
+  "pulls_url": "https://api.github.com/repos/isomorphism/hackage2/pulls{/number}",
+  "created_at": "2012-02-13T01:03:20Z",
+  "updated_at": "2017-05-31T01:15:05Z",
+  "pushed_at": "2012-02-19T23:31:08Z",
+  "homepage": "http://code.haskell.org/hackage-server/",
+  "size": 4689,
+  "stargazers_count": 13,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bgamari": 1,
+    "noteed": 1,
+    "juhp": 1,
+    "Saizan": 1,
+    "eelco": 1,
+    "basvandijk": 2,
+    "nomeata": 2,
+    "ehird": 3,
+    "skogsbaer": 3,
+    "bmillwood": 3,
+    "simonmichael": 3,
+    "isomorphism": 4,
+    "davidlazar": 8,
+    "TomMD": 9,
+    "Lemmih": 31,
+    "batterseapower": 44,
+    "aslatter": 55,
+    "gracenotes": 70,
+    "dcoutts": 244
+  },
+  "pulls_authors": [
+    "bgamari",
+    "ehird"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 724726,
+      "color": "#5e5086"
+    },
+    "JavaScript": {
+      "bytes": 7624,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:21.390Z"
+}

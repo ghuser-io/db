@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "unsplash-json",
+  "full_name": "FabianLauer/unsplash-json",
+  "owner": "FabianLauer",
+  "private": false,
+  "html_url": "https://github.com/FabianLauer/unsplash-json",
+  "description": "A node.js wrapper for the Unsplash API.",
+  "fork": false,
+  "url": "https://api.github.com/repos/FabianLauer/unsplash-json",
+  "languages_url": "https://api.github.com/repos/FabianLauer/unsplash-json/languages",
+  "pulls_url": "https://api.github.com/repos/FabianLauer/unsplash-json/pulls{/number}",
+  "created_at": "2016-01-29T17:28:25Z",
+  "updated_at": "2018-07-28T16:00:25Z",
+  "pushed_at": "2016-01-31T08:25:39Z",
+  "homepage": null,
+  "size": 333,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "FabianLauer": 45
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 96557,
+      "color": "#f1e05a"
+    },
+    "TypeScript": {
+      "bytes": 64168,
+      "color": "#2b7489"
+    },
+    "Shell": {
+      "bytes": 545,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T17:09:42.478Z"
+}

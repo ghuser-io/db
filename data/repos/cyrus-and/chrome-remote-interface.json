@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "chrome-remote-interface",
+  "full_name": "cyrus-and/chrome-remote-interface",
+  "owner": "cyrus-and",
+  "private": false,
+  "html_url": "https://github.com/cyrus-and/chrome-remote-interface",
+  "description": "Chrome Debugging Protocol interface for Node.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/cyrus-and/chrome-remote-interface",
+  "languages_url": "https://api.github.com/repos/cyrus-and/chrome-remote-interface/languages",
+  "pulls_url": "https://api.github.com/repos/cyrus-and/chrome-remote-interface/pulls{/number}",
+  "created_at": "2013-04-17T18:00:32Z",
+  "updated_at": "2018-09-14T07:23:39Z",
+  "pushed_at": "2018-09-12T11:35:42Z",
+  "homepage": "",
+  "size": 938,
+  "stargazers_count": 2549,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "walshie4": 1,
+    "westy92": 1,
+    "benjaminwood": 1,
+    "stephenmathieson": 1,
+    "Janpot": 1,
+    "paulirish": 1,
+    "c0b": 1,
+    "heipei": 1,
+    "hbakhtiyor": 2,
+    "gcochard": 2,
+    "jasonLaster": 4,
+    "sidorares": 5,
+    "cyrus-and": 446,
+    "diego-fernandez-santos": 1
+  },
+  "pulls_authors": [
+    "diego-fernandez-santos",
+    "walshie4",
+    "hbakhtiyor",
+    "westy92",
+    "Foxhind",
+    "TimvdLippe",
+    "benjaminwood",
+    "johnspackman",
+    "tamdao",
+    "s-thet",
+    "stephenmathieson",
+    "Janpot",
+    "jasonLaster",
+    "joshgav",
+    "antono",
+    "paulirish",
+    "c0b",
+    "jRiest",
+    "gcochard",
+    "ikari-pl",
+    "sidorares"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 57796,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 1039,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T09:09:05.429Z"
+}

@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "exameditor",
+  "full_name": "smee/exameditor",
+  "owner": "smee",
+  "private": false,
+  "html_url": "https://github.com/smee/exameditor",
+  "description": "Wicket based editor for e-assessment task pools",
+  "fork": false,
+  "url": "https://api.github.com/repos/smee/exameditor",
+  "languages_url": "https://api.github.com/repos/smee/exameditor/languages",
+  "pulls_url": "https://api.github.com/repos/smee/exameditor/pulls{/number}",
+  "created_at": "2010-01-13T22:55:53Z",
+  "updated_at": "2017-11-09T07:47:07Z",
+  "pushed_at": "2012-08-21T11:51:45Z",
+  "homepage": "http://www.elatexam.de",
+  "size": 1203,
+  "stargazers_count": 2,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": true,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "smee": 222
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 550331,
+      "color": "#b07219"
+    },
+    "JavaScript": {
+      "bytes": 30719,
+      "color": "#f1e05a"
+    },
+    "Perl": {
+      "bytes": 12462,
+      "color": "#0298c3"
+    },
+    "Ruby": {
+      "bytes": 43,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T13:51:49.828Z"
+}

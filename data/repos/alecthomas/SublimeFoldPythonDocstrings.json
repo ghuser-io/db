@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SublimeFoldPythonDocstrings",
+  "full_name": "alecthomas/SublimeFoldPythonDocstrings",
+  "owner": "alecthomas",
+  "private": false,
+  "html_url": "https://github.com/alecthomas/SublimeFoldPythonDocstrings",
+  "description": "Automatically folds Python docstrings longer than 1 line.",
+  "fork": false,
+  "url": "https://api.github.com/repos/alecthomas/SublimeFoldPythonDocstrings",
+  "languages_url": "https://api.github.com/repos/alecthomas/SublimeFoldPythonDocstrings/languages",
+  "pulls_url": "https://api.github.com/repos/alecthomas/SublimeFoldPythonDocstrings/pulls{/number}",
+  "created_at": "2013-02-01T02:47:56Z",
+  "updated_at": "2018-05-07T14:50:25Z",
+  "pushed_at": "2016-09-08T22:12:11Z",
+  "homepage": null,
+  "size": 10,
+  "stargazers_count": 13,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "willcalderbank": 1,
+    "FichteFoll": 1,
+    "dufferzafar": 2,
+    "alecthomas": 6
+  },
+  "pulls_authors": [
+    "chargus",
+    "dufferzafar",
+    "pradyunsg",
+    "willcalderbank",
+    "FichteFoll"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 1682,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 1493,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-03T12:57:00.250Z"
+}

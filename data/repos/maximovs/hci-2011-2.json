@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hci-2011-2",
+  "full_name": "maximovs/hci-2011-2",
+  "owner": "maximovs",
+  "private": false,
+  "html_url": "https://github.com/maximovs/hci-2011-2",
+  "description": "HCI android",
+  "fork": false,
+  "url": "https://api.github.com/repos/maximovs/hci-2011-2",
+  "languages_url": "https://api.github.com/repos/maximovs/hci-2011-2/languages",
+  "pulls_url": "https://api.github.com/repos/maximovs/hci-2011-2/pulls{/number}",
+  "created_at": "2011-10-29T13:41:35Z",
+  "updated_at": "2013-01-04T13:00:56Z",
+  "pushed_at": "2011-11-15T17:18:23Z",
+  "homepage": "",
+  "size": 3395,
+  "stargazers_count": 2,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ezeortiz": 4,
+    "maximovs": 9,
+    "kshmir": 36
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 1146330,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-11T10:37:59.226Z"
+}

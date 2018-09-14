@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Blog-Rails",
+  "full_name": "jamesgeorge007/Blog-Rails",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/Blog-Rails",
+  "description": "This is a simple blog that I made while learning Rails. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/Blog-Rails",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/Blog-Rails/languages",
+  "created_at": "2018-02-20T16:48:38Z",
+  "updated_at": "2018-05-28T17:45:08Z",
+  "pushed_at": "2018-02-26T13:13:11Z",
+  "homepage": null,
+  "size": 42,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jamesgeorge007": 6
+  },
+  "languages": {
+    "Ruby": {
+      "bytes": 22323,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 5950,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 1156,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 1066,
+      "color": "#563d7c"
+    },
+    "CoffeeScript": {
+      "bytes": 422,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/Blog-Rails/pulls{/number}",
+  "pulls_authors": []
+}

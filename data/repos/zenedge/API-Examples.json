@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "API-Examples",
+  "full_name": "zenedge/API-Examples",
+  "owner": "zenedge",
+  "private": false,
+  "html_url": "https://github.com/zenedge/API-Examples",
+  "description": "Tools and scripts for various tasks via Zenedge API.",
+  "fork": false,
+  "url": "https://api.github.com/repos/zenedge/API-Examples",
+  "languages_url": "https://api.github.com/repos/zenedge/API-Examples/languages",
+  "pulls_url": "https://api.github.com/repos/zenedge/API-Examples/pulls{/number}",
+  "created_at": "2015-10-30T16:35:48Z",
+  "updated_at": "2018-02-15T22:40:49Z",
+  "pushed_at": "2018-01-29T13:32:52Z",
+  "homepage": null,
+  "size": 48,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "zenedge",
+    "id": 5904993,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjU5MDQ5OTM=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/5904993?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/zenedge",
+    "html_url": "https://github.com/zenedge",
+    "followers_url": "https://api.github.com/users/zenedge/followers",
+    "following_url": "https://api.github.com/users/zenedge/following{/other_user}",
+    "gists_url": "https://api.github.com/users/zenedge/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/zenedge/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/zenedge/subscriptions",
+    "organizations_url": "https://api.github.com/users/zenedge/orgs",
+    "repos_url": "https://api.github.com/users/zenedge/repos",
+    "events_url": "https://api.github.com/users/zenedge/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/zenedge/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Nikamura": 1,
+    "arnas127": 2,
+    "bekinin": 2,
+    "ramunas-cvirka": 3,
+    "TicketsNfines": 3
+  },
+  "pulls_authors": [
+    "fossabot",
+    "arnas127",
+    "Nikamura",
+    "mlevin2000",
+    "ramunas-cvirka",
+    "TicketsNfines"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 22043,
+      "color": "#701516"
+    },
+    "C#": {
+      "bytes": 10271,
+      "color": "#178600"
+    },
+    "Shell": {
+      "bytes": 7802,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 3205,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T17:13:23.480Z"
+}

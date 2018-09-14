@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vimrc",
+  "full_name": "azdanov/vimrc",
+  "owner": "azdanov",
+  "private": false,
+  "html_url": "https://github.com/azdanov/vimrc",
+  "description": "Vimrc and vim plug",
+  "fork": false,
+  "url": "https://api.github.com/repos/azdanov/vimrc",
+  "languages_url": "https://api.github.com/repos/azdanov/vimrc/languages",
+  "pulls_url": "https://api.github.com/repos/azdanov/vimrc/pulls{/number}",
+  "created_at": "2017-12-05T05:21:47Z",
+  "updated_at": "2018-08-27T17:50:25Z",
+  "pushed_at": "2018-08-27T17:50:23Z",
+  "homepage": "",
+  "size": 67,
+  "stargazers_count": 1,
+  "language": "Vim script",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "azdanov": 16
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Vim script": {
+      "bytes": 76958,
+      "color": "#199f4b"
+    }
+  },
+  "fetched_at": "2018-08-27T19:16:43.775Z"
+}

@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "swfjs",
+  "full_name": "ciaranw/swfjs",
+  "owner": "ciaranw",
+  "private": false,
+  "html_url": "https://github.com/ciaranw/swfjs",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/ciaranw/swfjs",
+  "languages_url": "https://api.github.com/repos/ciaranw/swfjs/languages",
+  "pulls_url": "https://api.github.com/repos/ciaranw/swfjs/pulls{/number}",
+  "created_at": "2012-06-27T01:15:49Z",
+  "updated_at": "2014-04-22T21:18:55Z",
+  "pushed_at": "2012-06-27T01:16:34Z",
+  "homepage": null,
+  "size": 136,
+  "stargazers_count": 3,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ciaranw": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 60441,
+      "color": "#b07219"
+    },
+    "JavaScript": {
+      "bytes": 19681,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:53.019Z"
+}

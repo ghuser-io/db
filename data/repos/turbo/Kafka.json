@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Kafka",
+  "full_name": "turbo/Kafka",
+  "owner": "turbo",
+  "private": false,
+  "html_url": "https://github.com/turbo/Kafka",
+  "description": "Smallest possible C/++ GLSL framework (~550B) for demo-coding.",
+  "fork": false,
+  "url": "https://api.github.com/repos/turbo/Kafka",
+  "languages_url": "https://api.github.com/repos/turbo/Kafka/languages",
+  "pulls_url": "https://api.github.com/repos/turbo/Kafka/pulls{/number}",
+  "created_at": "2016-04-20T12:18:28Z",
+  "updated_at": "2018-06-27T16:34:10Z",
+  "pushed_at": "2016-11-09T10:01:32Z",
+  "homepage": null,
+  "size": 282,
+  "stargazers_count": 17,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "turbo": 2,
+    "hlecter": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 2226,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:10.520Z"
+}

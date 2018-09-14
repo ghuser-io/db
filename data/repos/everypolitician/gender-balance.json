@@ -1,0 +1,85 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gender-balance",
+  "full_name": "everypolitician/gender-balance",
+  "owner": "everypolitician",
+  "private": false,
+  "html_url": "https://github.com/everypolitician/gender-balance",
+  "description": "Crowdsourcing platform for gathering gender information about politicians to improve the data in EveryPolitician",
+  "fork": false,
+  "url": "https://api.github.com/repos/everypolitician/gender-balance",
+  "languages_url": "https://api.github.com/repos/everypolitician/gender-balance/languages",
+  "pulls_url": "https://api.github.com/repos/everypolitician/gender-balance/pulls{/number}",
+  "created_at": "2015-06-25T15:49:57Z",
+  "updated_at": "2018-06-13T17:06:11Z",
+  "pushed_at": "2018-02-06T09:40:12Z",
+  "homepage": "gender-balance.org",
+  "size": 1523,
+  "stargazers_count": 14,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "everypolitician",
+    "id": 12497298,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyNDk3Mjk4",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/12497298?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/everypolitician",
+    "html_url": "https://github.com/everypolitician",
+    "followers_url": "https://api.github.com/users/everypolitician/followers",
+    "following_url": "https://api.github.com/users/everypolitician/following{/other_user}",
+    "gists_url": "https://api.github.com/users/everypolitician/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/everypolitician/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/everypolitician/subscriptions",
+    "organizations_url": "https://api.github.com/users/everypolitician/orgs",
+    "repos_url": "https://api.github.com/users/everypolitician/repos",
+    "events_url": "https://api.github.com/users/everypolitician/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/everypolitician/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "sagepe": 1,
+    "davewhiteland": 1,
+    "struan": 2,
+    "wrightmartin": 7,
+    "andylolz": 10,
+    "tmtmtmtm": 31,
+    "zarino": 78,
+    "chrismytton": 324
+  },
+  "pulls_authors": [
+    "sagepe",
+    "chrismytton",
+    "zarino",
+    "tmtmtmtm",
+    "wrightmartin",
+    "andylolz"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 45319,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 44117,
+      "color": "#563d7c"
+    },
+    "Ruby": {
+      "bytes": 41291,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 36519,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 1523,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:35.458Z"
+}

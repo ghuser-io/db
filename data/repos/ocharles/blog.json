@@ -1,0 +1,110 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "blog",
+  "full_name": "ocharles/blog",
+  "owner": "ocharles",
+  "private": false,
+  "html_url": "https://github.com/ocharles/blog",
+  "description": "The contents of ocharles.org.uk/blog",
+  "fork": false,
+  "url": "https://api.github.com/repos/ocharles/blog",
+  "languages_url": "https://api.github.com/repos/ocharles/blog/languages",
+  "pulls_url": "https://api.github.com/repos/ocharles/blog/pulls{/number}",
+  "created_at": "2013-11-05T23:46:56Z",
+  "updated_at": "2018-07-30T17:48:35Z",
+  "pushed_at": "2018-07-05T10:14:49Z",
+  "homepage": null,
+  "size": 3233,
+  "stargazers_count": 53,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "penteract": 1,
+    "MaxGabriel": 1,
+    "philderbeast": 1,
+    "UlfS": 1,
+    "lfairy": 1,
+    "cblp": 1,
+    "mboes": 1,
+    "mbenke": 1,
+    "mightybyte": 1,
+    "etrepum": 1,
+    "mineo": 1,
+    "joerixaop": 1,
+    "pSub": 1,
+    "pseudonom": 1,
+    "vaibhavsagar": 2,
+    "5outh": 2,
+    "jb55": 2,
+    "c-lewis": 2,
+    "Cipherwraith": 2,
+    "tomjaguarpaw": 3,
+    "qrilka": 3,
+    "ggreif": 3,
+    "FranklinChen": 8,
+    "ocharles": 159
+  },
+  "pulls_authors": [
+    "penteract",
+    "MaxGabriel",
+    "vaibhavsagar",
+    "philderbeast",
+    "tomjaguarpaw",
+    "UlfS",
+    "qrilka",
+    "lfairy",
+    "FranklinChen",
+    "ggreif",
+    "cblp",
+    "mboes",
+    "mbenke",
+    "mightybyte",
+    "etrepum",
+    "mineo",
+    "5outh",
+    "joerixaop",
+    "jb55",
+    "c-lewis",
+    "egonSchiele",
+    "pSub",
+    "Cipherwraith",
+    "kputnam",
+    "pseudonom"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 120747,
+      "color": "#5e5086"
+    },
+    "JavaScript": {
+      "bytes": 70427,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 7723,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 4444,
+      "color": "#563d7c"
+    },
+    "Smarty": {
+      "bytes": 1006,
+      "color": "#ccc"
+    },
+    "Nix": {
+      "bytes": 887,
+      "color": "#7e7eff"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:34.723Z"
+}

@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tasty-golden",
+  "full_name": "feuerbach/tasty-golden",
+  "owner": "feuerbach",
+  "private": false,
+  "html_url": "https://github.com/feuerbach/tasty-golden",
+  "description": "Golden test support for Tasty",
+  "fork": false,
+  "url": "https://api.github.com/repos/feuerbach/tasty-golden",
+  "languages_url": "https://api.github.com/repos/feuerbach/tasty-golden/languages",
+  "pulls_url": "https://api.github.com/repos/feuerbach/tasty-golden/pulls{/number}",
+  "created_at": "2013-07-26T12:47:57Z",
+  "updated_at": "2018-08-04T06:45:31Z",
+  "pushed_at": "2018-06-22T20:13:24Z",
+  "homepage": "",
+  "size": 89,
+  "stargazers_count": 15,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "brandon-leapyear": 1,
+    "nomeata": 1,
+    "emwap": 1,
+    "nh2": 1,
+    "feuerbach": 102
+  },
+  "pulls_authors": [
+    "brandon-leapyear",
+    "nomeata",
+    "sapek",
+    "emwap",
+    "phile314",
+    "achudnov"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 14057,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:12.041Z"
+}

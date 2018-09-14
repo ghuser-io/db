@@ -1,0 +1,142 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pombola",
+  "full_name": "mysociety/pombola",
+  "owner": "mysociety",
+  "private": false,
+  "html_url": "https://github.com/mysociety/pombola",
+  "description": "Pombola is a parliamentary monitoring (PMO) platform; its biggest instances are Mzalendo.com and pa.org.za",
+  "fork": false,
+  "url": "https://api.github.com/repos/mysociety/pombola",
+  "languages_url": "https://api.github.com/repos/mysociety/pombola/languages",
+  "pulls_url": "https://api.github.com/repos/mysociety/pombola/pulls{/number}",
+  "created_at": "2011-07-04T08:46:51Z",
+  "updated_at": "2018-09-10T15:04:39Z",
+  "pushed_at": "2018-09-11T16:04:46Z",
+  "homepage": "http://www.mysociety.org/projects/parliamentarymonitoring/pombola/",
+  "size": 33489,
+  "stargazers_count": 61,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "mysociety",
+    "id": 141338,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/141338?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mysociety",
+    "html_url": "https://github.com/mysociety",
+    "followers_url": "https://api.github.com/users/mysociety/followers",
+    "following_url": "https://api.github.com/users/mysociety/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mysociety/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mysociety/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mysociety/subscriptions",
+    "organizations_url": "https://api.github.com/users/mysociety/orgs",
+    "repos_url": "https://api.github.com/users/mysociety/repos",
+    "events_url": "https://api.github.com/users/mysociety/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mysociety/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "4bic": 1,
+    "pedromoreira": 1,
+    "longhotsummer": 2,
+    "MikeMuli": 2,
+    "ajparsons": 3,
+    "paullenz": 3,
+    "tmtmtmtm": 5,
+    "stevenday": 8,
+    "struan": 11,
+    "davea": 11,
+    "teuben": 14,
+    "JenMysoc": 22,
+    "octopusinvitro": 23,
+    "Jedidiah": 24,
+    "xybrnet": 40,
+    "davewhiteland": 57,
+    "lizconlan": 60,
+    "dracos": 61,
+    "osfameron": 61,
+    "geoffkilpin": 64,
+    "eokyere": 95,
+    "jacksonj04": 103,
+    "idesouza": 125,
+    "zarino": 149,
+    "wrightmartin": 212,
+    "chrismytton": 283,
+    "mhl": 1365,
+    "evdb": 1795
+  },
+  "pulls_authors": [
+    "zarino",
+    "ajparsons",
+    "mhl",
+    "jacksonj04",
+    "xybrnet",
+    "JenMysoc",
+    "chrismytton",
+    "longhotsummer",
+    "wrightmartin",
+    "4bic",
+    "struan",
+    "octopusinvitro",
+    "duncanparkes",
+    "tmtmtmtm",
+    "paullenz",
+    "geoffkilpin",
+    "lizconlan",
+    "pedromoreira",
+    "stevenday",
+    "davea",
+    "dracos",
+    "osfameron",
+    "evdb",
+    "teuben",
+    "Flupsy"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 2009045,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 967382,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 795268,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 294822,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 19075,
+      "color": "#89e051"
+    },
+    "Ruby": {
+      "bytes": 6014,
+      "color": "#701516"
+    },
+    "Perl": {
+      "bytes": 5920,
+      "color": "#0298c3"
+    },
+    "Makefile": {
+      "bytes": 61,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:25.826Z"
+}

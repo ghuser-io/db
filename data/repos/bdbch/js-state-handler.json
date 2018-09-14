@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "js-state-handler",
+  "full_name": "bdbch/js-state-handler",
+  "owner": "bdbch",
+  "private": false,
+  "html_url": "https://github.com/bdbch/js-state-handler",
+  "description": "Sane state management and rendering for vanilla Javascript.",
+  "fork": false,
+  "url": "https://api.github.com/repos/bdbch/js-state-handler",
+  "languages_url": "https://api.github.com/repos/bdbch/js-state-handler/languages",
+  "pulls_url": "https://api.github.com/repos/bdbch/js-state-handler/pulls{/number}",
+  "created_at": "2017-09-12T11:18:10Z",
+  "updated_at": "2018-07-13T15:48:30Z",
+  "pushed_at": "2017-11-04T22:03:43Z",
+  "homepage": "https://bdbch.github.io/js-state-handler/",
+  "size": 124,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "S3B4S": 1,
+    "ChrisPlease": 1,
+    "gigobyte": 1,
+    "sAleksovski": 1,
+    "mauzzr": 1,
+    "juancuiule": 1,
+    "anishkny": 2,
+    "bdbch": 33
+  },
+  "pulls_authors": [
+    "S3B4S",
+    "ChrisPlease",
+    "anishkny",
+    "gigobyte",
+    "bother7",
+    "bdbch",
+    "sAleksovski",
+    "mauzzr",
+    "juancuiule"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6149,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:40.998Z"
+}

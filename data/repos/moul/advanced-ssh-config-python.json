@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "advanced-ssh-config-python",
+  "full_name": "moul/advanced-ssh-config-python",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/advanced-ssh-config-python",
+  "description": ":snake: First version of github.com/moul/advanced-ssh-config in Python",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/advanced-ssh-config-python",
+  "languages_url": "https://api.github.com/repos/moul/advanced-ssh-config-python/languages",
+  "pulls_url": "https://api.github.com/repos/moul/advanced-ssh-config-python/pulls{/number}",
+  "created_at": "2015-09-07T12:49:23Z",
+  "updated_at": "2017-02-09T09:18:22Z",
+  "pushed_at": "2018-08-18T16:12:42Z",
+  "homepage": null,
+  "size": 312,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bitdeli-chef": 1,
+    "dldinternet": 8,
+    "moul": 238
+  },
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 67563,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 1981,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:38.668Z"
+}

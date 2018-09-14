@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "screensaver-js",
+  "full_name": "mairod/screensaver-js",
+  "owner": "mairod",
+  "private": false,
+  "html_url": "https://github.com/mairod/screensaver-js",
+  "description": "A little boilerplate for making a Windows and OSX Screensaver using HTML5 and JS with Webkit",
+  "fork": false,
+  "url": "https://api.github.com/repos/mairod/screensaver-js",
+  "languages_url": "https://api.github.com/repos/mairod/screensaver-js/languages",
+  "pulls_url": "https://api.github.com/repos/mairod/screensaver-js/pulls{/number}",
+  "created_at": "2017-06-12T11:22:11Z",
+  "updated_at": "2018-08-10T07:31:53Z",
+  "pushed_at": "2018-01-09T21:13:51Z",
+  "homepage": "",
+  "size": 59099,
+  "stargazers_count": 10,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mairod": 2
+  },
+  "pulls_authors": [
+    "Hemmingsson"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 1771406,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 12458,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 305,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 240,
+      "color": "#563d7c"
+    },
+    "GLSL": {
+      "bytes": 56,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-11T17:10:04.866Z"
+}

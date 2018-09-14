@@ -1,0 +1,94 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "reprapJeanne",
+  "full_name": "SoftBellies/reprapJeanne",
+  "owner": "SoftBellies",
+  "private": false,
+  "html_url": "https://github.com/SoftBellies/reprapJeanne",
+  "description": ":package: Building a big 3D printer, Rostock like",
+  "fork": false,
+  "url": "https://api.github.com/repos/SoftBellies/reprapJeanne",
+  "languages_url": "https://api.github.com/repos/SoftBellies/reprapJeanne/languages",
+  "pulls_url": "https://api.github.com/repos/SoftBellies/reprapJeanne/pulls{/number}",
+  "created_at": "2015-05-12T11:51:28Z",
+  "updated_at": "2017-03-01T21:22:34Z",
+  "pushed_at": "2015-09-07T17:32:48Z",
+  "homepage": "",
+  "size": 9182,
+  "stargazers_count": 2,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "SoftBellies",
+    "id": 12297628,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMjk3NjI4",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/12297628?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/SoftBellies",
+    "html_url": "https://github.com/SoftBellies",
+    "followers_url": "https://api.github.com/users/SoftBellies/followers",
+    "following_url": "https://api.github.com/users/SoftBellies/following{/other_user}",
+    "gists_url": "https://api.github.com/users/SoftBellies/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/SoftBellies/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/SoftBellies/subscriptions",
+    "organizations_url": "https://api.github.com/users/SoftBellies/orgs",
+    "repos_url": "https://api.github.com/users/SoftBellies/repos",
+    "events_url": "https://api.github.com/users/SoftBellies/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/SoftBellies/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "moebiuseye": 1,
+    "titmoth": 1,
+    "Zigazou": 1,
+    "moul": 2,
+    "Trankilloman": 12,
+    "gnieark": 50
+  },
+  "pulls_authors": [
+    "gnieark"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 1588977,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 539903,
+      "color": "#555555"
+    },
+    "OpenSCAD": {
+      "bytes": 180092,
+      "color": "#ccc"
+    },
+    "JavaScript": {
+      "bytes": 74899,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 16831,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 15224,
+      "color": "#427819"
+    },
+    "CSS": {
+      "bytes": 8345,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 4387,
+      "color": "#e34c26"
+    },
+    "Batchfile": {
+      "bytes": 627,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:32.880Z"
+}

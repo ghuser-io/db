@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "CrazyChat",
+  "full_name": "migueltarga/CrazyChat",
+  "owner": "migueltarga",
+  "private": false,
+  "html_url": "https://github.com/migueltarga/CrazyChat",
+  "description": "Chat Client for UOL",
+  "fork": false,
+  "url": "https://api.github.com/repos/migueltarga/CrazyChat",
+  "languages_url": "https://api.github.com/repos/migueltarga/CrazyChat/languages",
+  "pulls_url": "https://api.github.com/repos/migueltarga/CrazyChat/pulls{/number}",
+  "created_at": "2015-03-14T20:49:06Z",
+  "updated_at": "2017-10-03T12:25:29Z",
+  "pushed_at": "2017-10-25T19:53:00Z",
+  "homepage": "",
+  "size": 775,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "migueltarga": 19
+  },
+  "pulls_authors": [
+    "alexmoreno",
+    "andersonpablo",
+    "fernandocurty"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 21440,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 6535,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 2618,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T04:55:56.888Z"
+}

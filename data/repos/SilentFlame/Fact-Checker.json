@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Fact-Checker",
+  "full_name": "SilentFlame/Fact-Checker",
+  "owner": "SilentFlame",
+  "private": false,
+  "html_url": "https://github.com/SilentFlame/Fact-Checker",
+  "description": "A python written script to check whether fact you are checking is \"True\" or \"False\".",
+  "fork": false,
+  "url": "https://api.github.com/repos/SilentFlame/Fact-Checker",
+  "languages_url": "https://api.github.com/repos/SilentFlame/Fact-Checker/languages",
+  "pulls_url": "https://api.github.com/repos/SilentFlame/Fact-Checker/pulls{/number}",
+  "created_at": "2016-11-29T12:02:31Z",
+  "updated_at": "2018-08-31T04:24:04Z",
+  "pushed_at": "2017-10-07T05:50:32Z",
+  "homepage": "",
+  "size": 237,
+  "stargazers_count": 12,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "TiagoDanin": 1,
+    "amanvar": 1,
+    "gitter-badger": 1,
+    "sarthakmadaan": 2,
+    "SilentFlame": 12
+  },
+  "pulls_authors": [
+    "TiagoDanin",
+    "amanvar",
+    "sarthakmadaan",
+    "gitter-badger",
+    "zorroblue"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 1867,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-31T06:13:07.971Z"
+}

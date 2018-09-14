@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "inspiring-online",
+  "full_name": "captbaritone/inspiring-online",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/inspiring-online",
+  "description": "An open source blog, for inspiring and creative online work! Join in!",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/inspiring-online",
+  "languages_url": "https://api.github.com/repos/captbaritone/inspiring-online/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/inspiring-online/pulls{/number}",
+  "created_at": "2017-10-07T03:44:02Z",
+  "updated_at": "2018-07-29T22:06:42Z",
+  "pushed_at": "2018-07-12T20:42:25Z",
+  "homepage": "http://inspiring.online",
+  "size": 115272,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "gh-pages",
+  "contributors": {
+    "drambique": 1,
+    "gitter-badger": 1,
+    "meowwwls": 1,
+    "2016rshah": 1,
+    "lewiscowper": 1,
+    "lukekrikorian": 2,
+    "jackrugile": 2,
+    "Jamesripp": 3,
+    "alexcarpenter": 3,
+    "krikmo": 4,
+    "iRaul": 5,
+    "nitinthewiz": 5,
+    "romulomachado": 6,
+    "Synj24": 7,
+    "Haroenv": 27,
+    "JohJakob": 76,
+    "TJScalzo": 131,
+    "tholman": 325
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 10090,
+      "color": "#e34c26"
+    },
+    "Ruby": {
+      "bytes": 6550,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 5064,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 1783,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:50.134Z"
+}

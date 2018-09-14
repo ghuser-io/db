@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fs-promises",
+  "full_name": "franciscop/fs-promises",
+  "owner": "franciscop",
+  "private": false,
+  "html_url": "https://github.com/franciscop/fs-promises",
+  "description": "Node.js filesystem API easily usable with Promises and arrays.",
+  "fork": false,
+  "url": "https://api.github.com/repos/franciscop/fs-promises",
+  "languages_url": "https://api.github.com/repos/franciscop/fs-promises/languages",
+  "pulls_url": "https://api.github.com/repos/franciscop/fs-promises/pulls{/number}",
+  "created_at": "2018-08-28T12:03:27Z",
+  "updated_at": "2018-08-29T06:14:48Z",
+  "pushed_at": "2018-08-28T14:23:21Z",
+  "homepage": "",
+  "size": 10,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "franciscop": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 9584,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T00:04:56.037Z"
+}

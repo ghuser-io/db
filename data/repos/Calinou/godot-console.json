@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 5
+  },
+  "name": "godot-console",
+  "full_name": "Calinou/godot-console",
+  "owner": "Calinou",
+  "private": false,
+  "html_url": "https://github.com/Calinou/godot-console",
+  "description": "Quake-style console for your Godot projects",
+  "fork": false,
+  "url": "https://api.github.com/repos/Calinou/godot-console",
+  "languages_url": "https://api.github.com/repos/Calinou/godot-console/languages",
+  "created_at": "2016-06-18T22:59:42Z",
+  "updated_at": "2018-06-15T04:03:56Z",
+  "pushed_at": "2016-09-03T16:49:12Z",
+  "homepage": null,
+  "size": 291,
+  "stargazers_count": 23,
+  "language": "GDScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "GDScript": {
+      "bytes": 9631,
+      "color": "#355570"
+    },
+    "GAP": {
+      "bytes": 456,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/Calinou/godot-console/pulls{/number}",
+  "pulls_authors": [
+    "samuncle"
+  ]
+}

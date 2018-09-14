@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wopian.me",
+  "full_name": "wopian/wopian.me",
+  "owner": "wopian",
+  "private": false,
+  "html_url": "https://github.com/wopian/wopian.me",
+  "description": "🌐 Personal site",
+  "fork": false,
+  "url": "https://api.github.com/repos/wopian/wopian.me",
+  "languages_url": "https://api.github.com/repos/wopian/wopian.me/languages",
+  "pulls_url": "https://api.github.com/repos/wopian/wopian.me/pulls{/number}",
+  "created_at": "2014-12-06T01:08:14Z",
+  "updated_at": "2018-09-05T14:52:06Z",
+  "pushed_at": "2018-09-05T14:53:07Z",
+  "homepage": "https://wopian.me",
+  "size": 11374,
+  "stargazers_count": 4,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "greenkeeper[bot]": 5,
+    "renovate[bot]": 34,
+    "wopian": 245
+  },
+  "pulls_authors": [
+    "renovate[bot]",
+    "fossabot",
+    "greenkeeper[bot]",
+    "wopian"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 4170,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 2553,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 551,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:32.616Z"
+}

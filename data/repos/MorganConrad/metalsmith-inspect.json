@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "metalsmith-inspect",
+  "full_name": "MorganConrad/metalsmith-inspect",
+  "owner": "MorganConrad",
+  "private": false,
+  "html_url": "https://github.com/MorganConrad/metalsmith-inspect",
+  "description": "A Metalsmith plugin to debug Metalsmith and plugins.  Simpler to use than metalsmith-debug.",
+  "fork": false,
+  "url": "https://api.github.com/repos/MorganConrad/metalsmith-inspect",
+  "languages_url": "https://api.github.com/repos/MorganConrad/metalsmith-inspect/languages",
+  "pulls_url": "https://api.github.com/repos/MorganConrad/metalsmith-inspect/pulls{/number}",
+  "created_at": "2016-11-25T19:16:47Z",
+  "updated_at": "2018-05-04T03:55:21Z",
+  "pushed_at": "2017-10-16T19:22:31Z",
+  "homepage": null,
+  "size": 7,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rjrodger": 1,
+    "MorganConrad": 8
+  },
+  "pulls_authors": [
+    "rjrodger"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 5605,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:31.500Z"
+}

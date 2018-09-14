@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "awesome-frontend-libraries",
+  "full_name": "brillout/awesome-frontend-libraries",
+  "owner": "brillout",
+  "private": false,
+  "html_url": "https://github.com/brillout/awesome-frontend-libraries",
+  "description": "Catalog of Frontend UI Libraires",
+  "fork": false,
+  "url": "https://api.github.com/repos/brillout/awesome-frontend-libraries",
+  "languages_url": "https://api.github.com/repos/brillout/awesome-frontend-libraries/languages",
+  "created_at": "2017-03-25T02:23:10Z",
+  "updated_at": "2018-09-10T19:43:27Z",
+  "pushed_at": "2017-03-25T03:36:08Z",
+  "homepage": "https://devarchy.com/frontend",
+  "size": 7,
+  "stargazers_count": 19,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "brillout": 4
+  },
+  "languages": {},
+  "fetched_at": "2018-09-10T21:32:15.757Z",
+  "pulls_url": "https://api.github.com/repos/brillout/awesome-frontend-libraries/pulls{/number}",
+  "pulls_authors": []
+}

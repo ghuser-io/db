@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "sudonitesh/text-editor": {
+      "full_name": "sudonitesh/text-editor",
+      "name": "text-editor",
+      "stargazers_count": 5,
+      "popularity": 1.6128219920330789,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 2.105693751408423,
+      "total_score": 27.910845623937686,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sudonitesh/fcc-random-quotes": {
+      "full_name": "sudonitesh/fcc-random-quotes",
+      "name": "fcc-random-quotes",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 5,
+      "total_score": 5,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sudonitesh/fcc-wikipedia": {
+      "full_name": "sudonitesh/fcc-wikipedia",
+      "name": "fcc-wikipedia",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 5,
+      "total_score": 5,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "p-society/p-society.github.io": {
+      "full_name": "p-society/p-society.github.io",
+      "name": "p-society.github.io",
+      "stargazers_count": 28,
+      "popularity": 2.4330082352955733,
+      "percentage": 1.0526315789473684,
+      "maturity": 2.74288477252764,
+      "total_commits_count": 95,
+      "activity": 5,
+      "total_score": 18.117732219982447,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "p-society"
+  ]
+}

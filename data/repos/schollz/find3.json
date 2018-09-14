@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "find3",
+  "full_name": "schollz/find3",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/find3",
+  "description": "High-precision indoor positioning framework, version 3.",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/find3",
+  "languages_url": "https://api.github.com/repos/schollz/find3/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/find3/pulls{/number}",
+  "created_at": "2018-02-15T16:23:43Z",
+  "updated_at": "2018-09-13T16:58:35Z",
+  "pushed_at": "2018-08-28T19:49:57Z",
+  "homepage": "https://www.internalpositioning.com/doc",
+  "size": 20700,
+  "stargazers_count": 2847,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "albertreed": 1,
+    "notoriousbdg": 1,
+    "nmussy": 1,
+    "mscott5861": 1,
+    "howlofthesun": 1,
+    "wlindner": 1,
+    "victorhooi": 2,
+    "schollz": 542
+  },
+  "pulls_authors": [
+    "schollz",
+    "albertreed",
+    "notoriousbdg",
+    "tati",
+    "nmussy",
+    "misisnik",
+    "mscott5861",
+    "howlofthesun",
+    "wlindner",
+    "victorhooi"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 156682,
+      "color": "#375eab"
+    },
+    "Python": {
+      "bytes": 37961,
+      "color": "#3572A5"
+    },
+    "Dockerfile": {
+      "bytes": 4689,
+      "color": "#0db7ed"
+    },
+    "Makefile": {
+      "bytes": 1708,
+      "color": "#427819"
+    },
+    "JavaScript": {
+      "bytes": 371,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 169,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-13T17:01:02.224Z"
+}

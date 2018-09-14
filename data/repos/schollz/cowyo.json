@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cowyo",
+  "full_name": "schollz/cowyo",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/cowyo",
+  "description": "A feature-rich wiki webserver for minimalists :cow: :speech_balloon:",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/cowyo",
+  "languages_url": "https://api.github.com/repos/schollz/cowyo/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/cowyo/pulls{/number}",
+  "created_at": "2016-02-06T13:28:39Z",
+  "updated_at": "2018-09-11T06:42:31Z",
+  "pushed_at": "2018-08-23T03:15:00Z",
+  "homepage": "https://cowyo.com/",
+  "size": 17105,
+  "stargazers_count": 454,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "katomaso": 1,
+    "TheEnbyperor": 1,
+    "yamilurbina": 1,
+    "silvus": 1,
+    "gitter-badger": 1,
+    "tgulacsi": 2,
+    "tscholl2": 2,
+    "zealotree": 4,
+    "DanielHeath": 63,
+    "schollz": 428
+  },
+  "pulls_authors": [
+    "DanielHeath",
+    "katomaso",
+    "schollz",
+    "TheEnbyperor",
+    "tgulacsi",
+    "yamilurbina",
+    "zealotree",
+    "silvus",
+    "gitter-badger",
+    "tscholl2"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 52509,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 1497,
+      "color": "#427819"
+    },
+    "Dockerfile": {
+      "bytes": 762,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:29.972Z"
+}

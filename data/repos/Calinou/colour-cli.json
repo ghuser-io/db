@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 6
+  },
+  "name": "colour-cli",
+  "full_name": "Calinou/colour-cli",
+  "owner": "Calinou",
+  "private": false,
+  "html_url": "https://github.com/Calinou/colour-cli",
+  "description": "Get information about colors and convert them in the command line",
+  "fork": false,
+  "url": "https://api.github.com/repos/Calinou/colour-cli",
+  "languages_url": "https://api.github.com/repos/Calinou/colour-cli/languages",
+  "created_at": "2018-03-17T23:10:39Z",
+  "updated_at": "2018-08-29T09:21:42Z",
+  "pushed_at": "2018-08-29T09:21:41Z",
+  "homepage": "https://www.npmjs.com/package/colour-cli",
+  "size": 39,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "JavaScript": {
+      "bytes": 8912,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-29T12:46:54.025Z",
+  "pulls_url": "https://api.github.com/repos/Calinou/colour-cli/pulls{/number}",
+  "pulls_authors": []
+}

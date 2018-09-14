@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rust-sortStringToSql",
+  "full_name": "killercup/rust-sortStringToSql",
+  "owner": "killercup",
+  "private": false,
+  "html_url": "https://github.com/killercup/rust-sortStringToSql",
+  "description": "Rust Version. Convert Sort Expression to SQL that can be used in 'ORDER BY' statement, e.g. '-aired,id' -> 'aird DESC NULLS LAST, id ASC NULLS LAST'.",
+  "fork": false,
+  "url": "https://api.github.com/repos/killercup/rust-sortStringToSql",
+  "languages_url": "https://api.github.com/repos/killercup/rust-sortStringToSql/languages",
+  "pulls_url": "https://api.github.com/repos/killercup/rust-sortStringToSql/pulls{/number}",
+  "created_at": "2014-11-21T14:00:54Z",
+  "updated_at": "2015-04-12T12:02:23Z",
+  "pushed_at": "2015-04-12T12:02:36Z",
+  "homepage": "https://crates.io/crates/sort_str_to_sql",
+  "size": 208,
+  "stargazers_count": 2,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sinistersnare": 1,
+    "killercup": 25
+  },
+  "pulls_authors": [
+    "sinistersnare"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 3412,
+      "color": "#dea584"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:37.685Z"
+}

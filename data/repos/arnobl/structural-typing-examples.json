@@ -1,0 +1,139 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "structural-typing-examples",
+  "full_name": "arnobl/structural-typing-examples",
+  "owner": "arnobl",
+  "private": false,
+  "html_url": "https://github.com/arnobl/structural-typing-examples",
+  "description": "Examples in various programming languages about how structural typing is supported",
+  "fork": false,
+  "url": "https://api.github.com/repos/arnobl/structural-typing-examples",
+  "languages_url": "https://api.github.com/repos/arnobl/structural-typing-examples/languages",
+  "pulls_url": "https://api.github.com/repos/arnobl/structural-typing-examples/pulls{/number}",
+  "created_at": "2017-01-25T18:28:14Z",
+  "updated_at": "2018-07-19T21:46:00Z",
+  "pushed_at": "2017-09-28T09:10:57Z",
+  "homepage": null,
+  "size": 55,
+  "stargazers_count": 8,
+  "language": "Eiffel",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "manuelleduc": 3,
+    "superboum": 3,
+    "arnobl": 46
+  },
+  "pulls_authors": [
+    "manuelleduc",
+    "ElyKar",
+    "superboum"
+  ],
+  "languages": {
+    "Eiffel": {
+      "bytes": 1693,
+      "color": "#946d57"
+    },
+    "Haskell": {
+      "bytes": 1107,
+      "color": "#5e5086"
+    },
+    "Swift": {
+      "bytes": 1105,
+      "color": "#ffac45"
+    },
+    "Vala": {
+      "bytes": 1042,
+      "color": "#fbe5cd"
+    },
+    "F#": {
+      "bytes": 1013,
+      "color": "#b845fc"
+    },
+    "C++": {
+      "bytes": 1004,
+      "color": "#f34b7d"
+    },
+    "Java": {
+      "bytes": 973,
+      "color": "#b07219"
+    },
+    "Haxe": {
+      "bytes": 971,
+      "color": "#df7900"
+    },
+    "PHP": {
+      "bytes": 890,
+      "color": "#4F5D95"
+    },
+    "Go": {
+      "bytes": 866,
+      "color": "#375eab"
+    },
+    "Oz": {
+      "bytes": 859,
+      "color": "#fab738"
+    },
+    "C#": {
+      "bytes": 816,
+      "color": "#178600"
+    },
+    "Kotlin": {
+      "bytes": 809,
+      "color": "#F18E33"
+    },
+    "OCaml": {
+      "bytes": 792,
+      "color": "#3be133"
+    },
+    "Scala": {
+      "bytes": 751,
+      "color": "#c22d40"
+    },
+    "Erlang": {
+      "bytes": 669,
+      "color": "#B83998"
+    },
+    "TypeScript": {
+      "bytes": 656,
+      "color": "#2b7489"
+    },
+    "Dart": {
+      "bytes": 655,
+      "color": "#00B4AB"
+    },
+    "Groovy": {
+      "bytes": 630,
+      "color": "#e69f56"
+    },
+    "Smalltalk": {
+      "bytes": 551,
+      "color": "#596706"
+    },
+    "Ruby": {
+      "bytes": 541,
+      "color": "#701516"
+    },
+    "Python": {
+      "bytes": 521,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 472,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 91,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:20.468Z"
+}

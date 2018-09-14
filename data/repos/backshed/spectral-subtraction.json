@@ -1,0 +1,85 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "spectral-subtraction",
+  "full_name": "backshed/spectral-subtraction",
+  "owner": "backshed",
+  "private": false,
+  "html_url": "https://github.com/backshed/spectral-subtraction",
+  "description": "Spectral subtraction library",
+  "fork": false,
+  "url": "https://api.github.com/repos/backshed/spectral-subtraction",
+  "languages_url": "https://api.github.com/repos/backshed/spectral-subtraction/languages",
+  "pulls_url": "https://api.github.com/repos/backshed/spectral-subtraction/pulls{/number}",
+  "created_at": "2013-07-22T04:18:24Z",
+  "updated_at": "2018-01-15T12:31:27Z",
+  "pushed_at": "2013-09-19T20:30:33Z",
+  "homepage": null,
+  "size": 4464,
+  "stargazers_count": 3,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "backshed",
+    "id": 35454421,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM1NDU0NDIx",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/35454421?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/backshed",
+    "html_url": "https://github.com/backshed",
+    "followers_url": "https://api.github.com/users/backshed/followers",
+    "following_url": "https://api.github.com/users/backshed/following{/other_user}",
+    "gists_url": "https://api.github.com/users/backshed/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/backshed/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/backshed/subscriptions",
+    "organizations_url": "https://api.github.com/users/backshed/orgs",
+    "repos_url": "https://api.github.com/users/backshed/repos",
+    "events_url": "https://api.github.com/users/backshed/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/backshed/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jcelerier": 82
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 141618,
+      "color": "#f34b7d"
+    },
+    "Python": {
+      "bytes": 20562,
+      "color": "#3572A5"
+    },
+    "C#": {
+      "bytes": 15879,
+      "color": "#178600"
+    },
+    "C": {
+      "bytes": 11856,
+      "color": "#555555"
+    },
+    "Prolog": {
+      "bytes": 6595,
+      "color": "#74283c"
+    },
+    "Shell": {
+      "bytes": 252,
+      "color": "#89e051"
+    },
+    "Objective-C": {
+      "bytes": 188,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:00.111Z"
+}

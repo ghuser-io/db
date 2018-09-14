@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "toolpunk": 10,
+    "nover": 12,
+    "asilluron": 28,
+    "Calinou": 1
+  },
+  "name": "hapi-mongoose",
+  "full_name": "asilluron/hapi-mongoose",
+  "owner": "asilluron",
+  "private": false,
+  "html_url": "https://github.com/asilluron/hapi-mongoose",
+  "description": "Hapi Plugin to handle Mongoose handshake and initial setup (Hapi v16 or below)",
+  "fork": false,
+  "url": "https://api.github.com/repos/asilluron/hapi-mongoose",
+  "languages_url": "https://api.github.com/repos/asilluron/hapi-mongoose/languages",
+  "created_at": "2015-11-15T19:12:31Z",
+  "updated_at": "2018-08-27T07:26:19Z",
+  "pushed_at": "2018-07-28T04:57:31Z",
+  "homepage": "",
+  "size": 62,
+  "stargazers_count": 18,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "JavaScript": {
+      "bytes": 12224,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-27T19:17:11.976Z",
+  "pulls_url": "https://api.github.com/repos/asilluron/hapi-mongoose/pulls{/number}",
+  "pulls_authors": [
+    "Calinou",
+    "nover",
+    "toolpunk"
+  ]
+}

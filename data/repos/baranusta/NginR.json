@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "NginR",
+  "full_name": "baranusta/NginR",
+  "owner": "baranusta",
+  "private": false,
+  "html_url": "https://github.com/baranusta/NginR",
+  "description": "Game Engine implemented in c++",
+  "fork": false,
+  "url": "https://api.github.com/repos/baranusta/NginR",
+  "languages_url": "https://api.github.com/repos/baranusta/NginR/languages",
+  "pulls_url": "https://api.github.com/repos/baranusta/NginR/pulls{/number}",
+  "created_at": "2016-02-23T22:21:06Z",
+  "updated_at": "2017-01-27T07:32:56Z",
+  "pushed_at": "2016-03-26T17:09:33Z",
+  "homepage": null,
+  "size": 5279,
+  "stargazers_count": 3,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ziyasal": 1,
+    "baranusta": 25
+  },
+  "pulls_authors": [
+    "ziyasal"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 1448621,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 684342,
+      "color": "#f34b7d"
+    },
+    "Cuda": {
+      "bytes": 6006,
+      "color": "#3A4E3A"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:14.623Z"
+}

@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ipc-bench",
+  "full_name": "avsm/ipc-bench",
+  "owner": "avsm",
+  "private": false,
+  "html_url": "https://github.com/avsm/ipc-bench",
+  "description": "Latency benchmarks of Unix IPC mechanisms",
+  "fork": true,
+  "url": "https://api.github.com/repos/avsm/ipc-bench",
+  "languages_url": "https://api.github.com/repos/avsm/ipc-bench/languages",
+  "pulls_url": "https://api.github.com/repos/avsm/ipc-bench/pulls{/number}",
+  "created_at": "2011-10-29T22:47:11Z",
+  "updated_at": "2018-09-03T09:34:02Z",
+  "pushed_at": "2018-02-22T02:52:48Z",
+  "homepage": "",
+  "size": 1808,
+  "stargazers_count": 78,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mswilson": 1,
+    "Kelimion": 1,
+    "jopu-enea": 2,
+    "rigtorp": 15,
+    "ms705": 27,
+    "avsm": 62
+  },
+  "pulls_authors": [
+    "rayspace2",
+    "fkluknav",
+    "jcelerier",
+    "sphl",
+    "jopu-enea",
+    "ms705",
+    "mswilson",
+    "Kelimion",
+    "tobyjaffey",
+    "sos22"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 711110,
+      "color": "#555555"
+    },
+    "Assembly": {
+      "bytes": 61043,
+      "color": "#6E4C13"
+    },
+    "Python": {
+      "bytes": 49991,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 3783,
+      "color": "#89e051"
+    },
+    "C++": {
+      "bytes": 3529,
+      "color": "#f34b7d"
+    },
+    "R": {
+      "bytes": 780,
+      "color": "#198CE7"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:48.169Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "fatihdgn",
+  "ghuser_created_at": "2018-09-11T22:45:04.451Z",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/12116697?v=4",
+  "html_url": "https://github.com/fatihdgn",
+  "organizations_url": "https://api.github.com/users/fatihdgn/orgs",
+  "repos_url": "https://api.github.com/users/fatihdgn/repos",
+  "type": "User",
+  "name": "Fatih Doğan",
+  "company": "@peakup",
+  "blog": "fatihdgn.com",
+  "location": null,
+  "email": null,
+  "bio": "Just a normal developer.",
+  "public_gists": 4,
+  "created_at": "2015-04-25T22:07:57Z",
+  "updated_at": "2018-09-10T13:56:24Z",
+  "organizations": [
+    "PeakUp"
+  ],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:13:34.294Z",
+    "repos": [
+      "fatihdgn/LPP-Vita-Build-Helper",
+      "PeakUp/PeakUp.Utilities",
+      "fatihdgn/IoTHubSimulatedDevice",
+      "fatihdgn/fatihdgn.github.io",
+      "fatihdgn/Sample.NPOI",
+      "fatihdgn/MedIOEx-js",
+      "fatihdgn/node-red-contrib-medioex",
+      "fatihdgn/these.hol.es"
+    ]
+  }
+}

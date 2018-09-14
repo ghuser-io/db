@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "yamerl",
+  "full_name": "yakaz/yamerl",
+  "owner": "yakaz",
+  "private": false,
+  "html_url": "https://github.com/yakaz/yamerl",
+  "description": "YAML 1.2 and JSON parser in pure Erlang",
+  "fork": false,
+  "url": "https://api.github.com/repos/yakaz/yamerl",
+  "languages_url": "https://api.github.com/repos/yakaz/yamerl/languages",
+  "pulls_url": "https://api.github.com/repos/yakaz/yamerl/pulls{/number}",
+  "created_at": "2012-12-06T17:12:04Z",
+  "updated_at": "2018-09-06T07:51:57Z",
+  "pushed_at": "2018-06-28T10:14:15Z",
+  "homepage": "",
+  "size": 638,
+  "stargazers_count": 139,
+  "language": "Erlang",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "yakaz",
+    "id": 1457890,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0NTc4OTA=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/1457890?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/yakaz",
+    "html_url": "https://github.com/yakaz",
+    "followers_url": "https://api.github.com/users/yakaz/followers",
+    "following_url": "https://api.github.com/users/yakaz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/yakaz/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/yakaz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/yakaz/subscriptions",
+    "organizations_url": "https://api.github.com/users/yakaz/orgs",
+    "repos_url": "https://api.github.com/users/yakaz/repos",
+    "events_url": "https://api.github.com/users/yakaz/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/yakaz/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "petrkozorezov": 1,
+    "SebastianSzturo": 1,
+    "RichMorin": 1,
+    "JonGretar": 1,
+    "seryl": 1,
+    "samhamilton": 2,
+    "fenollp": 4,
+    "dumbbell": 265
+  },
+  "pulls_authors": [
+    "samhamilton",
+    "fenollp",
+    "acconrad",
+    "petrkozorezov",
+    "SebastianSzturo",
+    "RichMorin",
+    "JonGretar",
+    "seryl",
+    "gleber"
+  ],
+  "languages": {
+    "Erlang": {
+      "bytes": 701179,
+      "color": "#B83998"
+    }
+  },
+  "fetched_at": "2018-09-12T04:55:40.412Z"
+}

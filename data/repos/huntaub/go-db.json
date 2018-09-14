@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-db",
+  "full_name": "huntaub/go-db",
+  "owner": "huntaub",
+  "private": false,
+  "html_url": "https://github.com/huntaub/go-db",
+  "description": "A simple ORM for the Go language.",
+  "fork": false,
+  "url": "https://api.github.com/repos/huntaub/go-db",
+  "languages_url": "https://api.github.com/repos/huntaub/go-db/languages",
+  "pulls_url": "https://api.github.com/repos/huntaub/go-db/pulls{/number}",
+  "created_at": "2014-07-22T23:31:46Z",
+  "updated_at": "2016-11-07T04:34:34Z",
+  "pushed_at": "2014-08-18T14:37:00Z",
+  "homepage": null,
+  "size": 236,
+  "stargazers_count": 4,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "huntaub": 14
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 21341,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-12T15:44:41.198Z"
+}

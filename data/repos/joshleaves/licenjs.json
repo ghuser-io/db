@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "licenjs",
+  "full_name": "joshleaves/licenjs",
+  "owner": "joshleaves",
+  "private": false,
+  "html_url": "https://github.com/joshleaves/licenjs",
+  "description": "licenjs generates license files",
+  "fork": false,
+  "url": "https://api.github.com/repos/joshleaves/licenjs",
+  "languages_url": "https://api.github.com/repos/joshleaves/licenjs/languages",
+  "pulls_url": "https://api.github.com/repos/joshleaves/licenjs/pulls{/number}",
+  "created_at": "2013-02-02T02:18:26Z",
+  "updated_at": "2014-03-26T10:12:19Z",
+  "pushed_at": "2013-02-25T11:34:52Z",
+  "homepage": null,
+  "size": 159,
+  "stargazers_count": 7,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 1,
+    "joshleaves": 4
+  },
+  "pulls_authors": [
+    "moul"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 3275,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:52.587Z"
+}

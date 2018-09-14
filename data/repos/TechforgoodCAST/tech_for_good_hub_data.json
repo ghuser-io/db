@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tech_for_good_hub_data",
+  "full_name": "TechforgoodCAST/tech_for_good_hub_data",
+  "owner": "TechforgoodCAST",
+  "private": false,
+  "html_url": "https://github.com/TechforgoodCAST/tech_for_good_hub_data",
+  "description": "Explore data from the UK Tech for Good 2016-17 Fund",
+  "fork": false,
+  "url": "https://api.github.com/repos/TechforgoodCAST/tech_for_good_hub_data",
+  "languages_url": "https://api.github.com/repos/TechforgoodCAST/tech_for_good_hub_data/languages",
+  "pulls_url": "https://api.github.com/repos/TechforgoodCAST/tech_for_good_hub_data/pulls{/number}",
+  "created_at": "2017-04-03T08:49:57Z",
+  "updated_at": "2018-04-10T06:15:48Z",
+  "pushed_at": "2017-05-31T13:23:17Z",
+  "homepage": "https://data.techforgoodhub.co.uk",
+  "size": 940,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "TechforgoodCAST",
+    "id": 19712864,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5NzEyODY0",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/19712864?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/TechforgoodCAST",
+    "html_url": "https://github.com/TechforgoodCAST",
+    "followers_url": "https://api.github.com/users/TechforgoodCAST/followers",
+    "following_url": "https://api.github.com/users/TechforgoodCAST/following{/other_user}",
+    "gists_url": "https://api.github.com/users/TechforgoodCAST/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/TechforgoodCAST/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/TechforgoodCAST/subscriptions",
+    "organizations_url": "https://api.github.com/users/TechforgoodCAST/orgs",
+    "repos_url": "https://api.github.com/users/TechforgoodCAST/repos",
+    "events_url": "https://api.github.com/users/TechforgoodCAST/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/TechforgoodCAST/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "suninthesky": 25,
+    "drkane": 30
+  },
+  "pulls_authors": [
+    "drkane",
+    "suninthesky"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 275343,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 179981,
+      "color": "#563d7c"
+    },
+    "Elixir": {
+      "bytes": 48938,
+      "color": "#6e4a7e"
+    },
+    "JavaScript": {
+      "bytes": 8900,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T05:01:00.851Z"
+}

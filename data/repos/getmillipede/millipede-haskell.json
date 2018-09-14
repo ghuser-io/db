@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "millipede-haskell",
+  "full_name": "getmillipede/millipede-haskell",
+  "owner": "getmillipede",
+  "private": false,
+  "html_url": "https://github.com/getmillipede/millipede-haskell",
+  "description": ":bug: Print a beautiful millipede",
+  "fork": false,
+  "url": "https://api.github.com/repos/getmillipede/millipede-haskell",
+  "languages_url": "https://api.github.com/repos/getmillipede/millipede-haskell/languages",
+  "pulls_url": "https://api.github.com/repos/getmillipede/millipede-haskell/pulls{/number}",
+  "created_at": "2015-09-14T18:41:19Z",
+  "updated_at": "2016-09-29T12:23:47Z",
+  "pushed_at": "2015-09-15T00:08:49Z",
+  "homepage": null,
+  "size": 296,
+  "stargazers_count": 4,
+  "language": "Groff",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "getmillipede",
+    "id": 13489538,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzNDg5NTM4",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/13489538?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/getmillipede",
+    "html_url": "https://github.com/getmillipede",
+    "followers_url": "https://api.github.com/users/getmillipede/followers",
+    "following_url": "https://api.github.com/users/getmillipede/following{/other_user}",
+    "gists_url": "https://api.github.com/users/getmillipede/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/getmillipede/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/getmillipede/subscriptions",
+    "organizations_url": "https://api.github.com/users/getmillipede/orgs",
+    "repos_url": "https://api.github.com/users/getmillipede/repos",
+    "events_url": "https://api.github.com/users/getmillipede/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/getmillipede/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "moul": 1,
+    "lucasdicioccio": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Groff": {
+      "bytes": 4837,
+      "color": "#ccc"
+    },
+    "Haskell": {
+      "bytes": 1069,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:25.413Z"
+}

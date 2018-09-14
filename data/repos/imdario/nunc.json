@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nunc",
+  "full_name": "imdario/nunc",
+  "owner": "imdario",
+  "private": false,
+  "html_url": "https://github.com/imdario/nunc",
+  "description": "Nunc - No more procrastination: personal task manager, TODO list, etc. You name it.",
+  "fork": false,
+  "url": "https://api.github.com/repos/imdario/nunc",
+  "languages_url": "https://api.github.com/repos/imdario/nunc/languages",
+  "pulls_url": "https://api.github.com/repos/imdario/nunc/pulls{/number}",
+  "created_at": "2014-11-17T00:03:44Z",
+  "updated_at": "2018-09-01T07:43:45Z",
+  "pushed_at": "2017-04-10T19:17:15Z",
+  "homepage": "",
+  "size": 34,
+  "stargazers_count": 4,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "imdario": 14
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 30474,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T20:48:03.394Z"
+}

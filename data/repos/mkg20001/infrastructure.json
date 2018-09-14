@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "infrastructure",
+  "full_name": "mkg20001/infrastructure",
+  "owner": "mkg20001",
+  "private": false,
+  "html_url": "https://github.com/mkg20001/infrastructure",
+  "description": "The config used in my private infrastructure repo that installs and runs FOSS services I made",
+  "fork": false,
+  "url": "https://api.github.com/repos/mkg20001/infrastructure",
+  "languages_url": "https://api.github.com/repos/mkg20001/infrastructure/languages",
+  "pulls_url": "https://api.github.com/repos/mkg20001/infrastructure/pulls{/number}",
+  "created_at": "2018-08-30T10:26:27Z",
+  "updated_at": "2018-09-06T14:50:21Z",
+  "pushed_at": "2018-09-06T14:50:17Z",
+  "homepage": null,
+  "size": 20,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mkg20001": 5
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-13T23:54:19.535Z"
+}

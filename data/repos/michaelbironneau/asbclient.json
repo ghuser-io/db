@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "asbclient",
+  "full_name": "michaelbironneau/asbclient",
+  "owner": "michaelbironneau",
+  "private": false,
+  "html_url": "https://github.com/michaelbironneau/asbclient",
+  "description": "Azure Service Bus client for Go.",
+  "fork": false,
+  "url": "https://api.github.com/repos/michaelbironneau/asbclient",
+  "languages_url": "https://api.github.com/repos/michaelbironneau/asbclient/languages",
+  "pulls_url": "https://api.github.com/repos/michaelbironneau/asbclient/pulls{/number}",
+  "created_at": "2016-05-02T13:57:53Z",
+  "updated_at": "2018-06-21T13:54:15Z",
+  "pushed_at": "2018-05-14T21:11:21Z",
+  "homepage": null,
+  "size": 12,
+  "stargazers_count": 6,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "michaelbironneau": 4,
+    "elliots": 4
+  },
+  "pulls_authors": [
+    "mikuam",
+    "chilicat",
+    "elliots"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 13071,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T13:45:50.534Z"
+}

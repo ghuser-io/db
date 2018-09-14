@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "klammeraffe",
+  "full_name": "sternenseemann/klammeraffe",
+  "owner": "sternenseemann",
+  "private": false,
+  "html_url": "https://github.com/sternenseemann/klammeraffe",
+  "description": "an IRC bot to CLOSE ALL THE UNCLOSED PARENS!",
+  "fork": false,
+  "url": "https://api.github.com/repos/sternenseemann/klammeraffe",
+  "languages_url": "https://api.github.com/repos/sternenseemann/klammeraffe/languages",
+  "pulls_url": "https://api.github.com/repos/sternenseemann/klammeraffe/pulls{/number}",
+  "created_at": "2015-01-05T13:15:13Z",
+  "updated_at": "2016-04-02T23:28:25Z",
+  "pushed_at": "2015-03-07T19:01:03Z",
+  "homepage": null,
+  "size": 273,
+  "stargazers_count": 3,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Profpatsch": 1,
+    "sternenseemann": 19
+  },
+  "pulls_authors": [
+    "Profpatsch"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 3282,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:48.544Z"
+}

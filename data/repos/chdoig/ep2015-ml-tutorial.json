@@ -1,0 +1,33 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ep2015-ml-tutorial",
+  "full_name": "chdoig/ep2015-ml-tutorial",
+  "owner": "chdoig",
+  "private": false,
+  "html_url": "https://github.com/chdoig/ep2015-ml-tutorial",
+  "description": "Beginner's Guide to Machine Learning Competitions, EuroPython 2015, Tutorial",
+  "fork": false,
+  "url": "https://api.github.com/repos/chdoig/ep2015-ml-tutorial",
+  "languages_url": "https://api.github.com/repos/chdoig/ep2015-ml-tutorial/languages",
+  "pulls_url": "https://api.github.com/repos/chdoig/ep2015-ml-tutorial/pulls{/number}",
+  "created_at": "2015-07-13T01:33:51Z",
+  "updated_at": "2018-04-13T17:35:18Z",
+  "pushed_at": "2016-10-18T13:37:45Z",
+  "homepage": null,
+  "size": 250,
+  "stargazers_count": 28,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "chdoig": 7
+  },
+  "pulls_authors": [
+    "lindavid1028",
+    "sparkiegeek"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-11T17:15:39.723Z"
+}

@@ -1,0 +1,95 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ghuser.io",
+  "full_name": "ghuser-io/ghuser.io",
+  "owner": "ghuser-io",
+  "private": false,
+  "html_url": "https://github.com/ghuser-io/ghuser.io",
+  "description": ":octocat: Better GitHub profiles",
+  "fork": false,
+  "url": "https://api.github.com/repos/ghuser-io/ghuser.io",
+  "languages_url": "https://api.github.com/repos/ghuser-io/ghuser.io/languages",
+  "created_at": "2018-06-19T11:36:58Z",
+  "updated_at": "2018-09-14T08:20:03Z",
+  "pushed_at": "2018-09-14T08:07:10Z",
+  "homepage": "https://ghuser.io",
+  "size": 43663,
+  "stargazers_count": 535,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "AurelienLourot": 605,
+    "brillout": 4,
+    "jamesgeorge007": 4
+  },
+  "settings": {
+    "_comment": "Repo metadata for ghuser.io. See https://github.com/ghuser-io/ghuser.io/blob/master/docs/repo-settings.md",
+    "avatar_url": "https://rawgit.com/ghuser-io/ghuser.io/master/docs/logo_square.png",
+    "techs": [
+      "React",
+      "Node.js",
+      "Reframe",
+      "GitHub API",
+      "hapi",
+      "Bootstrap",
+      "Semantic UI",
+      "AWS",
+      "Ansible",
+      "Travis CI"
+    ]
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 87945,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 8596,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 6365,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1616,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-14T08:21:48.438Z",
+  "pulls_url": "https://api.github.com/repos/ghuser-io/ghuser.io/pulls{/number}",
+  "pulls_authors": [
+    "AurelienLourot",
+    "brillout",
+    "jamesgeorge007"
+  ],
+  "organization": {
+    "login": "ghuser-io",
+    "id": 43240085,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQzMjQwMDg1",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/43240085?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ghuser-io",
+    "html_url": "https://github.com/ghuser-io",
+    "followers_url": "https://api.github.com/users/ghuser-io/followers",
+    "following_url": "https://api.github.com/users/ghuser-io/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ghuser-io/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ghuser-io/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ghuser-io/subscriptions",
+    "organizations_url": "https://api.github.com/users/ghuser-io/orgs",
+    "repos_url": "https://api.github.com/users/ghuser-io/repos",
+    "events_url": "https://api.github.com/users/ghuser-io/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ghuser-io/received_events",
+    "type": "Organization",
+    "site_admin": false
+  }
+}

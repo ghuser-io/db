@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "ukazap/twofu": {
+      "full_name": "ukazap/twofu",
+      "name": "twofu",
+      "stargazers_count": 6,
+      "popularity": 1.7076084983408428,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 9,
+      "activity": 1.0713592188643717,
+      "total_score": 28.39309519231786,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "irinatag/cassim-marketplace": {
+      "full_name": "irinatag/cassim-marketplace",
+      "name": "cassim-marketplace",
+      "stargazers_count": 17,
+      "popularity": 2.206864721909315,
+      "percentage": 0,
+      "maturity": 3.1450622028399184,
+      "total_commits_count": 179,
+      "activity": 0.8423664292217685,
+      "total_score": 13.75308500062955,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "js-org/js.org": {
+      "full_name": "js-org/js.org",
+      "name": "js.org",
+      "stargazers_count": 1893,
+      "popularity": 4.276983172300461,
+      "percentage": 0,
+      "maturity": 4.4791614153929,
+      "total_commits_count": 3042,
+      "activity": 5,
+      "total_score": 26.789272347687184,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "adambard/learnxinyminutes-docs": {
+      "full_name": "adambard/learnxinyminutes-docs",
+      "name": "learnxinyminutes-docs",
+      "stargazers_count": 5548,
+      "popularity": 4.7441050831147855,
+      "percentage": 0,
+      "maturity": 4.689006552406254,
+      "total_commits_count": 4907,
+      "activity": 5,
+      "total_score": 28.610328354156863,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "svenfuchs/rails-i18n": {
+      "full_name": "svenfuchs/rails-i18n",
+      "name": "rails-i18n",
+      "stargazers_count": 3308,
+      "popularity": 4.519486414768369,
+      "percentage": 0.13812154696132597,
+      "maturity": 4.150369694035943,
+      "total_commits_count": 1448,
+      "activity": 5,
+      "total_score": 26.940349631537195,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "js-org"
+  ]
+}

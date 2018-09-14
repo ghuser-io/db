@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Nepholo",
+  "full_name": "aloisdg/Nepholo",
+  "owner": "aloisdg",
+  "private": false,
+  "html_url": "https://github.com/aloisdg/Nepholo",
+  "description": "Nepholo is a WPF Client for DropBox.",
+  "fork": false,
+  "url": "https://api.github.com/repos/aloisdg/Nepholo",
+  "languages_url": "https://api.github.com/repos/aloisdg/Nepholo/languages",
+  "pulls_url": "https://api.github.com/repos/aloisdg/Nepholo/pulls{/number}",
+  "created_at": "2015-02-24T16:15:48Z",
+  "updated_at": "2015-11-12T04:21:28Z",
+  "pushed_at": "2015-06-01T16:43:39Z",
+  "homepage": null,
+  "size": 4230,
+  "stargazers_count": 2,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "aloisdg": 47
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 44033,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:19.682Z"
+}

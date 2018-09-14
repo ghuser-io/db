@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mta-json-api",
+  "full_name": "marksamman/mta-json-api",
+  "owner": "marksamman",
+  "private": false,
+  "html_url": "https://github.com/marksamman/mta-json-api",
+  "description": "A JSON web backend for the MTA API written in Go.",
+  "fork": false,
+  "url": "https://api.github.com/repos/marksamman/mta-json-api",
+  "languages_url": "https://api.github.com/repos/marksamman/mta-json-api/languages",
+  "pulls_url": "https://api.github.com/repos/marksamman/mta-json-api/pulls{/number}",
+  "created_at": "2014-04-22T18:38:54Z",
+  "updated_at": "2015-11-25T18:39:19Z",
+  "pushed_at": "2014-04-22T19:13:56Z",
+  "homepage": "",
+  "size": 4600,
+  "stargazers_count": 4,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "marksamman": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 55369,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T15:15:49.429Z"
+}

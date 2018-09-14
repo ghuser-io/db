@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "awesome-job-dude",
+  "full_name": "securingsincity/awesome-job-dude",
+  "owner": "securingsincity",
+  "private": false,
+  "html_url": "https://github.com/securingsincity/awesome-job-dude",
+  "description": "a high five from your command line ",
+  "fork": false,
+  "url": "https://api.github.com/repos/securingsincity/awesome-job-dude",
+  "languages_url": "https://api.github.com/repos/securingsincity/awesome-job-dude/languages",
+  "pulls_url": "https://api.github.com/repos/securingsincity/awesome-job-dude/pulls{/number}",
+  "created_at": "2014-11-10T19:51:48Z",
+  "updated_at": "2016-10-01T22:44:54Z",
+  "pushed_at": "2014-11-28T01:38:34Z",
+  "homepage": "http://securingsincity.github.io/awesome-job-dude/",
+  "size": 816,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "dankraus": 1,
+    "enspencer": 3,
+    "securingsincity": 14
+  },
+  "pulls_authors": [
+    "securingsincity",
+    "enspencer",
+    "dankraus"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2329,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 85,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T00:33:42.429Z"
+}

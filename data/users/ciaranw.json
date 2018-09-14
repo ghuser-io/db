@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "ciaranw",
+  "ghuser_created_at": "2018-09-11T14:01:50.525Z",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/406157?v=4",
+  "html_url": "https://github.com/ciaranw",
+  "organizations_url": "https://api.github.com/users/ciaranw/orgs",
+  "repos_url": "https://api.github.com/users/ciaranw/repos",
+  "type": "User",
+  "name": "Ciaran Wood",
+  "company": null,
+  "blog": "",
+  "location": "London, England",
+  "email": null,
+  "bio": null,
+  "public_gists": 1,
+  "created_at": "2010-09-18T17:26:03Z",
+  "updated_at": "2018-06-28T16:18:19Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:11:30.186Z",
+    "repos": [
+      "ciaranw/turbo-nasty-productions-website",
+      "ciaranw/cv",
+      "mapbox/remark-react",
+      "ciaranw/torrent-o-abuse",
+      "ciaranw/tapestry-service-cache",
+      "ciaranw/coffeescript-workshop",
+      "ciaranw/swfjs",
+      "ciaranw/vultan",
+      "ciaranw/socket-io-presentation",
+      "ciaranw/node-chat-example",
+      "ciaranw/node-comet-client",
+      "ciaranw/splib",
+      "ciaranw/SWFREtools"
+    ]
+  }
+}

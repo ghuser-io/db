@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PhotoDrop",
+  "full_name": "reed-jones/PhotoDrop",
+  "owner": "reed-jones",
+  "private": false,
+  "html_url": "https://github.com/reed-jones/PhotoDrop",
+  "description": "A Laravel/Vuejs project to make it easy to save and share photos and videos online.",
+  "fork": false,
+  "url": "https://api.github.com/repos/reed-jones/PhotoDrop",
+  "languages_url": "https://api.github.com/repos/reed-jones/PhotoDrop/languages",
+  "pulls_url": "https://api.github.com/repos/reed-jones/PhotoDrop/pulls{/number}",
+  "created_at": "2018-01-18T05:04:02Z",
+  "updated_at": "2018-07-12T11:24:52Z",
+  "pushed_at": "2018-01-19T03:53:17Z",
+  "homepage": "https://wedding.reedjones.com",
+  "size": 2099,
+  "stargazers_count": 1,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "reed-jones": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 83015,
+      "color": "#4F5D95"
+    },
+    "HTML": {
+      "bytes": 18095,
+      "color": "#e34c26"
+    },
+    "Vue": {
+      "bytes": 3417,
+      "color": "#2c3e50"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:24.157Z"
+}

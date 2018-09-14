@@ -1,0 +1,111 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vulkano-www",
+  "full_name": "vulkano-rs/vulkano-www",
+  "owner": "vulkano-rs",
+  "private": false,
+  "html_url": "https://github.com/vulkano-rs/vulkano-www",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/vulkano-rs/vulkano-www",
+  "languages_url": "https://api.github.com/repos/vulkano-rs/vulkano-www/languages",
+  "pulls_url": "https://api.github.com/repos/vulkano-rs/vulkano-www/pulls{/number}",
+  "created_at": "2017-06-29T14:33:12Z",
+  "updated_at": "2018-09-04T21:41:30Z",
+  "pushed_at": "2018-09-04T21:41:29Z",
+  "homepage": null,
+  "size": 506,
+  "stargazers_count": 20,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "vulkano-rs",
+    "id": 30721485,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMwNzIxNDg1",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/30721485?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/vulkano-rs",
+    "html_url": "https://github.com/vulkano-rs",
+    "followers_url": "https://api.github.com/users/vulkano-rs/followers",
+    "following_url": "https://api.github.com/users/vulkano-rs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/vulkano-rs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/vulkano-rs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/vulkano-rs/subscriptions",
+    "organizations_url": "https://api.github.com/users/vulkano-rs/orgs",
+    "repos_url": "https://api.github.com/users/vulkano-rs/repos",
+    "events_url": "https://api.github.com/users/vulkano-rs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/vulkano-rs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "bwasty": 1,
+    "rustyrobot": 1,
+    "anderspitman": 1,
+    "casey": 1,
+    "jasondavies": 1,
+    "Nashenas88": 1,
+    "Phrohdoh": 1,
+    "Frizi": 1,
+    "Sogomn": 1,
+    "PeterReid": 1,
+    "jonringer": 1,
+    "kairosswag": 1,
+    "sameer": 2,
+    "javinovo": 2,
+    "terrybrashaw": 2,
+    "aochagavia": 2,
+    "rukai": 4,
+    "jimblandy": 5,
+    "tomaka": 80
+  },
+  "pulls_authors": [
+    "rukai",
+    "bwasty",
+    "rustyrobot",
+    "jimblandy",
+    "sameer",
+    "anderspitman",
+    "casey",
+    "jasondavies",
+    "javinovo",
+    "tomaka",
+    "Nashenas88",
+    "Phrohdoh",
+    "terrybrashaw",
+    "Frizi",
+    "ghost",
+    "PeterReid",
+    "jonringer",
+    "aochagavia",
+    "kairosswag"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 8589,
+      "color": "#e34c26"
+    },
+    "Rust": {
+      "bytes": 8423,
+      "color": "#dea584"
+    },
+    "CSS": {
+      "bytes": 5826,
+      "color": "#563d7c"
+    },
+    "Dockerfile": {
+      "bytes": 402,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-11T00:29:53.171Z"
+}

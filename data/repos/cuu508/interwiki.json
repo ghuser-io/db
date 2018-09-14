@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "interwiki",
+  "full_name": "cuu508/interwiki",
+  "owner": "cuu508",
+  "private": false,
+  "html_url": "https://github.com/cuu508/interwiki",
+  "description": "Script for analyzing interwiki links from Wikipedia",
+  "fork": false,
+  "url": "https://api.github.com/repos/cuu508/interwiki",
+  "languages_url": "https://api.github.com/repos/cuu508/interwiki/languages",
+  "pulls_url": "https://api.github.com/repos/cuu508/interwiki/pulls{/number}",
+  "created_at": "2012-10-16T23:38:20Z",
+  "updated_at": "2015-09-28T07:46:14Z",
+  "pushed_at": "2015-10-28T18:41:50Z",
+  "homepage": null,
+  "size": 102,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cuu508": 7
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 8565,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:22.389Z"
+}

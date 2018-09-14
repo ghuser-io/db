@@ -1,0 +1,92 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "CSCI2961-01-Fall2016",
+  "full_name": "rcos/CSCI2961-01-Fall2016",
+  "owner": "rcos",
+  "private": false,
+  "html_url": "https://github.com/rcos/CSCI2961-01-Fall2016",
+  "description": "Fall 2016 Class",
+  "fork": false,
+  "url": "https://api.github.com/repos/rcos/CSCI2961-01-Fall2016",
+  "languages_url": "https://api.github.com/repos/rcos/CSCI2961-01-Fall2016/languages",
+  "pulls_url": "https://api.github.com/repos/rcos/CSCI2961-01-Fall2016/pulls{/number}",
+  "created_at": "2016-08-22T12:17:18Z",
+  "updated_at": "2017-09-19T04:25:41Z",
+  "pushed_at": "2017-03-31T12:43:47Z",
+  "homepage": null,
+  "size": 105271,
+  "stargazers_count": 8,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "rcos",
+    "id": 778001,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc3ODAwMQ==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/778001?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/rcos",
+    "html_url": "https://github.com/rcos",
+    "followers_url": "https://api.github.com/users/rcos/followers",
+    "following_url": "https://api.github.com/users/rcos/following{/other_user}",
+    "gists_url": "https://api.github.com/users/rcos/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/rcos/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/rcos/subscriptions",
+    "organizations_url": "https://api.github.com/users/rcos/orgs",
+    "repos_url": "https://api.github.com/users/rcos/repos",
+    "events_url": "https://api.github.com/users/rcos/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/rcos/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "JCBird1012": 1,
+    "chinrw": 3,
+    "Phansa": 47,
+    "mskmoorthy": 64
+  },
+  "pulls_authors": [
+    "Phansa",
+    "chinrw",
+    "JCBird1012"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1112116,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 676038,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 315690,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 8809,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 1867,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 1135,
+      "color": "#89e051"
+    },
+    "R": {
+      "bytes": 936,
+      "color": "#198CE7"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:06.390Z"
+}

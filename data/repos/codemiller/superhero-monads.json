@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "superhero-monads",
+  "full_name": "codemiller/superhero-monads",
+  "owner": "codemiller",
+  "private": false,
+  "html_url": "https://github.com/codemiller/superhero-monads",
+  "description": "Code and slides for Codemania 'Monads to the Rescue' presentation",
+  "fork": false,
+  "url": "https://api.github.com/repos/codemiller/superhero-monads",
+  "languages_url": "https://api.github.com/repos/codemiller/superhero-monads/languages",
+  "pulls_url": "https://api.github.com/repos/codemiller/superhero-monads/pulls{/number}",
+  "created_at": "2013-03-13T10:47:38Z",
+  "updated_at": "2018-08-07T20:09:06Z",
+  "pushed_at": "2014-05-12T22:33:07Z",
+  "homepage": "",
+  "size": 3099,
+  "stargazers_count": 14,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "philderbeast": 1,
+    "codemiller": 40
+  },
+  "pulls_authors": [
+    "philderbeast"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 26198,
+      "color": "#b07219"
+    },
+    "F#": {
+      "bytes": 19153,
+      "color": "#b845fc"
+    },
+    "Haskell": {
+      "bytes": 11692,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:36.766Z"
+}

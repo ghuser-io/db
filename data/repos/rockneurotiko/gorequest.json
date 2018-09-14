@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gorequest",
+  "full_name": "rockneurotiko/gorequest",
+  "owner": "rockneurotiko",
+  "private": false,
+  "html_url": "https://github.com/rockneurotiko/gorequest",
+  "description": "GoRequest -- Simplified HTTP client ( inspired by nodejs SuperAgent )",
+  "fork": true,
+  "url": "https://api.github.com/repos/rockneurotiko/gorequest",
+  "languages_url": "https://api.github.com/repos/rockneurotiko/gorequest/languages",
+  "pulls_url": "https://api.github.com/repos/rockneurotiko/gorequest/pulls{/number}",
+  "created_at": "2015-06-27T18:36:10Z",
+  "updated_at": "2018-07-04T15:18:07Z",
+  "pushed_at": "2015-10-24T16:20:34Z",
+  "homepage": "http://parnurzeal.github.io/gorequest/",
+  "size": 472,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "smallnest": 1,
+    "pencil001": 1,
+    "na-ga": 1,
+    "alaingilbert": 1,
+    "killix": 1,
+    "jaytaylor": 1,
+    "dafang": 1,
+    "jdxcode": 1,
+    "MiLk": 1,
+    "austinov": 1,
+    "QuentinPerez": 2,
+    "rockneurotiko": 3,
+    "kemadz": 3,
+    "nightlyone": 4,
+    "parnurzeal": 179
+  },
+  "pulls_authors": [
+    "jqs7"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 41740,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:52.138Z"
+}

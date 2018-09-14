@@ -1,0 +1,33 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "surf.virtuoso_protocol",
+  "full_name": "cuu508/surf.virtuoso_protocol",
+  "owner": "cuu508",
+  "private": false,
+  "html_url": "https://github.com/cuu508/surf.virtuoso_protocol",
+  "description": "surf SPARQL protocol plugin for the Virtuoso backend",
+  "fork": true,
+  "url": "https://api.github.com/repos/cuu508/surf.virtuoso_protocol",
+  "languages_url": "https://api.github.com/repos/cuu508/surf.virtuoso_protocol/languages",
+  "pulls_url": "https://api.github.com/repos/cuu508/surf.virtuoso_protocol/pulls{/number}",
+  "created_at": "2011-03-10T12:15:04Z",
+  "updated_at": "2012-12-25T08:56:40Z",
+  "pushed_at": "2012-06-20T10:54:29Z",
+  "homepage": "",
+  "size": 576,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {},
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 32383,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:24.179Z"
+}

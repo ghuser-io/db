@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "webmirror-front",
+  "full_name": "timvdalen/webmirror-front",
+  "owner": "timvdalen",
+  "private": false,
+  "html_url": "https://github.com/timvdalen/webmirror-front",
+  "description": "Inspired by HannahMitt/HomeMirror, but using a webpage instead of a native app",
+  "fork": false,
+  "url": "https://api.github.com/repos/timvdalen/webmirror-front",
+  "languages_url": "https://api.github.com/repos/timvdalen/webmirror-front/languages",
+  "pulls_url": "https://api.github.com/repos/timvdalen/webmirror-front/pulls{/number}",
+  "created_at": "2015-10-11T21:40:00Z",
+  "updated_at": "2016-01-19T23:24:34Z",
+  "pushed_at": "2015-10-12T20:06:32Z",
+  "homepage": null,
+  "size": 400,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "timvdalen": 10
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 3207,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 2201,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 340,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:55.339Z"
+}

@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tsuki",
+  "full_name": "har777/tsuki",
+  "owner": "har777",
+  "private": false,
+  "html_url": "https://github.com/har777/tsuki",
+  "description": "Interactive sql querying from data files.",
+  "fork": false,
+  "url": "https://api.github.com/repos/har777/tsuki",
+  "languages_url": "https://api.github.com/repos/har777/tsuki/languages",
+  "pulls_url": "https://api.github.com/repos/har777/tsuki/pulls{/number}",
+  "created_at": "2018-07-14T15:47:28Z",
+  "updated_at": "2018-07-15T14:44:55Z",
+  "pushed_at": "2018-07-15T14:43:00Z",
+  "homepage": null,
+  "size": 9,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "har777": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 2411,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T22:30:23.938Z"
+}

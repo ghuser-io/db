@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cybros.github.io",
+  "full_name": "Cybros/cybros.github.io",
+  "owner": "Cybros",
+  "private": false,
+  "html_url": "https://github.com/Cybros/cybros.github.io",
+  "description": "Official Website of CybrosX",
+  "fork": false,
+  "url": "https://api.github.com/repos/Cybros/cybros.github.io",
+  "languages_url": "https://api.github.com/repos/Cybros/cybros.github.io/languages",
+  "created_at": "2017-10-18T10:19:53Z",
+  "updated_at": "2018-06-23T16:30:41Z",
+  "pushed_at": "2018-05-04T13:41:54Z",
+  "homepage": "http://cybros.xyz",
+  "size": 23873,
+  "stargazers_count": 4,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "Cybros",
+    "id": 31142069,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMxMTQyMDY5",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/31142069?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Cybros",
+    "html_url": "https://github.com/Cybros",
+    "followers_url": "https://api.github.com/users/Cybros/followers",
+    "following_url": "https://api.github.com/users/Cybros/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Cybros/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Cybros/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Cybros/subscriptions",
+    "organizations_url": "https://api.github.com/users/Cybros/orgs",
+    "repos_url": "https://api.github.com/users/Cybros/repos",
+    "events_url": "https://api.github.com/users/Cybros/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Cybros/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "realslimshanky": 1,
+    "sunilsj99": 1,
+    "schedutron": 4,
+    "divyanshu-rawat": 5,
+    "ayushoriginal": 7,
+    "karanagarwal17": 13,
+    "punit-agarwal": 15,
+    "yashovardhanagrawal": 22
+  },
+  "languages": {
+    "CSS": {
+      "bytes": 184080,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 59344,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 30327,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/Cybros/cybros.github.io/pulls{/number}",
+  "pulls_authors": [
+    "Rupeshiya",
+    "realslimshanky",
+    "punit-agarwal",
+    "yashovardhanagrawal",
+    "ayushoriginal",
+    "karanagarwal17"
+  ]
+}

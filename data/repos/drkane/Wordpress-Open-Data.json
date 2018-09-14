@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Wordpress-Open-Data",
+  "full_name": "drkane/Wordpress-Open-Data",
+  "owner": "drkane",
+  "private": false,
+  "html_url": "https://github.com/drkane/Wordpress-Open-Data",
+  "description": "A plugin for Wordpress which adds open data functionality by instantly creating an open api for your data. The plugin allows the creation of multiple data tables, which can then be accessed by restful URLs as HTML, XML, json, KML and CSV data. Individual data items can also be accessed in these formats.",
+  "fork": false,
+  "url": "https://api.github.com/repos/drkane/Wordpress-Open-Data",
+  "languages_url": "https://api.github.com/repos/drkane/Wordpress-Open-Data/languages",
+  "pulls_url": "https://api.github.com/repos/drkane/Wordpress-Open-Data/pulls{/number}",
+  "created_at": "2011-10-01T15:38:06Z",
+  "updated_at": "2014-07-10T02:39:00Z",
+  "pushed_at": "2012-04-15T00:02:36Z",
+  "homepage": "",
+  "size": 876,
+  "stargazers_count": 4,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "drkane": 10
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 2787523,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 2861,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T05:01:02.200Z"
+}

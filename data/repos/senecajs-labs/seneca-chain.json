@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "seneca-chain",
+  "full_name": "senecajs-labs/seneca-chain",
+  "owner": "senecajs-labs",
+  "private": false,
+  "html_url": "https://github.com/senecajs-labs/seneca-chain",
+  "description": "API chaining for seneca",
+  "fork": false,
+  "url": "https://api.github.com/repos/senecajs-labs/seneca-chain",
+  "languages_url": "https://api.github.com/repos/senecajs-labs/seneca-chain/languages",
+  "pulls_url": "https://api.github.com/repos/senecajs-labs/seneca-chain/pulls{/number}",
+  "created_at": "2016-08-15T12:43:03Z",
+  "updated_at": "2018-05-28T21:39:24Z",
+  "pushed_at": "2018-05-28T21:40:46Z",
+  "homepage": null,
+  "size": 9,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "senecajs-labs",
+    "id": 20533869,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIwNTMzODY5",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/20533869?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/senecajs-labs",
+    "html_url": "https://github.com/senecajs-labs",
+    "followers_url": "https://api.github.com/users/senecajs-labs/followers",
+    "following_url": "https://api.github.com/users/senecajs-labs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/senecajs-labs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/senecajs-labs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/senecajs-labs/subscriptions",
+    "organizations_url": "https://api.github.com/users/senecajs-labs/orgs",
+    "repos_url": "https://api.github.com/users/senecajs-labs/repos",
+    "events_url": "https://api.github.com/users/senecajs-labs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/senecajs-labs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "rjrodger": 1,
+    "mcdonnelldean": 3
+  },
+  "pulls_authors": [
+    "mcdonnelldean"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2118,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:27.197Z"
+}

@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "repaintless",
+  "full_name": "szynszyliszys/repaintless",
+  "owner": "szynszyliszys",
+  "private": false,
+  "html_url": "https://github.com/szynszyliszys/repaintless",
+  "description": "Library for fast CSS Animations",
+  "fork": false,
+  "url": "https://api.github.com/repos/szynszyliszys/repaintless",
+  "languages_url": "https://api.github.com/repos/szynszyliszys/repaintless/languages",
+  "pulls_url": "https://api.github.com/repos/szynszyliszys/repaintless/pulls{/number}",
+  "created_at": "2016-02-18T17:17:15Z",
+  "updated_at": "2018-09-01T02:53:07Z",
+  "pushed_at": "2018-07-03T14:00:41Z",
+  "homepage": "http://szynszyliszys.github.io/repaintless/",
+  "size": 114,
+  "stargazers_count": 937,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "pvnr0082t": 1,
+    "basiam": 1,
+    "szynszyliszys": 28
+  },
+  "pulls_authors": [
+    "Boldewyn",
+    "pvnr0082t",
+    "jaydiablo",
+    "basiam"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 61469,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 2155,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 1441,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:57:51.372Z"
+}

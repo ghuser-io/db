@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nodeboats-material",
+  "full_name": "notthetup/nodeboats-material",
+  "owner": "notthetup",
+  "private": false,
+  "html_url": "https://github.com/notthetup/nodeboats-material",
+  "description": "Materials for a NodeBoats workshop",
+  "fork": false,
+  "url": "https://api.github.com/repos/notthetup/nodeboats-material",
+  "languages_url": "https://api.github.com/repos/notthetup/nodeboats-material/languages",
+  "pulls_url": "https://api.github.com/repos/notthetup/nodeboats-material/pulls{/number}",
+  "created_at": "2014-11-02T10:10:47Z",
+  "updated_at": "2018-04-25T05:02:03Z",
+  "pushed_at": "2015-05-23T12:04:26Z",
+  "homepage": "",
+  "size": 26446,
+  "stargazers_count": 24,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "TimMcMahon": 1,
+    "serrynaimo": 1,
+    "shurru": 1,
+    "gitter-badger": 1,
+    "cheeaun": 1,
+    "sayanee": 19,
+    "notthetup": 66
+  },
+  "pulls_authors": [
+    "gitter-badger",
+    "TimMcMahon",
+    "serrynaimo",
+    "cheeaun"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 770,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 66,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-10T19:00:02.341Z"
+}

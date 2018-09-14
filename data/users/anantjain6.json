@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "anantjain6",
+  "ghuser_created_at": "2018-07-28T23:49:50.034Z",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/22341750?v=4",
+  "html_url": "https://github.com/anantjain6",
+  "organizations_url": "https://api.github.com/users/anantjain6/orgs",
+  "repos_url": "https://api.github.com/users/anantjain6/repos",
+  "type": "User",
+  "name": "Anant Jain",
+  "company": "JSSATEN",
+  "blog": "www.anantjain.me",
+  "location": "India",
+  "email": "anantjain60@gmail.com",
+  "bio": "Web Developer | Open Source Contributor",
+  "created_at": "2016-09-21T08:45:25Z",
+  "updated_at": "2018-09-07T11:26:35Z",
+  "organizations": [
+    "fossasia",
+    "ncs-jss",
+    "OpenGenus"
+  ],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:09:21.292Z",
+    "repos": [
+      "ncs-jss/Proj_mx02",
+      "anantjain6/HackerRank",
+      "anantjain6/github-slideshow",
+      "anantjain6/Bulk-BIT.LY-shorter",
+      "anantjain6/phpmyadmin",
+      "phpmyadmin/phpmyadmin",
+      "sedg-jss/edc-web",
+      "shishir2635/edc-web",
+      "MMIL/MMIL-Website-V2",
+      "anantjain6/Short-URL",
+      "anantjain6/Login-with-Facebook",
+      "anantjain6/Bulk-URL-facebook-debugger",
+      "anantjain6/Bulk-goo.gl-shorter",
+      "anantjain6/Facebook-style-post-loading-placeholder",
+      "anantjain6/markdown-portfolio",
+      "anantjain6/healthify",
+      "ncs-jss/plexus"
+    ]
+  },
+  "public_gists": 0
+}

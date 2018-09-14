@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sleeptime",
+  "full_name": "timrach/sleeptime",
+  "owner": "timrach",
+  "private": false,
+  "html_url": "https://github.com/timrach/sleeptime",
+  "description": "node.js module to detect when the system wakes up from sleep mode and calls a callback function.",
+  "fork": false,
+  "url": "https://api.github.com/repos/timrach/sleeptime",
+  "languages_url": "https://api.github.com/repos/timrach/sleeptime/languages",
+  "pulls_url": "https://api.github.com/repos/timrach/sleeptime/pulls{/number}",
+  "created_at": "2014-07-19T21:29:40Z",
+  "updated_at": "2018-06-22T09:02:57Z",
+  "pushed_at": "2018-03-31T22:59:44Z",
+  "homepage": null,
+  "size": 5,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mkg20001": 1,
+    "timrach": 2,
+    "richardschneider": 3
+  },
+  "pulls_authors": [
+    "richardschneider",
+    "mkg20001"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1816,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:27.971Z"
+}

@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dockvpn",
+  "full_name": "jpetazzo/dockvpn",
+  "owner": "jpetazzo",
+  "private": false,
+  "html_url": "https://github.com/jpetazzo/dockvpn",
+  "description": "Recipe to build an OpenVPN image for Docker",
+  "fork": false,
+  "url": "https://api.github.com/repos/jpetazzo/dockvpn",
+  "languages_url": "https://api.github.com/repos/jpetazzo/dockvpn/languages",
+  "pulls_url": "https://api.github.com/repos/jpetazzo/dockvpn/pulls{/number}",
+  "created_at": "2013-09-03T00:02:20Z",
+  "updated_at": "2018-09-12T16:40:06Z",
+  "pushed_at": "2018-05-23T14:48:08Z",
+  "homepage": null,
+  "size": 16,
+  "stargazers_count": 704,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "alkmim": 1,
+    "mdp": 1,
+    "n-johnson": 1,
+    "moul": 1,
+    "orkaa": 1,
+    "paimpozhil": 1,
+    "Tuinslak": 1,
+    "aviau": 2,
+    "jpetazzo": 7
+  },
+  "pulls_authors": [
+    "alkmim",
+    "mdp",
+    "n-johnson",
+    "yanggongbi",
+    "gegere",
+    "moul",
+    "orkaa",
+    "ClashTheBunny",
+    "aviau",
+    "paimpozhil",
+    "Tuinslak"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 2817,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T16:45:29.918Z"
+}

@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "termicode",
+  "full_name": "Konfire/termicode",
+  "owner": "Konfire",
+  "private": false,
+  "html_url": "https://github.com/Konfire/termicode",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/Konfire/termicode",
+  "languages_url": "https://api.github.com/repos/Konfire/termicode/languages",
+  "pulls_url": "https://api.github.com/repos/Konfire/termicode/pulls{/number}",
+  "created_at": "2017-02-22T08:11:14Z",
+  "updated_at": "2017-11-27T13:26:13Z",
+  "pushed_at": "2017-11-27T13:25:38Z",
+  "homepage": null,
+  "size": 4,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "Konfire",
+    "id": 33180400,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMzMTgwNDAw",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/33180400?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Konfire",
+    "html_url": "https://github.com/Konfire",
+    "followers_url": "https://api.github.com/users/Konfire/followers",
+    "following_url": "https://api.github.com/users/Konfire/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Konfire/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Konfire/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Konfire/subscriptions",
+    "organizations_url": "https://api.github.com/users/Konfire/orgs",
+    "repos_url": "https://api.github.com/users/Konfire/repos",
+    "events_url": "https://api.github.com/users/Konfire/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Konfire/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "imjog": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CSS": {
+      "bytes": 3589,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 3239,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 752,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-03T18:26:34.821Z"
+}

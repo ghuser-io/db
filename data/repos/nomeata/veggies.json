@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "veggies",
+  "full_name": "nomeata/veggies",
+  "owner": "nomeata",
+  "private": false,
+  "html_url": "https://github.com/nomeata/veggies",
+  "description": "Hopefully verifiable code generation in GHC",
+  "fork": false,
+  "url": "https://api.github.com/repos/nomeata/veggies",
+  "languages_url": "https://api.github.com/repos/nomeata/veggies/languages",
+  "pulls_url": "https://api.github.com/repos/nomeata/veggies/pulls{/number}",
+  "created_at": "2017-03-21T15:18:39Z",
+  "updated_at": "2018-07-25T03:29:41Z",
+  "pushed_at": "2017-05-10T20:19:39Z",
+  "homepage": null,
+  "size": 3226,
+  "stargazers_count": 82,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "nomeata": 125
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Haskell": {
+      "bytes": 2519664,
+      "color": "#5e5086"
+    },
+    "C": {
+      "bytes": 470912,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 57499,
+      "color": "#f34b7d"
+    },
+    "Shell": {
+      "bytes": 42120,
+      "color": "#89e051"
+    },
+    "M4": {
+      "bytes": 11531,
+      "color": "#ccc"
+    },
+    "Objective-C": {
+      "bytes": 10888,
+      "color": "#438eff"
+    },
+    "Makefile": {
+      "bytes": 5577,
+      "color": "#427819"
+    },
+    "LLVM": {
+      "bytes": 1152,
+      "color": "#185619"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:07.697Z"
+}

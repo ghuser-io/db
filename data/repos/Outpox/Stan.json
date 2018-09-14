@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Stan",
+  "full_name": "Outpox/Stan",
+  "owner": "Outpox",
+  "private": false,
+  "html_url": "https://github.com/Outpox/Stan",
+  "description": "Display Nancy (France) trams coming soon next to your position.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Outpox/Stan",
+  "languages_url": "https://api.github.com/repos/Outpox/Stan/languages",
+  "pulls_url": "https://api.github.com/repos/Outpox/Stan/pulls{/number}",
+  "created_at": "2015-01-20T22:39:53Z",
+  "updated_at": "2017-02-16T23:33:19Z",
+  "pushed_at": "2016-06-28T15:55:55Z",
+  "homepage": "http://chronostan.fr",
+  "size": 1341,
+  "stargazers_count": 1,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Outpox": 14,
+    "CBRPLX": 34
+  },
+  "pulls_authors": [
+    "CBRPLX"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 77989,
+      "color": "#4F5D95"
+    },
+    "CSS": {
+      "bytes": 32251,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 29862,
+      "color": "#f1e05a"
+    },
+    "Ruby": {
+      "bytes": 312,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T00:07:16.114Z"
+}

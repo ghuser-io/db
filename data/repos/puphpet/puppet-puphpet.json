@@ -1,0 +1,114 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "puppet-puphpet",
+  "full_name": "puphpet/puppet-puphpet",
+  "owner": "puphpet",
+  "private": false,
+  "html_url": "https://github.com/puphpet/puppet-puphpet",
+  "description": "PuPHPet-specific things",
+  "fork": false,
+  "url": "https://api.github.com/repos/puphpet/puppet-puphpet",
+  "languages_url": "https://api.github.com/repos/puphpet/puppet-puphpet/languages",
+  "pulls_url": "https://api.github.com/repos/puphpet/puppet-puphpet/pulls{/number}",
+  "created_at": "2013-06-21T04:17:44Z",
+  "updated_at": "2018-03-24T19:22:26Z",
+  "pushed_at": "2018-05-09T11:45:02Z",
+  "homepage": null,
+  "size": 348,
+  "stargazers_count": 15,
+  "language": "Puppet",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "puphpet",
+    "id": 4490619,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0OTA2MTk=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/4490619?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/puphpet",
+    "html_url": "https://github.com/puphpet",
+    "followers_url": "https://api.github.com/users/puphpet/followers",
+    "following_url": "https://api.github.com/users/puphpet/following{/other_user}",
+    "gists_url": "https://api.github.com/users/puphpet/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/puphpet/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/puphpet/subscriptions",
+    "organizations_url": "https://api.github.com/users/puphpet/orgs",
+    "repos_url": "https://api.github.com/users/puphpet/repos",
+    "events_url": "https://api.github.com/users/puphpet/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/puphpet/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "catalinux": 1,
+    "markjaquith": 1,
+    "d-ph": 1,
+    "StudioMaX": 1,
+    "dkreuer": 1,
+    "webit4me": 1,
+    "clempat": 1,
+    "dol": 1,
+    "frastel": 2,
+    "chrisamoore": 4,
+    "jtreminio": 382
+  },
+  "pulls_authors": [
+    "mheesters",
+    "dol",
+    "catalinux",
+    "kaznovac",
+    "2ec0b4",
+    "SebTM",
+    "Venorcis",
+    "markjaquith",
+    "d-ph",
+    "StudioMaX",
+    "yguedidi",
+    "dkreuer",
+    "kfonce",
+    "webit4me",
+    "jackson-dean",
+    "MichaelMackus",
+    "clempat",
+    "beporter",
+    "mcrumm",
+    "mattalexx",
+    "MadmanMonty",
+    "alehkot",
+    "kusmierz",
+    "rogeriopradoj",
+    "chrisamoore",
+    "saimaz"
+  ],
+  "languages": {
+    "Puppet": {
+      "bytes": 140380,
+      "color": "#302B6D"
+    },
+    "Ruby": {
+      "bytes": 11391,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 5763,
+      "color": "#89e051"
+    },
+    "HTML": {
+      "bytes": 5047,
+      "color": "#e34c26"
+    },
+    "Pascal": {
+      "bytes": 875,
+      "color": "#E3F171"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:26.318Z"
+}

@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "contracts",
+  "full_name": "meta-commit/contracts",
+  "owner": "meta-commit",
+  "private": false,
+  "html_url": "https://github.com/meta-commit/contracts",
+  "description": "Agreements for meta commit extension",
+  "fork": false,
+  "url": "https://api.github.com/repos/meta-commit/contracts",
+  "languages_url": "https://api.github.com/repos/meta-commit/contracts/languages",
+  "pulls_url": "https://api.github.com/repos/meta-commit/contracts/pulls{/number}",
+  "created_at": "2017-10-07T14:27:56Z",
+  "updated_at": "2018-01-23T21:10:27Z",
+  "pushed_at": "2018-02-15T22:33:09Z",
+  "homepage": "",
+  "size": 15,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "meta-commit",
+    "id": 32596125,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMyNTk2MTI1",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/32596125?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/meta-commit",
+    "html_url": "https://github.com/meta-commit",
+    "followers_url": "https://api.github.com/users/meta-commit/followers",
+    "following_url": "https://api.github.com/users/meta-commit/following{/other_user}",
+    "gists_url": "https://api.github.com/users/meta-commit/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/meta-commit/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/meta-commit/subscriptions",
+    "organizations_url": "https://api.github.com/users/meta-commit/orgs",
+    "repos_url": "https://api.github.com/users/meta-commit/repos",
+    "events_url": "https://api.github.com/users/meta-commit/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/meta-commit/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "usernam3": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 9003,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 131,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:15.338Z"
+}

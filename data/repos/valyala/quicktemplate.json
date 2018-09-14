@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 1,
+    "escholtz": 1,
+    "stereosteve": 2,
+    "dAdAbird": 2,
+    "valyala": 217
+  },
+  "name": "quicktemplate",
+  "full_name": "valyala/quicktemplate",
+  "owner": "valyala",
+  "private": false,
+  "html_url": "https://github.com/valyala/quicktemplate",
+  "description": "Fast, powerful, yet easy to use template engine for Go. Optimized for speed, zero memory allocations in hot paths. Up to 20x faster than html/template",
+  "fork": false,
+  "url": "https://api.github.com/repos/valyala/quicktemplate",
+  "languages_url": "https://api.github.com/repos/valyala/quicktemplate/languages",
+  "created_at": "2016-03-06T21:42:01Z",
+  "updated_at": "2018-09-12T17:39:05Z",
+  "pushed_at": "2018-09-06T01:18:10Z",
+  "homepage": "",
+  "size": 244,
+  "stargazers_count": 1085,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "Go": {
+      "bytes": 130430,
+      "color": "#375eab"
+    },
+    "Smarty": {
+      "bytes": 179,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T23:45:58.810Z",
+  "pulls_url": "https://api.github.com/repos/valyala/quicktemplate/pulls{/number}",
+  "pulls_authors": [
+    "Calinou",
+    "guytish",
+    "stereosteve",
+    "dAdAbird",
+    "escholtz"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "twitter-scraper",
+  "full_name": "kennethreitz/twitter-scraper",
+  "owner": "kennethreitz",
+  "private": false,
+  "html_url": "https://github.com/kennethreitz/twitter-scraper",
+  "description": "Scrape the Twitter Frontend API without authentication.",
+  "fork": false,
+  "url": "https://api.github.com/repos/kennethreitz/twitter-scraper",
+  "languages_url": "https://api.github.com/repos/kennethreitz/twitter-scraper/languages",
+  "created_at": "2018-02-22T14:58:34Z",
+  "updated_at": "2018-09-12T03:59:02Z",
+  "pushed_at": "2018-05-16T16:35:34Z",
+  "homepage": "",
+  "size": 48,
+  "stargazers_count": 1090,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ferguras": 1,
+    "marius92mc": 1,
+    "DiSiqueira": 1,
+    "egnha": 1,
+    "aldnav": 3,
+    "Red5d": 4,
+    "kennethreitz": 24
+  },
+  "languages": {
+    "Python": {
+      "bytes": 6569,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:47.215Z",
+  "pulls_url": "https://api.github.com/repos/kennethreitz/twitter-scraper/pulls{/number}",
+  "pulls_authors": [
+    "bildzeitung",
+    "therumbler",
+    "BenQuigley",
+    "Recursing",
+    "andrewkoltsov",
+    "ferguras",
+    "marius92mc",
+    "danielfr3",
+    "Red5d",
+    "lucaskanashiro",
+    "DiSiqueira",
+    "cuongnv23",
+    "egnha",
+    "aldnav",
+    "georgeglessner"
+  ]
+}

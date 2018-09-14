@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nvm",
+  "full_name": "phutchins/nvm",
+  "owner": "phutchins",
+  "private": false,
+  "html_url": "https://github.com/phutchins/nvm",
+  "description": "Chef cookbook for setting up NVM from creationix's github repository.",
+  "fork": true,
+  "url": "https://api.github.com/repos/phutchins/nvm",
+  "languages_url": "https://api.github.com/repos/phutchins/nvm/languages",
+  "pulls_url": "https://api.github.com/repos/phutchins/nvm/pulls{/number}",
+  "created_at": "2014-10-07T13:54:57Z",
+  "updated_at": "2018-04-29T16:30:44Z",
+  "pushed_at": "2016-06-17T04:55:52Z",
+  "homepage": "http://community.opscode.com/cookbooks/nvm",
+  "size": 50,
+  "stargazers_count": 12,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bouk": 1,
+    "gionn": 1,
+    "artifactsauce": 1,
+    "motns": 4,
+    "lbdremy": 14
+  },
+  "pulls_authors": [
+    "ellerbrock",
+    "ajkerr",
+    "phutchins",
+    "bouk",
+    "gionn",
+    "brunorubin",
+    "artifactsauce",
+    "samuelbohler"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 13342,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 302,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T16:48:29.227Z"
+}

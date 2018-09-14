@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Matt-OS",
+  "full_name": "MattRyder/Matt-OS",
+  "owner": "MattRyder",
+  "private": false,
+  "html_url": "https://github.com/MattRyder/Matt-OS",
+  "description": "An x86-based hobby OS, written in C.",
+  "fork": false,
+  "url": "https://api.github.com/repos/MattRyder/Matt-OS",
+  "languages_url": "https://api.github.com/repos/MattRyder/Matt-OS/languages",
+  "pulls_url": "https://api.github.com/repos/MattRyder/Matt-OS/pulls{/number}",
+  "created_at": "2011-10-17T16:48:57Z",
+  "updated_at": "2018-02-28T17:58:59Z",
+  "pushed_at": "2014-03-11T14:22:48Z",
+  "homepage": "",
+  "size": 710,
+  "stargazers_count": 5,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "bitdeli-chef": 1,
+    "MattRyder": 33
+  },
+  "pulls_authors": [
+    "bitdeli-chef"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 13024,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 5778,
+      "color": "#f34b7d"
+    },
+    "Assembly": {
+      "bytes": 3905,
+      "color": "#6E4C13"
+    },
+    "Shell": {
+      "bytes": 2135,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T00:06:00.540Z"
+}

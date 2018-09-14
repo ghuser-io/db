@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "python-bluezero",
+  "full_name": "ukBaz/python-bluezero",
+  "owner": "ukBaz",
+  "private": false,
+  "html_url": "https://github.com/ukBaz/python-bluezero",
+  "description": "A simple Python interface to Bluez",
+  "fork": false,
+  "url": "https://api.github.com/repos/ukBaz/python-bluezero",
+  "languages_url": "https://api.github.com/repos/ukBaz/python-bluezero/languages",
+  "pulls_url": "https://api.github.com/repos/ukBaz/python-bluezero/pulls{/number}",
+  "created_at": "2016-01-07T11:57:01Z",
+  "updated_at": "2018-09-13T12:19:00Z",
+  "pushed_at": "2018-08-04T16:33:39Z",
+  "homepage": null,
+  "size": 351,
+  "stargazers_count": 90,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "philsippl": 1,
+    "boardend": 1,
+    "tyten": 1,
+    "alexisgeoffrey": 1,
+    "btashton": 1,
+    "mdxs": 1,
+    "WayneKeenan": 2,
+    "cotsog": 3,
+    "mr499": 19,
+    "ukBaz": 182
+  },
+  "pulls_authors": [
+    "ukBaz",
+    "philsippl",
+    "boardend",
+    "mr499",
+    "tyten",
+    "alexisgeoffrey",
+    "btashton",
+    "WayneKeenan",
+    "mdxs",
+    "cotsog"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 260222,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 2045,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T16:28:32.512Z"
+}

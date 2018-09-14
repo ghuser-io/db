@@ -1,0 +1,241 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "faust",
+  "full_name": "grame-cncm/faust",
+  "owner": "grame-cncm",
+  "private": false,
+  "html_url": "https://github.com/grame-cncm/faust",
+  "description": "Functional programming language for signal processing and sound synthesis",
+  "fork": false,
+  "url": "https://api.github.com/repos/grame-cncm/faust",
+  "languages_url": "https://api.github.com/repos/grame-cncm/faust/languages",
+  "pulls_url": "https://api.github.com/repos/grame-cncm/faust/pulls{/number}",
+  "created_at": "2016-11-05T13:09:11Z",
+  "updated_at": "2018-09-13T17:03:42Z",
+  "pushed_at": "2018-09-13T14:39:03Z",
+  "homepage": "http://faust.grame.fr",
+  "size": 244525,
+  "stargazers_count": 688,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master-dev",
+  "organization": {
+    "login": "grame-cncm",
+    "id": 13569769,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzNTY5NzY5",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/13569769?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/grame-cncm",
+    "html_url": "https://github.com/grame-cncm",
+    "followers_url": "https://api.github.com/users/grame-cncm/followers",
+    "following_url": "https://api.github.com/users/grame-cncm/following{/other_user}",
+    "gists_url": "https://api.github.com/users/grame-cncm/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/grame-cncm/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/grame-cncm/subscriptions",
+    "organizations_url": "https://api.github.com/users/grame-cncm/orgs",
+    "repos_url": "https://api.github.com/users/grame-cncm/repos",
+    "events_url": "https://api.github.com/users/grame-cncm/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/grame-cncm/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "programLyrique": 1,
+    "harryhaaren": 1,
+    "glen-anderson": 1,
+    "yurivict": 1,
+    "boqs": 1,
+    "topisani": 1,
+    "kisielk": 1,
+    "tomoyanonymous": 1,
+    "llloret": 1,
+    "mzuther": 1,
+    "gierschv": 1,
+    "kumardeepakr3": 1,
+    "abique": 1,
+    "nicobou": 2,
+    "capocasa": 2,
+    "dfaligertwood": 2,
+    "radarsat1": 2,
+    "gogins": 3,
+    "acarabott": 3,
+    "x42": 3,
+    "marcecj": 3,
+    "jcelerier": 4,
+    "pingdynasty": 7,
+    "andrewbest": 7,
+    "baktery": 7,
+    "pierreguillot": 9,
+    "pinbe": 10,
+    "kaoskorobase": 16,
+    "olilarkin": 20,
+    "sdenoux": 34,
+    "umlaeute": 37,
+    "rpayami": 38,
+    "mikesol": 142,
+    "og0": 147,
+    "timblechmann": 149,
+    "agraef": 159,
+    "josmithiii": 247,
+    "rmichon": 254,
+    "dfober": 336,
+    "orlarey": 1811,
+    "sletz": 4337
+  },
+  "pulls_authors": [
+    "programLyrique",
+    "pierreguillot",
+    "harryhaaren",
+    "glen-anderson",
+    "DragonSifu",
+    "Astellon",
+    "agraef",
+    "dfober",
+    "thiolliere",
+    "nicobou",
+    "florian-grond",
+    "boqs",
+    "topisani",
+    "jcelerier",
+    "yurivict",
+    "gogins",
+    "AskePit",
+    "acarabott",
+    "RuolunWeng",
+    "kisielk",
+    "capocasa",
+    "tomoyanonymous",
+    "theodupre",
+    "pingdynasty",
+    "umlaeute",
+    "llloret",
+    "dfaligertwood",
+    "mzuther",
+    "aalbouy1",
+    "gierschv",
+    "kumardeepakr3"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 28105294,
+      "color": "#f1e05a"
+    },
+    "C++": {
+      "bytes": 14266716,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 936507,
+      "color": "#555555"
+    },
+    "Objective-C": {
+      "bytes": 456971,
+      "color": "#438eff"
+    },
+    "Shell": {
+      "bytes": 444663,
+      "color": "#89e051"
+    },
+    "Java": {
+      "bytes": 368276,
+      "color": "#b07219"
+    },
+    "Objective-C++": {
+      "bytes": 325765,
+      "color": "#6866fb"
+    },
+    "HTML": {
+      "bytes": 297431,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 169031,
+      "color": "#427819"
+    },
+    "CMake": {
+      "bytes": 67382,
+      "color": "#ccc"
+    },
+    "Mathematica": {
+      "bytes": 62684,
+      "color": "#ccc"
+    },
+    "Python": {
+      "bytes": 49893,
+      "color": "#3572A5"
+    },
+    "C#": {
+      "bytes": 44484,
+      "color": "#178600"
+    },
+    "Ruby": {
+      "bytes": 37703,
+      "color": "#701516"
+    },
+    "Rust": {
+      "bytes": 22198,
+      "color": "#dea584"
+    },
+    "Emacs Lisp": {
+      "bytes": 15605,
+      "color": "#c065db"
+    },
+    "Max": {
+      "bytes": 12787,
+      "color": "#c4a79c"
+    },
+    "LLVM": {
+      "bytes": 8253,
+      "color": "#185619"
+    },
+    "Roff": {
+      "bytes": 7354,
+      "color": "#ecdebe"
+    },
+    "CSS": {
+      "bytes": 6807,
+      "color": "#563d7c"
+    },
+    "Batchfile": {
+      "bytes": 6444,
+      "color": "#C1F12E"
+    },
+    "WebAssembly": {
+      "bytes": 6008,
+      "color": "#04133b"
+    },
+    "R": {
+      "bytes": 4933,
+      "color": "#198CE7"
+    },
+    "Vim script": {
+      "bytes": 2579,
+      "color": "#199f4b"
+    },
+    "TeX": {
+      "bytes": 1705,
+      "color": "#3D6117"
+    },
+    "QMake": {
+      "bytes": 1042,
+      "color": "#ccc"
+    },
+    "Matlab": {
+      "bytes": 744,
+      "color": "#e16737"
+    },
+    "Dockerfile": {
+      "bytes": 449,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-13T23:51:35.353Z"
+}

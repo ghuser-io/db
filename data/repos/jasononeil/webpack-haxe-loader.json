@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "webpack-haxe-loader",
+  "full_name": "jasononeil/webpack-haxe-loader",
+  "owner": "jasononeil",
+  "private": false,
+  "html_url": "https://github.com/jasononeil/webpack-haxe-loader",
+  "description": "Webpack loader for the Haxe programming language.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jasononeil/webpack-haxe-loader",
+  "languages_url": "https://api.github.com/repos/jasononeil/webpack-haxe-loader/languages",
+  "pulls_url": "https://api.github.com/repos/jasononeil/webpack-haxe-loader/pulls{/number}",
+  "created_at": "2017-06-06T12:20:40Z",
+  "updated_at": "2018-09-04T07:45:11Z",
+  "pushed_at": "2018-09-04T07:45:10Z",
+  "homepage": "",
+  "size": 186,
+  "stargazers_count": 24,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mikicho": 1,
+    "kLabz": 11,
+    "elsassph": 34,
+    "jasononeil": 43
+  },
+  "pulls_authors": [
+    "kLabz",
+    "elsassph",
+    "jasononeil",
+    "mikicho"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 32434,
+      "color": "#f1e05a"
+    },
+    "Haxe": {
+      "bytes": 10473,
+      "color": "#df7900"
+    },
+    "Shell": {
+      "bytes": 133,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:48.560Z"
+}

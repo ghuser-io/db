@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "react-table-acula",
+  "full_name": "securingsincity/react-table-acula",
+  "owner": "securingsincity",
+  "private": false,
+  "html_url": "https://github.com/securingsincity/react-table-acula",
+  "description": "A series of react components for tables",
+  "fork": false,
+  "url": "https://api.github.com/repos/securingsincity/react-table-acula",
+  "languages_url": "https://api.github.com/repos/securingsincity/react-table-acula/languages",
+  "pulls_url": "https://api.github.com/repos/securingsincity/react-table-acula/pulls{/number}",
+  "created_at": "2015-03-12T14:05:12Z",
+  "updated_at": "2017-03-24T13:05:37Z",
+  "pushed_at": "2015-08-29T19:12:14Z",
+  "homepage": null,
+  "size": 3515,
+  "stargazers_count": 8,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "toddbluhm": 1,
+    "securingsincity": 20
+  },
+  "pulls_authors": [
+    "toddbluhm"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 28768,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1667,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T00:33:41.633Z"
+}

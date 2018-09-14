@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "urlss",
+  "full_name": "schollz/urlss",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/urlss",
+  "description": "URL shortening service",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/urlss",
+  "languages_url": "https://api.github.com/repos/schollz/urlss/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/urlss/pulls{/number}",
+  "created_at": "2017-01-24T16:17:49Z",
+  "updated_at": "2018-07-20T13:03:37Z",
+  "pushed_at": "2017-09-30T13:12:30Z",
+  "homepage": "https://urls.schollz.com",
+  "size": 7374,
+  "stargazers_count": 4,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 34
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 5133,
+      "color": "#375eab"
+    },
+    "HTML": {
+      "bytes": 1901,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:37.667Z"
+}

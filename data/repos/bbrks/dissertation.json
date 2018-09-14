@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dissertation",
+  "full_name": "bbrks/dissertation",
+  "owner": "bbrks",
+  "private": false,
+  "html_url": "https://github.com/bbrks/dissertation",
+  "description": "📜 Aberystwyth University final year dissertation/major project for CS394",
+  "fork": false,
+  "url": "https://api.github.com/repos/bbrks/dissertation",
+  "languages_url": "https://api.github.com/repos/bbrks/dissertation/languages",
+  "pulls_url": "https://api.github.com/repos/bbrks/dissertation/pulls{/number}",
+  "created_at": "2015-01-22T00:13:34Z",
+  "updated_at": "2018-04-08T19:54:49Z",
+  "pushed_at": "2015-05-08T11:33:46Z",
+  "homepage": "",
+  "size": 10414,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": true,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "bbrks": 88
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T04:57:39.838Z"
+}

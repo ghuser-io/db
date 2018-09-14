@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "convergame-engine",
+  "full_name": "convergame/convergame-engine",
+  "owner": "convergame",
+  "private": false,
+  "html_url": "https://github.com/convergame/convergame-engine",
+  "description": "👾The Convergame engine is a HTML5 game engine combining web concepts with game development. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/convergame/convergame-engine",
+  "languages_url": "https://api.github.com/repos/convergame/convergame-engine/languages",
+  "pulls_url": "https://api.github.com/repos/convergame/convergame-engine/pulls{/number}",
+  "created_at": "2015-08-09T21:51:52Z",
+  "updated_at": "2018-06-22T16:30:01Z",
+  "pushed_at": "2016-06-28T08:59:46Z",
+  "homepage": "",
+  "size": 698,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx_id": "LGPL-3.0",
+    "url": "https://api.github.com/licenses/lgpl-3.0",
+    "node_id": "MDc6TGljZW5zZTEy"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "convergame",
+    "id": 14150084,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0MTUwMDg0",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/14150084?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/convergame",
+    "html_url": "https://github.com/convergame",
+    "followers_url": "https://api.github.com/users/convergame/followers",
+    "following_url": "https://api.github.com/users/convergame/following{/other_user}",
+    "gists_url": "https://api.github.com/users/convergame/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/convergame/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/convergame/subscriptions",
+    "organizations_url": "https://api.github.com/users/convergame/orgs",
+    "repos_url": "https://api.github.com/users/convergame/repos",
+    "events_url": "https://api.github.com/users/convergame/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/convergame/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jbrooksuk": 4,
+    "ojdon": 48,
+    "DivineOmega": 64
+  },
+  "pulls_authors": [
+    "DivineOmega",
+    "ojdon",
+    "jbrooksuk"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 29994,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:49.795Z"
+}

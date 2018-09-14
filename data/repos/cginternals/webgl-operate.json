@@ -1,0 +1,91 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "webgl-operate",
+  "full_name": "cginternals/webgl-operate",
+  "owner": "cginternals",
+  "private": false,
+  "html_url": "https://github.com/cginternals/webgl-operate",
+  "description": "A TypeScript based WebGL rendering framework.",
+  "fork": false,
+  "url": "https://api.github.com/repos/cginternals/webgl-operate",
+  "languages_url": "https://api.github.com/repos/cginternals/webgl-operate/languages",
+  "pulls_url": "https://api.github.com/repos/cginternals/webgl-operate/pulls{/number}",
+  "created_at": "2018-01-11T08:44:50Z",
+  "updated_at": "2018-09-12T21:10:35Z",
+  "pushed_at": "2018-09-12T21:10:38Z",
+  "homepage": "https://webgl-operate.org",
+  "size": 1565,
+  "stargazers_count": 16,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "cginternals",
+    "id": 13125552,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzMTI1NTUy",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/13125552?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/cginternals",
+    "html_url": "https://github.com/cginternals",
+    "followers_url": "https://api.github.com/users/cginternals/followers",
+    "following_url": "https://api.github.com/users/cginternals/following{/other_user}",
+    "gists_url": "https://api.github.com/users/cginternals/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/cginternals/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/cginternals/subscriptions",
+    "organizations_url": "https://api.github.com/users/cginternals/orgs",
+    "repos_url": "https://api.github.com/users/cginternals/repos",
+    "events_url": "https://api.github.com/users/cginternals/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/cginternals/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "sbusch42": 1,
+    "chistopher": 6,
+    "bwasty": 7,
+    "p-otto": 9,
+    "scheibel": 10,
+    "greenkeeper[bot]": 10,
+    "cgcostume": 575
+  },
+  "pulls_authors": [
+    "cgcostume",
+    "p-otto",
+    "bwasty",
+    "scheibel",
+    "anne-gropler",
+    "greenkeeper[bot]",
+    "chistopher"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 625224,
+      "color": "#2b7489"
+    },
+    "JavaScript": {
+      "bytes": 7046,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 5724,
+      "color": "#563d7c"
+    },
+    "GLSL": {
+      "bytes": 4690,
+      "color": "#ccc"
+    },
+    "HTML": {
+      "bytes": 3608,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T23:45:50.139Z"
+}

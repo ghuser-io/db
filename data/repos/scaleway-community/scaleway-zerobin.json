@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "scaleway-zerobin",
+  "full_name": "scaleway-community/scaleway-zerobin",
+  "owner": "scaleway-community",
+  "private": false,
+  "html_url": "https://github.com/scaleway-community/scaleway-zerobin",
+  "description": ":minidisc: Official ZeroBin image on Scaleway",
+  "fork": false,
+  "url": "https://api.github.com/repos/scaleway-community/scaleway-zerobin",
+  "languages_url": "https://api.github.com/repos/scaleway-community/scaleway-zerobin/languages",
+  "pulls_url": "https://api.github.com/repos/scaleway-community/scaleway-zerobin/pulls{/number}",
+  "created_at": "2015-07-01T12:16:39Z",
+  "updated_at": "2018-05-04T06:58:54Z",
+  "pushed_at": "2018-05-02T15:22:26Z",
+  "homepage": "",
+  "size": 8,
+  "stargazers_count": 2,
+  "language": "Makefile",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "scaleway-community",
+    "id": 14197047,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0MTk3MDQ3",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/14197047?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/scaleway-community",
+    "html_url": "https://github.com/scaleway-community",
+    "followers_url": "https://api.github.com/users/scaleway-community/followers",
+    "following_url": "https://api.github.com/users/scaleway-community/following{/other_user}",
+    "gists_url": "https://api.github.com/users/scaleway-community/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/scaleway-community/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/scaleway-community/subscriptions",
+    "organizations_url": "https://api.github.com/users/scaleway-community/orgs",
+    "repos_url": "https://api.github.com/users/scaleway-community/repos",
+    "events_url": "https://api.github.com/users/scaleway-community/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/scaleway-community/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "QuentinPerez": 1,
+    "tbillon": 2,
+    "moul": 3,
+    "Hatrix42": 4
+  },
+  "pulls_authors": [
+    "Hatrix42",
+    "tbillon",
+    "QuentinPerez"
+  ],
+  "languages": {
+    "Makefile": {
+      "bytes": 336,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 227,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:00.193Z"
+}

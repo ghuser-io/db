@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jBlote",
+  "full_name": "ccallebs/jBlote",
+  "owner": "ccallebs",
+  "private": false,
+  "html_url": "https://github.com/ccallebs/jBlote",
+  "description": "A not-so-minimalistic javascript templating engine.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ccallebs/jBlote",
+  "languages_url": "https://api.github.com/repos/ccallebs/jBlote/languages",
+  "pulls_url": "https://api.github.com/repos/ccallebs/jBlote/pulls{/number}",
+  "created_at": "2012-05-03T20:21:25Z",
+  "updated_at": "2013-10-07T15:52:29Z",
+  "pushed_at": "2012-06-15T23:15:32Z",
+  "homepage": null,
+  "size": 152,
+  "stargazers_count": 2,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ccallebs": 26
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 8093,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:06.394Z"
+}

@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-wolfram",
+  "full_name": "Krognol/go-wolfram",
+  "owner": "Krognol",
+  "private": false,
+  "html_url": "https://github.com/Krognol/go-wolfram",
+  "description": "Single file library for the Wolfram Alpha API",
+  "fork": false,
+  "url": "https://api.github.com/repos/Krognol/go-wolfram",
+  "languages_url": "https://api.github.com/repos/Krognol/go-wolfram/languages",
+  "created_at": "2016-09-22T22:00:06Z",
+  "updated_at": "2018-06-10T15:11:25Z",
+  "pushed_at": "2018-06-10T15:11:24Z",
+  "homepage": "",
+  "size": 25,
+  "stargazers_count": 31,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "DiSiqueira": 1,
+    "Seklfreak": 2,
+    "Krognol": 22
+  },
+  "languages": {
+    "Go": {
+      "bytes": 12395,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/Krognol/go-wolfram/pulls{/number}",
+  "pulls_authors": [
+    "DiSiqueira",
+    "Seklfreak"
+  ]
+}

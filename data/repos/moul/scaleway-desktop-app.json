@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "scaleway-desktop-app",
+  "full_name": "moul/scaleway-desktop-app",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/scaleway-desktop-app",
+  "description": ":computer: Scaleway Desktop Application (irccloud.com)",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/scaleway-desktop-app",
+  "languages_url": "https://api.github.com/repos/moul/scaleway-desktop-app/languages",
+  "pulls_url": "https://api.github.com/repos/moul/scaleway-desktop-app/pulls{/number}",
+  "created_at": "2015-04-20T18:50:52Z",
+  "updated_at": "2018-08-03T08:01:17Z",
+  "pushed_at": "2018-08-18T16:19:05Z",
+  "homepage": "",
+  "size": 4043,
+  "stargazers_count": 7,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 12
+  },
+  "pulls_authors": [
+    "imgbot[bot]",
+    "renovate[bot]"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2275,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 278,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 122,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:37.510Z"
+}

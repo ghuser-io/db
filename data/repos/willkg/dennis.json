@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dennis",
+  "full_name": "willkg/dennis",
+  "owner": "willkg",
+  "private": false,
+  "html_url": "https://github.com/willkg/dennis",
+  "description": "Dennis is a set of utilities for working with PO files to ease development and improve quality.",
+  "fork": false,
+  "url": "https://api.github.com/repos/willkg/dennis",
+  "languages_url": "https://api.github.com/repos/willkg/dennis/languages",
+  "pulls_url": "https://api.github.com/repos/willkg/dennis/pulls{/number}",
+  "created_at": "2013-05-14T02:23:18Z",
+  "updated_at": "2018-08-26T18:51:15Z",
+  "pushed_at": "2018-08-26T18:46:49Z",
+  "homepage": "",
+  "size": 336,
+  "stargazers_count": 38,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jayvdb": 2,
+    "willkg": 232
+  },
+  "pulls_authors": [
+    "willkg",
+    "Jibec",
+    "jayvdb"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 124122,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-27T06:19:00.704Z"
+}

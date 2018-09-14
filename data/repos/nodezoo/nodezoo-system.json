@@ -1,0 +1,87 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nodezoo-system",
+  "full_name": "nodezoo/nodezoo-system",
+  "owner": "nodezoo",
+  "private": false,
+  "html_url": "https://github.com/nodezoo/nodezoo-system",
+  "description": "Automation and scripts for the nodezoo system.",
+  "fork": false,
+  "url": "https://api.github.com/repos/nodezoo/nodezoo-system",
+  "languages_url": "https://api.github.com/repos/nodezoo/nodezoo-system/languages",
+  "pulls_url": "https://api.github.com/repos/nodezoo/nodezoo-system/pulls{/number}",
+  "created_at": "2016-02-18T11:39:36Z",
+  "updated_at": "2018-08-12T12:43:21Z",
+  "pushed_at": "2017-11-27T22:04:08Z",
+  "homepage": "http://nodezoo.com",
+  "size": 106,
+  "stargazers_count": 51,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "nodezoo",
+    "id": 2903118,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI5MDMxMTg=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2903118?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/nodezoo",
+    "html_url": "https://github.com/nodezoo",
+    "followers_url": "https://api.github.com/users/nodezoo/followers",
+    "following_url": "https://api.github.com/users/nodezoo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/nodezoo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/nodezoo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/nodezoo/subscriptions",
+    "organizations_url": "https://api.github.com/users/nodezoo/orgs",
+    "repos_url": "https://api.github.com/users/nodezoo/repos",
+    "events_url": "https://api.github.com/users/nodezoo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/nodezoo/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mihaidma": 2,
+    "shanel262": 4,
+    "matt-oc": 4,
+    "Georgette": 6,
+    "mirceaalexandru": 10,
+    "rjrodger": 17,
+    "AdrianRossouw": 18,
+    "mcdonnelldean": 22
+  },
+  "pulls_authors": [
+    "mcdonnelldean",
+    "KristinaMatuleviciute",
+    "mihaidma",
+    "andrewcashmore",
+    "mirceaalexandru",
+    "Georgette",
+    "shanel262",
+    "matt-oc",
+    "AdrianRossouw",
+    "CodeWriterWriter"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6062,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 1234,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 923,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:29.027Z"
+}

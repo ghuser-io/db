@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cpython-builder",
+  "full_name": "travis-ci/cpython-builder",
+  "owner": "travis-ci",
+  "private": false,
+  "html_url": "https://github.com/travis-ci/cpython-builder",
+  "description": "Clones and builds CPython",
+  "fork": false,
+  "url": "https://api.github.com/repos/travis-ci/cpython-builder",
+  "languages_url": "https://api.github.com/repos/travis-ci/cpython-builder/languages",
+  "pulls_url": "https://api.github.com/repos/travis-ci/cpython-builder/pulls{/number}",
+  "created_at": "2015-03-06T07:15:35Z",
+  "updated_at": "2018-07-11T13:38:05Z",
+  "pushed_at": "2018-07-11T13:47:41Z",
+  "homepage": "",
+  "size": 83,
+  "stargazers_count": 5,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "default",
+  "organization": {
+    "login": "travis-ci",
+    "id": 639823,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYzOTgyMw==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/639823?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/travis-ci",
+    "html_url": "https://github.com/travis-ci",
+    "followers_url": "https://api.github.com/users/travis-ci/followers",
+    "following_url": "https://api.github.com/users/travis-ci/following{/other_user}",
+    "gists_url": "https://api.github.com/users/travis-ci/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/travis-ci/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/travis-ci/subscriptions",
+    "organizations_url": "https://api.github.com/users/travis-ci/orgs",
+    "repos_url": "https://api.github.com/users/travis-ci/repos",
+    "events_url": "https://api.github.com/users/travis-ci/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/travis-ci/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "edmorley": 1,
+    "jayvdb": 1,
+    "joepvd": 5,
+    "meatballhat": 18,
+    "BanzaiMan": 96
+  },
+  "pulls_authors": [
+    "joepvd",
+    "meatballhat",
+    "edmorley",
+    "BanzaiMan",
+    "jayvdb"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 3139,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

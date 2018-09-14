@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "brauhausjs",
+  "full_name": "homebrewing/brauhausjs",
+  "owner": "homebrewing",
+  "private": false,
+  "html_url": "https://github.com/homebrewing/brauhausjs",
+  "description": "A beer recipe calculator for homebrewing on servers and in browsers",
+  "fork": false,
+  "url": "https://api.github.com/repos/homebrewing/brauhausjs",
+  "languages_url": "https://api.github.com/repos/homebrewing/brauhausjs/languages",
+  "pulls_url": "https://api.github.com/repos/homebrewing/brauhausjs/pulls{/number}",
+  "created_at": "2013-02-04T01:37:40Z",
+  "updated_at": "2018-09-07T13:42:35Z",
+  "pushed_at": "2014-09-28T16:16:43Z",
+  "homepage": null,
+  "size": 774,
+  "stargazers_count": 109,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "homebrewing",
+    "id": 4745192,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ3NDUxOTI=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/4745192?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/homebrewing",
+    "html_url": "https://github.com/homebrewing",
+    "followers_url": "https://api.github.com/users/homebrewing/followers",
+    "following_url": "https://api.github.com/users/homebrewing/following{/other_user}",
+    "gists_url": "https://api.github.com/users/homebrewing/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/homebrewing/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/homebrewing/subscriptions",
+    "organizations_url": "https://api.github.com/users/homebrewing/orgs",
+    "repos_url": "https://api.github.com/users/homebrewing/repos",
+    "events_url": "https://api.github.com/users/homebrewing/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/homebrewing/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "chrismytton": 1,
+    "jonpacker": 3,
+    "danielgtaylor": 132
+  },
+  "pulls_authors": [
+    "chrismytton",
+    "jonpacker"
+  ],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 54222,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:47.615Z"
+}

@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "swiss-ui",
+  "full_name": "Boldewyn/swiss-ui",
+  "owner": "Boldewyn",
+  "private": false,
+  "html_url": "https://github.com/Boldewyn/swiss-ui",
+  "description": "A neutral jQuery UI theme",
+  "fork": false,
+  "url": "https://api.github.com/repos/Boldewyn/swiss-ui",
+  "languages_url": "https://api.github.com/repos/Boldewyn/swiss-ui/languages",
+  "pulls_url": "https://api.github.com/repos/Boldewyn/swiss-ui/pulls{/number}",
+  "created_at": "2011-05-16T20:40:05Z",
+  "updated_at": "2014-06-21T23:09:34Z",
+  "pushed_at": "2011-05-19T12:52:00Z",
+  "homepage": "http://boldewyn.github.com/swiss-ui/",
+  "size": 316,
+  "stargazers_count": 3,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Boldewyn": 11
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T04:57:56.673Z"
+}

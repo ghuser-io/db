@@ -1,0 +1,110 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "scroll-phat-hd",
+  "full_name": "pimoroni/scroll-phat-hd",
+  "owner": "pimoroni",
+  "private": false,
+  "html_url": "https://github.com/pimoroni/scroll-phat-hd",
+  "description": "Python library for Scroll pHAT HD",
+  "fork": false,
+  "url": "https://api.github.com/repos/pimoroni/scroll-phat-hd",
+  "languages_url": "https://api.github.com/repos/pimoroni/scroll-phat-hd/languages",
+  "pulls_url": "https://api.github.com/repos/pimoroni/scroll-phat-hd/pulls{/number}",
+  "created_at": "2017-01-27T15:50:53Z",
+  "updated_at": "2018-09-01T23:30:39Z",
+  "pushed_at": "2018-08-28T16:30:04Z",
+  "homepage": "https://shop.pimoroni.com/products/scroll-phat-hd",
+  "size": 305,
+  "stargazers_count": 82,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pimoroni",
+    "id": 2399917,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzOTk5MTc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2399917?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pimoroni",
+    "html_url": "https://github.com/pimoroni",
+    "followers_url": "https://api.github.com/users/pimoroni/followers",
+    "following_url": "https://api.github.com/users/pimoroni/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pimoroni/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pimoroni/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pimoroni/subscriptions",
+    "organizations_url": "https://api.github.com/users/pimoroni/orgs",
+    "repos_url": "https://api.github.com/users/pimoroni/repos",
+    "events_url": "https://api.github.com/users/pimoroni/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pimoroni/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "brentajones": 1,
+    "wild4gadgets": 1,
+    "tomnz": 1,
+    "raspberrycoulis": 1,
+    "tiziano88": 1,
+    "dglaude": 1,
+    "chr15murray": 1,
+    "ForToffee": 1,
+    "paolopal": 3,
+    "sandyjmacdonald": 3,
+    "MrGJones": 3,
+    "pbpraha": 9,
+    "ali1234": 10,
+    "RogueM": 13,
+    "Gadgetoid": 111
+  },
+  "pulls_authors": [
+    "nubtwo",
+    "paolopal",
+    "brentajones",
+    "wild4gadgets",
+    "Godley",
+    "tomnz",
+    "dglaude",
+    "raspberrycoulis",
+    "Gadgetoid",
+    "sandyjmacdonald",
+    "pbpraha",
+    "MrGJones",
+    "tiziano88",
+    "TheDiveO",
+    "ali1234",
+    "RogueM",
+    "chr15murray",
+    "ForToffee"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 211684,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 8734,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 1229,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1098,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 332,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:04.115Z"
+}

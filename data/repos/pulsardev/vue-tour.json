@@ -1,0 +1,88 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vue-tour",
+  "full_name": "pulsardev/vue-tour",
+  "owner": "pulsardev",
+  "private": false,
+  "html_url": "https://github.com/pulsardev/vue-tour",
+  "description": "Vue Tour is a lightweight, simple and customizable guided tour plugin for use with Vue.js. It provides a quick and easy way to guide your users through your application.",
+  "fork": false,
+  "url": "https://api.github.com/repos/pulsardev/vue-tour",
+  "languages_url": "https://api.github.com/repos/pulsardev/vue-tour/languages",
+  "pulls_url": "https://api.github.com/repos/pulsardev/vue-tour/pulls{/number}",
+  "created_at": "2018-02-20T00:07:39Z",
+  "updated_at": "2018-09-13T22:08:38Z",
+  "pushed_at": "2018-08-23T10:00:15Z",
+  "homepage": "https://pulsardev.github.io/vue-tour",
+  "size": 3614,
+  "stargazers_count": 515,
+  "language": "Vue",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pulsardev",
+    "id": 28827875,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI4ODI3ODc1",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/28827875?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pulsardev",
+    "html_url": "https://github.com/pulsardev",
+    "followers_url": "https://api.github.com/users/pulsardev/followers",
+    "following_url": "https://api.github.com/users/pulsardev/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pulsardev/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pulsardev/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pulsardev/subscriptions",
+    "organizations_url": "https://api.github.com/users/pulsardev/orgs",
+    "repos_url": "https://api.github.com/users/pulsardev/repos",
+    "events_url": "https://api.github.com/users/pulsardev/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pulsardev/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "reidjs": 1,
+    "CromonMS": 2,
+    "sylver-john": 2,
+    "mycarrysun": 12,
+    "Outpox": 21,
+    "mmorainville": 45
+  },
+  "pulls_authors": [
+    "zikolach",
+    "mycarrysun",
+    "ex7r3me",
+    "CromonMS",
+    "christian-fei",
+    "reidjs",
+    "lionel-bijaoui",
+    "mmorainville",
+    "Outpox"
+  ],
+  "languages": {
+    "Vue": {
+      "bytes": 8813,
+      "color": "#2c3e50"
+    },
+    "JavaScript": {
+      "bytes": 2999,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 729,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 300,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T23:56:28.347Z"
+}

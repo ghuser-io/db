@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-tax-api",
+  "full_name": "joshuaslate/node-tax-api",
+  "owner": "joshuaslate",
+  "private": false,
+  "html_url": "https://github.com/joshuaslate/node-tax-api",
+  "description": "Wrapper for free TaxAPI.io service. Allows you to request EU VAT rates as well as U.S. sales tax rates (by postal code).",
+  "fork": false,
+  "url": "https://api.github.com/repos/joshuaslate/node-tax-api",
+  "languages_url": "https://api.github.com/repos/joshuaslate/node-tax-api/languages",
+  "pulls_url": "https://api.github.com/repos/joshuaslate/node-tax-api/pulls{/number}",
+  "created_at": "2018-07-26T19:41:21Z",
+  "updated_at": "2018-09-08T15:20:17Z",
+  "pushed_at": "2018-07-27T19:52:32Z",
+  "homepage": null,
+  "size": 122,
+  "stargazers_count": 1,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "joshuaslate": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "TypeScript": {
+      "bytes": 7138,
+      "color": "#2b7489"
+    }
+  },
+  "fetched_at": "2018-09-08T17:09:17.747Z"
+}

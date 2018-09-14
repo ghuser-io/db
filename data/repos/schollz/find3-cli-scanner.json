@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "find3-cli-scanner",
+  "full_name": "schollz/find3-cli-scanner",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/find3-cli-scanner",
+  "description": "The command-line scanner that supports Bluetooth and WiFi",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/find3-cli-scanner",
+  "languages_url": "https://api.github.com/repos/schollz/find3-cli-scanner/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/find3-cli-scanner/pulls{/number}",
+  "created_at": "2018-03-02T18:17:52Z",
+  "updated_at": "2018-09-11T22:06:41Z",
+  "pushed_at": "2018-09-09T14:01:46Z",
+  "homepage": "https://www.internalpositioning.com/doc/tracking_your_computer.md",
+  "size": 84,
+  "stargazers_count": 40,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "tavalin": 1,
+    "hit0ri": 4,
+    "schollz": 68
+  },
+  "pulls_authors": [
+    "hit0ri",
+    "schollz",
+    "tavalin"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 23127,
+      "color": "#375eab"
+    },
+    "Dockerfile": {
+      "bytes": 3710,
+      "color": "#0db7ed"
+    },
+    "Makefile": {
+      "bytes": 330,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:28.845Z"
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sixtyfourterm",
+  "full_name": "agatti/sixtyfourterm",
+  "owner": "agatti",
+  "private": false,
+  "html_url": "https://github.com/agatti/sixtyfourterm",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/agatti/sixtyfourterm",
+  "languages_url": "https://api.github.com/repos/agatti/sixtyfourterm/languages",
+  "pulls_url": "https://api.github.com/repos/agatti/sixtyfourterm/pulls{/number}",
+  "created_at": "2018-03-09T15:52:53Z",
+  "updated_at": "2018-04-12T22:30:53Z",
+  "pushed_at": "2018-03-09T15:54:51Z",
+  "homepage": null,
+  "size": 96,
+  "stargazers_count": 1,
+  "language": "Objective-C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "agatti": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Objective-C": {
+      "bytes": 216421,
+      "color": "#438eff"
+    },
+    "Metal": {
+      "bytes": 4881,
+      "color": "#8f14e9"
+    }
+  },
+  "fetched_at": "2018-09-11T15:09:52.895Z"
+}

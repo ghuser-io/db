@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "getAwesomeness",
+  "full_name": "panzhangwang/getAwesomeness",
+  "owner": "panzhangwang",
+  "private": false,
+  "html_url": "https://github.com/panzhangwang/getAwesomeness",
+  "description": " Use this method to retrieve all amazing awesomeness from Github",
+  "fork": false,
+  "url": "https://api.github.com/repos/panzhangwang/getAwesomeness",
+  "languages_url": "https://api.github.com/repos/panzhangwang/getAwesomeness/languages",
+  "pulls_url": "https://api.github.com/repos/panzhangwang/getAwesomeness/pulls{/number}",
+  "created_at": "2014-12-16T00:28:53Z",
+  "updated_at": "2018-09-05T08:53:04Z",
+  "pushed_at": "2018-01-05T06:06:03Z",
+  "homepage": "https://getawesomeness.herokuapp.com/",
+  "size": 304,
+  "stargazers_count": 1080,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "khodges42": 1,
+    "facundofarias": 1,
+    "sobolevn": 1,
+    "iCHAIT": 1,
+    "josegonzalez": 1,
+    "RichardLitt": 1,
+    "drmonkeyninja": 1,
+    "TimothyDJones": 1,
+    "yas375": 1,
+    "koppor": 2,
+    "SangramChavan": 2,
+    "bungle": 2,
+    "deadcoder0904": 3,
+    "petk": 5,
+    "panzhangwang": 31
+  },
+  "pulls_authors": [
+    "khodges42",
+    "koppor",
+    "facundofarias",
+    "petk",
+    "deadcoder0904",
+    "SangramChavan",
+    "sobolevn",
+    "iCHAIT",
+    "josegonzalez",
+    "RichardLitt",
+    "drmonkeyninja",
+    "TimothyDJones",
+    "aleksandar-todorovic",
+    "bungle",
+    "yas375"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 25665,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 6491,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 2904,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-05T13:04:09.398Z"
+}

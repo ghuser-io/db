@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "python-sidchip",
+  "full_name": "Gadgetoid/python-sidchip",
+  "owner": "Gadgetoid",
+  "private": false,
+  "html_url": "https://github.com/Gadgetoid/python-sidchip",
+  "description": "Python-SIDChip represents the Commodore 64 SID chip in a clean, concise way. It's able to produce a list of registers for sending to real or emulated chips.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Gadgetoid/python-sidchip",
+  "languages_url": "https://api.github.com/repos/Gadgetoid/python-sidchip/languages",
+  "pulls_url": "https://api.github.com/repos/Gadgetoid/python-sidchip/pulls{/number}",
+  "created_at": "2016-07-15T07:50:32Z",
+  "updated_at": "2017-06-02T15:00:48Z",
+  "pushed_at": "2016-11-20T23:11:55Z",
+  "homepage": null,
+  "size": 277,
+  "stargazers_count": 4,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Gadgetoid": 12
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 386781,
+      "color": "#f34b7d"
+    },
+    "Shell": {
+      "bytes": 265869,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 22058,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 18208,
+      "color": "#427819"
+    },
+    "Perl": {
+      "bytes": 2554,
+      "color": "#0298c3"
+    },
+    "C": {
+      "bytes": 2257,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:11.647Z"
+}

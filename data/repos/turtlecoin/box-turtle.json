@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "box-turtle",
+  "full_name": "turtlecoin/box-turtle",
+  "owner": "turtlecoin",
+  "private": false,
+  "html_url": "https://github.com/turtlecoin/box-turtle",
+  "description": "Host Your Own Web Wallet In A Box",
+  "fork": true,
+  "url": "https://api.github.com/repos/turtlecoin/box-turtle",
+  "languages_url": "https://api.github.com/repos/turtlecoin/box-turtle/languages",
+  "pulls_url": "https://api.github.com/repos/turtlecoin/box-turtle/pulls{/number}",
+  "created_at": "2018-06-18T02:46:27Z",
+  "updated_at": "2018-08-22T16:13:26Z",
+  "pushed_at": "2018-08-19T23:37:30Z",
+  "homepage": "http://community.turtlecoin.lol",
+  "size": 3781,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "turtlecoin",
+    "id": 34389551,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM0Mzg5NTUx",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/34389551?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/turtlecoin",
+    "html_url": "https://github.com/turtlecoin",
+    "followers_url": "https://api.github.com/users/turtlecoin/followers",
+    "following_url": "https://api.github.com/users/turtlecoin/following{/other_user}",
+    "gists_url": "https://api.github.com/users/turtlecoin/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/turtlecoin/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/turtlecoin/subscriptions",
+    "organizations_url": "https://api.github.com/users/turtlecoin/orgs",
+    "repos_url": "https://api.github.com/users/turtlecoin/repos",
+    "events_url": "https://api.github.com/users/turtlecoin/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/turtlecoin/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "LucasObe": 1,
+    "ZedPea": 6,
+    "RocksteadyTC": 13,
+    "Watt3r": 30,
+    "brandonlehmann": 1
+  },
+  "pulls_authors": [
+    "Watt3r",
+    "LucasObe",
+    "ZedPea",
+    "rixombea",
+    "brandonlehmann"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 12143,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 8709,
+      "color": "#e34c26"
+    },
+    "Batchfile": {
+      "bytes": 726,
+      "color": "#C1F12E"
+    },
+    "Shell": {
+      "bytes": 698,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-22T17:14:50.152Z"
+}

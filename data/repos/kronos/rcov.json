@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rcov",
+  "full_name": "kronos/rcov",
+  "owner": "kronos",
+  "private": false,
+  "html_url": "https://github.com/kronos/rcov",
+  "description": "The new home of RCov on GitHub",
+  "fork": true,
+  "url": "https://api.github.com/repos/kronos/rcov",
+  "languages_url": "https://api.github.com/repos/kronos/rcov/languages",
+  "pulls_url": "https://api.github.com/repos/kronos/rcov/pulls{/number}",
+  "created_at": "2010-01-20T10:14:24Z",
+  "updated_at": "2012-12-13T22:07:33Z",
+  "pushed_at": "2010-01-20T10:19:59Z",
+  "homepage": "http://relevance.github.com/rcov",
+  "size": 761,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "kronos": 1,
+    "mdkent": 1,
+    "jgeiger": 1,
+    "mchung": 1,
+    "kofno": 1,
+    "clojure-site": 5,
+    "abedra": 14,
+    "rsanheim": 20,
+    "rubikitch": 28,
+    "spicycode": 44,
+    "mfp": 296
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 146402,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 71520,
+      "color": "#f1e05a"
+    },
+    "C": {
+      "bytes": 26681,
+      "color": "#555555"
+    },
+    "Java": {
+      "bytes": 12347,
+      "color": "#b07219"
+    },
+    "Emacs Lisp": {
+      "bytes": 5062,
+      "color": "#c065db"
+    },
+    "Vim script": {
+      "bytes": 914,
+      "color": "#199f4b"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:32.884Z"
+}

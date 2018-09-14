@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-infoblox",
+  "full_name": "fanatic/go-infoblox",
+  "owner": "fanatic",
+  "private": false,
+  "html_url": "https://github.com/fanatic/go-infoblox",
+  "description": "Golang Infoblox WAPI Library",
+  "fork": false,
+  "url": "https://api.github.com/repos/fanatic/go-infoblox",
+  "languages_url": "https://api.github.com/repos/fanatic/go-infoblox/languages",
+  "pulls_url": "https://api.github.com/repos/fanatic/go-infoblox/pulls{/number}",
+  "created_at": "2015-01-11T19:54:22Z",
+  "updated_at": "2018-08-19T15:00:14Z",
+  "pushed_at": "2018-08-19T15:00:12Z",
+  "homepage": null,
+  "size": 64,
+  "stargazers_count": 17,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "prudhvitella": 2,
+    "euforia": 3,
+    "JackBracken": 4,
+    "richardlock": 5,
+    "rtucker-mozilla": 6,
+    "fanatic": 7,
+    "ctrlaltdel121": 10
+  },
+  "pulls_authors": [
+    "rtucker-mozilla",
+    "rudhron",
+    "sylvainsf",
+    "Defilan",
+    "JackBracken",
+    "jrandall",
+    "andrewstucki",
+    "richardlock",
+    "prudhvitella",
+    "emdem",
+    "ctrlaltdel121",
+    "fanatic",
+    "euforia"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 41470,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T15:14:33.762Z"
+}

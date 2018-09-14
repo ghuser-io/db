@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fountain.vim",
+  "full_name": "vim-scripts/fountain.vim",
+  "owner": "vim-scripts",
+  "private": false,
+  "html_url": "https://github.com/vim-scripts/fountain.vim",
+  "description": " Syntax for Fountain screenplay files",
+  "fork": false,
+  "url": "https://api.github.com/repos/vim-scripts/fountain.vim",
+  "languages_url": "https://api.github.com/repos/vim-scripts/fountain.vim/languages",
+  "pulls_url": "https://api.github.com/repos/vim-scripts/fountain.vim/pulls{/number}",
+  "created_at": "2012-03-07T15:26:54Z",
+  "updated_at": "2018-05-27T14:42:48Z",
+  "pushed_at": "2018-05-21T18:00:51Z",
+  "homepage": "http://www.vim.org/scripts/script.php?script_id=3880",
+  "size": 187,
+  "stargazers_count": 10,
+  "language": "VimL",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "carsonfire": 5
+  },
+  "pulls_authors": [
+    "ctholho",
+    "mcchrish",
+    "mickboldon"
+  ],
+  "languages": {
+    "Vim script": {
+      "bytes": 3432,
+      "color": "#199f4b"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:36.943Z"
+}

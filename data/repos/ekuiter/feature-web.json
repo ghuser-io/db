@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "feature-web",
+  "full_name": "ekuiter/feature-web",
+  "owner": "ekuiter",
+  "private": false,
+  "html_url": "https://github.com/ekuiter/feature-web",
+  "description": "An integrated solution for feature-oriented programming",
+  "fork": false,
+  "url": "https://api.github.com/repos/ekuiter/feature-web",
+  "languages_url": "https://api.github.com/repos/ekuiter/feature-web/languages",
+  "pulls_url": "https://api.github.com/repos/ekuiter/feature-web/pulls{/number}",
+  "created_at": "2017-12-16T22:13:40Z",
+  "updated_at": "2018-09-12T12:18:54Z",
+  "pushed_at": "2018-03-24T11:22:47Z",
+  "homepage": "http://www.elias-kuiter.de/sonstiges/produktlinien/",
+  "size": 54,
+  "stargazers_count": 1,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx_id": "LGPL-3.0",
+    "url": "https://api.github.com/licenses/lgpl-3.0",
+    "node_id": "MDc6TGljZW5zZTEy"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ekuiter": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 13436,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 8593,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1003,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 904,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:42:16.108Z"
+}

@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "stack2cabal",
+  "full_name": "brunjlar/stack2cabal",
+  "owner": "brunjlar",
+  "private": false,
+  "html_url": "https://github.com/brunjlar/stack2cabal",
+  "description": "creating a cabal new-build configuration from a stack configuration",
+  "fork": false,
+  "url": "https://api.github.com/repos/brunjlar/stack2cabal",
+  "languages_url": "https://api.github.com/repos/brunjlar/stack2cabal/languages",
+  "pulls_url": "https://api.github.com/repos/brunjlar/stack2cabal/pulls{/number}",
+  "created_at": "2017-06-16T06:17:07Z",
+  "updated_at": "2018-07-30T14:46:56Z",
+  "pushed_at": "2018-05-08T15:59:57Z",
+  "homepage": null,
+  "size": 19,
+  "stargazers_count": 9,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "philderbeast": 1,
+    "brunjlar": 10
+  },
+  "pulls_authors": [
+    "philderbeast"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 9765,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:33.659Z"
+}

@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hitd",
+  "full_name": "hitd/hitd",
+  "owner": "hitd",
+  "private": false,
+  "html_url": "https://github.com/hitd/hitd",
+  "description": "hitd, a devOps microservices toolkit in Node.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/hitd/hitd",
+  "languages_url": "https://api.github.com/repos/hitd/hitd/languages",
+  "pulls_url": "https://api.github.com/repos/hitd/hitd/pulls{/number}",
+  "created_at": "2015-09-30T09:59:33Z",
+  "updated_at": "2015-09-30T23:18:24Z",
+  "pushed_at": "2015-10-05T08:54:06Z",
+  "homepage": "",
+  "size": 231,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "isc",
+    "name": "ISC License",
+    "spdx_id": "ISC",
+    "url": "https://api.github.com/licenses/isc",
+    "node_id": "MDc6TGljZW5zZTEw"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "hitd",
+    "id": 13584293,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzNTg0Mjkz",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/13584293?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hitd",
+    "html_url": "https://github.com/hitd",
+    "followers_url": "https://api.github.com/users/hitd/followers",
+    "following_url": "https://api.github.com/users/hitd/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hitd/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hitd/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hitd/subscriptions",
+    "organizations_url": "https://api.github.com/users/hitd/orgs",
+    "repos_url": "https://api.github.com/users/hitd/repos",
+    "events_url": "https://api.github.com/users/hitd/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hitd/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "etnbrd": 4,
+    "maxired": 12
+  },
+  "pulls_authors": [
+    "temsa"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 9199,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:28.505Z"
+}

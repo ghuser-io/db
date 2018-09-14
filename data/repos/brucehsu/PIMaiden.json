@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PIMaiden",
+  "full_name": "brucehsu/PIMaiden",
+  "owner": "brucehsu",
+  "private": false,
+  "html_url": "https://github.com/brucehsu/PIMaiden",
+  "description": "An extensible desktop widget that integrates many useful components, including web browser, ftp client, plurk client and more.",
+  "fork": false,
+  "url": "https://api.github.com/repos/brucehsu/PIMaiden",
+  "languages_url": "https://api.github.com/repos/brucehsu/PIMaiden/languages",
+  "pulls_url": "https://api.github.com/repos/brucehsu/PIMaiden/pulls{/number}",
+  "created_at": "2009-12-22T11:08:59Z",
+  "updated_at": "2013-10-26T19:14:59Z",
+  "pushed_at": "2009-12-29T12:47:33Z",
+  "homepage": "",
+  "size": 124,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "brucehsu": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 22895,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:08.243Z"
+}

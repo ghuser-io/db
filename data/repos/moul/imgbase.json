@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "imgbase",
+  "full_name": "moul/imgbase",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/imgbase",
+  "description": "Automatically embedded images as base64 strings in CSS-files",
+  "fork": true,
+  "url": "https://api.github.com/repos/moul/imgbase",
+  "languages_url": "https://api.github.com/repos/moul/imgbase/languages",
+  "pulls_url": "https://api.github.com/repos/moul/imgbase/pulls{/number}",
+  "created_at": "2012-09-10T03:45:34Z",
+  "updated_at": "2013-01-12T04:26:40Z",
+  "pushed_at": "2012-09-10T11:06:22Z",
+  "homepage": "",
+  "size": 123,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 2,
+    "icetan": 11
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2584,
+      "color": "#f1e05a"
+    },
+    "Perl": {
+      "bytes": 356,
+      "color": "#0298c3"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:56.507Z"
+}

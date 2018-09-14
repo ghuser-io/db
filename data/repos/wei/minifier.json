@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "minifier",
+  "full_name": "wei/minifier",
+  "owner": "wei",
+  "private": false,
+  "html_url": "https://github.com/wei/minifier",
+  "description": "Simple web interface for minifying HTML, JS, CSS using html-minifier.",
+  "fork": false,
+  "url": "https://api.github.com/repos/wei/minifier",
+  "languages_url": "https://api.github.com/repos/wei/minifier/languages",
+  "created_at": "2017-08-01T01:31:51Z",
+  "updated_at": "2018-08-13T12:28:20Z",
+  "pushed_at": "2018-08-13T12:30:49Z",
+  "homepage": "https://minifier.app",
+  "size": 1996,
+  "stargazers_count": 3,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "wei": 26,
+    "depfu[bot]": 2
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 22672,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 19184,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 6220,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z",
+  "pulls_url": "https://api.github.com/repos/wei/minifier/pulls{/number}",
+  "pulls_authors": [
+    "depfu[bot]",
+    "wei",
+    "fossabot"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pigeonsim",
+  "full_name": "sjg/pigeonsim",
+  "owner": "sjg",
+  "private": false,
+  "html_url": "https://github.com/sjg/pigeonsim",
+  "description": "Fly! Courtesy of this small project linking Kinect -> OpenNI -> Processing -> WebSockets -> CoffeeScript -> Google Earth API",
+  "fork": true,
+  "url": "https://api.github.com/repos/sjg/pigeonsim",
+  "languages_url": "https://api.github.com/repos/sjg/pigeonsim/languages",
+  "pulls_url": "https://api.github.com/repos/sjg/pigeonsim/pulls{/number}",
+  "created_at": "2012-10-07T09:55:55Z",
+  "updated_at": "2016-04-27T15:51:27Z",
+  "pushed_at": "2015-02-07T11:46:42Z",
+  "homepage": "",
+  "size": 2887,
+  "stargazers_count": 1,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sjg": 11,
+    "jawj": 95
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 363555,
+      "color": "#244776"
+    },
+    "Processing": {
+      "bytes": 122496,
+      "color": "#0096D8"
+    },
+    "JavaScript": {
+      "bytes": 58048,
+      "color": "#f1e05a"
+    },
+    "Java": {
+      "bytes": 11043,
+      "color": "#b07219"
+    },
+    "CSS": {
+      "bytes": 4960,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 1092,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:40.993Z"
+}

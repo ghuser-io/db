@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jekyll-everypolitician",
+  "full_name": "theyworkforyou/jekyll-everypolitician",
+  "owner": "theyworkforyou",
+  "private": false,
+  "html_url": "https://github.com/theyworkforyou/jekyll-everypolitician",
+  "description": "Use EveryPolitician data in Jekyll",
+  "fork": false,
+  "url": "https://api.github.com/repos/theyworkforyou/jekyll-everypolitician",
+  "languages_url": "https://api.github.com/repos/theyworkforyou/jekyll-everypolitician/languages",
+  "pulls_url": "https://api.github.com/repos/theyworkforyou/jekyll-everypolitician/pulls{/number}",
+  "created_at": "2015-12-02T15:14:39Z",
+  "updated_at": "2016-04-04T15:30:17Z",
+  "pushed_at": "2016-04-27T08:54:58Z",
+  "homepage": "http://everypolitician.org",
+  "size": 35,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "theyworkforyou",
+    "id": 17250791,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3MjUwNzkx",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/17250791?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/theyworkforyou",
+    "html_url": "https://github.com/theyworkforyou",
+    "followers_url": "https://api.github.com/users/theyworkforyou/followers",
+    "following_url": "https://api.github.com/users/theyworkforyou/following{/other_user}",
+    "gists_url": "https://api.github.com/users/theyworkforyou/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/theyworkforyou/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/theyworkforyou/subscriptions",
+    "organizations_url": "https://api.github.com/users/theyworkforyou/orgs",
+    "repos_url": "https://api.github.com/users/theyworkforyou/repos",
+    "events_url": "https://api.github.com/users/theyworkforyou/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/theyworkforyou/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "chrismytton": 42
+  },
+  "pulls_authors": [
+    "chrismytton"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 9009,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 115,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:39.433Z"
+}

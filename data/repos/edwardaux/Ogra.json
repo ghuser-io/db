@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Ogra",
+  "full_name": "edwardaux/Ogra",
+  "owner": "edwardaux",
+  "private": false,
+  "html_url": "https://github.com/edwardaux/Ogra",
+  "description": "A companion project for the Argo library that facilitates converting back from model objects into JSON",
+  "fork": false,
+  "url": "https://api.github.com/repos/edwardaux/Ogra",
+  "languages_url": "https://api.github.com/repos/edwardaux/Ogra/languages",
+  "pulls_url": "https://api.github.com/repos/edwardaux/Ogra/pulls{/number}",
+  "created_at": "2015-07-27T11:00:24Z",
+  "updated_at": "2018-07-31T16:50:33Z",
+  "pushed_at": "2017-05-12T07:30:38Z",
+  "homepage": "",
+  "size": 256,
+  "stargazers_count": 68,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Palleas": 1,
+    "RLovelett": 1,
+    "maarf": 1,
+    "mitsuse": 1,
+    "gcox": 1,
+    "gsampaio": 1,
+    "duffpod": 1,
+    "angerman": 3,
+    "petester42": 5,
+    "paulyoung": 19,
+    "edwardaux": 30
+  },
+  "pulls_authors": [
+    "Palleas",
+    "RLovelett",
+    "angerman",
+    "mitsuse",
+    "edwardaux",
+    "gcox",
+    "duffpod",
+    "petester42",
+    "gsampaio",
+    "paulyoung"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 11831,
+      "color": "#ffac45"
+    },
+    "Ruby": {
+      "bytes": 3542,
+      "color": "#701516"
+    },
+    "Objective-C": {
+      "bytes": 478,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:56.129Z"
+}

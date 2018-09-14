@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ninja-notify",
+  "full_name": "ninjablocks/ninja-notify",
+  "owner": "ninjablocks",
+  "private": false,
+  "html_url": "https://github.com/ninjablocks/ninja-notify",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/ninjablocks/ninja-notify",
+  "languages_url": "https://api.github.com/repos/ninjablocks/ninja-notify/languages",
+  "pulls_url": "https://api.github.com/repos/ninjablocks/ninja-notify/pulls{/number}",
+  "created_at": "2014-04-26T23:03:10Z",
+  "updated_at": "2015-07-12T04:02:53Z",
+  "pushed_at": "2014-08-18T22:18:47Z",
+  "homepage": null,
+  "size": 186,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "ninjablocks",
+    "id": 1392949,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzOTI5NDk=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/1392949?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ninjablocks",
+    "html_url": "https://github.com/ninjablocks",
+    "followers_url": "https://api.github.com/users/ninjablocks/followers",
+    "following_url": "https://api.github.com/users/ninjablocks/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ninjablocks/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ninjablocks/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ninjablocks/subscriptions",
+    "organizations_url": "https://api.github.com/users/ninjablocks/orgs",
+    "repos_url": "https://api.github.com/users/ninjablocks/repos",
+    "events_url": "https://api.github.com/users/ninjablocks/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ninjablocks/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "carlossg": 3,
+    "elliots": 4
+  },
+  "pulls_authors": [
+    "elliots",
+    "carlossg"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 10725,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T13:45:56.798Z"
+}

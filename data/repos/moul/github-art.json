@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "github-art",
+  "full_name": "moul/github-art",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/github-art",
+  "description": ":art: Github statistics calendar timeline art",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/github-art",
+  "languages_url": "https://api.github.com/repos/moul/github-art/languages",
+  "pulls_url": "https://api.github.com/repos/moul/github-art/pulls{/number}",
+  "created_at": "2013-02-22T20:19:41Z",
+  "updated_at": "2015-06-11T10:12:58Z",
+  "pushed_at": "2018-08-18T16:09:16Z",
+  "homepage": "",
+  "size": 24,
+  "stargazers_count": 3,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 35
+  },
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 9647,
+      "color": "#244776"
+    },
+    "JavaScript": {
+      "bytes": 192,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:50.859Z"
+}

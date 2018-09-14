@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "MazeBuilder",
+  "full_name": "owenlejeune/MazeBuilder",
+  "owner": "owenlejeune",
+  "private": false,
+  "html_url": "https://github.com/owenlejeune/MazeBuilder",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/owenlejeune/MazeBuilder",
+  "languages_url": "https://api.github.com/repos/owenlejeune/MazeBuilder/languages",
+  "pulls_url": "https://api.github.com/repos/owenlejeune/MazeBuilder/pulls{/number}",
+  "created_at": "2018-03-01T17:18:29Z",
+  "updated_at": "2018-08-18T02:00:58Z",
+  "pushed_at": "2018-04-18T23:03:47Z",
+  "homepage": null,
+  "size": 134,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "owenlejeune": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 15401,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:28.362Z"
+}

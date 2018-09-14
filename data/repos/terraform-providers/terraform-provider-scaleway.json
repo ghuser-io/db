@@ -1,0 +1,103 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "terraform-provider-scaleway",
+  "full_name": "terraform-providers/terraform-provider-scaleway",
+  "owner": "terraform-providers",
+  "private": false,
+  "html_url": "https://github.com/terraform-providers/terraform-provider-scaleway",
+  "description": "Terraform Scaleway provider",
+  "fork": false,
+  "url": "https://api.github.com/repos/terraform-providers/terraform-provider-scaleway",
+  "languages_url": "https://api.github.com/repos/terraform-providers/terraform-provider-scaleway/languages",
+  "pulls_url": "https://api.github.com/repos/terraform-providers/terraform-provider-scaleway/pulls{/number}",
+  "created_at": "2017-06-05T20:53:58Z",
+  "updated_at": "2018-09-12T06:45:10Z",
+  "pushed_at": "2018-09-12T06:45:12Z",
+  "homepage": "https://www.terraform.io/docs/providers/scaleway/",
+  "size": 2601,
+  "stargazers_count": 33,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mpl-2.0",
+    "name": "Mozilla Public License 2.0",
+    "spdx_id": "MPL-2.0",
+    "url": "https://api.github.com/licenses/mpl-2.0",
+    "node_id": "MDc6TGljZW5zZTE0"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "terraform-providers",
+    "id": 29154831,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI5MTU0ODMx",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/29154831?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/terraform-providers",
+    "html_url": "https://github.com/terraform-providers",
+    "followers_url": "https://api.github.com/users/terraform-providers/followers",
+    "following_url": "https://api.github.com/users/terraform-providers/following{/other_user}",
+    "gists_url": "https://api.github.com/users/terraform-providers/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/terraform-providers/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/terraform-providers/subscriptions",
+    "organizations_url": "https://api.github.com/users/terraform-providers/orgs",
+    "repos_url": "https://api.github.com/users/terraform-providers/repos",
+    "events_url": "https://api.github.com/users/terraform-providers/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/terraform-providers/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "sieben": 1,
+    "nicolaevladescu": 1,
+    "katbyte": 1,
+    "lunika": 1,
+    "aslafy-z": 1,
+    "kavu": 1,
+    "willemvv": 1,
+    "terrafoundry": 1,
+    "gechr": 1,
+    "kitsunde": 1,
+    "meyskens": 2,
+    "OJFord": 2,
+    "louis-paul": 2,
+    "Zhebr": 3,
+    "eallrich": 4,
+    "stack72": 4,
+    "radeksimko": 8,
+    "tombuildsstuff": 12,
+    "grubernaut": 15,
+    "nicolai86": 118
+  },
+  "pulls_authors": [
+    "nicolai86",
+    "tombuildsstuff",
+    "eallrich",
+    "sieben",
+    "nicolaevladescu",
+    "radeksimko",
+    "lunika",
+    "meyskens",
+    "aslafy-z",
+    "smola"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 111591,
+      "color": "#375eab"
+    },
+    "HTML": {
+      "bytes": 3234,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 2274,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 1875,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:54.354Z"
+}

@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ansible-role-simp_le",
+  "full_name": "L-P/ansible-role-simp_le",
+  "owner": "L-P",
+  "private": false,
+  "html_url": "https://github.com/L-P/ansible-role-simp_le",
+  "description": "Ansible role to install simp_le and generate certificates on Ubuntu/Debian.",
+  "fork": false,
+  "url": "https://api.github.com/repos/L-P/ansible-role-simp_le",
+  "languages_url": "https://api.github.com/repos/L-P/ansible-role-simp_le/languages",
+  "pulls_url": "https://api.github.com/repos/L-P/ansible-role-simp_le/pulls{/number}",
+  "created_at": "2015-12-22T10:31:17Z",
+  "updated_at": "2018-07-05T14:56:25Z",
+  "pushed_at": "2017-01-15T12:56:15Z",
+  "homepage": null,
+  "size": 32,
+  "stargazers_count": 15,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "anisse": 1,
+    "kak-tus": 1,
+    "La0": 1,
+    "JasperWallace": 10,
+    "L-P": 11
+  },
+  "pulls_authors": [
+    "anisse",
+    "JasperWallace",
+    "kak-tus",
+    "La0"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 3416,
+      "color": "#3572A5"
+    },
+    "Vim script": {
+      "bytes": 63,
+      "color": "#199f4b"
+    }
+  },
+  "fetched_at": "2018-09-11T23:07:59.747Z"
+}

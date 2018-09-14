@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sikr",
+  "full_name": "sikrvault/sikr",
+  "owner": "sikrvault",
+  "private": false,
+  "html_url": "https://github.com/sikrvault/sikr",
+  "description": "Sikre is a high-security backend API to store your passwords and sensitive data securely (like SSH keys and SSL certificates).",
+  "fork": false,
+  "url": "https://api.github.com/repos/sikrvault/sikr",
+  "languages_url": "https://api.github.com/repos/sikrvault/sikr/languages",
+  "pulls_url": "https://api.github.com/repos/sikrvault/sikr/pulls{/number}",
+  "created_at": "2014-07-08T13:54:38Z",
+  "updated_at": "2018-07-21T03:11:54Z",
+  "pushed_at": "2018-05-16T07:32:15Z",
+  "homepage": null,
+  "size": 257,
+  "stargazers_count": 31,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "sikrvault",
+    "id": 16351833,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2MzUxODMz",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/16351833?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/sikrvault",
+    "html_url": "https://github.com/sikrvault",
+    "followers_url": "https://api.github.com/users/sikrvault/followers",
+    "following_url": "https://api.github.com/users/sikrvault/following{/other_user}",
+    "gists_url": "https://api.github.com/users/sikrvault/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/sikrvault/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/sikrvault/subscriptions",
+    "organizations_url": "https://api.github.com/users/sikrvault/orgs",
+    "repos_url": "https://api.github.com/users/sikrvault/repos",
+    "events_url": "https://api.github.com/users/sikrvault/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/sikrvault/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "rockneurotiko": 1,
+    "oscarcp": 198
+  },
+  "pulls_authors": [
+    "rockneurotiko"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 87358,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:50.302Z"
+}

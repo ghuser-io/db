@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "raspberry-pi-turnkey",
+  "full_name": "schollz/raspberry-pi-turnkey",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/raspberry-pi-turnkey",
+  "description": "How to make a Raspberry Pi image that can be deployed anywhere and assigned to a WiFi network without SSH :ok_hand:",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/raspberry-pi-turnkey",
+  "languages_url": "https://api.github.com/repos/schollz/raspberry-pi-turnkey/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/raspberry-pi-turnkey/pulls{/number}",
+  "created_at": "2018-02-17T14:05:05Z",
+  "updated_at": "2018-09-08T18:54:49Z",
+  "pushed_at": "2018-06-25T13:53:56Z",
+  "homepage": "",
+  "size": 87,
+  "stargazers_count": 482,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "cclauss": 1,
+    "ilirb": 6,
+    "schollz": 58
+  },
+  "pulls_authors": [
+    "ilirb",
+    "cclauss",
+    "schollz"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 7249,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 1913,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1803,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 719,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:31.222Z"
+}

@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cms-dev.github.io",
+  "full_name": "cms-dev/cms-dev.github.io",
+  "owner": "cms-dev",
+  "private": false,
+  "html_url": "https://github.com/cms-dev/cms-dev.github.io",
+  "description": "Website for the cms-dev organization.",
+  "fork": false,
+  "url": "https://api.github.com/repos/cms-dev/cms-dev.github.io",
+  "languages_url": "https://api.github.com/repos/cms-dev/cms-dev.github.io/languages",
+  "pulls_url": "https://api.github.com/repos/cms-dev/cms-dev.github.io/pulls{/number}",
+  "created_at": "2014-02-06T18:11:33Z",
+  "updated_at": "2018-08-29T13:27:47Z",
+  "pushed_at": "2018-08-29T13:27:44Z",
+  "homepage": "http://cms-dev.github.io/",
+  "size": 1459,
+  "stargazers_count": 2,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "cms-dev",
+    "id": 1671612,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2NzE2MTI=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/1671612?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/cms-dev",
+    "html_url": "https://github.com/cms-dev",
+    "followers_url": "https://api.github.com/users/cms-dev/followers",
+    "following_url": "https://api.github.com/users/cms-dev/following{/other_user}",
+    "gists_url": "https://api.github.com/users/cms-dev/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/cms-dev/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/cms-dev/subscriptions",
+    "organizations_url": "https://api.github.com/users/cms-dev/orgs",
+    "repos_url": "https://api.github.com/users/cms-dev/repos",
+    "events_url": "https://api.github.com/users/cms-dev/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/cms-dev/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "andreyv": 1,
+    "smadbe": 1,
+    "yihangho": 1,
+    "giomasce": 7,
+    "wil93": 8,
+    "lerks": 11,
+    "stefano-maggiolo": 35
+  },
+  "pulls_authors": [
+    "andreyv",
+    "wil93",
+    "smadbe",
+    "yihangho",
+    "lerks"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 52309,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 11444,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:25.361Z"
+}

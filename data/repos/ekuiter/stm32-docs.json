@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "stm32-docs",
+  "full_name": "ekuiter/stm32-docs",
+  "owner": "ekuiter",
+  "private": false,
+  "html_url": "https://github.com/ekuiter/stm32-docs",
+  "description": "Hy-Mini STM32 Docs",
+  "fork": false,
+  "url": "https://api.github.com/repos/ekuiter/stm32-docs",
+  "languages_url": "https://api.github.com/repos/ekuiter/stm32-docs/languages",
+  "pulls_url": "https://api.github.com/repos/ekuiter/stm32-docs/pulls{/number}",
+  "created_at": "2015-10-04T19:09:23Z",
+  "updated_at": "2018-07-16T15:09:57Z",
+  "pushed_at": "2015-10-04T19:48:18Z",
+  "homepage": null,
+  "size": 12780,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ekuiter": 1
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-11T17:09:25.280Z"
+}

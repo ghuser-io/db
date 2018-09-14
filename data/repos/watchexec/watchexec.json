@@ -1,0 +1,122 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "watchexec",
+  "full_name": "watchexec/watchexec",
+  "owner": "watchexec",
+  "private": false,
+  "html_url": "https://github.com/watchexec/watchexec",
+  "description": "Executes commands in response to file modifications",
+  "fork": false,
+  "url": "https://api.github.com/repos/watchexec/watchexec",
+  "languages_url": "https://api.github.com/repos/watchexec/watchexec/languages",
+  "created_at": "2016-09-18T20:41:31Z",
+  "updated_at": "2018-09-14T08:17:40Z",
+  "pushed_at": "2018-09-09T04:16:48Z",
+  "homepage": "",
+  "size": 279,
+  "stargazers_count": 648,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mcgoo": 1,
+    "jmgao": 1,
+    "lilianmoraru": 1,
+    "octaltree": 1,
+    "robinst": 1,
+    "4tm4j33tk4ur": 1,
+    "neodc": 1,
+    "gsquire": 1,
+    "mattgathu": 2,
+    "jaemk": 3,
+    "akerl": 2,
+    "passcod": 24,
+    "craftytrickster": 2,
+    "palfrey": 2,
+    "chr4": 27,
+    "mattgreen": 180,
+    "tailhook": 1,
+    "bugabinga": 1,
+    "rasa": 1,
+    "Calinou": 1,
+    "bruceg": 3,
+    "sumnerevans": 1
+  },
+  "languages": {
+    "Rust": {
+      "bytes": 58431,
+      "color": "#dea584"
+    },
+    "Shell": {
+      "bytes": 1481,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 506,
+      "color": "#427819"
+    },
+    "Ruby": {
+      "bytes": 464,
+      "color": "#701516"
+    },
+    "Python": {
+      "bytes": 58,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-14T08:23:30.192Z",
+  "pulls_url": "https://api.github.com/repos/watchexec/watchexec/pulls{/number}",
+  "pulls_authors": [
+    "tailhook",
+    "bugabinga",
+    "rasa",
+    "Calinou",
+    "Roger",
+    "bruceg",
+    "jaemk",
+    "mcgoo",
+    "jmgao",
+    "mattgathu",
+    "lilianmoraru",
+    "octaltree",
+    "akerl",
+    "passcod",
+    "chr4",
+    "ootoovak",
+    "craftytrickster",
+    "robinst",
+    "palfrey",
+    "4tm4j33tk4ur",
+    "neodc",
+    "gsquire",
+    "sumnerevans"
+  ],
+  "organization": {
+    "login": "watchexec",
+    "id": 42414029,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQyNDE0MDI5",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/42414029?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/watchexec",
+    "html_url": "https://github.com/watchexec",
+    "followers_url": "https://api.github.com/users/watchexec/followers",
+    "following_url": "https://api.github.com/users/watchexec/following{/other_user}",
+    "gists_url": "https://api.github.com/users/watchexec/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/watchexec/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/watchexec/subscriptions",
+    "organizations_url": "https://api.github.com/users/watchexec/orgs",
+    "repos_url": "https://api.github.com/users/watchexec/repos",
+    "events_url": "https://api.github.com/users/watchexec/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/watchexec/received_events",
+    "type": "Organization",
+    "site_admin": false
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "seneca-project",
+  "full_name": "rjrodger/seneca-project",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/seneca-project",
+  "description": "Project-oriented business logic",
+  "fork": false,
+  "url": "https://api.github.com/repos/rjrodger/seneca-project",
+  "languages_url": "https://api.github.com/repos/rjrodger/seneca-project/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/seneca-project/pulls{/number}",
+  "created_at": "2013-08-01T11:16:25Z",
+  "updated_at": "2016-10-17T03:44:41Z",
+  "pushed_at": "2016-03-08T07:40:55Z",
+  "homepage": null,
+  "size": 18,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "nherment": 2,
+    "mirceaalexandru": 11,
+    "rjrodger": 11
+  },
+  "pulls_authors": [
+    "mirceaalexandru",
+    "nherment"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 13309,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:32.455Z"
+}

@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fields",
+  "full_name": "kshmir/fields",
+  "owner": "kshmir",
+  "private": false,
+  "html_url": "https://github.com/kshmir/fields",
+  "description": "A fields API for automatic migrations in Active Record ***WIP***",
+  "fork": false,
+  "url": "https://api.github.com/repos/kshmir/fields",
+  "languages_url": "https://api.github.com/repos/kshmir/fields/languages",
+  "pulls_url": "https://api.github.com/repos/kshmir/fields/pulls{/number}",
+  "created_at": "2014-03-12T12:25:20Z",
+  "updated_at": "2017-01-03T17:08:07Z",
+  "pushed_at": "2017-01-03T17:08:05Z",
+  "homepage": "",
+  "size": 6054,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "rrrene": 2
+  },
+  "pulls_authors": [
+    "rrrene"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 23570,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T10:37:56.846Z"
+}

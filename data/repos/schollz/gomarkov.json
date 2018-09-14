@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gomarkov",
+  "full_name": "schollz/gomarkov",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/gomarkov",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/gomarkov",
+  "languages_url": "https://api.github.com/repos/schollz/gomarkov/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/gomarkov/pulls{/number}",
+  "created_at": "2016-07-06T18:16:07Z",
+  "updated_at": "2017-04-09T18:39:54Z",
+  "pushed_at": "2016-07-06T19:49:49Z",
+  "homepage": null,
+  "size": 6,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 4052,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:45.724Z"
+}

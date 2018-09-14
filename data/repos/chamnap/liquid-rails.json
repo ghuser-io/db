@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "liquid-rails",
+  "full_name": "chamnap/liquid-rails",
+  "owner": "chamnap",
+  "private": false,
+  "html_url": "https://github.com/chamnap/liquid-rails",
+  "description": "Renders liquid templates with layout and partial support",
+  "fork": false,
+  "url": "https://api.github.com/repos/chamnap/liquid-rails",
+  "languages_url": "https://api.github.com/repos/chamnap/liquid-rails/languages",
+  "pulls_url": "https://api.github.com/repos/chamnap/liquid-rails/pulls{/number}",
+  "created_at": "2014-08-15T11:13:49Z",
+  "updated_at": "2018-08-26T21:40:21Z",
+  "pushed_at": "2018-03-16T16:32:44Z",
+  "homepage": "https://rubygems.org/gems/liquid-rails",
+  "size": 142,
+  "stargazers_count": 67,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Qqwy": 1,
+    "tomash": 1,
+    "dkubb": 2,
+    "radin-reth": 12,
+    "chamnap": 94
+  },
+  "pulls_authors": [
+    "brandoncordell",
+    "Seitk",
+    "inopinatus",
+    "benpolinsky",
+    "gja",
+    "lxsameer",
+    "deep-spaced",
+    "Qqwy",
+    "ganeshkumar",
+    "radin-reth",
+    "lowang",
+    "dkubb",
+    "tomash"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 87458,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 4624,
+      "color": "#e34c26"
+    },
+    "Liquid": {
+      "bytes": 892,
+      "color": "#ccc"
+    },
+    "JavaScript": {
+      "bytes": 700,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 546,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T16:53:05.367Z"
+}

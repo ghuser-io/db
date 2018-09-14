@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gh_favs",
+  "full_name": "Boldewyn/gh_favs",
+  "owner": "Boldewyn",
+  "private": false,
+  "html_url": "https://github.com/Boldewyn/gh_favs",
+  "description": "A small script to clone and update all your watched GitHub projects",
+  "fork": false,
+  "url": "https://api.github.com/repos/Boldewyn/gh_favs",
+  "languages_url": "https://api.github.com/repos/Boldewyn/gh_favs/languages",
+  "pulls_url": "https://api.github.com/repos/Boldewyn/gh_favs/pulls{/number}",
+  "created_at": "2012-01-08T22:06:21Z",
+  "updated_at": "2017-10-11T01:10:55Z",
+  "pushed_at": "2013-05-10T11:54:25Z",
+  "homepage": "http://boldewyn.github.com/gh_favs/",
+  "size": 149,
+  "stargazers_count": 39,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "adamrights": 1,
+    "Boldewyn": 35
+  },
+  "pulls_authors": [
+    "adamrights"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 16896,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T04:57:55.334Z"
+}

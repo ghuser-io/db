@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "NooNooFluentRegex",
+  "full_name": "captbaritone/NooNooFluentRegex",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/NooNooFluentRegex",
+  "description": "Build Regex expressions using fluent setters and English language terms",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/NooNooFluentRegex",
+  "languages_url": "https://api.github.com/repos/captbaritone/NooNooFluentRegex/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/NooNooFluentRegex/pulls{/number}",
+  "created_at": "2014-05-31T16:05:56Z",
+  "updated_at": "2018-07-29T22:10:42Z",
+  "pushed_at": "2014-06-09T16:17:16Z",
+  "homepage": null,
+  "size": 126,
+  "stargazers_count": 1,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "thomascgray": 26
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T04:58:52.147Z"
+}

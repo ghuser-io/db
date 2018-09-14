@@ -1,0 +1,33 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docker-templates",
+  "full_name": "tombowditch/docker-templates",
+  "owner": "tombowditch",
+  "private": false,
+  "html_url": "https://github.com/tombowditch/docker-templates",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/tombowditch/docker-templates",
+  "languages_url": "https://api.github.com/repos/tombowditch/docker-templates/languages",
+  "pulls_url": "https://api.github.com/repos/tombowditch/docker-templates/pulls{/number}",
+  "created_at": "2018-02-21T19:51:32Z",
+  "updated_at": "2018-02-22T09:43:29Z",
+  "pushed_at": "2018-03-01T21:28:00Z",
+  "homepage": null,
+  "size": 9,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Squidly271": 1,
+    "tombowditch": 6
+  },
+  "pulls_authors": [
+    "Squidly271"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-12T07:44:00.448Z"
+}

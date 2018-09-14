@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Sokomine": 24
+  },
+  "name": "replacer",
+  "full_name": "Sokomine/replacer",
+  "owner": "Sokomine",
+  "private": false,
+  "html_url": "https://github.com/Sokomine/replacer",
+  "description": "tool that replaces nodes by clicking on them (Mod for Minetest)",
+  "fork": false,
+  "url": "https://api.github.com/repos/Sokomine/replacer",
+  "languages_url": "https://api.github.com/repos/Sokomine/replacer/languages",
+  "created_at": "2013-02-02T02:18:38Z",
+  "updated_at": "2018-08-31T11:59:29Z",
+  "pushed_at": "2017-12-09T19:20:55Z",
+  "homepage": null,
+  "size": 21,
+  "stargazers_count": 7,
+  "language": "Lua",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "Lua": {
+      "bytes": 28591,
+      "color": "#000080"
+    }
+  },
+  "fetched_at": "2018-08-31T16:27:42.800Z",
+  "pulls_url": "https://api.github.com/repos/Sokomine/replacer/pulls{/number}",
+  "pulls_authors": [
+    "Calinou",
+    "VanessaE"
+  ]
+}

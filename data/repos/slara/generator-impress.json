@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "generator-impress",
+  "full_name": "slara/generator-impress",
+  "owner": "slara",
+  "private": false,
+  "html_url": "https://github.com/slara/generator-impress",
+  "description": "A Yeoman generator for the breathtaking Impress.js presentation framework.",
+  "fork": false,
+  "url": "https://api.github.com/repos/slara/generator-impress",
+  "languages_url": "https://api.github.com/repos/slara/generator-impress/languages",
+  "pulls_url": "https://api.github.com/repos/slara/generator-impress/pulls{/number}",
+  "created_at": "2013-08-21T03:02:48Z",
+  "updated_at": "2018-03-19T17:39:37Z",
+  "pushed_at": "2016-10-21T11:48:28Z",
+  "homepage": null,
+  "size": 170,
+  "stargazers_count": 44,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "orthographic-pedant": 1,
+    "Joao-S-Martins": 5,
+    "slara": 9
+  },
+  "pulls_authors": [
+    "riezebosch",
+    "orthographic-pedant",
+    "Joao-S-Martins"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 21822,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 2132,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1456,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T16:51:00.976Z"
+}

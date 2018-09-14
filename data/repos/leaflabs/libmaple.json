@@ -1,0 +1,156 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "libmaple",
+  "full_name": "leaflabs/libmaple",
+  "owner": "leaflabs",
+  "private": false,
+  "html_url": "https://github.com/leaflabs/libmaple",
+  "description": "[INACTIVE] C and C++ library for STM32 ARM Cortex-M3 development boards.",
+  "fork": false,
+  "url": "https://api.github.com/repos/leaflabs/libmaple",
+  "languages_url": "https://api.github.com/repos/leaflabs/libmaple/languages",
+  "pulls_url": "https://api.github.com/repos/leaflabs/libmaple/pulls{/number}",
+  "created_at": "2010-03-13T07:59:48Z",
+  "updated_at": "2018-08-31T21:05:10Z",
+  "pushed_at": "2016-07-28T20:24:16Z",
+  "homepage": "http://leaflabs.com/docs/libmaple.html",
+  "size": 5907,
+  "stargazers_count": 273,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "leaflabs",
+    "id": 219337,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIxOTMzNw==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/219337?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/leaflabs",
+    "html_url": "https://github.com/leaflabs",
+    "followers_url": "https://api.github.com/users/leaflabs/followers",
+    "following_url": "https://api.github.com/users/leaflabs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/leaflabs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/leaflabs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/leaflabs/subscriptions",
+    "organizations_url": "https://api.github.com/users/leaflabs/orgs",
+    "repos_url": "https://api.github.com/users/leaflabs/repos",
+    "events_url": "https://api.github.com/users/leaflabs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/leaflabs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ctz": 1,
+    "jonatanolofsson": 1,
+    "dipspb": 1,
+    "crenn": 1,
+    "gauteh": 1,
+    "poslathian": 1,
+    "sphing": 1,
+    "pix": 1,
+    "BrucePerens": 1,
+    "andyscott": 1,
+    "mlu": 2,
+    "torfbolt": 2,
+    "anton19286": 2,
+    "nis": 2,
+    "speakman": 3,
+    "lostinspacebar": 4,
+    "rryan": 4,
+    "Gregwar": 7,
+    "wesen": 13,
+    "nzmichaelh": 20,
+    "iperry": 45,
+    "bnewbold": 88
+  },
+  "pulls_authors": [
+    "LieBtrau",
+    "ctz",
+    "Gregwar",
+    "jonatanolofsson",
+    "bersch",
+    "trond-snekvik",
+    "cohabo",
+    "dmsc",
+    "wesen",
+    "speakman",
+    "hshlabs",
+    "iperry",
+    "joeferner",
+    "dipspb",
+    "lostinspacebar",
+    "pmp0x",
+    "ginge",
+    "ghost",
+    "mbolivar",
+    "torfbolt",
+    "nzmichaelh",
+    "ventosus",
+    "gauteh",
+    "rei-vilo",
+    "jcsalomon",
+    "rodgilchrist",
+    "maniacbug",
+    "anton19286",
+    "rryan",
+    "robodude666",
+    "nis",
+    "pix",
+    "sphing"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 844456,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 334734,
+      "color": "#f34b7d"
+    },
+    "Assembly": {
+      "bytes": 47202,
+      "color": "#6E4C13"
+    },
+    "Makefile": {
+      "bytes": 26951,
+      "color": "#427819"
+    },
+    "Python": {
+      "bytes": 25158,
+      "color": "#3572A5"
+    },
+    "PAWN": {
+      "bytes": 5921,
+      "color": "#dbb284"
+    },
+    "Shell": {
+      "bytes": 1692,
+      "color": "#89e051"
+    },
+    "GDB": {
+      "bytes": 1624,
+      "color": "#ccc"
+    },
+    "Awk": {
+      "bytes": 953,
+      "color": "#ccc"
+    },
+    "Emacs Lisp": {
+      "bytes": 285,
+      "color": "#c065db"
+    },
+    "M4": {
+      "bytes": 186,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:18.703Z"
+}

@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "puppet-blackfire",
+  "full_name": "s12v/puppet-blackfire",
+  "owner": "s12v",
+  "private": false,
+  "html_url": "https://github.com/s12v/puppet-blackfire",
+  "description": "Puppet module for Blackfire profiler",
+  "fork": false,
+  "url": "https://api.github.com/repos/s12v/puppet-blackfire",
+  "languages_url": "https://api.github.com/repos/s12v/puppet-blackfire/languages",
+  "pulls_url": "https://api.github.com/repos/s12v/puppet-blackfire/pulls{/number}",
+  "created_at": "2015-04-03T19:13:54Z",
+  "updated_at": "2017-09-06T09:23:49Z",
+  "pushed_at": "2017-09-12T08:34:00Z",
+  "homepage": "https://forge.puppetlabs.com/s12v/blackfire",
+  "size": 60,
+  "stargazers_count": 4,
+  "language": "Puppet",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Yggdrasil": 1,
+    "jtreminio": 2,
+    "Schnitzel": 3,
+    "s12v": 58
+  },
+  "pulls_authors": [
+    "chriscowley",
+    "Yggdrasil",
+    "s12v",
+    "Schnitzel",
+    "jtreminio"
+  ],
+  "languages": {
+    "Puppet": {
+      "bytes": 11061,
+      "color": "#302B6D"
+    },
+    "Ruby": {
+      "bytes": 5852,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:27.972Z"
+}

@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hummingbird-user-compare",
+  "full_name": "fuzetsu/hummingbird-user-compare",
+  "owner": "fuzetsu",
+  "private": false,
+  "html_url": "https://github.com/fuzetsu/hummingbird-user-compare",
+  "description": "Compare the anime lists of hummingbird.me users",
+  "fork": false,
+  "url": "https://api.github.com/repos/fuzetsu/hummingbird-user-compare",
+  "languages_url": "https://api.github.com/repos/fuzetsu/hummingbird-user-compare/languages",
+  "pulls_url": "https://api.github.com/repos/fuzetsu/hummingbird-user-compare/pulls{/number}",
+  "created_at": "2014-10-12T23:33:23Z",
+  "updated_at": "2018-06-05T00:48:40Z",
+  "pushed_at": "2015-06-29T19:51:27Z",
+  "homepage": "https://fuzetsu.github.io/hummingbird-user-compare",
+  "size": 476,
+  "stargazers_count": 10,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "gh-pages",
+  "contributors": {
+    "kufii": 23,
+    "fuzetsu": 72
+  },
+  "pulls_authors": [
+    "wopian"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 44057,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 9873,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 2044,
+      "color": "#563d7c"
+    },
+    "PHP": {
+      "bytes": 690,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:39.377Z"
+}

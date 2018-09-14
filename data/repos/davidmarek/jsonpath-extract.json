@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jsonpath-extract",
+  "full_name": "davidmarek/jsonpath-extract",
+  "owner": "davidmarek",
+  "private": false,
+  "html_url": "https://github.com/davidmarek/jsonpath-extract",
+  "description": "VS Code extension to extract parts of JSON document using JSONPath",
+  "fork": false,
+  "url": "https://api.github.com/repos/davidmarek/jsonpath-extract",
+  "languages_url": "https://api.github.com/repos/davidmarek/jsonpath-extract/languages",
+  "pulls_url": "https://api.github.com/repos/davidmarek/jsonpath-extract/pulls{/number}",
+  "created_at": "2018-05-27T17:15:47Z",
+  "updated_at": "2018-06-04T19:41:56Z",
+  "pushed_at": "2018-06-04T19:41:54Z",
+  "homepage": null,
+  "size": 602,
+  "stargazers_count": 1,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "davidmarekmsft": 13,
+    "davidmarek": 48
+  },
+  "pulls_authors": [
+    "davidmarek"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 41965,
+      "color": "#2b7489"
+    }
+  },
+  "fetched_at": "2018-09-12T15:41:12.466Z"
+}

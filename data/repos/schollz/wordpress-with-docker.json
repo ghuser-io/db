@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wordpress-with-docker",
+  "full_name": "schollz/wordpress-with-docker",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/wordpress-with-docker",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/wordpress-with-docker",
+  "languages_url": "https://api.github.com/repos/schollz/wordpress-with-docker/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/wordpress-with-docker/pulls{/number}",
+  "created_at": "2017-01-11T20:00:34Z",
+  "updated_at": "2017-09-30T01:04:43Z",
+  "pushed_at": "2017-01-11T20:23:19Z",
+  "homepage": null,
+  "size": 2,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 3
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-11T20:53:42.200Z"
+}

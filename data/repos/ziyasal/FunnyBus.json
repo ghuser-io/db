@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "FunnyBus",
+  "full_name": "ziyasal/FunnyBus",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/FunnyBus",
+  "description": "Simple event aggregator/messenger for .net applications.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal/FunnyBus",
+  "languages_url": "https://api.github.com/repos/ziyasal/FunnyBus/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/FunnyBus/pulls{/number}",
+  "created_at": "2014-04-11T13:35:39Z",
+  "updated_at": "2018-08-05T17:42:26Z",
+  "pushed_at": "2017-03-13T10:58:23Z",
+  "homepage": "",
+  "size": 1113,
+  "stargazers_count": 9,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ocinbat": 3,
+    "ziyasal": 52
+  },
+  "pulls_authors": [
+    "ocinbat"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 41304,
+      "color": "#178600"
+    },
+    "Batchfile": {
+      "bytes": 265,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:09.137Z"
+}

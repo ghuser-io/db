@@ -1,0 +1,109 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fullcalendar",
+  "full_name": "ChurchDesk/fullcalendar",
+  "owner": "ChurchDesk",
+  "private": false,
+  "html_url": "https://github.com/ChurchDesk/fullcalendar",
+  "description": "Full-sized drag & drop event calendar (jQuery plugin)",
+  "fork": true,
+  "url": "https://api.github.com/repos/ChurchDesk/fullcalendar",
+  "languages_url": "https://api.github.com/repos/ChurchDesk/fullcalendar/languages",
+  "pulls_url": "https://api.github.com/repos/ChurchDesk/fullcalendar/pulls{/number}",
+  "created_at": "2014-06-30T11:40:35Z",
+  "updated_at": "2018-06-11T03:50:46Z",
+  "pushed_at": "2015-07-21T09:53:14Z",
+  "homepage": "http://arshaw.com/fullcalendar/",
+  "size": 10361,
+  "stargazers_count": 28,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ChurchDesk",
+    "id": 8026035,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjgwMjYwMzU=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/8026035?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ChurchDesk",
+    "html_url": "https://github.com/ChurchDesk",
+    "followers_url": "https://api.github.com/users/ChurchDesk/followers",
+    "following_url": "https://api.github.com/users/ChurchDesk/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ChurchDesk/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ChurchDesk/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ChurchDesk/subscriptions",
+    "organizations_url": "https://api.github.com/users/ChurchDesk/orgs",
+    "repos_url": "https://api.github.com/users/ChurchDesk/repos",
+    "events_url": "https://api.github.com/users/ChurchDesk/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ChurchDesk/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "marqu3s": 1,
+    "salvoscala": 1,
+    "jonnyhweiss": 1,
+    "brandonaaron": 1,
+    "lipanski": 1,
+    "teameh": 1,
+    "b10m": 1,
+    "danielbsig": 1,
+    "grleachman": 1,
+    "Clemens-PANDA": 1,
+    "thegrandpoobah": 1,
+    "tardate": 1,
+    "stephenharris": 1,
+    "tkrotoff": 1,
+    "markusslima": 1,
+    "althaus": 1,
+    "IAmMalte": 1,
+    "archaeron": 1,
+    "godbout": 1,
+    "tauren": 1,
+    "urkle": 1,
+    "ivaynberg": 2,
+    "tpruvot": 3,
+    "jagthedrummer": 3,
+    "sirrocco": 4,
+    "vidbina": 22,
+    "zvictor": 58,
+    "arshaw": 604
+  },
+  "pulls_authors": [
+    "marqu3s",
+    "ebrake",
+    "rzane",
+    "zvictor"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1089269,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 169543,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 65926,
+      "color": "#563d7c"
+    },
+    "PHP": {
+      "bytes": 6147,
+      "color": "#4F5D95"
+    },
+    "Shell": {
+      "bytes": 2518,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:26.481Z"
+}

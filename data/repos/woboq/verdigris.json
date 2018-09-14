@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "verdigris",
+  "full_name": "woboq/verdigris",
+  "owner": "woboq",
+  "private": false,
+  "html_url": "https://github.com/woboq/verdigris",
+  "description": "Qt without moc: set of macros to use Qt without needing moc",
+  "fork": false,
+  "url": "https://api.github.com/repos/woboq/verdigris",
+  "languages_url": "https://api.github.com/repos/woboq/verdigris/languages",
+  "pulls_url": "https://api.github.com/repos/woboq/verdigris/pulls{/number}",
+  "created_at": "2016-05-24T09:33:02Z",
+  "updated_at": "2018-09-11T10:39:13Z",
+  "pushed_at": "2018-09-11T10:52:09Z",
+  "homepage": "https://woboq.com/blog/verdigris-qt-without-moc.html",
+  "size": 397,
+  "stargazers_count": 262,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx_id": "LGPL-3.0",
+    "url": "https://api.github.com/licenses/lgpl-3.0",
+    "node_id": "MDc6TGljZW5zZTEy"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "woboq",
+    "id": 959308,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjk1OTMwOA==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/959308?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/woboq",
+    "html_url": "https://github.com/woboq",
+    "followers_url": "https://api.github.com/users/woboq/followers",
+    "following_url": "https://api.github.com/users/woboq/following{/other_user}",
+    "gists_url": "https://api.github.com/users/woboq/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/woboq/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/woboq/subscriptions",
+    "organizations_url": "https://api.github.com/users/woboq/orgs",
+    "repos_url": "https://api.github.com/users/woboq/repos",
+    "events_url": "https://api.github.com/users/woboq/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/woboq/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "WSoptics": 1,
+    "guruz": 1,
+    "gillesfernandez": 1,
+    "jcelerier": 2,
+    "pkrenz": 2,
+    "shuffle2": 2,
+    "rakhimov": 6,
+    "ogoffart": 205
+  },
+  "pulls_authors": [
+    "jcelerier",
+    "fiesh",
+    "pkrenz",
+    "rakhimov",
+    "guruz",
+    "gillesfernandez"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 608061,
+      "color": "#f34b7d"
+    },
+    "QMake": {
+      "bytes": 2283,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:45.596Z"
+}

@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "potential-duplicates-bot",
+  "full_name": "Bartozzz/potential-duplicates-bot",
+  "owner": "Bartozzz",
+  "private": false,
+  "html_url": "https://github.com/Bartozzz/potential-duplicates-bot",
+  "description": "A configurable GitHub App which checks for potential issue duplicates using Damerau–Levenshtein distance algorithm.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Bartozzz/potential-duplicates-bot",
+  "languages_url": "https://api.github.com/repos/Bartozzz/potential-duplicates-bot/languages",
+  "created_at": "2018-03-20T11:41:27Z",
+  "updated_at": "2018-09-05T23:00:08Z",
+  "pushed_at": "2018-06-15T20:09:58Z",
+  "homepage": "",
+  "size": 23,
+  "stargazers_count": 25,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "isc",
+    "name": "ISC License",
+    "spdx_id": "ISC",
+    "url": "https://api.github.com/licenses/isc",
+    "node_id": "MDc6TGljZW5zZTEw"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "itaditya": 1,
+    "Bartozzz": 24
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 10608,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-06T06:41:17.694Z",
+  "pulls_url": "https://api.github.com/repos/Bartozzz/potential-duplicates-bot/pulls{/number}",
+  "pulls_authors": [
+    "itaditya"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wxGraphWidget",
+  "full_name": "yodakohl/wxGraphWidget",
+  "owner": "yodakohl",
+  "private": false,
+  "html_url": "https://github.com/yodakohl/wxGraphWidget",
+  "description": "Display traces on a wxPanel",
+  "fork": false,
+  "url": "https://api.github.com/repos/yodakohl/wxGraphWidget",
+  "languages_url": "https://api.github.com/repos/yodakohl/wxGraphWidget/languages",
+  "pulls_url": "https://api.github.com/repos/yodakohl/wxGraphWidget/pulls{/number}",
+  "created_at": "2011-06-01T09:22:14Z",
+  "updated_at": "2018-07-17T12:19:35Z",
+  "pushed_at": "2011-06-03T00:48:22Z",
+  "homepage": "",
+  "size": 92,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "yodakohl": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 7688,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-12T16:54:23.614Z"
+}

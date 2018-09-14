@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sniffer",
+  "full_name": "allmarkedup/sniffer",
+  "owner": "allmarkedup",
+  "private": false,
+  "html_url": "https://github.com/allmarkedup/sniffer",
+  "description": "Sniffs web pages to extract information such as JS libraries, CMS, analytics packages, etc via JavaScript",
+  "fork": false,
+  "url": "https://api.github.com/repos/allmarkedup/sniffer",
+  "languages_url": "https://api.github.com/repos/allmarkedup/sniffer/languages",
+  "pulls_url": "https://api.github.com/repos/allmarkedup/sniffer/pulls{/number}",
+  "created_at": "2010-09-13T15:11:26Z",
+  "updated_at": "2017-05-29T12:03:40Z",
+  "pushed_at": "2010-10-14T13:12:17Z",
+  "homepage": "",
+  "size": 181,
+  "stargazers_count": 26,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "lardissone": 2,
+    "jbrooksuk": 5,
+    "allmarkedup": 10
+  },
+  "pulls_authors": [
+    "lardissone",
+    "jbrooksuk"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 14061,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:04.108Z"
+}

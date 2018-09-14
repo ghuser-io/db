@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "git-puxaforte",
+  "full_name": "gmcabrita/git-puxaforte",
+  "owner": "gmcabrita",
+  "private": false,
+  "html_url": "https://github.com/gmcabrita/git-puxaforte",
+  "description": ":muscle::muscle::muscle::muscle::muscle::muscle:",
+  "fork": false,
+  "url": "https://api.github.com/repos/gmcabrita/git-puxaforte",
+  "languages_url": "https://api.github.com/repos/gmcabrita/git-puxaforte/languages",
+  "pulls_url": "https://api.github.com/repos/gmcabrita/git-puxaforte/pulls{/number}",
+  "created_at": "2018-01-04T18:14:07Z",
+  "updated_at": "2018-06-03T08:58:09Z",
+  "pushed_at": "2018-01-07T01:14:52Z",
+  "homepage": "",
+  "size": 92,
+  "stargazers_count": 4,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "gmcabrita": 13
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 582,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:44:00.477Z"
+}

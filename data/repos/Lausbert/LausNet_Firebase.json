@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "LausNet_Firebase",
+  "full_name": "Lausbert/LausNet_Firebase",
+  "owner": "Lausbert",
+  "private": false,
+  "html_url": "https://github.com/Lausbert/LausNet_Firebase",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/Lausbert/LausNet_Firebase",
+  "languages_url": "https://api.github.com/repos/Lausbert/LausNet_Firebase/languages",
+  "pulls_url": "https://api.github.com/repos/Lausbert/LausNet_Firebase/pulls{/number}",
+  "created_at": "2016-12-18T18:53:45Z",
+  "updated_at": "2018-04-01T20:10:06Z",
+  "pushed_at": "2017-07-28T13:54:43Z",
+  "homepage": null,
+  "size": 44271,
+  "stargazers_count": 1,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Lausbert": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Swift": {
+      "bytes": 36275,
+      "color": "#ffac45"
+    },
+    "Ruby": {
+      "bytes": 392,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T23:08:04.751Z"
+}

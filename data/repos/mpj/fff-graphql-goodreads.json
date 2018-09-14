@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fff-graphql-goodreads",
+  "full_name": "mpj/fff-graphql-goodreads",
+  "owner": "mpj",
+  "private": false,
+  "html_url": "https://github.com/mpj/fff-graphql-goodreads",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/mpj/fff-graphql-goodreads",
+  "languages_url": "https://api.github.com/repos/mpj/fff-graphql-goodreads/languages",
+  "created_at": "2017-09-16T13:01:19Z",
+  "updated_at": "2018-07-23T09:36:46Z",
+  "pushed_at": "2017-11-24T10:24:46Z",
+  "homepage": null,
+  "size": 9,
+  "stargazers_count": 90,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mpj": 5
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 3391,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-23T16:29:16.674Z",
+  "pulls_url": "https://api.github.com/repos/mpj/fff-graphql-goodreads/pulls{/number}",
+  "pulls_authors": [
+    "itaditya",
+    "yussan",
+    "achmiral"
+  ]
+}

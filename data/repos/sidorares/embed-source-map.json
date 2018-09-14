@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "embed-source-map",
+  "full_name": "sidorares/embed-source-map",
+  "owner": "sidorares",
+  "private": false,
+  "html_url": "https://github.com/sidorares/embed-source-map",
+  "description": "Convert sourcemaps with external references to inlineable sourcemap",
+  "fork": false,
+  "url": "https://api.github.com/repos/sidorares/embed-source-map",
+  "languages_url": "https://api.github.com/repos/sidorares/embed-source-map/languages",
+  "pulls_url": "https://api.github.com/repos/sidorares/embed-source-map/pulls{/number}",
+  "created_at": "2013-09-02T01:01:54Z",
+  "updated_at": "2016-05-05T16:32:10Z",
+  "pushed_at": "2017-05-01T05:45:43Z",
+  "homepage": null,
+  "size": 4,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sidorares": 5
+  },
+  "pulls_authors": [
+    "KnisterPeter"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2054,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:30.217Z"
+}

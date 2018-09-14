@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ubukey",
+  "full_name": "moul/ubukey",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/ubukey",
+  "description": "create/edit/clone ubuntu based distributions",
+  "fork": true,
+  "url": "https://api.github.com/repos/moul/ubukey",
+  "languages_url": "https://api.github.com/repos/moul/ubukey/languages",
+  "pulls_url": "https://api.github.com/repos/moul/ubukey/pulls{/number}",
+  "created_at": "2014-01-22T09:09:38Z",
+  "updated_at": "2014-01-22T09:09:38Z",
+  "pushed_at": "2013-05-12T21:38:17Z",
+  "homepage": null,
+  "size": 908,
+  "stargazers_count": 1,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "smolleyes": 67
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-05T13:07:58.050Z"
+}

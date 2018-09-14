@@ -1,0 +1,89 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Cast",
+  "full_name": "innovate-technologies/Cast",
+  "owner": "innovate-technologies",
+  "private": false,
+  "html_url": "https://github.com/innovate-technologies/Cast",
+  "description": "Cast is an open source audio streaming server made to be hackable, compatible and innovative.",
+  "fork": false,
+  "url": "https://api.github.com/repos/innovate-technologies/Cast",
+  "languages_url": "https://api.github.com/repos/innovate-technologies/Cast/languages",
+  "pulls_url": "https://api.github.com/repos/innovate-technologies/Cast/pulls{/number}",
+  "created_at": "2015-06-28T13:39:51Z",
+  "updated_at": "2018-09-13T19:14:09Z",
+  "pushed_at": "2018-09-13T21:38:08Z",
+  "homepage": null,
+  "size": 5257,
+  "stargazers_count": 36,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "innovate-technologies",
+    "id": 11369360,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExMzY5MzYw",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/11369360?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/innovate-technologies",
+    "html_url": "https://github.com/innovate-technologies",
+    "followers_url": "https://api.github.com/users/innovate-technologies/followers",
+    "following_url": "https://api.github.com/users/innovate-technologies/following{/other_user}",
+    "gists_url": "https://api.github.com/users/innovate-technologies/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/innovate-technologies/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/innovate-technologies/subscriptions",
+    "organizations_url": "https://api.github.com/users/innovate-technologies/orgs",
+    "repos_url": "https://api.github.com/users/innovate-technologies/repos",
+    "events_url": "https://api.github.com/users/innovate-technologies/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/innovate-technologies/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "kylejmhudson": 1,
+    "orthographic-pedant": 1,
+    "ethangates": 3,
+    "snyk-bot": 8,
+    "leoetlino": 21,
+    "dependabot[bot]": 38,
+    "meyskens": 198
+  },
+  "pulls_authors": [
+    "dependabot[bot]",
+    "meyskens",
+    "snyk-bot",
+    "kylejmhudson",
+    "orthographic-pedant"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 152547,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 6252,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 4556,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 3260,
+      "color": "#89e051"
+    },
+    "Dockerfile": {
+      "bytes": 237,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-13T23:53:43.892Z"
+}

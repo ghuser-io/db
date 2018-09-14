@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "image-proxy",
+  "full_name": "jpmckinney/image-proxy",
+  "owner": "jpmckinney",
+  "private": false,
+  "html_url": "https://github.com/jpmckinney/image-proxy",
+  "description": "An image proxy using the Express Node.js framework",
+  "fork": false,
+  "url": "https://api.github.com/repos/jpmckinney/image-proxy",
+  "languages_url": "https://api.github.com/repos/jpmckinney/image-proxy/languages",
+  "pulls_url": "https://api.github.com/repos/jpmckinney/image-proxy/pulls{/number}",
+  "created_at": "2013-02-16T19:44:17Z",
+  "updated_at": "2018-07-12T18:37:32Z",
+  "pushed_at": "2018-07-12T18:37:36Z",
+  "homepage": null,
+  "size": 3758,
+  "stargazers_count": 46,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "struan": 1,
+    "tsnolan23": 2,
+    "chrismytton": 2,
+    "equivalentideas": 5,
+    "jpmckinney": 61
+  },
+  "pulls_authors": [
+    "jpmckinney",
+    "tsnolan23",
+    "ApeNox",
+    "mercuree",
+    "daniel818",
+    "benbakhar",
+    "yaron-idan",
+    "equivalentideas",
+    "shushu",
+    "chrismytton",
+    "struan"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 14587,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:45.892Z"
+}

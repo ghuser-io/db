@@ -1,0 +1,83 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "douitsu",
+  "full_name": "ninjablocks/douitsu",
+  "owner": "ninjablocks",
+  "private": false,
+  "html_url": "https://github.com/ninjablocks/douitsu",
+  "description": "Identity management service.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ninjablocks/douitsu",
+  "languages_url": "https://api.github.com/repos/ninjablocks/douitsu/languages",
+  "pulls_url": "https://api.github.com/repos/ninjablocks/douitsu/pulls{/number}",
+  "created_at": "2014-01-29T10:40:37Z",
+  "updated_at": "2017-09-19T08:05:45Z",
+  "pushed_at": "2018-03-09T02:34:11Z",
+  "homepage": null,
+  "size": 4072,
+  "stargazers_count": 5,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ninjablocks",
+    "id": 1392949,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzOTI5NDk=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/1392949?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ninjablocks",
+    "html_url": "https://github.com/ninjablocks",
+    "followers_url": "https://api.github.com/users/ninjablocks/followers",
+    "following_url": "https://api.github.com/users/ninjablocks/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ninjablocks/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ninjablocks/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ninjablocks/subscriptions",
+    "organizations_url": "https://api.github.com/users/ninjablocks/orgs",
+    "repos_url": "https://api.github.com/users/ninjablocks/repos",
+    "events_url": "https://api.github.com/users/ninjablocks/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ninjablocks/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "techknowlogick": 2,
+    "jonseymour": 3,
+    "rjrodger": 8,
+    "gangleri": 10,
+    "theojulienne": 13,
+    "jmanoto": 14,
+    "wolfeidau": 22,
+    "chico": 147
+  },
+  "pulls_authors": [
+    "techknowlogick",
+    "wolfeidau"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 375680,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 104505,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 60787,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 1247,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T13:45:50.225Z"
+}

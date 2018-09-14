@@ -1,0 +1,83 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "MozDef",
+  "full_name": "jamesgeorge007/MozDef",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/MozDef",
+  "description": "MozDef: The Mozilla Defense Platform",
+  "fork": true,
+  "url": "https://api.github.com/repos/jamesgeorge007/MozDef",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/MozDef/languages",
+  "created_at": "2018-03-04T09:23:20Z",
+  "updated_at": "2018-03-04T09:23:30Z",
+  "pushed_at": "2018-03-03T19:21:02Z",
+  "homepage": null,
+  "size": 59644,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mpl-2.0",
+    "name": "Mozilla Public License 2.0",
+    "spdx_id": "MPL-2.0",
+    "url": "https://api.github.com/licenses/mpl-2.0",
+    "node_id": "MDc6TGljZW5zZTE0"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "tmm2018": 1,
+    "CrazyLlama": 1,
+    "bryongloden": 1,
+    "mseguin": 1,
+    "trink": 1,
+    "skakri": 1,
+    "jbrudvik": 1,
+    "cglewis": 2,
+    "2xyo": 3,
+    "tristanweir": 7,
+    "DarkPrince304": 7,
+    "gene1wood": 9,
+    "BjornArnelid": 10,
+    "jvehent": 11,
+    "claudijd": 13,
+    "ameihm0912": 19,
+    "526avijitgupta": 29,
+    "yashmehrotra": 34,
+    "gdestuynder": 43,
+    "netantho": 175,
+    "Phrozyn": 202,
+    "jeffbryner": 547,
+    "pwnbus": 733
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 1485899,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 865039,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 117395,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 31672,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 10230,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 4256,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/MozDef/pulls{/number}",
+  "pulls_authors": []
+}

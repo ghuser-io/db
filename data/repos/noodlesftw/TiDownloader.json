@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "TiDownloader",
+  "full_name": "noodlesftw/TiDownloader",
+  "owner": "noodlesftw",
+  "private": false,
+  "html_url": "https://github.com/noodlesftw/TiDownloader",
+  "description": "A CommonJS module for Titanium to easily download files with a progress bar.",
+  "fork": false,
+  "url": "https://api.github.com/repos/noodlesftw/TiDownloader",
+  "languages_url": "https://api.github.com/repos/noodlesftw/TiDownloader/languages",
+  "pulls_url": "https://api.github.com/repos/noodlesftw/TiDownloader/pulls{/number}",
+  "created_at": "2016-04-15T09:18:40Z",
+  "updated_at": "2017-05-09T14:01:43Z",
+  "pushed_at": "2016-04-15T09:19:17Z",
+  "homepage": null,
+  "size": 2,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "noodlesftw": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 3309,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:38:55.945Z"
+}

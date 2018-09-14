@@ -1,0 +1,89 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "lambci",
+  "full_name": "lambci/lambci",
+  "owner": "lambci",
+  "private": false,
+  "html_url": "https://github.com/lambci/lambci",
+  "description": "A continuous integration system built on AWS Lambda",
+  "fork": false,
+  "url": "https://api.github.com/repos/lambci/lambci",
+  "languages_url": "https://api.github.com/repos/lambci/lambci/languages",
+  "pulls_url": "https://api.github.com/repos/lambci/lambci/pulls{/number}",
+  "created_at": "2016-06-12T21:53:34Z",
+  "updated_at": "2018-09-13T06:05:09Z",
+  "pushed_at": "2018-09-08T11:32:38Z",
+  "homepage": "https://medium.com/@hichaelmart/lambci-4c3e29d6599b",
+  "size": 12206,
+  "stargazers_count": 3187,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "lambci",
+    "id": 12516453,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyNTE2NDUz",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/12516453?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/lambci",
+    "html_url": "https://github.com/lambci",
+    "followers_url": "https://api.github.com/users/lambci/followers",
+    "following_url": "https://api.github.com/users/lambci/following{/other_user}",
+    "gists_url": "https://api.github.com/users/lambci/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/lambci/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/lambci/subscriptions",
+    "organizations_url": "https://api.github.com/users/lambci/orgs",
+    "repos_url": "https://api.github.com/users/lambci/repos",
+    "events_url": "https://api.github.com/users/lambci/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/lambci/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "franciscocpg": 1,
+    "ret": 1,
+    "cjs": 1,
+    "martinssipenko": 1,
+    "faceleg": 1,
+    "mhart": 146
+  },
+  "pulls_authors": [
+    "tsertkov",
+    "joaojeronimo",
+    "nsutclif",
+    "cjs",
+    "slajax",
+    "franciscocpg",
+    "afaqurk",
+    "ret",
+    "kshmir",
+    "knakayama",
+    "martinssipenko",
+    "dej611",
+    "marocchino",
+    "faceleg"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 93434,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 67610,
+      "color": "#89e051"
+    },
+    "Ruby": {
+      "bytes": 2854,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-13T16:36:50.904Z"
+}

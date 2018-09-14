@@ -1,0 +1,95 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Nancy.Bootstrappers.Autofac",
+  "full_name": "NancyFx/Nancy.Bootstrappers.Autofac",
+  "owner": "NancyFx",
+  "private": false,
+  "html_url": "https://github.com/NancyFx/Nancy.Bootstrappers.Autofac",
+  "description": "Nancy bootstrapper for the Autofac container",
+  "fork": false,
+  "url": "https://api.github.com/repos/NancyFx/Nancy.Bootstrappers.Autofac",
+  "languages_url": "https://api.github.com/repos/NancyFx/Nancy.Bootstrappers.Autofac/languages",
+  "pulls_url": "https://api.github.com/repos/NancyFx/Nancy.Bootstrappers.Autofac/pulls{/number}",
+  "created_at": "2011-06-25T17:52:47Z",
+  "updated_at": "2018-08-21T17:02:08Z",
+  "pushed_at": "2017-06-06T15:57:17Z",
+  "homepage": "",
+  "size": 9169,
+  "stargazers_count": 33,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "NancyFx",
+    "id": 706659,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjcwNjY1OQ==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/706659?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/NancyFx",
+    "html_url": "https://github.com/NancyFx",
+    "followers_url": "https://api.github.com/users/NancyFx/followers",
+    "following_url": "https://api.github.com/users/NancyFx/following{/other_user}",
+    "gists_url": "https://api.github.com/users/NancyFx/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/NancyFx/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/NancyFx/subscriptions",
+    "organizations_url": "https://api.github.com/users/NancyFx/orgs",
+    "repos_url": "https://api.github.com/users/NancyFx/repos",
+    "events_url": "https://api.github.com/users/NancyFx/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/NancyFx/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Yantrio": 1,
+    "Cyberlane": 1,
+    "ChrisMH": 1,
+    "nathanpalmer": 1,
+    "SimonCropp": 2,
+    "alexmg": 2,
+    "Chris-Hogan-Logikos": 2,
+    "cemremengu": 3,
+    "jchannon": 17,
+    "khellang": 17,
+    "grumpydev": 44,
+    "thecodejunkie": 58
+  },
+  "pulls_authors": [
+    "thecodejunkie",
+    "jchannon",
+    "cemremengu",
+    "Yantrio",
+    "Cyberlane",
+    "khellang",
+    "gitter-badger",
+    "SimonCropp",
+    "thelalle",
+    "alexmg",
+    "bsommardahl",
+    "ChrisMH",
+    "hfjallemark",
+    "nathanpalmer"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 27632,
+      "color": "#178600"
+    },
+    "Shell": {
+      "bytes": 60,
+      "color": "#89e051"
+    },
+    "PowerShell": {
+      "bytes": 38,
+      "color": "#012456"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:40.463Z"
+}

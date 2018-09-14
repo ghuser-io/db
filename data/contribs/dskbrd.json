@@ -1,0 +1,32 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "Nguyen17/Hacktoberfest-Sign-In": {
+      "full_name": "Nguyen17/Hacktoberfest-Sign-In",
+      "name": "Hacktoberfest-Sign-In",
+      "stargazers_count": 66,
+      "popularity": 2.813620017180149,
+      "percentage": 0,
+      "maturity": 2.9978082245019047,
+      "total_commits_count": 139,
+      "activity": 5,
+      "total_score": 19.436476500544256,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "stevewithington/tupress": {
+      "full_name": "stevewithington/tupress",
+      "name": "tupress",
+      "stargazers_count": 15,
+      "popularity": 2.149257924096549,
+      "percentage": 25,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 1.0939518941772635,
+      "total_score": 14.526813919780693,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

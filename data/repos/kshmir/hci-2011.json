@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hci-2011",
+  "full_name": "kshmir/hci-2011",
+  "owner": "kshmir",
+  "private": false,
+  "html_url": "https://github.com/kshmir/hci-2011",
+  "description": "TP HCI 2011",
+  "fork": false,
+  "url": "https://api.github.com/repos/kshmir/hci-2011",
+  "languages_url": "https://api.github.com/repos/kshmir/hci-2011/languages",
+  "pulls_url": "https://api.github.com/repos/kshmir/hci-2011/pulls{/number}",
+  "created_at": "2011-09-13T17:51:08Z",
+  "updated_at": "2013-11-05T11:49:48Z",
+  "pushed_at": "2011-10-18T00:41:59Z",
+  "homepage": "",
+  "size": 1024,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "maximovs": 49,
+    "ezeortiz": 49,
+    "kshmir": 55
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 162366,
+      "color": "#f1e05a"
+    },
+    "Ruby": {
+      "bytes": 202,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 170,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T10:37:59.457Z"
+}

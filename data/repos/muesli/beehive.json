@@ -1,0 +1,103 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "beehive",
+  "full_name": "muesli/beehive",
+  "owner": "muesli",
+  "private": false,
+  "html_url": "https://github.com/muesli/beehive",
+  "description": "A flexible event/agent & automation system with lots of bees 🐝",
+  "fork": false,
+  "url": "https://api.github.com/repos/muesli/beehive",
+  "languages_url": "https://api.github.com/repos/muesli/beehive/languages",
+  "created_at": "2014-06-23T20:46:31Z",
+  "updated_at": "2018-09-10T08:19:09Z",
+  "pushed_at": "2018-08-01T07:53:00Z",
+  "homepage": "",
+  "size": 6554,
+  "stargazers_count": 3194,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "asymmetric": 1,
+    "morbidick": 1,
+    "mutschler": 1,
+    "momo-aux": 1,
+    "sks": 1,
+    "DiSiqueira": 1,
+    "tymm": 1,
+    "joshuahhh": 1,
+    "mcmillhj": 1,
+    "HenryQW": 2,
+    "henson": 2,
+    "jamesbvaughan": 2,
+    "akashshinde": 3,
+    "seblw": 3,
+    "dschmidt": 4,
+    "Profpatsch": 4,
+    "GabrielAlacchi": 5,
+    "michiwend": 6,
+    "waaaaargh": 9,
+    "rubiojr": 14,
+    "grindhold": 19,
+    "penguwin": 20,
+    "glaxx": 27,
+    "muesli": 533
+  },
+  "languages": {
+    "Go": {
+      "bytes": 499793,
+      "color": "#375eab"
+    },
+    "Shell": {
+      "bytes": 2055,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 875,
+      "color": "#427819"
+    },
+    "Dockerfile": {
+      "bytes": 550,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-10T15:06:05.410Z",
+  "pulls_url": "https://api.github.com/repos/muesli/beehive/pulls{/number}",
+  "pulls_authors": [
+    "penguwin",
+    "asymmetric",
+    "HenryQW",
+    "leopku",
+    "philoserf",
+    "dschmidt",
+    "morbidick",
+    "barbourkd",
+    "rubiojr",
+    "GabrielAlacchi",
+    "akashshinde",
+    "mutschler",
+    "momo-aux",
+    "henson",
+    "Profpatsch",
+    "seblw",
+    "jamesbvaughan",
+    "sks",
+    "DiSiqueira",
+    "tymm",
+    "joshuahhh",
+    "gitter-badger",
+    "lalotone",
+    "tpltnt",
+    "mcmillhj",
+    "waaaaargh"
+  ]
+}

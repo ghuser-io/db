@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "react-media-match",
+  "full_name": "thearnica/react-media-match",
+  "owner": "thearnica",
+  "private": false,
+  "html_url": "https://github.com/thearnica/react-media-match",
+  "description": "React made responsible",
+  "fork": false,
+  "url": "https://api.github.com/repos/thearnica/react-media-match",
+  "languages_url": "https://api.github.com/repos/thearnica/react-media-match/languages",
+  "pulls_url": "https://api.github.com/repos/thearnica/react-media-match/pulls{/number}",
+  "created_at": "2018-05-13T10:58:20Z",
+  "updated_at": "2018-09-12T12:36:23Z",
+  "pushed_at": "2018-07-29T08:16:49Z",
+  "homepage": null,
+  "size": 372,
+  "stargazers_count": 37,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "azdanov": 2,
+    "theKashey": 9,
+    "thearnica": 22
+  },
+  "pulls_authors": [
+    "azdanov",
+    "theKashey",
+    "greenkeeper[bot]"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 17023,
+      "color": "#2b7489"
+    },
+    "HTML": {
+      "bytes": 190,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T15:34:42.294Z"
+}

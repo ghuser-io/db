@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "USB-Connection-Logger",
+  "full_name": "ajay340/USB-Connection-Logger",
+  "owner": "ajay340",
+  "private": false,
+  "html_url": "https://github.com/ajay340/USB-Connection-Logger",
+  "description": "A program that record USB device connection entries to your computer and outputs it to a log file.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ajay340/USB-Connection-Logger",
+  "languages_url": "https://api.github.com/repos/ajay340/USB-Connection-Logger/languages",
+  "pulls_url": "https://api.github.com/repos/ajay340/USB-Connection-Logger/pulls{/number}",
+  "created_at": "2018-06-30T17:24:02Z",
+  "updated_at": "2018-09-05T22:17:25Z",
+  "pushed_at": "2018-07-01T01:05:38Z",
+  "homepage": null,
+  "size": 6,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ajay340": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 1584,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-06T06:37:37.363Z"
+}

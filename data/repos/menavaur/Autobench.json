@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Autobench",
+  "full_name": "menavaur/Autobench",
+  "owner": "menavaur",
+  "private": false,
+  "html_url": "https://github.com/menavaur/Autobench",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/menavaur/Autobench",
+  "languages_url": "https://api.github.com/repos/menavaur/Autobench/languages",
+  "pulls_url": "https://api.github.com/repos/menavaur/Autobench/pulls{/number}",
+  "created_at": "2012-03-31T17:25:17Z",
+  "updated_at": "2018-07-19T05:52:35Z",
+  "pushed_at": "2017-02-08T09:04:09Z",
+  "homepage": "",
+  "size": 233,
+  "stargazers_count": 122,
+  "language": "Perl",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "L-P": 1,
+    "hjr3": 1
+  },
+  "pulls_authors": [
+    "qrilka",
+    "seanlane",
+    "ansATgit",
+    "zqlu",
+    "L-P",
+    "hjr3"
+  ],
+  "languages": {
+    "Perl": {
+      "bytes": 35310,
+      "color": "#0298c3"
+    },
+    "C": {
+      "bytes": 10439,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 2036,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T23:08:02.937Z"
+}

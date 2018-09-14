@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "flat",
+  "full_name": "pubby/flat",
+  "owner": "pubby",
+  "private": false,
+  "html_url": "https://github.com/pubby/flat",
+  "description": "Flat containers for C++",
+  "fork": false,
+  "url": "https://api.github.com/repos/pubby/flat",
+  "languages_url": "https://api.github.com/repos/pubby/flat/languages",
+  "pulls_url": "https://api.github.com/repos/pubby/flat/pulls{/number}",
+  "created_at": "2016-08-05T13:21:29Z",
+  "updated_at": "2018-08-15T20:09:06Z",
+  "pushed_at": "2018-06-26T14:24:51Z",
+  "homepage": null,
+  "size": 18,
+  "stargazers_count": 15,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsl-1.0",
+    "name": "Boost Software License 1.0",
+    "spdx_id": "BSL-1.0",
+    "url": "https://api.github.com/licenses/bsl-1.0",
+    "node_id": "MDc6TGljZW5zZTI4"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 4,
+    "pubby": 9
+  },
+  "pulls_authors": [
+    "jcelerier"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 35620,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:44.994Z"
+}

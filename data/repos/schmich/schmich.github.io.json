@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "schmich.github.io",
+  "full_name": "schmich/schmich.github.io",
+  "owner": "schmich",
+  "private": false,
+  "html_url": "https://github.com/schmich/schmich.github.io",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/schmich/schmich.github.io",
+  "languages_url": "https://api.github.com/repos/schmich/schmich.github.io/languages",
+  "pulls_url": "https://api.github.com/repos/schmich/schmich.github.io/pulls{/number}",
+  "created_at": "2013-08-05T13:47:32Z",
+  "updated_at": "2017-02-08T05:23:55Z",
+  "pushed_at": "2017-02-08T05:24:53Z",
+  "homepage": "http://subrational.com",
+  "size": 98,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "source",
+  "contributors": {
+    "schmich": 45
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 14893,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 7533,
+      "color": "#563d7c"
+    },
+    "Ruby": {
+      "bytes": 1041,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 388,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:20.609Z"
+}

@@ -1,0 +1,85 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "stackage2nix",
+  "full_name": "typeable/stackage2nix",
+  "owner": "typeable",
+  "private": false,
+  "html_url": "https://github.com/typeable/stackage2nix",
+  "description": "Generate Nix build instructions from a Stack file",
+  "fork": false,
+  "url": "https://api.github.com/repos/typeable/stackage2nix",
+  "languages_url": "https://api.github.com/repos/typeable/stackage2nix/languages",
+  "pulls_url": "https://api.github.com/repos/typeable/stackage2nix/pulls{/number}",
+  "created_at": "2017-05-21T18:07:58Z",
+  "updated_at": "2018-09-05T00:30:32Z",
+  "pushed_at": "2018-09-14T00:51:01Z",
+  "homepage": null,
+  "size": 238,
+  "stargazers_count": 37,
+  "language": "Nix",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "typeable",
+    "id": 22911778,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIyOTExNzc4",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/22911778?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/typeable",
+    "html_url": "https://github.com/typeable",
+    "followers_url": "https://api.github.com/users/typeable/followers",
+    "following_url": "https://api.github.com/users/typeable/following{/other_user}",
+    "gists_url": "https://api.github.com/users/typeable/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/typeable/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/typeable/subscriptions",
+    "organizations_url": "https://api.github.com/users/typeable/orgs",
+    "repos_url": "https://api.github.com/users/typeable/repos",
+    "events_url": "https://api.github.com/users/typeable/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/typeable/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "TravisWhitaker": 1,
+    "zimbatm": 1,
+    "dredozubov": 1,
+    "Fuuzetsu": 2,
+    "rdnetto": 3,
+    "nc6": 3,
+    "4e6": 130
+  },
+  "pulls_authors": [
+    "philderbeast",
+    "4e6",
+    "TravisWhitaker",
+    "binarin",
+    "rdnetto",
+    "zimbatm",
+    "nc6",
+    "Fuuzetsu",
+    "dredozubov"
+  ],
+  "languages": {
+    "Nix": {
+      "bytes": 214012,
+      "color": "#7e7eff"
+    },
+    "Haskell": {
+      "bytes": 65220,
+      "color": "#5e5086"
+    },
+    "Shell": {
+      "bytes": 862,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T08:38:37.239Z"
+}

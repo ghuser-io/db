@@ -1,0 +1,104 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nepalmap_app",
+  "full_name": "Code4Nepal/nepalmap_app",
+  "owner": "Code4Nepal",
+  "private": false,
+  "html_url": "https://github.com/Code4Nepal/nepalmap_app",
+  "description": "An application that maps census and other official data for Nepal to make data more easily accessible and understandable to the public. Want to help us? Check out the Wiki.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Code4Nepal/nepalmap_app",
+  "languages_url": "https://api.github.com/repos/Code4Nepal/nepalmap_app/languages",
+  "pulls_url": "https://api.github.com/repos/Code4Nepal/nepalmap_app/pulls{/number}",
+  "created_at": "2016-09-24T20:51:14Z",
+  "updated_at": "2018-09-09T13:08:23Z",
+  "pushed_at": "2018-07-13T01:50:54Z",
+  "homepage": "https://nepalmap.org",
+  "size": 10330,
+  "stargazers_count": 53,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "dev",
+  "organization": {
+    "login": "Code4Nepal",
+    "id": 6979330,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY5NzkzMzA=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/6979330?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Code4Nepal",
+    "html_url": "https://github.com/Code4Nepal",
+    "followers_url": "https://api.github.com/users/Code4Nepal/followers",
+    "following_url": "https://api.github.com/users/Code4Nepal/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Code4Nepal/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Code4Nepal/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Code4Nepal/subscriptions",
+    "organizations_url": "https://api.github.com/users/Code4Nepal/orgs",
+    "repos_url": "https://api.github.com/users/Code4Nepal/repos",
+    "events_url": "https://api.github.com/users/Code4Nepal/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Code4Nepal/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "nikhilgupta23": 1,
+    "luizfelipetx": 2,
+    "codefornepal": 2,
+    "techgaun": 4,
+    "FerranMarin": 5,
+    "Bezzy1999": 9,
+    "ravinepal": 14,
+    "suvash": 16,
+    "crispg72": 18,
+    "cliftonmcintosh": 126
+  },
+  "pulls_authors": [
+    "crackjack",
+    "cliftonmcintosh",
+    "suvash",
+    "Bezzy1999",
+    "FerranMarin",
+    "crispg72",
+    "robalaban",
+    "amitness",
+    "techgaun",
+    "luizfelipetx",
+    "siwalikm",
+    "nikhilgupta23",
+    "ravinepal"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 67337,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 65994,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 53158,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 8313,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 2519,
+      "color": "#427819"
+    },
+    "CSS": {
+      "bytes": 713,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-09T17:58:33.057Z"
+}

@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bashbunny-wiki",
+  "full_name": "hak5/bashbunny-wiki",
+  "owner": "hak5",
+  "private": false,
+  "html_url": "https://github.com/hak5/bashbunny-wiki",
+  "description": "The official Wiki for the Bash Bunny",
+  "fork": false,
+  "url": "https://api.github.com/repos/hak5/bashbunny-wiki",
+  "languages_url": "https://api.github.com/repos/hak5/bashbunny-wiki/languages",
+  "pulls_url": "https://api.github.com/repos/hak5/bashbunny-wiki/pulls{/number}",
+  "created_at": "2017-02-28T21:33:56Z",
+  "updated_at": "2018-08-31T14:22:27Z",
+  "pushed_at": "2018-04-18T02:31:25Z",
+  "homepage": "http://wiki.bashbunny.com",
+  "size": 191,
+  "stargazers_count": 95,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "hak5",
+    "id": 9473275,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjk0NzMyNzU=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/9473275?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hak5",
+    "html_url": "https://github.com/hak5",
+    "followers_url": "https://api.github.com/users/hak5/followers",
+    "following_url": "https://api.github.com/users/hak5/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hak5/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hak5/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hak5/subscriptions",
+    "organizations_url": "https://api.github.com/users/hak5/orgs",
+    "repos_url": "https://api.github.com/users/hak5/repos",
+    "events_url": "https://api.github.com/users/hak5/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hak5/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "kratos13": 1,
+    "HeroCC": 1,
+    "rothgar": 1,
+    "thehappydinoa": 1,
+    "Foxtrot": 1,
+    "stephenschoettler": 1,
+    "sopsmattw": 1,
+    "albatrossflavour": 1,
+    "KhasMek": 1,
+    "sebkinne": 7,
+    "hak5darren": 13
+  },
+  "pulls_authors": [
+    "kratos13",
+    "b0n3zx",
+    "HeroCC",
+    "rothgar",
+    "thehappydinoa",
+    "stephenschoettler",
+    "sopsmattw",
+    "albatrossflavour",
+    "KhasMek"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 339917,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-31T16:32:00.197Z"
+}

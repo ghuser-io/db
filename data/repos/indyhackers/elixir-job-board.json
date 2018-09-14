@@ -1,0 +1,76 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "elixir-job-board",
+  "full_name": "indyhackers/elixir-job-board",
+  "owner": "indyhackers",
+  "private": false,
+  "html_url": "https://github.com/indyhackers/elixir-job-board",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/indyhackers/elixir-job-board",
+  "languages_url": "https://api.github.com/repos/indyhackers/elixir-job-board/languages",
+  "pulls_url": "https://api.github.com/repos/indyhackers/elixir-job-board/pulls{/number}",
+  "created_at": "2016-09-24T13:20:59Z",
+  "updated_at": "2017-12-25T06:07:47Z",
+  "pushed_at": "2017-07-07T18:50:32Z",
+  "homepage": null,
+  "size": 112,
+  "stargazers_count": 1,
+  "language": "Elixir",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "indyhackers",
+    "id": 13541245,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzNTQxMjQ1",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/13541245?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/indyhackers",
+    "html_url": "https://github.com/indyhackers",
+    "followers_url": "https://api.github.com/users/indyhackers/followers",
+    "following_url": "https://api.github.com/users/indyhackers/following{/other_user}",
+    "gists_url": "https://api.github.com/users/indyhackers/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/indyhackers/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/indyhackers/subscriptions",
+    "organizations_url": "https://api.github.com/users/indyhackers/orgs",
+    "repos_url": "https://api.github.com/users/indyhackers/repos",
+    "events_url": "https://api.github.com/users/indyhackers/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/indyhackers/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "unixmonkey": 1,
+    "vidmantas": 1,
+    "securingsincity": 2,
+    "andrewariley87": 10
+  },
+  "pulls_authors": [
+    "unixmonkey",
+    "mileszs",
+    "securingsincity",
+    "vidmantas",
+    "andrewariley87"
+  ],
+  "languages": {
+    "Elixir": {
+      "bytes": 56367,
+      "color": "#6e4a7e"
+    },
+    "HTML": {
+      "bytes": 7474,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 4832,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 440,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T00:33:39.961Z"
+}

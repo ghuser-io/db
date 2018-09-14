@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "domaintool",
+  "full_name": "moul/domaintool",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/domaintool",
+  "description": "Blazing fast domain names finder",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/domaintool",
+  "languages_url": "https://api.github.com/repos/moul/domaintool/languages",
+  "pulls_url": "https://api.github.com/repos/moul/domaintool/pulls{/number}",
+  "created_at": "2012-11-09T00:30:47Z",
+  "updated_at": "2015-11-04T15:54:47Z",
+  "pushed_at": "2018-08-18T16:09:08Z",
+  "homepage": "",
+  "size": 33,
+  "stargazers_count": 5,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Romz": 1,
+    "moul": 37
+  },
+  "pulls_authors": [
+    "renovate[bot]",
+    "Romz"
+  ],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 11006,
+      "color": "#244776"
+    },
+    "Shell": {
+      "bytes": 590,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:49.071Z"
+}

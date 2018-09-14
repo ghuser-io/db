@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "limbo",
+  "full_name": "sentinelleader/limbo",
+  "owner": "sentinelleader",
+  "private": false,
+  "html_url": "https://github.com/sentinelleader/limbo",
+  "description": "A simple, clean, easy to modify Slack chatbot (used to be called slask)",
+  "fork": true,
+  "url": "https://api.github.com/repos/sentinelleader/limbo",
+  "languages_url": "https://api.github.com/repos/sentinelleader/limbo/languages",
+  "pulls_url": "https://api.github.com/repos/sentinelleader/limbo/pulls{/number}",
+  "created_at": "2015-06-02T22:20:44Z",
+  "updated_at": "2015-12-13T18:15:56Z",
+  "pushed_at": "2015-06-02T23:25:38Z",
+  "homepage": "",
+  "size": 9461,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "stopspazzing": 1,
+    "JoeGermuska": 1,
+    "fsalum": 1,
+    "noise": 2,
+    "mattfora": 2,
+    "rodvdka": 3,
+    "llimllib": 45
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 123823,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 655,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-10T15:12:15.511Z"
+}

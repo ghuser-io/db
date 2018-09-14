@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "php-ini-parser",
+  "full_name": "tajawal/php-ini-parser",
+  "owner": "tajawal",
+  "private": false,
+  "html_url": "https://github.com/tajawal/php-ini-parser",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/tajawal/php-ini-parser",
+  "languages_url": "https://api.github.com/repos/tajawal/php-ini-parser/languages",
+  "pulls_url": "https://api.github.com/repos/tajawal/php-ini-parser/pulls{/number}",
+  "created_at": "2017-02-16T14:34:13Z",
+  "updated_at": "2018-06-26T16:09:55Z",
+  "pushed_at": "2017-02-16T14:40:26Z",
+  "homepage": null,
+  "size": 84,
+  "stargazers_count": 4,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "tajawal",
+    "id": 13661694,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzNjYxNjk0",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/13661694?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/tajawal",
+    "html_url": "https://github.com/tajawal",
+    "followers_url": "https://api.github.com/users/tajawal/followers",
+    "following_url": "https://api.github.com/users/tajawal/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tajawal/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/tajawal/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tajawal/subscriptions",
+    "organizations_url": "https://api.github.com/users/tajawal/orgs",
+    "repos_url": "https://api.github.com/users/tajawal/repos",
+    "events_url": "https://api.github.com/users/tajawal/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/tajawal/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "pyrsmk": 1,
+    "fredpe": 1,
+    "Meabed": 5,
+    "javiermarinros": 13,
+    "kamranahmedse": 16,
+    "austinhyde": 28,
+    "till": 42
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 25246,
+      "color": "#4F5D95"
+    },
+    "Makefile": {
+      "bytes": 309,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:40.348Z"
+}

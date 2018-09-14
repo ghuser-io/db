@@ -1,0 +1,90 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "algos",
+  "full_name": "nvzard/algos",
+  "owner": "nvzard",
+  "private": false,
+  "html_url": "https://github.com/nvzard/algos",
+  "description": "Popular Algorithms and Data Structures implemented in popular languages",
+  "fork": true,
+  "url": "https://api.github.com/repos/nvzard/algos",
+  "languages_url": "https://api.github.com/repos/nvzard/algos/languages",
+  "created_at": "2017-08-22T09:48:47Z",
+  "updated_at": "2017-08-22T09:48:49Z",
+  "pushed_at": "2017-08-21T03:03:55Z",
+  "homepage": "",
+  "size": 275,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "domgetter": 1,
+    "hloeffler": 1,
+    "dansouza": 1,
+    "khilanravani": 1,
+    "S2606": 1,
+    "HarshKhatore": 1,
+    "hims1911": 1,
+    "rajeeviiit": 1,
+    "sandeep201451066": 1,
+    "TarunISCO": 2,
+    "stanislavkozlovski": 2,
+    "lalitmee": 2,
+    "DivyeshPuri": 3,
+    "sirfoga": 3,
+    "Hsankesara": 4,
+    "Prakash2403": 4,
+    "PiyushPawar17": 4,
+    "jsroyal": 6,
+    "rashinanwani": 7,
+    "yashLadha": 10,
+    "mohitkyadav": 13,
+    "anshumanv": 15,
+    "singhpratyush": 24,
+    "Monal5031": 38,
+    "aashutoshrathi": 41,
+    "aviaryan": 45
+  },
+  "languages": {
+    "Java": {
+      "bytes": 60047,
+      "color": "#b07219"
+    },
+    "Python": {
+      "bytes": 46886,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 23344,
+      "color": "#555555"
+    },
+    "JavaScript": {
+      "bytes": 22815,
+      "color": "#f1e05a"
+    },
+    "Go": {
+      "bytes": 13835,
+      "color": "#375eab"
+    },
+    "C++": {
+      "bytes": 9325,
+      "color": "#f34b7d"
+    },
+    "Shell": {
+      "bytes": 1756,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/nvzard/algos/pulls{/number}",
+  "pulls_authors": []
+}

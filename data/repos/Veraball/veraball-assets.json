@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Swyter": 1,
+    "Calinou": 9
+  },
+  "name": "veraball-assets",
+  "full_name": "Veraball/veraball-assets",
+  "owner": "Veraball",
+  "private": false,
+  "html_url": "https://github.com/Veraball/veraball-assets",
+  "description": "Source assets for Veraball",
+  "fork": false,
+  "url": "https://api.github.com/repos/Veraball/veraball-assets",
+  "languages_url": "https://api.github.com/repos/Veraball/veraball-assets/languages",
+  "created_at": "2015-11-22T18:03:19Z",
+  "updated_at": "2016-06-06T06:38:42Z",
+  "pushed_at": "2016-06-06T06:38:41Z",
+  "homepage": "https://github.com/Veraball/veraball",
+  "size": 9306,
+  "stargazers_count": 1,
+  "language": "NSIS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "Veraball",
+    "id": 15969517,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1OTY5NTE3",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/15969517?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Veraball",
+    "html_url": "https://github.com/Veraball",
+    "followers_url": "https://api.github.com/users/Veraball/followers",
+    "following_url": "https://api.github.com/users/Veraball/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Veraball/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Veraball/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Veraball/subscriptions",
+    "organizations_url": "https://api.github.com/users/Veraball/orgs",
+    "repos_url": "https://api.github.com/users/Veraball/repos",
+    "events_url": "https://api.github.com/users/Veraball/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Veraball/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "NSIS": {
+      "bytes": 5199,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/Veraball/veraball-assets/pulls{/number}",
+  "pulls_authors": [
+    "Swyter"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "france-flairs",
+  "full_name": "L-P/france-flairs",
+  "owner": "L-P",
+  "private": false,
+  "html_url": "https://github.com/L-P/france-flairs",
+  "description": "Flairs for the /r/france subreddit.",
+  "fork": false,
+  "url": "https://api.github.com/repos/L-P/france-flairs",
+  "languages_url": "https://api.github.com/repos/L-P/france-flairs/languages",
+  "pulls_url": "https://api.github.com/repos/L-P/france-flairs/pulls{/number}",
+  "created_at": "2018-07-15T15:06:49Z",
+  "updated_at": "2018-09-05T21:40:57Z",
+  "pushed_at": "2018-09-05T21:40:56Z",
+  "homepage": null,
+  "size": 4008,
+  "stargazers_count": 4,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ubomw": 4,
+    "L-P": 17
+  },
+  "pulls_authors": [
+    "ubomw"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 63863,
+      "color": "#563d7c"
+    },
+    "Makefile": {
+      "bytes": 526,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T23:07:59.120Z"
+}

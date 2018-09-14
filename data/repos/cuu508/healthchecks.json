@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "healthchecks",
+  "full_name": "cuu508/healthchecks",
+  "owner": "cuu508",
+  "private": false,
+  "html_url": "https://github.com/cuu508/healthchecks",
+  "description": "Django app which listens for pings and sends alerts when pings are late",
+  "fork": true,
+  "url": "https://api.github.com/repos/cuu508/healthchecks",
+  "languages_url": "https://api.github.com/repos/cuu508/healthchecks/languages",
+  "pulls_url": "https://api.github.com/repos/cuu508/healthchecks/pulls{/number}",
+  "created_at": "2017-12-27T10:40:43Z",
+  "updated_at": "2018-02-10T22:14:41Z",
+  "pushed_at": "2017-12-17T15:04:25Z",
+  "homepage": "https://healthchecks.io",
+  "size": 4241,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "fishnux": 1,
+    "marksteve": 1,
+    "prgTW": 1,
+    "iphoting": 1,
+    "tillkahlbrock": 1,
+    "jjhuang": 1,
+    "MounirMesselmeni": 1,
+    "mlanner": 1,
+    "cdax": 2,
+    "zonito": 2,
+    "gmoigneu": 2,
+    "umitakkaya": 3,
+    "mkelley82": 3,
+    "Schnouki": 3,
+    "someposer": 8,
+    "foozmeat": 8,
+    "armiiller": 11,
+    "diwu1989": 19,
+    "cuu508": 467
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 327389,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 279012,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 37483,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 25756,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 59,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:23.697Z"
+}

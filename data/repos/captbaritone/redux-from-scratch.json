@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "redux-from-scratch",
+  "full_name": "captbaritone/redux-from-scratch",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/redux-from-scratch",
+  "description": "Official code for my ebook, Redux From Scratch",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/redux-from-scratch",
+  "languages_url": "https://api.github.com/repos/captbaritone/redux-from-scratch/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/redux-from-scratch/pulls{/number}",
+  "created_at": "2017-07-13T15:05:17Z",
+  "updated_at": "2018-07-29T22:13:17Z",
+  "pushed_at": "2017-07-13T15:08:26Z",
+  "homepage": "https://leanpub.com/reduxfromscratch",
+  "size": 295,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "michaelmang": 53
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2686622,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 16690,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 2472,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:53.775Z"
+}

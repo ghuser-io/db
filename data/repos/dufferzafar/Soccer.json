@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Soccer",
+  "full_name": "dufferzafar/Soccer",
+  "owner": "dufferzafar",
+  "private": false,
+  "html_url": "https://github.com/dufferzafar/Soccer",
+  "description": "Tired of searching the melange website for GSoC projects? Here's something that's visually pleasing and fast.",
+  "fork": false,
+  "url": "https://api.github.com/repos/dufferzafar/Soccer",
+  "languages_url": "https://api.github.com/repos/dufferzafar/Soccer/languages",
+  "pulls_url": "https://api.github.com/repos/dufferzafar/Soccer/pulls{/number}",
+  "created_at": "2014-06-26T17:25:00Z",
+  "updated_at": "2018-09-02T04:12:45Z",
+  "pushed_at": "2015-06-05T16:43:56Z",
+  "homepage": "http://dufferzafar.github.io/Soccer/",
+  "size": 1316,
+  "stargazers_count": 15,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "iCHAIT": 3,
+    "dufferzafar": 19
+  },
+  "pulls_authors": [
+    "iCHAIT"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 11900,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 3933,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 2750,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1847,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-03T12:57:03.196Z"
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Mickey.js",
+  "full_name": "mdibaiee/Mickey.js",
+  "owner": "mdibaiee",
+  "private": false,
+  "html_url": "https://github.com/mdibaiee/Mickey.js",
+  "description": "[DEPRECATED] Mouses are smarter these days! A handy tool to make it easy to play with mouses.",
+  "fork": false,
+  "url": "https://api.github.com/repos/mdibaiee/Mickey.js",
+  "languages_url": "https://api.github.com/repos/mdibaiee/Mickey.js/languages",
+  "pulls_url": "https://api.github.com/repos/mdibaiee/Mickey.js/pulls{/number}",
+  "created_at": "2013-05-14T08:57:35Z",
+  "updated_at": "2017-12-05T19:04:58Z",
+  "pushed_at": "2014-11-06T09:48:02Z",
+  "homepage": "",
+  "size": 283,
+  "stargazers_count": 13,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mdibaiee": 42
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 10869,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 1291,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:46.142Z"
+}

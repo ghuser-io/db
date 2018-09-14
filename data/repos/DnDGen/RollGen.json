@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "RollGen",
+  "full_name": "DnDGen/RollGen",
+  "owner": "DnDGen",
+  "private": false,
+  "html_url": "https://github.com/DnDGen/RollGen",
+  "description": "Rolls a set of dice, as determined by the D20 die system.",
+  "fork": false,
+  "url": "https://api.github.com/repos/DnDGen/RollGen",
+  "languages_url": "https://api.github.com/repos/DnDGen/RollGen/languages",
+  "pulls_url": "https://api.github.com/repos/DnDGen/RollGen/pulls{/number}",
+  "created_at": "2013-04-08T14:13:00Z",
+  "updated_at": "2018-06-29T21:19:11Z",
+  "pushed_at": "2018-06-29T22:07:25Z",
+  "homepage": "http://dndgen.com",
+  "size": 13127,
+  "stargazers_count": 3,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "DnDGen",
+    "id": 13562846,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzNTYyODQ2",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/13562846?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/DnDGen",
+    "html_url": "https://github.com/DnDGen",
+    "followers_url": "https://api.github.com/users/DnDGen/followers",
+    "following_url": "https://api.github.com/users/DnDGen/following{/other_user}",
+    "gists_url": "https://api.github.com/users/DnDGen/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/DnDGen/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/DnDGen/subscriptions",
+    "organizations_url": "https://api.github.com/users/DnDGen/orgs",
+    "repos_url": "https://api.github.com/users/DnDGen/repos",
+    "events_url": "https://api.github.com/users/DnDGen/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/DnDGen/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "aloisdg": 3,
+    "Lirusaito": 23,
+    "cidthecoatrack": 49
+  },
+  "pulls_authors": [
+    "Lirusaito",
+    "aloisdg"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 176437,
+      "color": "#178600"
+    },
+    "Shell": {
+      "bytes": 353,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:16.367Z"
+}

@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ec2onrails",
+  "full_name": "synth/ec2onrails",
+  "owner": "synth",
+  "private": false,
+  "html_url": "https://github.com/synth/ec2onrails",
+  "description": "EC2 on Rails - Deploy a Ruby on Rails app on EC2 in five minutes",
+  "fork": true,
+  "url": "https://api.github.com/repos/synth/ec2onrails",
+  "languages_url": "https://api.github.com/repos/synth/ec2onrails/languages",
+  "pulls_url": "https://api.github.com/repos/synth/ec2onrails/pulls{/number}",
+  "created_at": "2010-02-01T01:34:49Z",
+  "updated_at": "2012-12-13T22:39:18Z",
+  "pushed_at": "2010-01-11T19:55:35Z",
+  "homepage": "http://ec2onrails.rubyforge.org/",
+  "size": 754,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "arpitjain11": 1,
+    "ChrisNolan": 2,
+    "bpaul": 2,
+    "Empact": 3,
+    "DrMark": 9,
+    "pauldowman": 371
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-11T23:12:22.553Z"
+}

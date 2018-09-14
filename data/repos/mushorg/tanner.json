@@ -1,0 +1,104 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tanner",
+  "full_name": "mushorg/tanner",
+  "owner": "mushorg",
+  "private": false,
+  "html_url": "https://github.com/mushorg/tanner",
+  "description": "He who flays the hide",
+  "fork": false,
+  "url": "https://api.github.com/repos/mushorg/tanner",
+  "languages_url": "https://api.github.com/repos/mushorg/tanner/languages",
+  "pulls_url": "https://api.github.com/repos/mushorg/tanner/pulls{/number}",
+  "created_at": "2015-08-08T15:28:24Z",
+  "updated_at": "2018-09-09T15:24:01Z",
+  "pushed_at": "2018-08-07T19:26:32Z",
+  "homepage": null,
+  "size": 26099,
+  "stargazers_count": 62,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "mushorg",
+    "id": 2742625,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI3NDI2MjU=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2742625?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mushorg",
+    "html_url": "https://github.com/mushorg",
+    "followers_url": "https://api.github.com/users/mushorg/followers",
+    "following_url": "https://api.github.com/users/mushorg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mushorg/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mushorg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mushorg/subscriptions",
+    "organizations_url": "https://api.github.com/users/mushorg/orgs",
+    "repos_url": "https://api.github.com/users/mushorg/repos",
+    "events_url": "https://api.github.com/users/mushorg/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mushorg/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "xandfury": 1,
+    "surajt97": 1,
+    "dim0x69": 1,
+    "standa4": 1,
+    "davidzlewis": 1,
+    "kevthehermit": 1,
+    "mzfr": 2,
+    "t3chn0m4g3": 3,
+    "nsmfoo": 4,
+    "X4mp": 7,
+    "viskey98": 12,
+    "glaslos": 12,
+    "rnehra01": 43,
+    "afeena": 85
+  },
+  "pulls_authors": [
+    "t3chn0m4g3",
+    "viskey98",
+    "afeena",
+    "xandfury",
+    "mzfr",
+    "surajt97",
+    "nsmfoo",
+    "dim0x69",
+    "standa4",
+    "rnehra01",
+    "davidzlewis",
+    "X4mp",
+    "kevthehermit"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 131555,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 5184,
+      "color": "#e34c26"
+    },
+    "Dockerfile": {
+      "bytes": 2612,
+      "color": "#0db7ed"
+    },
+    "JavaScript": {
+      "bytes": 372,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 182,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-09T18:03:54.112Z"
+}

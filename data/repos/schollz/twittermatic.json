@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "twittermatic",
+  "full_name": "schollz/twittermatic",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/twittermatic",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/twittermatic",
+  "languages_url": "https://api.github.com/repos/schollz/twittermatic/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/twittermatic/pulls{/number}",
+  "created_at": "2015-10-06T16:29:23Z",
+  "updated_at": "2018-03-03T06:23:09Z",
+  "pushed_at": "2016-03-04T15:01:22Z",
+  "homepage": null,
+  "size": 72019,
+  "stargazers_count": 2,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sjsafranek": 28,
+    "schollz": 85
+  },
+  "pulls_authors": [
+    "schollz"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 5876811,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 952216,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 170086,
+      "color": "#563d7c"
+    },
+    "Python": {
+      "bytes": 56585,
+      "color": "#3572A5"
+    },
+    "PHP": {
+      "bytes": 27909,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:46.498Z"
+}

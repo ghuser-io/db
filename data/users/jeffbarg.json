@@ -1,0 +1,32 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "jeffbarg",
+  "ghuser_created_at": "2018-09-11T23:45:07.461Z",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/345248?v=4",
+  "html_url": "https://github.com/jeffbarg",
+  "organizations_url": "https://api.github.com/users/jeffbarg/orgs",
+  "repos_url": "https://api.github.com/users/jeffbarg/repos",
+  "type": "User",
+  "name": "Jeff Barg",
+  "company": null,
+  "blog": "https://jeffbarg.com/",
+  "location": "New York",
+  "email": "jeffbarg94@gmail.com",
+  "bio": "Software Developer at Amazon",
+  "public_gists": 3,
+  "created_at": "2010-07-27T02:51:07Z",
+  "updated_at": "2018-09-10T13:56:41Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:14:44.343Z",
+    "repos": [
+      "jeffbarg/SwipeView",
+      "jeffbarg/Littlecoin",
+      "jeffbarg/Tic-Tac-Toe",
+      "jeffbarg/Kotlin-Koans",
+      "jeffbarg/jeffbarg.github.io",
+      "jeffbarg/ProjectEuler-Elixir",
+      "avelino/awesome-go"
+    ]
+  }
+}

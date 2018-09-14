@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "FlaskBudget",
+  "full_name": "radekstepan/FlaskBudget",
+  "owner": "radekstepan",
+  "private": false,
+  "html_url": "https://github.com/radekstepan/FlaskBudget",
+  "description": "A Budget application for couples in Flask",
+  "fork": false,
+  "url": "https://api.github.com/repos/radekstepan/FlaskBudget",
+  "languages_url": "https://api.github.com/repos/radekstepan/FlaskBudget/languages",
+  "pulls_url": "https://api.github.com/repos/radekstepan/FlaskBudget/pulls{/number}",
+  "created_at": "2011-08-15T20:35:03Z",
+  "updated_at": "2018-07-07T10:05:56Z",
+  "pushed_at": "2014-06-23T15:27:32Z",
+  "homepage": "",
+  "size": 451,
+  "stargazers_count": 5,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "cc0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "spdx_id": "CC0-1.0",
+    "url": "https://api.github.com/licenses/cc0-1.0",
+    "node_id": "MDc6TGljZW5zZTY="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "radekstepan": 84
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 269247,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 15312,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T13:50:56.564Z"
+}

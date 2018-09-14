@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "opencall",
+  "full_name": "opencall/opencall",
+  "owner": "opencall",
+  "private": false,
+  "html_url": "https://github.com/opencall/opencall",
+  "description": "Opencall",
+  "fork": false,
+  "url": "https://api.github.com/repos/opencall/opencall",
+  "languages_url": "https://api.github.com/repos/opencall/opencall/languages",
+  "pulls_url": "https://api.github.com/repos/opencall/opencall/pulls{/number}",
+  "created_at": "2013-09-03T11:01:04Z",
+  "updated_at": "2018-06-16T14:36:38Z",
+  "pushed_at": "2014-05-08T10:24:27Z",
+  "homepage": "http://www.ocall.org",
+  "size": 26679,
+  "stargazers_count": 253,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "development",
+  "contributors": {
+    "engstrom": 1,
+    "jtreminio": 1,
+    "opencall": 1,
+    "jankstudio": 432
+  },
+  "pulls_authors": [
+    "thoroc",
+    "iolloyd",
+    "nhenezi",
+    "engstrom",
+    "jtreminio"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 3518467,
+      "color": "#f1e05a"
+    },
+    "PHP": {
+      "bytes": 1655047,
+      "color": "#4F5D95"
+    },
+    "CSS": {
+      "bytes": 1033290,
+      "color": "#563d7c"
+    },
+    "CoffeeScript": {
+      "bytes": 57172,
+      "color": "#244776"
+    },
+    "Go": {
+      "bytes": 6713,
+      "color": "#375eab"
+    },
+    "Shell": {
+      "bytes": 5610,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 5173,
+      "color": "#3572A5"
+    },
+    "Ruby": {
+      "bytes": 861,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:28.614Z"
+}

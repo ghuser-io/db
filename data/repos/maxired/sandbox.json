@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sandbox",
+  "full_name": "maxired/sandbox",
+  "owner": "maxired",
+  "private": false,
+  "html_url": "https://github.com/maxired/sandbox",
+  "description": "A nifty javascript sandbox for node.js",
+  "fork": true,
+  "url": "https://api.github.com/repos/maxired/sandbox",
+  "languages_url": "https://api.github.com/repos/maxired/sandbox/languages",
+  "pulls_url": "https://api.github.com/repos/maxired/sandbox/pulls{/number}",
+  "created_at": "2013-01-31T20:00:42Z",
+  "updated_at": "2013-11-27T18:06:07Z",
+  "pushed_at": "2013-01-31T20:01:53Z",
+  "homepage": "http://gf3.github.com/sandbox/",
+  "size": 222,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "maxired": 1,
+    "Marsup": 1,
+    "dominictarr": 4,
+    "gf3": 26,
+    "temsa": 39
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 35842,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:34.078Z"
+}

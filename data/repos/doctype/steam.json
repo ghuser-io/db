@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "steam",
+  "full_name": "doctype/steam",
+  "owner": "doctype",
+  "private": false,
+  "html_url": "https://github.com/doctype/steam",
+  "description": "Steam Library written in Go",
+  "fork": false,
+  "url": "https://api.github.com/repos/doctype/steam",
+  "languages_url": "https://api.github.com/repos/doctype/steam/languages",
+  "pulls_url": "https://api.github.com/repos/doctype/steam/pulls{/number}",
+  "created_at": "2016-03-20T00:24:28Z",
+  "updated_at": "2018-09-13T21:39:13Z",
+  "pushed_at": "2018-05-30T09:44:32Z",
+  "homepage": null,
+  "size": 196,
+  "stargazers_count": 35,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-2.1",
+    "name": "GNU Lesser General Public License v2.1",
+    "spdx_id": "LGPL-2.1",
+    "url": "https://api.github.com/licenses/lgpl-2.1",
+    "node_id": "MDc6TGljZW5zZTEx"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "doctype",
+    "id": 29440542,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI5NDQwNTQy",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/29440542?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/doctype",
+    "html_url": "https://github.com/doctype",
+    "followers_url": "https://api.github.com/users/doctype/followers",
+    "following_url": "https://api.github.com/users/doctype/following{/other_user}",
+    "gists_url": "https://api.github.com/users/doctype/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/doctype/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/doctype/subscriptions",
+    "organizations_url": "https://api.github.com/users/doctype/orgs",
+    "repos_url": "https://api.github.com/users/doctype/repos",
+    "events_url": "https://api.github.com/users/doctype/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/doctype/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ranisalt": 1,
+    "evassilyev": 1,
+    "fortis": 1,
+    "bakerj76": 1,
+    "RonMelkhior": 4,
+    "furdarius": 7,
+    "marksamman": 26,
+    "asamy": 164
+  },
+  "pulls_authors": [
+    "ranisalt",
+    "RonMelkhior",
+    "evassilyev",
+    "fortis",
+    "bakerj76",
+    "furdarius"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 71002,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-13T23:53:10.299Z"
+}

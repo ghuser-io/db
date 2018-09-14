@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "multipath-sdn-controller",
+  "full_name": "dariobanfi/multipath-sdn-controller",
+  "owner": "dariobanfi",
+  "private": false,
+  "html_url": "https://github.com/dariobanfi/multipath-sdn-controller",
+  "description": "🎛 Multipath Software Defined Networking Controller which sets up multipath forwarding tables and adjusts them based on network measurements",
+  "fork": false,
+  "url": "https://api.github.com/repos/dariobanfi/multipath-sdn-controller",
+  "languages_url": "https://api.github.com/repos/dariobanfi/multipath-sdn-controller/languages",
+  "pulls_url": "https://api.github.com/repos/dariobanfi/multipath-sdn-controller/pulls{/number}",
+  "created_at": "2016-01-08T06:46:54Z",
+  "updated_at": "2018-09-13T09:55:41Z",
+  "pushed_at": "2017-11-11T18:42:38Z",
+  "homepage": "",
+  "size": 332,
+  "stargazers_count": 16,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "dariobanfi": 10
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 61996,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 640,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T16:29:00.407Z"
+}

@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "prettyoutput",
+  "full_name": "Aareon/prettyoutput",
+  "owner": "Aareon",
+  "private": false,
+  "html_url": "https://github.com/Aareon/prettyoutput",
+  "description": "A functional output module to pretty up your console!",
+  "fork": false,
+  "url": "https://api.github.com/repos/Aareon/prettyoutput",
+  "languages_url": "https://api.github.com/repos/Aareon/prettyoutput/languages",
+  "created_at": "2017-04-02T23:02:28Z",
+  "updated_at": "2018-06-04T22:36:45Z",
+  "pushed_at": "2017-06-18T18:01:10Z",
+  "homepage": null,
+  "size": 16,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "heyitswither": 1,
+    "SahilAgarwal321": 4,
+    "Aareon": 20
+  },
+  "languages": {
+    "Python": {
+      "bytes": 3205,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/Aareon/prettyoutput/pulls{/number}",
+  "pulls_authors": [
+    "heyitswither",
+    "SahilAgarwal321"
+  ]
+}

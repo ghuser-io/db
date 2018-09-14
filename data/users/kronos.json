@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "kronos",
+  "ghuser_created_at": "2018-09-11T21:23:13.674Z",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/5432?v=4",
+  "html_url": "https://github.com/kronos",
+  "organizations_url": "https://api.github.com/users/kronos/orgs",
+  "repos_url": "https://api.github.com/users/kronos/repos",
+  "type": "User",
+  "name": "Ivan Samsonov",
+  "company": null,
+  "blog": "http://kronos.me",
+  "location": "Moscow, Russia",
+  "email": "hronya@gmail.com",
+  "bio": "Clojure!",
+  "public_gists": 132,
+  "created_at": "2008-04-06T17:47:54Z",
+  "updated_at": "2018-08-22T22:15:33Z",
+  "organizations": [
+    "rubinius",
+    "RealisticGroup",
+    "lepers"
+  ],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:15:14.563Z",
+    "repos": [
+      "kronos/Task-solutions",
+      "kronos/clojure-dojo",
+      "truckerpath/icfpc-2017",
+      "kronos/ppp",
+      "kronos/kronos.github.io",
+      "michaelklishin/monger",
+      "kronos/google-cache",
+      "kronos/emacs.d",
+      "kronos/project-euler",
+      "rubinius/rubinius",
+      "wheely/foursquare",
+      "quirkey/resque-status",
+      "quirkey/redisk",
+      "kronos/string-format",
+      "kronos/ruby-libvirt",
+      "kronos/fog",
+      "kronos/gilenson",
+      "kronos/plist-official",
+      "kronos/rack-mobile-detect",
+      "kronos/rcov",
+      "kronos/resque-status",
+      "kronos/typhoeus"
+    ]
+  }
+}

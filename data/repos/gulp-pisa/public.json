@@ -1,0 +1,100 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "public",
+  "full_name": "gulp-pisa/public",
+  "owner": "gulp-pisa",
+  "private": false,
+  "html_url": "https://github.com/gulp-pisa/public",
+  "description": "Repository del materiale pubblico del GULP (Gruppo Utenti Linux Pisa)",
+  "fork": false,
+  "url": "https://api.github.com/repos/gulp-pisa/public",
+  "languages_url": "https://api.github.com/repos/gulp-pisa/public/languages",
+  "pulls_url": "https://api.github.com/repos/gulp-pisa/public/pulls{/number}",
+  "created_at": "2015-04-20T14:03:55Z",
+  "updated_at": "2017-11-16T06:28:39Z",
+  "pushed_at": "2017-11-16T06:28:30Z",
+  "homepage": null,
+  "size": 939803,
+  "stargazers_count": 7,
+  "language": "Jupyter Notebook",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "gulp-pisa",
+    "id": 12034710,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMDM0NzEw",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/12034710?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/gulp-pisa",
+    "html_url": "https://github.com/gulp-pisa",
+    "followers_url": "https://api.github.com/users/gulp-pisa/followers",
+    "following_url": "https://api.github.com/users/gulp-pisa/following{/other_user}",
+    "gists_url": "https://api.github.com/users/gulp-pisa/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/gulp-pisa/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/gulp-pisa/subscriptions",
+    "organizations_url": "https://api.github.com/users/gulp-pisa/orgs",
+    "repos_url": "https://api.github.com/users/gulp-pisa/repos",
+    "events_url": "https://api.github.com/users/gulp-pisa/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/gulp-pisa/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "toobaz": 2,
+    "giomasce": 5,
+    "bud4": 8,
+    "cortinico": 19
+  },
+  "pulls_authors": [
+    "toobaz"
+  ],
+  "languages": {
+    "Jupyter Notebook": {
+      "bytes": 324387,
+      "color": "#DA5B0B"
+    },
+    "C": {
+      "bytes": 116788,
+      "color": "#555555"
+    },
+    "TeX": {
+      "bytes": 105510,
+      "color": "#3D6117"
+    },
+    "C++": {
+      "bytes": 86231,
+      "color": "#f34b7d"
+    },
+    "Python": {
+      "bytes": 14012,
+      "color": "#3572A5"
+    },
+    "Common Lisp": {
+      "bytes": 8672,
+      "color": "#3fb68b"
+    },
+    "Go": {
+      "bytes": 4965,
+      "color": "#375eab"
+    },
+    "OpenSCAD": {
+      "bytes": 3234,
+      "color": "#ccc"
+    },
+    "Matlab": {
+      "bytes": 1306,
+      "color": "#e16737"
+    },
+    "Arduino": {
+      "bytes": 1231,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 111,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:25.272Z"
+}

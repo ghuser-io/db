@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "MaterialDesign-React",
+  "full_name": "Templarian/MaterialDesign-React",
+  "owner": "Templarian",
+  "private": false,
+  "html_url": "https://github.com/Templarian/MaterialDesign-React",
+  "description": "Dist for Material Design Icons React",
+  "fork": false,
+  "url": "https://api.github.com/repos/Templarian/MaterialDesign-React",
+  "languages_url": "https://api.github.com/repos/Templarian/MaterialDesign-React/languages",
+  "pulls_url": "https://api.github.com/repos/Templarian/MaterialDesign-React/pulls{/number}",
+  "created_at": "2018-08-07T01:56:48Z",
+  "updated_at": "2018-09-09T21:16:27Z",
+  "pushed_at": "2018-09-06T02:50:28Z",
+  "homepage": null,
+  "size": 260,
+  "stargazers_count": 13,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Templarian": 65,
+    "azdanov": 3
+  },
+  "pulls_authors": [
+    "azdanov",
+    "Templarian"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 15564,
+      "color": "#2b7489"
+    },
+    "JavaScript": {
+      "bytes": 539,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-09T22:39:35.424Z"
+}

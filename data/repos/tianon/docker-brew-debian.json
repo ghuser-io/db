@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docker-brew-debian",
+  "full_name": "tianon/docker-brew-debian",
+  "owner": "tianon",
+  "private": false,
+  "html_url": "https://github.com/tianon/docker-brew-debian",
+  "description": "DEPRECATED in favor of https://github.com/debuerreotype/docker-debian-artifacts",
+  "fork": false,
+  "url": "https://api.github.com/repos/tianon/docker-brew-debian",
+  "languages_url": "https://api.github.com/repos/tianon/docker-brew-debian/languages",
+  "pulls_url": "https://api.github.com/repos/tianon/docker-brew-debian/pulls{/number}",
+  "created_at": "2013-10-15T17:52:32Z",
+  "updated_at": "2018-07-25T11:15:40Z",
+  "pushed_at": "2017-06-07T20:46:15Z",
+  "homepage": "",
+  "size": 310397,
+  "stargazers_count": 111,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "PeterDaveHello": 1,
+    "moul": 1,
+    "tianon": 52
+  },
+  "pulls_authors": [
+    "PeterDaveHello",
+    "andsens",
+    "almir",
+    "moul"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 11083,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:45.697Z"
+}

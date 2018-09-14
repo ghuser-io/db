@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Segment",
+  "full_name": "AltThree/Segment",
+  "owner": "AltThree",
+  "private": false,
+  "html_url": "https://github.com/AltThree/Segment",
+  "description": "A Segment bridge for Laravel 5.",
+  "fork": false,
+  "url": "https://api.github.com/repos/AltThree/Segment",
+  "languages_url": "https://api.github.com/repos/AltThree/Segment/languages",
+  "pulls_url": "https://api.github.com/repos/AltThree/Segment/pulls{/number}",
+  "created_at": "2015-06-25T15:02:56Z",
+  "updated_at": "2018-07-18T21:47:25Z",
+  "pushed_at": "2018-09-04T20:13:07Z",
+  "homepage": "https://alt-three.com/",
+  "size": 42,
+  "stargazers_count": 26,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "AltThree",
+    "id": 12829457,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyODI5NDU3",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/12829457?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/AltThree",
+    "html_url": "https://github.com/AltThree",
+    "followers_url": "https://api.github.com/users/AltThree/followers",
+    "following_url": "https://api.github.com/users/AltThree/following{/other_user}",
+    "gists_url": "https://api.github.com/users/AltThree/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/AltThree/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/AltThree/subscriptions",
+    "organizations_url": "https://api.github.com/users/AltThree/orgs",
+    "repos_url": "https://api.github.com/users/AltThree/repos",
+    "events_url": "https://api.github.com/users/AltThree/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/AltThree/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jycr753": 1,
+    "danrovito": 1,
+    "MarioPerezEsteso": 7,
+    "GrahamCampbell": 54
+  },
+  "pulls_authors": [
+    "trideout",
+    "connor11528",
+    "GrahamCampbell",
+    "MarioPerezEsteso",
+    "seblavoie",
+    "jycr753",
+    "danrovito"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 4605,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T05:04:16.358Z"
+}

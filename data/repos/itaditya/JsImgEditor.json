@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "JsImgEditor",
+  "full_name": "itaditya/JsImgEditor",
+  "owner": "itaditya",
+  "private": false,
+  "html_url": "https://github.com/itaditya/JsImgEditor",
+  "description": "A Javascript heavy web app for photo editing",
+  "fork": false,
+  "url": "https://api.github.com/repos/itaditya/JsImgEditor",
+  "languages_url": "https://api.github.com/repos/itaditya/JsImgEditor/languages",
+  "created_at": "2016-07-08T12:06:12Z",
+  "updated_at": "2018-07-08T02:53:09Z",
+  "pushed_at": "2018-04-14T13:34:28Z",
+  "homepage": "https://picfilter.netlify.com/",
+  "size": 1031,
+  "stargazers_count": 8,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Maowse": 1,
+    "itaditya": 5
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 8944,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 4562,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1739,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/itaditya/JsImgEditor/pulls{/number}",
+  "pulls_authors": [
+    "kunalvishnoi",
+    "seixasfelipe",
+    "199911",
+    "joni2back",
+    "lucassoares",
+    "matthewgallo",
+    "sirjan13",
+    "Maowse",
+    "acurat",
+    "heyarviind"
+  ]
+}

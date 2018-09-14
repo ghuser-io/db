@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "owenlejeune",
+  "ghuser_created_at": "2018-08-17T16:35:10.090Z",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/20568035?v=4",
+  "html_url": "https://github.com/owenlejeune",
+  "organizations_url": "https://api.github.com/users/owenlejeune/orgs",
+  "repos_url": "https://api.github.com/users/owenlejeune/repos",
+  "type": "User",
+  "name": "Owen LeJeune",
+  "company": null,
+  "blog": "https://www.linkedin.com/in/owenlejeune/",
+  "location": "Ottawa, ON",
+  "email": "omlejeune@gmail.com",
+  "bio": "20 year old compsci student at Carleton University specializing in Mobile App Development",
+  "public_gists": 0,
+  "created_at": "2016-07-21T00:16:59Z",
+  "updated_at": "2018-08-25T20:49:44Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:16:29.229Z",
+    "repos": [
+      "owenlejeune/RecipeFinder",
+      "owenlejeune/Android-Libraries",
+      "owenlejeune/Multi-Ended-Queues",
+      "owenlejeune/AirHockey",
+      "owenlejeune/COMP2404StudyNotes",
+      "owenlejeune/TV-Tracker",
+      "owenlejeune/Tech-Repair-Shop",
+      "owenlejeune/iOS-Chat-Server",
+      "owenlejeune/Tic-Tac-Toe",
+      "owenlejeune/MazeBuilder",
+      "owenlejeune/IOU",
+      "owenlejeune/GPACalculator"
+    ]
+  }
+}

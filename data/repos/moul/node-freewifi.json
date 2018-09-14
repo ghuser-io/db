@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-freewifi",
+  "full_name": "moul/node-freewifi",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/node-freewifi",
+  "description": "Connection to the FreeWifi network (by the french internet and mobile provider free.fr)",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/node-freewifi",
+  "languages_url": "https://api.github.com/repos/moul/node-freewifi/languages",
+  "pulls_url": "https://api.github.com/repos/moul/node-freewifi/pulls{/number}",
+  "created_at": "2013-01-16T22:56:24Z",
+  "updated_at": "2014-05-05T10:36:46Z",
+  "pushed_at": "2018-08-18T16:09:14Z",
+  "homepage": "https://npmjs.org/package/freewifi",
+  "size": 7,
+  "stargazers_count": 2,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 11
+  },
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 3527,
+      "color": "#244776"
+    },
+    "JavaScript": {
+      "bytes": 70,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:52.494Z"
+}

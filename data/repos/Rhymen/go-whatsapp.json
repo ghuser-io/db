@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-whatsapp",
+  "full_name": "Rhymen/go-whatsapp",
+  "owner": "Rhymen",
+  "private": false,
+  "html_url": "https://github.com/Rhymen/go-whatsapp",
+  "description": "WhatsApp Web API",
+  "fork": false,
+  "url": "https://api.github.com/repos/Rhymen/go-whatsapp",
+  "languages_url": "https://api.github.com/repos/Rhymen/go-whatsapp/languages",
+  "pulls_url": "https://api.github.com/repos/Rhymen/go-whatsapp/pulls{/number}",
+  "created_at": "2018-04-10T14:54:55Z",
+  "updated_at": "2018-09-11T21:31:15Z",
+  "pushed_at": "2018-08-30T13:44:17Z",
+  "homepage": "",
+  "size": 122,
+  "stargazers_count": 63,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "DiSiqueira": 1,
+    "tkovs": 1,
+    "SchulteMK": 29,
+    "Rhymen": 40,
+    "tulir": 3
+  },
+  "pulls_authors": [
+    "DiSiqueira",
+    "tkovs",
+    "tulir"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 74821,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T22:29:33.169Z"
+}

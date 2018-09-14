@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "keynote-building-images-on-scaleway",
+  "full_name": "moul/keynote-building-images-on-scaleway",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/keynote-building-images-on-scaleway",
+  "description": ":bar_chart: Keynote support for while42 Paris#13 - Scaleway",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/keynote-building-images-on-scaleway",
+  "languages_url": "https://api.github.com/repos/moul/keynote-building-images-on-scaleway/languages",
+  "pulls_url": "https://api.github.com/repos/moul/keynote-building-images-on-scaleway/pulls{/number}",
+  "created_at": "2015-04-13T09:33:17Z",
+  "updated_at": "2015-06-11T10:10:05Z",
+  "pushed_at": "2018-08-18T16:15:19Z",
+  "homepage": "http://www.slideshare.net/manfredtouron/while42-paris13-scaleway",
+  "size": 12103,
+  "stargazers_count": 2,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "cc0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "spdx_id": "CC0-1.0",
+    "url": "https://api.github.com/licenses/cc0-1.0",
+    "node_id": "MDc6TGljZW5zZTY="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "aimxhaisse": 11,
+    "moul": 11
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-05T13:07:38.110Z"
+}

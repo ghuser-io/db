@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nepal-weather-api",
+  "full_name": "SiyaOrg/nepal-weather-api",
+  "owner": "SiyaOrg",
+  "private": false,
+  "html_url": "https://github.com/SiyaOrg/nepal-weather-api",
+  "description": "weather api for nepal ",
+  "fork": true,
+  "url": "https://api.github.com/repos/SiyaOrg/nepal-weather-api",
+  "languages_url": "https://api.github.com/repos/SiyaOrg/nepal-weather-api/languages",
+  "pulls_url": "https://api.github.com/repos/SiyaOrg/nepal-weather-api/pulls{/number}",
+  "created_at": "2016-09-26T14:57:58Z",
+  "updated_at": "2016-09-27T13:44:05Z",
+  "pushed_at": "2016-09-28T05:37:00Z",
+  "homepage": null,
+  "size": 214,
+  "stargazers_count": 1,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "SiyaOrg",
+    "id": 19734950,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5NzM0OTUw",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/19734950?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/SiyaOrg",
+    "html_url": "https://github.com/SiyaOrg",
+    "followers_url": "https://api.github.com/users/SiyaOrg/followers",
+    "following_url": "https://api.github.com/users/SiyaOrg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/SiyaOrg/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/SiyaOrg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/SiyaOrg/subscriptions",
+    "organizations_url": "https://api.github.com/users/SiyaOrg/orgs",
+    "repos_url": "https://api.github.com/users/SiyaOrg/repos",
+    "events_url": "https://api.github.com/users/SiyaOrg/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/SiyaOrg/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ikushum": 2,
+    "anuragregmi": 12
+  },
+  "pulls_authors": [
+    "amitness"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 17993,
+      "color": "#4F5D95"
+    },
+    "HTML": {
+      "bytes": 7557,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1510,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:33.002Z"
+}

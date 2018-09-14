@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Twilio-Watson-Conversation-",
+  "full_name": "tanmayb123/Twilio-Watson-Conversation-",
+  "owner": "tanmayb123",
+  "private": false,
+  "html_url": "https://github.com/tanmayb123/Twilio-Watson-Conversation-",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/tanmayb123/Twilio-Watson-Conversation-",
+  "languages_url": "https://api.github.com/repos/tanmayb123/Twilio-Watson-Conversation-/languages",
+  "created_at": "2017-02-20T23:43:48Z",
+  "updated_at": "2018-06-19T19:52:56Z",
+  "pushed_at": "2017-09-22T19:06:57Z",
+  "homepage": null,
+  "size": 4,
+  "stargazers_count": 24,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "tanmayb123": 3
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 2064,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/tanmayb123/Twilio-Watson-Conversation-/pulls{/number}",
+  "pulls_authors": [
+    "itaditya"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "percona-install",
+  "full_name": "customink-webops/percona-install",
+  "owner": "customink-webops",
+  "private": false,
+  "html_url": "https://github.com/customink-webops/percona-install",
+  "description": "This cookbook installs the percona-release apt or yum repository and allows you to install the client and/or server..",
+  "fork": false,
+  "url": "https://api.github.com/repos/customink-webops/percona-install",
+  "languages_url": "https://api.github.com/repos/customink-webops/percona-install/languages",
+  "pulls_url": "https://api.github.com/repos/customink-webops/percona-install/pulls{/number}",
+  "created_at": "2012-02-23T09:38:20Z",
+  "updated_at": "2014-06-26T22:55:11Z",
+  "pushed_at": "2013-01-16T03:54:24Z",
+  "homepage": "",
+  "size": 149,
+  "stargazers_count": 10,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "customink-webops",
+    "id": 1295010,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyOTUwMTA=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/1295010?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/customink-webops",
+    "html_url": "https://github.com/customink-webops",
+    "followers_url": "https://api.github.com/users/customink-webops/followers",
+    "following_url": "https://api.github.com/users/customink-webops/following{/other_user}",
+    "gists_url": "https://api.github.com/users/customink-webops/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/customink-webops/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/customink-webops/subscriptions",
+    "organizations_url": "https://api.github.com/users/customink-webops/orgs",
+    "repos_url": "https://api.github.com/users/customink-webops/repos",
+    "events_url": "https://api.github.com/users/customink-webops/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/customink-webops/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ijin": 1,
+    "jefmathiot": 2,
+    "oker1": 3,
+    "nathenharvey": 33
+  },
+  "pulls_authors": [
+    "bmcmanus",
+    "darylyu",
+    "paulboone",
+    "billmoritz",
+    "fern4lvarez",
+    "rodriguezsergio",
+    "oker1",
+    "ijin",
+    "jefmathiot",
+    "cgarvis",
+    "miah"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 10915,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:35.034Z"
+}

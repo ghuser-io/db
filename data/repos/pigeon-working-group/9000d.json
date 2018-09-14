@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "9000d",
+  "full_name": "pigeon-working-group/9000d",
+  "owner": "pigeon-working-group",
+  "private": false,
+  "html_url": "https://github.com/pigeon-working-group/9000d",
+  "description": "Might fly, might coo (coo).",
+  "fork": false,
+  "url": "https://api.github.com/repos/pigeon-working-group/9000d",
+  "languages_url": "https://api.github.com/repos/pigeon-working-group/9000d/languages",
+  "pulls_url": "https://api.github.com/repos/pigeon-working-group/9000d/pulls{/number}",
+  "created_at": "2017-08-23T22:42:04Z",
+  "updated_at": "2017-11-25T17:08:10Z",
+  "pushed_at": "2017-11-25T17:46:34Z",
+  "homepage": null,
+  "size": 12,
+  "stargazers_count": 1,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "pigeon-working-group",
+    "id": 31774263,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMxNzc0MjYz",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/31774263?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pigeon-working-group",
+    "html_url": "https://github.com/pigeon-working-group",
+    "followers_url": "https://api.github.com/users/pigeon-working-group/followers",
+    "following_url": "https://api.github.com/users/pigeon-working-group/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pigeon-working-group/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pigeon-working-group/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pigeon-working-group/subscriptions",
+    "organizations_url": "https://api.github.com/users/pigeon-working-group/orgs",
+    "repos_url": "https://api.github.com/users/pigeon-working-group/repos",
+    "events_url": "https://api.github.com/users/pigeon-working-group/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pigeon-working-group/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "PhilipTrauner": 12
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Rust": {
+      "bytes": 3894,
+      "color": "#dea584"
+    },
+    "Makefile": {
+      "bytes": 1189,
+      "color": "#427819"
+    },
+    "Python": {
+      "bytes": 703,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 196,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:09.348Z"
+}

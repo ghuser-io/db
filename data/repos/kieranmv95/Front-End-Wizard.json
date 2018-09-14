@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Front-End-Wizard",
+  "full_name": "kieranmv95/Front-End-Wizard",
+  "owner": "kieranmv95",
+  "private": false,
+  "html_url": "https://github.com/kieranmv95/Front-End-Wizard",
+  "description": "A comprehensive collection of front end tutorials and resources for developers",
+  "fork": false,
+  "url": "https://api.github.com/repos/kieranmv95/Front-End-Wizard",
+  "languages_url": "https://api.github.com/repos/kieranmv95/Front-End-Wizard/languages",
+  "pulls_url": "https://api.github.com/repos/kieranmv95/Front-End-Wizard/pulls{/number}",
+  "created_at": "2018-02-28T08:49:39Z",
+  "updated_at": "2018-09-10T17:58:09Z",
+  "pushed_at": "2018-05-20T09:05:54Z",
+  "homepage": "https://kieranmv95.github.io/Front-End-Wizard/",
+  "size": 614,
+  "stargazers_count": 1476,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "RianWebster": 1,
+    "mrcpj1998": 1,
+    "DoodlePain": 1,
+    "FinleyCorrigan": 1,
+    "dhrn": 1,
+    "spmedia": 1,
+    "xyclos": 1,
+    "20lives": 1,
+    "mikekok": 1,
+    "mdawsondev": 1,
+    "RyKilleen": 1,
+    "jevenson": 1,
+    "VirtualDOMinic": 2,
+    "chiragbhansali": 9,
+    "kieranmv95": 41
+  },
+  "pulls_authors": [
+    "RianWebster",
+    "kieranmv95",
+    "Dragnucs",
+    "mrcpj1998",
+    "chiragbhansali",
+    "DoodlePain",
+    "VirtualDOMinic",
+    "FinleyCorrigan",
+    "dhrn",
+    "spmedia",
+    "NadyaNayme",
+    "xyclos",
+    "20lives",
+    "mikekok",
+    "mdawsondev",
+    "RyKilleen",
+    "jevenson"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 8622,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 3290,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 1202,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T21:40:19.951Z"
+}

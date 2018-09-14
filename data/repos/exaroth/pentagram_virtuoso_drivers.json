@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pentagram_virtuoso_drivers",
+  "full_name": "exaroth/pentagram_virtuoso_drivers",
+  "owner": "exaroth",
+  "private": false,
+  "html_url": "https://github.com/exaroth/pentagram_virtuoso_drivers",
+  "description": "This is the mirror of linux drivers of Pentagram Virtuoso/Hanvon Artmaster series",
+  "fork": false,
+  "url": "https://api.github.com/repos/exaroth/pentagram_virtuoso_drivers",
+  "languages_url": "https://api.github.com/repos/exaroth/pentagram_virtuoso_drivers/languages",
+  "pulls_url": "https://api.github.com/repos/exaroth/pentagram_virtuoso_drivers/pulls{/number}",
+  "created_at": "2014-03-15T16:49:33Z",
+  "updated_at": "2017-12-07T10:01:27Z",
+  "pushed_at": "2014-12-25T13:28:51Z",
+  "homepage": "",
+  "size": 128,
+  "stargazers_count": 2,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "exaroth": 1,
+    "clarkzjw": 4
+  },
+  "pulls_authors": [
+    "ghost",
+    "clarkzjw"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 7342,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 278,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-08-23T12:44:42.548Z"
+}

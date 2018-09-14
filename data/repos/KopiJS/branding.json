@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "branding",
+  "full_name": "KopiJS/branding",
+  "owner": "KopiJS",
+  "private": false,
+  "html_url": "https://github.com/KopiJS/branding",
+  "description": "Branding for KopiJS",
+  "fork": false,
+  "url": "https://api.github.com/repos/KopiJS/branding",
+  "languages_url": "https://api.github.com/repos/KopiJS/branding/languages",
+  "pulls_url": "https://api.github.com/repos/KopiJS/branding/pulls{/number}",
+  "created_at": "2014-11-15T15:19:48Z",
+  "updated_at": "2016-11-29T07:25:55Z",
+  "pushed_at": "2016-04-10T11:45:58Z",
+  "homepage": "http://kopijs.org/",
+  "size": 1325,
+  "stargazers_count": 4,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "KopiJS",
+    "id": 6139355,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxMzkzNTU=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/6139355?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/KopiJS",
+    "html_url": "https://github.com/KopiJS",
+    "followers_url": "https://api.github.com/users/KopiJS/followers",
+    "following_url": "https://api.github.com/users/KopiJS/following{/other_user}",
+    "gists_url": "https://api.github.com/users/KopiJS/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/KopiJS/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/KopiJS/subscriptions",
+    "organizations_url": "https://api.github.com/users/KopiJS/orgs",
+    "repos_url": "https://api.github.com/users/KopiJS/repos",
+    "events_url": "https://api.github.com/users/KopiJS/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/KopiJS/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "cheeaun": 21
+  },
+  "pulls_authors": [
+    "cheeaun"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-10T18:59:57.875Z"
+}

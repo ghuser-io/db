@@ -1,0 +1,87 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Hinsbart": 1,
+    "Calinou": 2,
+    "est31": 2,
+    "adolson": 8,
+    "Kermer": 8,
+    "ObaniGemini": 18,
+    "akien-mga": 25,
+    "fry-": 30,
+    "alketii": 70,
+    "bojidar-bg": 179
+  },
+  "name": "minilens",
+  "full_name": "KOBUGE-Games/minilens",
+  "owner": "KOBUGE-Games",
+  "private": false,
+  "html_url": "https://github.com/KOBUGE-Games/minilens",
+  "description": "Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth",
+  "fork": false,
+  "url": "https://api.github.com/repos/KOBUGE-Games/minilens",
+  "languages_url": "https://api.github.com/repos/KOBUGE-Games/minilens/languages",
+  "created_at": "2015-04-09T19:49:02Z",
+  "updated_at": "2018-08-30T09:38:25Z",
+  "pushed_at": "2018-07-16T19:09:42Z",
+  "homepage": "http://kobuge-games.github.io/minilens",
+  "size": 75175,
+  "stargazers_count": 90,
+  "language": "GDScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "KOBUGE-Games",
+    "id": 12072566,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMDcyNTY2",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/12072566?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/KOBUGE-Games",
+    "html_url": "https://github.com/KOBUGE-Games",
+    "followers_url": "https://api.github.com/users/KOBUGE-Games/followers",
+    "following_url": "https://api.github.com/users/KOBUGE-Games/following{/other_user}",
+    "gists_url": "https://api.github.com/users/KOBUGE-Games/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/KOBUGE-Games/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/KOBUGE-Games/subscriptions",
+    "organizations_url": "https://api.github.com/users/KOBUGE-Games/orgs",
+    "repos_url": "https://api.github.com/users/KOBUGE-Games/repos",
+    "events_url": "https://api.github.com/users/KOBUGE-Games/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/KOBUGE-Games/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "GDScript": {
+      "bytes": 52529,
+      "color": "#355570"
+    },
+    "GAP": {
+      "bytes": 2408,
+      "color": "#ccc"
+    },
+    "JavaScript": {
+      "bytes": 1183,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-30T19:46:19.721Z",
+  "pulls_url": "https://api.github.com/repos/KOBUGE-Games/minilens/pulls{/number}",
+  "pulls_authors": [
+    "ObaniGemini",
+    "Hinsbart",
+    "akien-mga",
+    "Calinou",
+    "adolson",
+    "est31",
+    "bojidar-bg",
+    "Kermer"
+  ]
+}

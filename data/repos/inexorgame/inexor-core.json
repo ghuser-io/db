@@ -1,0 +1,117 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "bobbybrot": 1,
+    "colonelsalt": 1,
+    "fallinbryan": 1,
+    "Lyberta": 1,
+    "basile-henry": 1,
+    "PowerKiller": 1,
+    "Calinou": 1,
+    "movabo": 1,
+    "westernheld": 2,
+    "bebehei": 2,
+    "impowski": 2,
+    "super-tux": 3,
+    "Fohlen": 3,
+    "DarkDeepBlue": 4,
+    "IAmNotHanni": 49,
+    "Croydon": 173,
+    "aschaeffer": 324,
+    "koraa": 375,
+    "a-teammate": 713
+  },
+  "name": "inexor-core",
+  "full_name": "inexorgame/inexor-core",
+  "owner": "inexorgame",
+  "private": false,
+  "html_url": "https://github.com/inexorgame/inexor-core",
+  "description": "Inexor - Community fork of the Cube 2: Sauerbraten game.",
+  "fork": false,
+  "url": "https://api.github.com/repos/inexorgame/inexor-core",
+  "languages_url": "https://api.github.com/repos/inexorgame/inexor-core/languages",
+  "created_at": "2014-06-10T23:27:51Z",
+  "updated_at": "2018-09-14T06:52:11Z",
+  "pushed_at": "2018-09-01T04:26:16Z",
+  "homepage": "https://inexor.org",
+  "size": 9327,
+  "stargazers_count": 147,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "zlib",
+    "name": "zlib License",
+    "spdx_id": "Zlib",
+    "url": "https://api.github.com/licenses/zlib",
+    "node_id": "MDc6TGljZW5zZTI3"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "inexorgame",
+    "id": 5883878,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjU4ODM4Nzg=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/5883878?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/inexorgame",
+    "html_url": "https://github.com/inexorgame",
+    "followers_url": "https://api.github.com/users/inexorgame/followers",
+    "following_url": "https://api.github.com/users/inexorgame/following{/other_user}",
+    "gists_url": "https://api.github.com/users/inexorgame/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/inexorgame/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/inexorgame/subscriptions",
+    "organizations_url": "https://api.github.com/users/inexorgame/orgs",
+    "repos_url": "https://api.github.com/users/inexorgame/repos",
+    "events_url": "https://api.github.com/users/inexorgame/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/inexorgame/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "C++": {
+      "bytes": 3208211,
+      "color": "#f34b7d"
+    },
+    "CMake": {
+      "bytes": 53039,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 18813,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 2298,
+      "color": "#3572A5"
+    },
+    "Batchfile": {
+      "bytes": 1033,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-14T08:23:25.605Z",
+  "pulls_url": "https://api.github.com/repos/inexorgame/inexor-core/pulls{/number}",
+  "pulls_authors": [
+    "Croydon",
+    "monkeywithacupcake",
+    "IAmNotHanni",
+    "a-teammate",
+    "aschaeffer",
+    "bobbybrot",
+    "colonelsalt",
+    "InexorBot",
+    "Fohlen",
+    "fallinbryan",
+    "Lyberta",
+    "impowski",
+    "realuptime",
+    "PowerKiller",
+    "bebehei",
+    "koraa",
+    "DarkDeepBlue",
+    "killme",
+    "basile-henry",
+    "Calinou",
+    "Efreak"
+  ]
+}

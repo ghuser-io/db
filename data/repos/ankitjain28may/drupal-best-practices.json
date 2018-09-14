@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "drupal-best-practices",
+  "full_name": "ankitjain28may/drupal-best-practices",
+  "owner": "ankitjain28may",
+  "private": false,
+  "html_url": "https://github.com/ankitjain28may/drupal-best-practices",
+  "description": "Deployment server - ",
+  "fork": false,
+  "url": "https://api.github.com/repos/ankitjain28may/drupal-best-practices",
+  "languages_url": "https://api.github.com/repos/ankitjain28may/drupal-best-practices/languages",
+  "created_at": "2018-04-22T12:56:01Z",
+  "updated_at": "2018-09-14T07:28:34Z",
+  "pushed_at": "2018-05-17T22:02:57Z",
+  "homepage": "http://139.59.67.196/",
+  "size": 1578,
+  "stargazers_count": 5,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ankitjain28may": 130
+  },
+  "languages": {
+    "PHP": {
+      "bytes": 84440,
+      "color": "#4F5D95"
+    },
+    "Shell": {
+      "bytes": 1735,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T08:21:26.043Z",
+  "pulls_url": "https://api.github.com/repos/ankitjain28may/drupal-best-practices/pulls{/number}",
+  "pulls_authors": [
+    "ankitjain28may"
+  ]
+}

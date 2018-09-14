@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "kopijs.org",
+  "full_name": "KopiJS/kopijs.org",
+  "owner": "KopiJS",
+  "private": false,
+  "html_url": "https://github.com/KopiJS/kopijs.org",
+  "description": "The official website",
+  "fork": false,
+  "url": "https://api.github.com/repos/KopiJS/kopijs.org",
+  "languages_url": "https://api.github.com/repos/KopiJS/kopijs.org/languages",
+  "pulls_url": "https://api.github.com/repos/KopiJS/kopijs.org/pulls{/number}",
+  "created_at": "2014-11-16T15:17:24Z",
+  "updated_at": "2018-08-19T16:24:16Z",
+  "pushed_at": "2018-07-30T15:41:58Z",
+  "homepage": "https://kopijs.org/",
+  "size": 13035,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "KopiJS",
+    "id": 6139355,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxMzkzNTU=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/6139355?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/KopiJS",
+    "html_url": "https://github.com/KopiJS",
+    "followers_url": "https://api.github.com/users/KopiJS/followers",
+    "following_url": "https://api.github.com/users/KopiJS/following{/other_user}",
+    "gists_url": "https://api.github.com/users/KopiJS/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/KopiJS/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/KopiJS/subscriptions",
+    "organizations_url": "https://api.github.com/users/KopiJS/orgs",
+    "repos_url": "https://api.github.com/users/KopiJS/repos",
+    "events_url": "https://api.github.com/users/KopiJS/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/KopiJS/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "laktek": 1,
+    "sebdeckers": 3,
+    "stanleynguyen": 8,
+    "cheeaun": 64
+  },
+  "pulls_authors": [
+    "valentine",
+    "sebdeckers",
+    "stanleynguyen",
+    "cheeaun"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 9525,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 3053,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 257,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:52.745Z"
+}

@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "teapot",
+  "full_name": "hl/teapot",
+  "owner": "hl",
+  "private": false,
+  "html_url": "https://github.com/hl/teapot",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/hl/teapot",
+  "languages_url": "https://api.github.com/repos/hl/teapot/languages",
+  "pulls_url": "https://api.github.com/repos/hl/teapot/pulls{/number}",
+  "created_at": "2015-01-30T11:47:23Z",
+  "updated_at": "2016-05-03T14:42:41Z",
+  "pushed_at": "2016-05-03T14:42:40Z",
+  "homepage": null,
+  "size": 1891,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "zenry": 1,
+    "hl": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 1095,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:45.742Z"
+}

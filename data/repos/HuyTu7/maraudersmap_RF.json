@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "maraudersmap_RF",
+  "full_name": "HuyTu7/maraudersmap_RF",
+  "owner": "HuyTu7",
+  "private": false,
+  "html_url": "https://github.com/HuyTu7/maraudersmap_RF",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/HuyTu7/maraudersmap_RF",
+  "languages_url": "https://api.github.com/repos/HuyTu7/maraudersmap_RF/languages",
+  "pulls_url": "https://api.github.com/repos/HuyTu7/maraudersmap_RF/pulls{/number}",
+  "created_at": "2016-11-20T17:57:25Z",
+  "updated_at": "2016-11-20T18:03:50Z",
+  "pushed_at": "2016-11-22T12:19:51Z",
+  "homepage": null,
+  "size": 477,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 1,
+    "mugetsu7": 3
+  },
+  "pulls_authors": [
+    "schollz"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 5769,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:43.238Z"
+}

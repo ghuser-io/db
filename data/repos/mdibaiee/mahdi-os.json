@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mahdi-os",
+  "full_name": "mdibaiee/mahdi-os",
+  "owner": "mdibaiee",
+  "private": false,
+  "html_url": "https://github.com/mdibaiee/mahdi-os",
+  "description": "An experimental OS written in Rust, just for learning!",
+  "fork": false,
+  "url": "https://api.github.com/repos/mdibaiee/mahdi-os",
+  "languages_url": "https://api.github.com/repos/mdibaiee/mahdi-os/languages",
+  "pulls_url": "https://api.github.com/repos/mdibaiee/mahdi-os/pulls{/number}",
+  "created_at": "2016-07-02T03:45:51Z",
+  "updated_at": "2017-03-02T19:30:59Z",
+  "pushed_at": "2016-07-11T06:16:56Z",
+  "homepage": null,
+  "size": 6004,
+  "stargazers_count": 5,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mdibaiee": 7
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Rust": {
+      "bytes": 16081,
+      "color": "#dea584"
+    },
+    "Assembly": {
+      "bytes": 8365,
+      "color": "#6E4C13"
+    },
+    "Makefile": {
+      "bytes": 1166,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:41.112Z"
+}

@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "laravel-url-signer",
+  "full_name": "spatie/laravel-url-signer",
+  "owner": "spatie",
+  "private": false,
+  "html_url": "https://github.com/spatie/laravel-url-signer",
+  "description": "Create and validate signed URLs with a limited lifetime",
+  "fork": false,
+  "url": "https://api.github.com/repos/spatie/laravel-url-signer",
+  "languages_url": "https://api.github.com/repos/spatie/laravel-url-signer/languages",
+  "pulls_url": "https://api.github.com/repos/spatie/laravel-url-signer/pulls{/number}",
+  "created_at": "2015-08-14T12:13:18Z",
+  "updated_at": "2018-09-13T11:04:23Z",
+  "pushed_at": "2018-09-04T17:21:16Z",
+  "homepage": "https://murze.be/2015/08/url-signing-in-laravel/",
+  "size": 52,
+  "stargazers_count": 497,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "spatie",
+    "id": 7535935,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc1MzU5MzU=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/7535935?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/spatie",
+    "html_url": "https://github.com/spatie",
+    "followers_url": "https://api.github.com/users/spatie/followers",
+    "following_url": "https://api.github.com/users/spatie/following{/other_user}",
+    "gists_url": "https://api.github.com/users/spatie/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/spatie/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/spatie/subscriptions",
+    "organizations_url": "https://api.github.com/users/spatie/orgs",
+    "repos_url": "https://api.github.com/users/spatie/repos",
+    "events_url": "https://api.github.com/users/spatie/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/spatie/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "leonhh": 1,
+    "Omranic": 1,
+    "adriaanzon": 1,
+    "davejamesmiller": 1,
+    "jbrooksuk": 1,
+    "jeff-h": 2,
+    "akoepcke": 2,
+    "sebastiandedeyne": 21,
+    "freekmurze": 46
+  },
+  "pulls_authors": [
+    "sebastiandedeyne",
+    "jeff-h",
+    "akoepcke",
+    "leonhh",
+    "LKaemmerling",
+    "Omranic",
+    "adriaanzon",
+    "freekmurze",
+    "davejamesmiller",
+    "jbrooksuk"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 6404,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-13T16:35:01.831Z"
+}

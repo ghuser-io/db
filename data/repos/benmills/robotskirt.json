@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "robotskirt",
+  "full_name": "benmills/robotskirt",
+  "owner": "benmills",
+  "private": false,
+  "html_url": "https://github.com/benmills/robotskirt",
+  "description": "A node wrapper for the awesome C markdown parser, sundown.",
+  "fork": false,
+  "url": "https://api.github.com/repos/benmills/robotskirt",
+  "languages_url": "https://api.github.com/repos/benmills/robotskirt/languages",
+  "pulls_url": "https://api.github.com/repos/benmills/robotskirt/pulls{/number}",
+  "created_at": "2011-04-29T03:23:04Z",
+  "updated_at": "2018-08-24T10:29:42Z",
+  "pushed_at": "2016-04-21T05:03:04Z",
+  "homepage": "benmills.org/robotskirt",
+  "size": 718,
+  "stargazers_count": 159,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "blakmatrix": 1,
+    "jeremyckahn": 1,
+    "tbranyen": 1,
+    "lhagan": 2,
+    "jgoz": 3,
+    "rmg": 4,
+    "benmills": 15,
+    "jmendeth": 121
+  },
+  "pulls_authors": [
+    "JPinkney",
+    "jgoz",
+    "jmendeth",
+    "node-migrator-bot",
+    "lhagan",
+    "rmg",
+    "jeremyckahn",
+    "tbranyen"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 159404,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 67938,
+      "color": "#f34b7d"
+    },
+    "JavaScript": {
+      "bytes": 13491,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 1005,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 111,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:33.818Z"
+}

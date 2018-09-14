@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "Sokoban-OpenGL-CPP/Sokoban-OpenGL-cpp": {
+      "full_name": "Sokoban-OpenGL-CPP/Sokoban-OpenGL-cpp",
+      "name": "Sokoban-OpenGL-cpp",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 14,
+      "activity": 1.7163371173059234,
+      "total_score": 1.7163371173059234,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "raspberry-pi-weather-station/weather-station-1": {
+      "full_name": "raspberry-pi-weather-station/weather-station-1",
+      "name": "weather-station-1",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 61.53846153846154,
+      "maturity": 0,
+      "total_commits_count": 13,
+      "activity": 1.6206073464510307,
+      "total_score": 1.6206073464510307,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "akshattrivedi/DBMS-Project-Movie-Ticket-Booking-System-Desk-Clerk-With-SMS-Feature": {
+      "full_name": "akshattrivedi/DBMS-Project-Movie-Ticket-Booking-System-Desk-Clerk-With-SMS-Feature",
+      "name": "DBMS-Project-Movie-Ticket-Booking-System-Desk-Clerk-With-SMS-Feature",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 7,
+      "activity": 1.2163018569671222,
+      "total_score": 1.2163018569671222,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "Sokoban-OpenGL-CPP",
+    "raspberry-pi-weather-station"
+  ]
+}

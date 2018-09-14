@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "webcrawler",
+  "full_name": "meyskens/webcrawler",
+  "owner": "meyskens",
+  "private": false,
+  "html_url": "https://github.com/meyskens/webcrawler",
+  "description": "Simple (non concurrent) web crawler",
+  "fork": false,
+  "url": "https://api.github.com/repos/meyskens/webcrawler",
+  "languages_url": "https://api.github.com/repos/meyskens/webcrawler/languages",
+  "pulls_url": "https://api.github.com/repos/meyskens/webcrawler/pulls{/number}",
+  "created_at": "2017-04-04T18:51:25Z",
+  "updated_at": "2017-07-17T06:37:46Z",
+  "pushed_at": "2017-05-04T07:32:53Z",
+  "homepage": null,
+  "size": 18,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "meyskens": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 8736,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T20:50:25.646Z"
+}

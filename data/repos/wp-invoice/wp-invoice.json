@@ -1,0 +1,105 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wp-invoice",
+  "full_name": "wp-invoice/wp-invoice",
+  "owner": "wp-invoice",
+  "private": false,
+  "html_url": "https://github.com/wp-invoice/wp-invoice",
+  "description": "WP-Invoice lets you create and send web-invoices and setup recurring billing for your clients.",
+  "fork": false,
+  "url": "https://api.github.com/repos/wp-invoice/wp-invoice",
+  "languages_url": "https://api.github.com/repos/wp-invoice/wp-invoice/languages",
+  "pulls_url": "https://api.github.com/repos/wp-invoice/wp-invoice/pulls{/number}",
+  "created_at": "2013-07-26T00:57:50Z",
+  "updated_at": "2018-09-10T19:52:20Z",
+  "pushed_at": "2018-09-10T19:52:19Z",
+  "homepage": "usabilitydynamics.com/products/wp-invoice",
+  "size": 9656,
+  "stargazers_count": 34,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "latest",
+  "organization": {
+    "login": "wp-invoice",
+    "id": 9898601,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjk4OTg2MDE=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/9898601?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/wp-invoice",
+    "html_url": "https://github.com/wp-invoice",
+    "followers_url": "https://api.github.com/users/wp-invoice/followers",
+    "following_url": "https://api.github.com/users/wp-invoice/following{/other_user}",
+    "gists_url": "https://api.github.com/users/wp-invoice/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/wp-invoice/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/wp-invoice/subscriptions",
+    "organizations_url": "https://api.github.com/users/wp-invoice/orgs",
+    "repos_url": "https://api.github.com/users/wp-invoice/repos",
+    "events_url": "https://api.github.com/users/wp-invoice/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/wp-invoice/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "SoSeductive": 1,
+    "anvilzephyr": 1,
+    "chestypuller": 1,
+    "m1k3lm": 2,
+    "Mashenka": 3,
+    "alimuzzaman": 3,
+    "CirKu17": 3,
+    "lipemat": 4,
+    "mehulkaklotar": 6,
+    "sudhirpur123": 14,
+    "pemaxim": 36,
+    "andypotanin": 43,
+    "antonkorotkov": 418
+  },
+  "pulls_authors": [
+    "SoSeductive",
+    "Mashenka",
+    "m1k3lm",
+    "alimuzzaman",
+    "lipemat",
+    "Gazzamit",
+    "sudhirpur123",
+    "Janee",
+    "nan4k7",
+    "anvilzephyr",
+    "mehulkaklotar",
+    "CirKu17",
+    "kalligator",
+    "angelleye",
+    "antonkorotkov",
+    "atwellpub",
+    "pemaxim",
+    "vierbergenlars",
+    "craigchristenson",
+    "chestypuller",
+    "andypotanin"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 882743,
+      "color": "#4F5D95"
+    },
+    "CSS": {
+      "bytes": 162421,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 144478,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 6689,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 414,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T17:16:22.121Z"
+}

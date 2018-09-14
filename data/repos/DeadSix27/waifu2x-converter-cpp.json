@@ -1,0 +1,95 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "waifu2x-converter-cpp",
+  "full_name": "DeadSix27/waifu2x-converter-cpp",
+  "owner": "DeadSix27",
+  "private": false,
+  "html_url": "https://github.com/DeadSix27/waifu2x-converter-cpp",
+  "description": "Improved fork of Waifu2X C++ using OpenCL and OpenCV",
+  "fork": true,
+  "url": "https://api.github.com/repos/DeadSix27/waifu2x-converter-cpp",
+  "languages_url": "https://api.github.com/repos/DeadSix27/waifu2x-converter-cpp/languages",
+  "pulls_url": "https://api.github.com/repos/DeadSix27/waifu2x-converter-cpp/pulls{/number}",
+  "created_at": "2016-12-30T22:43:17Z",
+  "updated_at": "2018-09-12T12:43:47Z",
+  "pushed_at": "2018-04-01T04:54:29Z",
+  "homepage": "",
+  "size": 31985,
+  "stargazers_count": 158,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "matfrem": 1,
+    "toyg": 2,
+    "HolyWu": 2,
+    "shaggytwodope": 2,
+    "iwag": 2,
+    "thebombzen": 4,
+    "andreili": 7,
+    "max20091": 9,
+    "vitaliylag": 9,
+    "YukihoAA": 10,
+    "jbeich": 20,
+    "iame6162013": 26,
+    "WL-Amigo": 30,
+    "DeadSix27": 64,
+    "tanakamura": 325
+  },
+  "pulls_authors": [
+    "YukihoAA",
+    "matfrem",
+    "thebombzen",
+    "iame6162013",
+    "andreili",
+    "DeadSix27",
+    "toyg"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 453960,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 77483,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 20284,
+      "color": "#427819"
+    },
+    "CMake": {
+      "bytes": 19751,
+      "color": "#ccc"
+    },
+    "Lua": {
+      "bytes": 19097,
+      "color": "#000080"
+    },
+    "Python": {
+      "bytes": 5875,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 1550,
+      "color": "#89e051"
+    },
+    "JavaScript": {
+      "bytes": 585,
+      "color": "#f1e05a"
+    },
+    "Batchfile": {
+      "bytes": 38,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-12T16:53:17.505Z"
+}

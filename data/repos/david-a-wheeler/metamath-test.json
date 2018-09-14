@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "metamath-test",
+  "full_name": "david-a-wheeler/metamath-test",
+  "owner": "david-a-wheeler",
+  "private": false,
+  "html_url": "https://github.com/david-a-wheeler/metamath-test",
+  "description": "Test metamath verification implementations",
+  "fork": false,
+  "url": "https://api.github.com/repos/david-a-wheeler/metamath-test",
+  "languages_url": "https://api.github.com/repos/david-a-wheeler/metamath-test/languages",
+  "pulls_url": "https://api.github.com/repos/david-a-wheeler/metamath-test/pulls{/number}",
+  "created_at": "2016-08-09T16:56:44Z",
+  "updated_at": "2017-05-19T20:27:19Z",
+  "pushed_at": "2016-11-29T00:07:29Z",
+  "homepage": null,
+  "size": 13940,
+  "stargazers_count": 2,
+  "language": "Objective-C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "giomasce": 1,
+    "marnix": 6,
+    "digama0": 28,
+    "david-a-wheeler": 41
+  },
+  "pulls_authors": [
+    "giomasce"
+  ],
+  "languages": {
+    "Objective-C++": {
+      "bytes": 44216498,
+      "color": "#6866fb"
+    },
+    "Java": {
+      "bytes": 7204,
+      "color": "#b07219"
+    },
+    "Shell": {
+      "bytes": 4814,
+      "color": "#89e051"
+    },
+    "HTML": {
+      "bytes": 818,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:23.755Z"
+}

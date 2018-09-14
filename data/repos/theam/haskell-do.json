@@ -1,0 +1,102 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "haskell-do",
+  "full_name": "theam/haskell-do",
+  "owner": "theam",
+  "private": false,
+  "html_url": "https://github.com/theam/haskell-do",
+  "description": ":pencil2: :bar_chart: - The Haskell code editor focused on interactive development.",
+  "fork": false,
+  "url": "https://api.github.com/repos/theam/haskell-do",
+  "languages_url": "https://api.github.com/repos/theam/haskell-do/languages",
+  "pulls_url": "https://api.github.com/repos/theam/haskell-do/pulls{/number}",
+  "created_at": "2017-02-01T18:25:24Z",
+  "updated_at": "2018-09-06T07:12:35Z",
+  "pushed_at": "2018-02-10T18:56:50Z",
+  "homepage": "",
+  "size": 43837,
+  "stargazers_count": 310,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "theam",
+    "id": 133519,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzMzUxOQ==",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/133519?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/theam",
+    "html_url": "https://github.com/theam",
+    "followers_url": "https://api.github.com/users/theam/followers",
+    "following_url": "https://api.github.com/users/theam/following{/other_user}",
+    "gists_url": "https://api.github.com/users/theam/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/theam/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/theam/subscriptions",
+    "organizations_url": "https://api.github.com/users/theam/orgs",
+    "repos_url": "https://api.github.com/users/theam/repos",
+    "events_url": "https://api.github.com/users/theam/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/theam/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "codetriage-readme-bot": 1,
+    "ddrone": 1,
+    "Shimuuar": 1,
+    "mamal72": 1,
+    "exallium": 1,
+    "kubukoz": 1,
+    "naldoco": 2,
+    "jfsagasti": 4,
+    "J2RGEZ": 4,
+    "javiertoledo": 4,
+    "SamuelSchlesinger": 15,
+    "ocramz": 17,
+    "mdibaiee": 26,
+    "KitFreddura": 70,
+    "NickSeagull": 265
+  },
+  "pulls_authors": [
+    "codetriage-readme-bot",
+    "ocramz",
+    "NickSeagull",
+    "mdibaiee",
+    "J2RGEZ",
+    "ddrone",
+    "Shimuuar",
+    "naldoco",
+    "mamal72",
+    "exallium",
+    "KitFreddura",
+    "javiertoledo",
+    "kubukoz",
+    "SamuelSchlesinger"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 72065,
+      "color": "#5e5086"
+    },
+    "HTML": {
+      "bytes": 4340,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 778,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 136,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:38.213Z"
+}

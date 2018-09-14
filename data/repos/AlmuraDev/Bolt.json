@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Bolt",
+  "full_name": "AlmuraDev/Bolt",
+  "owner": "AlmuraDev",
+  "private": false,
+  "html_url": "https://github.com/AlmuraDev/Bolt",
+  "description": "Lightweight voxel protection API for Bukkit/Spout",
+  "fork": false,
+  "url": "https://api.github.com/repos/AlmuraDev/Bolt",
+  "languages_url": "https://api.github.com/repos/AlmuraDev/Bolt/languages",
+  "pulls_url": "https://api.github.com/repos/AlmuraDev/Bolt/pulls{/number}",
+  "created_at": "2012-07-30T22:52:47Z",
+  "updated_at": "2014-04-08T13:50:24Z",
+  "pushed_at": "2012-12-28T17:22:06Z",
+  "homepage": null,
+  "size": 206,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "AlmuraDev",
+    "id": 1865917,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4NjU5MTc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/1865917?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/AlmuraDev",
+    "html_url": "https://github.com/AlmuraDev",
+    "followers_url": "https://api.github.com/users/AlmuraDev/followers",
+    "following_url": "https://api.github.com/users/AlmuraDev/following{/other_user}",
+    "gists_url": "https://api.github.com/users/AlmuraDev/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/AlmuraDev/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/AlmuraDev/subscriptions",
+    "organizations_url": "https://api.github.com/users/AlmuraDev/orgs",
+    "repos_url": "https://api.github.com/users/AlmuraDev/repos",
+    "events_url": "https://api.github.com/users/AlmuraDev/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/AlmuraDev/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "stephenwilliams": 1,
+    "Zidane": 28
+  },
+  "pulls_authors": [
+    "stephenwilliams"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 50891,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:10.725Z"
+}

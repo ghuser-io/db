@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docker-znc",
+  "full_name": "moul/docker-znc",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/docker-znc",
+  "description": ":whale: ZNC in Docker (Dockerfile)",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/docker-znc",
+  "languages_url": "https://api.github.com/repos/moul/docker-znc/languages",
+  "pulls_url": "https://api.github.com/repos/moul/docker-znc/pulls{/number}",
+  "created_at": "2014-02-13T01:16:01Z",
+  "updated_at": "2015-03-17T14:30:39Z",
+  "pushed_at": "2018-08-18T16:10:57Z",
+  "homepage": "",
+  "size": 4,
+  "stargazers_count": 1,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 4
+  },
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 1400,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:34.544Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "slakoth",
+  "full_name": "cheeaun/slakoth",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/slakoth",
+  "description": "A Slack bot that auto-post daily tech events in Singapore",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/slakoth",
+  "languages_url": "https://api.github.com/repos/cheeaun/slakoth/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/slakoth/pulls{/number}",
+  "created_at": "2018-08-19T03:11:25Z",
+  "updated_at": "2018-08-27T12:41:19Z",
+  "pushed_at": "2018-08-27T12:41:18Z",
+  "homepage": "",
+  "size": 35,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 3736,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:52.056Z"
+}

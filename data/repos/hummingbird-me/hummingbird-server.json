@@ -1,0 +1,117 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hummingbird-server",
+  "full_name": "hummingbird-me/hummingbird-server",
+  "owner": "hummingbird-me",
+  "private": false,
+  "html_url": "https://github.com/hummingbird-me/hummingbird-server",
+  "description": ":steam_locomotive: Rails API server for Kitsu",
+  "fork": false,
+  "url": "https://api.github.com/repos/hummingbird-me/hummingbird-server",
+  "languages_url": "https://api.github.com/repos/hummingbird-me/hummingbird-server/languages",
+  "pulls_url": "https://api.github.com/repos/hummingbird-me/hummingbird-server/pulls{/number}",
+  "created_at": "2016-09-15T23:36:19Z",
+  "updated_at": "2018-09-12T06:27:08Z",
+  "pushed_at": "2018-09-11T00:20:54Z",
+  "homepage": "https://kitsu.io",
+  "size": 6286,
+  "stargazers_count": 89,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "the-future",
+  "organization": {
+    "login": "hummingbird-me",
+    "id": 7648832,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc2NDg4MzI=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/7648832?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hummingbird-me",
+    "html_url": "https://github.com/hummingbird-me",
+    "followers_url": "https://api.github.com/users/hummingbird-me/followers",
+    "following_url": "https://api.github.com/users/hummingbird-me/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hummingbird-me/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hummingbird-me/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hummingbird-me/subscriptions",
+    "organizations_url": "https://api.github.com/users/hummingbird-me/orgs",
+    "repos_url": "https://api.github.com/users/hummingbird-me/repos",
+    "events_url": "https://api.github.com/users/hummingbird-me/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hummingbird-me/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Uricorn": 1,
+    "lucaskuan": 1,
+    "mistermoper": 1,
+    "jonasbleyl": 1,
+    "txie1993": 1,
+    "migl": 1,
+    "aufdetim": 1,
+    "wopian": 2,
+    "DNA": 2,
+    "MiLk": 2,
+    "JoshFabian": 3,
+    "dissident": 4,
+    "cybrox": 4,
+    "dependabot-bot": 8,
+    "synthtech": 33,
+    "matthewdias": 111,
+    "cinquemb": 111,
+    "dependabot[bot]": 129,
+    "trmcnvn": 161,
+    "toyhammered": 231,
+    "NuckChorris": 2708
+  },
+  "pulls_authors": [
+    "dependabot[bot]",
+    "synthtech",
+    "NuckChorris",
+    "toyhammered",
+    "matthewdias",
+    "trmcnvn",
+    "Uricorn",
+    "fossabot",
+    "cinquemb",
+    "mistermoper",
+    "lucaskuan",
+    "migl",
+    "jonasbleyl",
+    "crse",
+    "txie1993",
+    "DNA",
+    "emilt27",
+    "dissident",
+    "akpark"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 1777438,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 8976,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 8324,
+      "color": "#f1e05a"
+    },
+    "CoffeeScript": {
+      "bytes": 6492,
+      "color": "#244776"
+    },
+    "Dockerfile": {
+      "bytes": 539,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:35.508Z"
+}

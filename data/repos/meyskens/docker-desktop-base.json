@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docker-desktop-base",
+  "full_name": "meyskens/docker-desktop-base",
+  "owner": "meyskens",
+  "private": false,
+  "html_url": "https://github.com/meyskens/docker-desktop-base",
+  "description": "Base image for my Docker images with desktop apps",
+  "fork": false,
+  "url": "https://api.github.com/repos/meyskens/docker-desktop-base",
+  "languages_url": "https://api.github.com/repos/meyskens/docker-desktop-base/languages",
+  "pulls_url": "https://api.github.com/repos/meyskens/docker-desktop-base/pulls{/number}",
+  "created_at": "2017-06-09T21:50:45Z",
+  "updated_at": "2018-08-03T23:07:18Z",
+  "pushed_at": "2018-03-30T13:20:50Z",
+  "homepage": null,
+  "size": 5,
+  "stargazers_count": 6,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "meyskens": 11
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-11T20:50:17.581Z"
+}

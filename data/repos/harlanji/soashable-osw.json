@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "soashable-osw",
+  "full_name": "harlanji/soashable-osw",
+  "owner": "harlanji",
+  "private": false,
+  "html_url": "https://github.com/harlanji/soashable-osw",
+  "description": "An new version of Soashable that builds on the OneSocialWeb initiative, built using jQuery and StropheJS.",
+  "fork": false,
+  "url": "https://api.github.com/repos/harlanji/soashable-osw",
+  "languages_url": "https://api.github.com/repos/harlanji/soashable-osw/languages",
+  "pulls_url": "https://api.github.com/repos/harlanji/soashable-osw/pulls{/number}",
+  "created_at": "2010-06-18T01:00:11Z",
+  "updated_at": "2017-07-21T02:57:58Z",
+  "pushed_at": "2010-08-22T23:17:16Z",
+  "homepage": "",
+  "size": 416,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "harlanji": 31
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 271523,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T01:33:32.822Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "AUR-monodevelop-git",
+  "full_name": "Yantrio/AUR-monodevelop-git",
+  "owner": "Yantrio",
+  "private": false,
+  "html_url": "https://github.com/Yantrio/AUR-monodevelop-git",
+  "description": "AUR package for monodevelop built from git.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Yantrio/AUR-monodevelop-git",
+  "languages_url": "https://api.github.com/repos/Yantrio/AUR-monodevelop-git/languages",
+  "pulls_url": "https://api.github.com/repos/Yantrio/AUR-monodevelop-git/pulls{/number}",
+  "created_at": "2016-04-30T17:01:16Z",
+  "updated_at": "2016-06-07T20:50:58Z",
+  "pushed_at": "2016-04-30T17:01:28Z",
+  "homepage": null,
+  "size": 1,
+  "stargazers_count": 1,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Yantrio": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 1453,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:40.630Z"
+}

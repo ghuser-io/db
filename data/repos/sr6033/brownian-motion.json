@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "brownian-motion",
+  "full_name": "sr6033/brownian-motion",
+  "owner": "sr6033",
+  "private": false,
+  "html_url": "https://github.com/sr6033/brownian-motion",
+  "description": "A simulation of the random brownian motion using JavaScript",
+  "fork": false,
+  "url": "https://api.github.com/repos/sr6033/brownian-motion",
+  "languages_url": "https://api.github.com/repos/sr6033/brownian-motion/languages",
+  "created_at": "2018-03-01T06:02:28Z",
+  "updated_at": "2018-07-25T07:13:36Z",
+  "pushed_at": "2018-03-01T06:18:34Z",
+  "homepage": null,
+  "size": 266,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sr6033": 4
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 1236075,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 702,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/sr6033/brownian-motion/pulls{/number}",
+  "pulls_authors": []
+}

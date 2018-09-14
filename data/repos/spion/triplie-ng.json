@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "triplie-ng",
+  "full_name": "spion/triplie-ng",
+  "owner": "spion",
+  "private": false,
+  "html_url": "https://github.com/spion/triplie-ng",
+  "description": "Chatbot with Markov chains BFS and Hebbian learning",
+  "fork": false,
+  "url": "https://api.github.com/repos/spion/triplie-ng",
+  "languages_url": "https://api.github.com/repos/spion/triplie-ng/languages",
+  "pulls_url": "https://api.github.com/repos/spion/triplie-ng/pulls{/number}",
+  "created_at": "2013-02-20T02:49:47Z",
+  "updated_at": "2018-08-14T11:51:44Z",
+  "pushed_at": "2016-10-18T06:51:58Z",
+  "homepage": "",
+  "size": 327,
+  "stargazers_count": 60,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "programmerq": 1,
+    "bmelts": 1,
+    "daniilS": 2,
+    "moul": 6,
+    "spion": 127
+  },
+  "pulls_authors": [
+    "daniilS",
+    "programmerq",
+    "moul",
+    "spion"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 60859,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:47.297Z"
+}

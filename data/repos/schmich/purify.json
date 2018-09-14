@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "purify",
+  "full_name": "schmich/purify",
+  "owner": "schmich",
+  "private": false,
+  "html_url": "https://github.com/schmich/purify",
+  "description": "Lightweight DNS-based adblocker Docker image",
+  "fork": false,
+  "url": "https://api.github.com/repos/schmich/purify",
+  "languages_url": "https://api.github.com/repos/schmich/purify/languages",
+  "pulls_url": "https://api.github.com/repos/schmich/purify/pulls{/number}",
+  "created_at": "2016-08-26T17:34:41Z",
+  "updated_at": "2018-05-30T07:53:02Z",
+  "pushed_at": "2018-03-23T15:47:11Z",
+  "homepage": "https://hub.docker.com/r/schmich/purify",
+  "size": 21,
+  "stargazers_count": 9,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schmich": 21
+  },
+  "pulls_authors": [
+    "viano-jsp"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 568,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:19.768Z"
+}

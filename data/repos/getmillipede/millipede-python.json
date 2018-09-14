@@ -1,0 +1,83 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "millipede-python",
+  "full_name": "getmillipede/millipede-python",
+  "owner": "getmillipede",
+  "private": false,
+  "html_url": "https://github.com/getmillipede/millipede-python",
+  "description": ":bug: Print a beautiful millipede",
+  "fork": false,
+  "url": "https://api.github.com/repos/getmillipede/millipede-python",
+  "languages_url": "https://api.github.com/repos/getmillipede/millipede-python/languages",
+  "pulls_url": "https://api.github.com/repos/getmillipede/millipede-python/pulls{/number}",
+  "created_at": "2015-07-24T03:04:10Z",
+  "updated_at": "2018-01-16T21:42:49Z",
+  "pushed_at": "2018-08-10T16:18:59Z",
+  "homepage": "http://millipede.io",
+  "size": 55,
+  "stargazers_count": 17,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "getmillipede",
+    "id": 13489538,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzNDg5NTM4",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/13489538?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/getmillipede",
+    "html_url": "https://github.com/getmillipede",
+    "followers_url": "https://api.github.com/users/getmillipede/followers",
+    "following_url": "https://api.github.com/users/getmillipede/following{/other_user}",
+    "gists_url": "https://api.github.com/users/getmillipede/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/getmillipede/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/getmillipede/subscriptions",
+    "organizations_url": "https://api.github.com/users/getmillipede/orgs",
+    "repos_url": "https://api.github.com/users/getmillipede/repos",
+    "events_url": "https://api.github.com/users/getmillipede/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/getmillipede/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "rockyluke": 1,
+    "mota": 3,
+    "Damoun": 4,
+    "brmzkw": 9,
+    "zoltan-kski": 14,
+    "tusbar": 15,
+    "evadot": 30
+  },
+  "pulls_authors": [
+    "Julian-O",
+    "moul",
+    "zoltan-kski",
+    "evadot",
+    "edouardb",
+    "tusbar",
+    "rockyluke",
+    "mota",
+    "Damoun",
+    "achamo",
+    "brmzkw"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 18272,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 155,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:30.514Z"
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "importations-exportations_imports-exports",
+  "full_name": "NEBGitHub/importations-exportations_imports-exports",
+  "owner": "NEBGitHub",
+  "private": false,
+  "html_url": "https://github.com/NEBGitHub/importations-exportations_imports-exports",
+  "description": "Visualize energy imports and exports in Canada - Visualiser les importations et exportations d'énergie du Canada.",
+  "fork": false,
+  "url": "https://api.github.com/repos/NEBGitHub/importations-exportations_imports-exports",
+  "languages_url": "https://api.github.com/repos/NEBGitHub/importations-exportations_imports-exports/languages",
+  "pulls_url": "https://api.github.com/repos/NEBGitHub/importations-exportations_imports-exports/pulls{/number}",
+  "created_at": "2018-07-11T23:34:14Z",
+  "updated_at": "2018-07-13T15:56:06Z",
+  "pushed_at": "2018-07-11T23:43:29Z",
+  "homepage": null,
+  "size": 62128,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "develop",
+  "contributors": {
+    "PatrickKing": 13,
+    "SpenserJ": 349,
+    "ccheuvizworx": 413
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 10294234,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 6736212,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 6214789,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T15:20:00.880Z"
+}

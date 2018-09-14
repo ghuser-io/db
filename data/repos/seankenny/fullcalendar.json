@@ -1,0 +1,82 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fullcalendar",
+  "full_name": "seankenny/fullcalendar",
+  "owner": "seankenny",
+  "private": false,
+  "html_url": "https://github.com/seankenny/fullcalendar",
+  "description": "Full-sized drag & drop event calendar (jQuery plugin)",
+  "fork": true,
+  "url": "https://api.github.com/repos/seankenny/fullcalendar",
+  "languages_url": "https://api.github.com/repos/seankenny/fullcalendar/languages",
+  "pulls_url": "https://api.github.com/repos/seankenny/fullcalendar/pulls{/number}",
+  "created_at": "2013-08-09T10:23:07Z",
+  "updated_at": "2018-07-31T15:50:42Z",
+  "pushed_at": "2016-07-10T10:36:40Z",
+  "homepage": "http://arshaw.com/fullcalendar/",
+  "size": 14004,
+  "stargazers_count": 58,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "v2",
+  "contributors": {
+    "jsgoupil": 1,
+    "Clemens-PANDA": 1,
+    "thegrandpoobah": 1,
+    "tardate": 1,
+    "stephenharris": 1,
+    "tkrotoff": 1,
+    "markusslima": 1,
+    "althaus": 1,
+    "IAmMalte": 1,
+    "archaeron": 1,
+    "godbout": 1,
+    "tauren": 1,
+    "urkle": 1,
+    "tpruvot": 2,
+    "ivaynberg": 2,
+    "jagthedrummer": 3,
+    "zvictor": 8,
+    "seankenny": 75,
+    "arshaw": 223
+  },
+  "pulls_authors": [
+    "jackd248",
+    "newdigate",
+    "jsgoupil",
+    "zvictor",
+    "beinto",
+    "seankenny"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1018691,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 176191,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 45005,
+      "color": "#563d7c"
+    },
+    "PHP": {
+      "bytes": 6147,
+      "color": "#4F5D95"
+    },
+    "Shell": {
+      "bytes": 2169,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:26.585Z"
+}

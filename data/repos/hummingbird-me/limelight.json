@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "limelight",
+  "full_name": "hummingbird-me/limelight",
+  "owner": "hummingbird-me",
+  "private": false,
+  "html_url": "https://github.com/hummingbird-me/limelight",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/hummingbird-me/limelight",
+  "languages_url": "https://api.github.com/repos/hummingbird-me/limelight/languages",
+  "pulls_url": "https://api.github.com/repos/hummingbird-me/limelight/pulls{/number}",
+  "created_at": "2016-08-25T23:12:50Z",
+  "updated_at": "2016-09-01T16:54:25Z",
+  "pushed_at": "2016-10-03T17:45:30Z",
+  "homepage": null,
+  "size": 323,
+  "stargazers_count": 2,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "hummingbird-me",
+    "id": 7648832,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc2NDg4MzI=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/7648832?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hummingbird-me",
+    "html_url": "https://github.com/hummingbird-me",
+    "followers_url": "https://api.github.com/users/hummingbird-me/followers",
+    "following_url": "https://api.github.com/users/hummingbird-me/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hummingbird-me/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hummingbird-me/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hummingbird-me/subscriptions",
+    "organizations_url": "https://api.github.com/users/hummingbird-me/orgs",
+    "repos_url": "https://api.github.com/users/hummingbird-me/repos",
+    "events_url": "https://api.github.com/users/hummingbird-me/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hummingbird-me/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "wopian": 1,
+    "ember-tomster": 1,
+    "NuckChorris": 6,
+    "trmcnvn": 7,
+    "JoshFabian": 8
+  },
+  "pulls_authors": [
+    "wopian"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 32292,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 21940,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 7920,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:38.533Z"
+}

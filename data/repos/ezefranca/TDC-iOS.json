@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "TDC-iOS",
+  "full_name": "ezefranca/TDC-iOS",
+  "owner": "ezefranca",
+  "private": false,
+  "html_url": "https://github.com/ezefranca/TDC-iOS",
+  "description": "🇧🇷 :octocat: Repositório com dados das palestras e palestrantes do TDC na trilha iOS",
+  "fork": false,
+  "url": "https://api.github.com/repos/ezefranca/TDC-iOS",
+  "languages_url": "https://api.github.com/repos/ezefranca/TDC-iOS/languages",
+  "pulls_url": "https://api.github.com/repos/ezefranca/TDC-iOS/pulls{/number}",
+  "created_at": "2016-07-06T12:07:07Z",
+  "updated_at": "2018-08-29T10:21:03Z",
+  "pushed_at": "2018-08-29T10:21:01Z",
+  "homepage": "",
+  "size": 1482,
+  "stargazers_count": 45,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "vnavarro": 1,
+    "fellipecaetano": 1,
+    "leandroalonso": 1,
+    "cardoso": 1,
+    "amadeu01": 1,
+    "gabrieloliva": 1,
+    "txaiwieser": 1,
+    "fpg1503": 2,
+    "ggirotto": 2,
+    "ronanrodrigo": 3,
+    "ezefranca": 22
+  },
+  "pulls_authors": [
+    "vnavarro",
+    "fellipecaetano",
+    "leandroalonso",
+    "ronanrodrigo",
+    "cardoso",
+    "amadeu01",
+    "fpg1503",
+    "ezefranca",
+    "gabrieloliva",
+    "ggirotto",
+    "henriqueiv",
+    "txaiwieser"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 10924,
+      "color": "#ffac45"
+    }
+  },
+  "fetched_at": "2018-09-03T21:47:32.206Z"
+}

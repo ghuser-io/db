@@ -1,0 +1,93 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Knwl.js",
+  "full_name": "benhmoore/Knwl.js",
+  "owner": "benhmoore",
+  "private": false,
+  "html_url": "https://github.com/benhmoore/Knwl.js",
+  "description": "Find Dates, Places, Times, and More. A .js library for parsing text for specific information.",
+  "fork": false,
+  "url": "https://api.github.com/repos/benhmoore/Knwl.js",
+  "languages_url": "https://api.github.com/repos/benhmoore/Knwl.js/languages",
+  "pulls_url": "https://api.github.com/repos/benhmoore/Knwl.js/pulls{/number}",
+  "created_at": "2013-12-01T01:53:53Z",
+  "updated_at": "2018-09-13T23:17:32Z",
+  "pushed_at": "2018-01-18T05:35:29Z",
+  "homepage": "",
+  "size": 1523,
+  "stargazers_count": 5285,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "kevinmickey": 1,
+    "johnrees": 1,
+    "schmooie": 1,
+    "pjjmd": 1,
+    "ChrisAntaki": 1,
+    "fabrik42": 1,
+    "cmckni3": 1,
+    "joetime": 1,
+    "licyeus": 1,
+    "ning-github": 2,
+    "derek-meulmeester": 3,
+    "FranzSkuffka": 4,
+    "phosphore": 4,
+    "younesherlock": 4,
+    "marshall007": 6,
+    "gprasant": 7,
+    "instyled": 12,
+    "kitten": 17,
+    "benjojo": 31,
+    "benhmoore": 89
+  },
+  "pulls_authors": [
+    "phsantiago",
+    "anshumanv",
+    "hg77",
+    "lwagf",
+    "FranzSkuffka",
+    "kevinmickey",
+    "mjastrzebowski",
+    "moimikey",
+    "johnrees",
+    "ning-github",
+    "marshall007",
+    "schmooie",
+    "pjjmd",
+    "ChrisAntaki",
+    "phosphore",
+    "kitten",
+    "gprasant",
+    "derek-meulmeester",
+    "benjojo",
+    "fabrik42",
+    "younesherlock",
+    "cmckni3",
+    "joetime",
+    "licyeus"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 98347,
+      "color": "#f1e05a"
+    },
+    "CoffeeScript": {
+      "bytes": 1459,
+      "color": "#244776"
+    },
+    "Shell": {
+      "bytes": 192,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T23:42:13.266Z"
+}

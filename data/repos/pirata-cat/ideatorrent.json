@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ideatorrent",
+  "full_name": "pirata-cat/ideatorrent",
+  "owner": "pirata-cat",
+  "private": false,
+  "html_url": "https://github.com/pirata-cat/ideatorrent",
+  "description": "Ideatorrent - Sistema de Participació Ciutadana",
+  "fork": false,
+  "url": "https://api.github.com/repos/pirata-cat/ideatorrent",
+  "languages_url": "https://api.github.com/repos/pirata-cat/ideatorrent/languages",
+  "pulls_url": "https://api.github.com/repos/pirata-cat/ideatorrent/pulls{/number}",
+  "created_at": "2012-10-02T22:11:26Z",
+  "updated_at": "2017-02-09T02:56:51Z",
+  "pushed_at": "2012-10-02T22:13:28Z",
+  "homepage": null,
+  "size": 600,
+  "stargazers_count": 3,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pirata-cat",
+    "id": 1370211,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzNzAyMTE=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1370211?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pirata-cat",
+    "html_url": "https://github.com/pirata-cat",
+    "followers_url": "https://api.github.com/users/pirata-cat/followers",
+    "following_url": "https://api.github.com/users/pirata-cat/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pirata-cat/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pirata-cat/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pirata-cat/subscriptions",
+    "organizations_url": "https://api.github.com/users/pirata-cat/orgs",
+    "repos_url": "https://api.github.com/users/pirata-cat/repos",
+    "events_url": "https://api.github.com/users/pirata-cat/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pirata-cat/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "imdario": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 795232,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 42392,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T20:48:12.398Z"
+}

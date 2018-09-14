@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "relax-rb",
+  "full_name": "zerobotlabs/relax-rb",
+  "owner": "zerobotlabs",
+  "private": false,
+  "html_url": "https://github.com/zerobotlabs/relax-rb",
+  "description": "Ruby Client for Relax",
+  "fork": false,
+  "url": "https://api.github.com/repos/zerobotlabs/relax-rb",
+  "languages_url": "https://api.github.com/repos/zerobotlabs/relax-rb/languages",
+  "pulls_url": "https://api.github.com/repos/zerobotlabs/relax-rb/pulls{/number}",
+  "created_at": "2015-10-09T05:20:17Z",
+  "updated_at": "2017-01-14T23:14:04Z",
+  "pushed_at": "2016-11-17T22:10:24Z",
+  "homepage": null,
+  "size": 32,
+  "stargazers_count": 9,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "zerobotlabs",
+    "id": 9616929,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjk2MTY5Mjk=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/9616929?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/zerobotlabs",
+    "html_url": "https://github.com/zerobotlabs",
+    "followers_url": "https://api.github.com/users/zerobotlabs/followers",
+    "following_url": "https://api.github.com/users/zerobotlabs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/zerobotlabs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/zerobotlabs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/zerobotlabs/subscriptions",
+    "organizations_url": "https://api.github.com/users/zerobotlabs/orgs",
+    "repos_url": "https://api.github.com/users/zerobotlabs/repos",
+    "events_url": "https://api.github.com/users/zerobotlabs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/zerobotlabs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "cheeaun": 1,
+    "arunthampi": 41
+  },
+  "pulls_authors": [
+    "arunthampi",
+    "cheeaun"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 20327,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 115,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:58.795Z"
+}

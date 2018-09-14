@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "WP-Using-Non-Default-URIs",
+  "full_name": "butuzov/WP-Using-Non-Default-URIs",
+  "owner": "butuzov",
+  "private": false,
+  "html_url": "https://github.com/butuzov/WP-Using-Non-Default-URIs",
+  "description": "Talk \"WordPress: Using Non Defaults URIs\"",
+  "fork": false,
+  "url": "https://api.github.com/repos/butuzov/WP-Using-Non-Default-URIs",
+  "languages_url": "https://api.github.com/repos/butuzov/WP-Using-Non-Default-URIs/languages",
+  "pulls_url": "https://api.github.com/repos/butuzov/WP-Using-Non-Default-URIs/pulls{/number}",
+  "created_at": "2018-03-13T20:09:32Z",
+  "updated_at": "2018-04-22T15:23:02Z",
+  "pushed_at": "2018-04-22T15:23:00Z",
+  "homepage": "",
+  "size": 730,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "butuzov": 29
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T15:36:24.703Z"
+}

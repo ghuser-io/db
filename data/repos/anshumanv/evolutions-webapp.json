@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "evolutions-webapp",
+  "full_name": "anshumanv/evolutions-webapp",
+  "owner": "anshumanv",
+  "private": false,
+  "html_url": "https://github.com/anshumanv/evolutions-webapp",
+  "description": "What? monferno is evolving!",
+  "fork": false,
+  "url": "https://api.github.com/repos/anshumanv/evolutions-webapp",
+  "languages_url": "https://api.github.com/repos/anshumanv/evolutions-webapp/languages",
+  "pulls_url": "https://api.github.com/repos/anshumanv/evolutions-webapp/pulls{/number}",
+  "created_at": "2017-10-02T05:15:56Z",
+  "updated_at": "2018-08-18T14:16:23Z",
+  "pushed_at": "2018-08-18T14:18:42Z",
+  "homepage": "https://evolutions.js.org",
+  "size": 1257,
+  "stargazers_count": 15,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Ian-Yy": 1,
+    "collinsnji": 1,
+    "singhrohan62": 3,
+    "Monal5031": 3,
+    "sneakycrow": 3,
+    "anshumanv": 59
+  },
+  "pulls_authors": [
+    "singhrohan62",
+    "Ian-Yy",
+    "Monal5031",
+    "anshumanv",
+    "sneakycrow",
+    "joshuahunt10",
+    "collinsnji"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 379295,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 2131,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 2099,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1847,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-04T12:17:52.859Z"
+}

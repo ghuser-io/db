@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "twitter-clients-chart",
+  "full_name": "cheeaun/twitter-clients-chart",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/twitter-clients-chart",
+  "description": "Twitter clients distribution in real-time, based on the work by Dan Zajdband, twitter-clients.herokuapp.com",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/twitter-clients-chart",
+  "languages_url": "https://api.github.com/repos/cheeaun/twitter-clients-chart/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/twitter-clients-chart/pulls{/number}",
+  "created_at": "2012-07-29T04:11:35Z",
+  "updated_at": "2015-04-13T05:16:13Z",
+  "pushed_at": "2012-07-29T04:17:27Z",
+  "homepage": "http://cheeaun.github.com/twitter-clients-chart/",
+  "size": 97,
+  "stargazers_count": 6,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 2
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-10T19:00:06.129Z"
+}

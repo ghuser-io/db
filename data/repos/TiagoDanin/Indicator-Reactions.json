@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Indicator-Reactions",
+  "full_name": "TiagoDanin/Indicator-Reactions",
+  "owner": "TiagoDanin",
+  "private": false,
+  "html_url": "https://github.com/TiagoDanin/Indicator-Reactions",
+  "description": "Simple indicator with Reactions ¯ \\ _ (ツ) _/¯  ",
+  "fork": false,
+  "url": "https://api.github.com/repos/TiagoDanin/Indicator-Reactions",
+  "languages_url": "https://api.github.com/repos/TiagoDanin/Indicator-Reactions/languages",
+  "pulls_url": "https://api.github.com/repos/TiagoDanin/Indicator-Reactions/pulls{/number}",
+  "created_at": "2016-05-27T22:58:33Z",
+  "updated_at": "2018-01-25T20:43:11Z",
+  "pushed_at": "2018-08-11T16:22:07Z",
+  "homepage": "https://TiagoDanin.github.io/Indicator-Reactions/",
+  "size": 114,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "TiagoDanin": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 3206,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-12T17:48:20.581Z"
+}

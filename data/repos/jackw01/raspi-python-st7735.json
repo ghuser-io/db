@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "raspi-python-st7735",
+  "full_name": "jackw01/raspi-python-st7735",
+  "owner": "jackw01",
+  "private": false,
+  "html_url": "https://github.com/jackw01/raspi-python-st7735",
+  "description": "Python library for using ST7735-based TFT LCDs with a Raspberry Pi",
+  "fork": false,
+  "url": "https://api.github.com/repos/jackw01/raspi-python-st7735",
+  "languages_url": "https://api.github.com/repos/jackw01/raspi-python-st7735/languages",
+  "pulls_url": "https://api.github.com/repos/jackw01/raspi-python-st7735/pulls{/number}",
+  "created_at": "2017-06-28T01:07:58Z",
+  "updated_at": "2018-08-17T10:09:54Z",
+  "pushed_at": "2017-07-05T01:33:11Z",
+  "homepage": null,
+  "size": 12,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jackw01": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 183736,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-17T15:49:04.972Z"
+}

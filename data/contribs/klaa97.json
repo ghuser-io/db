@@ -1,0 +1,19 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "Procsiab/fda-2018": {
+      "full_name": "Procsiab/fda-2018",
+      "name": "fda-2018",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 2.7777777777777777,
+      "maturity": 0,
+      "total_commits_count": 36,
+      "activity": 2.0706090372739925,
+      "total_score": 2.0706090372739925,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

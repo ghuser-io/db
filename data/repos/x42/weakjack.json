@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "weakjack",
+  "full_name": "x42/weakjack",
+  "owner": "x42",
+  "private": false,
+  "html_url": "https://github.com/x42/weakjack",
+  "description": "weak/runtime libjack linking (jackaudio.org)",
+  "fork": false,
+  "url": "https://api.github.com/repos/x42/weakjack",
+  "languages_url": "https://api.github.com/repos/x42/weakjack/languages",
+  "pulls_url": "https://api.github.com/repos/x42/weakjack/pulls{/number}",
+  "created_at": "2014-10-25T19:06:04Z",
+  "updated_at": "2018-03-16T22:34:16Z",
+  "pushed_at": "2018-03-16T22:34:15Z",
+  "homepage": null,
+  "size": 20,
+  "stargazers_count": 2,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 1,
+    "tresf": 1,
+    "kmatheussen": 5,
+    "x42": 23
+  },
+  "pulls_authors": [
+    "jcelerier",
+    "tresf",
+    "kmatheussen"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 17310,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:46.358Z"
+}

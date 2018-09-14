@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "motion-stump",
+  "full_name": "siuying/motion-stump",
+  "owner": "siuying",
+  "private": false,
+  "html_url": "https://github.com/siuying/motion-stump",
+  "description": "Stubbing and mocking for RubyMotion",
+  "fork": true,
+  "url": "https://api.github.com/repos/siuying/motion-stump",
+  "languages_url": "https://api.github.com/repos/siuying/motion-stump/languages",
+  "pulls_url": "https://api.github.com/repos/siuying/motion-stump/pulls{/number}",
+  "created_at": "2012-07-09T18:16:50Z",
+  "updated_at": "2018-03-10T08:40:12Z",
+  "pushed_at": "2016-03-08T03:54:24Z",
+  "homepage": "",
+  "size": 66,
+  "stargazers_count": 46,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "michaelkirk": 1,
+    "clayallsopp": 1,
+    "alexrothenberg": 1,
+    "citrus": 1,
+    "darrinholst": 1,
+    "subbarao": 1,
+    "eostrom": 1,
+    "colinta": 2,
+    "seanho": 6,
+    "jm": 6,
+    "siuying": 28
+  },
+  "pulls_authors": [
+    "michaelkirk",
+    "adorechic",
+    "clayallsopp",
+    "alexrothenberg",
+    "citrus",
+    "ainame",
+    "darrinholst",
+    "seanho",
+    "colinta",
+    "mgartner",
+    "subbarao"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 16055,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T10:41:35.170Z"
+}

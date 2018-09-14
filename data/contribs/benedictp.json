@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "m2049r/xmrwallet": {
+      "full_name": "m2049r/xmrwallet",
+      "name": "xmrwallet",
+      "stargazers_count": 188,
+      "popularity": 3.272112855262372,
+      "percentage": 0.821917808219178,
+      "maturity": 3.513752755084247,
+      "total_commits_count": 365,
+      "activity": 5,
+      "total_score": 22.193467093367204,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "arconsis/droitatedDB": {
+      "full_name": "arconsis/droitatedDB",
+      "name": "droitatedDB",
+      "stargazers_count": 28,
+      "popularity": 2.4330082352955733,
+      "percentage": 2.459016393442623,
+      "maturity": 2.9160773650635297,
+      "total_commits_count": 122,
+      "activity": 0.8817094804189622,
+      "total_score": 14.790653844109194,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "wasabeef/awesome-android-libraries": {
+      "full_name": "wasabeef/awesome-android-libraries",
+      "name": "awesome-android-libraries",
+      "stargazers_count": 4551,
+      "popularity": 4.658060029280133,
+      "percentage": 0,
+      "maturity": 2.4346992151481284,
+      "total_commits_count": 67,
+      "activity": 2.4857091842517187,
+      "total_score": 21.329287702388374,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "SENSIDL-PROJECT/SensIDL": {
+      "full_name": "SENSIDL-PROJECT/SensIDL",
+      "name": "SensIDL",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 2.710843373493976,
+      "maturity": 3.467267282343504,
+      "total_commits_count": 332,
+      "activity": 0.9021595483261544,
+      "total_score": 7.836694113013162,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "arconsis",
+    "SENSIDL-PROJECT"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "htaccess",
+  "full_name": "skvark/htaccess",
+  "owner": "skvark",
+  "private": false,
+  "html_url": "https://github.com/skvark/htaccess",
+  "description": "Random .htaccess scripts",
+  "fork": false,
+  "url": "https://api.github.com/repos/skvark/htaccess",
+  "languages_url": "https://api.github.com/repos/skvark/htaccess/languages",
+  "pulls_url": "https://api.github.com/repos/skvark/htaccess/pulls{/number}",
+  "created_at": "2011-06-06T11:34:19Z",
+  "updated_at": "2014-02-19T23:00:31Z",
+  "pushed_at": "2011-06-06T11:45:00Z",
+  "homepage": "http://unknownpixels.com",
+  "size": 96,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "skvark": 3
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-11T01:16:36.299Z"
+}

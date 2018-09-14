@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "slow-stream",
+  "full_name": "moul/slow-stream",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/slow-stream",
+  "description": ":rabbit2: pipe to throttle streams (bin + go lib)",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/slow-stream",
+  "languages_url": "https://api.github.com/repos/moul/slow-stream/languages",
+  "pulls_url": "https://api.github.com/repos/moul/slow-stream/pulls{/number}",
+  "created_at": "2016-03-25T10:19:54Z",
+  "updated_at": "2016-03-25T10:22:12Z",
+  "pushed_at": "2018-08-18T16:16:10Z",
+  "homepage": null,
+  "size": 786,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "QuentinPerez": 2,
+    "moul": 23
+  },
+  "pulls_authors": [
+    "imgbot[bot]",
+    "QuentinPerez"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 4716,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 1594,
+      "color": "#427819"
+    },
+    "Ruby": {
+      "bytes": 819,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:00.668Z"
+}

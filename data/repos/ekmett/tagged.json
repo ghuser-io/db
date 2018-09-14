@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tagged",
+  "full_name": "ekmett/tagged",
+  "owner": "ekmett",
+  "private": false,
+  "html_url": "https://github.com/ekmett/tagged",
+  "description": "phantom types",
+  "fork": false,
+  "url": "https://api.github.com/repos/ekmett/tagged",
+  "languages_url": "https://api.github.com/repos/ekmett/tagged/languages",
+  "pulls_url": "https://api.github.com/repos/ekmett/tagged/pulls{/number}",
+  "created_at": "2010-06-16T17:26:20Z",
+  "updated_at": "2018-07-02T22:49:47Z",
+  "pushed_at": "2018-07-02T22:53:51Z",
+  "homepage": "http://hackage.haskell.org/package/tagged",
+  "size": 160,
+  "stargazers_count": 30,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "vmchale": 1,
+    "asr": 1,
+    "ivan-timokhin": 1,
+    "expipiplus1": 1,
+    "bgamari": 1,
+    "nomeata": 1,
+    "norriscm": 1,
+    "phadej": 2,
+    "duairc": 2,
+    "shachaf": 2,
+    "hvr": 3,
+    "ehird": 5,
+    "RyanGlScott": 32,
+    "ekmett": 75
+  },
+  "pulls_authors": [
+    "phadej",
+    "vmchale",
+    "asr",
+    "ivan-timokhin",
+    "duairc",
+    "RyanGlScott",
+    "hvr",
+    "expipiplus1",
+    "feuerbach",
+    "hamishmack",
+    "bgamari",
+    "ehird",
+    "nomeata",
+    "norriscm"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 24190,
+      "color": "#5e5086"
+    },
+    "Shell": {
+      "bytes": 256,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:20.876Z"
+}

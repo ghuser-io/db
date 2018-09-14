@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "learn-html5",
+  "full_name": "dwyl/learn-html5",
+  "owner": "dwyl",
+  "private": false,
+  "html_url": "https://github.com/dwyl/learn-html5",
+  "description": ":earth_africa: Learn how to use HTML5 (from scratch) to build websites/web applications!",
+  "fork": false,
+  "url": "https://api.github.com/repos/dwyl/learn-html5",
+  "languages_url": "https://api.github.com/repos/dwyl/learn-html5/languages",
+  "created_at": "2017-01-01T08:51:44Z",
+  "updated_at": "2018-08-24T04:41:39Z",
+  "pushed_at": "2018-08-05T20:02:38Z",
+  "homepage": "",
+  "size": 50,
+  "stargazers_count": 25,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "dwyl",
+    "id": 11708465,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExNzA4NDY1",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/11708465?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/dwyl",
+    "html_url": "https://github.com/dwyl",
+    "followers_url": "https://api.github.com/users/dwyl/followers",
+    "following_url": "https://api.github.com/users/dwyl/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dwyl/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/dwyl/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dwyl/subscriptions",
+    "organizations_url": "https://api.github.com/users/dwyl/orgs",
+    "repos_url": "https://api.github.com/users/dwyl/repos",
+    "events_url": "https://api.github.com/users/dwyl/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/dwyl/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "nelsonic": 1,
+    "Rupeshiya": 4,
+    "edwardcodes": 5,
+    "karinakozarova": 44
+  },
+  "languages": {},
+  "fetched_at": "2018-08-24T12:44:13.883Z",
+  "pulls_url": "https://api.github.com/repos/dwyl/learn-html5/pulls{/number}",
+  "pulls_authors": [
+    "Rupeshiya",
+    "karinakozarova",
+    "edwardcodes"
+  ]
+}

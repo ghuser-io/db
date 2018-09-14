@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "flask-wiki",
+  "full_name": "schollz/flask-wiki",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/flask-wiki",
+  "description": "Flask based wiki, using markdown files as backend with git versioning.",
+  "fork": true,
+  "url": "https://api.github.com/repos/schollz/flask-wiki",
+  "languages_url": "https://api.github.com/repos/schollz/flask-wiki/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/flask-wiki/pulls{/number}",
+  "created_at": "2015-07-06T19:10:45Z",
+  "updated_at": "2018-08-16T14:26:01Z",
+  "pushed_at": "2015-07-06T21:33:20Z",
+  "homepage": "",
+  "size": 397,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jiffyjeff": 1,
+    "wsteitz": 1,
+    "GLMeece": 2,
+    "lowstz": 4,
+    "nils-werner": 5,
+    "schollz": 13,
+    "traeblain": 17,
+    "walkerh": 19
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CSS": {
+      "bytes": 24732,
+      "color": "#563d7c"
+    },
+    "Python": {
+      "bytes": 22425,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 12508,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:53.111Z"
+}

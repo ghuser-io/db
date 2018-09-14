@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ninja-hue",
+  "full_name": "thatguydan/ninja-hue",
+  "owner": "thatguydan",
+  "private": false,
+  "html_url": "https://github.com/thatguydan/ninja-hue",
+  "description": "Ninja Blocks Hue Module",
+  "fork": false,
+  "url": "https://api.github.com/repos/thatguydan/ninja-hue",
+  "languages_url": "https://api.github.com/repos/thatguydan/ninja-hue/languages",
+  "pulls_url": "https://api.github.com/repos/thatguydan/ninja-hue/pulls{/number}",
+  "created_at": "2013-01-23T06:25:52Z",
+  "updated_at": "2013-11-22T04:51:51Z",
+  "pushed_at": "2013-11-22T00:43:13Z",
+  "homepage": null,
+  "size": 216,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jmanoto": 1,
+    "elliots": 3,
+    "thatguydan": 38
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 13160,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T13:45:58.838Z"
+}

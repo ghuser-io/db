@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "croplands-mobile",
+  "full_name": "justinwp/croplands-mobile",
+  "owner": "justinwp",
+  "private": false,
+  "html_url": "https://github.com/justinwp/croplands-mobile",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/justinwp/croplands-mobile",
+  "languages_url": "https://api.github.com/repos/justinwp/croplands-mobile/languages",
+  "pulls_url": "https://api.github.com/repos/justinwp/croplands-mobile/pulls{/number}",
+  "created_at": "2015-03-03T22:47:58Z",
+  "updated_at": "2016-09-26T15:47:03Z",
+  "pushed_at": "2016-08-19T21:32:27Z",
+  "homepage": null,
+  "size": 68091,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "justinwp": 142
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 952392,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 476348,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 29759,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:32.893Z"
+}

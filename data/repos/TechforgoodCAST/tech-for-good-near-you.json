@@ -1,0 +1,89 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tech-for-good-near-you",
+  "full_name": "TechforgoodCAST/tech-for-good-near-you",
+  "owner": "TechforgoodCAST",
+  "private": false,
+  "html_url": "https://github.com/TechforgoodCAST/tech-for-good-near-you",
+  "description": "an app to find tech for good events near you",
+  "fork": false,
+  "url": "https://api.github.com/repos/TechforgoodCAST/tech-for-good-near-you",
+  "languages_url": "https://api.github.com/repos/TechforgoodCAST/tech-for-good-near-you/languages",
+  "pulls_url": "https://api.github.com/repos/TechforgoodCAST/tech-for-good-near-you/pulls{/number}",
+  "created_at": "2017-03-01T14:17:40Z",
+  "updated_at": "2018-04-10T06:14:45Z",
+  "pushed_at": "2018-01-09T12:21:00Z",
+  "homepage": "https://tech-for-good-near-you.herokuapp.com/",
+  "size": 326,
+  "stargazers_count": 9,
+  "language": "Elixir",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "TechforgoodCAST",
+    "id": 19712864,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5NzEyODY0",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/19712864?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/TechforgoodCAST",
+    "html_url": "https://github.com/TechforgoodCAST",
+    "followers_url": "https://api.github.com/users/TechforgoodCAST/followers",
+    "following_url": "https://api.github.com/users/TechforgoodCAST/following{/other_user}",
+    "gists_url": "https://api.github.com/users/TechforgoodCAST/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/TechforgoodCAST/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/TechforgoodCAST/subscriptions",
+    "organizations_url": "https://api.github.com/users/TechforgoodCAST/orgs",
+    "repos_url": "https://api.github.com/users/TechforgoodCAST/repos",
+    "events_url": "https://api.github.com/users/TechforgoodCAST/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/TechforgoodCAST/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "wearecast": 3,
+    "ivanmauricio": 78,
+    "andrewMacmurray": 103
+  },
+  "pulls_authors": [
+    "andrewMacmurray",
+    "suninthesky",
+    "drkane",
+    "eghale",
+    "ivanmauricio"
+  ],
+  "languages": {
+    "Elixir": {
+      "bytes": 49084,
+      "color": "#6e4a7e"
+    },
+    "Elm": {
+      "bytes": 43037,
+      "color": "#60B5CC"
+    },
+    "CSS": {
+      "bytes": 8477,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 7813,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 6290,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 95,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T05:01:00.588Z"
+}

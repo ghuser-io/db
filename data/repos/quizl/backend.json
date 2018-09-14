@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "backend",
+  "full_name": "quizl/backend",
+  "owner": "quizl",
+  "private": false,
+  "html_url": "https://github.com/quizl/backend",
+  "description": "Set of utils for Quizlet flash cards management",
+  "fork": false,
+  "url": "https://api.github.com/repos/quizl/backend",
+  "languages_url": "https://api.github.com/repos/quizl/backend/languages",
+  "created_at": "2017-12-31T14:46:53Z",
+  "updated_at": "2018-06-26T11:23:41Z",
+  "pushed_at": "2018-01-22T20:56:46Z",
+  "homepage": "",
+  "size": 8,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "quizl",
+    "id": 34978882,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM0OTc4ODgy",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/34978882?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/quizl",
+    "html_url": "https://github.com/quizl",
+    "followers_url": "https://api.github.com/users/quizl/followers",
+    "following_url": "https://api.github.com/users/quizl/following{/other_user}",
+    "gists_url": "https://api.github.com/users/quizl/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/quizl/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/quizl/subscriptions",
+    "organizations_url": "https://api.github.com/users/quizl/orgs",
+    "repos_url": "https://api.github.com/users/quizl/repos",
+    "events_url": "https://api.github.com/users/quizl/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/quizl/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "AurelienLourot": 10
+  },
+  "languages": {
+    "Python": {
+      "bytes": 1420,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 841,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/quizl/backend/pulls{/number}",
+  "pulls_authors": []
+}

@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "haskell-do",
+  "full_name": "mdibaiee/haskell-do",
+  "owner": "mdibaiee",
+  "private": false,
+  "html_url": "https://github.com/mdibaiee/haskell-do",
+  "description": ":pencil2: :bar_chart: - The Haskell code editor focused on interactive development.",
+  "fork": true,
+  "url": "https://api.github.com/repos/mdibaiee/haskell-do",
+  "languages_url": "https://api.github.com/repos/mdibaiee/haskell-do/languages",
+  "pulls_url": "https://api.github.com/repos/mdibaiee/haskell-do/pulls{/number}",
+  "created_at": "2017-06-07T06:19:41Z",
+  "updated_at": "2017-10-13T17:46:40Z",
+  "pushed_at": "2017-08-16T09:24:43Z",
+  "homepage": "",
+  "size": 43813,
+  "stargazers_count": 1,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "exallium": 1,
+    "kubukoz": 1,
+    "jfsagasti": 4,
+    "J2RGEZ": 4,
+    "javiertoledo": 4,
+    "SamuelSchlesinger": 15,
+    "KitFreddura": 70,
+    "NickSeagull": 245
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Haskell": {
+      "bytes": 57827,
+      "color": "#5e5086"
+    },
+    "HTML": {
+      "bytes": 3712,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:47.705Z"
+}

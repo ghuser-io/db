@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "godepgraph",
+  "full_name": "kisielk/godepgraph",
+  "owner": "kisielk",
+  "private": false,
+  "html_url": "https://github.com/kisielk/godepgraph",
+  "description": "A Go dependency graph visualization tool",
+  "fork": false,
+  "url": "https://api.github.com/repos/kisielk/godepgraph",
+  "languages_url": "https://api.github.com/repos/kisielk/godepgraph/languages",
+  "pulls_url": "https://api.github.com/repos/kisielk/godepgraph/pulls{/number}",
+  "created_at": "2013-02-13T22:29:38Z",
+  "updated_at": "2018-09-13T04:44:14Z",
+  "pushed_at": "2018-09-11T22:51:02Z",
+  "homepage": null,
+  "size": 2167,
+  "stargazers_count": 318,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "starius": 1,
+    "aviau": 1,
+    "igrmk": 1,
+    "davcamer": 1,
+    "nanjj": 1,
+    "calmh": 1,
+    "danehammer": 1,
+    "paulbuis": 1,
+    "moul": 1,
+    "cespare": 1,
+    "dominikh": 1,
+    "kisielk": 20,
+    "13rac1": 2,
+    "Justin-W": 1
+  },
+  "pulls_authors": [
+    "Justin-W",
+    "starius",
+    "aviau",
+    "igrmk",
+    "davcamer",
+    "nanjj",
+    "calmh",
+    "zozo123",
+    "danehammer",
+    "paulbuis",
+    "moul",
+    "adriamb",
+    "cespare",
+    "dominikh",
+    "praetoriansentry",
+    "ajstarks",
+    "13rac1"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 6525,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-13T16:38:41.031Z"
+}

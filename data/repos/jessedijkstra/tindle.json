@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tindle",
+  "full_name": "jessedijkstra/tindle",
+  "owner": "jessedijkstra",
+  "private": false,
+  "html_url": "https://github.com/jessedijkstra/tindle",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/jessedijkstra/tindle",
+  "languages_url": "https://api.github.com/repos/jessedijkstra/tindle/languages",
+  "created_at": "2016-02-23T16:02:05Z",
+  "updated_at": "2016-04-20T14:40:53Z",
+  "pushed_at": "2016-03-15T19:28:19Z",
+  "homepage": null,
+  "size": 146,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jessedijkstra": 12
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 30646,
+      "color": "#f1e05a"
+    },
+    "Objective-C": {
+      "bytes": 5098,
+      "color": "#438eff"
+    },
+    "Java": {
+      "bytes": 2279,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-07-28T01:44:43.412Z",
+  "pulls_url": "https://api.github.com/repos/jessedijkstra/tindle/pulls{/number}",
+  "pulls_authors": []
+}

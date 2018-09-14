@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "clean-sentence",
+  "full_name": "brillout/clean-sentence",
+  "owner": "brillout",
+  "private": false,
+  "html_url": "https://github.com/brillout/clean-sentence",
+  "description": "Clean a sentence from missing first letter upper case, trailing dot and/or remove URLs, emojis, white space doublets.",
+  "fork": false,
+  "url": "https://api.github.com/repos/brillout/clean-sentence",
+  "languages_url": "https://api.github.com/repos/brillout/clean-sentence/languages",
+  "created_at": "2017-02-19T16:13:51Z",
+  "updated_at": "2017-03-11T23:26:05Z",
+  "pushed_at": "2017-04-28T12:31:40Z",
+  "homepage": null,
+  "size": 8,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "cc0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "spdx_id": "CC0-1.0",
+    "url": "https://api.github.com/licenses/cc0-1.0",
+    "node_id": "MDc6TGljZW5zZTY="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "brillout": 12
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 2723,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/brillout/clean-sentence/pulls{/number}",
+  "pulls_authors": []
+}

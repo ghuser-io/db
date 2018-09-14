@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "globre",
+  "full_name": "metagriffin/globre",
+  "owner": "metagriffin",
+  "private": false,
+  "html_url": "https://github.com/metagriffin/globre",
+  "description": "A python glob-like regular expression generation library.",
+  "fork": false,
+  "url": "https://api.github.com/repos/metagriffin/globre",
+  "languages_url": "https://api.github.com/repos/metagriffin/globre/languages",
+  "pulls_url": "https://api.github.com/repos/metagriffin/globre/pulls{/number}",
+  "created_at": "2013-10-28T18:35:51Z",
+  "updated_at": "2018-06-18T12:25:33Z",
+  "pushed_at": "2017-11-02T10:46:16Z",
+  "homepage": null,
+  "size": 46,
+  "stargazers_count": 6,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jlec": 1,
+    "jayvdb": 2,
+    "metagriffin": 36
+  },
+  "pulls_authors": [
+    "alexander255",
+    "jayvdb",
+    "jlec"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 21010,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 41,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

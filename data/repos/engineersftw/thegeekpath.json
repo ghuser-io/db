@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "thegeekpath",
+  "full_name": "engineersftw/thegeekpath",
+  "owner": "engineersftw",
+  "private": false,
+  "html_url": "https://github.com/engineersftw/thegeekpath",
+  "description": "The Geek Path = a community manifesto",
+  "fork": false,
+  "url": "https://api.github.com/repos/engineersftw/thegeekpath",
+  "languages_url": "https://api.github.com/repos/engineersftw/thegeekpath/languages",
+  "pulls_url": "https://api.github.com/repos/engineersftw/thegeekpath/pulls{/number}",
+  "created_at": "2016-09-18T12:12:44Z",
+  "updated_at": "2018-08-28T07:12:09Z",
+  "pushed_at": "2018-08-28T07:12:08Z",
+  "homepage": "https://thegeekpath.com",
+  "size": 3387,
+  "stargazers_count": 13,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "engineersftw",
+    "id": 9618429,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjk2MTg0Mjk=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/9618429?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/engineersftw",
+    "html_url": "https://github.com/engineersftw",
+    "followers_url": "https://api.github.com/users/engineersftw/followers",
+    "following_url": "https://api.github.com/users/engineersftw/following{/other_user}",
+    "gists_url": "https://api.github.com/users/engineersftw/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/engineersftw/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/engineersftw/subscriptions",
+    "organizations_url": "https://api.github.com/users/engineersftw/orgs",
+    "repos_url": "https://api.github.com/users/engineersftw/repos",
+    "events_url": "https://api.github.com/users/engineersftw/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/engineersftw/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "hboon": 2,
+    "cheeaun": 48,
+    "sayanee": 50
+  },
+  "pulls_authors": [
+    "hboon",
+    "sayanee"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 9999,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 2695,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:52.241Z"
+}

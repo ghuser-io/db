@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PracticeIt",
+  "full_name": "cardoso/PracticeIt",
+  "owner": "cardoso",
+  "private": false,
+  "html_url": "https://github.com/cardoso/PracticeIt",
+  "description": "My first published iOS App. A productivity app written in Objective-C.",
+  "fork": false,
+  "url": "https://api.github.com/repos/cardoso/PracticeIt",
+  "languages_url": "https://api.github.com/repos/cardoso/PracticeIt/languages",
+  "pulls_url": "https://api.github.com/repos/cardoso/PracticeIt/pulls{/number}",
+  "created_at": "2016-08-19T19:30:47Z",
+  "updated_at": "2017-11-01T13:48:48Z",
+  "pushed_at": "2017-02-02T12:19:39Z",
+  "homepage": "https://itunes.apple.com/us/app/practiceit/id1118984457",
+  "size": 2311,
+  "stargazers_count": 3,
+  "language": "Objective-C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cardoso": 27
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Objective-C": {
+      "bytes": 424749,
+      "color": "#438eff"
+    },
+    "Shell": {
+      "bytes": 26564,
+      "color": "#89e051"
+    },
+    "Swift": {
+      "bytes": 19755,
+      "color": "#ffac45"
+    },
+    "Ruby": {
+      "bytes": 621,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-03T21:47:36.604Z"
+}

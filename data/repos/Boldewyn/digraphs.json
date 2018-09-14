@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "digraphs",
+  "full_name": "Boldewyn/digraphs",
+  "owner": "Boldewyn",
+  "private": false,
+  "html_url": "https://github.com/Boldewyn/digraphs",
+  "description": "Digraph support for Firefox (as known from Vim)",
+  "fork": false,
+  "url": "https://api.github.com/repos/Boldewyn/digraphs",
+  "languages_url": "https://api.github.com/repos/Boldewyn/digraphs/languages",
+  "pulls_url": "https://api.github.com/repos/Boldewyn/digraphs/pulls{/number}",
+  "created_at": "2010-12-09T14:58:09Z",
+  "updated_at": "2014-06-10T22:31:04Z",
+  "pushed_at": "2011-06-23T13:34:35Z",
+  "homepage": "http://boldewyn.github.com/digraphs/",
+  "size": 204,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Boldewyn": 29
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 40966,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:57:56.586Z"
+}

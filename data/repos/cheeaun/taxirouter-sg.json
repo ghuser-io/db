@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "taxirouter-sg",
+  "full_name": "cheeaun/taxirouter-sg",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/taxirouter-sg",
+  "description": "A web app that lets you explore available taxis and taxi stands in Singapore",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/taxirouter-sg",
+  "languages_url": "https://api.github.com/repos/cheeaun/taxirouter-sg/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/taxirouter-sg/pulls{/number}",
+  "created_at": "2016-03-23T16:06:56Z",
+  "updated_at": "2018-09-09T17:59:43Z",
+  "pushed_at": "2018-04-03T14:13:57Z",
+  "homepage": "https://taxirouter.sg/",
+  "size": 1529,
+  "stargazers_count": 16,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 47
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 151184,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 68923,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 5449,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:53.825Z"
+}

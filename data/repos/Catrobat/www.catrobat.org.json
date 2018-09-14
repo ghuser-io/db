@@ -1,0 +1,82 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "www.catrobat.org",
+  "full_name": "Catrobat/www.catrobat.org",
+  "owner": "Catrobat",
+  "private": false,
+  "html_url": "https://github.com/Catrobat/www.catrobat.org",
+  "description": "Backend for www.catrobat.org",
+  "fork": false,
+  "url": "https://api.github.com/repos/Catrobat/www.catrobat.org",
+  "languages_url": "https://api.github.com/repos/Catrobat/www.catrobat.org/languages",
+  "pulls_url": "https://api.github.com/repos/Catrobat/www.catrobat.org/pulls{/number}",
+  "created_at": "2013-11-24T13:00:17Z",
+  "updated_at": "2018-08-29T16:40:45Z",
+  "pushed_at": "2018-08-29T16:40:42Z",
+  "homepage": null,
+  "size": 81925,
+  "stargazers_count": 4,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "gh-pages",
+  "organization": {
+    "login": "Catrobat",
+    "id": 1747223,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3NDcyMjM=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1747223?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Catrobat",
+    "html_url": "https://github.com/Catrobat",
+    "followers_url": "https://api.github.com/users/Catrobat/followers",
+    "following_url": "https://api.github.com/users/Catrobat/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Catrobat/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Catrobat/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Catrobat/subscriptions",
+    "organizations_url": "https://api.github.com/users/Catrobat/orgs",
+    "repos_url": "https://api.github.com/users/Catrobat/repos",
+    "events_url": "https://api.github.com/users/Catrobat/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Catrobat/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "vikiCoder": 1,
+    "aried3r": 1,
+    "Kriechi": 2,
+    "segabl": 2,
+    "gitarrenfudler": 6,
+    "MarkoBurazer": 8,
+    "wslany": 89
+  },
+  "pulls_authors": [
+    "imjog",
+    "Kriechi",
+    "vikiCoder",
+    "segabl",
+    "aried3r",
+    "cstrobbe"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 557741,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 52061,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 33266,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-03T18:26:35.257Z"
+}

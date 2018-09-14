@@ -1,0 +1,82 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pibrella",
+  "full_name": "pimoroni/pibrella",
+  "owner": "pimoroni",
+  "private": false,
+  "html_url": "https://github.com/pimoroni/pibrella",
+  "description": "Pibrella python library & examples",
+  "fork": false,
+  "url": "https://api.github.com/repos/pimoroni/pibrella",
+  "languages_url": "https://api.github.com/repos/pimoroni/pibrella/languages",
+  "pulls_url": "https://api.github.com/repos/pimoroni/pibrella/pulls{/number}",
+  "created_at": "2013-10-15T14:02:17Z",
+  "updated_at": "2018-09-12T05:10:34Z",
+  "pushed_at": "2017-05-03T15:07:28Z",
+  "homepage": "",
+  "size": 157,
+  "stargazers_count": 65,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pimoroni",
+    "id": 2399917,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzOTk5MTc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2399917?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pimoroni",
+    "html_url": "https://github.com/pimoroni",
+    "followers_url": "https://api.github.com/users/pimoroni/followers",
+    "following_url": "https://api.github.com/users/pimoroni/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pimoroni/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pimoroni/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pimoroni/subscriptions",
+    "organizations_url": "https://api.github.com/users/pimoroni/orgs",
+    "repos_url": "https://api.github.com/users/pimoroni/repos",
+    "events_url": "https://api.github.com/users/pimoroni/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pimoroni/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "e2jk": 1,
+    "bennuttall": 1,
+    "lowfatcode": 1,
+    "tzyl": 2,
+    "rabid-inventor": 2,
+    "RogueM": 18,
+    "Gadgetoid": 48
+  },
+  "pulls_authors": [
+    "RogueM",
+    "tzyl",
+    "absolument",
+    "Gadgetoid",
+    "e2jk",
+    "bennuttall"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 34068,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 7463,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 324,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:43:37.296Z"
+}

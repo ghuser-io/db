@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mister-bin",
+  "full_name": "moul/mister-bin",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/mister-bin",
+  "description": ":sparkles: Binaries + Steroids = Abracadabra !",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/mister-bin",
+  "languages_url": "https://api.github.com/repos/moul/mister-bin/languages",
+  "pulls_url": "https://api.github.com/repos/moul/mister-bin/pulls{/number}",
+  "created_at": "2015-12-16T16:29:42Z",
+  "updated_at": "2017-03-13T02:41:09Z",
+  "pushed_at": "2016-01-08T12:09:22Z",
+  "homepage": null,
+  "size": 43,
+  "stargazers_count": 2,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 35
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 9737,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 2559,
+      "color": "#427819"
+    },
+    "C": {
+      "bytes": 185,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:13.349Z"
+}

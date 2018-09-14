@@ -1,0 +1,87 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "geospatial",
+  "full_name": "php-geospatial/geospatial",
+  "owner": "php-geospatial",
+  "private": false,
+  "html_url": "https://github.com/php-geospatial/geospatial",
+  "description": "PHP Extension to handle common geospatial functions.",
+  "fork": false,
+  "url": "https://api.github.com/repos/php-geospatial/geospatial",
+  "languages_url": "https://api.github.com/repos/php-geospatial/geospatial/languages",
+  "pulls_url": "https://api.github.com/repos/php-geospatial/geospatial/pulls{/number}",
+  "created_at": "2012-10-04T13:28:46Z",
+  "updated_at": "2018-09-13T03:09:42Z",
+  "pushed_at": "2018-05-10T14:28:10Z",
+  "homepage": null,
+  "size": 103,
+  "stargazers_count": 35,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "php-geospatial",
+    "id": 2486587,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI0ODY1ODc=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/2486587?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/php-geospatial",
+    "html_url": "https://github.com/php-geospatial",
+    "followers_url": "https://api.github.com/users/php-geospatial/followers",
+    "following_url": "https://api.github.com/users/php-geospatial/following{/other_user}",
+    "gists_url": "https://api.github.com/users/php-geospatial/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/php-geospatial/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/php-geospatial/subscriptions",
+    "organizations_url": "https://api.github.com/users/php-geospatial/orgs",
+    "repos_url": "https://api.github.com/users/php-geospatial/repos",
+    "events_url": "https://api.github.com/users/php-geospatial/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/php-geospatial/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "emirb": 4,
+    "manarth": 7,
+    "mgdm": 11,
+    "natmchugh": 12,
+    "derickr": 38
+  },
+  "pulls_authors": [
+    "xoptov",
+    "emirb",
+    "derickr",
+    "rickogden",
+    "natmchugh"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 47031,
+      "color": "#555555"
+    },
+    "PHP": {
+      "bytes": 15034,
+      "color": "#4F5D95"
+    },
+    "M4": {
+      "bytes": 300,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 227,
+      "color": "#89e051"
+    },
+    "JavaScript": {
+      "bytes": 189,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-13T16:31:18.197Z"
+}

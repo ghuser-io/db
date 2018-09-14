@@ -1,0 +1,106 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "code_challenges",
+  "full_name": "hacktoolkit/code_challenges",
+  "owner": "hacktoolkit",
+  "private": false,
+  "html_url": "https://github.com/hacktoolkit/code_challenges",
+  "description": "Interview hacks, programming interviews, take-home interviews, programming challenges, etc.",
+  "fork": false,
+  "url": "https://api.github.com/repos/hacktoolkit/code_challenges",
+  "languages_url": "https://api.github.com/repos/hacktoolkit/code_challenges/languages",
+  "pulls_url": "https://api.github.com/repos/hacktoolkit/code_challenges/pulls{/number}",
+  "created_at": "2015-01-31T08:37:24Z",
+  "updated_at": "2018-05-13T20:03:50Z",
+  "pushed_at": "2018-05-13T20:03:48Z",
+  "homepage": null,
+  "size": 3103,
+  "stargazers_count": 5,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "hacktoolkit",
+    "id": 5404851,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjU0MDQ4NTE=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/5404851?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hacktoolkit",
+    "html_url": "https://github.com/hacktoolkit",
+    "followers_url": "https://api.github.com/users/hacktoolkit/followers",
+    "following_url": "https://api.github.com/users/hacktoolkit/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hacktoolkit/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hacktoolkit/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hacktoolkit/subscriptions",
+    "organizations_url": "https://api.github.com/users/hacktoolkit/orgs",
+    "repos_url": "https://api.github.com/users/hacktoolkit/repos",
+    "events_url": "https://api.github.com/users/hacktoolkit/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hacktoolkit/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jayvdb": 2,
+    "jontsai": 109
+  },
+  "pulls_authors": [
+    "jayvdb"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 3604456,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1162430,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 214828,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 45770,
+      "color": "#f1e05a"
+    },
+    "C++": {
+      "bytes": 21083,
+      "color": "#f34b7d"
+    },
+    "PHP": {
+      "bytes": 19296,
+      "color": "#4F5D95"
+    },
+    "Ruby": {
+      "bytes": 11351,
+      "color": "#701516"
+    },
+    "C": {
+      "bytes": 4967,
+      "color": "#555555"
+    },
+    "Perl": {
+      "bytes": 2427,
+      "color": "#0298c3"
+    },
+    "Java": {
+      "bytes": 2367,
+      "color": "#b07219"
+    },
+    "Thrift": {
+      "bytes": 1762,
+      "color": "#ccc"
+    },
+    "Makefile": {
+      "bytes": 939,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 419,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

@@ -1,0 +1,98 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hn-special",
+  "full_name": "gabrielecirulli/hn-special",
+  "owner": "gabrielecirulli",
+  "private": false,
+  "html_url": "https://github.com/gabrielecirulli/hn-special",
+  "description": "A modern theme for Hacker News, with some added niceties.",
+  "fork": false,
+  "url": "https://api.github.com/repos/gabrielecirulli/hn-special",
+  "languages_url": "https://api.github.com/repos/gabrielecirulli/hn-special/languages",
+  "pulls_url": "https://api.github.com/repos/gabrielecirulli/hn-special/pulls{/number}",
+  "created_at": "2013-07-16T11:33:02Z",
+  "updated_at": "2018-07-11T01:23:00Z",
+  "pushed_at": "2018-07-11T01:22:58Z",
+  "homepage": "",
+  "size": 1518,
+  "stargazers_count": 304,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "willcosgrove": 1,
+    "raspo": 1,
+    "antoin-m": 1,
+    "benoror": 1,
+    "saclark": 1,
+    "imkevinxu": 1,
+    "jbrooksuk": 1,
+    "obeattie": 1,
+    "nfvs": 2,
+    "andrewstuart": 2,
+    "kittens": 2,
+    "bjenik": 2,
+    "taeram": 10,
+    "ColdenCullen": 13,
+    "PxlBuzzard": 41,
+    "gabrielecirulli": 323
+  },
+  "pulls_authors": [
+    "willcosgrove",
+    "raspo",
+    "nfvs",
+    "gabrielecirulli",
+    "antoin-m",
+    "andrewstuart",
+    "thewisenerd",
+    "lieuwex",
+    "saclark",
+    "stevenlu",
+    "MrAlexWeber",
+    "dudevon",
+    "imkevinxu",
+    "justinnichols",
+    "PxlBuzzard",
+    "mattearnshaw",
+    "aaron7",
+    "coffeecodecouch",
+    "inverse",
+    "Chris911",
+    "dav-",
+    "dalemyers",
+    "jescalan",
+    "jbrooksuk",
+    "kittens",
+    "bjenik",
+    "obeattie",
+    "FranciscoG",
+    "taeram"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 55158,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 28064,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 676,
+      "color": "#e34c26"
+    },
+    "Ruby": {
+      "bytes": 482,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:58.957Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "toggledots",
+  "full_name": "chrismytton/toggledots",
+  "owner": "chrismytton",
+  "private": false,
+  "html_url": "https://github.com/chrismytton/toggledots",
+  "description": "Show and hide 'dot-files' in OS X's Finder",
+  "fork": false,
+  "url": "https://api.github.com/repos/chrismytton/toggledots",
+  "languages_url": "https://api.github.com/repos/chrismytton/toggledots/languages",
+  "pulls_url": "https://api.github.com/repos/chrismytton/toggledots/pulls{/number}",
+  "created_at": "2010-02-19T02:38:57Z",
+  "updated_at": "2014-12-19T17:57:27Z",
+  "pushed_at": "2011-06-16T22:47:28Z",
+  "homepage": "",
+  "size": 96,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "chrismytton": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 2105,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:51.315Z"
+}

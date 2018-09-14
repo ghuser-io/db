@@ -1,0 +1,84 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "poser",
+  "full_name": "badges/poser",
+  "owner": "badges",
+  "private": false,
+  "html_url": "https://github.com/badges/poser",
+  "description": "PHP badges library",
+  "fork": false,
+  "url": "https://api.github.com/repos/badges/poser",
+  "languages_url": "https://api.github.com/repos/badges/poser/languages",
+  "pulls_url": "https://api.github.com/repos/badges/poser/pulls{/number}",
+  "created_at": "2014-06-24T14:25:51Z",
+  "updated_at": "2018-09-12T21:39:08Z",
+  "pushed_at": "2017-11-15T09:55:32Z",
+  "homepage": "poser.pugx.org",
+  "size": 441,
+  "stargazers_count": 56,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "badges",
+    "id": 6254238,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYyNTQyMzg=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/6254238?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/badges",
+    "html_url": "https://github.com/badges",
+    "followers_url": "https://api.github.com/users/badges/followers",
+    "following_url": "https://api.github.com/users/badges/following{/other_user}",
+    "gists_url": "https://api.github.com/users/badges/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/badges/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/badges/subscriptions",
+    "organizations_url": "https://api.github.com/users/badges/orgs",
+    "repos_url": "https://api.github.com/users/badges/repos",
+    "events_url": "https://api.github.com/users/badges/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/badges/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jhoff": 1,
+    "garak": 1,
+    "Jean85": 1,
+    "maximkott": 1,
+    "Haehnchen": 1,
+    "PeterDaveHello": 1,
+    "fefas": 2,
+    "liuggio": 12,
+    "jmleroux": 16
+  },
+  "pulls_authors": [
+    "jmleroux",
+    "jhoff",
+    "garak",
+    "jbrooksuk",
+    "fefas",
+    "Jean85",
+    "maximkott",
+    "Haehnchen",
+    "liuggio",
+    "PeterDaveHello"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 33112,
+      "color": "#4F5D95"
+    },
+    "Gherkin": {
+      "bytes": 1251,
+      "color": "#5B2063"
+    }
+  },
+  "fetched_at": "2018-09-12T23:55:33.087Z"
+}

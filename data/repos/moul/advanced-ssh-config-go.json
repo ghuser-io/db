@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "advanced-ssh-config-go",
+  "full_name": "moul/advanced-ssh-config-go",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/advanced-ssh-config-go",
+  "description": "Golang port of github.com/moul/advanced-ssh-config",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/advanced-ssh-config-go",
+  "languages_url": "https://api.github.com/repos/moul/advanced-ssh-config-go/languages",
+  "pulls_url": "https://api.github.com/repos/moul/advanced-ssh-config-go/pulls{/number}",
+  "created_at": "2015-08-05T19:48:21Z",
+  "updated_at": "2017-10-24T06:33:14Z",
+  "pushed_at": "2015-08-12T08:15:59Z",
+  "homepage": null,
+  "size": 632,
+  "stargazers_count": 3,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 55
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 16967,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 773,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:28.814Z"
+}

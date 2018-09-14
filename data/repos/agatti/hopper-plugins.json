@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hopper-plugins",
+  "full_name": "agatti/hopper-plugins",
+  "owner": "agatti",
+  "private": false,
+  "html_url": "https://github.com/agatti/hopper-plugins",
+  "description": "Plugins for the Hopper disassembler",
+  "fork": false,
+  "url": "https://api.github.com/repos/agatti/hopper-plugins",
+  "languages_url": "https://api.github.com/repos/agatti/hopper-plugins/languages",
+  "pulls_url": "https://api.github.com/repos/agatti/hopper-plugins/pulls{/number}",
+  "created_at": "2014-07-12T12:35:13Z",
+  "updated_at": "2018-09-01T23:53:36Z",
+  "pushed_at": "2018-07-15T17:55:56Z",
+  "homepage": "",
+  "size": 801,
+  "stargazers_count": 110,
+  "language": "Objective-C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bryant1410": 1,
+    "agatti": 138
+  },
+  "pulls_authors": [
+    "bryant1410"
+  ],
+  "languages": {
+    "Objective-C": {
+      "bytes": 858984,
+      "color": "#438eff"
+    },
+    "Assembly": {
+      "bytes": 96401,
+      "color": "#6E4C13"
+    },
+    "C": {
+      "bytes": 16439,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 8776,
+      "color": "#427819"
+    },
+    "Python": {
+      "bytes": 5539,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 4489,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T15:09:52.716Z"
+}

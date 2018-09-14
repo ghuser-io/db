@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Quadrilactic",
+  "full_name": "bencoveney/Quadrilactic",
+  "owner": "bencoveney",
+  "private": false,
+  "html_url": "https://github.com/bencoveney/Quadrilactic",
+  "description": "HTML5 Canvas Experimentation",
+  "fork": false,
+  "url": "https://api.github.com/repos/bencoveney/Quadrilactic",
+  "languages_url": "https://api.github.com/repos/bencoveney/Quadrilactic/languages",
+  "pulls_url": "https://api.github.com/repos/bencoveney/Quadrilactic/pulls{/number}",
+  "created_at": "2016-01-29T23:42:46Z",
+  "updated_at": "2016-05-15T21:53:02Z",
+  "pushed_at": "2016-06-23T19:47:58Z",
+  "homepage": "http://bencoveney.github.io/Quadrilactic/",
+  "size": 32393,
+  "stargazers_count": 1,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "harveytoro": 1,
+    "bencoveney": 54
+  },
+  "pulls_authors": [
+    "harveytoro"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 43394,
+      "color": "#2b7489"
+    },
+    "JavaScript": {
+      "bytes": 2087,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1596,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 762,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-17T11:57:03.983Z"
+}

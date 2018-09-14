@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "franciscop.github.io",
+  "full_name": "franciscop/franciscop.github.io",
+  "owner": "franciscop",
+  "private": false,
+  "html_url": "https://github.com/franciscop/franciscop.github.io",
+  "description": "My personal website",
+  "fork": false,
+  "url": "https://api.github.com/repos/franciscop/franciscop.github.io",
+  "languages_url": "https://api.github.com/repos/franciscop/franciscop.github.io/languages",
+  "pulls_url": "https://api.github.com/repos/franciscop/franciscop.github.io/pulls{/number}",
+  "created_at": "2018-05-19T12:15:10Z",
+  "updated_at": "2018-09-01T01:55:51Z",
+  "pushed_at": "2018-09-01T01:55:50Z",
+  "homepage": null,
+  "size": 20832,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "franciscop": 79
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 41536,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 37965,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 3074,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T00:04:55.820Z"
+}

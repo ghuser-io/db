@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jquery.dziviewer.js",
+  "full_name": "moul/jquery.dziviewer.js",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/jquery.dziviewer.js",
+  "description": "Deep Zoom Images (OpenZoom) tiles viewer in JQuery (POC)",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/jquery.dziviewer.js",
+  "languages_url": "https://api.github.com/repos/moul/jquery.dziviewer.js/languages",
+  "pulls_url": "https://api.github.com/repos/moul/jquery.dziviewer.js/pulls{/number}",
+  "created_at": "2012-01-29T13:02:53Z",
+  "updated_at": "2013-01-07T06:45:58Z",
+  "pushed_at": "2012-02-03T10:36:10Z",
+  "homepage": "",
+  "size": 128,
+  "stargazers_count": 1,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 22
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 16675,
+      "color": "#244776"
+    },
+    "JavaScript": {
+      "bytes": 1581,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 60,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:54.432Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "oscilloscope",
+  "full_name": "schollz/oscilloscope",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/oscilloscope",
+  "description": "terminal based oscilloscope",
+  "fork": true,
+  "url": "https://api.github.com/repos/schollz/oscilloscope",
+  "languages_url": "https://api.github.com/repos/schollz/oscilloscope/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/oscilloscope/pulls{/number}",
+  "created_at": "2015-06-14T20:49:48Z",
+  "updated_at": "2017-01-30T11:03:33Z",
+  "pushed_at": "2015-06-14T19:16:34Z",
+  "homepage": null,
+  "size": 57,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "tscholl2": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 1977,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:54.891Z"
+}

@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jekyll_social_icons",
+  "full_name": "unabris/jekyll_social_icons",
+  "owner": "unabris",
+  "private": false,
+  "html_url": "https://github.com/unabris/jekyll_social_icons",
+  "description": "Jekyll plugin to render your social networks icons",
+  "fork": false,
+  "url": "https://api.github.com/repos/unabris/jekyll_social_icons",
+  "languages_url": "https://api.github.com/repos/unabris/jekyll_social_icons/languages",
+  "pulls_url": "https://api.github.com/repos/unabris/jekyll_social_icons/pulls{/number}",
+  "created_at": "2017-05-03T18:35:50Z",
+  "updated_at": "2018-03-20T18:29:36Z",
+  "pushed_at": "2018-03-14T08:38:56Z",
+  "homepage": null,
+  "size": 10,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jayvdb": 1,
+    "unabris": 12
+  },
+  "pulls_authors": [
+    "jayvdb"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 4937,
+      "color": "#701516"
+    },
+    "CSS": {
+      "bytes": 1496,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

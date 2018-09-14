@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "glot-containers",
+  "full_name": "prasmussen/glot-containers",
+  "owner": "prasmussen",
+  "private": false,
+  "html_url": "https://github.com/prasmussen/glot-containers",
+  "description": "Docker containers for running code",
+  "fork": false,
+  "url": "https://api.github.com/repos/prasmussen/glot-containers",
+  "languages_url": "https://api.github.com/repos/prasmussen/glot-containers/languages",
+  "pulls_url": "https://api.github.com/repos/prasmussen/glot-containers/pulls{/number}",
+  "created_at": "2015-04-25T12:07:44Z",
+  "updated_at": "2018-06-17T18:28:54Z",
+  "pushed_at": "2018-06-17T18:28:53Z",
+  "homepage": "https://hub.docker.com/r/glot/",
+  "size": 87,
+  "stargazers_count": 71,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "homam": 1,
+    "oprypin": 1,
+    "chaddotson": 1,
+    "steinwaywhw": 1,
+    "Evild67": 1,
+    "rightfold": 2,
+    "nishtahir": 2,
+    "MattOates": 2,
+    "aloisdg": 3,
+    "prasmussen": 70
+  },
+  "pulls_authors": [
+    "rightfold",
+    "homam",
+    "aloisdg",
+    "steinwaywhw",
+    "oprypin",
+    "nishtahir",
+    "chaddotson",
+    "philipsd6",
+    "MattOates",
+    "Evild67"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 2545,
+      "color": "#89e051"
+    },
+    "JavaScript": {
+      "bytes": 318,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:12.738Z"
+}

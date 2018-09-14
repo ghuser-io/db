@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ink-language-server",
+  "full_name": "ephread/ink-language-server",
+  "owner": "ephread",
+  "private": false,
+  "html_url": "https://github.com/ephread/ink-language-server",
+  "description": "A language server for inkle's Ink.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ephread/ink-language-server",
+  "languages_url": "https://api.github.com/repos/ephread/ink-language-server/languages",
+  "pulls_url": "https://api.github.com/repos/ephread/ink-language-server/pulls{/number}",
+  "created_at": "2018-06-19T04:06:40Z",
+  "updated_at": "2018-08-03T13:46:37Z",
+  "pushed_at": "2018-08-03T13:46:36Z",
+  "homepage": "",
+  "size": 278,
+  "stargazers_count": 1,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ephread": 42
+  },
+  "pulls_authors": [],
+  "languages": {
+    "TypeScript": {
+      "bytes": 74698,
+      "color": "#2b7489"
+    },
+    "JavaScript": {
+      "bytes": 347,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T17:09:38.614Z"
+}

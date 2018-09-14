@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "feathers-sub-app",
+  "full_name": "mcchrish/feathers-sub-app",
+  "owner": "mcchrish",
+  "private": false,
+  "html_url": "https://github.com/mcchrish/feathers-sub-app",
+  "description": "FOR TESTING ONLY",
+  "fork": false,
+  "url": "https://api.github.com/repos/mcchrish/feathers-sub-app",
+  "languages_url": "https://api.github.com/repos/mcchrish/feathers-sub-app/languages",
+  "pulls_url": "https://api.github.com/repos/mcchrish/feathers-sub-app/pulls{/number}",
+  "created_at": "2016-06-01T05:44:40Z",
+  "updated_at": "2016-10-14T04:38:33Z",
+  "pushed_at": "2016-06-01T05:46:31Z",
+  "homepage": "",
+  "size": 20,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mcchrish": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 14056,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 11378,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:36.350Z"
+}

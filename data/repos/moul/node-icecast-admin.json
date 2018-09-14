@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-icecast-admin",
+  "full_name": "moul/node-icecast-admin",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/node-icecast-admin",
+  "description": ":radio: Icecast admin nodejs library - used for statistics",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/node-icecast-admin",
+  "languages_url": "https://api.github.com/repos/moul/node-icecast-admin/languages",
+  "pulls_url": "https://api.github.com/repos/moul/node-icecast-admin/pulls{/number}",
+  "created_at": "2012-12-08T14:55:18Z",
+  "updated_at": "2017-02-26T09:00:52Z",
+  "pushed_at": "2018-08-18T16:09:12Z",
+  "homepage": "https://npmjs.org/package/icecast-admin",
+  "size": 138,
+  "stargazers_count": 12,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 35
+  },
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 111588,
+      "color": "#f1e05a"
+    },
+    "CoffeeScript": {
+      "bytes": 16469,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:51.048Z"
+}

@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Obstacle_Avoidance_for_Drone_Delivery",
+  "full_name": "sarthak268/Obstacle_Avoidance_for_Drone_Delivery",
+  "owner": "sarthak268",
+  "private": false,
+  "html_url": "https://github.com/sarthak268/Obstacle_Avoidance_for_Drone_Delivery",
+  "description": "This repository implements a simple YOLO algorithm for detection of birds and other aerial obstacles for drones to avoid collision during flight.",
+  "fork": false,
+  "url": "https://api.github.com/repos/sarthak268/Obstacle_Avoidance_for_Drone_Delivery",
+  "languages_url": "https://api.github.com/repos/sarthak268/Obstacle_Avoidance_for_Drone_Delivery/languages",
+  "pulls_url": "https://api.github.com/repos/sarthak268/Obstacle_Avoidance_for_Drone_Delivery/pulls{/number}",
+  "created_at": "2018-05-21T15:43:06Z",
+  "updated_at": "2018-08-27T04:22:29Z",
+  "pushed_at": "2018-07-13T18:01:32Z",
+  "homepage": "",
+  "size": 3520,
+  "stargazers_count": 5,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Antriksh98": 2,
+    "sarthak268": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 67174,
+      "color": "#f34b7d"
+    },
+    "Python": {
+      "bytes": 62264,
+      "color": "#3572A5"
+    },
+    "Processing": {
+      "bytes": 10097,
+      "color": "#0096D8"
+    },
+    "CMake": {
+      "bytes": 3665,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-03T15:17:28.186Z"
+}

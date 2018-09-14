@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "embed-python-c",
+  "full_name": "gmcabrita/embed-python-c",
+  "owner": "gmcabrita",
+  "private": false,
+  "html_url": "https://github.com/gmcabrita/embed-python-c",
+  "description": "A couple of short tests on embedding Python into C",
+  "fork": false,
+  "url": "https://api.github.com/repos/gmcabrita/embed-python-c",
+  "languages_url": "https://api.github.com/repos/gmcabrita/embed-python-c/languages",
+  "pulls_url": "https://api.github.com/repos/gmcabrita/embed-python-c/pulls{/number}",
+  "created_at": "2013-03-11T15:44:27Z",
+  "updated_at": "2017-12-16T00:09:42Z",
+  "pushed_at": "2013-03-15T15:08:34Z",
+  "homepage": null,
+  "size": 120,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "gmcabrita": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 2652,
+      "color": "#555555"
+    },
+    "Python": {
+      "bytes": 497,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:44:05.258Z"
+}

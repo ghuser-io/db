@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dotfiles",
+  "full_name": "fzerorubigd/dotfiles",
+  "owner": "fzerorubigd",
+  "private": false,
+  "html_url": "https://github.com/fzerorubigd/dotfiles",
+  "description": "My dotfile, just for personal use, use it if you like.",
+  "fork": false,
+  "url": "https://api.github.com/repos/fzerorubigd/dotfiles",
+  "languages_url": "https://api.github.com/repos/fzerorubigd/dotfiles/languages",
+  "pulls_url": "https://api.github.com/repos/fzerorubigd/dotfiles/pulls{/number}",
+  "created_at": "2014-06-28T08:53:33Z",
+  "updated_at": "2017-04-08T07:47:17Z",
+  "pushed_at": "2014-10-12T17:58:08Z",
+  "homepage": null,
+  "size": 203,
+  "stargazers_count": 4,
+  "language": "Emacs Lisp",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 1,
+    "fzerorubigd": 5
+  },
+  "pulls_authors": [
+    "captbaritone"
+  ],
+  "languages": {
+    "Emacs Lisp": {
+      "bytes": 11397,
+      "color": "#c065db"
+    },
+    "Shell": {
+      "bytes": 5361,
+      "color": "#89e051"
+    },
+    "Perl": {
+      "bytes": 1071,
+      "color": "#0298c3"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:43.232Z"
+}

@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pugify",
+  "full_name": "sidorares/pugify",
+  "owner": "sidorares",
+  "private": false,
+  "html_url": "https://github.com/sidorares/pugify",
+  "description": "jade transform for browserify v2. Sourcemaps generation included.",
+  "fork": false,
+  "url": "https://api.github.com/repos/sidorares/pugify",
+  "languages_url": "https://api.github.com/repos/sidorares/pugify/languages",
+  "pulls_url": "https://api.github.com/repos/sidorares/pugify/pulls{/number}",
+  "created_at": "2013-08-28T06:47:04Z",
+  "updated_at": "2018-05-22T22:36:01Z",
+  "pushed_at": "2017-11-13T07:06:51Z",
+  "homepage": null,
+  "size": 38,
+  "stargazers_count": 41,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "lightbringer1991": 1,
+    "hawkerboy7": 1,
+    "TooTallNate": 1,
+    "bitdeli-chef": 1,
+    "jazzzz": 1,
+    "maratfakhreev": 2,
+    "Calvein": 2,
+    "jwalton": 2,
+    "wbinnssmith": 2,
+    "izolate": 3,
+    "tellnes": 5,
+    "alexstrat": 5,
+    "deedw": 9,
+    "sidorares": 16
+  },
+  "pulls_authors": [
+    "lightbringer1991",
+    "hawkerboy7",
+    "deedw",
+    "maratfakhreev",
+    "tellnes",
+    "izolate",
+    "Calvein",
+    "TooTallNate",
+    "jwalton",
+    "wbinnssmith",
+    "alexstrat",
+    "bitdeli-chef",
+    "Bockit",
+    "jazzzz"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 7707,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 514,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:28.544Z"
+}

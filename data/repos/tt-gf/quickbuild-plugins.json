@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "quickbuild-plugins",
+  "full_name": "tt-gf/quickbuild-plugins",
+  "owner": "tt-gf",
+  "private": false,
+  "html_url": "https://github.com/tt-gf/quickbuild-plugins",
+  "description": "Collection of Quickbuild plugins (eg. for storing data in InfluxDB)",
+  "fork": false,
+  "url": "https://api.github.com/repos/tt-gf/quickbuild-plugins",
+  "languages_url": "https://api.github.com/repos/tt-gf/quickbuild-plugins/languages",
+  "created_at": "2015-10-13T13:42:10Z",
+  "updated_at": "2015-10-14T14:23:46Z",
+  "pushed_at": "2015-10-26T12:55:39Z",
+  "homepage": null,
+  "size": 48368,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "tt-gf",
+    "id": 14891304,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0ODkxMzA0",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/14891304?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/tt-gf",
+    "html_url": "https://github.com/tt-gf",
+    "followers_url": "https://api.github.com/users/tt-gf/followers",
+    "following_url": "https://api.github.com/users/tt-gf/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tt-gf/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/tt-gf/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tt-gf/subscriptions",
+    "organizations_url": "https://api.github.com/users/tt-gf/orgs",
+    "repos_url": "https://api.github.com/users/tt-gf/repos",
+    "events_url": "https://api.github.com/users/tt-gf/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/tt-gf/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "AurelienLourot": 1,
+    "martinm82": 7
+  },
+  "languages": {
+    "Java": {
+      "bytes": 6471,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/tt-gf/quickbuild-plugins/pulls{/number}",
+  "pulls_authors": [
+    "martinm82",
+    "AurelienLourot"
+  ]
+}

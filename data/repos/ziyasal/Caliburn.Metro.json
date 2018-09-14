@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Caliburn.Metro",
+  "full_name": "ziyasal/Caliburn.Metro",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/Caliburn.Metro",
+  "description": "A library that combines MahApps.Metro with Caliburn.Micro for Metro UI styled WPF applications.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal/Caliburn.Metro",
+  "languages_url": "https://api.github.com/repos/ziyasal/Caliburn.Metro/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/Caliburn.Metro/pulls{/number}",
+  "created_at": "2012-12-22T14:53:58Z",
+  "updated_at": "2018-08-22T02:04:24Z",
+  "pushed_at": "2018-07-13T11:41:04Z",
+  "homepage": "",
+  "size": 6423,
+  "stargazers_count": 75,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rexm": 1,
+    "jackwakefield": 2,
+    "ziyasal": 40
+  },
+  "pulls_authors": [
+    "laynor",
+    "jackwakefield",
+    "rexm"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 31187,
+      "color": "#178600"
+    },
+    "Batchfile": {
+      "bytes": 265,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:03.163Z"
+}

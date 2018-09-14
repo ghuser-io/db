@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "TurtleCoin-Nest",
+  "full_name": "woodyjon/TurtleCoin-Nest",
+  "owner": "woodyjon",
+  "private": false,
+  "html_url": "https://github.com/woodyjon/TurtleCoin-Nest",
+  "description": "A universal desktop gui wallet for TurtleCoin (moved to https://github.com/turtlecoin/turtle-wallet-go)",
+  "fork": false,
+  "url": "https://api.github.com/repos/woodyjon/TurtleCoin-Nest",
+  "languages_url": "https://api.github.com/repos/woodyjon/TurtleCoin-Nest/languages",
+  "pulls_url": "https://api.github.com/repos/woodyjon/TurtleCoin-Nest/pulls{/number}",
+  "created_at": "2018-03-19T13:08:22Z",
+  "updated_at": "2018-09-12T06:50:58Z",
+  "pushed_at": "2018-09-12T06:50:56Z",
+  "homepage": "",
+  "size": 1046,
+  "stargazers_count": 2,
+  "language": "QML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx_id": "LGPL-3.0",
+    "url": "https://api.github.com/licenses/lgpl-3.0",
+    "node_id": "MDc6TGljZW5zZTEy"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "SoreGums": 1,
+    "Sajo8": 1,
+    "zpalmtree": 8,
+    "woodyjon": 180,
+    "brandonlehmann": 1,
+    "rashedmyt": 3
+  },
+  "pulls_authors": [
+    "zpalmtree"
+  ],
+  "languages": {
+    "QML": {
+      "bytes": 122696,
+      "color": "#44a51c"
+    },
+    "Go": {
+      "bytes": 78635,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:01.029Z"
+}

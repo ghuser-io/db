@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "RomanNumerals",
+  "full_name": "TiagoDanin/RomanNumerals",
+  "owner": "TiagoDanin",
+  "private": false,
+  "html_url": "https://github.com/TiagoDanin/RomanNumerals",
+  "description": "Module for convert numbers in Roman numbers :)",
+  "fork": false,
+  "url": "https://api.github.com/repos/TiagoDanin/RomanNumerals",
+  "languages_url": "https://api.github.com/repos/TiagoDanin/RomanNumerals/languages",
+  "pulls_url": "https://api.github.com/repos/TiagoDanin/RomanNumerals/pulls{/number}",
+  "created_at": "2016-04-08T16:50:12Z",
+  "updated_at": "2018-01-25T20:45:21Z",
+  "pushed_at": "2018-08-11T16:22:09Z",
+  "homepage": "https://tiagodanin.github.io/RomanNumerals/",
+  "size": 111,
+  "stargazers_count": 3,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "renovate[bot]": 1,
+    "TiagoDanin": 9
+  },
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 3385,
+      "color": "#89e051"
+    },
+    "Lua": {
+      "bytes": 2741,
+      "color": "#000080"
+    }
+  },
+  "fetched_at": "2018-08-12T17:48:20.581Z"
+}

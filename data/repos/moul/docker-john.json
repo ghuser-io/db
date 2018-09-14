@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docker-john",
+  "full_name": "moul/docker-john",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/docker-john",
+  "description": ":whale: run John the Ripper in Docker",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/docker-john",
+  "languages_url": "https://api.github.com/repos/moul/docker-john/languages",
+  "pulls_url": "https://api.github.com/repos/moul/docker-john/pulls{/number}",
+  "created_at": "2013-11-30T21:07:46Z",
+  "updated_at": "2015-06-08T07:27:30Z",
+  "pushed_at": "2018-08-18T16:09:21Z",
+  "homepage": "",
+  "size": 4,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 5
+  },
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-05T13:07:34.210Z"
+}

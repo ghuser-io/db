@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "delete-forgotten-accounts",
+  "full_name": "snipem/delete-forgotten-accounts",
+  "owner": "snipem",
+  "private": false,
+  "html_url": "https://github.com/snipem/delete-forgotten-accounts",
+  "description": "Helps you to delete web accounts you've long forgotten based on the emails they sent you",
+  "fork": false,
+  "url": "https://api.github.com/repos/snipem/delete-forgotten-accounts",
+  "languages_url": "https://api.github.com/repos/snipem/delete-forgotten-accounts/languages",
+  "pulls_url": "https://api.github.com/repos/snipem/delete-forgotten-accounts/pulls{/number}",
+  "created_at": "2014-05-05T21:02:55Z",
+  "updated_at": "2017-03-17T09:46:29Z",
+  "pushed_at": "2014-05-10T09:45:37Z",
+  "homepage": null,
+  "size": 164,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "snipem": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 2951,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T02:29:38.046Z"
+}

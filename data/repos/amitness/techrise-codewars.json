@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "techrise-codewars",
+  "full_name": "amitness/techrise-codewars",
+  "owner": "amitness",
+  "private": false,
+  "html_url": "https://github.com/amitness/techrise-codewars",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/amitness/techrise-codewars",
+  "languages_url": "https://api.github.com/repos/amitness/techrise-codewars/languages",
+  "pulls_url": "https://api.github.com/repos/amitness/techrise-codewars/pulls{/number}",
+  "created_at": "2017-09-14T12:19:32Z",
+  "updated_at": "2017-09-15T00:01:55Z",
+  "pushed_at": "2017-09-14T13:54:55Z",
+  "homepage": null,
+  "size": 2,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "amitness": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 109,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:26.710Z"
+}

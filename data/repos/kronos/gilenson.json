@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gilenson",
+  "full_name": "kronos/gilenson",
+  "owner": "kronos",
+  "private": false,
+  "html_url": "https://github.com/kronos/gilenson",
+  "description": "Улучшатор типографики в русском наборе",
+  "fork": true,
+  "url": "https://api.github.com/repos/kronos/gilenson",
+  "languages_url": "https://api.github.com/repos/kronos/gilenson/languages",
+  "pulls_url": "https://api.github.com/repos/kronos/gilenson/pulls{/number}",
+  "created_at": "2014-01-15T00:51:50Z",
+  "updated_at": "2016-01-05T11:19:31Z",
+  "pushed_at": "2014-06-02T21:17:59Z",
+  "homepage": "",
+  "size": 193,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "lda": 2,
+    "kronos": 3,
+    "julik": 23
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 62043,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:32.476Z"
+}

@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "whoops",
+  "full_name": "flyingmachine/whoops",
+  "owner": "flyingmachine",
+  "private": false,
+  "html_url": "https://github.com/flyingmachine/whoops",
+  "description": "an event logger and interface",
+  "fork": false,
+  "url": "https://api.github.com/repos/flyingmachine/whoops",
+  "languages_url": "https://api.github.com/repos/flyingmachine/whoops/languages",
+  "pulls_url": "https://api.github.com/repos/flyingmachine/whoops/pulls{/number}",
+  "created_at": "2011-05-28T12:12:12Z",
+  "updated_at": "2018-03-27T09:22:58Z",
+  "pushed_at": "2013-03-20T12:10:48Z",
+  "homepage": "http://www.whoopsapp.com",
+  "size": 1473,
+  "stargazers_count": 108,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "michaelminter": 1,
+    "splattael": 1,
+    "martinliptak": 1,
+    "alexrothenberg": 2,
+    "chrismytton": 3,
+    "alexw668": 3,
+    "driv3r": 7,
+    "flyingmachine": 185
+  },
+  "pulls_authors": [
+    "michaelminter",
+    "fermion",
+    "alexrothenberg",
+    "splattael",
+    "martinliptak",
+    "driv3r",
+    "chrismytton",
+    "alexw668"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 54765,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 21744,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 100,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:49.825Z"
+}

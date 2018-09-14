@@ -1,0 +1,83 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "open_nsfw",
+  "full_name": "yahoo/open_nsfw",
+  "owner": "yahoo",
+  "private": false,
+  "html_url": "https://github.com/yahoo/open_nsfw",
+  "description": "code for running Model and code for Not Suitable for Work (NSFW) classification using deep neural network Caffe models",
+  "fork": false,
+  "url": "https://api.github.com/repos/yahoo/open_nsfw",
+  "languages_url": "https://api.github.com/repos/yahoo/open_nsfw/languages",
+  "pulls_url": "https://api.github.com/repos/yahoo/open_nsfw/pulls{/number}",
+  "created_at": "2016-08-16T20:37:47Z",
+  "updated_at": "2018-09-13T20:04:08Z",
+  "pushed_at": "2018-01-22T03:32:36Z",
+  "homepage": "",
+  "size": 21635,
+  "stargazers_count": 4330,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-2-clause",
+    "name": "BSD 2-Clause \"Simplified\" License",
+    "spdx_id": "BSD-2-Clause",
+    "url": "https://api.github.com/licenses/bsd-2-clause",
+    "node_id": "MDc6TGljZW5zZTQ="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "yahoo",
+    "id": 16574,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2NTc0",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/16574?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/yahoo",
+    "html_url": "https://github.com/yahoo",
+    "followers_url": "https://api.github.com/users/yahoo/followers",
+    "following_url": "https://api.github.com/users/yahoo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/yahoo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/yahoo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/yahoo/subscriptions",
+    "organizations_url": "https://api.github.com/users/yahoo/orgs",
+    "repos_url": "https://api.github.com/users/yahoo/repos",
+    "events_url": "https://api.github.com/users/yahoo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/yahoo/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "schmich": 1,
+    "jay-mahadeokar": 2,
+    "neufeldtech": 3
+  },
+  "pulls_authors": [
+    "Cloudmersive",
+    "snowsky",
+    "jeepkd",
+    "aminalaee",
+    "thomshutt",
+    "neufeldtech",
+    "mattlawer",
+    "shtirlic",
+    "meyskens",
+    "morotyo",
+    "brandon-haystack",
+    "QWp6t",
+    "Devinsuit",
+    "spartanhaden",
+    "ryanguest",
+    "LiuXiaolong19920720",
+    "ashleyvargas",
+    "yurimalheiros",
+    "schmich"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 4160,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-13T23:53:58.585Z"
+}

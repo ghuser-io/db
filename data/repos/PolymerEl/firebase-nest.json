@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "firebase-nest",
+  "full_name": "PolymerEl/firebase-nest",
+  "owner": "PolymerEl",
+  "private": false,
+  "html_url": "https://github.com/PolymerEl/firebase-nest",
+  "description": "polymerfire based util to construct nested and lookup datastructure",
+  "fork": false,
+  "url": "https://api.github.com/repos/PolymerEl/firebase-nest",
+  "languages_url": "https://api.github.com/repos/PolymerEl/firebase-nest/languages",
+  "pulls_url": "https://api.github.com/repos/PolymerEl/firebase-nest/pulls{/number}",
+  "created_at": "2016-12-15T11:56:15Z",
+  "updated_at": "2018-09-10T10:07:14Z",
+  "pushed_at": "2018-07-24T08:52:19Z",
+  "homepage": "https://beta.webcomponents.org/element/polymerEl/firebase-nest",
+  "size": 53,
+  "stargazers_count": 7,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "PolymerEl",
+    "id": 17042611,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3MDQyNjEx",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/17042611?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/PolymerEl",
+    "html_url": "https://github.com/PolymerEl",
+    "followers_url": "https://api.github.com/users/PolymerEl/followers",
+    "following_url": "https://api.github.com/users/PolymerEl/following{/other_user}",
+    "gists_url": "https://api.github.com/users/PolymerEl/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/PolymerEl/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/PolymerEl/subscriptions",
+    "organizations_url": "https://api.github.com/users/PolymerEl/orgs",
+    "repos_url": "https://api.github.com/users/PolymerEl/repos",
+    "events_url": "https://api.github.com/users/PolymerEl/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/PolymerEl/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "anishkny": 1,
+    "christophe-g": 50
+  },
+  "pulls_authors": [
+    "anishkny"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 41892,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-10T15:03:34.872Z"
+}

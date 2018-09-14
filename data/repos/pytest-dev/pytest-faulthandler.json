@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pytest-faulthandler",
+  "full_name": "pytest-dev/pytest-faulthandler",
+  "owner": "pytest-dev",
+  "private": false,
+  "html_url": "https://github.com/pytest-dev/pytest-faulthandler",
+  "description": "py.test plugin that activates the fault handler module during testing",
+  "fork": false,
+  "url": "https://api.github.com/repos/pytest-dev/pytest-faulthandler",
+  "languages_url": "https://api.github.com/repos/pytest-dev/pytest-faulthandler/languages",
+  "pulls_url": "https://api.github.com/repos/pytest-dev/pytest-faulthandler/pulls{/number}",
+  "created_at": "2015-03-02T23:18:32Z",
+  "updated_at": "2018-08-29T15:38:30Z",
+  "pushed_at": "2018-03-26T12:00:11Z",
+  "homepage": null,
+  "size": 41,
+  "stargazers_count": 19,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pytest-dev",
+    "id": 8897583,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjg4OTc1ODM=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/8897583?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pytest-dev",
+    "html_url": "https://github.com/pytest-dev",
+    "followers_url": "https://api.github.com/users/pytest-dev/followers",
+    "following_url": "https://api.github.com/users/pytest-dev/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pytest-dev/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pytest-dev/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pytest-dev/subscriptions",
+    "organizations_url": "https://api.github.com/users/pytest-dev/orgs",
+    "repos_url": "https://api.github.com/users/pytest-dev/repos",
+    "events_url": "https://api.github.com/users/pytest-dev/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pytest-dev/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "lazka": 1,
+    "njsmith": 1,
+    "adamchainz": 1,
+    "jayvdb": 1,
+    "mhils": 2,
+    "The-Compiler": 2,
+    "nicoddemus": 55
+  },
+  "pulls_authors": [
+    "nicoddemus",
+    "lazka",
+    "njsmith",
+    "mhils",
+    "adamchainz",
+    "jayvdb",
+    "The-Compiler"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 8106,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-29T23:07:44.855Z"
+}

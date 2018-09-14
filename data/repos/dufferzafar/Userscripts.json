@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Userscripts",
+  "full_name": "dufferzafar/Userscripts",
+  "owner": "dufferzafar",
+  "private": false,
+  "html_url": "https://github.com/dufferzafar/Userscripts",
+  "description": "A collection of scripts that make spending time on the web easy.",
+  "fork": false,
+  "url": "https://api.github.com/repos/dufferzafar/Userscripts",
+  "languages_url": "https://api.github.com/repos/dufferzafar/Userscripts/languages",
+  "pulls_url": "https://api.github.com/repos/dufferzafar/Userscripts/pulls{/number}",
+  "created_at": "2014-05-30T10:42:40Z",
+  "updated_at": "2018-09-05T08:30:25Z",
+  "pushed_at": "2018-03-18T13:29:12Z",
+  "homepage": "",
+  "size": 41,
+  "stargazers_count": 31,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "kwikadi": 1,
+    "augustjanse": 10,
+    "dufferzafar": 29
+  },
+  "pulls_authors": [
+    "richardDobron",
+    "augustjanse",
+    "kwikadi",
+    "Mirgolth",
+    "V-Toll",
+    "rootAvish"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 18515,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-05T13:03:41.854Z"
+}

@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "clschnei",
+  "ghuser_created_at": "2018-09-11T21:26:11.275Z",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/1232625?v=4",
+  "html_url": "https://github.com/clschnei",
+  "organizations_url": "https://api.github.com/users/clschnei/orgs",
+  "repos_url": "https://api.github.com/users/clschnei/repos",
+  "type": "User",
+  "name": "Chris Schneider",
+  "company": null,
+  "blog": "",
+  "location": "Michigan, USA",
+  "email": null,
+  "bio": null,
+  "public_gists": 3,
+  "created_at": "2011-12-01T05:39:17Z",
+  "updated_at": "2018-09-07T18:33:35Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:11:33.099Z",
+    "repos": [
+      "clschnei/parcel-express-graphql",
+      "clschnei/http-node-sharp",
+      "clschnei/react-leaflet",
+      "clschnei/table-modem",
+      "elementalui/elemental",
+      "clschnei/clschnei.github.io"
+    ]
+  }
+}

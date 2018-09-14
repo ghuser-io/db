@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "linterhub-docker",
+  "full_name": "repometric/linterhub-docker",
+  "owner": "repometric",
+  "private": false,
+  "html_url": "https://github.com/repometric/linterhub-docker",
+  "description": "collection of static analysis tools wrapped in alpine-based containers",
+  "fork": false,
+  "url": "https://api.github.com/repos/repometric/linterhub-docker",
+  "languages_url": "https://api.github.com/repos/repometric/linterhub-docker/languages",
+  "pulls_url": "https://api.github.com/repos/repometric/linterhub-docker/pulls{/number}",
+  "created_at": "2017-11-27T01:30:54Z",
+  "updated_at": "2018-06-22T14:35:52Z",
+  "pushed_at": "2018-01-11T09:30:17Z",
+  "homepage": "",
+  "size": 24,
+  "stargazers_count": 3,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "repometric",
+    "id": 17450030,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3NDUwMDMw",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/17450030?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/repometric",
+    "html_url": "https://github.com/repometric",
+    "followers_url": "https://api.github.com/users/repometric/followers",
+    "following_url": "https://api.github.com/users/repometric/following{/other_user}",
+    "gists_url": "https://api.github.com/users/repometric/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/repometric/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/repometric/subscriptions",
+    "organizations_url": "https://api.github.com/users/repometric/orgs",
+    "repos_url": "https://api.github.com/users/repometric/repos",
+    "events_url": "https://api.github.com/users/repometric/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/repometric/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Grox-Ni": 1,
+    "nalinbhardwaj": 2,
+    "andrewda": 2,
+    "xferra": 15
+  },
+  "pulls_authors": [
+    "nalinbhardwaj",
+    "andrewda",
+    "xferra",
+    "Grox-Ni"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 3675,
+      "color": "#375eab"
+    },
+    "Shell": {
+      "bytes": 1058,
+      "color": "#89e051"
+    },
+    "PHP": {
+      "bytes": 227,
+      "color": "#4F5D95"
+    },
+    "TypeScript": {
+      "bytes": 84,
+      "color": "#2b7489"
+    }
+  },
+  "fetched_at": "2018-09-11T22:34:03.893Z"
+}

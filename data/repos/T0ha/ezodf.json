@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ezodf",
+  "full_name": "T0ha/ezodf",
+  "owner": "T0ha",
+  "private": false,
+  "html_url": "https://github.com/T0ha/ezodf",
+  "description": "ezodf is a Python package to create new or open existing OpenDocument (ODF) files to extract, add, modify or delete document data, forked from dead project https://bitbucket.org/mozman/ezodf",
+  "fork": false,
+  "url": "https://api.github.com/repos/T0ha/ezodf",
+  "languages_url": "https://api.github.com/repos/T0ha/ezodf/languages",
+  "pulls_url": "https://api.github.com/repos/T0ha/ezodf/pulls{/number}",
+  "created_at": "2014-05-23T05:34:32Z",
+  "updated_at": "2018-05-01T17:16:14Z",
+  "pushed_at": "2017-07-26T09:57:03Z",
+  "homepage": null,
+  "size": 4993,
+  "stargazers_count": 41,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "davidovitch": 1,
+    "davekr": 1,
+    "kenchou": 2,
+    "graingert": 3,
+    "chfw": 17,
+    "T0ha": 47,
+    "mozman": 139
+  },
+  "pulls_authors": [
+    "jonadem",
+    "pmlandwehr",
+    "ChrisLaidler",
+    "chfw",
+    "jayvdb",
+    "graingert",
+    "davidovitch",
+    "kenchou",
+    "davekr"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 355892,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 108,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "RandomStringUtils",
+  "full_name": "aloisdg/RandomStringUtils",
+  "owner": "aloisdg",
+  "private": false,
+  "html_url": "https://github.com/aloisdg/RandomStringUtils",
+  "description": "RandomStringUtils is a C# port of Apache RandomStringUtils",
+  "fork": false,
+  "url": "https://api.github.com/repos/aloisdg/RandomStringUtils",
+  "languages_url": "https://api.github.com/repos/aloisdg/RandomStringUtils/languages",
+  "pulls_url": "https://api.github.com/repos/aloisdg/RandomStringUtils/pulls{/number}",
+  "created_at": "2015-09-08T12:28:14Z",
+  "updated_at": "2018-05-31T15:31:25Z",
+  "pushed_at": "2016-11-02T21:43:12Z",
+  "homepage": null,
+  "size": 19,
+  "stargazers_count": 2,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "aloisdg": 14
+  },
+  "pulls_authors": [
+    "aloisdg"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 13587,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:11.675Z"
+}

@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Adventurous-Syntax",
+  "full_name": "kitten/Adventurous-Syntax",
+  "owner": "kitten",
+  "private": false,
+  "html_url": "https://github.com/kitten/Adventurous-Syntax",
+  "description": "A dark Atom theme using common colors often seen in the cult series Adventure Time.",
+  "fork": false,
+  "url": "https://api.github.com/repos/kitten/Adventurous-Syntax",
+  "languages_url": "https://api.github.com/repos/kitten/Adventurous-Syntax/languages",
+  "pulls_url": "https://api.github.com/repos/kitten/Adventurous-Syntax/pulls{/number}",
+  "created_at": "2014-12-16T01:28:36Z",
+  "updated_at": "2018-04-18T21:20:11Z",
+  "pushed_at": "2017-01-18T04:14:33Z",
+  "homepage": null,
+  "size": 162,
+  "stargazers_count": 27,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "plttn": 1,
+    "Talon1024": 4,
+    "kitten": 11
+  },
+  "pulls_authors": [
+    "Talon1024",
+    "plttn"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 7016,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:27.401Z"
+}

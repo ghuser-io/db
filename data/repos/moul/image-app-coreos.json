@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "image-app-coreos",
+  "full_name": "moul/image-app-coreos",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/image-app-coreos",
+  "description": ":minidisc: WIP: Official Docker image on Scaleway",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/image-app-coreos",
+  "languages_url": "https://api.github.com/repos/moul/image-app-coreos/languages",
+  "pulls_url": "https://api.github.com/repos/moul/image-app-coreos/pulls{/number}",
+  "created_at": "2014-12-19T23:56:48Z",
+  "updated_at": "2015-05-27T10:36:31Z",
+  "pushed_at": "2018-08-18T16:10:59Z",
+  "homepage": "https://doc.cloud.online.net",
+  "size": 3,
+  "stargazers_count": 1,
+  "language": "Makefile",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 5
+  },
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
+  "languages": {
+    "Makefile": {
+      "bytes": 410,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:41.199Z"
+}

@@ -1,0 +1,118 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "monkey",
+  "full_name": "rbarisic/monkey",
+  "owner": "rbarisic",
+  "private": false,
+  "html_url": "https://github.com/rbarisic/monkey",
+  "description": "Blitz Research Monkey Source",
+  "fork": true,
+  "url": "https://api.github.com/repos/rbarisic/monkey",
+  "languages_url": "https://api.github.com/repos/rbarisic/monkey/languages",
+  "pulls_url": "https://api.github.com/repos/rbarisic/monkey/pulls{/number}",
+  "created_at": "2015-04-14T22:16:46Z",
+  "updated_at": "2015-11-06T03:42:32Z",
+  "pushed_at": "2015-03-23T20:24:08Z",
+  "homepage": "",
+  "size": 22408,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "develop",
+  "contributors": {
+    "jarradh": 1,
+    "si-design": 1,
+    "adamredwoods": 1,
+    "ootsby": 1,
+    "devolonter": 2,
+    "marksibly": 2,
+    "ziggybcn": 9,
+    "blitz-research": 79
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 3602506,
+      "color": "#555555"
+    },
+    "Monkey": {
+      "bytes": 1156146,
+      "color": "#ccc"
+    },
+    "C++": {
+      "bytes": 496275,
+      "color": "#f34b7d"
+    },
+    "Java": {
+      "bytes": 101591,
+      "color": "#b07219"
+    },
+    "Objective-C": {
+      "bytes": 96766,
+      "color": "#438eff"
+    },
+    "JavaScript": {
+      "bytes": 64721,
+      "color": "#f1e05a"
+    },
+    "C#": {
+      "bytes": 60382,
+      "color": "#178600"
+    },
+    "Mathematica": {
+      "bytes": 50482,
+      "color": "#ccc"
+    },
+    "ActionScript": {
+      "bytes": 20813,
+      "color": "#882B0F"
+    },
+    "BlitzMax": {
+      "bytes": 17250,
+      "color": "#cd6400"
+    },
+    "Makefile": {
+      "bytes": 12299,
+      "color": "#427819"
+    },
+    "M": {
+      "bytes": 9335,
+      "color": "#ccc"
+    },
+    "Mercury": {
+      "bytes": 4646,
+      "color": "#ff2b2b"
+    },
+    "HTML": {
+      "bytes": 4259,
+      "color": "#e34c26"
+    },
+    "PHP": {
+      "bytes": 2726,
+      "color": "#4F5D95"
+    },
+    "Shell": {
+      "bytes": 2173,
+      "color": "#89e051"
+    },
+    "Perl": {
+      "bytes": 1995,
+      "color": "#0298c3"
+    },
+    "QMake": {
+      "bytes": 1184,
+      "color": "#ccc"
+    },
+    "Objective-C++": {
+      "bytes": 297,
+      "color": "#6866fb"
+    },
+    "BlitzBasic": {
+      "bytes": 75,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:56:09.447Z"
+}

@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "CloudPanel",
+  "full_name": "Innovate-Archive/CloudPanel",
+  "owner": "Innovate-Archive",
+  "private": false,
+  "html_url": "https://github.com/Innovate-Archive/CloudPanel",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/Innovate-Archive/CloudPanel",
+  "languages_url": "https://api.github.com/repos/Innovate-Archive/CloudPanel/languages",
+  "pulls_url": "https://api.github.com/repos/Innovate-Archive/CloudPanel/pulls{/number}",
+  "created_at": "2012-08-31T14:45:34Z",
+  "updated_at": "2015-08-11T13:26:04Z",
+  "pushed_at": "2013-02-16T23:31:21Z",
+  "homepage": null,
+  "size": 14322,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "Innovate-Archive",
+    "id": 13749003,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzNzQ5MDAz",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/13749003?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Innovate-Archive",
+    "html_url": "https://github.com/Innovate-Archive",
+    "followers_url": "https://api.github.com/users/Innovate-Archive/followers",
+    "following_url": "https://api.github.com/users/Innovate-Archive/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Innovate-Archive/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Innovate-Archive/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Innovate-Archive/subscriptions",
+    "organizations_url": "https://api.github.com/users/Innovate-Archive/orgs",
+    "repos_url": "https://api.github.com/users/Innovate-Archive/repos",
+    "events_url": "https://api.github.com/users/Innovate-Archive/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Innovate-Archive/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "lulinqing": 1,
+    "rmillner": 1,
+    "thefotios": 1,
+    "mojavelinux": 1,
+    "linickx": 1,
+    "kraman": 2,
+    "gshipley": 3,
+    "danmcp": 8,
+    "dblado": 8,
+    "meyskens": 577
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 470571,
+      "color": "#f1e05a"
+    },
+    "PHP": {
+      "bytes": 157833,
+      "color": "#4F5D95"
+    },
+    "Shell": {
+      "bytes": 9622,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T20:50:30.831Z"
+}

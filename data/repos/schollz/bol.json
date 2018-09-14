@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bol",
+  "full_name": "schollz/bol",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/bol",
+  "description": "Command-line and web journal that stays synchronized and encrypted across devices",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/bol",
+  "languages_url": "https://api.github.com/repos/schollz/bol/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/bol/pulls{/number}",
+  "created_at": "2016-11-18T18:08:17Z",
+  "updated_at": "2018-03-10T14:36:35Z",
+  "pushed_at": "2017-06-05T21:32:11Z",
+  "homepage": "https://bol.schollz.com/",
+  "size": 4404,
+  "stargazers_count": 31,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 180
+  },
+  "pulls_authors": [
+    "schollz"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 73370,
+      "color": "#375eab"
+    },
+    "HTML": {
+      "bytes": 6069,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 3910,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:39.967Z"
+}

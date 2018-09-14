@@ -1,0 +1,126 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "synth/omniauth-microsoft_graph": {
+      "full_name": "synth/omniauth-microsoft_graph",
+      "name": "omniauth-microsoft_graph",
+      "stargazers_count": 7,
+      "popularity": 1.7853682828948099,
+      "percentage": 45.45454545454545,
+      "maturity": 0,
+      "total_commits_count": 11,
+      "activity": 2.851890686864978,
+      "total_score": 18.757899025382375,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "antek-drzewiecki/wine_bouncer": {
+      "full_name": "antek-drzewiecki/wine_bouncer",
+      "name": "wine_bouncer",
+      "stargazers_count": 98,
+      "popularity": 2.9872582783070087,
+      "percentage": 2.380952380952381,
+      "maturity": 1.323873088726792,
+      "total_commits_count": 42,
+      "activity": 5,
+      "total_score": 17.534148574707732,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sgruhier/capistrano-db-tasks": {
+      "full_name": "sgruhier/capistrano-db-tasks",
+      "name": "capistrano-db-tasks",
+      "stargazers_count": 345,
+      "popularity": 3.5367237499150366,
+      "percentage": 0,
+      "maturity": 2.765909468455758,
+      "total_commits_count": 98,
+      "activity": 1.3393191082346743,
+      "total_score": 17.481309294891297,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "synth/mail_jack": {
+      "full_name": "synth/mail_jack",
+      "name": "mail_jack",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 18,
+      "activity": 0.3551120263960481,
+      "total_score": 17.017963553483092,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "synth/yapper": {
+      "full_name": "synth/yapper",
+      "name": "yapper",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 11,
+      "activity": 0.33760483921404827,
+      "total_score": 0.33760483921404827,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "thoughtworks/cruisecontrol.rb": {
+      "full_name": "thoughtworks/cruisecontrol.rb",
+      "name": "cruisecontrol.rb",
+      "stargazers_count": 638,
+      "popularity": 3.804246687600188,
+      "percentage": 0.9963768115942029,
+      "maturity": 4.028718598954588,
+      "total_commits_count": 1104,
+      "activity": 0.34953726764734583,
+      "total_score": 20.31247474242124,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "capistrano/capistrano": {
+      "full_name": "capistrano/capistrano",
+      "name": "capistrano",
+      "stargazers_count": 10595,
+      "popularity": 5,
+      "percentage": 0,
+      "maturity": 4.159223187414799,
+      "total_commits_count": 1477,
+      "activity": 3.6016484774507678,
+      "total_score": 26.920094852280364,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "synth/conditional_attribute_validator": {
+      "full_name": "synth/conditional_attribute_validator",
+      "name": "conditional_attribute_validator",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 0.21001384176070648,
+      "total_score": 0.21001384176070648,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "synth/Flakebook": {
+      "full_name": "synth/Flakebook",
+      "name": "Flakebook",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 58.97435897435897,
+      "maturity": 2.582656746092775,
+      "total_commits_count": 78,
+      "activity": 0.19255299795595526,
+      "total_score": 16.4664341748662,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "thoughtworks",
+    "capistrano"
+  ]
+}

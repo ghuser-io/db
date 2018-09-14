@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "spine.rails3",
+  "full_name": "maccman/spine.rails3",
+  "owner": "maccman",
+  "private": false,
+  "html_url": "https://github.com/maccman/spine.rails3",
+  "description": "Sample app demonstrating Spine and Rails integration",
+  "fork": false,
+  "url": "https://api.github.com/repos/maccman/spine.rails3",
+  "languages_url": "https://api.github.com/repos/maccman/spine.rails3/languages",
+  "pulls_url": "https://api.github.com/repos/maccman/spine.rails3/pulls{/number}",
+  "created_at": "2011-07-13T03:51:56Z",
+  "updated_at": "2018-07-11T04:41:57Z",
+  "pushed_at": "2011-11-20T21:45:12Z",
+  "homepage": "",
+  "size": 311,
+  "stargazers_count": 134,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "chrismytton": 1,
+    "maccman": 32
+  },
+  "pulls_authors": [
+    "mkcode",
+    "chrismytton"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 20207,
+      "color": "#701516"
+    },
+    "CoffeeScript": {
+      "bytes": 2918,
+      "color": "#244776"
+    },
+    "JavaScript": {
+      "bytes": 57,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:50.320Z"
+}

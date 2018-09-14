@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Testing",
+  "full_name": "NurdTurd/Testing",
+  "owner": "NurdTurd",
+  "private": false,
+  "html_url": "https://github.com/NurdTurd/Testing",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/NurdTurd/Testing",
+  "languages_url": "https://api.github.com/repos/NurdTurd/Testing/languages",
+  "pulls_url": "https://api.github.com/repos/NurdTurd/Testing/pulls{/number}",
+  "created_at": "2018-08-09T22:10:42Z",
+  "updated_at": "2018-08-13T18:33:30Z",
+  "pushed_at": "2018-08-12T14:57:45Z",
+  "homepage": null,
+  "size": 11884,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "NurdTurd": 86
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 4621926,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 492596,
+      "color": "#555555"
+    },
+    "CMake": {
+      "bytes": 23286,
+      "color": "#ccc"
+    },
+    "Perl 6": {
+      "bytes": 7379,
+      "color": "#0000fb"
+    },
+    "Shell": {
+      "bytes": 3523,
+      "color": "#89e051"
+    },
+    "Dockerfile": {
+      "bytes": 2260,
+      "color": "#0db7ed"
+    },
+    "Python": {
+      "bytes": 1669,
+      "color": "#3572A5"
+    },
+    "Perl": {
+      "bytes": 1456,
+      "color": "#0298c3"
+    },
+    "Assembly": {
+      "bytes": 934,
+      "color": "#6E4C13"
+    }
+  },
+  "fetched_at": "2018-08-14T05:56:33.282Z"
+}

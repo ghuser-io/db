@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Firebase-Auth",
+  "full_name": "jamesgeorge007/Firebase-Auth",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/Firebase-Auth",
+  "description": "A very simple React based web app which does nothing but authenticates user via E-mail and Google account provided by Firebase and database support. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/Firebase-Auth",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/Firebase-Auth/languages",
+  "created_at": "2018-07-09T12:30:11Z",
+  "updated_at": "2018-07-11T05:45:09Z",
+  "pushed_at": "2018-07-11T05:45:07Z",
+  "homepage": "",
+  "size": 449,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jamesgeorge007": 17
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 9195,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 1676,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1594,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/Firebase-Auth/pulls{/number}",
+  "pulls_authors": []
+}

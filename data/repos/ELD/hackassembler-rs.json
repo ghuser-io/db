@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hackassembler-rs",
+  "full_name": "ELD/hackassembler-rs",
+  "owner": "ELD",
+  "private": false,
+  "html_url": "https://github.com/ELD/hackassembler-rs",
+  "description": "Rewrite of my C++ Hack Assembler in Rust",
+  "fork": false,
+  "url": "https://api.github.com/repos/ELD/hackassembler-rs",
+  "languages_url": "https://api.github.com/repos/ELD/hackassembler-rs/languages",
+  "pulls_url": "https://api.github.com/repos/ELD/hackassembler-rs/pulls{/number}",
+  "created_at": "2015-10-07T17:30:37Z",
+  "updated_at": "2016-11-18T21:34:52Z",
+  "pushed_at": "2016-05-19T12:52:54Z",
+  "homepage": "",
+  "size": 20,
+  "stargazers_count": 4,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "develop",
+  "contributors": {
+    "ELD": 23
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Rust": {
+      "bytes": 14551,
+      "color": "#dea584"
+    }
+  },
+  "fetched_at": "2018-09-11T10:35:57.958Z"
+}

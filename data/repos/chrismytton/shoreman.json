@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "shoreman",
+  "full_name": "chrismytton/shoreman",
+  "owner": "chrismytton",
+  "private": false,
+  "html_url": "https://github.com/chrismytton/shoreman",
+  "description": "foreman in shell",
+  "fork": false,
+  "url": "https://api.github.com/repos/chrismytton/shoreman",
+  "languages_url": "https://api.github.com/repos/chrismytton/shoreman/languages",
+  "pulls_url": "https://api.github.com/repos/chrismytton/shoreman/pulls{/number}",
+  "created_at": "2011-10-08T21:21:35Z",
+  "updated_at": "2018-08-02T12:18:13Z",
+  "pushed_at": "2018-03-14T23:27:30Z",
+  "homepage": "https://chrismytton.github.io/shoreman/",
+  "size": 502,
+  "stargazers_count": 226,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "frdeng": 1,
+    "zenlor": 1,
+    "ryanrhee": 1,
+    "singpolyma": 2,
+    "warmwaffles": 3,
+    "shamrin": 4,
+    "koseki": 7,
+    "mig-hub": 11,
+    "chrismytton": 68
+  },
+  "pulls_authors": [
+    "shamrin",
+    "frdeng",
+    "jmrenouard",
+    "evuez",
+    "arstercz",
+    "koseki",
+    "singpolyma",
+    "devlinzed",
+    "juanibiapina",
+    "chrismytton",
+    "tubbo",
+    "warmwaffles",
+    "davidpelaez",
+    "zenlor",
+    "klardotsh",
+    "kucaahbe",
+    "ryanrhee",
+    "mig-hub"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 15814,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 65,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:46.231Z"
+}

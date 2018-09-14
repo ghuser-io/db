@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "joshuaslate",
+  "ghuser_created_at": "2018-08-10T15:22:42.031Z",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/6371351?v=4",
+  "html_url": "https://github.com/joshuaslate",
+  "organizations_url": "https://api.github.com/users/joshuaslate/orgs",
+  "repos_url": "https://api.github.com/users/joshuaslate/repos",
+  "type": "User",
+  "name": "Joshua Anderson Slate",
+  "company": "SlatePeak",
+  "blog": "https://slatepeak.com",
+  "location": "Barcelona",
+  "email": null,
+  "bio": "Founder of @SlatePeak. Full stack software engineer.",
+  "public_gists": 2,
+  "created_at": "2014-01-10T18:19:24Z",
+  "updated_at": "2018-09-10T14:43:43Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:14:50.487Z",
+    "repos": [
+      "postlight/headless-wp-starter",
+      "joshuaslate/node-yelp-api",
+      "joshuaslate/node-tax-api",
+      "joshuaslate/type-cacheable",
+      "joshuaslate/mkrn-starter",
+      "joshuaslate/mern-starter",
+      "fabiorphp/cachego",
+      "dmeents/format-lambda-body",
+      "SlatePeak/react-redux-starter",
+      "SlatePeak/slatepeak-starter",
+      "joshuaslate/saas-tutorial",
+      "quilljs/quill",
+      "joshuaslate/Webfont-Generator",
+      "qwince/wp-rest-api-v2-menus",
+      "joshuaslate/js-interview-questions",
+      "joshuaslate/go-taxapi-client"
+    ]
+  }
+}

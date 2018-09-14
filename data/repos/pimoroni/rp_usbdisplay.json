@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rp_usbdisplay",
+  "full_name": "pimoroni/rp_usbdisplay",
+  "owner": "pimoroni",
+  "private": false,
+  "html_url": "https://github.com/pimoroni/rp_usbdisplay",
+  "description": "Binary drivers for the RoboPeak/DFRobot 2.8 USB TFT, version 2",
+  "fork": false,
+  "url": "https://api.github.com/repos/pimoroni/rp_usbdisplay",
+  "languages_url": "https://api.github.com/repos/pimoroni/rp_usbdisplay/languages",
+  "pulls_url": "https://api.github.com/repos/pimoroni/rp_usbdisplay/pulls{/number}",
+  "created_at": "2015-08-25T09:27:26Z",
+  "updated_at": "2018-06-10T11:48:09Z",
+  "pushed_at": "2018-08-29T11:52:26Z",
+  "homepage": "https://shop.pimoroni.com/products/2-8-usb-tft-touch-display-screen-for-raspberry-pi-v2",
+  "size": 268,
+  "stargazers_count": 16,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pimoroni",
+    "id": 2399917,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzOTk5MTc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2399917?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pimoroni",
+    "html_url": "https://github.com/pimoroni",
+    "followers_url": "https://api.github.com/users/pimoroni/followers",
+    "following_url": "https://api.github.com/users/pimoroni/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pimoroni/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pimoroni/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pimoroni/subscriptions",
+    "organizations_url": "https://api.github.com/users/pimoroni/orgs",
+    "repos_url": "https://api.github.com/users/pimoroni/repos",
+    "events_url": "https://api.github.com/users/pimoroni/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pimoroni/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "RogueM": 1,
+    "codingyourlife": 1,
+    "IrregularShed": 1,
+    "zithro": 2,
+    "Gadgetoid": 43
+  },
+  "pulls_authors": [
+    "evnet",
+    "codingyourlife",
+    "zithro",
+    "IrregularShed"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 66504,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 3095,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 1059,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:09.589Z"
+}

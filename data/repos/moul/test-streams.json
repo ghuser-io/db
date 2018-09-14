@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "test-streams",
+  "full_name": "moul/test-streams",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/test-streams",
+  "description": ":wrench: CLI utility for testing stdin/stdout/stderr",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/test-streams",
+  "languages_url": "https://api.github.com/repos/moul/test-streams/languages",
+  "pulls_url": "https://api.github.com/repos/moul/test-streams/pulls{/number}",
+  "created_at": "2015-08-24T20:18:39Z",
+  "updated_at": "2015-08-24T20:24:02Z",
+  "pushed_at": "2015-08-24T20:19:19Z",
+  "homepage": null,
+  "size": 132,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 352,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:27.717Z"
+}

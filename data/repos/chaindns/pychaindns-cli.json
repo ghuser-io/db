@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pychaindns-cli",
+  "full_name": "chaindns/pychaindns-cli",
+  "owner": "chaindns",
+  "private": false,
+  "html_url": "https://github.com/chaindns/pychaindns-cli",
+  "description": "a python client for chaindns",
+  "fork": false,
+  "url": "https://api.github.com/repos/chaindns/pychaindns-cli",
+  "languages_url": "https://api.github.com/repos/chaindns/pychaindns-cli/languages",
+  "pulls_url": "https://api.github.com/repos/chaindns/pychaindns-cli/pulls{/number}",
+  "created_at": "2017-12-09T14:16:35Z",
+  "updated_at": "2017-12-11T10:16:12Z",
+  "pushed_at": "2017-12-09T23:11:33Z",
+  "homepage": "",
+  "size": 7,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "chaindns": 1,
+    "gdassori": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 7353,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 70,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T10:36:10.766Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "backbone.js-growl-notifications",
+  "full_name": "radekstepan/backbone.js-growl-notifications",
+  "owner": "radekstepan",
+  "private": false,
+  "html_url": "https://github.com/radekstepan/backbone.js-growl-notifications",
+  "description": "Shows Growl style notifications by listening to Mediated messages. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/radekstepan/backbone.js-growl-notifications",
+  "languages_url": "https://api.github.com/repos/radekstepan/backbone.js-growl-notifications/languages",
+  "pulls_url": "https://api.github.com/repos/radekstepan/backbone.js-growl-notifications/pulls{/number}",
+  "created_at": "2012-02-12T12:57:32Z",
+  "updated_at": "2015-01-15T06:32:31Z",
+  "pushed_at": "2012-02-12T12:57:36Z",
+  "homepage": "",
+  "size": 89,
+  "stargazers_count": 3,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "radekstepan": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 1477,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-11T13:51:04.358Z"
+}

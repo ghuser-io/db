@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "paperdocs",
+  "full_name": "franciscop/paperdocs",
+  "owner": "franciscop",
+  "private": false,
+  "html_url": "https://github.com/franciscop/paperdocs",
+  "description": ":page_facing_up: A beautiful and highly responsible theme for documentation",
+  "fork": false,
+  "url": "https://api.github.com/repos/franciscop/paperdocs",
+  "languages_url": "https://api.github.com/repos/franciscop/paperdocs/languages",
+  "pulls_url": "https://api.github.com/repos/franciscop/paperdocs/pulls{/number}",
+  "created_at": "2016-12-09T15:28:19Z",
+  "updated_at": "2017-05-03T21:59:07Z",
+  "pushed_at": "2017-02-13T16:04:00Z",
+  "homepage": "http://francisco.io/paperdocs/",
+  "size": 1318,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "franciscop": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 71619,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 20890,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 10261,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T00:05:01.200Z"
+}

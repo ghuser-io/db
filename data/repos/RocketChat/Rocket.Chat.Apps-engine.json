@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Rocket.Chat.Apps-engine",
+  "full_name": "RocketChat/Rocket.Chat.Apps-engine",
+  "owner": "RocketChat",
+  "private": false,
+  "html_url": "https://github.com/RocketChat/Rocket.Chat.Apps-engine",
+  "description": "The Rocket.Chat Apps engine and definitions.",
+  "fork": false,
+  "url": "https://api.github.com/repos/RocketChat/Rocket.Chat.Apps-engine",
+  "languages_url": "https://api.github.com/repos/RocketChat/Rocket.Chat.Apps-engine/languages",
+  "pulls_url": "https://api.github.com/repos/RocketChat/Rocket.Chat.Apps-engine/pulls{/number}",
+  "created_at": "2017-07-03T18:23:47Z",
+  "updated_at": "2018-09-13T13:13:29Z",
+  "pushed_at": "2018-09-08T22:15:12Z",
+  "homepage": "",
+  "size": 1269,
+  "stargazers_count": 9,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "RocketChat",
+    "id": 12508788,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyNTA4Nzg4",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/12508788?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/RocketChat",
+    "html_url": "https://github.com/RocketChat",
+    "followers_url": "https://api.github.com/users/RocketChat/followers",
+    "following_url": "https://api.github.com/users/RocketChat/following{/other_user}",
+    "gists_url": "https://api.github.com/users/RocketChat/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/RocketChat/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/RocketChat/subscriptions",
+    "organizations_url": "https://api.github.com/users/RocketChat/orgs",
+    "repos_url": "https://api.github.com/users/RocketChat/repos",
+    "events_url": "https://api.github.com/users/RocketChat/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/RocketChat/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "gdelavald": 2,
+    "rodrigok": 12,
+    "graywolf336": 150
+  },
+  "pulls_authors": [
+    "cardoso",
+    "rodrigok",
+    "geekgonecrazy",
+    "twi123",
+    "marceloschmidt",
+    "graywolf336",
+    "gdelavald"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 378330,
+      "color": "#2b7489"
+    },
+    "JavaScript": {
+      "bytes": 2029,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-13T16:26:45.551Z"
+}

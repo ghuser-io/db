@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "o2.js",
+  "full_name": "v0lkan/o2.js",
+  "owner": "v0lkan",
+  "private": false,
+  "html_url": "https://github.com/v0lkan/o2.js",
+  "description": "A Coherent Solution to Your JavaScript Dilemma",
+  "fork": false,
+  "url": "https://api.github.com/repos/v0lkan/o2.js",
+  "languages_url": "https://api.github.com/repos/v0lkan/o2.js/languages",
+  "pulls_url": "https://api.github.com/repos/v0lkan/o2.js/pulls{/number}",
+  "created_at": "2011-09-10T19:57:23Z",
+  "updated_at": "2018-06-20T08:51:43Z",
+  "pushed_at": "2016-12-06T04:10:52Z",
+  "homepage": "http://o2js.com/",
+  "size": 18363,
+  "stargazers_count": 73,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "atakane": 1,
+    "ndrut": 1,
+    "josecapablanca": 16,
+    "v0lkan": 560
+  },
+  "pulls_authors": [
+    "atakane",
+    "ndrut",
+    "josecapablanca",
+    "GunioRobot"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 5208281,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 1530252,
+      "color": "#f1e05a"
+    },
+    "XSLT": {
+      "bytes": 255584,
+      "color": "#EB8CEB"
+    },
+    "CSS": {
+      "bytes": 43370,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 11686,
+      "color": "#89e051"
+    },
+    "PHP": {
+      "bytes": 11639,
+      "color": "#4F5D95"
+    },
+    "ApacheConf": {
+      "bytes": 430,
+      "color": "#ccc"
+    },
+    "Batchfile": {
+      "bytes": 46,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-11T17:13:19.245Z"
+}

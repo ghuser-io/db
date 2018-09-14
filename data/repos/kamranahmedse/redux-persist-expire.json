@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "redux-persist-expire",
+  "full_name": "kamranahmedse/redux-persist-expire",
+  "owner": "kamranahmedse",
+  "private": false,
+  "html_url": "https://github.com/kamranahmedse/redux-persist-expire",
+  "description": "Expiring transformer for redux-persist",
+  "fork": false,
+  "url": "https://api.github.com/repos/kamranahmedse/redux-persist-expire",
+  "languages_url": "https://api.github.com/repos/kamranahmedse/redux-persist-expire/languages",
+  "pulls_url": "https://api.github.com/repos/kamranahmedse/redux-persist-expire/pulls{/number}",
+  "created_at": "2018-09-01T06:47:24Z",
+  "updated_at": "2018-09-11T08:18:36Z",
+  "pushed_at": "2018-09-05T19:57:37Z",
+  "homepage": "",
+  "size": 29,
+  "stargazers_count": 11,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "kamranahmedse": 15
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6661,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:37.208Z"
+}

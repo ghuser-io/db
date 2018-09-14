@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "awesome-redux",
+  "full_name": "brillout/awesome-redux",
+  "owner": "brillout",
+  "private": false,
+  "html_url": "https://github.com/brillout/awesome-redux",
+  "description": "Catalog of Redux Libraries & Learning Material",
+  "fork": false,
+  "url": "https://api.github.com/repos/brillout/awesome-redux",
+  "languages_url": "https://api.github.com/repos/brillout/awesome-redux/languages",
+  "created_at": "2016-07-06T16:43:10Z",
+  "updated_at": "2018-09-10T19:43:10Z",
+  "pushed_at": "2018-06-09T02:33:28Z",
+  "homepage": "https://devarchy.com/redux",
+  "size": 28,
+  "stargazers_count": 258,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "cc0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "spdx_id": "CC0-1.0",
+    "url": "https://api.github.com/licenses/cc0-1.0",
+    "node_id": "MDc6TGljZW5zZTY="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "clarus": 1,
+    "kenma9123": 1,
+    "brillout": 26
+  },
+  "languages": {},
+  "fetched_at": "2018-09-10T21:32:15.934Z",
+  "pulls_url": "https://api.github.com/repos/brillout/awesome-redux/pulls{/number}",
+  "pulls_authors": [
+    "qualityjacks",
+    "kwelch",
+    "nialvi",
+    "clarus",
+    "kenma9123",
+    "kripod"
+  ]
+}

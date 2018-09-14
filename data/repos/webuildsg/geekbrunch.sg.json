@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "geekbrunch.sg",
+  "full_name": "webuildsg/geekbrunch.sg",
+  "owner": "webuildsg",
+  "private": false,
+  "html_url": "https://github.com/webuildsg/geekbrunch.sg",
+  "description": "A biannual social gathering of geeks and the curious ones in Singapore",
+  "fork": false,
+  "url": "https://api.github.com/repos/webuildsg/geekbrunch.sg",
+  "languages_url": "https://api.github.com/repos/webuildsg/geekbrunch.sg/languages",
+  "pulls_url": "https://api.github.com/repos/webuildsg/geekbrunch.sg/pulls{/number}",
+  "created_at": "2016-04-05T15:07:19Z",
+  "updated_at": "2018-04-18T13:41:18Z",
+  "pushed_at": "2018-04-18T13:44:31Z",
+  "homepage": "https://geekbrunch.sg",
+  "size": 2571,
+  "stargazers_count": 4,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "webuildsg",
+    "id": 7611825,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc2MTE4MjU=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/7611825?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/webuildsg",
+    "html_url": "https://github.com/webuildsg",
+    "followers_url": "https://api.github.com/users/webuildsg/followers",
+    "following_url": "https://api.github.com/users/webuildsg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/webuildsg/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/webuildsg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/webuildsg/subscriptions",
+    "organizations_url": "https://api.github.com/users/webuildsg/orgs",
+    "repos_url": "https://api.github.com/users/webuildsg/repos",
+    "events_url": "https://api.github.com/users/webuildsg/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/webuildsg/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "miccheng": 1,
+    "sayanee": 6,
+    "cheeaun": 37
+  },
+  "pulls_authors": [
+    "miccheng",
+    "sayanee"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 11418,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:53.624Z"
+}

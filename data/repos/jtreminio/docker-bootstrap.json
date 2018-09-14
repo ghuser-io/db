@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docker-bootstrap",
+  "full_name": "jtreminio/docker-bootstrap",
+  "owner": "jtreminio",
+  "private": false,
+  "html_url": "https://github.com/jtreminio/docker-bootstrap",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/jtreminio/docker-bootstrap",
+  "languages_url": "https://api.github.com/repos/jtreminio/docker-bootstrap/languages",
+  "pulls_url": "https://api.github.com/repos/jtreminio/docker-bootstrap/pulls{/number}",
+  "created_at": "2018-08-08T22:52:24Z",
+  "updated_at": "2018-08-14T16:10:40Z",
+  "pushed_at": "2018-08-09T02:24:13Z",
+  "homepage": null,
+  "size": 7,
+  "stargazers_count": 1,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jtreminio": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 14621,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:25.823Z"
+}

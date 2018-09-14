@@ -1,0 +1,113 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "build.snapcraft.io",
+  "full_name": "canonical-websites/build.snapcraft.io",
+  "owner": "canonical-websites",
+  "private": false,
+  "html_url": "https://github.com/canonical-websites/build.snapcraft.io",
+  "description": "The Snapcraft Build site.",
+  "fork": false,
+  "url": "https://api.github.com/repos/canonical-websites/build.snapcraft.io",
+  "languages_url": "https://api.github.com/repos/canonical-websites/build.snapcraft.io/languages",
+  "pulls_url": "https://api.github.com/repos/canonical-websites/build.snapcraft.io/pulls{/number}",
+  "created_at": "2016-11-22T10:55:35Z",
+  "updated_at": "2018-08-24T14:47:22Z",
+  "pushed_at": "2018-08-24T14:47:20Z",
+  "homepage": "",
+  "size": 1761,
+  "stargazers_count": 16,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "canonical-websites",
+    "id": 26072773,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI2MDcyNzcz",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/26072773?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/canonical-websites",
+    "html_url": "https://github.com/canonical-websites",
+    "followers_url": "https://api.github.com/users/canonical-websites/followers",
+    "following_url": "https://api.github.com/users/canonical-websites/following{/other_user}",
+    "gists_url": "https://api.github.com/users/canonical-websites/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/canonical-websites/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/canonical-websites/subscriptions",
+    "organizations_url": "https://api.github.com/users/canonical-websites/orgs",
+    "repos_url": "https://api.github.com/users/canonical-websites/repos",
+    "events_url": "https://api.github.com/users/canonical-websites/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/canonical-websites/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "maxiberta": 1,
+    "nottrobin": 1,
+    "Lukewh": 4,
+    "evandandrea": 5,
+    "tbille": 6,
+    "sparkiegeek": 8,
+    "matthewpaulthomas": 11,
+    "pmahnke": 12,
+    "cprov": 13,
+    "richmccartney": 13,
+    "earnubs": 40,
+    "katiefenn": 41,
+    "cjwatson": 159,
+    "bartaz": 201
+  },
+  "pulls_authors": [
+    "Lukewh",
+    "tbille",
+    "bartaz",
+    "cjwatson",
+    "matthewpaulthomas",
+    "evandandrea",
+    "maxiberta",
+    "elopio",
+    "cprov",
+    "richmccartney",
+    "thomir",
+    "earnubs",
+    "sparkiegeek",
+    "katiefenn",
+    "jamiedawsonyoung",
+    "pmahnke",
+    "nottrobin",
+    "vilagithub"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 793220,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 113103,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 21175,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 13207,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 3238,
+      "color": "#427819"
+    },
+    "Dockerfile": {
+      "bytes": 818,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-11T17:15:38.164Z"
+}

@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "watermarking",
+  "full_name": "jcelerier/watermarking",
+  "owner": "jcelerier",
+  "private": false,
+  "html_url": "https://github.com/jcelerier/watermarking",
+  "description": "Projet watermarking ",
+  "fork": false,
+  "url": "https://api.github.com/repos/jcelerier/watermarking",
+  "languages_url": "https://api.github.com/repos/jcelerier/watermarking/languages",
+  "pulls_url": "https://api.github.com/repos/jcelerier/watermarking/pulls{/number}",
+  "created_at": "2013-10-07T08:51:35Z",
+  "updated_at": "2017-04-28T05:25:47Z",
+  "pushed_at": "2014-01-27T09:10:37Z",
+  "homepage": null,
+  "size": 8912,
+  "stargazers_count": 7,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mqueirossoares": 1,
+    "enseirb": 3,
+    "vsarthou": 5,
+    "jcelerier": 9,
+    "qmidy": 11,
+    "ademartin": 28
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 956856,
+      "color": "#f34b7d"
+    },
+    "TeX": {
+      "bytes": 273099,
+      "color": "#3D6117"
+    },
+    "C": {
+      "bytes": 32109,
+      "color": "#555555"
+    },
+    "CSS": {
+      "bytes": 9893,
+      "color": "#563d7c"
+    },
+    "IDL": {
+      "bytes": 5910,
+      "color": "#a3522f"
+    },
+    "Matlab": {
+      "bytes": 4359,
+      "color": "#e16737"
+    },
+    "Objective-C": {
+      "bytes": 926,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:59.863Z"
+}

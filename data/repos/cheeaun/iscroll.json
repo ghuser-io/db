@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "iscroll",
+  "full_name": "cheeaun/iscroll",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/iscroll",
+  "description": "Hardware accelerated scroll for mobile webkit",
+  "fork": true,
+  "url": "https://api.github.com/repos/cheeaun/iscroll",
+  "languages_url": "https://api.github.com/repos/cheeaun/iscroll/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/iscroll/pulls{/number}",
+  "created_at": "2011-06-19T14:42:36Z",
+  "updated_at": "2015-04-13T05:17:23Z",
+  "pushed_at": "2011-06-19T14:47:07Z",
+  "homepage": "http://cubiq.org/iscroll-4",
+  "size": 227,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 1,
+    "thomasyip": 1,
+    "cubiq": 35
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 46302,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 245,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-10T19:00:12.196Z"
+}

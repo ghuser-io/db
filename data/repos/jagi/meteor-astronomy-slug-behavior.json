@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "meteor-astronomy-slug-behavior",
+  "full_name": "jagi/meteor-astronomy-slug-behavior",
+  "owner": "jagi",
+  "private": false,
+  "html_url": "https://github.com/jagi/meteor-astronomy-slug-behavior",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/jagi/meteor-astronomy-slug-behavior",
+  "languages_url": "https://api.github.com/repos/jagi/meteor-astronomy-slug-behavior/languages",
+  "pulls_url": "https://api.github.com/repos/jagi/meteor-astronomy-slug-behavior/pulls{/number}",
+  "created_at": "2015-05-21T22:13:09Z",
+  "updated_at": "2017-11-05T15:09:07Z",
+  "pushed_at": "2016-12-24T12:31:30Z",
+  "homepage": "https://atmospherejs.com/jagi/astronomy-slug-behavior",
+  "size": 25,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "v2",
+  "organization": {
+    "login": "jagi",
+    "id": 33396340,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMzMzk2MzQw",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/33396340?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jagi",
+    "html_url": "https://github.com/jagi",
+    "followers_url": "https://api.github.com/users/jagi/followers",
+    "following_url": "https://api.github.com/users/jagi/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jagi/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jagi/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jagi/subscriptions",
+    "organizations_url": "https://api.github.com/users/jagi/orgs",
+    "repos_url": "https://api.github.com/users/jagi/repos",
+    "events_url": "https://api.github.com/users/jagi/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jagi/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "zachariahtimothy": 1,
+    "lukejagodzinski": 32
+  },
+  "pulls_authors": [
+    "zachariahtimothy",
+    "zvictor",
+    "laurentpayot"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 11117,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:25.443Z"
+}

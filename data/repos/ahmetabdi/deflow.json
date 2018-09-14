@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "deflow",
+  "full_name": "ahmetabdi/deflow",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/deflow",
+  "description": ":gem: Rubymotion OS X App which changes your wallpaper randomly in intervals.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ahmetabdi/deflow",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/deflow/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/deflow/pulls{/number}",
+  "created_at": "2014-05-08T12:18:28Z",
+  "updated_at": "2017-08-14T11:19:16Z",
+  "pushed_at": "2014-05-20T08:16:33Z",
+  "homepage": "",
+  "size": 2763,
+  "stargazers_count": 5,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 24
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 9078,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:05.320Z"
+}

@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pythonResources",
+  "full_name": "ankitjain28may/pythonResources",
+  "owner": "ankitjain28may",
+  "private": false,
+  "html_url": "https://github.com/ankitjain28may/pythonResources",
+  "description": "All the python related scripts are being listed here.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ankitjain28may/pythonResources",
+  "languages_url": "https://api.github.com/repos/ankitjain28may/pythonResources/languages",
+  "created_at": "2016-08-03T19:37:29Z",
+  "updated_at": "2018-08-10T21:11:09Z",
+  "pushed_at": "2018-01-02T15:06:17Z",
+  "homepage": null,
+  "size": 2656,
+  "stargazers_count": 19,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "kharekartik08": 1,
+    "itsaman": 1,
+    "Pablololo12": 1,
+    "BitYog": 1,
+    "ankitjain28may": 36
+  },
+  "languages": {
+    "Python": {
+      "bytes": 27232,
+      "color": "#3572A5"
+    },
+    "PHP": {
+      "bytes": 223,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-08-11T06:30:09.580Z",
+  "pulls_url": "https://api.github.com/repos/ankitjain28may/pythonResources/pulls{/number}",
+  "pulls_authors": [
+    "mubaris",
+    "Sharanpai",
+    "stuartmccoll",
+    "ankitjain28may",
+    "itsaman",
+    "kharekartik08",
+    "Pablololo12",
+    "BitYog"
+  ]
+}

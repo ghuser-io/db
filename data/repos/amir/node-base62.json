@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-base62",
+  "full_name": "amir/node-base62",
+  "owner": "amir",
+  "private": false,
+  "html_url": "https://github.com/amir/node-base62",
+  "description": "Node.js Base62 addon",
+  "fork": false,
+  "url": "https://api.github.com/repos/amir/node-base62",
+  "languages_url": "https://api.github.com/repos/amir/node-base62/languages",
+  "pulls_url": "https://api.github.com/repos/amir/node-base62/pulls{/number}",
+  "created_at": "2010-09-01T10:53:17Z",
+  "updated_at": "2017-05-19T02:01:20Z",
+  "pushed_at": "2012-08-15T20:05:55Z",
+  "homepage": "",
+  "size": 133,
+  "stargazers_count": 9,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "rbrcurtis": 1,
+    "amir": 4
+  },
+  "pulls_authors": [
+    "rbrcurtis",
+    "torarin"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 3517,
+      "color": "#f34b7d"
+    },
+    "Python": {
+      "bytes": 329,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T22:27:02.041Z"
+}

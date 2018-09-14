@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "collectlinks",
+  "full_name": "schollz/collectlinks",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/collectlinks",
+  "description": "Golang package to read href tags from an HTML page",
+  "fork": true,
+  "url": "https://api.github.com/repos/schollz/collectlinks",
+  "languages_url": "https://api.github.com/repos/schollz/collectlinks/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/collectlinks/pulls{/number}",
+  "created_at": "2017-03-08T15:09:23Z",
+  "updated_at": "2017-10-10T14:49:40Z",
+  "pushed_at": "2017-08-05T14:08:19Z",
+  "homepage": null,
+  "size": 6,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 1,
+    "kampsy": 1,
+    "sim4life": 1,
+    "JackDanger": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 3229,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:52.581Z"
+}

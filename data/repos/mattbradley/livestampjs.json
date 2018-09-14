@@ -1,0 +1,62 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "livestampjs",
+  "full_name": "mattbradley/livestampjs",
+  "owner": "mattbradley",
+  "private": false,
+  "html_url": "https://github.com/mattbradley/livestampjs",
+  "description": "A simple, unobtrusive jQuery plugin that provides auto-updating timeago text to your timestamped HTML elements using Moment.js.",
+  "fork": false,
+  "url": "https://api.github.com/repos/mattbradley/livestampjs",
+  "languages_url": "https://api.github.com/repos/mattbradley/livestampjs/languages",
+  "pulls_url": "https://api.github.com/repos/mattbradley/livestampjs/pulls{/number}",
+  "created_at": "2012-06-04T06:06:01Z",
+  "updated_at": "2018-09-05T10:11:40Z",
+  "pushed_at": "2016-10-27T20:01:36Z",
+  "homepage": "http://mattbradley.github.com/livestampjs",
+  "size": 414,
+  "stargazers_count": 409,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "develop",
+  "contributors": {
+    "dandv": 1,
+    "sidfarkus": 1,
+    "fabslab": 1,
+    "robertmain": 2,
+    "BrunoWinck": 3,
+    "mattbradley": 21
+  },
+  "pulls_authors": [
+    "DennisNygren",
+    "manifestinteractive",
+    "rafaelberrocalj",
+    "bouiboui",
+    "wearhere",
+    "robertmain",
+    "KommuSoft",
+    "dandv",
+    "BrunoWinck",
+    "sidfarkus",
+    "AndersDJohnson",
+    "fabslab",
+    "paulbellamy",
+    "korzhyk",
+    "dinacel"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 3260,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:21.947Z"
+}

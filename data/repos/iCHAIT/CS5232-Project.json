@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "CS5232-Project",
+  "full_name": "iCHAIT/CS5232-Project",
+  "owner": "iCHAIT",
+  "private": false,
+  "html_url": "https://github.com/iCHAIT/CS5232-Project",
+  "description": "Formal Verification of Transport Layer Security Protocol",
+  "fork": false,
+  "url": "https://api.github.com/repos/iCHAIT/CS5232-Project",
+  "languages_url": "https://api.github.com/repos/iCHAIT/CS5232-Project/languages",
+  "pulls_url": "https://api.github.com/repos/iCHAIT/CS5232-Project/pulls{/number}",
+  "created_at": "2018-03-26T11:55:01Z",
+  "updated_at": "2018-05-04T14:10:15Z",
+  "pushed_at": "2018-05-04T12:48:18Z",
+  "homepage": "",
+  "size": 298,
+  "stargazers_count": 1,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "songyahui": 5,
+    "iCHAIT": 35
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 3261,
+      "color": "#178600"
+    },
+    "Python": {
+      "bytes": 757,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-03T17:15:05.783Z"
+}

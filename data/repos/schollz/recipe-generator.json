@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "recipe-generator",
+  "full_name": "schollz/recipe-generator",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/recipe-generator",
+  "description": "A recipe website for completely new and interesting recipes",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/recipe-generator",
+  "languages_url": "https://api.github.com/repos/schollz/recipe-generator/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/recipe-generator/pulls{/number}",
+  "created_at": "2016-07-08T18:20:42Z",
+  "updated_at": "2016-07-10T00:19:01Z",
+  "pushed_at": "2016-07-08T18:20:42Z",
+  "homepage": null,
+  "size": 1,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 1
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-11T20:53:45.554Z"
+}

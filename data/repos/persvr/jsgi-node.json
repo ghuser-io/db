@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jsgi-node",
+  "full_name": "persvr/jsgi-node",
+  "owner": "persvr",
+  "private": false,
+  "html_url": "https://github.com/persvr/jsgi-node",
+  "description": "JSGI Adapter for Node.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/persvr/jsgi-node",
+  "languages_url": "https://api.github.com/repos/persvr/jsgi-node/languages",
+  "pulls_url": "https://api.github.com/repos/persvr/jsgi-node/pulls{/number}",
+  "created_at": "2009-12-03T04:27:41Z",
+  "updated_at": "2018-07-20T20:43:17Z",
+  "pushed_at": "2017-01-31T19:04:24Z",
+  "homepage": "",
+  "size": 218,
+  "stargazers_count": 77,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "persvr",
+    "id": 393775,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM5Mzc3NQ==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/393775?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/persvr",
+    "html_url": "https://github.com/persvr",
+    "followers_url": "https://api.github.com/users/persvr/followers",
+    "following_url": "https://api.github.com/users/persvr/following{/other_user}",
+    "gists_url": "https://api.github.com/users/persvr/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/persvr/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/persvr/subscriptions",
+    "organizations_url": "https://api.github.com/users/persvr/orgs",
+    "repos_url": "https://api.github.com/users/persvr/repos",
+    "events_url": "https://api.github.com/users/persvr/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/persvr/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "lpatters": 1,
+    "chrismytton": 1,
+    "nrstott": 2,
+    "tomyan": 2,
+    "jed": 3,
+    "neonstalwart": 6,
+    "kriszyp": 59
+  },
+  "pulls_authors": [
+    "nrstott",
+    "neonstalwart",
+    "SJonesy",
+    "kriszyp",
+    "tomyan"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 23624,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:52.265Z"
+}

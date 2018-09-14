@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "haxe-react",
+  "full_name": "kLabz/haxe-react",
+  "owner": "kLabz",
+  "private": false,
+  "html_url": "https://github.com/kLabz/haxe-react",
+  "description": "Haxe-React #next: preparing for 2.0.0",
+  "fork": true,
+  "url": "https://api.github.com/repos/kLabz/haxe-react",
+  "languages_url": "https://api.github.com/repos/kLabz/haxe-react/languages",
+  "pulls_url": "https://api.github.com/repos/kLabz/haxe-react/pulls{/number}",
+  "created_at": "2017-04-28T10:14:53Z",
+  "updated_at": "2018-09-10T15:30:00Z",
+  "pushed_at": "2018-09-10T09:11:10Z",
+  "homepage": "https://github.com/kLabz/haxe-react/blob/next/doc/react-next.md",
+  "size": 1240,
+  "stargazers_count": 1,
+  "language": "Haxe",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "next",
+  "contributors": {
+    "jasononeil": 1,
+    "markknol": 1,
+    "TomasHubelbauer": 1,
+    "Gama11": 1,
+    "piotjag": 1,
+    "Efimster": 1,
+    "jozefchutka": 1,
+    "francescoagati": 3,
+    "caspersmith": 3,
+    "ReDrUm": 3,
+    "kevinresol": 6,
+    "back2dos": 7,
+    "dpeek": 21,
+    "elsassph": 43,
+    "kLabz": 83
+  },
+  "pulls_authors": [
+    "kLabz",
+    "back2dos"
+  ],
+  "languages": {
+    "Haxe": {
+      "bytes": 139439,
+      "color": "#df7900"
+    },
+    "Shell": {
+      "bytes": 904,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:49.008Z"
+}

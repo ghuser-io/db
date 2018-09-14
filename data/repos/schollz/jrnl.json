@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jrnl",
+  "full_name": "schollz/jrnl",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/jrnl",
+  "description": "A simple command line journal application that stores your journal in a plain text file.",
+  "fork": true,
+  "url": "https://api.github.com/repos/schollz/jrnl",
+  "languages_url": "https://api.github.com/repos/schollz/jrnl/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/jrnl/pulls{/number}",
+  "created_at": "2016-07-30T13:42:00Z",
+  "updated_at": "2018-06-06T17:40:10Z",
+  "pushed_at": "2016-07-17T20:35:32Z",
+  "homepage": "http://jrnl.sh",
+  "size": 3264,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "doozr": 1,
+    "asauber": 1,
+    "Davidslv": 1,
+    "vitorgalvao": 1,
+    "jfunction": 1,
+    "willbarrett": 1,
+    "kneufeld": 1,
+    "mjhoffman65": 1,
+    "StevenMaude": 1,
+    "jdevera": 1,
+    "karlcow": 1,
+    "chrissexton": 1,
+    "igniteflow": 1,
+    "mason-bially": 1,
+    "matze": 1,
+    "jonjonsonjr": 1,
+    "multani": 1,
+    "bitdeli-chef": 1,
+    "dheaney": 1,
+    "okin": 1,
+    "alapolloni": 1,
+    "evaryont": 1,
+    "seinfield": 2,
+    "notbalanced": 2,
+    "jtan189": 2,
+    "chaitan94": 3,
+    "pcarranza": 4,
+    "grplyler": 5,
+    "aniketpant": 11,
+    "MinchinWeb": 17,
+    "dedan": 22,
+    "maebert": 238
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 65839,
+      "color": "#3572A5"
+    },
+    "Gherkin": {
+      "bytes": 14464,
+      "color": "#5B2063"
+    },
+    "Makefile": {
+      "bytes": 1058,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:54.416Z"
+}

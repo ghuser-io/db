@@ -1,0 +1,76 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "slack-node-sdk",
+  "full_name": "clonn/slack-node-sdk",
+  "owner": "clonn",
+  "private": false,
+  "html_url": "https://github.com/clonn/slack-node-sdk",
+  "description": "slack.com, slack, node sdk",
+  "fork": false,
+  "url": "https://api.github.com/repos/clonn/slack-node-sdk",
+  "languages_url": "https://api.github.com/repos/clonn/slack-node-sdk/languages",
+  "pulls_url": "https://api.github.com/repos/clonn/slack-node-sdk/pulls{/number}",
+  "created_at": "2014-04-19T17:15:34Z",
+  "updated_at": "2018-09-11T07:56:36Z",
+  "pushed_at": "2017-12-08T18:42:01Z",
+  "homepage": null,
+  "size": 74,
+  "stargazers_count": 160,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "pdtyreus": 1,
+    "simonwillcock": 1,
+    "jylinman": 1,
+    "timjrobinson": 1,
+    "hanabokuro": 1,
+    "meyskens": 1,
+    "abetomo": 2,
+    "juanpabloaj": 3,
+    "kmsheng": 3,
+    "kumarharsh": 4,
+    "kevinburke": 6,
+    "clonn": 17
+  },
+  "pulls_authors": [
+    "ocularrhythm",
+    "abetomo",
+    "pdtyreus",
+    "bells17",
+    "simonwillcock",
+    "kevinburkeshyp",
+    "jylinman",
+    "guyklainer",
+    "miiila",
+    "juanpabloaj",
+    "timjrobinson",
+    "kumarharsh",
+    "hanabokuro",
+    "kmsheng",
+    "meyskens"
+  ],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 12704,
+      "color": "#244776"
+    },
+    "JavaScript": {
+      "bytes": 1245,
+      "color": "#f1e05a"
+    },
+    "Makefile": {
+      "bytes": 199,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T20:50:30.536Z"
+}

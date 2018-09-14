@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "standard-firmata-cc3000",
+  "full_name": "peterschwarz/standard-firmata-cc3000",
+  "owner": "peterschwarz",
+  "private": false,
+  "html_url": "https://github.com/peterschwarz/standard-firmata-cc3000",
+  "description": "Provides StandardFirmata over WiFi via the CC3000 WiFi Chip on the Arduino",
+  "fork": false,
+  "url": "https://api.github.com/repos/peterschwarz/standard-firmata-cc3000",
+  "languages_url": "https://api.github.com/repos/peterschwarz/standard-firmata-cc3000/languages",
+  "pulls_url": "https://api.github.com/repos/peterschwarz/standard-firmata-cc3000/pulls{/number}",
+  "created_at": "2014-08-01T20:27:28Z",
+  "updated_at": "2016-07-31T03:15:57Z",
+  "pushed_at": "2014-08-06T15:58:20Z",
+  "homepage": null,
+  "size": 176,
+  "stargazers_count": 2,
+  "language": "Arduino",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "peterschwarz": 10
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Arduino": {
+      "bytes": 22696,
+      "color": "#ccc"
+    },
+    "C++": {
+      "bytes": 4838,
+      "color": "#f34b7d"
+    },
+    "Python": {
+      "bytes": 3646,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T17:14:24.825Z"
+}

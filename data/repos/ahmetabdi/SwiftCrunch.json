@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SwiftCrunch",
+  "full_name": "ahmetabdi/SwiftCrunch",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/SwiftCrunch",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/ahmetabdi/SwiftCrunch",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/SwiftCrunch/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/SwiftCrunch/pulls{/number}",
+  "created_at": "2014-09-29T13:10:33Z",
+  "updated_at": "2015-11-03T15:21:26Z",
+  "pushed_at": "2014-10-01T08:00:34Z",
+  "homepage": null,
+  "size": 416,
+  "stargazers_count": 1,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Swift": {
+      "bytes": 24590,
+      "color": "#ffac45"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:04.031Z"
+}

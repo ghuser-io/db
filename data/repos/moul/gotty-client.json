@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gotty-client",
+  "full_name": "moul/gotty-client",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/gotty-client",
+  "description": ":wrench: terminal client for GoTTY",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/gotty-client",
+  "languages_url": "https://api.github.com/repos/moul/gotty-client/languages",
+  "pulls_url": "https://api.github.com/repos/moul/gotty-client/pulls{/number}",
+  "created_at": "2015-08-24T16:37:56Z",
+  "updated_at": "2018-09-04T17:38:37Z",
+  "pushed_at": "2018-08-18T16:12:45Z",
+  "homepage": "",
+  "size": 4390,
+  "stargazers_count": 112,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "tamalsaha": 1,
+    "fossabot": 1,
+    "davidfetter": 1,
+    "mickael9": 1,
+    "gurjeet": 2,
+    "dimtion": 3,
+    "Sh4d1": 5,
+    "byung2": 5,
+    "QuentinPerez": 22,
+    "moul": 89
+  },
+  "pulls_authors": [
+    "renovate[bot]",
+    "imgbot[bot]",
+    "Sh4d1",
+    "byung2",
+    "dimtion",
+    "moul",
+    "tamalsaha",
+    "fossabot",
+    "davidfetter",
+    "gurjeet",
+    "QuentinPerez",
+    "mickael9"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 20754,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 1220,
+      "color": "#427819"
+    },
+    "Ruby": {
+      "bytes": 1021,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 313,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:41.791Z"
+}

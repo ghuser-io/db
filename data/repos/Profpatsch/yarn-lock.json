@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "yarn-lock",
+  "full_name": "Profpatsch/yarn-lock",
+  "owner": "Profpatsch",
+  "private": false,
+  "html_url": "https://github.com/Profpatsch/yarn-lock",
+  "description": "Types and parser for the lock file format of the npm successor yarn",
+  "fork": false,
+  "url": "https://api.github.com/repos/Profpatsch/yarn-lock",
+  "languages_url": "https://api.github.com/repos/Profpatsch/yarn-lock/languages",
+  "pulls_url": "https://api.github.com/repos/Profpatsch/yarn-lock/pulls{/number}",
+  "created_at": "2017-04-18T09:15:23Z",
+  "updated_at": "2018-06-12T23:20:02Z",
+  "pushed_at": "2018-06-12T23:26:51Z",
+  "homepage": "https://hackage.haskell.org/package/yarn-lock",
+  "size": 56,
+  "stargazers_count": 3,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Profpatsch": 39
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Haskell": {
+      "bytes": 41419,
+      "color": "#5e5086"
+    },
+    "Nix": {
+      "bytes": 855,
+      "color": "#7e7eff"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:42.016Z"
+}

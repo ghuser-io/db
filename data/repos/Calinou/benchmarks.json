@@ -1,0 +1,108 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Marqin": 1,
+    "Calinou": 4
+  },
+  "name": "benchmarks",
+  "full_name": "Calinou/benchmarks",
+  "owner": "Calinou",
+  "private": false,
+  "html_url": "https://github.com/Calinou/benchmarks",
+  "description": "Programming language implementation benchmarks",
+  "fork": false,
+  "url": "https://api.github.com/repos/Calinou/benchmarks",
+  "languages_url": "https://api.github.com/repos/Calinou/benchmarks/languages",
+  "created_at": "2016-08-21T09:22:44Z",
+  "updated_at": "2016-08-21T10:12:14Z",
+  "pushed_at": "2016-08-23T21:29:24Z",
+  "homepage": null,
+  "size": 14,
+  "stargazers_count": 3,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "languages": {
+    "Shell": {
+      "bytes": 3994,
+      "color": "#89e051"
+    },
+    "Java": {
+      "bytes": 340,
+      "color": "#b07219"
+    },
+    "C#": {
+      "bytes": 336,
+      "color": "#178600"
+    },
+    "C++": {
+      "bytes": 237,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 226,
+      "color": "#555555"
+    },
+    "Rust": {
+      "bytes": 208,
+      "color": "#dea584"
+    },
+    "Go": {
+      "bytes": 196,
+      "color": "#375eab"
+    },
+    "PHP": {
+      "bytes": 194,
+      "color": "#4F5D95"
+    },
+    "Erlang": {
+      "bytes": 182,
+      "color": "#B83998"
+    },
+    "Lua": {
+      "bytes": 172,
+      "color": "#000080"
+    },
+    "JavaScript": {
+      "bytes": 165,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 147,
+      "color": "#3572A5"
+    },
+    "Ruby": {
+      "bytes": 144,
+      "color": "#701516"
+    },
+    "Nim": {
+      "bytes": 139,
+      "color": "#37775b"
+    },
+    "Crystal": {
+      "bytes": 134,
+      "color": "#776791"
+    },
+    "Elixir": {
+      "bytes": 117,
+      "color": "#6e4a7e"
+    },
+    "Haskell": {
+      "bytes": 89,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/Calinou/benchmarks/pulls{/number}",
+  "pulls_authors": [
+    "Marqin"
+  ]
+}

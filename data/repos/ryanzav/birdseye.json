@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "birdseye",
+  "full_name": "ryanzav/birdseye",
+  "owner": "ryanzav",
+  "private": false,
+  "html_url": "https://github.com/ryanzav/birdseye",
+  "description": "Generate a bird's eye view of a project's source code. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/ryanzav/birdseye",
+  "languages_url": "https://api.github.com/repos/ryanzav/birdseye/languages",
+  "created_at": "2017-11-04T13:46:53Z",
+  "updated_at": "2018-08-25T10:51:03Z",
+  "pushed_at": "2018-05-26T02:30:40Z",
+  "homepage": null,
+  "size": 5764,
+  "stargazers_count": 37,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "daf": 2,
+    "alichtman": 3,
+    "ryanzav": 3
+  },
+  "languages": {
+    "Python": {
+      "bytes": 36959,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-25T19:31:28.633Z",
+  "pulls_url": "https://api.github.com/repos/ryanzav/birdseye/pulls{/number}",
+  "pulls_authors": [
+    "alichtman",
+    "daf"
+  ]
+}

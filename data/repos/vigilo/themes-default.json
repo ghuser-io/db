@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "themes-default",
+  "full_name": "vigilo/themes-default",
+  "owner": "vigilo",
+  "private": false,
+  "html_url": "https://github.com/vigilo/themes-default",
+  "description": "Default theme for Vigilo's web interface",
+  "fork": false,
+  "url": "https://api.github.com/repos/vigilo/themes-default",
+  "languages_url": "https://api.github.com/repos/vigilo/themes-default/languages",
+  "pulls_url": "https://api.github.com/repos/vigilo/themes-default/pulls{/number}",
+  "created_at": "2015-07-12T16:08:41Z",
+  "updated_at": "2018-09-12T01:26:10Z",
+  "pushed_at": "2018-09-12T01:26:09Z",
+  "homepage": "https://www.vigilo-nms.org/",
+  "size": 2479,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "develop",
+  "organization": {
+    "login": "vigilo",
+    "id": 3083424,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMwODM0MjQ=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/3083424?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/vigilo",
+    "html_url": "https://github.com/vigilo",
+    "followers_url": "https://api.github.com/users/vigilo/followers",
+    "following_url": "https://api.github.com/users/vigilo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/vigilo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/vigilo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/vigilo/subscriptions",
+    "organizations_url": "https://api.github.com/users/vigilo/orgs",
+    "repos_url": "https://api.github.com/users/vigilo/repos",
+    "events_url": "https://api.github.com/users/vigilo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/vigilo/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ldevigne": 1,
+    "ldgabet": 2,
+    "tburguie": 19,
+    "vquemener": 60,
+    "fpoirotte": 356
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 676124,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 141815,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 113181,
+      "color": "#563d7c"
+    },
+    "Python": {
+      "bytes": 3074,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 720,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:27.061Z"
+}

@@ -1,0 +1,141 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "libossia",
+  "full_name": "OSSIA/libossia",
+  "owner": "OSSIA",
+  "private": false,
+  "html_url": "https://github.com/OSSIA/libossia",
+  "description": "A modern C++, cross-environment distributed object model for creative coding and interaction scoring",
+  "fork": false,
+  "url": "https://api.github.com/repos/OSSIA/libossia",
+  "languages_url": "https://api.github.com/repos/OSSIA/libossia/languages",
+  "pulls_url": "https://api.github.com/repos/OSSIA/libossia/pulls{/number}",
+  "created_at": "2014-02-04T17:27:26Z",
+  "updated_at": "2018-09-13T22:10:57Z",
+  "pushed_at": "2018-09-13T22:13:19Z",
+  "homepage": "https://ossia.github.io",
+  "size": 28522,
+  "stargazers_count": 41,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "OSSIA",
+    "id": 2913885,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI5MTM4ODU=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/2913885?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/OSSIA",
+    "html_url": "https://github.com/OSSIA",
+    "followers_url": "https://api.github.com/users/OSSIA/followers",
+    "following_url": "https://api.github.com/users/OSSIA/following{/other_user}",
+    "gists_url": "https://api.github.com/users/OSSIA/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/OSSIA/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/OSSIA/subscriptions",
+    "organizations_url": "https://api.github.com/users/OSSIA/orgs",
+    "repos_url": "https://api.github.com/users/OSSIA/repos",
+    "events_url": "https://api.github.com/users/OSSIA/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/OSSIA/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "evanmtp": 1,
+    "LancelThaledric": 1,
+    "sletz": 2,
+    "aliefhooghe": 5,
+    "aklevy": 7,
+    "pchdev": 10,
+    "nvuaille": 19,
+    "jln-": 54,
+    "cbossut": 118,
+    "reno-": 158,
+    "bltzr": 180,
+    "avilleret": 965,
+    "jcelerier": 1804
+  },
+  "pulls_authors": [
+    "evanmtp",
+    "bltzr",
+    "aliefhooghe",
+    "gitter-badger",
+    "jcelerier",
+    "aklevy",
+    "sletz",
+    "theod",
+    "fossabot",
+    "LancelThaledric",
+    "avilleret"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 4567639,
+      "color": "#f34b7d"
+    },
+    "Max": {
+      "bytes": 1881719,
+      "color": "#c4a79c"
+    },
+    "CMake": {
+      "bytes": 162660,
+      "color": "#ccc"
+    },
+    "Python": {
+      "bytes": 126971,
+      "color": "#3572A5"
+    },
+    "C#": {
+      "bytes": 80093,
+      "color": "#178600"
+    },
+    "C": {
+      "bytes": 79273,
+      "color": "#555555"
+    },
+    "XSLT": {
+      "bytes": 73985,
+      "color": "#EB8CEB"
+    },
+    "Shell": {
+      "bytes": 33919,
+      "color": "#89e051"
+    },
+    "QML": {
+      "bytes": 33064,
+      "color": "#44a51c"
+    },
+    "Java": {
+      "bytes": 25357,
+      "color": "#b07219"
+    },
+    "PowerShell": {
+      "bytes": 20474,
+      "color": "#012456"
+    },
+    "HTML": {
+      "bytes": 17007,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 11932,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 230,
+      "color": "#f1e05a"
+    },
+    "Batchfile": {
+      "bytes": 86,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-13T23:51:27.802Z"
+}

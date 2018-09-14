@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Owin.Security.RedisTokenProviders",
+  "full_name": "ziyasal/Owin.Security.RedisTokenProviders",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/Owin.Security.RedisTokenProviders",
+  "description": "A RefreshTokenProvider using Redis as token store for Microsoft.Owin",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal/Owin.Security.RedisTokenProviders",
+  "languages_url": "https://api.github.com/repos/ziyasal/Owin.Security.RedisTokenProviders/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/Owin.Security.RedisTokenProviders/pulls{/number}",
+  "created_at": "2014-05-29T09:20:09Z",
+  "updated_at": "2018-08-13T21:41:41Z",
+  "pushed_at": "2018-08-13T21:41:39Z",
+  "homepage": "",
+  "size": 1412,
+  "stargazers_count": 7,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ziyasal": 23
+  },
+  "pulls_authors": [
+    "zekeriyakeskin"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 181671,
+      "color": "#178600"
+    },
+    "JavaScript": {
+      "bytes": 10714,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 5067,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 2601,
+      "color": "#563d7c"
+    },
+    "Batchfile": {
+      "bytes": 283,
+      "color": "#C1F12E"
+    },
+    "ASP": {
+      "bytes": 134,
+      "color": "#6a40fd"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:02.626Z"
+}

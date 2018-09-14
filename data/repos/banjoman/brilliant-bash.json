@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "brilliant-bash",
+  "full_name": "banjoman/brilliant-bash",
+  "owner": "banjoman",
+  "private": false,
+  "html_url": "https://github.com/banjoman/brilliant-bash",
+  "description": "A handful of bash aliases to strengthen the bond between you and your machine.",
+  "fork": false,
+  "url": "https://api.github.com/repos/banjoman/brilliant-bash",
+  "languages_url": "https://api.github.com/repos/banjoman/brilliant-bash/languages",
+  "pulls_url": "https://api.github.com/repos/banjoman/brilliant-bash/pulls{/number}",
+  "created_at": "2017-01-22T01:38:45Z",
+  "updated_at": "2018-06-24T10:27:21Z",
+  "pushed_at": "2017-05-20T15:36:54Z",
+  "homepage": null,
+  "size": 38,
+  "stargazers_count": 88,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sscheele": 1,
+    "RayWillett": 1,
+    "jaruserickson": 1,
+    "ajm188": 1,
+    "alexanderankin": 1,
+    "aalireza": 1,
+    "mdibaiee": 1,
+    "massiv64": 1,
+    "DweebsUnited": 1,
+    "raidancampbell": 2,
+    "frankcash": 2,
+    "rsnk96": 6
+  },
+  "pulls_authors": [
+    "ramin",
+    "alexanderankin",
+    "sscheele",
+    "Lwelch45",
+    "emerali",
+    "knyte",
+    "raidancampbell",
+    "RayWillett",
+    "aalireza",
+    "jaruserickson",
+    "ajm188",
+    "Salil999",
+    "Mattrack",
+    "frankcash",
+    "rsnk96",
+    "mdibaiee",
+    "massiv64",
+    "DweebsUnited",
+    "iostat",
+    "snood1205"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 1229,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:39.438Z"
+}

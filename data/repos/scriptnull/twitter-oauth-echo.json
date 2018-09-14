@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "twitter-oauth-echo",
+  "full_name": "scriptnull/twitter-oauth-echo",
+  "owner": "scriptnull",
+  "private": false,
+  "html_url": "https://github.com/scriptnull/twitter-oauth-echo",
+  "description": "Express Middleware for Twitter Oauth Echo",
+  "fork": false,
+  "url": "https://api.github.com/repos/scriptnull/twitter-oauth-echo",
+  "languages_url": "https://api.github.com/repos/scriptnull/twitter-oauth-echo/languages",
+  "pulls_url": "https://api.github.com/repos/scriptnull/twitter-oauth-echo/pulls{/number}",
+  "created_at": "2015-06-12T23:59:07Z",
+  "updated_at": "2015-07-10T08:36:35Z",
+  "pushed_at": "2015-06-13T01:19:32Z",
+  "homepage": "",
+  "size": 1008,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "scriptnull": 10
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 794,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:04.913Z"
+}

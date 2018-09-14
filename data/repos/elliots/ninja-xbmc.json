@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ninja-xbmc",
+  "full_name": "elliots/ninja-xbmc",
+  "owner": "elliots",
+  "private": false,
+  "html_url": "https://github.com/elliots/ninja-xbmc",
+  "description": "NOTE: This repository has moved to ",
+  "fork": false,
+  "url": "https://api.github.com/repos/elliots/ninja-xbmc",
+  "languages_url": "https://api.github.com/repos/elliots/ninja-xbmc/languages",
+  "pulls_url": "https://api.github.com/repos/elliots/ninja-xbmc/pulls{/number}",
+  "created_at": "2013-03-16T05:16:54Z",
+  "updated_at": "2014-11-13T02:26:38Z",
+  "pushed_at": "2014-03-20T22:46:38Z",
+  "homepage": "http://github.com/ninjablocks/ninja-xbmc",
+  "size": 237,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "thatguydan": 1,
+    "justy": 1,
+    "theojulienne": 2,
+    "elliots": 23
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 12703,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T13:45:58.188Z"
+}

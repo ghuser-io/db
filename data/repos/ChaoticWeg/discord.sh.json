@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "discord.sh",
+  "full_name": "ChaoticWeg/discord.sh",
+  "owner": "ChaoticWeg",
+  "private": false,
+  "html_url": "https://github.com/ChaoticWeg/discord.sh",
+  "description": "Write-only command-line Discord webhook integration written in 100% Bash script",
+  "fork": false,
+  "url": "https://api.github.com/repos/ChaoticWeg/discord.sh",
+  "languages_url": "https://api.github.com/repos/ChaoticWeg/discord.sh/languages",
+  "pulls_url": "https://api.github.com/repos/ChaoticWeg/discord.sh/pulls{/number}",
+  "created_at": "2018-08-12T05:36:13Z",
+  "updated_at": "2018-09-12T19:13:27Z",
+  "pushed_at": "2018-09-08T22:06:29Z",
+  "homepage": "https://chaoticweg.cc/discord.sh/",
+  "size": 144,
+  "stargazers_count": 37,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ChaoticWeg": 71,
+    "NurdTurd": 40
+  },
+  "pulls_authors": [
+    "NurdTurd",
+    "MatthewDietrich"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 14833,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 582,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-13T00:21:02.091Z"
+}

@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "chadlavi",
+  "ghuser_created_at": "2018-09-11T10:35:49.148Z",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/7226642?v=4",
+  "html_url": "https://github.com/chadlavi",
+  "organizations_url": "https://api.github.com/users/chadlavi/orgs",
+  "repos_url": "https://api.github.com/users/chadlavi/repos",
+  "type": "User",
+  "name": "Chad Lavimoniere",
+  "company": "Arazoo",
+  "blog": "chadlavimoniere.com",
+  "location": "Brooklyn, NY",
+  "email": "chad@chadlavimoniere.com",
+  "bio": "Product Designer, homebrew beer enthusiast, in a complicated relationship with pizza",
+  "public_gists": 14,
+  "created_at": "2014-04-08T14:30:07Z",
+  "updated_at": "2018-09-10T18:08:56Z",
+  "organizations": [
+    "MLTSHP"
+  ],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:10:57.184Z",
+    "repos": [
+      "chadlavi/chadlavimoniere.com",
+      "chadlavi/recipes",
+      "chadlavi/Pyster",
+      "chadlavi/vuejs-helloworld",
+      "chadlavi/organizer",
+      "chadlavi/lutrus",
+      "chadlavi/django",
+      "chadlavi/twilio-bot",
+      "chadlavi/bottle",
+      "chadlavi/python-word-finder",
+      "chadlavi/nyc-recommendations",
+      "chadlavi/MBMBAMBoto-V2",
+      "chadlavi/iterm-prefs",
+      "NasdaqDesign/mosaiq",
+      "chadlavi/arazoo-product-emailer",
+      "chadlavi/diceware.sh",
+      "chadlavi/twilio-from-command-line",
+      "chadlavi/new-mac",
+      "heyitsolivia/secretpuppies",
+      "chadlavi/resize-it"
+    ]
+  }
+}

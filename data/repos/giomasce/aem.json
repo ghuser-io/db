@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "aem",
+  "full_name": "giomasce/aem",
+  "owner": "giomasce",
+  "private": false,
+  "html_url": "https://github.com/giomasce/aem",
+  "description": "aem",
+  "fork": false,
+  "url": "https://api.github.com/repos/giomasce/aem",
+  "languages_url": "https://api.github.com/repos/giomasce/aem/languages",
+  "pulls_url": "https://api.github.com/repos/giomasce/aem/pulls{/number}",
+  "created_at": "2014-11-07T23:21:54Z",
+  "updated_at": "2018-09-02T17:24:50Z",
+  "pushed_at": "2018-09-02T17:24:49Z",
+  "homepage": null,
+  "size": 23671,
+  "stargazers_count": 2,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "gh-pages",
+  "contributors": {
+    "giomasce": 55
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 16876,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 484,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 255,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:22.071Z"
+}

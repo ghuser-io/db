@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "random_portscan_generator",
+  "full_name": "khodges42/random_portscan_generator",
+  "owner": "khodges42",
+  "private": false,
+  "html_url": "https://github.com/khodges42/random_portscan_generator",
+  "description": "Generates random portscan data",
+  "fork": false,
+  "url": "https://api.github.com/repos/khodges42/random_portscan_generator",
+  "languages_url": "https://api.github.com/repos/khodges42/random_portscan_generator/languages",
+  "pulls_url": "https://api.github.com/repos/khodges42/random_portscan_generator/pulls{/number}",
+  "created_at": "2018-07-17T13:23:39Z",
+  "updated_at": "2018-07-18T20:09:39Z",
+  "pushed_at": "2018-07-29T00:12:21Z",
+  "homepage": null,
+  "size": 6,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "khodges42": 6
+  },
+  "pulls_authors": [
+    "thehappydinoa"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 1114,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-17T12:38:52.094Z"
+}

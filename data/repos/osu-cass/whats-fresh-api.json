@@ -1,0 +1,93 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "whats-fresh-api",
+  "full_name": "osu-cass/whats-fresh-api",
+  "owner": "osu-cass",
+  "private": false,
+  "html_url": "https://github.com/osu-cass/whats-fresh-api",
+  "description": "A Django implementation of the What's Fresh API",
+  "fork": false,
+  "url": "https://api.github.com/repos/osu-cass/whats-fresh-api",
+  "languages_url": "https://api.github.com/repos/osu-cass/whats-fresh-api/languages",
+  "pulls_url": "https://api.github.com/repos/osu-cass/whats-fresh-api/pulls{/number}",
+  "created_at": "2014-07-31T18:22:09Z",
+  "updated_at": "2016-01-20T18:52:24Z",
+  "pushed_at": "2017-07-13T21:47:42Z",
+  "homepage": null,
+  "size": 1349,
+  "stargazers_count": 4,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "osu-cass",
+    "id": 8293685,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjgyOTM2ODU=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/8293685?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/osu-cass",
+    "html_url": "https://github.com/osu-cass",
+    "followers_url": "https://api.github.com/users/osu-cass/followers",
+    "following_url": "https://api.github.com/users/osu-cass/following{/other_user}",
+    "gists_url": "https://api.github.com/users/osu-cass/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/osu-cass/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/osu-cass/subscriptions",
+    "organizations_url": "https://api.github.com/users/osu-cass/orgs",
+    "repos_url": "https://api.github.com/users/osu-cass/repos",
+    "events_url": "https://api.github.com/users/osu-cass/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/osu-cass/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jordane": 1,
+    "lucywyman": 5,
+    "chancez": 6,
+    "iankronquist": 25,
+    "Kennric": 35,
+    "MaraJade": 123,
+    "iCHAIT": 207,
+    "tschuy": 454
+  },
+  "pulls_authors": [
+    "Kennric",
+    "iCHAIT",
+    "tschuy",
+    "sandeepmadaan",
+    "iankronquist",
+    "lucywyman",
+    "chancez",
+    "jordane"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 330478,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 51855,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 18395,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 12322,
+      "color": "#563d7c"
+    },
+    "Ruby": {
+      "bytes": 867,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-03T17:15:07.993Z"
+}

@@ -1,0 +1,99 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ngx-toastr",
+  "full_name": "scttcper/ngx-toastr",
+  "owner": "scttcper",
+  "private": false,
+  "html_url": "https://github.com/scttcper/ngx-toastr",
+  "description": "🍞 Angular Toastr",
+  "fork": false,
+  "url": "https://api.github.com/repos/scttcper/ngx-toastr",
+  "languages_url": "https://api.github.com/repos/scttcper/ngx-toastr/languages",
+  "pulls_url": "https://api.github.com/repos/scttcper/ngx-toastr/pulls{/number}",
+  "created_at": "2016-07-28T17:19:43Z",
+  "updated_at": "2018-09-13T11:14:08Z",
+  "pushed_at": "2018-09-12T17:50:34Z",
+  "homepage": "https://scttcper.github.io/ngx-toastr/",
+  "size": 3171,
+  "stargazers_count": 733,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "hijamoya": 1,
+    "yutamago": 1,
+    "jlberrocal": 1,
+    "PascalHonegger": 1,
+    "ccntrq": 1,
+    "Zeldaze": 1,
+    "cmckni3": 1,
+    "superMDguy": 1,
+    "dherges": 1,
+    "w3cways": 1,
+    "tschettler": 1,
+    "sylvainpolletvillard": 1,
+    "chris-allen": 2,
+    "PhilippStein": 2,
+    "greenkeeperio-bot": 2,
+    "renovate[bot]": 17,
+    "yarrgh": 19,
+    "greenkeeper[bot]": 41,
+    "renovate-bot": 87,
+    "scttcper": 572
+  },
+  "pulls_authors": [
+    "theCrius",
+    "renovate[bot]",
+    "rkettelerij",
+    "scttcper",
+    "hijamoya",
+    "yutamago",
+    "chris-allen",
+    "yarrgh",
+    "meta72",
+    "jlberrocal",
+    "velvok",
+    "PascalHonegger",
+    "greenkeeper[bot]",
+    "riginoommen",
+    "ccntrq",
+    "PhilippStein",
+    "Zeldaze",
+    "cmckni3",
+    "thejewdude",
+    "superMDguy",
+    "dherges",
+    "w3cways",
+    "tschettler",
+    "dzonatan",
+    "greenkeeperio-bot",
+    "sylvainpolletvillard"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 69655,
+      "color": "#2b7489"
+    },
+    "CSS": {
+      "bytes": 25665,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 17786,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 1243,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-13T17:03:34.142Z"
+}

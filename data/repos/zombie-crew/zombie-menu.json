@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "zombie-menu",
+  "full_name": "zombie-crew/zombie-menu",
+  "owner": "zombie-crew",
+  "private": false,
+  "html_url": "https://github.com/zombie-crew/zombie-menu",
+  "description": "All things Zombie and Zombie Menu!",
+  "fork": false,
+  "url": "https://api.github.com/repos/zombie-crew/zombie-menu",
+  "languages_url": "https://api.github.com/repos/zombie-crew/zombie-menu/languages",
+  "pulls_url": "https://api.github.com/repos/zombie-crew/zombie-menu/pulls{/number}",
+  "created_at": "2013-03-16T14:50:35Z",
+  "updated_at": "2016-12-10T05:47:00Z",
+  "pushed_at": "2014-09-20T15:41:06Z",
+  "homepage": "http://quadropolis.us/node/3716",
+  "size": 1430,
+  "stargazers_count": 2,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "zombie-crew",
+    "id": 3883667,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM4ODM2Njc=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/3883667?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/zombie-crew",
+    "html_url": "https://github.com/zombie-crew",
+    "followers_url": "https://api.github.com/users/zombie-crew/followers",
+    "following_url": "https://api.github.com/users/zombie-crew/following{/other_user}",
+    "gists_url": "https://api.github.com/users/zombie-crew/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/zombie-crew/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/zombie-crew/subscriptions",
+    "organizations_url": "https://api.github.com/users/zombie-crew/orgs",
+    "repos_url": "https://api.github.com/users/zombie-crew/repos",
+    "events_url": "https://api.github.com/users/zombie-crew/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/zombie-crew/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "kroltan": 6,
+    "zMEOW": 15
+  },
+  "pulls_authors": [
+    "Croydon",
+    "8075"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-12T15:49:29.611Z"
+}

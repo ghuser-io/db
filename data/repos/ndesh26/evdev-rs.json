@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "evdev-rs",
+  "full_name": "ndesh26/evdev-rs",
+  "owner": "ndesh26",
+  "private": false,
+  "html_url": "https://github.com/ndesh26/evdev-rs",
+  "description": "Rust bindings for libevdev",
+  "fork": false,
+  "url": "https://api.github.com/repos/ndesh26/evdev-rs",
+  "languages_url": "https://api.github.com/repos/ndesh26/evdev-rs/languages",
+  "pulls_url": "https://api.github.com/repos/ndesh26/evdev-rs/pulls{/number}",
+  "created_at": "2016-12-06T17:02:17Z",
+  "updated_at": "2018-09-03T02:20:36Z",
+  "pushed_at": "2018-07-26T19:36:16Z",
+  "homepage": "",
+  "size": 969,
+  "stargazers_count": 5,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "huntaub": 2,
+    "soenkehahn": 6,
+    "whot": 12,
+    "ndesh26": 85
+  },
+  "pulls_authors": [
+    "ndesh26",
+    "soenkehahn",
+    "huntaub"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 116767,
+      "color": "#dea584"
+    },
+    "Python": {
+      "bytes": 6211,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 294,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:44:37.849Z"
+}

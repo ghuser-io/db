@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "osx-and-ios-security-awesome",
+  "full_name": "ashishb/osx-and-ios-security-awesome",
+  "owner": "ashishb",
+  "private": false,
+  "html_url": "https://github.com/ashishb/osx-and-ios-security-awesome",
+  "description": "OSX and iOS related security tools",
+  "fork": false,
+  "url": "https://api.github.com/repos/ashishb/osx-and-ios-security-awesome",
+  "languages_url": "https://api.github.com/repos/ashishb/osx-and-ios-security-awesome/languages",
+  "created_at": "2015-01-13T09:31:05Z",
+  "updated_at": "2018-09-11T22:36:34Z",
+  "pushed_at": "2018-09-11T22:36:33Z",
+  "homepage": "",
+  "size": 19,
+  "stargazers_count": 453,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "friedbutter": 1,
+    "jaredthecoder": 1,
+    "alichtman": 3,
+    "ashishb": 16,
+    "mobsecteam": 2
+  },
+  "languages": {},
+  "fetched_at": "2018-09-12T04:56:03.395Z",
+  "pulls_url": "https://api.github.com/repos/ashishb/osx-and-ios-security-awesome/pulls{/number}",
+  "pulls_authors": [
+    "alichtman",
+    "proxyblue",
+    "friedbutter",
+    "keylowe",
+    "jaredthecoder",
+    "LuqiPan",
+    "mobsecteam"
+  ]
+}

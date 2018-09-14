@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "che-ls-jdt",
+  "full_name": "eclipse/che-ls-jdt",
+  "owner": "eclipse",
+  "private": false,
+  "html_url": "https://github.com/eclipse/che-ls-jdt",
+  "description": "che-ls-jdt",
+  "fork": false,
+  "url": "https://api.github.com/repos/eclipse/che-ls-jdt",
+  "languages_url": "https://api.github.com/repos/eclipse/che-ls-jdt/languages",
+  "pulls_url": "https://api.github.com/repos/eclipse/che-ls-jdt/pulls{/number}",
+  "created_at": "2017-10-23T16:08:37Z",
+  "updated_at": "2018-09-12T11:18:51Z",
+  "pushed_at": "2018-09-12T11:18:50Z",
+  "homepage": null,
+  "size": 873,
+  "stargazers_count": 3,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "epl-2.0",
+    "name": "Eclipse Public License 2.0",
+    "spdx_id": "EPL-2.0",
+    "url": "https://api.github.com/licenses/epl-2.0",
+    "node_id": "MDc6TGljZW5zZTMy"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "eclipse",
+    "id": 56974,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjU2OTc0",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/56974?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/eclipse",
+    "html_url": "https://github.com/eclipse",
+    "followers_url": "https://api.github.com/users/eclipse/followers",
+    "following_url": "https://api.github.com/users/eclipse/following{/other_user}",
+    "gists_url": "https://api.github.com/users/eclipse/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/eclipse/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/eclipse/subscriptions",
+    "organizations_url": "https://api.github.com/users/eclipse/orgs",
+    "repos_url": "https://api.github.com/users/eclipse/repos",
+    "events_url": "https://api.github.com/users/eclipse/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/eclipse/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "fbricon": 1,
+    "benoitf": 1,
+    "bdshadow": 2,
+    "JPinkney": 3,
+    "vrubezhny": 6,
+    "mmorhun": 6,
+    "tsmaeder": 18,
+    "svor": 25,
+    "tolusha": 30
+  },
+  "pulls_authors": [
+    "tsmaeder",
+    "svor",
+    "vrubezhny",
+    "tolusha",
+    "JPinkney",
+    "fbricon",
+    "riuvshin",
+    "mmorhun",
+    "bdshadow"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 454188,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:30.235Z"
+}

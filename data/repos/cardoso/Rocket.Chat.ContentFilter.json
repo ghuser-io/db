@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Rocket.Chat.ContentFilter",
+  "full_name": "cardoso/Rocket.Chat.ContentFilter",
+  "owner": "cardoso",
+  "private": false,
+  "html_url": "https://github.com/cardoso/Rocket.Chat.ContentFilter",
+  "description": "⛔️ Content Filter App for Rocket.Chat - keep scammers and undesirable content out of your server",
+  "fork": false,
+  "url": "https://api.github.com/repos/cardoso/Rocket.Chat.ContentFilter",
+  "languages_url": "https://api.github.com/repos/cardoso/Rocket.Chat.ContentFilter/languages",
+  "pulls_url": "https://api.github.com/repos/cardoso/Rocket.Chat.ContentFilter/pulls{/number}",
+  "created_at": "2018-09-08T03:11:41Z",
+  "updated_at": "2018-09-11T17:39:16Z",
+  "pushed_at": "2018-09-08T22:22:58Z",
+  "homepage": "https://rocket.chat",
+  "size": 924,
+  "stargazers_count": 5,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cardoso": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "TypeScript": {
+      "bytes": 3058,
+      "color": "#2b7489"
+    }
+  },
+  "fetched_at": "2018-09-11T20:45:30.203Z"
+}

@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bloomex",
+  "full_name": "gmcabrita/bloomex",
+  "owner": "gmcabrita",
+  "private": false,
+  "html_url": "https://github.com/gmcabrita/bloomex",
+  "description": ":hibiscus: A pure Elixir implementation of Scalable Bloom Filters",
+  "fork": false,
+  "url": "https://api.github.com/repos/gmcabrita/bloomex",
+  "languages_url": "https://api.github.com/repos/gmcabrita/bloomex/languages",
+  "pulls_url": "https://api.github.com/repos/gmcabrita/bloomex/pulls{/number}",
+  "created_at": "2014-10-19T23:43:40Z",
+  "updated_at": "2018-09-14T04:29:01Z",
+  "pushed_at": "2018-08-27T07:11:05Z",
+  "homepage": "",
+  "size": 69,
+  "stargazers_count": 50,
+  "language": "Elixir",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "parth-patil": 1,
+    "ricardobcl": 1,
+    "dependabot-bot": 11,
+    "gmcabrita": 66
+  },
+  "pulls_authors": [
+    "dependabot[bot]",
+    "parth-patil",
+    "ricardobcl"
+  ],
+  "languages": {
+    "Elixir": {
+      "bytes": 17739,
+      "color": "#6e4a7e"
+    }
+  },
+  "fetched_at": "2018-09-14T08:28:17.000Z"
+}

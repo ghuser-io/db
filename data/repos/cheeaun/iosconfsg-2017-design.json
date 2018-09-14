@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "iosconfsg-2017-design",
+  "full_name": "cheeaun/iosconfsg-2017-design",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/iosconfsg-2017-design",
+  "description": "Design files for iOSConf SG 2017",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/iosconfsg-2017-design",
+  "languages_url": "https://api.github.com/repos/cheeaun/iosconfsg-2017-design/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/iosconfsg-2017-design/pulls{/number}",
+  "created_at": "2017-08-04T14:06:59Z",
+  "updated_at": "2018-05-03T07:23:03Z",
+  "pushed_at": "2018-05-03T07:23:02Z",
+  "homepage": "http://iosconf.sg/",
+  "size": 1718,
+  "stargazers_count": 2,
+  "language": "OpenSCAD",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "tatatee": 2,
+    "cheeaun": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "OpenSCAD": {
+      "bytes": 2634,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:55.150Z"
+}

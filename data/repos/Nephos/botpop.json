@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "botpop",
+  "full_name": "Nephos/botpop",
+  "owner": "Nephos",
+  "private": false,
+  "html_url": "https://github.com/Nephos/botpop",
+  "description": "A simple and pluggable IRC bot based on Cinch",
+  "fork": false,
+  "url": "https://api.github.com/repos/Nephos/botpop",
+  "languages_url": "https://api.github.com/repos/Nephos/botpop/languages",
+  "pulls_url": "https://api.github.com/repos/Nephos/botpop/pulls{/number}",
+  "created_at": "2015-04-30T00:12:49Z",
+  "updated_at": "2017-12-16T23:10:19Z",
+  "pushed_at": "2016-05-14T22:04:29Z",
+  "homepage": "",
+  "size": 211,
+  "stargazers_count": 10,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": true,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Lucie-Dispot": 1,
+    "deborahwwilliams": 1,
+    "moul": 1,
+    "JoycePF": 1,
+    "Shigugu": 2,
+    "ernestjkaufman": 3,
+    "FolenScare": 3
+  },
+  "pulls_authors": [
+    "Lucie-Dispot",
+    "Shigugu",
+    "deborahwwilliams",
+    "ernestjkaufman",
+    "Nephos",
+    "moul",
+    "FolenScare",
+    "JoycePF"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 51886,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:36.903Z"
+}

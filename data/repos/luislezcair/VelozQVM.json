@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "VelozQVM",
+  "full_name": "luislezcair/VelozQVM",
+  "owner": "luislezcair",
+  "private": false,
+  "html_url": "https://github.com/luislezcair/VelozQVM",
+  "description": "Custom Tremulous QVM with GeoIP support",
+  "fork": false,
+  "url": "https://api.github.com/repos/luislezcair/VelozQVM",
+  "languages_url": "https://api.github.com/repos/luislezcair/VelozQVM/languages",
+  "pulls_url": "https://api.github.com/repos/luislezcair/VelozQVM/pulls{/number}",
+  "created_at": "2013-09-23T02:09:44Z",
+  "updated_at": "2014-11-16T20:38:01Z",
+  "pushed_at": "2013-10-04T19:13:02Z",
+  "homepage": null,
+  "size": 1325,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "luislezcair": 63
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 2076805,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 15913,
+      "color": "#f34b7d"
+    },
+    "Objective-C": {
+      "bytes": 10794,
+      "color": "#438eff"
+    },
+    "Assembly": {
+      "bytes": 2452,
+      "color": "#6E4C13"
+    },
+    "Shell": {
+      "bytes": 119,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T00:05:55.105Z"
+}

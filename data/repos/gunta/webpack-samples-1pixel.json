@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "webpack-samples-1pixel",
+  "full_name": "gunta/webpack-samples-1pixel",
+  "owner": "gunta",
+  "private": false,
+  "html_url": "https://github.com/gunta/webpack-samples-1pixel",
+  "description": "WebPack Samples for 1pixel",
+  "fork": false,
+  "url": "https://api.github.com/repos/gunta/webpack-samples-1pixel",
+  "languages_url": "https://api.github.com/repos/gunta/webpack-samples-1pixel/languages",
+  "pulls_url": "https://api.github.com/repos/gunta/webpack-samples-1pixel/pulls{/number}",
+  "created_at": "2014-06-23T09:35:09Z",
+  "updated_at": "2018-08-29T00:18:52Z",
+  "pushed_at": "2015-06-15T17:45:39Z",
+  "homepage": null,
+  "size": 386,
+  "stargazers_count": 24,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dalinaum": 3,
+    "gunta": 6
+  },
+  "pulls_authors": [
+    "arthurvr",
+    "dalinaum"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 11954,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 8862,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 585,
+      "color": "#563d7c"
+    },
+    "CoffeeScript": {
+      "bytes": 290,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-11T23:06:04.085Z"
+}

@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "seneca-in-practice",
+  "full_name": "maxired/seneca-in-practice",
+  "owner": "maxired",
+  "private": false,
+  "html_url": "https://github.com/maxired/seneca-in-practice",
+  "description": "Seneca.js (http://senecajs.org/) NodeSchool workshop",
+  "fork": true,
+  "url": "https://api.github.com/repos/maxired/seneca-in-practice",
+  "languages_url": "https://api.github.com/repos/maxired/seneca-in-practice/languages",
+  "pulls_url": "https://api.github.com/repos/maxired/seneca-in-practice/pulls{/number}",
+  "created_at": "2015-10-06T13:37:02Z",
+  "updated_at": "2015-10-06T14:00:06Z",
+  "pushed_at": "2015-10-06T13:37:47Z",
+  "homepage": null,
+  "size": 95,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "gitter-badger": 1,
+    "maxired": 2,
+    "marcopiraccini": 15
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 4313,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:34.168Z"
+}

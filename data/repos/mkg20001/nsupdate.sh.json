@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nsupdate.sh",
+  "full_name": "mkg20001/nsupdate.sh",
+  "owner": "mkg20001",
+  "private": false,
+  "html_url": "https://github.com/mkg20001/nsupdate.sh",
+  "description": "Simple nsupdate.info daemon service script",
+  "fork": false,
+  "url": "https://api.github.com/repos/mkg20001/nsupdate.sh",
+  "languages_url": "https://api.github.com/repos/mkg20001/nsupdate.sh/languages",
+  "pulls_url": "https://api.github.com/repos/mkg20001/nsupdate.sh/pulls{/number}",
+  "created_at": "2018-08-15T15:21:43Z",
+  "updated_at": "2018-08-15T17:02:30Z",
+  "pushed_at": "2018-08-15T17:02:28Z",
+  "homepage": null,
+  "size": 8,
+  "stargazers_count": 1,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mkg20001": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 1989,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 268,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:20.846Z"
+}

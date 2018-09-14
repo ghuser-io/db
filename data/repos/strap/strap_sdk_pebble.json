@@ -1,0 +1,88 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "strap_sdk_pebble",
+  "full_name": "strap/strap_sdk_pebble",
+  "owner": "strap",
+  "private": false,
+  "html_url": "https://github.com/strap/strap_sdk_pebble",
+  "description": "Strap Metrics SDK for Pebble",
+  "fork": false,
+  "url": "https://api.github.com/repos/strap/strap_sdk_pebble",
+  "languages_url": "https://api.github.com/repos/strap/strap_sdk_pebble/languages",
+  "pulls_url": "https://api.github.com/repos/strap/strap_sdk_pebble/pulls{/number}",
+  "created_at": "2014-03-18T16:19:25Z",
+  "updated_at": "2016-10-08T06:36:55Z",
+  "pushed_at": "2014-12-16T18:50:46Z",
+  "homepage": "",
+  "size": 1109,
+  "stargazers_count": 19,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "strap",
+    "id": 7231644,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjcyMzE2NDQ=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/7231644?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/strap",
+    "html_url": "https://github.com/strap",
+    "followers_url": "https://api.github.com/users/strap/followers",
+    "following_url": "https://api.github.com/users/strap/following{/other_user}",
+    "gists_url": "https://api.github.com/users/strap/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/strap/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/strap/subscriptions",
+    "organizations_url": "https://api.github.com/users/strap/orgs",
+    "repos_url": "https://api.github.com/users/strap/repos",
+    "events_url": "https://api.github.com/users/strap/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/strap/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "laanak08": 1,
+    "thunsaker": 1,
+    "cheniel": 3
+  },
+  "pulls_authors": [
+    "maxdubrinsky",
+    "laanak08",
+    "cheniel",
+    "thunsaker"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 163408,
+      "color": "#555555"
+    },
+    "JavaScript": {
+      "bytes": 126569,
+      "color": "#f1e05a"
+    },
+    "Objective-C": {
+      "bytes": 9225,
+      "color": "#438eff"
+    },
+    "C++": {
+      "bytes": 6938,
+      "color": "#f34b7d"
+    },
+    "Python": {
+      "bytes": 5771,
+      "color": "#3572A5"
+    },
+    "Java": {
+      "bytes": 5509,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:08.399Z"
+}

@@ -1,0 +1,129 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "SAFE-Stack/SAFE-BookStore": {
+      "full_name": "SAFE-Stack/SAFE-BookStore",
+      "name": "SAFE-BookStore",
+      "stargazers_count": 357,
+      "popularity": 3.551611051351146,
+      "percentage": 0.1773049645390071,
+      "maturity": 3.721150147678327,
+      "total_commits_count": 564,
+      "activity": 5,
+      "total_score": 23.17899682470719,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "SaturnFramework/Saturn.Template": {
+      "full_name": "SaturnFramework/Saturn.Template",
+      "name": "Saturn.Template",
+      "stargazers_count": 7,
+      "popularity": 1.7853682828948099,
+      "percentage": 2.7777777777777777,
+      "maturity": 0,
+      "total_commits_count": 36,
+      "activity": 5,
+      "total_score": 11.00082117306311,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "rheinspree/discourse-youtrack-plugin": {
+      "full_name": "rheinspree/discourse-youtrack-plugin",
+      "name": "discourse-youtrack-plugin",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 9,
+      "activity": 0.9697329622092825,
+      "total_score": 0.9697329622092825,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "thunklife/fsharp-suave-demo": {
+      "full_name": "thunklife/fsharp-suave-demo",
+      "name": "fsharp-suave-demo",
+      "stargazers_count": 6,
+      "popularity": 1.7076084983408428,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 0.8893030933752772,
+      "total_score": 28.21103906682876,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "MassTransit/MassTransit": {
+      "full_name": "MassTransit/MassTransit",
+      "name": "MassTransit",
+      "stargazers_count": 1703,
+      "popularity": 4.2310241580704355,
+      "percentage": 0.023837902264600714,
+      "maturity": 4.620317757233992,
+      "total_commits_count": 4195,
+      "activity": 5,
+      "total_score": 26.946819624925993,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jishi/node-sonos-http-api": {
+      "full_name": "jishi/node-sonos-http-api",
+      "name": "node-sonos-http-api",
+      "stargazers_count": 1235,
+      "popularity": 4.091389437799614,
+      "percentage": 0.24449877750611246,
+      "maturity": 3.568879894324729,
+      "total_commits_count": 409,
+      "activity": 5,
+      "total_score": 24.541972265107944,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "rheinspree/YoutrackGitlab": {
+      "full_name": "rheinspree/YoutrackGitlab",
+      "name": "YoutrackGitlab",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 2.0845073675966073,
+      "total_commits_count": 52,
+      "activity": 0.6122183665075163,
+      "total_score": 4.781233101700731,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "fsharp/FAKE": {
+      "full_name": "fsharp/FAKE",
+      "name": "FAKE",
+      "stargazers_count": 904,
+      "popularity": 3.955774926602859,
+      "percentage": 0.03658090476771125,
+      "maturity": 4.913484996784165,
+      "total_commits_count": 8201,
+      "activity": 5,
+      "total_score": 26.71310653074034,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "brase/S-BUS": {
+      "full_name": "brase/S-BUS",
+      "name": "S-BUS",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 0.4481272841044248,
+      "total_score": 17.110978811191465,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "SAFE-Stack",
+    "SaturnFramework",
+    "rheinspree",
+    "MassTransit",
+    "fsharp"
+  ]
+}

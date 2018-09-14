@@ -1,0 +1,83 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nodezoo-github",
+  "full_name": "nodezoo/nodezoo-github",
+  "owner": "nodezoo",
+  "private": false,
+  "html_url": "https://github.com/nodezoo/nodezoo-github",
+  "description": "nodezoo-github",
+  "fork": false,
+  "url": "https://api.github.com/repos/nodezoo/nodezoo-github",
+  "languages_url": "https://api.github.com/repos/nodezoo/nodezoo-github/languages",
+  "pulls_url": "https://api.github.com/repos/nodezoo/nodezoo-github/pulls{/number}",
+  "created_at": "2014-09-03T21:27:35Z",
+  "updated_at": "2017-09-14T16:51:26Z",
+  "pushed_at": "2017-11-27T22:02:40Z",
+  "homepage": "http://github.com/nodezoo/tao",
+  "size": 156,
+  "stargazers_count": 8,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "nodezoo",
+    "id": 2903118,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI5MDMxMTg=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2903118?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/nodezoo",
+    "html_url": "https://github.com/nodezoo",
+    "followers_url": "https://api.github.com/users/nodezoo/followers",
+    "following_url": "https://api.github.com/users/nodezoo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/nodezoo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/nodezoo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/nodezoo/subscriptions",
+    "organizations_url": "https://api.github.com/users/nodezoo/orgs",
+    "repos_url": "https://api.github.com/users/nodezoo/repos",
+    "events_url": "https://api.github.com/users/nodezoo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/nodezoo/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "davidwroche": 1,
+    "eduardobs79": 1,
+    "naomifeehan": 1,
+    "paolochiodi": 2,
+    "pelger": 3,
+    "Georgette": 4,
+    "AdrianRossouw": 5,
+    "thekemkid": 7,
+    "matt-oc": 10,
+    "mirceaalexandru": 12,
+    "mcdonnelldean": 18,
+    "shanel262": 21,
+    "rjrodger": 28
+  },
+  "pulls_authors": [
+    "shanel262",
+    "mirceaalexandru",
+    "eduardobs79",
+    "matt-oc",
+    "mcdonnelldean",
+    "CodeWriterWriter",
+    "Georgette",
+    "AdrianRossouw",
+    "thekemkid",
+    "paolochiodi",
+    "naomifeehan"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 10005,
+      "color": "#f1e05a"
+    },
+    "Makefile": {
+      "bytes": 236,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:29.623Z"
+}

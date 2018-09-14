@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PorcupineZero",
+  "full_name": "nyumaya/PorcupineZero",
+  "owner": "nyumaya",
+  "private": false,
+  "html_url": "https://github.com/nyumaya/PorcupineZero",
+  "description": "Porcupine Hotword detection for the Raspberry Pi Zero",
+  "fork": false,
+  "url": "https://api.github.com/repos/nyumaya/PorcupineZero",
+  "languages_url": "https://api.github.com/repos/nyumaya/PorcupineZero/languages",
+  "pulls_url": "https://api.github.com/repos/nyumaya/PorcupineZero/pulls{/number}",
+  "created_at": "2018-06-24T14:12:21Z",
+  "updated_at": "2018-08-20T18:13:24Z",
+  "pushed_at": "2018-07-21T15:35:35Z",
+  "homepage": null,
+  "size": 8177,
+  "stargazers_count": 3,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "nyumaya",
+    "id": 30772919,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMwNzcyOTE5",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/30772919?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/nyumaya",
+    "html_url": "https://github.com/nyumaya",
+    "followers_url": "https://api.github.com/users/nyumaya/followers",
+    "following_url": "https://api.github.com/users/nyumaya/following{/other_user}",
+    "gists_url": "https://api.github.com/users/nyumaya/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/nyumaya/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/nyumaya/subscriptions",
+    "organizations_url": "https://api.github.com/users/nyumaya/orgs",
+    "repos_url": "https://api.github.com/users/nyumaya/repos",
+    "events_url": "https://api.github.com/users/nyumaya/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/nyumaya/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "zeratulok": 1,
+    "yodakohl": 13
+  },
+  "pulls_authors": [
+    "zeratulok"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 19685,
+      "color": "#dea584"
+    }
+  },
+  "fetched_at": "2018-09-12T16:54:21.935Z"
+}

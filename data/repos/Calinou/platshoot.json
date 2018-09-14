@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 22
+  },
+  "name": "platshoot",
+  "full_name": "Calinou/platshoot",
+  "owner": "Calinou",
+  "private": false,
+  "html_url": "https://github.com/Calinou/platshoot",
+  "description": "Platshoot, a free/libre 2D side-scroller shooter game",
+  "fork": false,
+  "url": "https://api.github.com/repos/Calinou/platshoot",
+  "languages_url": "https://api.github.com/repos/Calinou/platshoot/languages",
+  "created_at": "2016-01-18T12:26:18Z",
+  "updated_at": "2018-04-20T13:02:10Z",
+  "pushed_at": "2016-09-26T21:42:40Z",
+  "homepage": "https://archive.hugo.pro/platshoot/",
+  "size": 2169,
+  "stargazers_count": 25,
+  "language": "GDScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "languages": {
+    "GDScript": {
+      "bytes": 20048,
+      "color": "#355570"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/Calinou/platshoot/pulls{/number}",
+  "pulls_authors": [
+    "tadhgok"
+  ]
+}

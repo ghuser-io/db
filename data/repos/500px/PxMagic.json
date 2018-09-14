@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PxMagic",
+  "full_name": "500px/PxMagic",
+  "owner": "500px",
+  "private": false,
+  "html_url": "https://github.com/500px/PxMagic",
+  "description": "this a wrapper, made in python, for using the 500px api",
+  "fork": false,
+  "url": "https://api.github.com/repos/500px/PxMagic",
+  "languages_url": "https://api.github.com/repos/500px/PxMagic/languages",
+  "pulls_url": "https://api.github.com/repos/500px/PxMagic/pulls{/number}",
+  "created_at": "2012-01-19T22:22:03Z",
+  "updated_at": "2017-04-29T16:40:27Z",
+  "pushed_at": "2013-05-03T02:02:23Z",
+  "homepage": null,
+  "size": 362,
+  "stargazers_count": 27,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "500px",
+    "id": 1775300,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3NzUzMDA=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/1775300?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/500px",
+    "html_url": "https://github.com/500px",
+    "followers_url": "https://api.github.com/users/500px/followers",
+    "following_url": "https://api.github.com/users/500px/following{/other_user}",
+    "gists_url": "https://api.github.com/users/500px/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/500px/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/500px/subscriptions",
+    "organizations_url": "https://api.github.com/users/500px/orgs",
+    "repos_url": "https://api.github.com/users/500px/repos",
+    "events_url": "https://api.github.com/users/500px/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/500px/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "arthurnn": 15,
+    "zachaysan": 157
+  },
+  "pulls_authors": [
+    "toyg",
+    "zachaysan"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 88861,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:04.759Z"
+}

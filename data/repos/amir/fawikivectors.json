@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fawikivectors",
+  "full_name": "amir/fawikivectors",
+  "owner": "amir",
+  "private": false,
+  "html_url": "https://github.com/amir/fawikivectors",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/amir/fawikivectors",
+  "languages_url": "https://api.github.com/repos/amir/fawikivectors/languages",
+  "pulls_url": "https://api.github.com/repos/amir/fawikivectors/pulls{/number}",
+  "created_at": "2014-02-23T13:05:58Z",
+  "updated_at": "2017-01-22T23:03:25Z",
+  "pushed_at": "2014-02-23T19:37:33Z",
+  "homepage": "http://fawikivectors.appspot.com/",
+  "size": 129,
+  "stargazers_count": 12,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "amir": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 5102,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T22:27:01.394Z"
+}

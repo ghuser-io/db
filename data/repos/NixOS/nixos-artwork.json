@@ -1,0 +1,91 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nixos-artwork",
+  "full_name": "NixOS/nixos-artwork",
+  "owner": "NixOS",
+  "private": false,
+  "html_url": "https://github.com/NixOS/nixos-artwork",
+  "description": "Nix related artwork",
+  "fork": false,
+  "url": "https://api.github.com/repos/NixOS/nixos-artwork",
+  "languages_url": "https://api.github.com/repos/NixOS/nixos-artwork/languages",
+  "pulls_url": "https://api.github.com/repos/NixOS/nixos-artwork/pulls{/number}",
+  "created_at": "2014-10-24T09:53:25Z",
+  "updated_at": "2018-09-01T17:11:29Z",
+  "pushed_at": "2018-09-01T17:11:27Z",
+  "homepage": null,
+  "size": 92855,
+  "stargazers_count": 17,
+  "language": "OpenSCAD",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "NixOS",
+    "id": 487568,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ4NzU2OA==",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/487568?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/NixOS",
+    "html_url": "https://github.com/NixOS",
+    "followers_url": "https://api.github.com/users/NixOS/followers",
+    "following_url": "https://api.github.com/users/NixOS/following{/other_user}",
+    "gists_url": "https://api.github.com/users/NixOS/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/NixOS/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/NixOS/subscriptions",
+    "organizations_url": "https://api.github.com/users/NixOS/orgs",
+    "repos_url": "https://api.github.com/users/NixOS/repos",
+    "events_url": "https://api.github.com/users/NixOS/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/NixOS/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "wmertens": 1,
+    "grahamc": 1,
+    "Profpatsch": 1,
+    "ericsagnes": 1,
+    "offlinehacker": 1,
+    "mogorman": 2,
+    "jagajaga": 2,
+    "cillianderoiste": 2,
+    "robberer": 2,
+    "benley": 3,
+    "lethalman": 9,
+    "samueldr": 28
+  },
+  "pulls_authors": [
+    "samueldr",
+    "mogorman",
+    "wmertens",
+    "grahamc",
+    "Profpatsch",
+    "benley",
+    "ericsagnes",
+    "jagajaga",
+    "cillianderoiste",
+    "offlinehacker",
+    "ivernus",
+    "robberer"
+  ],
+  "languages": {
+    "OpenSCAD": {
+      "bytes": 2946,
+      "color": "#ccc"
+    },
+    "Nix": {
+      "bytes": 2295,
+      "color": "#7e7eff"
+    },
+    "Makefile": {
+      "bytes": 941,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 743,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:44.428Z"
+}

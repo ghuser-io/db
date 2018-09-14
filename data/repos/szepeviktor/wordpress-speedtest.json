@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wordpress-speedtest",
+  "full_name": "szepeviktor/wordpress-speedtest",
+  "owner": "szepeviktor",
+  "private": false,
+  "html_url": "https://github.com/szepeviktor/wordpress-speedtest",
+  "description": "VPS Speedtest for WordPress  with 160+ results - raw memory and CPU benchmark",
+  "fork": false,
+  "url": "https://api.github.com/repos/szepeviktor/wordpress-speedtest",
+  "languages_url": "https://api.github.com/repos/szepeviktor/wordpress-speedtest/languages",
+  "pulls_url": "https://api.github.com/repos/szepeviktor/wordpress-speedtest/pulls{/number}",
+  "created_at": "2015-06-22T16:06:43Z",
+  "updated_at": "2018-09-05T16:49:20Z",
+  "pushed_at": "2018-04-04T11:36:20Z",
+  "homepage": "https://github.com/szepeviktor/debian-server-tools/blob/master/CV.md",
+  "size": 1688,
+  "stargazers_count": 35,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "pejotes": 1,
+    "moul": 1,
+    "szepeviktor": 170
+  },
+  "pulls_authors": [
+    "pejotes",
+    "moul"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 607517,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 39974,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 361,
+      "color": "#89e051"
+    },
+    "HTML": {
+      "bytes": 39,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-05T20:21:21.187Z"
+}

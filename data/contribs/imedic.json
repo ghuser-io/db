@@ -1,0 +1,19 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "mbrizic/funny-coso-memes": {
+      "full_name": "mbrizic/funny-coso-memes",
+      "name": "funny-coso-memes",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 0.6926682853201322,
+      "total_score": 0.6926682853201322,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

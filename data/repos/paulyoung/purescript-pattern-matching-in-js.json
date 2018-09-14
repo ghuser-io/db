@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "purescript-pattern-matching-in-js",
+  "full_name": "paulyoung/purescript-pattern-matching-in-js",
+  "owner": "paulyoung",
+  "private": false,
+  "html_url": "https://github.com/paulyoung/purescript-pattern-matching-in-js",
+  "description": "PureScript Pattern Matching in JS",
+  "fork": false,
+  "url": "https://api.github.com/repos/paulyoung/purescript-pattern-matching-in-js",
+  "languages_url": "https://api.github.com/repos/paulyoung/purescript-pattern-matching-in-js/languages",
+  "pulls_url": "https://api.github.com/repos/paulyoung/purescript-pattern-matching-in-js/pulls{/number}",
+  "created_at": "2017-11-03T08:11:49Z",
+  "updated_at": "2018-04-05T11:38:23Z",
+  "pushed_at": "2017-11-03T08:35:43Z",
+  "homepage": null,
+  "size": 4,
+  "stargazers_count": 9,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "paulyoung": 2
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-08T12:40:51.949Z"
+}

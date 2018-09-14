@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "snaptext",
+  "full_name": "schollz/snaptext",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/snaptext",
+  "description": "A simple webapp to send and receive self-destructing messages in real-time. :envelope: :zap:",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/snaptext",
+  "languages_url": "https://api.github.com/repos/schollz/snaptext/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/snaptext/pulls{/number}",
+  "created_at": "2018-02-18T19:03:34Z",
+  "updated_at": "2018-09-12T10:35:03Z",
+  "pushed_at": "2018-07-09T13:01:27Z",
+  "homepage": "https://snaptext.live",
+  "size": 5525,
+  "stargazers_count": 32,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 46
+  },
+  "pulls_authors": [
+    "schollz"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 20587,
+      "color": "#375eab"
+    },
+    "HTML": {
+      "bytes": 13292,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 414,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T16:49:10.261Z"
+}

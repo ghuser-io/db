@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "find-lf",
+  "full_name": "schollz/find-lf",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/find-lf",
+  "description": "Track the location of every Wi-Fi device (:iphone:) in your house using Raspberry Pis and FIND",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/find-lf",
+  "languages_url": "https://api.github.com/repos/schollz/find-lf/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/find-lf/pulls{/number}",
+  "created_at": "2016-12-06T20:17:38Z",
+  "updated_at": "2018-09-06T06:39:46Z",
+  "pushed_at": "2018-01-25T08:45:06Z",
+  "homepage": "https://www.internalpositioning.com/plugins/#using-find-without-an-app",
+  "size": 1244,
+  "stargazers_count": 557,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mzealey": 1,
+    "schollz": 113
+  },
+  "pulls_authors": [
+    "BS1A",
+    "roch23",
+    "mzealey",
+    "schollz"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 9035,
+      "color": "#375eab"
+    },
+    "Python": {
+      "bytes": 7366,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 516,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:36.250Z"
+}

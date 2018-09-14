@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "agatti",
+  "ghuser_created_at": "2018-09-11T08:35:12.238Z",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/235740?v=4",
+  "html_url": "https://github.com/agatti",
+  "organizations_url": "https://api.github.com/users/agatti/orgs",
+  "repos_url": "https://api.github.com/users/agatti/repos",
+  "type": "User",
+  "name": "Alessandro Gatti",
+  "company": "Tardigrade SNC",
+  "blog": "https://www.linkedin.com/in/alessandrogatti/",
+  "location": "Spoleto, Italy",
+  "email": null,
+  "bio": "Mobile, embedded, desktop, and anything in between (or anything but web front-end, I guess).  Available for consulting in both APAC and EMEA regions.",
+  "public_gists": 9,
+  "created_at": "2010-04-02T14:39:13Z",
+  "updated_at": "2018-07-04T21:54:51Z",
+  "organizations": [
+    "BusPirate"
+  ],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:08:50.289Z",
+    "repos": [
+      "agatti/hopper-plugins",
+      "Ralim/ts100",
+      "agatti/sixtyfourterm",
+      "rbuj/FreeRouting",
+      "agatti/chmox",
+      "makigumo/hopper-xcode-templates",
+      "BusPirate/hardware",
+      "agatti/librfc6298",
+      "agatti/andsource",
+      "BusPirate/Bus_Pirate",
+      "agatti/i2c-converter",
+      "agatti/auto-value-neuter-tostring",
+      "agatti/disholtek",
+      "pwittchen/ReactiveWiFi",
+      "Homebrew/homebrew-core",
+      "afollestad/material-dialogs",
+      "Homebrew/legacy-homebrew",
+      "esparta-io/generator-android-hipster",
+      "KanjiVG/kanjivg",
+      "esseks/monicelli",
+      "agatti/TalkingTextView",
+      "mnaberez/py65"
+    ]
+  }
+}

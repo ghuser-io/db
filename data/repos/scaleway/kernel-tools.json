@@ -1,0 +1,102 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "kernel-tools",
+  "full_name": "scaleway/kernel-tools",
+  "owner": "scaleway",
+  "private": false,
+  "html_url": "https://github.com/scaleway/kernel-tools",
+  "description": ":penguin: Kernels on Scaleway",
+  "fork": false,
+  "url": "https://api.github.com/repos/scaleway/kernel-tools",
+  "languages_url": "https://api.github.com/repos/scaleway/kernel-tools/languages",
+  "pulls_url": "https://api.github.com/repos/scaleway/kernel-tools/pulls{/number}",
+  "created_at": "2014-10-16T08:55:50Z",
+  "updated_at": "2018-09-12T01:50:34Z",
+  "pushed_at": "2017-10-18T12:01:40Z",
+  "homepage": "http://devhub.scaleway.com/#/bootscripts",
+  "size": 15174,
+  "stargazers_count": 89,
+  "language": "Makefile",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "scaleway",
+    "id": 5185491,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjUxODU0OTE=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/5185491?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/scaleway",
+    "html_url": "https://github.com/scaleway",
+    "followers_url": "https://api.github.com/users/scaleway/followers",
+    "following_url": "https://api.github.com/users/scaleway/following{/other_user}",
+    "gists_url": "https://api.github.com/users/scaleway/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/scaleway/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/scaleway/subscriptions",
+    "organizations_url": "https://api.github.com/users/scaleway/orgs",
+    "repos_url": "https://api.github.com/users/scaleway/repos",
+    "events_url": "https://api.github.com/users/scaleway/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/scaleway/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "furusiyya": 1,
+    "joelisaa": 1,
+    "rushmorem": 1,
+    "jmthackett": 1,
+    "jannic": 1,
+    "brmzkw": 2,
+    "meyskens": 2,
+    "newtoncorp": 2,
+    "zx2c4": 3,
+    "superseed": 4,
+    "bchatelard": 8,
+    "tbillon": 10,
+    "kwizart": 11,
+    "aimxhaisse": 69,
+    "QuentinPerez": 75,
+    "moul": 445
+  },
+  "pulls_authors": [
+    "xataz",
+    "valkum",
+    "Xiretza",
+    "superseed",
+    "rstub",
+    "zx2c4",
+    "bchatelard",
+    "moul",
+    "meyskens",
+    "QuentinPerez",
+    "joelisaa",
+    "furusiyya",
+    "rushmorem",
+    "newtoncorp",
+    "jmthackett",
+    "jannic",
+    "kwizart"
+  ],
+  "languages": {
+    "Makefile": {
+      "bytes": 16313,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 8250,
+      "color": "#89e051"
+    },
+    "C": {
+      "bytes": 3698,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T07:37:03.240Z"
+}

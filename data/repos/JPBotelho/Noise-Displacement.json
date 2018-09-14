@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Noise-Displacement",
+  "full_name": "JPBotelho/Noise-Displacement",
+  "owner": "JPBotelho",
+  "private": false,
+  "html_url": "https://github.com/JPBotelho/Noise-Displacement",
+  "description": "A noise-based displacement shader that gives you some funky effects.",
+  "fork": false,
+  "url": "https://api.github.com/repos/JPBotelho/Noise-Displacement",
+  "languages_url": "https://api.github.com/repos/JPBotelho/Noise-Displacement/languages",
+  "pulls_url": "https://api.github.com/repos/JPBotelho/Noise-Displacement/pulls{/number}",
+  "created_at": "2018-02-23T08:58:10Z",
+  "updated_at": "2018-07-25T10:02:24Z",
+  "pushed_at": "2018-05-13T13:37:16Z",
+  "homepage": null,
+  "size": 776,
+  "stargazers_count": 12,
+  "language": "ShaderLab",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "JPBotelho": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "ShaderLab": {
+      "bytes": 2675,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-08-17T14:57:55.219Z"
+}

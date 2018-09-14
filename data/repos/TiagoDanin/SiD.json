@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SiD",
+  "full_name": "TiagoDanin/SiD",
+  "owner": "TiagoDanin",
+  "private": false,
+  "html_url": "https://github.com/TiagoDanin/SiD",
+  "description": "SiDBot V4 Based on otouto v3.2 by topkecleon",
+  "fork": false,
+  "url": "https://api.github.com/repos/TiagoDanin/SiD",
+  "languages_url": "https://api.github.com/repos/TiagoDanin/SiD/languages",
+  "pulls_url": "https://api.github.com/repos/TiagoDanin/SiD/pulls{/number}",
+  "created_at": "2016-03-01T15:31:41Z",
+  "updated_at": "2017-10-20T19:23:35Z",
+  "pushed_at": "2018-08-11T16:22:08Z",
+  "homepage": "https://tiagodanin.github.io/SiD",
+  "size": 445,
+  "stargazers_count": 8,
+  "language": "Lua",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Imandaneshi": 1,
+    "Akronix": 1,
+    "heitorPB": 2,
+    "cwxda": 2,
+    "VycktorStark": 4,
+    "bb010g": 4,
+    "topkecleon": 21,
+    "TiagoDanin": 35
+  },
+  "pulls_authors": [
+    "VycktorStark"
+  ],
+  "languages": {
+    "Lua": {
+      "bytes": 100944,
+      "color": "#000080"
+    },
+    "Shell": {
+      "bytes": 1299,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-12T17:48:20.581Z"
+}

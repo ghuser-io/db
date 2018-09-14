@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "munin-http-timing",
+  "full_name": "DigitalBackstage/munin-http-timing",
+  "owner": "DigitalBackstage",
+  "private": false,
+  "html_url": "https://github.com/DigitalBackstage/munin-http-timing",
+  "description": "Detailed HTTP load plugin for Munin.",
+  "fork": false,
+  "url": "https://api.github.com/repos/DigitalBackstage/munin-http-timing",
+  "languages_url": "https://api.github.com/repos/DigitalBackstage/munin-http-timing/languages",
+  "pulls_url": "https://api.github.com/repos/DigitalBackstage/munin-http-timing/pulls{/number}",
+  "created_at": "2016-10-18T13:47:20Z",
+  "updated_at": "2018-06-20T14:05:16Z",
+  "pushed_at": "2016-12-27T20:16:25Z",
+  "homepage": "",
+  "size": 111,
+  "stargazers_count": 4,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "DigitalBackstage",
+    "id": 17551739,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3NTUxNzM5",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/17551739?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/DigitalBackstage",
+    "html_url": "https://github.com/DigitalBackstage",
+    "followers_url": "https://api.github.com/users/DigitalBackstage/followers",
+    "following_url": "https://api.github.com/users/DigitalBackstage/following{/other_user}",
+    "gists_url": "https://api.github.com/users/DigitalBackstage/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/DigitalBackstage/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/DigitalBackstage/subscriptions",
+    "organizations_url": "https://api.github.com/users/DigitalBackstage/orgs",
+    "repos_url": "https://api.github.com/users/DigitalBackstage/repos",
+    "events_url": "https://api.github.com/users/DigitalBackstage/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/DigitalBackstage/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "L-P": 56
+  },
+  "pulls_authors": [
+    "L-P"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 22731,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 842,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T23:07:59.832Z"
+}

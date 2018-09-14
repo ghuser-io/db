@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "T-S-C",
+  "full_name": "debck/T-S-C",
+  "owner": "debck",
+  "private": false,
+  "html_url": "https://github.com/debck/T-S-C",
+  "description": " Java Swing  application to convert TEXT to SPEECH  🔉🔉 👥",
+  "fork": false,
+  "url": "https://api.github.com/repos/debck/T-S-C",
+  "languages_url": "https://api.github.com/repos/debck/T-S-C/languages",
+  "created_at": "2018-01-14T17:17:31Z",
+  "updated_at": "2018-08-25T19:19:33Z",
+  "pushed_at": "2018-08-05T05:44:25Z",
+  "homepage": "",
+  "size": 28146,
+  "stargazers_count": 2,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "debck": 4
+  },
+  "languages": {
+    "Java": {
+      "bytes": 4889,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-08-25T19:33:21.763Z",
+  "pulls_url": "https://api.github.com/repos/debck/T-S-C/pulls{/number}",
+  "pulls_authors": []
+}

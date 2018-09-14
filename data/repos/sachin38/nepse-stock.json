@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nepse-stock",
+  "full_name": "sachin38/nepse-stock",
+  "owner": "sachin38",
+  "private": false,
+  "html_url": "https://github.com/sachin38/nepse-stock",
+  "description": "Access nepse from terminal and track the status of your stock",
+  "fork": false,
+  "url": "https://api.github.com/repos/sachin38/nepse-stock",
+  "languages_url": "https://api.github.com/repos/sachin38/nepse-stock/languages",
+  "pulls_url": "https://api.github.com/repos/sachin38/nepse-stock/pulls{/number}",
+  "created_at": "2016-07-13T02:00:17Z",
+  "updated_at": "2017-04-03T10:46:17Z",
+  "pushed_at": "2017-06-04T11:24:40Z",
+  "homepage": "",
+  "size": 131,
+  "stargazers_count": 5,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sachin38": 27
+  },
+  "pulls_authors": [
+    "amitness",
+    "swornim00"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 4085,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:31.062Z"
+}

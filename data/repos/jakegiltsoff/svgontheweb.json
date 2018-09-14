@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "meritt": 1,
+    "Calinou": 1,
+    "premasagar": 1,
+    "chrisivens": 1,
+    "brianmontanaweb": 1,
+    "sujinleeme": 3,
+    "janily": 5,
+    "jakegiltsoff": 26
+  },
+  "name": "svgontheweb",
+  "full_name": "jakegiltsoff/svgontheweb",
+  "owner": "jakegiltsoff",
+  "private": false,
+  "html_url": "https://github.com/jakegiltsoff/svgontheweb",
+  "description": "Techniques you can use to prepare, implement, and work with SVGs on the web.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jakegiltsoff/svgontheweb",
+  "languages_url": "https://api.github.com/repos/jakegiltsoff/svgontheweb/languages",
+  "created_at": "2015-06-15T18:10:13Z",
+  "updated_at": "2018-09-02T11:50:01Z",
+  "pushed_at": "2018-03-18T13:50:29Z",
+  "homepage": "https://svgontheweb.com/",
+  "size": 258,
+  "stargazers_count": 159,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "languages": {
+    "HTML": {
+      "bytes": 246381,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 145062,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 793,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-02T14:31:53.625Z",
+  "pulls_url": "https://api.github.com/repos/jakegiltsoff/svgontheweb/pulls{/number}",
+  "pulls_authors": [
+    "thgaskell",
+    "nleduc",
+    "sujinleeme",
+    "meritt",
+    "Calinou",
+    "premasagar",
+    "janily",
+    "chrisivens",
+    "brianmontanaweb"
+  ]
+}

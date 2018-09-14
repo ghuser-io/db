@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "purescript-invertible-syntax",
+  "full_name": "paulyoung/purescript-invertible-syntax",
+  "owner": "paulyoung",
+  "private": false,
+  "html_url": "https://github.com/paulyoung/purescript-invertible-syntax",
+  "description": "A PureScript implementation of invertible syntax descriptions, from the paper Invertible Syntax Descriptions: Unifying Parsing and Pretty Printing (Rendel and Ostermann 2010)",
+  "fork": false,
+  "url": "https://api.github.com/repos/paulyoung/purescript-invertible-syntax",
+  "languages_url": "https://api.github.com/repos/paulyoung/purescript-invertible-syntax/languages",
+  "pulls_url": "https://api.github.com/repos/paulyoung/purescript-invertible-syntax/pulls{/number}",
+  "created_at": "2018-05-10T09:02:24Z",
+  "updated_at": "2018-05-12T18:36:22Z",
+  "pushed_at": "2018-05-11T04:10:29Z",
+  "homepage": null,
+  "size": 11,
+  "stargazers_count": 3,
+  "language": "PureScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "paulyoung": 3
+  },
+  "pulls_authors": [
+    "paulyoung"
+  ],
+  "languages": {
+    "PureScript": {
+      "bytes": 7108,
+      "color": "#1D222D"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:51.523Z"
+}

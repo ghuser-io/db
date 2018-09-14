@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "climate",
+  "full_name": "schollz/climate",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/climate",
+  "description": "The ultimate command line tool for Linux developers! Provides a huge number of tools for developers to automate their system.",
+  "fork": true,
+  "url": "https://api.github.com/repos/schollz/climate",
+  "languages_url": "https://api.github.com/repos/schollz/climate/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/climate/pulls{/number}",
+  "created_at": "2017-04-25T13:10:28Z",
+  "updated_at": "2017-05-27T07:54:35Z",
+  "pushed_at": "2017-02-25T16:29:41Z",
+  "homepage": "",
+  "size": 63,
+  "stargazers_count": 2,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "leozhang2018": 1,
+    "tbobm": 1,
+    "Gurkengewuerz": 2,
+    "Akasurde": 2,
+    "Theldus": 5,
+    "adtac": 74
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 33362,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 3404,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:52.416Z"
+}

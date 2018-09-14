@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Cerebro-XKCD",
+  "full_name": "TiagoDanin/Cerebro-XKCD",
+  "owner": "TiagoDanin",
+  "private": false,
+  "html_url": "https://github.com/TiagoDanin/Cerebro-XKCD",
+  "description": "XKCD plugin for Cerebro",
+  "fork": false,
+  "url": "https://api.github.com/repos/TiagoDanin/Cerebro-XKCD",
+  "languages_url": "https://api.github.com/repos/TiagoDanin/Cerebro-XKCD/languages",
+  "pulls_url": "https://api.github.com/repos/TiagoDanin/Cerebro-XKCD/pulls{/number}",
+  "created_at": "2018-02-25T19:55:14Z",
+  "updated_at": "2018-08-26T16:58:56Z",
+  "pushed_at": "2018-08-26T16:58:54Z",
+  "homepage": "https://TiagoDanin.github.io/Cerebro-XKCD/",
+  "size": 2425,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "renovate-bot": 1,
+    "codacy-badger": 1,
+    "renovate[bot]": 1,
+    "TiagoDanin": 12,
+    "ImgBotApp": 1
+  },
+  "pulls_authors": [
+    "renovate[bot]",
+    "TiagoDanin",
+    "codacy-badger",
+    "imgbot[bot]"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 885,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-27T06:21:24.698Z"
+}

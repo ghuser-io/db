@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "haxe-react-playground",
+  "full_name": "kLabz/haxe-react-playground",
+  "owner": "kLabz",
+  "private": false,
+  "html_url": "https://github.com/kLabz/haxe-react-playground",
+  "description": "Example app for haxe-react-router lib usage with redux",
+  "fork": false,
+  "url": "https://api.github.com/repos/kLabz/haxe-react-playground",
+  "languages_url": "https://api.github.com/repos/kLabz/haxe-react-playground/languages",
+  "pulls_url": "https://api.github.com/repos/kLabz/haxe-react-playground/pulls{/number}",
+  "created_at": "2018-03-18T17:00:53Z",
+  "updated_at": "2018-09-08T17:24:48Z",
+  "pushed_at": "2018-08-23T08:11:12Z",
+  "homepage": null,
+  "size": 8,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "kLabz": 4
+  },
+  "pulls_authors": [
+    "kLabz"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 3230,
+      "color": "#f1e05a"
+    },
+    "Haxe": {
+      "bytes": 2833,
+      "color": "#df7900"
+    },
+    "HTML": {
+      "bytes": 184,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:49.199Z"
+}

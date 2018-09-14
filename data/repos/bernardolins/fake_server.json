@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fake_server",
+  "full_name": "bernardolins/fake_server",
+  "owner": "bernardolins",
+  "private": false,
+  "html_url": "https://github.com/bernardolins/fake_server",
+  "description": "FakeServer integrates with ExUnit to make external APIs testing simpler",
+  "fork": false,
+  "url": "https://api.github.com/repos/bernardolins/fake_server",
+  "languages_url": "https://api.github.com/repos/bernardolins/fake_server/languages",
+  "pulls_url": "https://api.github.com/repos/bernardolins/fake_server/pulls{/number}",
+  "created_at": "2016-09-07T17:45:53Z",
+  "updated_at": "2018-09-14T04:41:13Z",
+  "pushed_at": "2018-03-13T00:54:08Z",
+  "homepage": "",
+  "size": 208,
+  "stargazers_count": 35,
+  "language": "Elixir",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "abrophy": 1,
+    "vidmantas": 1,
+    "bernardolins": 185
+  },
+  "pulls_authors": [
+    "bernardolins",
+    "abrophy",
+    "vidmantas",
+    "securingsincity"
+  ],
+  "languages": {
+    "Elixir": {
+      "bytes": 99740,
+      "color": "#6e4a7e"
+    }
+  },
+  "fetched_at": "2018-09-14T09:08:40.069Z"
+}

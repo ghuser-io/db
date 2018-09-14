@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jfreechart-utils",
+  "full_name": "smee/jfreechart-utils",
+  "owner": "smee",
+  "private": false,
+  "html_url": "https://github.com/smee/jfreechart-utils",
+  "description": "Helper methods for using JFreechart from Clojure",
+  "fork": false,
+  "url": "https://api.github.com/repos/smee/jfreechart-utils",
+  "languages_url": "https://api.github.com/repos/smee/jfreechart-utils/languages",
+  "pulls_url": "https://api.github.com/repos/smee/jfreechart-utils/pulls{/number}",
+  "created_at": "2012-02-23T09:54:59Z",
+  "updated_at": "2017-01-04T13:04:37Z",
+  "pushed_at": "2018-01-24T16:08:28Z",
+  "homepage": "",
+  "size": 60,
+  "stargazers_count": 4,
+  "language": "Clojure",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "smee": 53
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Clojure": {
+      "bytes": 86427,
+      "color": "#db5855"
+    }
+  },
+  "fetched_at": "2018-09-11T13:51:46.581Z"
+}

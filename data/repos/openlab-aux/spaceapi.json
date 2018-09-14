@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "spaceapi",
+  "full_name": "openlab-aux/spaceapi",
+  "owner": "openlab-aux",
+  "private": false,
+  "html_url": "https://github.com/openlab-aux/spaceapi",
+  "description": "API, die den Status des Labs im Internet verfügbar macht.",
+  "fork": false,
+  "url": "https://api.github.com/repos/openlab-aux/spaceapi",
+  "languages_url": "https://api.github.com/repos/openlab-aux/spaceapi/languages",
+  "pulls_url": "https://api.github.com/repos/openlab-aux/spaceapi/pulls{/number}",
+  "created_at": "2013-05-08T19:41:29Z",
+  "updated_at": "2015-04-03T18:46:15Z",
+  "pushed_at": "2014-02-02T18:14:15Z",
+  "homepage": "https://api.openlab-augsburg.de",
+  "size": 221,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "openlab-aux",
+    "id": 3979750,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM5Nzk3NTA=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/3979750?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/openlab-aux",
+    "html_url": "https://github.com/openlab-aux",
+    "followers_url": "https://api.github.com/users/openlab-aux/followers",
+    "following_url": "https://api.github.com/users/openlab-aux/following{/other_user}",
+    "gists_url": "https://api.github.com/users/openlab-aux/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/openlab-aux/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/openlab-aux/subscriptions",
+    "organizations_url": "https://api.github.com/users/openlab-aux/orgs",
+    "repos_url": "https://api.github.com/users/openlab-aux/repos",
+    "events_url": "https://api.github.com/users/openlab-aux/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/openlab-aux/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mmunz": 1,
+    "vinzv": 1,
+    "waaaaargh": 1,
+    "Profpatsch": 2,
+    "grindhold": 4
+  },
+  "pulls_authors": [
+    "aszlig",
+    "Profpatsch"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 1198,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 351,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:50.185Z"
+}

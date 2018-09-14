@@ -1,0 +1,76 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "php-ini-parser",
+  "full_name": "me-io/php-ini-parser",
+  "owner": "me-io",
+  "private": false,
+  "html_url": "https://github.com/me-io/php-ini-parser",
+  "description": "Simple Parser for complex .ini files",
+  "fork": false,
+  "url": "https://api.github.com/repos/me-io/php-ini-parser",
+  "languages_url": "https://api.github.com/repos/me-io/php-ini-parser/languages",
+  "pulls_url": "https://api.github.com/repos/me-io/php-ini-parser/pulls{/number}",
+  "created_at": "2018-02-12T10:02:08Z",
+  "updated_at": "2018-05-15T13:16:56Z",
+  "pushed_at": "2018-05-15T13:16:54Z",
+  "homepage": "",
+  "size": 128,
+  "stargazers_count": 5,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "me-io",
+    "id": 32834535,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMyODM0NTM1",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/32834535?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/me-io",
+    "html_url": "https://github.com/me-io",
+    "followers_url": "https://api.github.com/users/me-io/followers",
+    "following_url": "https://api.github.com/users/me-io/following{/other_user}",
+    "gists_url": "https://api.github.com/users/me-io/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/me-io/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/me-io/subscriptions",
+    "organizations_url": "https://api.github.com/users/me-io/orgs",
+    "repos_url": "https://api.github.com/users/me-io/repos",
+    "events_url": "https://api.github.com/users/me-io/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/me-io/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "peter279k": 1,
+    "pyrsmk": 1,
+    "fredpe": 1,
+    "zeeshanu": 11,
+    "javiermarinros": 13,
+    "kamranahmedse": 16,
+    "Meabed": 17,
+    "austinhyde": 28,
+    "till": 42
+  },
+  "pulls_authors": [
+    "peter279k",
+    "zeeshanu"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 25358,
+      "color": "#4F5D95"
+    },
+    "Makefile": {
+      "bytes": 2411,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:40.447Z"
+}

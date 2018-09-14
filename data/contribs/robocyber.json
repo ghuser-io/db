@@ -1,0 +1,97 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "robocyber/Linkedin-Auto-Connect-Script": {
+      "full_name": "robocyber/Linkedin-Auto-Connect-Script",
+      "name": "Linkedin-Auto-Connect-Script",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 2.43656272068006,
+      "total_score": 2.43656272068006,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "tcpiplab/Web-App-Hacking-Notes": {
+      "full_name": "tcpiplab/Web-App-Hacking-Notes",
+      "name": "Web-App-Hacking-Notes",
+      "stargazers_count": 46,
+      "popularity": 2.654215543864054,
+      "percentage": 0,
+      "maturity": 2.4802970571810303,
+      "total_commits_count": 70,
+      "activity": 1.516762505165028,
+      "total_score": 14.44000325111925,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "KevinWorkman/HappyCoding": {
+      "full_name": "KevinWorkman/HappyCoding",
+      "name": "HappyCoding",
+      "stargazers_count": 14,
+      "popularity": 2.117310085935697,
+      "percentage": 0.8982035928143712,
+      "maturity": 3.7997648361257874,
+      "total_commits_count": 668,
+      "activity": 5,
+      "total_score": 19.19869074847631,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "robocyber/Keylogger": {
+      "full_name": "robocyber/Keylogger",
+      "name": "Keylogger",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 1.3156780282156753,
+      "total_score": 1.3156780282156753,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "abahgat/redmine_didyoumean": {
+      "full_name": "abahgat/redmine_didyoumean",
+      "name": "redmine_didyoumean",
+      "stargazers_count": 66,
+      "popularity": 2.813620017180149,
+      "percentage": 2.0408163265306123,
+      "maturity": 2.765909468455758,
+      "total_commits_count": 98,
+      "activity": 1.2994859549387816,
+      "total_score": 16.01863556019364,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "thank-you-github/thank-you-github": {
+      "full_name": "thank-you-github/thank-you-github",
+      "name": "thank-you-github",
+      "stargazers_count": 1835,
+      "popularity": 4.263462097389538,
+      "percentage": 0,
+      "maturity": 4.382869384877737,
+      "total_commits_count": 2445,
+      "activity": 5,
+      "total_score": 26.556125061924085,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Roshanjossey/first-contributions": {
+      "full_name": "Roshanjossey/first-contributions",
+      "name": "first-contributions",
+      "stargazers_count": 2887,
+      "popularity": 4.460350462114573,
+      "percentage": 0,
+      "maturity": 5,
+      "total_commits_count": 10154,
+      "activity": 5,
+      "total_score": 28.38105138634372,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

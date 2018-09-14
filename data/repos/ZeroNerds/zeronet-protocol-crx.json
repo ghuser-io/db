@@ -1,0 +1,74 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "zeronet-protocol-crx",
+  "full_name": "ZeroNerds/zeronet-protocol-crx",
+  "owner": "ZeroNerds",
+  "private": false,
+  "html_url": "https://github.com/ZeroNerds/zeronet-protocol-crx",
+  "description": "ZeroNet Protocol is a Chrome extension, helps you to browse ZeroNet websites without http://127.0.0.1:43110",
+  "fork": true,
+  "url": "https://api.github.com/repos/ZeroNerds/zeronet-protocol-crx",
+  "languages_url": "https://api.github.com/repos/ZeroNerds/zeronet-protocol-crx/languages",
+  "pulls_url": "https://api.github.com/repos/ZeroNerds/zeronet-protocol-crx/pulls{/number}",
+  "created_at": "2017-01-22T14:34:35Z",
+  "updated_at": "2018-06-30T10:12:34Z",
+  "pushed_at": "2017-02-23T11:36:29Z",
+  "homepage": "",
+  "size": 66,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ZeroNerds",
+    "id": 27488991,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI3NDg4OTkx",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/27488991?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ZeroNerds",
+    "html_url": "https://github.com/ZeroNerds",
+    "followers_url": "https://api.github.com/users/ZeroNerds/followers",
+    "following_url": "https://api.github.com/users/ZeroNerds/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ZeroNerds/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ZeroNerds/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ZeroNerds/subscriptions",
+    "organizations_url": "https://api.github.com/users/ZeroNerds/orgs",
+    "repos_url": "https://api.github.com/users/ZeroNerds/repos",
+    "events_url": "https://api.github.com/users/ZeroNerds/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ZeroNerds/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mkody": 1,
+    "shortcutme": 1,
+    "mkg20001": 8,
+    "goldenratio": 25
+  },
+  "pulls_authors": [
+    "mkg20001"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 9567,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 906,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 483,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:34.511Z"
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "atom-badges",
+  "full_name": "idleberg/atom-badges",
+  "owner": "idleberg",
+  "private": false,
+  "html_url": "https://github.com/idleberg/atom-badges",
+  "description": "Snippets to quickly insert Shield.io badges into HTML, Markdown, reStructuredText or Textile documents",
+  "fork": false,
+  "url": "https://api.github.com/repos/idleberg/atom-badges",
+  "languages_url": "https://api.github.com/repos/idleberg/atom-badges/languages",
+  "pulls_url": "https://api.github.com/repos/idleberg/atom-badges/pulls{/number}",
+  "created_at": "2015-07-09T18:26:48Z",
+  "updated_at": "2018-05-23T18:31:56Z",
+  "pushed_at": "2018-05-23T18:31:55Z",
+  "homepage": "",
+  "size": 667,
+  "stargazers_count": 7,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "plttn": 1,
+    "idleberg": 88
+  },
+  "pulls_authors": [
+    "amandeepmittal",
+    "plttn"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1127,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:27.122Z"
+}

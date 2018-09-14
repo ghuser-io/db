@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "safe-docker",
+  "full_name": "nomeata/safe-docker",
+  "owner": "nomeata",
+  "private": false,
+  "html_url": "https://github.com/nomeata/safe-docker",
+  "description": "Sandbox untrusted code using docker",
+  "fork": false,
+  "url": "https://api.github.com/repos/nomeata/safe-docker",
+  "languages_url": "https://api.github.com/repos/nomeata/safe-docker/languages",
+  "pulls_url": "https://api.github.com/repos/nomeata/safe-docker/pulls{/number}",
+  "created_at": "2014-09-09T13:55:30Z",
+  "updated_at": "2018-08-21T19:03:50Z",
+  "pushed_at": "2016-04-08T12:50:17Z",
+  "homepage": null,
+  "size": 6,
+  "stargazers_count": 11,
+  "language": "Perl",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "lohner": 1,
+    "nomeata": 9
+  },
+  "pulls_authors": [
+    "lohner"
+  ],
+  "languages": {
+    "Perl": {
+      "bytes": 1922,
+      "color": "#0298c3"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:10.734Z"
+}

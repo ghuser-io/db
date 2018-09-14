@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rotating_head",
+  "full_name": "sastodeal/rotating_head",
+  "owner": "sastodeal",
+  "private": false,
+  "html_url": "https://github.com/sastodeal/rotating_head",
+  "description": "Rotating head images for different viewing angles using an image sprite",
+  "fork": false,
+  "url": "https://api.github.com/repos/sastodeal/rotating_head",
+  "languages_url": "https://api.github.com/repos/sastodeal/rotating_head/languages",
+  "pulls_url": "https://api.github.com/repos/sastodeal/rotating_head/pulls{/number}",
+  "created_at": "2015-08-08T05:54:18Z",
+  "updated_at": "2017-03-21T10:16:17Z",
+  "pushed_at": "2017-03-20T09:04:00Z",
+  "homepage": null,
+  "size": 384,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mpl-2.0",
+    "name": "Mozilla Public License 2.0",
+    "spdx_id": "MPL-2.0",
+    "url": "https://api.github.com/licenses/mpl-2.0",
+    "node_id": "MDc6TGljZW5zZTE0"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "sastodeal",
+    "id": 13703219,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzNzAzMjE5",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/13703219?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/sastodeal",
+    "html_url": "https://github.com/sastodeal",
+    "followers_url": "https://api.github.com/users/sastodeal/followers",
+    "following_url": "https://api.github.com/users/sastodeal/following{/other_user}",
+    "gists_url": "https://api.github.com/users/sastodeal/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/sastodeal/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/sastodeal/subscriptions",
+    "organizations_url": "https://api.github.com/users/sastodeal/orgs",
+    "repos_url": "https://api.github.com/users/sastodeal/repos",
+    "events_url": "https://api.github.com/users/sastodeal/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/sastodeal/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ivansuwal": 1,
+    "paulmillr": 3,
+    "sodhancha": 4
+  },
+  "pulls_authors": [
+    "amitness",
+    "sodhancha",
+    "ivansuwal"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1089,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 738,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:31.245Z"
+}

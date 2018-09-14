@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "server",
+  "full_name": "noti-fi/server",
+  "owner": "noti-fi",
+  "private": false,
+  "html_url": "https://github.com/noti-fi/server",
+  "description": "The server that manages the news and updates.",
+  "fork": false,
+  "url": "https://api.github.com/repos/noti-fi/server",
+  "languages_url": "https://api.github.com/repos/noti-fi/server/languages",
+  "pulls_url": "https://api.github.com/repos/noti-fi/server/pulls{/number}",
+  "created_at": "2015-05-22T15:51:51Z",
+  "updated_at": "2016-01-27T16:27:04Z",
+  "pushed_at": "2016-01-31T14:53:22Z",
+  "homepage": null,
+  "size": 7,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "noti-fi",
+    "id": 12562405,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyNTYyNDA1",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/12562405?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/noti-fi",
+    "html_url": "https://github.com/noti-fi",
+    "followers_url": "https://api.github.com/users/noti-fi/followers",
+    "following_url": "https://api.github.com/users/noti-fi/following{/other_user}",
+    "gists_url": "https://api.github.com/users/noti-fi/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/noti-fi/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/noti-fi/subscriptions",
+    "organizations_url": "https://api.github.com/users/noti-fi/orgs",
+    "repos_url": "https://api.github.com/users/noti-fi/repos",
+    "events_url": "https://api.github.com/users/noti-fi/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/noti-fi/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "rockneurotiko": 1,
+    "Casamatechs": 8
+  },
+  "pulls_authors": [
+    "Casamatechs"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 1303,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:47.963Z"
+}

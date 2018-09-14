@@ -1,0 +1,33 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "uvr2web",
+  "full_name": "ekuiter/uvr2web",
+  "owner": "ekuiter",
+  "private": false,
+  "html_url": "https://github.com/ekuiter/uvr2web",
+  "description": "[VERALTET] Überwache deine Heizungsregelung mit Arduino",
+  "fork": false,
+  "url": "https://api.github.com/repos/ekuiter/uvr2web",
+  "languages_url": "https://api.github.com/repos/ekuiter/uvr2web/languages",
+  "pulls_url": "https://api.github.com/repos/ekuiter/uvr2web/pulls{/number}",
+  "created_at": "2013-04-25T19:28:59Z",
+  "updated_at": "2018-09-02T09:54:06Z",
+  "pushed_at": "2018-09-02T09:51:37Z",
+  "homepage": "http://uvr2web.de",
+  "size": 5375,
+  "stargazers_count": 2,
+  "language": null,
+  "mirror_url": null,
+  "archived": true,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "bitdeli-chef": 1,
+    "ekuiter": 54
+  },
+  "pulls_authors": [
+    "bitdeli-chef"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-11T17:09:23.186Z"
+}

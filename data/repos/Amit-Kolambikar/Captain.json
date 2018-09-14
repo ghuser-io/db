@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Captain",
+  "full_name": "Amit-Kolambikar/Captain",
+  "owner": "Amit-Kolambikar",
+  "private": false,
+  "html_url": "https://github.com/Amit-Kolambikar/Captain",
+  "description": "Free Genesis 2.0+ Theme",
+  "fork": false,
+  "url": "https://api.github.com/repos/Amit-Kolambikar/Captain",
+  "languages_url": "https://api.github.com/repos/Amit-Kolambikar/Captain/languages",
+  "pulls_url": "https://api.github.com/repos/Amit-Kolambikar/Captain/pulls{/number}",
+  "created_at": "2013-09-05T12:23:36Z",
+  "updated_at": "2013-12-04T07:33:41Z",
+  "pushed_at": "2013-09-08T06:19:36Z",
+  "homepage": null,
+  "size": 88,
+  "stargazers_count": 2,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "vividvilla": 1,
+    "Amit-Kolambikar": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CSS": {
+      "bytes": 35249,
+      "color": "#563d7c"
+    },
+    "PHP": {
+      "bytes": 2507,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 1074,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:18.675Z"
+}

@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "auto-openvpn",
+  "full_name": "aashutoshrathi/auto-openvpn",
+  "owner": "aashutoshrathi",
+  "private": false,
+  "html_url": "https://github.com/aashutoshrathi/auto-openvpn",
+  "description": "A cli tool for generating OpenVPN account, which can be used for 5 days. (Python Package)",
+  "fork": false,
+  "url": "https://api.github.com/repos/aashutoshrathi/auto-openvpn",
+  "languages_url": "https://api.github.com/repos/aashutoshrathi/auto-openvpn/languages",
+  "pulls_url": "https://api.github.com/repos/aashutoshrathi/auto-openvpn/pulls{/number}",
+  "created_at": "2018-06-19T15:09:43Z",
+  "updated_at": "2018-06-24T18:23:40Z",
+  "pushed_at": "2018-06-21T05:32:29Z",
+  "homepage": "",
+  "size": 29,
+  "stargazers_count": 11,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "aashutoshrathi": 14
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 4060,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-05T16:59:34.084Z"
+}

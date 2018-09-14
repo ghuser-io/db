@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "lunar-lander",
+  "full_name": "wopian/lunar-lander",
+  "owner": "wopian",
+  "private": false,
+  "html_url": "https://github.com/wopian/lunar-lander",
+  "description": "🎮 Lunar Lander game built at Edge Hill University",
+  "fork": false,
+  "url": "https://api.github.com/repos/wopian/lunar-lander",
+  "languages_url": "https://api.github.com/repos/wopian/lunar-lander/languages",
+  "pulls_url": "https://api.github.com/repos/wopian/lunar-lander/pulls{/number}",
+  "created_at": "2016-02-25T02:20:30Z",
+  "updated_at": "2017-11-19T02:34:52Z",
+  "pushed_at": "2017-05-18T15:38:37Z",
+  "homepage": "https://wopian.me/lander",
+  "size": 23,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "greenkeeper[bot]": 4,
+    "wopian": 11
+  },
+  "pulls_authors": [
+    "greenkeeper[bot]",
+    "wopian"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6305,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 2575,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 2113,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:36.730Z"
+}

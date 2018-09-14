@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "MicroMonitor",
+  "full_name": "jackw01/MicroMonitor",
+  "owner": "jackw01",
+  "private": false,
+  "html_url": "https://github.com/jackw01/MicroMonitor",
+  "description": "Full-featured system monitoring menubar app for macOS with support for SMC sensors",
+  "fork": false,
+  "url": "https://api.github.com/repos/jackw01/MicroMonitor",
+  "languages_url": "https://api.github.com/repos/jackw01/MicroMonitor/languages",
+  "pulls_url": "https://api.github.com/repos/jackw01/MicroMonitor/pulls{/number}",
+  "created_at": "2018-01-09T03:13:47Z",
+  "updated_at": "2018-08-21T02:23:42Z",
+  "pushed_at": "2018-06-24T00:54:55Z",
+  "homepage": "https://jackw01.github.io/micromonitor.html",
+  "size": 14320,
+  "stargazers_count": 11,
+  "language": "Objective-C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jackw01": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Objective-C": {
+      "bytes": 113348,
+      "color": "#438eff"
+    },
+    "Swift": {
+      "bytes": 8984,
+      "color": "#ffac45"
+    },
+    "C": {
+      "bytes": 3366,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-08-21T02:24:45.839Z"
+}

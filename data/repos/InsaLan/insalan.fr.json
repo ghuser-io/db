@@ -1,0 +1,101 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "insalan.fr",
+  "full_name": "InsaLan/insalan.fr",
+  "owner": "InsaLan",
+  "private": false,
+  "html_url": "https://github.com/InsaLan/insalan.fr",
+  "description": "InsaLan website.",
+  "fork": false,
+  "url": "https://api.github.com/repos/InsaLan/insalan.fr",
+  "languages_url": "https://api.github.com/repos/InsaLan/insalan.fr/languages",
+  "pulls_url": "https://api.github.com/repos/InsaLan/insalan.fr/pulls{/number}",
+  "created_at": "2014-08-31T18:32:11Z",
+  "updated_at": "2018-06-20T12:03:19Z",
+  "pushed_at": "2018-08-25T16:14:24Z",
+  "homepage": "https://www.insalan.fr",
+  "size": 55667,
+  "stargazers_count": 1,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "InsaLan",
+    "id": 7396047,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjczOTYwNDc=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/7396047?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/InsaLan",
+    "html_url": "https://github.com/InsaLan",
+    "followers_url": "https://api.github.com/users/InsaLan/followers",
+    "following_url": "https://api.github.com/users/InsaLan/following{/other_user}",
+    "gists_url": "https://api.github.com/users/InsaLan/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/InsaLan/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/InsaLan/subscriptions",
+    "organizations_url": "https://api.github.com/users/InsaLan/orgs",
+    "repos_url": "https://api.github.com/users/InsaLan/repos",
+    "events_url": "https://api.github.com/users/InsaLan/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/InsaLan/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Skymirrh": 1,
+    "tdemulier": 1,
+    "AntoineBvn": 2,
+    "mlorant": 3,
+    "ElyKar": 4,
+    "SamuelFelton": 5,
+    "Aceltis": 5,
+    "2lafru": 6,
+    "nhurman": 51,
+    "Teanan": 91,
+    "Lesterpig": 110,
+    "halfa": 144,
+    "superboum": 181
+  },
+  "pulls_authors": [
+    "AntoineBvn",
+    "superboum",
+    "Livda",
+    "2lafru",
+    "SamuelFelton",
+    "halfa",
+    "Teanan",
+    "Lesterpig",
+    "ElyKar",
+    "mlorant",
+    "tdemulier"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 407774,
+      "color": "#4F5D95"
+    },
+    "HTML": {
+      "bytes": 201902,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 41327,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 8742,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 1938,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:19.011Z"
+}

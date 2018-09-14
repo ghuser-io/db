@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cloudcone-cli",
+  "full_name": "wei/cloudcone-cli",
+  "owner": "wei",
+  "private": false,
+  "html_url": "https://github.com/wei/cloudcone-cli",
+  "description": "Cloudcone commandline tool",
+  "fork": false,
+  "url": "https://api.github.com/repos/wei/cloudcone-cli",
+  "languages_url": "https://api.github.com/repos/wei/cloudcone-cli/languages",
+  "created_at": "2017-09-30T04:40:56Z",
+  "updated_at": "2018-03-31T12:58:48Z",
+  "pushed_at": "2017-09-30T13:16:54Z",
+  "homepage": null,
+  "size": 3,
+  "stargazers_count": 4,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "wei": 1
+  },
+  "languages": {
+    "Shell": {
+      "bytes": 5912,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-07-21T08:12:16.618Z",
+  "pulls_url": "https://api.github.com/repos/wei/cloudcone-cli/pulls{/number}",
+  "pulls_authors": []
+}

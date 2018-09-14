@@ -1,0 +1,103 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PokemonGo-Bot-Desktop",
+  "full_name": "PokemonGoF/PokemonGo-Bot-Desktop",
+  "owner": "PokemonGoF",
+  "private": false,
+  "html_url": "https://github.com/PokemonGoF/PokemonGo-Bot-Desktop",
+  "description": "The Desktop version of Pokemon Go Bot script",
+  "fork": false,
+  "url": "https://api.github.com/repos/PokemonGoF/PokemonGo-Bot-Desktop",
+  "languages_url": "https://api.github.com/repos/PokemonGoF/PokemonGo-Bot-Desktop/languages",
+  "pulls_url": "https://api.github.com/repos/PokemonGoF/PokemonGo-Bot-Desktop/pulls{/number}",
+  "created_at": "2016-07-26T01:26:53Z",
+  "updated_at": "2018-08-08T18:47:46Z",
+  "pushed_at": "2016-08-26T14:48:43Z",
+  "homepage": "",
+  "size": 30448,
+  "stargazers_count": 427,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "development",
+  "organization": {
+    "login": "PokemonGoF",
+    "id": 20551204,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIwNTUxMjA0",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/20551204?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/PokemonGoF",
+    "html_url": "https://github.com/PokemonGoF",
+    "followers_url": "https://api.github.com/users/PokemonGoF/followers",
+    "following_url": "https://api.github.com/users/PokemonGoF/following{/other_user}",
+    "gists_url": "https://api.github.com/users/PokemonGoF/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/PokemonGoF/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/PokemonGoF/subscriptions",
+    "organizations_url": "https://api.github.com/users/PokemonGoF/orgs",
+    "repos_url": "https://api.github.com/users/PokemonGoF/repos",
+    "events_url": "https://api.github.com/users/PokemonGoF/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/PokemonGoF/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ericorruption": 1,
+    "ariestiyansyah": 1,
+    "JulienTant": 2,
+    "tnsbm": 3,
+    "kdemoya": 3,
+    "JacerOmri": 5,
+    "solderzzc": 9,
+    "Outpox": 16,
+    "sniok": 31,
+    "ProjectBarks": 35,
+    "JVenberg": 54
+  },
+  "pulls_authors": [
+    "fabien-gigante",
+    "ProjectBarks",
+    "ericorruption",
+    "Outpox",
+    "JulienTant",
+    "kdemoya",
+    "tnsbm",
+    "JacerOmri",
+    "ghost",
+    "dogrocker",
+    "sniok",
+    "justinbeatz",
+    "awnumar",
+    "sei0o",
+    "GodLesZ",
+    "lightningfuzion2",
+    "JVenberg",
+    "03t02",
+    "ariestiyansyah"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 8703294,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 47817,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 10702,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 8310,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T00:07:15.615Z"
+}

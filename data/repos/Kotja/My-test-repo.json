@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "My-test-repo",
+  "full_name": "Kotja/My-test-repo",
+  "owner": "Kotja",
+  "private": false,
+  "html_url": "https://github.com/Kotja/My-test-repo",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/Kotja/My-test-repo",
+  "languages_url": "https://api.github.com/repos/Kotja/My-test-repo/languages",
+  "pulls_url": "https://api.github.com/repos/Kotja/My-test-repo/pulls{/number}",
+  "created_at": "2013-07-02T00:39:04Z",
+  "updated_at": "2014-02-15T19:45:51Z",
+  "pushed_at": "2013-07-02T05:25:36Z",
+  "homepage": null,
+  "size": 123,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "gh-pages",
+  "contributors": {
+    "sidorares": 2,
+    "Kotja": 6
+  },
+  "pulls_authors": [
+    "sidorares"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1572,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:45.162Z"
+}

@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "slack-api-schemas",
+  "full_name": "slack-rs/slack-api-schemas",
+  "owner": "slack-rs",
+  "private": false,
+  "html_url": "https://github.com/slack-rs/slack-api-schemas",
+  "description": "Schemas for the Slack API",
+  "fork": false,
+  "url": "https://api.github.com/repos/slack-rs/slack-api-schemas",
+  "languages_url": "https://api.github.com/repos/slack-rs/slack-api-schemas/languages",
+  "pulls_url": "https://api.github.com/repos/slack-rs/slack-api-schemas/pulls{/number}",
+  "created_at": "2017-01-23T04:10:27Z",
+  "updated_at": "2018-09-05T15:24:15Z",
+  "pushed_at": "2018-09-05T15:24:13Z",
+  "homepage": null,
+  "size": 94,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "slack-rs",
+    "id": 17864312,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3ODY0MzEy",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/17864312?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/slack-rs",
+    "html_url": "https://github.com/slack-rs",
+    "followers_url": "https://api.github.com/users/slack-rs/followers",
+    "following_url": "https://api.github.com/users/slack-rs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/slack-rs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/slack-rs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/slack-rs/subscriptions",
+    "organizations_url": "https://api.github.com/users/slack-rs/orgs",
+    "repos_url": "https://api.github.com/users/slack-rs/repos",
+    "events_url": "https://api.github.com/users/slack-rs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/slack-rs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "joe-askattest": 1,
+    "osa1": 1,
+    "dten": 7,
+    "mthjones": 15
+  },
+  "pulls_authors": [
+    "dten",
+    "joe-askattest",
+    "Mange",
+    "osa1",
+    "bwasty"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 34061,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T00:29:55.301Z"
+}

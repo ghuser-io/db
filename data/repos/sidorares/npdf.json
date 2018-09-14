@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "npdf",
+  "full_name": "sidorares/npdf",
+  "owner": "sidorares",
+  "private": false,
+  "html_url": "https://github.com/sidorares/npdf",
+  "description": "desktop pdf viewer using pdfium.js + node-x11",
+  "fork": false,
+  "url": "https://api.github.com/repos/sidorares/npdf",
+  "languages_url": "https://api.github.com/repos/sidorares/npdf/languages",
+  "pulls_url": "https://api.github.com/repos/sidorares/npdf/pulls{/number}",
+  "created_at": "2014-07-22T04:01:22Z",
+  "updated_at": "2018-01-09T15:25:46Z",
+  "pushed_at": "2017-05-01T05:51:27Z",
+  "homepage": null,
+  "size": 2040,
+  "stargazers_count": 10,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sidorares": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2073,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:36.831Z"
+}

@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "grace",
+  "full_name": "oxequa/grace",
+  "owner": "oxequa",
+  "private": false,
+  "html_url": "https://github.com/oxequa/grace",
+  "description": "Handle Go recover, panic, and errors in a graceful way. Multiple errors support, basic filters and custom handlers.",
+  "fork": false,
+  "url": "https://api.github.com/repos/oxequa/grace",
+  "languages_url": "https://api.github.com/repos/oxequa/grace/languages",
+  "pulls_url": "https://api.github.com/repos/oxequa/grace/pulls{/number}",
+  "created_at": "2018-03-05T00:12:16Z",
+  "updated_at": "2018-08-23T17:40:15Z",
+  "pushed_at": "2018-03-30T10:16:21Z",
+  "homepage": "https://grace.oxequa.com",
+  "size": 31,
+  "stargazers_count": 213,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "oxequa",
+    "id": 20284426,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIwMjg0NDI2",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/20284426?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/oxequa",
+    "html_url": "https://github.com/oxequa",
+    "followers_url": "https://api.github.com/users/oxequa/followers",
+    "following_url": "https://api.github.com/users/oxequa/following{/other_user}",
+    "gists_url": "https://api.github.com/users/oxequa/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/oxequa/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/oxequa/subscriptions",
+    "organizations_url": "https://api.github.com/users/oxequa/orgs",
+    "repos_url": "https://api.github.com/users/oxequa/repos",
+    "events_url": "https://api.github.com/users/oxequa/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/oxequa/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "bbrks": 1,
+    "conventi": 8,
+    "Asoseil": 9
+  },
+  "pulls_authors": [
+    "bbrks",
+    "ericat",
+    "gitter-badger"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 10800,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-12T04:57:37.547Z"
+}

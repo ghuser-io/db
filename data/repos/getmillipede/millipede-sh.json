@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "millipede-sh",
+  "full_name": "getmillipede/millipede-sh",
+  "owner": "getmillipede",
+  "private": false,
+  "html_url": "https://github.com/getmillipede/millipede-sh",
+  "description": ":bug: Print a beautiful millipede",
+  "fork": false,
+  "url": "https://api.github.com/repos/getmillipede/millipede-sh",
+  "languages_url": "https://api.github.com/repos/getmillipede/millipede-sh/languages",
+  "pulls_url": "https://api.github.com/repos/getmillipede/millipede-sh/pulls{/number}",
+  "created_at": "2015-07-26T23:16:07Z",
+  "updated_at": "2016-09-29T12:24:31Z",
+  "pushed_at": "2018-03-02T17:37:12Z",
+  "homepage": null,
+  "size": 2,
+  "stargazers_count": 3,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "getmillipede",
+    "id": 13489538,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzNDg5NTM4",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/13489538?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/getmillipede",
+    "html_url": "https://github.com/getmillipede",
+    "followers_url": "https://api.github.com/users/getmillipede/followers",
+    "following_url": "https://api.github.com/users/getmillipede/following{/other_user}",
+    "gists_url": "https://api.github.com/users/getmillipede/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/getmillipede/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/getmillipede/subscriptions",
+    "organizations_url": "https://api.github.com/users/getmillipede/orgs",
+    "repos_url": "https://api.github.com/users/getmillipede/repos",
+    "events_url": "https://api.github.com/users/getmillipede/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/getmillipede/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "moul": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 281,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:30.420Z"
+}

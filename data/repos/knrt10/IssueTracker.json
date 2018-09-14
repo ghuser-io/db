@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "IssueTracker",
+  "full_name": "knrt10/IssueTracker",
+  "owner": "knrt10",
+  "private": false,
+  "html_url": "https://github.com/knrt10/IssueTracker",
+  "description": "An awesome GITHUB BOT for OPEN SOURCE Developers",
+  "fork": false,
+  "url": "https://api.github.com/repos/knrt10/IssueTracker",
+  "languages_url": "https://api.github.com/repos/knrt10/IssueTracker/languages",
+  "created_at": "2018-02-17T05:17:20Z",
+  "updated_at": "2018-07-24T16:28:46Z",
+  "pushed_at": "2018-02-17T08:29:26Z",
+  "homepage": "https://github.com/apps/issuetrack",
+  "size": 11591,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "isc",
+    "name": "ISC License",
+    "spdx_id": "ISC",
+    "url": "https://api.github.com/licenses/isc",
+    "node_id": "MDc6TGljZW5zZTEw"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "knrt10": 8
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 3528,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-25T00:05:30.322Z",
+  "pulls_url": "https://api.github.com/repos/knrt10/IssueTracker/pulls{/number}",
+  "pulls_authors": []
+}

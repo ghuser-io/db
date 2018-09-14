@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "webpack-starter-kit",
+  "full_name": "captbaritone/webpack-starter-kit",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/webpack-starter-kit",
+  "description": "A quick example of webpack with assets and CDN setup",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/webpack-starter-kit",
+  "languages_url": "https://api.github.com/repos/captbaritone/webpack-starter-kit/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/webpack-starter-kit/pulls{/number}",
+  "created_at": "2016-08-15T19:46:38Z",
+  "updated_at": "2018-07-29T22:18:13Z",
+  "pushed_at": "2016-08-15T19:50:13Z",
+  "homepage": null,
+  "size": 2933,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Syerram": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 5116,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1186,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 91,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 73,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:56.220Z"
+}

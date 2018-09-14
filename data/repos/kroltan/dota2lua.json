@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dota2lua",
+  "full_name": "kroltan/dota2lua",
+  "owner": "kroltan",
+  "private": false,
+  "html_url": "https://github.com/kroltan/dota2lua",
+  "description": "Publicly available snippets for Dota 2 Workshop Tools! Feel free to contribute your own too",
+  "fork": false,
+  "url": "https://api.github.com/repos/kroltan/dota2lua",
+  "languages_url": "https://api.github.com/repos/kroltan/dota2lua/languages",
+  "pulls_url": "https://api.github.com/repos/kroltan/dota2lua/pulls{/number}",
+  "created_at": "2014-08-16T13:25:16Z",
+  "updated_at": "2016-08-03T23:42:34Z",
+  "pushed_at": "2014-09-06T17:12:33Z",
+  "homepage": null,
+  "size": 3952,
+  "stargazers_count": 1,
+  "language": "Lua",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "kroltan": 17
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Lua": {
+      "bytes": 5801,
+      "color": "#000080"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:28.814Z"
+}

@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "HQBot",
+  "full_name": "thehappydinoa/HQBot",
+  "owner": "thehappydinoa",
+  "private": false,
+  "html_url": "https://github.com/thehappydinoa/HQBot",
+  "description": "A bot for the popular mobile game HQ Trivia",
+  "fork": false,
+  "url": "https://api.github.com/repos/thehappydinoa/HQBot",
+  "languages_url": "https://api.github.com/repos/thehappydinoa/HQBot/languages",
+  "pulls_url": "https://api.github.com/repos/thehappydinoa/HQBot/pulls{/number}",
+  "created_at": "2018-03-06T01:26:31Z",
+  "updated_at": "2018-08-14T18:24:38Z",
+  "pushed_at": "2018-03-14T19:39:26Z",
+  "homepage": null,
+  "size": 1589,
+  "stargazers_count": 9,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "thehappydinoa": 11
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 11962,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-17T12:38:54.116Z"
+}

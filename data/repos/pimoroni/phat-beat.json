@@ -1,0 +1,85 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "phat-beat",
+  "full_name": "pimoroni/phat-beat",
+  "owner": "pimoroni",
+  "private": false,
+  "html_url": "https://github.com/pimoroni/phat-beat",
+  "description": "Python library for PHAT BEAT - A stereo DAC, AMP and VU for the Raspberry Pi",
+  "fork": false,
+  "url": "https://api.github.com/repos/pimoroni/phat-beat",
+  "languages_url": "https://api.github.com/repos/pimoroni/phat-beat/languages",
+  "pulls_url": "https://api.github.com/repos/pimoroni/phat-beat/pulls{/number}",
+  "created_at": "2017-02-17T13:08:05Z",
+  "updated_at": "2018-09-07T20:01:23Z",
+  "pushed_at": "2018-06-07T16:22:09Z",
+  "homepage": "https://shop.pimoroni.com/products/phat-beat",
+  "size": 4758,
+  "stargazers_count": 40,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pimoroni",
+    "id": 2399917,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzOTk5MTc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2399917?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pimoroni",
+    "html_url": "https://github.com/pimoroni",
+    "followers_url": "https://api.github.com/users/pimoroni/followers",
+    "following_url": "https://api.github.com/users/pimoroni/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pimoroni/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pimoroni/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pimoroni/subscriptions",
+    "organizations_url": "https://api.github.com/users/pimoroni/orgs",
+    "repos_url": "https://api.github.com/users/pimoroni/repos",
+    "events_url": "https://api.github.com/users/pimoroni/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pimoroni/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "pimoroni-phil": 1,
+    "lurch": 3,
+    "sandyjmacdonald": 4,
+    "RogueM": 44,
+    "Gadgetoid": 46
+  },
+  "pulls_authors": [
+    "Gadgetoid",
+    "RogueM",
+    "lurch"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 28013,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 24681,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 972,
+      "color": "#563d7c"
+    },
+    "Makefile": {
+      "bytes": 398,
+      "color": "#427819"
+    },
+    "HTML": {
+      "bytes": 154,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:06.768Z"
+}

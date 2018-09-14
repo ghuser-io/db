@@ -1,0 +1,117 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "funktionale-programmierung.github.com",
+  "full_name": "funktionale-programmierung/funktionale-programmierung.github.com",
+  "owner": "funktionale-programmierung",
+  "private": false,
+  "html_url": "https://github.com/funktionale-programmierung/funktionale-programmierung.github.com",
+  "description": "Blog \"Funktionale Programmierung\"",
+  "fork": false,
+  "url": "https://api.github.com/repos/funktionale-programmierung/funktionale-programmierung.github.com",
+  "languages_url": "https://api.github.com/repos/funktionale-programmierung/funktionale-programmierung.github.com/languages",
+  "pulls_url": "https://api.github.com/repos/funktionale-programmierung/funktionale-programmierung.github.com/pulls{/number}",
+  "created_at": "2012-12-12T10:36:53Z",
+  "updated_at": "2018-09-08T16:14:39Z",
+  "pushed_at": "2018-09-08T16:14:38Z",
+  "homepage": null,
+  "size": 8856,
+  "stargazers_count": 5,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "funktionale-programmierung",
+    "id": 3024489,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMwMjQ0ODk=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/3024489?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/funktionale-programmierung",
+    "html_url": "https://github.com/funktionale-programmierung",
+    "followers_url": "https://api.github.com/users/funktionale-programmierung/followers",
+    "following_url": "https://api.github.com/users/funktionale-programmierung/following{/other_user}",
+    "gists_url": "https://api.github.com/users/funktionale-programmierung/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/funktionale-programmierung/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/funktionale-programmierung/subscriptions",
+    "organizations_url": "https://api.github.com/users/funktionale-programmierung/orgs",
+    "repos_url": "https://api.github.com/users/funktionale-programmierung/repos",
+    "events_url": "https://api.github.com/users/funktionale-programmierung/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/funktionale-programmierung/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "loisch": 1,
+    "aioa": 2,
+    "weissi": 2,
+    "agremm": 5,
+    "Dierk": 7,
+    "Teggy": 7,
+    "agrafix": 10,
+    "UweSchmidt": 10,
+    "niklasb": 10,
+    "fisx": 11,
+    "ekarayel": 12,
+    "DerTim1": 13,
+    "kosmikus": 13,
+    "Ingo60": 17,
+    "cresh": 18,
+    "nomeata": 19,
+    "neshtea": 20,
+    "dobretzberger": 22,
+    "skogsbaer": 222,
+    "mikesperber": 568
+  },
+  "pulls_authors": [
+    "Dierk",
+    "weissi"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 173918,
+      "color": "#5e5086"
+    },
+    "HTML": {
+      "bytes": 92855,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 77093,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 8920,
+      "color": "#563d7c"
+    },
+    "Racket": {
+      "bytes": 8366,
+      "color": "#22228f"
+    },
+    "C++": {
+      "bytes": 4617,
+      "color": "#f34b7d"
+    },
+    "Java": {
+      "bytes": 3967,
+      "color": "#b07219"
+    },
+    "Scala": {
+      "bytes": 3591,
+      "color": "#c22d40"
+    },
+    "Makefile": {
+      "bytes": 887,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 878,
+      "color": "#89e051"
+    },
+    "C": {
+      "bytes": 481,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-08T17:10:41.810Z"
+}

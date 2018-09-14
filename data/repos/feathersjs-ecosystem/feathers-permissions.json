@@ -1,0 +1,76 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "feathers-permissions",
+  "full_name": "feathersjs-ecosystem/feathers-permissions",
+  "owner": "feathersjs-ecosystem",
+  "private": false,
+  "html_url": "https://github.com/feathersjs-ecosystem/feathers-permissions",
+  "description": "Simple role and service method permissions for Feathers",
+  "fork": false,
+  "url": "https://api.github.com/repos/feathersjs-ecosystem/feathers-permissions",
+  "languages_url": "https://api.github.com/repos/feathersjs-ecosystem/feathers-permissions/languages",
+  "pulls_url": "https://api.github.com/repos/feathersjs-ecosystem/feathers-permissions/pulls{/number}",
+  "created_at": "2016-10-10T17:55:36Z",
+  "updated_at": "2018-09-12T00:09:37Z",
+  "pushed_at": "2018-06-12T15:44:46Z",
+  "homepage": "",
+  "size": 130,
+  "stargazers_count": 91,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "feathersjs-ecosystem",
+    "id": 32400533,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMyNDAwNTMz",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/32400533?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/feathersjs-ecosystem",
+    "html_url": "https://github.com/feathersjs-ecosystem",
+    "followers_url": "https://api.github.com/users/feathersjs-ecosystem/followers",
+    "following_url": "https://api.github.com/users/feathersjs-ecosystem/following{/other_user}",
+    "gists_url": "https://api.github.com/users/feathersjs-ecosystem/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/feathersjs-ecosystem/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/feathersjs-ecosystem/subscriptions",
+    "organizations_url": "https://api.github.com/users/feathersjs-ecosystem/orgs",
+    "repos_url": "https://api.github.com/users/feathersjs-ecosystem/repos",
+    "events_url": "https://api.github.com/users/feathersjs-ecosystem/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/feathersjs-ecosystem/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "piyush-koradiya": 1,
+    "MichaelErmer": 1,
+    "marshallswain": 1,
+    "mcchrish": 2,
+    "corymsmith": 5,
+    "greenkeeper[bot]": 6,
+    "daffl": 8,
+    "ekryski": 15
+  },
+  "pulls_authors": [
+    "piyush-koradiya",
+    "daffl",
+    "MichaelErmer",
+    "greenkeeper[bot]",
+    "saiberz",
+    "ekryski",
+    "mcchrish"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 12884,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:35.496Z"
+}

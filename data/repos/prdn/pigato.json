@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pigato",
+  "full_name": "prdn/pigato",
+  "owner": "prdn",
+  "private": false,
+  "html_url": "https://github.com/prdn/pigato",
+  "description": "PIGATO - an high-performance  Node.js microservices framework",
+  "fork": false,
+  "url": "https://api.github.com/repos/prdn/pigato",
+  "languages_url": "https://api.github.com/repos/prdn/pigato/languages",
+  "pulls_url": "https://api.github.com/repos/prdn/pigato/pulls{/number}",
+  "created_at": "2014-10-10T10:38:52Z",
+  "updated_at": "2018-08-19T15:35:03Z",
+  "pushed_at": "2018-08-19T15:35:01Z",
+  "homepage": "http://prdn.github.io/pigato/",
+  "size": 385,
+  "stargazers_count": 273,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "alexeygolev": 1,
+    "julbra": 2,
+    "DenisGorbachev": 3,
+    "bmeck": 3,
+    "moperacz": 3,
+    "oprearocks": 5,
+    "allain": 9,
+    "maxired": 16,
+    "prdn": 265
+  },
+  "pulls_authors": [
+    "julbra",
+    "hems",
+    "oprearocks",
+    "marcbachmann",
+    "allain",
+    "maxired",
+    "DenisGorbachev",
+    "bmeck",
+    "alexeygolev",
+    "moperacz"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 93694,
+      "color": "#f1e05a"
+    },
+    "Makefile": {
+      "bytes": 29,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:29.967Z"
+}

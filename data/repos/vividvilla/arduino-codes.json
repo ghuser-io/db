@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "arduino-codes",
+  "full_name": "vividvilla/arduino-codes",
+  "owner": "vividvilla",
+  "private": false,
+  "html_url": "https://github.com/vividvilla/arduino-codes",
+  "description": "Arduino Project Codes for project hosted in Techiestuffs electronics blog",
+  "fork": false,
+  "url": "https://api.github.com/repos/vividvilla/arduino-codes",
+  "languages_url": "https://api.github.com/repos/vividvilla/arduino-codes/languages",
+  "pulls_url": "https://api.github.com/repos/vividvilla/arduino-codes/pulls{/number}",
+  "created_at": "2012-10-07T03:56:42Z",
+  "updated_at": "2015-02-13T10:51:59Z",
+  "pushed_at": "2012-10-07T07:54:25Z",
+  "homepage": null,
+  "size": 104,
+  "stargazers_count": 2,
+  "language": "Arduino",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "vividvilla": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Arduino": {
+      "bytes": 2959,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:18.944Z"
+}

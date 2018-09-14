@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "clj-serial",
+  "full_name": "peterschwarz/clj-serial",
+  "owner": "peterschwarz",
+  "private": false,
+  "html_url": "https://github.com/peterschwarz/clj-serial",
+  "description": "Simple Serial Access for Clojure",
+  "fork": false,
+  "url": "https://api.github.com/repos/peterschwarz/clj-serial",
+  "languages_url": "https://api.github.com/repos/peterschwarz/clj-serial/languages",
+  "pulls_url": "https://api.github.com/repos/peterschwarz/clj-serial/pulls{/number}",
+  "created_at": "2014-01-27T15:57:40Z",
+  "updated_at": "2018-08-18T16:55:42Z",
+  "pushed_at": "2018-08-18T16:56:27Z",
+  "homepage": null,
+  "size": 45,
+  "stargazers_count": 27,
+  "language": "Clojure",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "epl-1.0",
+    "name": "Eclipse Public License 1.0",
+    "spdx_id": "EPL-1.0",
+    "url": "https://api.github.com/licenses/epl-1.0",
+    "node_id": "MDc6TGljZW5zZTc="
+  },
+  "default_branch": "develop",
+  "contributors": {
+    "blakejakopovic": 1,
+    "ardumont": 3,
+    "WickedShell": 7,
+    "samaaron": 12,
+    "peterschwarz": 43
+  },
+  "pulls_authors": [
+    "WickedShell",
+    "WhittlesJr",
+    "blakejakopovic"
+  ],
+  "languages": {
+    "Clojure": {
+      "bytes": 7833,
+      "color": "#db5855"
+    }
+  },
+  "fetched_at": "2018-09-11T17:14:20.146Z"
+}

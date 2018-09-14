@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tableau",
+  "full_name": "MattRyder/tableau",
+  "owner": "MattRyder",
+  "private": false,
+  "html_url": "https://github.com/MattRyder/tableau",
+  "description": "Parse, manage and analyse Staffordshire University timetables",
+  "fork": false,
+  "url": "https://api.github.com/repos/MattRyder/tableau",
+  "languages_url": "https://api.github.com/repos/MattRyder/tableau/languages",
+  "pulls_url": "https://api.github.com/repos/MattRyder/tableau/pulls{/number}",
+  "created_at": "2013-07-18T16:22:56Z",
+  "updated_at": "2014-08-07T19:55:23Z",
+  "pushed_at": "2013-09-27T06:13:04Z",
+  "homepage": null,
+  "size": 252,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "MattRyder": 32
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 46716,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 599,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 546,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T00:06:00.708Z"
+}

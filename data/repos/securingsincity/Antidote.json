@@ -1,0 +1,62 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Antidote",
+  "full_name": "securingsincity/Antidote",
+  "owner": "securingsincity",
+  "private": false,
+  "html_url": "https://github.com/securingsincity/Antidote",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/securingsincity/Antidote",
+  "languages_url": "https://api.github.com/repos/securingsincity/Antidote/languages",
+  "pulls_url": "https://api.github.com/repos/securingsincity/Antidote/pulls{/number}",
+  "created_at": "2016-09-25T12:53:31Z",
+  "updated_at": "2017-12-14T16:33:59Z",
+  "pushed_at": "2018-07-10T05:00:49Z",
+  "homepage": null,
+  "size": 13697,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "carriejocasey": 2,
+    "securingsincity": 15,
+    "spoonscen": 21
+  },
+  "pulls_authors": [
+    "snyk-bot",
+    "spoonscen",
+    "carriejocasey",
+    "securingsincity"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 152212,
+      "color": "#f1e05a"
+    },
+    "Objective-C": {
+      "bytes": 86257,
+      "color": "#438eff"
+    },
+    "Shell": {
+      "bytes": 17022,
+      "color": "#89e051"
+    },
+    "Ruby": {
+      "bytes": 5329,
+      "color": "#701516"
+    },
+    "Python": {
+      "bytes": 1641,
+      "color": "#3572A5"
+    },
+    "Java": {
+      "bytes": 1592,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-11T00:33:38.583Z"
+}

@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jsLog",
+  "full_name": "Idnan/jsLog",
+  "owner": "Idnan",
+  "private": false,
+  "html_url": "https://github.com/Idnan/jsLog",
+  "description": "Displays logs in an overlay on top of your site. Useful for web development.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Idnan/jsLog",
+  "languages_url": "https://api.github.com/repos/Idnan/jsLog/languages",
+  "pulls_url": "https://api.github.com/repos/Idnan/jsLog/pulls{/number}",
+  "created_at": "2014-11-08T12:54:29Z",
+  "updated_at": "2017-03-20T06:56:47Z",
+  "pushed_at": "2014-12-10T18:52:28Z",
+  "homepage": "",
+  "size": 248,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "kamranahmedse": 2,
+    "Idnan": 8
+  },
+  "pulls_authors": [
+    "kamranahmedse"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 5095,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 1272,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:41.559Z"
+}

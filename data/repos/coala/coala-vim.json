@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "coala-vim",
+  "full_name": "coala/coala-vim",
+  "owner": "coala",
+  "private": false,
+  "html_url": "https://github.com/coala/coala-vim",
+  "description": "Vim plugin for coala",
+  "fork": false,
+  "url": "https://api.github.com/repos/coala/coala-vim",
+  "languages_url": "https://api.github.com/repos/coala/coala-vim/languages",
+  "pulls_url": "https://api.github.com/repos/coala/coala-vim/pulls{/number}",
+  "created_at": "2016-03-02T19:49:59Z",
+  "updated_at": "2018-07-21T23:28:43Z",
+  "pushed_at": "2018-06-05T11:34:40Z",
+  "homepage": "http://coala-analyzer.org/",
+  "size": 21,
+  "stargazers_count": 21,
+  "language": "Vim script",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "coala",
+    "id": 10620750,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNjIwNzUw",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/10620750?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/coala",
+    "html_url": "https://github.com/coala",
+    "followers_url": "https://api.github.com/users/coala/followers",
+    "following_url": "https://api.github.com/users/coala/following{/other_user}",
+    "gists_url": "https://api.github.com/users/coala/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/coala/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/coala/subscriptions",
+    "organizations_url": "https://api.github.com/users/coala/orgs",
+    "repos_url": "https://api.github.com/users/coala/repos",
+    "events_url": "https://api.github.com/users/coala/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/coala/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "khanchi97": 1,
+    "RohanVB": 2,
+    "Uran198": 2,
+    "adtac": 7,
+    "sils": 8
+  },
+  "pulls_authors": [
+    "jayvdb",
+    "seeeturtle",
+    "khanchi97",
+    "RohanVB",
+    "adtac",
+    "sils",
+    "Uran198"
+  ],
+  "languages": {
+    "Vim script": {
+      "bytes": 2063,
+      "color": "#199f4b"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

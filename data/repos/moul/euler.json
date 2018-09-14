@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "euler",
+  "full_name": "moul/euler",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/euler",
+  "description": ":game_die: Project Euler in Golang",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/euler",
+  "languages_url": "https://api.github.com/repos/moul/euler/languages",
+  "pulls_url": "https://api.github.com/repos/moul/euler/pulls{/number}",
+  "created_at": "2015-11-05T22:25:27Z",
+  "updated_at": "2018-01-20T17:04:57Z",
+  "pushed_at": "2017-06-17T19:31:47Z",
+  "homepage": null,
+  "size": 108,
+  "stargazers_count": 5,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 65
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 67058,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 806,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:46.365Z"
+}

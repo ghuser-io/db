@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "globalize-spree",
+  "full_name": "tomash/globalize-spree",
+  "owner": "tomash",
+  "private": false,
+  "html_url": "https://github.com/tomash/globalize-spree",
+  "description": "integrate Spree with Globalize3",
+  "fork": false,
+  "url": "https://api.github.com/repos/tomash/globalize-spree",
+  "languages_url": "https://api.github.com/repos/tomash/globalize-spree/languages",
+  "pulls_url": "https://api.github.com/repos/tomash/globalize-spree/pulls{/number}",
+  "created_at": "2010-11-07T19:01:59Z",
+  "updated_at": "2018-08-13T13:20:33Z",
+  "pushed_at": "2011-10-30T23:22:48Z",
+  "homepage": "",
+  "size": 232,
+  "stargazers_count": 21,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "tomash": 17
+  },
+  "pulls_authors": [
+    "victor-github"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 87822,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 914,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T16:53:08.675Z"
+}

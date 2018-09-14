@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jquery-gMapTubeD",
+  "full_name": "sjg/jquery-gMapTubeD",
+  "owner": "sjg",
+  "private": false,
+  "html_url": "https://github.com/sjg/jquery-gMapTubeD",
+  "description": "jQuery plugin for drawing MapTube layers on a Google Map",
+  "fork": false,
+  "url": "https://api.github.com/repos/sjg/jquery-gMapTubeD",
+  "languages_url": "https://api.github.com/repos/sjg/jquery-gMapTubeD/languages",
+  "pulls_url": "https://api.github.com/repos/sjg/jquery-gMapTubeD/pulls{/number}",
+  "created_at": "2011-09-07T20:00:31Z",
+  "updated_at": "2013-12-05T05:23:24Z",
+  "pushed_at": "2013-10-21T17:29:18Z",
+  "homepage": null,
+  "size": 160,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sjg": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CSS": {
+      "bytes": 404,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:40.797Z"
+}

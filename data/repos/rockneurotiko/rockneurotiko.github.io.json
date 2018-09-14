@@ -1,0 +1,115 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rockneurotiko.github.io",
+  "full_name": "rockneurotiko/rockneurotiko.github.io",
+  "owner": "rockneurotiko",
+  "private": false,
+  "html_url": "https://github.com/rockneurotiko/rockneurotiko.github.io",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/rockneurotiko/rockneurotiko.github.io",
+  "languages_url": "https://api.github.com/repos/rockneurotiko/rockneurotiko.github.io/languages",
+  "pulls_url": "https://api.github.com/repos/rockneurotiko/rockneurotiko.github.io/pulls{/number}",
+  "created_at": "2014-01-04T17:23:41Z",
+  "updated_at": "2018-05-23T00:43:52Z",
+  "pushed_at": "2017-09-01T10:18:08Z",
+  "homepage": null,
+  "size": 224431,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "rockneurotiko": 178
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 7722564,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1404854,
+      "color": "#e34c26"
+    },
+    "Elm": {
+      "bytes": 796812,
+      "color": "#60B5CC"
+    },
+    "CSS": {
+      "bytes": 562892,
+      "color": "#563d7c"
+    },
+    "TypeScript": {
+      "bytes": 433557,
+      "color": "#2b7489"
+    },
+    "Jupyter Notebook": {
+      "bytes": 226165,
+      "color": "#DA5B0B"
+    },
+    "Python": {
+      "bytes": 173464,
+      "color": "#3572A5"
+    },
+    "Pony": {
+      "bytes": 50955,
+      "color": "#ccc"
+    },
+    "Julia": {
+      "bytes": 42489,
+      "color": "#a270ba"
+    },
+    "Haskell": {
+      "bytes": 32225,
+      "color": "#5e5086"
+    },
+    "LiveScript": {
+      "bytes": 8055,
+      "color": "#499886"
+    },
+    "Makefile": {
+      "bytes": 4590,
+      "color": "#427819"
+    },
+    "Batchfile": {
+      "bytes": 4511,
+      "color": "#C1F12E"
+    },
+    "Rust": {
+      "bytes": 2452,
+      "color": "#dea584"
+    },
+    "Shell": {
+      "bytes": 2121,
+      "color": "#89e051"
+    },
+    "Go": {
+      "bytes": 1596,
+      "color": "#375eab"
+    },
+    "Roff": {
+      "bytes": 1209,
+      "color": "#ecdebe"
+    },
+    "C": {
+      "bytes": 507,
+      "color": "#555555"
+    },
+    "Clojure": {
+      "bytes": 164,
+      "color": "#db5855"
+    },
+    "Ruby": {
+      "bytes": 49,
+      "color": "#701516"
+    },
+    "Common Lisp": {
+      "bytes": 9,
+      "color": "#3fb68b"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:44.888Z"
+}

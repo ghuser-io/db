@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "streetview-fun",
+  "full_name": "cheeaun/streetview-fun",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/streetview-fun",
+  "description": "Having fun with Google Maps StreetView API",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/streetview-fun",
+  "languages_url": "https://api.github.com/repos/cheeaun/streetview-fun/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/streetview-fun/pulls{/number}",
+  "created_at": "2009-12-03T16:19:48Z",
+  "updated_at": "2015-04-13T05:19:32Z",
+  "pushed_at": "2009-12-06T13:08:09Z",
+  "homepage": "http://cheeaun.github.com/streetview-fun",
+  "size": 80,
+  "stargazers_count": 7,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 10
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6189,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T19:00:09.059Z"
+}

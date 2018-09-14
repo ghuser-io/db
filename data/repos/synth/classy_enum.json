@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "classy_enum",
+  "full_name": "synth/classy_enum",
+  "owner": "synth",
+  "private": false,
+  "html_url": "https://github.com/synth/classy_enum",
+  "description": "A class based enumerator gem for Rails",
+  "fork": true,
+  "url": "https://api.github.com/repos/synth/classy_enum",
+  "languages_url": "https://api.github.com/repos/synth/classy_enum/languages",
+  "pulls_url": "https://api.github.com/repos/synth/classy_enum/pulls{/number}",
+  "created_at": "2011-12-16T23:11:51Z",
+  "updated_at": "2018-07-11T18:34:04Z",
+  "pushed_at": "2011-12-22T00:04:25Z",
+  "homepage": "",
+  "size": 241,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "codepodu": 2,
+    "beerlington": 184
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 29549,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T23:12:22.378Z"
+}

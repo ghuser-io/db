@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "shipanaro",
+  "full_name": "imdario/shipanaro",
+  "owner": "imdario",
+  "private": false,
+  "html_url": "https://github.com/imdario/shipanaro",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/imdario/shipanaro",
+  "languages_url": "https://api.github.com/repos/imdario/shipanaro/languages",
+  "pulls_url": "https://api.github.com/repos/imdario/shipanaro/pulls{/number}",
+  "created_at": "2016-08-02T18:12:38Z",
+  "updated_at": "2018-05-26T09:16:19Z",
+  "pushed_at": "2018-05-26T09:16:17Z",
+  "homepage": null,
+  "size": 146,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "imdario": 40
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 33617,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 6261,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 743,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 44,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T20:47:59.965Z"
+}

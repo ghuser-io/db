@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "FreeRouting",
+  "full_name": "rbuj/FreeRouting",
+  "owner": "rbuj",
+  "private": false,
+  "html_url": "https://github.com/rbuj/FreeRouting",
+  "description": "Printed Circuit Board Routing Software from FreeRouting.net",
+  "fork": true,
+  "url": "https://api.github.com/repos/rbuj/FreeRouting",
+  "languages_url": "https://api.github.com/repos/rbuj/FreeRouting/languages",
+  "pulls_url": "https://api.github.com/repos/rbuj/FreeRouting/pulls{/number}",
+  "created_at": "2016-03-21T22:02:08Z",
+  "updated_at": "2018-08-14T13:22:13Z",
+  "pushed_at": "2018-08-14T13:22:12Z",
+  "homepage": null,
+  "size": 4281,
+  "stargazers_count": 26,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "groomble": 1,
+    "agatti": 4,
+    "nikropht": 4,
+    "rbuj": 532
+  },
+  "pulls_authors": [
+    "agatti",
+    "groomble",
+    "othiman"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 3375057,
+      "color": "#b07219"
+    },
+    "Lex": {
+      "bytes": 21016,
+      "color": "#DBCA00"
+    },
+    "Shell": {
+      "bytes": 2430,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 907,
+      "color": "#563d7c"
+    },
+    "Makefile": {
+      "bytes": 829,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T15:09:52.965Z"
+}

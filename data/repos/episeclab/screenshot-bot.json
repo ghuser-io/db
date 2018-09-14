@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "screenshot-bot",
+  "full_name": "episeclab/screenshot-bot",
+  "owner": "episeclab",
+  "private": false,
+  "html_url": "https://github.com/episeclab/screenshot-bot",
+  "description": "Our nice bot that takes dirty pictures",
+  "fork": false,
+  "url": "https://api.github.com/repos/episeclab/screenshot-bot",
+  "languages_url": "https://api.github.com/repos/episeclab/screenshot-bot/languages",
+  "pulls_url": "https://api.github.com/repos/episeclab/screenshot-bot/pulls{/number}",
+  "created_at": "2011-10-15T23:05:38Z",
+  "updated_at": "2014-01-09T17:49:56Z",
+  "pushed_at": "2013-02-03T16:44:41Z",
+  "homepage": "",
+  "size": 142,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "episeclab",
+    "id": 1125039,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExMjUwMzk=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/1125039?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/episeclab",
+    "html_url": "https://github.com/episeclab",
+    "followers_url": "https://api.github.com/users/episeclab/followers",
+    "following_url": "https://api.github.com/users/episeclab/following{/other_user}",
+    "gists_url": "https://api.github.com/users/episeclab/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/episeclab/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/episeclab/subscriptions",
+    "organizations_url": "https://api.github.com/users/episeclab/orgs",
+    "repos_url": "https://api.github.com/users/episeclab/repos",
+    "events_url": "https://api.github.com/users/episeclab/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/episeclab/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "blotus": 1,
+    "moul": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 55519,
+      "color": "#3572A5"
+    },
+    "PHP": {
+      "bytes": 1436,
+      "color": "#4F5D95"
+    },
+    "Shell": {
+      "bytes": 746,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:54.543Z"
+}

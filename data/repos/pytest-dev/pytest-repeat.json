@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pytest-repeat",
+  "full_name": "pytest-dev/pytest-repeat",
+  "owner": "pytest-dev",
+  "private": false,
+  "html_url": "https://github.com/pytest-dev/pytest-repeat",
+  "description": "pytest plugin for repeating test execution",
+  "fork": false,
+  "url": "https://api.github.com/repos/pytest-dev/pytest-repeat",
+  "languages_url": "https://api.github.com/repos/pytest-dev/pytest-repeat/languages",
+  "pulls_url": "https://api.github.com/repos/pytest-dev/pytest-repeat/pulls{/number}",
+  "created_at": "2015-10-19T18:22:55Z",
+  "updated_at": "2018-09-12T01:58:08Z",
+  "pushed_at": "2018-09-07T19:27:53Z",
+  "homepage": "https://pypi.python.org/pypi/pytest-repeat/",
+  "size": 43,
+  "stargazers_count": 27,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pytest-dev",
+    "id": 8897583,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjg4OTc1ODM=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/8897583?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pytest-dev",
+    "html_url": "https://github.com/pytest-dev",
+    "followers_url": "https://api.github.com/users/pytest-dev/followers",
+    "following_url": "https://api.github.com/users/pytest-dev/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pytest-dev/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pytest-dev/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pytest-dev/subscriptions",
+    "organizations_url": "https://api.github.com/users/pytest-dev/orgs",
+    "repos_url": "https://api.github.com/users/pytest-dev/repos",
+    "events_url": "https://api.github.com/users/pytest-dev/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pytest-dev/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "gdyuldin": 2,
+    "The-Compiler": 1,
+    "hugovk": 2,
+    "jayvdb": 2,
+    "Peque": 3,
+    "tomviner": 3,
+    "bobsilverberg": 4,
+    "davehunt": 25,
+    "jamseams": 2
+  },
+  "pulls_authors": [
+    "hugovk",
+    "gdyuldin",
+    "Peque",
+    "WoodenMug",
+    "The-Compiler",
+    "jayvdb",
+    "tomviner",
+    "jladdjr",
+    "bobsilverberg",
+    "jamseams"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 13854,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T05:04:04.445Z"
+}

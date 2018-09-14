@@ -1,0 +1,85 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "smee",
+  "full_name": "probot/smee",
+  "owner": "probot",
+  "private": false,
+  "html_url": "https://github.com/probot/smee",
+  "description": "🔴 Receives payloads then sends them to your local server",
+  "fork": false,
+  "url": "https://api.github.com/repos/probot/smee",
+  "languages_url": "https://api.github.com/repos/probot/smee/languages",
+  "created_at": "2017-10-25T14:53:06Z",
+  "updated_at": "2018-09-14T00:09:24Z",
+  "pushed_at": "2018-09-14T04:57:41Z",
+  "homepage": "https://smee.io",
+  "size": 509,
+  "stargazers_count": 42,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "isc",
+    "name": "ISC License",
+    "spdx_id": "ISC",
+    "url": "https://api.github.com/licenses/isc",
+    "node_id": "MDc6TGljZW5zZTEw"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "probot",
+    "id": 26350515,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI2MzUwNTE1",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/26350515?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/probot",
+    "html_url": "https://github.com/probot",
+    "followers_url": "https://api.github.com/users/probot/followers",
+    "following_url": "https://api.github.com/users/probot/following{/other_user}",
+    "gists_url": "https://api.github.com/users/probot/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/probot/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/probot/subscriptions",
+    "organizations_url": "https://api.github.com/users/probot/orgs",
+    "repos_url": "https://api.github.com/users/probot/repos",
+    "events_url": "https://api.github.com/users/probot/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/probot/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "MrChrisW": 1,
+    "DEGoodmanWilson": 1,
+    "zeke": 1,
+    "tcbyrd": 8,
+    "knrt10": 8,
+    "bkeepers": 18,
+    "JasonEtco": 172,
+    "macklinu": 1
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 39124,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 5675,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 4545,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-14T08:32:31.242Z",
+  "pulls_url": "https://api.github.com/repos/probot/smee/pulls{/number}",
+  "pulls_authors": [
+    "tcbyrd",
+    "MrChrisW",
+    "JasonEtco",
+    "DEGoodmanWilson",
+    "bkeepers",
+    "knrt10",
+    "zeke",
+    "macklinu"
+  ]
+}

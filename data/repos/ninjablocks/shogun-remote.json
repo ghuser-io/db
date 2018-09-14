@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "shogun-remote",
+  "full_name": "ninjablocks/shogun-remote",
+  "owner": "ninjablocks",
+  "private": false,
+  "html_url": "https://github.com/ninjablocks/shogun-remote",
+  "description": "iOS/Android Remote App",
+  "fork": false,
+  "url": "https://api.github.com/repos/ninjablocks/shogun-remote",
+  "languages_url": "https://api.github.com/repos/ninjablocks/shogun-remote/languages",
+  "pulls_url": "https://api.github.com/repos/ninjablocks/shogun-remote/pulls{/number}",
+  "created_at": "2013-06-24T03:31:35Z",
+  "updated_at": "2015-10-27T02:08:21Z",
+  "pushed_at": "2015-09-03T02:56:50Z",
+  "homepage": null,
+  "size": 43327,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ninjablocks",
+    "id": 1392949,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzOTI5NDk=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/1392949?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ninjablocks",
+    "html_url": "https://github.com/ninjablocks",
+    "followers_url": "https://api.github.com/users/ninjablocks/followers",
+    "following_url": "https://api.github.com/users/ninjablocks/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ninjablocks/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ninjablocks/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ninjablocks/subscriptions",
+    "organizations_url": "https://api.github.com/users/ninjablocks/orgs",
+    "repos_url": "https://api.github.com/users/ninjablocks/repos",
+    "events_url": "https://api.github.com/users/ninjablocks/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ninjablocks/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "elliots": 23
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 812496,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 31717,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 13865,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 450,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T13:45:51.555Z"
+}

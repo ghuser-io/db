@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bugsnag-laravel",
+  "full_name": "captbaritone/bugsnag-laravel",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/bugsnag-laravel",
+  "description": "Bugsnag notifier for the Laravel PHP framework",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/bugsnag-laravel",
+  "languages_url": "https://api.github.com/repos/captbaritone/bugsnag-laravel/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/bugsnag-laravel/pulls{/number}",
+  "created_at": "2013-12-11T08:03:01Z",
+  "updated_at": "2018-07-29T21:58:50Z",
+  "pushed_at": "2013-12-11T08:04:58Z",
+  "homepage": null,
+  "size": 99,
+  "stargazers_count": 1,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "adamgoose": 1,
+    "loopj": 19
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 1994,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:47.011Z"
+}

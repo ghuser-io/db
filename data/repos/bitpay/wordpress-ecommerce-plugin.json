@@ -1,0 +1,93 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wordpress-ecommerce-plugin",
+  "full_name": "bitpay/wordpress-ecommerce-plugin",
+  "owner": "bitpay",
+  "private": false,
+  "html_url": "https://github.com/bitpay/wordpress-ecommerce-plugin",
+  "description": "BitPay bitcoin payment plugin for WP eCommerce",
+  "fork": false,
+  "url": "https://api.github.com/repos/bitpay/wordpress-ecommerce-plugin",
+  "languages_url": "https://api.github.com/repos/bitpay/wordpress-ecommerce-plugin/languages",
+  "pulls_url": "https://api.github.com/repos/bitpay/wordpress-ecommerce-plugin/pulls{/number}",
+  "created_at": "2012-10-14T02:47:48Z",
+  "updated_at": "2018-07-06T18:55:34Z",
+  "pushed_at": "2018-04-25T09:54:11Z",
+  "homepage": "https://github.com/bitpay/wordpress-ecommerce-plugin",
+  "size": 134,
+  "stargazers_count": 34,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "bitpay",
+    "id": 2554930,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1NTQ5MzA=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/2554930?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/bitpay",
+    "html_url": "https://github.com/bitpay",
+    "followers_url": "https://api.github.com/users/bitpay/followers",
+    "following_url": "https://api.github.com/users/bitpay/following{/other_user}",
+    "gists_url": "https://api.github.com/users/bitpay/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/bitpay/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/bitpay/subscriptions",
+    "organizations_url": "https://api.github.com/users/bitpay/orgs",
+    "repos_url": "https://api.github.com/users/bitpay/repos",
+    "events_url": "https://api.github.com/users/bitpay/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/bitpay/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jameswalpole": 1,
+    "gasteve": 1,
+    "Zorigt": 2,
+    "jaafit": 2,
+    "kleetus": 3,
+    "pieterpoorthuis": 5,
+    "elahurd": 9,
+    "ionux": 37
+  },
+  "pulls_authors": [
+    "kgalanty",
+    "jameswalpole",
+    "ionux",
+    "aleitner",
+    "samuelbohler",
+    "cstevens88",
+    "Zorigt",
+    "jaafit"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 51786,
+      "color": "#4F5D95"
+    },
+    "Shell": {
+      "bytes": 2994,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 1177,
+      "color": "#563d7c"
+    },
+    "Smarty": {
+      "bytes": 1032,
+      "color": "#ccc"
+    },
+    "JavaScript": {
+      "bytes": 380,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T16:48:29.956Z"
+}

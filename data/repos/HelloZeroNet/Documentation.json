@@ -1,0 +1,106 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Documentation",
+  "full_name": "HelloZeroNet/Documentation",
+  "owner": "HelloZeroNet",
+  "private": false,
+  "html_url": "https://github.com/HelloZeroNet/Documentation",
+  "description": "ZeroNet Documentation",
+  "fork": false,
+  "url": "https://api.github.com/repos/HelloZeroNet/Documentation",
+  "languages_url": "https://api.github.com/repos/HelloZeroNet/Documentation/languages",
+  "pulls_url": "https://api.github.com/repos/HelloZeroNet/Documentation/pulls{/number}",
+  "created_at": "2015-03-09T00:48:34Z",
+  "updated_at": "2018-09-11T15:01:18Z",
+  "pushed_at": "2018-09-11T15:01:15Z",
+  "homepage": "https://zeronet.readthedocs.org/",
+  "size": 1935,
+  "stargazers_count": 42,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rllola": 1,
+    "slrslr": 1,
+    "kongwy": 1,
+    "mkg20001": 1,
+    "Deathnerd": 1,
+    "suzumiyasmith": 1,
+    "ysc3839": 1,
+    "krikmo": 1,
+    "weakish": 2,
+    "OliverCole": 2,
+    "n3r0-ch": 2,
+    "mishfit": 3,
+    "Erkan-Yilmaz": 3,
+    "s0r00t": 3,
+    "shakna-israel": 3,
+    "AceLewis": 4,
+    "grez911": 5,
+    "anoadragon453": 6,
+    "l5h5t7": 6,
+    "paulomsg": 13,
+    "HelloZeroNet": 19,
+    "MuxZeroNet": 22,
+    "shortcutme": 100
+  },
+  "pulls_authors": [
+    "anoadragon453",
+    "rllola",
+    "antilibrary",
+    "MuxZeroNet",
+    "grez911",
+    "slrslr",
+    "kongwy",
+    "weakish",
+    "mkg20001",
+    "mishfit",
+    "l5h5t7",
+    "Deathnerd",
+    "suzumiyasmith",
+    "ysc3839",
+    "megfault",
+    "AceLewis",
+    "unsystemizer",
+    "Mujaja",
+    "lothar-mar",
+    "Erkan-Yilmaz",
+    "OliverCole",
+    "krikmo",
+    "s0r00t",
+    "n3r0-ch",
+    "makdisse",
+    "shakna-israel"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 4411,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 2682,
+      "color": "#e34c26"
+    },
+    "CoffeeScript": {
+      "bytes": 1664,
+      "color": "#244776"
+    },
+    "Python": {
+      "bytes": 163,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 24,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:32.312Z"
+}

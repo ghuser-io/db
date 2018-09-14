@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ddos-deflate-debian",
+  "full_name": "mkg20001/ddos-deflate-debian",
+  "owner": "mkg20001",
+  "private": false,
+  "html_url": "https://github.com/mkg20001/ddos-deflate-debian",
+  "description": "Debian Files and make scripts for https://github.com/jgmdev/ddos-deflate",
+  "fork": false,
+  "url": "https://api.github.com/repos/mkg20001/ddos-deflate-debian",
+  "languages_url": "https://api.github.com/repos/mkg20001/ddos-deflate-debian/languages",
+  "pulls_url": "https://api.github.com/repos/mkg20001/ddos-deflate-debian/pulls{/number}",
+  "created_at": "2016-06-04T08:05:27Z",
+  "updated_at": "2016-06-21T12:05:27Z",
+  "pushed_at": "2016-11-03T09:49:57Z",
+  "homepage": null,
+  "size": 18,
+  "stargazers_count": 1,
+  "language": "Makefile",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mkg20001": 13
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Makefile": {
+      "bytes": 409,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:36.258Z"
+}

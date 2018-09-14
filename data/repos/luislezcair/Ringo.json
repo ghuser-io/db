@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Ringo",
+  "full_name": "luislezcair/Ringo",
+  "owner": "luislezcair",
+  "private": false,
+  "html_url": "https://github.com/luislezcair/Ringo",
+  "description": "Ringo smart doorbell",
+  "fork": false,
+  "url": "https://api.github.com/repos/luislezcair/Ringo",
+  "languages_url": "https://api.github.com/repos/luislezcair/Ringo/languages",
+  "pulls_url": "https://api.github.com/repos/luislezcair/Ringo/pulls{/number}",
+  "created_at": "2015-03-20T22:47:06Z",
+  "updated_at": "2018-03-12T18:14:19Z",
+  "pushed_at": "2016-03-16T14:40:11Z",
+  "homepage": null,
+  "size": 4134,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "eugeba": 13,
+    "Nambu14": 31,
+    "luislezcair": 60
+  },
+  "pulls_authors": [
+    "eugeba",
+    "Nambu14"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 95349,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 27713,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 6767,
+      "color": "#563d7c"
+    },
+    "Batchfile": {
+      "bytes": 187,
+      "color": "#C1F12E"
+    },
+    "Shell": {
+      "bytes": 123,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T00:05:54.676Z"
+}

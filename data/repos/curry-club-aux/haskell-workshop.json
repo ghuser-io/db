@@ -1,0 +1,74 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "haskell-workshop",
+  "full_name": "curry-club-aux/haskell-workshop",
+  "owner": "curry-club-aux",
+  "private": false,
+  "html_url": "https://github.com/curry-club-aux/haskell-workshop",
+  "description": "Materialien für den Curry Club Haskell Workshop",
+  "fork": false,
+  "url": "https://api.github.com/repos/curry-club-aux/haskell-workshop",
+  "languages_url": "https://api.github.com/repos/curry-club-aux/haskell-workshop/languages",
+  "pulls_url": "https://api.github.com/repos/curry-club-aux/haskell-workshop/pulls{/number}",
+  "created_at": "2015-10-24T16:49:17Z",
+  "updated_at": "2018-08-04T16:52:43Z",
+  "pushed_at": "2018-08-04T16:52:41Z",
+  "homepage": "https://curry-club-aux.github.io/haskell-workshop/uebung.pdf",
+  "size": 6670,
+  "stargazers_count": 6,
+  "language": "TeX",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "cc-by-sa-4.0",
+    "name": "Creative Commons Attribution Share Alike 4.0",
+    "spdx_id": "CC-BY-SA-4.0",
+    "url": "https://api.github.com/licenses/cc-by-sa-4.0",
+    "node_id": "MDc6TGljZW5zZTI2"
+  },
+  "default_branch": "gh-pages",
+  "organization": {
+    "login": "curry-club-aux",
+    "id": 11505549,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExNTA1NTQ5",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/11505549?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/curry-club-aux",
+    "html_url": "https://github.com/curry-club-aux",
+    "followers_url": "https://api.github.com/users/curry-club-aux/followers",
+    "following_url": "https://api.github.com/users/curry-club-aux/following{/other_user}",
+    "gists_url": "https://api.github.com/users/curry-club-aux/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/curry-club-aux/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/curry-club-aux/subscriptions",
+    "organizations_url": "https://api.github.com/users/curry-club-aux/orgs",
+    "repos_url": "https://api.github.com/users/curry-club-aux/repos",
+    "events_url": "https://api.github.com/users/curry-club-aux/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/curry-club-aux/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Profpatsch": 4,
+    "sternenseemann": 15,
+    "timjb": 16,
+    "iblech": 43
+  },
+  "pulls_authors": [
+    "Profpatsch"
+  ],
+  "languages": {
+    "TeX": {
+      "bytes": 83298,
+      "color": "#3D6117"
+    },
+    "Haskell": {
+      "bytes": 10909,
+      "color": "#5e5086"
+    },
+    "Nix": {
+      "bytes": 757,
+      "color": "#7e7eff"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:40.724Z"
+}

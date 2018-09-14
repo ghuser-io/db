@@ -1,0 +1,87 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "godot-asset-library",
+  "full_name": "godotengine/godot-asset-library",
+  "owner": "godotengine",
+  "private": false,
+  "html_url": "https://github.com/godotengine/godot-asset-library",
+  "description": "PHP frontend for Godot Engine's asset library",
+  "fork": false,
+  "url": "https://api.github.com/repos/godotengine/godot-asset-library",
+  "languages_url": "https://api.github.com/repos/godotengine/godot-asset-library/languages",
+  "created_at": "2016-04-16T14:20:38Z",
+  "updated_at": "2018-09-12T00:19:12Z",
+  "pushed_at": "2018-08-21T19:36:54Z",
+  "homepage": "https://godotengine.org",
+  "size": 931,
+  "stargazers_count": 60,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "godotengine",
+    "id": 6318500,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYzMTg1MDA=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/6318500?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/godotengine",
+    "html_url": "https://github.com/godotengine",
+    "followers_url": "https://api.github.com/users/godotengine/followers",
+    "following_url": "https://api.github.com/users/godotengine/following{/other_user}",
+    "gists_url": "https://api.github.com/users/godotengine/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/godotengine/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/godotengine/subscriptions",
+    "organizations_url": "https://api.github.com/users/godotengine/orgs",
+    "repos_url": "https://api.github.com/users/godotengine/repos",
+    "events_url": "https://api.github.com/users/godotengine/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/godotengine/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Calinou": 1,
+    "brunosxs": 1,
+    "eska014": 1,
+    "YeldhamDev": 2,
+    "mhilbrunner": 2,
+    "akien-mga": 4,
+    "alketii": 4,
+    "TomWor": 7,
+    "merumelu": 12,
+    "bojidar-bg": 83
+  },
+  "languages": {
+    "PHP": {
+      "bytes": 101169,
+      "color": "#4F5D95"
+    },
+    "HTML": {
+      "bytes": 67746,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 868,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:32.668Z",
+  "pulls_url": "https://api.github.com/repos/godotengine/godot-asset-library/pulls{/number}",
+  "pulls_authors": [
+    "Calinou",
+    "YeldhamDev",
+    "merumelu",
+    "mhilbrunner",
+    "brunosxs",
+    "TomWor",
+    "alketii",
+    "eska014"
+  ]
+}

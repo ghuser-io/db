@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dingo-project-management",
+  "full_name": "zeeshanu/dingo-project-management",
+  "owner": "zeeshanu",
+  "private": false,
+  "html_url": "https://github.com/zeeshanu/dingo-project-management",
+  "description": "A full-featured personal project management tool with task boards.",
+  "fork": false,
+  "url": "https://api.github.com/repos/zeeshanu/dingo-project-management",
+  "languages_url": "https://api.github.com/repos/zeeshanu/dingo-project-management/languages",
+  "pulls_url": "https://api.github.com/repos/zeeshanu/dingo-project-management/pulls{/number}",
+  "created_at": "2016-04-20T17:09:10Z",
+  "updated_at": "2018-07-12T06:02:50Z",
+  "pushed_at": "2017-05-25T10:16:44Z",
+  "homepage": "",
+  "size": 1527,
+  "stargazers_count": 234,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Lewiscowles1986": 1,
+    "adelowo": 2,
+    "kamranahmedse": 2,
+    "Idnan": 4,
+    "zeeshanu": 85
+  },
+  "pulls_authors": [
+    "unlikenesses",
+    "Lewiscowles1986",
+    "adelowo",
+    "kaamraan",
+    "Idnan"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 165865,
+      "color": "#f1e05a"
+    },
+    "PHP": {
+      "bytes": 102998,
+      "color": "#4F5D95"
+    },
+    "HTML": {
+      "bytes": 53629,
+      "color": "#e34c26"
+    },
+    "ApacheConf": {
+      "bytes": 647,
+      "color": "#ccc"
+    },
+    "CSS": {
+      "bytes": 72,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:40.615Z"
+}

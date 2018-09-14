@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "MobileFirster",
+  "full_name": "maxired/MobileFirster",
+  "owner": "maxired",
+  "private": false,
+  "html_url": "https://github.com/maxired/MobileFirster",
+  "description": "A Dynamic Modernizr for Mobile First Approach",
+  "fork": true,
+  "url": "https://api.github.com/repos/maxired/MobileFirster",
+  "languages_url": "https://api.github.com/repos/maxired/MobileFirster/languages",
+  "pulls_url": "https://api.github.com/repos/maxired/MobileFirster/pulls{/number}",
+  "created_at": "2011-11-24T09:00:40Z",
+  "updated_at": "2017-02-21T09:38:20Z",
+  "pushed_at": "2011-11-24T08:53:35Z",
+  "homepage": "http://filirom1.github.com/MobileFirster/",
+  "size": 264,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Filirom1": 1
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T07:36:33.422Z"
+}

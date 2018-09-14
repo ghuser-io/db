@@ -1,0 +1,141 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "sbaidon/vue-paginatron": {
+      "full_name": "sbaidon/vue-paginatron",
+      "name": "vue-paginatron",
+      "stargazers_count": 6,
+      "popularity": 1.7076084983408428,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 12,
+      "activity": 5,
+      "total_score": 32.321735973453485,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "vuejs/awesome-vue": {
+      "full_name": "vuejs/awesome-vue",
+      "name": "awesome-vue",
+      "stargazers_count": 37424,
+      "popularity": 5,
+      "percentage": 0.023207240659085634,
+      "maturity": 4.632072605917429,
+      "total_commits_count": 4309,
+      "activity": 5,
+      "total_score": 29.279229918263262,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "itexico/interview-codingchallenge-fsjs": {
+      "full_name": "itexico/interview-codingchallenge-fsjs",
+      "name": "interview-codingchallenge-fsjs",
+      "stargazers_count": 3,
+      "popularity": 1.3222565221025262,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 1.3193932461261175,
+      "total_score": 5.286162812433696,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Skycatch/acopio-ui": {
+      "full_name": "Skycatch/acopio-ui",
+      "name": "acopio-ui",
+      "stargazers_count": 6,
+      "popularity": 1.7076084983408428,
+      "percentage": 2.7777777777777777,
+      "maturity": 2.508235952687284,
+      "total_commits_count": 72,
+      "activity": 1.0723651303683046,
+      "total_score": 11.828298932944039,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "webpack/webpack.js.org": {
+      "full_name": "webpack/webpack.js.org",
+      "name": "webpack.js.org",
+      "stargazers_count": 1298,
+      "popularity": 4.113012544973022,
+      "percentage": 0.06097560975609756,
+      "maturity": 4.512294679278757,
+      "total_commits_count": 3280,
+      "activity": 5,
+      "total_score": 26.396230141698926,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "TheDutchCoder/webpack-guides-code-examples": {
+      "full_name": "TheDutchCoder/webpack-guides-code-examples",
+      "name": "webpack-guides-code-examples",
+      "stargazers_count": 4,
+      "popularity": 1.49139952161816,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 26,
+      "activity": 1.0621436268275146,
+      "total_score": 5.536342191681994,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sbaidon/typescript-electron-vue": {
+      "full_name": "sbaidon/typescript-electron-vue",
+      "name": "typescript-electron-vue",
+      "stargazers_count": 3,
+      "popularity": 1.3222565221025262,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 0.9286263372711856,
+      "total_score": 22.084730690911606,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sbaidon/jeopardy": {
+      "full_name": "sbaidon/jeopardy",
+      "name": "jeopardy",
+      "stargazers_count": 7,
+      "popularity": 1.7853682828948099,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 14,
+      "activity": 0.9187312042591476,
+      "total_score": 29.484623730576104,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sbaidon/SwiftPi": {
+      "full_name": "sbaidon/SwiftPi",
+      "name": "SwiftPi",
+      "stargazers_count": 6,
+      "popularity": 1.7076084983408428,
+      "percentage": 60.869565217391305,
+      "maturity": 0,
+      "total_commits_count": 23,
+      "activity": 0.7232615414998751,
+      "total_score": 19.358467327741252,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sbaidon/SCADA": {
+      "full_name": "sbaidon/SCADA",
+      "name": "SCADA",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 16,
+      "activity": 0.5263695660790653,
+      "total_score": 0.5263695660790653,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "vuejs",
+    "itexico",
+    "Skycatch",
+    "webpack"
+  ]
+}

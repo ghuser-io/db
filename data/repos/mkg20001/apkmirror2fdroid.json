@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "apkmirror2fdroid",
+  "full_name": "mkg20001/apkmirror2fdroid",
+  "owner": "mkg20001",
+  "private": false,
+  "html_url": "https://github.com/mkg20001/apkmirror2fdroid",
+  "description": "Mirror packages from apkmirror.com to your F-Droid Repo",
+  "fork": false,
+  "url": "https://api.github.com/repos/mkg20001/apkmirror2fdroid",
+  "languages_url": "https://api.github.com/repos/mkg20001/apkmirror2fdroid/languages",
+  "pulls_url": "https://api.github.com/repos/mkg20001/apkmirror2fdroid/pulls{/number}",
+  "created_at": "2018-08-05T20:13:39Z",
+  "updated_at": "2018-09-12T11:35:05Z",
+  "pushed_at": "2018-09-12T11:35:04Z",
+  "homepage": null,
+  "size": 327,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mkg20001": 66
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 20338,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 7857,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1260,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:19.108Z"
+}

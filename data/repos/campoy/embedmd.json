@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "embedmd",
+  "full_name": "campoy/embedmd",
+  "owner": "campoy",
+  "private": false,
+  "html_url": "https://github.com/campoy/embedmd",
+  "description": "embedmd: embed code into markdown and keep everything in sync",
+  "fork": false,
+  "url": "https://api.github.com/repos/campoy/embedmd",
+  "languages_url": "https://api.github.com/repos/campoy/embedmd/languages",
+  "pulls_url": "https://api.github.com/repos/campoy/embedmd/pulls{/number}",
+  "created_at": "2016-06-28T01:16:46Z",
+  "updated_at": "2018-09-07T01:52:48Z",
+  "pushed_at": "2017-12-05T01:54:32Z",
+  "homepage": "",
+  "size": 11732,
+  "stargazers_count": 516,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dvrkps": 1,
+    "getaaron": 1,
+    "yanzay": 1,
+    "bbrks": 1,
+    "appleboy": 1,
+    "lc0": 1,
+    "broady": 2,
+    "dmitshur": 2,
+    "campoy": 12
+  },
+  "pulls_authors": [
+    "meyskens",
+    "dvrkps",
+    "campoy",
+    "getaaron",
+    "yanzay",
+    "bbrks",
+    "broady",
+    "appleboy",
+    "lc0",
+    "dmitshur"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 34809,
+      "color": "#375eab"
+    },
+    "Shell": {
+      "bytes": 758,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:57:38.489Z"
+}

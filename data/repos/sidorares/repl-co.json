@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "repl-co",
+  "full_name": "sidorares/repl-co",
+  "owner": "sidorares",
+  "private": false,
+  "html_url": "https://github.com/sidorares/repl-co",
+  "description": "node repl with yield support",
+  "fork": false,
+  "url": "https://api.github.com/repos/sidorares/repl-co",
+  "languages_url": "https://api.github.com/repos/sidorares/repl-co/languages",
+  "pulls_url": "https://api.github.com/repos/sidorares/repl-co/pulls{/number}",
+  "created_at": "2013-09-18T02:21:07Z",
+  "updated_at": "2017-01-03T15:03:36Z",
+  "pushed_at": "2017-05-01T05:52:40Z",
+  "homepage": null,
+  "size": 2,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sidorares": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 620,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:44.794Z"
+}

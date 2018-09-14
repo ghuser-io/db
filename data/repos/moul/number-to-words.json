@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "number-to-words",
+  "full_name": "moul/number-to-words",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/number-to-words",
+  "description": "convert number into words (english, french, italian, roman, spanish...)",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/number-to-words",
+  "languages_url": "https://api.github.com/repos/moul/number-to-words/languages",
+  "pulls_url": "https://api.github.com/repos/moul/number-to-words/pulls{/number}",
+  "created_at": "2016-08-12T06:37:36Z",
+  "updated_at": "2018-07-18T10:47:00Z",
+  "pushed_at": "2018-08-18T16:14:25Z",
+  "homepage": "",
+  "size": 1260,
+  "stargazers_count": 4,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mablo": 1,
+    "psimoesSsimoes": 1,
+    "faik": 1,
+    "ehx": 2,
+    "moul": 54
+  },
+  "pulls_authors": [
+    "renovate[bot]",
+    "mablo",
+    "moul",
+    "psimoesSsimoes",
+    "faik",
+    "ehx"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 73874,
+      "color": "#375eab"
+    },
+    "Ruby": {
+      "bytes": 662,
+      "color": "#701516"
+    },
+    "Makefile": {
+      "bytes": 418,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:41.521Z"
+}

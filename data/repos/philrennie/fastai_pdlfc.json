@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fastai_pdlfc",
+  "full_name": "philrennie/fastai_pdlfc",
+  "owner": "philrennie",
+  "private": false,
+  "html_url": "https://github.com/philrennie/fastai_pdlfc",
+  "description": "Fastai's Practical Deep Learning for coders for use in Google Colaboratory",
+  "fork": false,
+  "url": "https://api.github.com/repos/philrennie/fastai_pdlfc",
+  "languages_url": "https://api.github.com/repos/philrennie/fastai_pdlfc/languages",
+  "pulls_url": "https://api.github.com/repos/philrennie/fastai_pdlfc/pulls{/number}",
+  "created_at": "2018-08-29T13:49:47Z",
+  "updated_at": "2018-09-05T18:01:40Z",
+  "pushed_at": "2018-08-29T14:04:22Z",
+  "homepage": null,
+  "size": 2628,
+  "stargazers_count": 1,
+  "language": "Jupyter Notebook",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "philrennie": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Jupyter Notebook": {
+      "bytes": 2818301,
+      "color": "#DA5B0B"
+    }
+  },
+  "fetched_at": "2018-09-11T10:40:30.666Z"
+}

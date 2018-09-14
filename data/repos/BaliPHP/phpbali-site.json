@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "phpbali-site",
+  "full_name": "BaliPHP/phpbali-site",
+  "owner": "BaliPHP",
+  "private": false,
+  "html_url": "https://github.com/BaliPHP/phpbali-site",
+  "description": "Site of PHPBali",
+  "fork": false,
+  "url": "https://api.github.com/repos/BaliPHP/phpbali-site",
+  "languages_url": "https://api.github.com/repos/BaliPHP/phpbali-site/languages",
+  "pulls_url": "https://api.github.com/repos/BaliPHP/phpbali-site/pulls{/number}",
+  "created_at": "2018-02-11T05:11:23Z",
+  "updated_at": "2018-09-08T15:00:44Z",
+  "pushed_at": "2018-09-07T12:47:52Z",
+  "homepage": "https://phpbali.com/",
+  "size": 10797,
+  "stargazers_count": 7,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "BaliPHP",
+    "id": 36349984,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM2MzQ5OTg0",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/36349984?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/BaliPHP",
+    "html_url": "https://github.com/BaliPHP",
+    "followers_url": "https://api.github.com/users/BaliPHP/followers",
+    "following_url": "https://api.github.com/users/BaliPHP/following{/other_user}",
+    "gists_url": "https://api.github.com/users/BaliPHP/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/BaliPHP/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/BaliPHP/subscriptions",
+    "organizations_url": "https://api.github.com/users/BaliPHP/orgs",
+    "repos_url": "https://api.github.com/users/BaliPHP/repos",
+    "events_url": "https://api.github.com/users/BaliPHP/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/BaliPHP/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "wayanjimmy": 3,
+    "marvelalexius": 9,
+    "satyakresna": 19,
+    "Tisna": 30,
+    "kirizu336": 88
+  },
+  "pulls_authors": [
+    "kirizu336",
+    "wayanjimmy",
+    "marvelalexius"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 1686,
+      "color": "#4F5D95"
+    },
+    "Dockerfile": {
+      "bytes": 953,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:31.626Z"
+}

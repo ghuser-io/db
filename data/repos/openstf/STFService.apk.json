@@ -1,0 +1,74 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "STFService.apk",
+  "full_name": "openstf/STFService.apk",
+  "owner": "openstf",
+  "private": false,
+  "html_url": "https://github.com/openstf/STFService.apk",
+  "description": "Monitor and perform various actions on your Android device. Not meant for actual user devices.",
+  "fork": false,
+  "url": "https://api.github.com/repos/openstf/STFService.apk",
+  "languages_url": "https://api.github.com/repos/openstf/STFService.apk/languages",
+  "pulls_url": "https://api.github.com/repos/openstf/STFService.apk/pulls{/number}",
+  "created_at": "2015-05-01T09:15:45Z",
+  "updated_at": "2018-09-12T06:32:40Z",
+  "pushed_at": "2018-09-03T12:41:09Z",
+  "homepage": "",
+  "size": 40169,
+  "stargazers_count": 107,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "openstf",
+    "id": 12196621,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMTk2NjIx",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/12196621?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/openstf",
+    "html_url": "https://github.com/openstf",
+    "followers_url": "https://api.github.com/users/openstf/followers",
+    "following_url": "https://api.github.com/users/openstf/following{/other_user}",
+    "gists_url": "https://api.github.com/users/openstf/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/openstf/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/openstf/subscriptions",
+    "organizations_url": "https://api.github.com/users/openstf/orgs",
+    "repos_url": "https://api.github.com/users/openstf/repos",
+    "events_url": "https://api.github.com/users/openstf/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/openstf/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "JeannedArk": 3,
+    "Malinskiy": 9,
+    "sorccu": 160
+  },
+  "pulls_authors": [
+    "Malinskiy",
+    "putthidaSR",
+    "JeannedArk",
+    "neunw2005",
+    "codeskyblue",
+    "stanliski"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 131372,
+      "color": "#b07219"
+    },
+    "Shell": {
+      "bytes": 664,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:33:44.007Z"
+}

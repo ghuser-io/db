@@ -1,0 +1,84 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wrug.eu",
+  "full_name": "wrug/wrug.eu",
+  "owner": "wrug",
+  "private": false,
+  "html_url": "https://github.com/wrug/wrug.eu",
+  "description": "main website of wrug.eu",
+  "fork": false,
+  "url": "https://api.github.com/repos/wrug/wrug.eu",
+  "languages_url": "https://api.github.com/repos/wrug/wrug.eu/languages",
+  "pulls_url": "https://api.github.com/repos/wrug/wrug.eu/pulls{/number}",
+  "created_at": "2010-11-15T08:24:38Z",
+  "updated_at": "2018-09-09T15:49:00Z",
+  "pushed_at": "2018-09-09T15:48:59Z",
+  "homepage": "wrug.eu",
+  "size": 8543,
+  "stargazers_count": 8,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "wrug",
+    "id": 369846,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM2OTg0Ng==",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/369846?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/wrug",
+    "html_url": "https://github.com/wrug",
+    "followers_url": "https://api.github.com/users/wrug/followers",
+    "following_url": "https://api.github.com/users/wrug/following{/other_user}",
+    "gists_url": "https://api.github.com/users/wrug/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/wrug/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/wrug/subscriptions",
+    "organizations_url": "https://api.github.com/users/wrug/orgs",
+    "repos_url": "https://api.github.com/users/wrug/repos",
+    "events_url": "https://api.github.com/users/wrug/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/wrug/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "hopbit": 1,
+    "wzin": 1,
+    "mkwiatkowski": 1,
+    "jstepien": 1,
+    "RobertMaciejewski": 4,
+    "kabturek": 6,
+    "tjeden": 20,
+    "xamebax": 20,
+    "nowakov": 30,
+    "tomash": 44,
+    "chastell": 138
+  },
+  "pulls_authors": [
+    "hopbit",
+    "tjeden",
+    "chastell",
+    "kabturek",
+    "Tuhaj",
+    "xamebax",
+    "wzin",
+    "mkwiatkowski",
+    "rubytree",
+    "jstepien"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 34816,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 6671,
+      "color": "#563d7c"
+    },
+    "Ruby": {
+      "bytes": 3362,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T16:53:04.033Z"
+}

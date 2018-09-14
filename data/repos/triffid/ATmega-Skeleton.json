@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ATmega-Skeleton",
+  "full_name": "triffid/ATmega-Skeleton",
+  "owner": "triffid",
+  "private": false,
+  "html_url": "https://github.com/triffid/ATmega-Skeleton",
+  "description": "Skeleton libraries for AVR ATmega boards such as the arduino",
+  "fork": false,
+  "url": "https://api.github.com/repos/triffid/ATmega-Skeleton",
+  "languages_url": "https://api.github.com/repos/triffid/ATmega-Skeleton/languages",
+  "pulls_url": "https://api.github.com/repos/triffid/ATmega-Skeleton/pulls{/number}",
+  "created_at": "2009-12-08T00:58:31Z",
+  "updated_at": "2018-08-13T11:30:16Z",
+  "pushed_at": "2011-06-23T11:12:18Z",
+  "homepage": "atmega-skeleton",
+  "size": 312,
+  "stargazers_count": 21,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sandeepbhat": 2,
+    "Traumflug": 20,
+    "triffid": 69
+  },
+  "pulls_authors": [
+    "sandeepbhat"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 353733,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 7146,
+      "color": "#89e051"
+    },
+    "Java": {
+      "bytes": 81,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-11T17:15:10.798Z"
+}

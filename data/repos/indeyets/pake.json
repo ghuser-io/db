@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pake",
+  "full_name": "indeyets/pake",
+  "owner": "indeyets",
+  "private": false,
+  "html_url": "https://github.com/indeyets/pake",
+  "description": "pake is a PHP automation tool with capabilities similar to make",
+  "fork": false,
+  "url": "https://api.github.com/repos/indeyets/pake",
+  "languages_url": "https://api.github.com/repos/indeyets/pake/languages",
+  "pulls_url": "https://api.github.com/repos/indeyets/pake/pulls{/number}",
+  "created_at": "2009-08-03T14:06:27Z",
+  "updated_at": "2018-03-28T20:21:27Z",
+  "pushed_at": "2014-01-20T11:27:43Z",
+  "homepage": "http://wiki.github.com/indeyets/pake",
+  "size": 1757,
+  "stargazers_count": 185,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "vierbergenlars": 1,
+    "gggeek": 7,
+    "indeyets": 276
+  },
+  "pulls_authors": [
+    "gggeek",
+    "vierbergenlars",
+    "xrstf",
+    "umonkey"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 212791,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-11T17:16:21.097Z"
+}

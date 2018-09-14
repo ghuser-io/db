@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "DojoFloripa",
+  "full_name": "Dojo-Floripa/DojoFloripa",
+  "owner": "Dojo-Floripa",
+  "private": false,
+  "html_url": "https://github.com/Dojo-Floripa/DojoFloripa",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/Dojo-Floripa/DojoFloripa",
+  "languages_url": "https://api.github.com/repos/Dojo-Floripa/DojoFloripa/languages",
+  "pulls_url": "https://api.github.com/repos/Dojo-Floripa/DojoFloripa/pulls{/number}",
+  "created_at": "2012-06-22T17:47:24Z",
+  "updated_at": "2013-10-02T04:20:08Z",
+  "pushed_at": "2012-07-22T01:49:25Z",
+  "homepage": null,
+  "size": 106,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "Dojo-Floripa",
+    "id": 1882005,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4ODIwMDU=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/1882005?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Dojo-Floripa",
+    "html_url": "https://github.com/Dojo-Floripa",
+    "followers_url": "https://api.github.com/users/Dojo-Floripa/followers",
+    "following_url": "https://api.github.com/users/Dojo-Floripa/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Dojo-Floripa/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Dojo-Floripa/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Dojo-Floripa/subscriptions",
+    "organizations_url": "https://api.github.com/users/Dojo-Floripa/orgs",
+    "repos_url": "https://api.github.com/users/Dojo-Floripa/repos",
+    "events_url": "https://api.github.com/users/Dojo-Floripa/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Dojo-Floripa/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "carlosrf": 1,
+    "zvictor": 4
+  },
+  "pulls_authors": [
+    "josericardo"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 9782,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:27.676Z"
+}

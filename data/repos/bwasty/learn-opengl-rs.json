@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "learn-opengl-rs",
+  "full_name": "bwasty/learn-opengl-rs",
+  "owner": "bwasty",
+  "private": false,
+  "html_url": "https://github.com/bwasty/learn-opengl-rs",
+  "description": "Rust port of https://github.com/JoeyDeVries/LearnOpenGL",
+  "fork": false,
+  "url": "https://api.github.com/repos/bwasty/learn-opengl-rs",
+  "languages_url": "https://api.github.com/repos/bwasty/learn-opengl-rs/languages",
+  "pulls_url": "https://api.github.com/repos/bwasty/learn-opengl-rs/pulls{/number}",
+  "created_at": "2017-06-04T19:41:11Z",
+  "updated_at": "2018-09-12T21:44:03Z",
+  "pushed_at": "2018-08-20T20:11:18Z",
+  "homepage": "",
+  "size": 53456,
+  "stargazers_count": 230,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dependabot-bot": 1,
+    "YuumeiSakura": 3,
+    "bwasty": 151
+  },
+  "pulls_authors": [
+    "YuumeiSakura",
+    "dependabot[bot]",
+    "bwasty"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 559679,
+      "color": "#dea584"
+    },
+    "GLSL": {
+      "bytes": 39200,
+      "color": "#ccc"
+    },
+    "JavaScript": {
+      "bytes": 2304,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T23:45:49.737Z"
+}

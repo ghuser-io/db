@@ -1,0 +1,146 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ccextractor",
+  "full_name": "sr6033/ccextractor",
+  "owner": "sr6033",
+  "private": false,
+  "html_url": "https://github.com/sr6033/ccextractor",
+  "description": "CCExtractor - Official version maintained by the core team",
+  "fork": true,
+  "url": "https://api.github.com/repos/sr6033/ccextractor",
+  "languages_url": "https://api.github.com/repos/sr6033/ccextractor/languages",
+  "created_at": "2018-03-15T09:38:36Z",
+  "updated_at": "2018-07-25T07:13:29Z",
+  "pushed_at": "2018-03-13T19:40:10Z",
+  "homepage": "https://www.ccextractor.org",
+  "size": 87428,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "krushanbauva": 1,
+    "achaudhary997": 1,
+    "Souravirus": 1,
+    "mkver": 1,
+    "AbhijithGanesan": 1,
+    "DHSYongJun": 1,
+    "gray-v": 1,
+    "squarebracket": 1,
+    "TheFaR8": 1,
+    "govindbalaji-s": 1,
+    "HemangRajvanshy": 1,
+    "namanyadav12": 1,
+    "anukul": 1,
+    "atishayjain708": 1,
+    "victoriastaada": 1,
+    "doluz": 1,
+    "TehTotalPwnage": 1,
+    "Xuhairong": 1,
+    "Liontooth": 1,
+    "nehabagari": 1,
+    "vinayakathavale": 1,
+    "codeman38": 1,
+    "ivladak": 1,
+    "hardikchoudhary12": 1,
+    "shucon": 2,
+    "iha": 2,
+    "LucasYoung": 2,
+    "gonzaloUr": 2,
+    "saurabhkapur": 2,
+    "JuanPotato": 2,
+    "nikofil": 2,
+    "uajain": 2,
+    "saurabhshah0410": 3,
+    "jasonhancock": 3,
+    "emthequan": 3,
+    "gshruti95": 3,
+    "at25sep": 3,
+    "mahalwal": 4,
+    "aadibajpai": 4,
+    "mackworth": 4,
+    "Amey-Jain": 4,
+    "kapilkd13": 4,
+    "ManveerBasra": 4,
+    "YorkHe": 4,
+    "Hori75": 5,
+    "barun511": 5,
+    "thealphadollar": 8,
+    "BPYap": 8,
+    "sidgairo18": 9,
+    "lennonwoo": 10,
+    "fandango-": 10,
+    "maxkoryukov": 14,
+    "DeeprajPandey": 14,
+    "MatejMecka": 15,
+    "brooss": 22,
+    "abhishek-vinjamoori": 22,
+    "DanilaFe": 25,
+    "alexbrt": 28,
+    "techfreakworm": 30,
+    "bigharshrag": 32,
+    "canihavesomecoffee": 33,
+    "harrynull": 34,
+    "saurabhshri": 48,
+    "Diptanshu8": 56,
+    "kisselef": 73,
+    "Izaron": 82,
+    "rkuchumov": 86,
+    "Abhinav95": 87,
+    "cfsmp3": 251,
+    "anshul1912": 504
+  },
+  "languages": {
+    "C": {
+      "bytes": 18759797,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 833031,
+      "color": "#f34b7d"
+    },
+    "Python": {
+      "bytes": 195103,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 91033,
+      "color": "#427819"
+    },
+    "Objective-C": {
+      "bytes": 67857,
+      "color": "#438eff"
+    },
+    "Shell": {
+      "bytes": 28593,
+      "color": "#89e051"
+    },
+    "Perl": {
+      "bytes": 13044,
+      "color": "#0298c3"
+    },
+    "CMake": {
+      "bytes": 12273,
+      "color": "#ccc"
+    },
+    "M4": {
+      "bytes": 12141,
+      "color": "#ccc"
+    },
+    "Batchfile": {
+      "bytes": 1694,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/sr6033/ccextractor/pulls{/number}",
+  "pulls_authors": []
+}

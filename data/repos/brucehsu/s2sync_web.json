@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "s2sync_web",
+  "full_name": "brucehsu/s2sync_web",
+  "owner": "brucehsu",
+  "private": false,
+  "html_url": "https://github.com/brucehsu/s2sync_web",
+  "description": "Simple Status Sync Web app, written with Sinatra web framework",
+  "fork": false,
+  "url": "https://api.github.com/repos/brucehsu/s2sync_web",
+  "languages_url": "https://api.github.com/repos/brucehsu/s2sync_web/languages",
+  "pulls_url": "https://api.github.com/repos/brucehsu/s2sync_web/pulls{/number}",
+  "created_at": "2011-09-25T23:22:05Z",
+  "updated_at": "2014-01-09T04:41:18Z",
+  "pushed_at": "2013-08-30T14:48:45Z",
+  "homepage": "http://s2sync.brucehsu.org",
+  "size": 645,
+  "stargazers_count": 2,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "godfat": 3,
+    "brucehsu": 63
+  },
+  "pulls_authors": [
+    "brucehsu",
+    "godfat"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 240823,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 24751,
+      "color": "#f1e05a"
+    },
+    "Ruby": {
+      "bytes": 9974,
+      "color": "#701516"
+    },
+    "CoffeeScript": {
+      "bytes": 1145,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:06.958Z"
+}

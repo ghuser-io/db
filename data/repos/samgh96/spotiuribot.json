@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "spotiuribot",
+  "full_name": "samgh96/spotiuribot",
+  "owner": "samgh96",
+  "private": false,
+  "html_url": "https://github.com/samgh96/spotiuribot",
+  "description": "Telegram bot written in Elixir, given a Spotify URI returns its data.",
+  "fork": false,
+  "url": "https://api.github.com/repos/samgh96/spotiuribot",
+  "languages_url": "https://api.github.com/repos/samgh96/spotiuribot/languages",
+  "pulls_url": "https://api.github.com/repos/samgh96/spotiuribot/pulls{/number}",
+  "created_at": "2017-05-09T08:44:02Z",
+  "updated_at": "2017-06-09T11:13:07Z",
+  "pushed_at": "2017-07-05T09:29:59Z",
+  "homepage": null,
+  "size": 11,
+  "stargazers_count": 2,
+  "language": "Elixir",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "samgh96": 7
+  },
+  "pulls_authors": [
+    "rockneurotiko",
+    "Ironjanowar"
+  ],
+  "languages": {
+    "Elixir": {
+      "bytes": 7945,
+      "color": "#6e4a7e"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:42.778Z"
+}

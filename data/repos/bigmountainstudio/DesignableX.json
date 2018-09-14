@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "DesignableX",
+  "full_name": "bigmountainstudio/DesignableX",
+  "owner": "bigmountainstudio",
+  "private": false,
+  "html_url": "https://github.com/bigmountainstudio/DesignableX",
+  "description": "This repository holds @IBDesignable files that can be used to extend the Interface Builder and make it easier to customize controls on the Storyboard.",
+  "fork": false,
+  "url": "https://api.github.com/repos/bigmountainstudio/DesignableX",
+  "languages_url": "https://api.github.com/repos/bigmountainstudio/DesignableX/languages",
+  "pulls_url": "https://api.github.com/repos/bigmountainstudio/DesignableX/pulls{/number}",
+  "created_at": "2016-12-31T17:37:17Z",
+  "updated_at": "2018-09-10T17:19:41Z",
+  "pushed_at": "2018-04-06T00:43:46Z",
+  "homepage": null,
+  "size": 2025,
+  "stargazers_count": 156,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ppearson111": 1,
+    "imjog": 4,
+    "bigmountainstudio": 6,
+    "mjmoeykens": 26
+  },
+  "pulls_authors": [
+    "imjog",
+    "ppearson111"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 23356,
+      "color": "#ffac45"
+    }
+  },
+  "fetched_at": "2018-09-10T19:01:33.344Z"
+}

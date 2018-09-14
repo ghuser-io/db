@@ -1,0 +1,203 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mupen64plus-ae",
+  "full_name": "mupen64plus-ae/mupen64plus-ae",
+  "owner": "mupen64plus-ae",
+  "private": false,
+  "html_url": "https://github.com/mupen64plus-ae/mupen64plus-ae",
+  "description": "Mupen64Plus, Android Edition (AE) is a port of Mupen64Plus to Android. (Not officially supported by the Mupen64Plus team)",
+  "fork": false,
+  "url": "https://api.github.com/repos/mupen64plus-ae/mupen64plus-ae",
+  "languages_url": "https://api.github.com/repos/mupen64plus-ae/mupen64plus-ae/languages",
+  "pulls_url": "https://api.github.com/repos/mupen64plus-ae/mupen64plus-ae/pulls{/number}",
+  "created_at": "2012-05-05T23:18:43Z",
+  "updated_at": "2018-09-12T11:46:08Z",
+  "pushed_at": "2018-09-11T04:02:03Z",
+  "homepage": null,
+  "size": 99707,
+  "stargazers_count": 182,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "mupen64plus-ae",
+    "id": 6227843,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYyMjc4NDM=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/6227843?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mupen64plus-ae",
+    "html_url": "https://github.com/mupen64plus-ae",
+    "followers_url": "https://api.github.com/users/mupen64plus-ae/followers",
+    "following_url": "https://api.github.com/users/mupen64plus-ae/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mupen64plus-ae/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mupen64plus-ae/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mupen64plus-ae/subscriptions",
+    "organizations_url": "https://api.github.com/users/mupen64plus-ae/orgs",
+    "repos_url": "https://api.github.com/users/mupen64plus-ae/repos",
+    "events_url": "https://api.github.com/users/mupen64plus-ae/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mupen64plus-ae/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Poussinou": 1,
+    "zygimantus": 1,
+    "williansti": 1,
+    "BonzaiThePenguin": 1,
+    "Themaister": 1,
+    "securingsincity": 1,
+    "V1del": 1,
+    "ilag11111": 1,
+    "rudymatela": 1,
+    "DannyAnsca": 1,
+    "MP2E": 1,
+    "FiachAntaw": 2,
+    "ptitSeb": 2,
+    "Nebuleon": 3,
+    "easyaspi314": 4,
+    "twinaphex": 4,
+    "divVerent": 4,
+    "rlabrecque": 4,
+    "cry0": 6,
+    "npepinpe": 7,
+    "nicklauslittle": 9,
+    "javaxubuntu": 11,
+    "xperia64": 11,
+    "loganmc10": 13,
+    "gdkchan": 13,
+    "bentley": 19,
+    "Metricity": 21,
+    "bsmiles32": 88,
+    "paulscode": 212,
+    "lioncash": 244,
+    "ecsv": 620,
+    "richard42": 625,
+    "fzurita": 1254,
+    "littleguy77": 1559
+  },
+  "pulls_authors": [
+    "Poussinou",
+    "justinmichaud",
+    "loganmc10",
+    "zygimantus",
+    "easyaspi314",
+    "fzurita",
+    "nicklauslittle",
+    "javaxubuntu",
+    "williansti",
+    "SnakeHugz",
+    "RICARDOTOPETE57",
+    "littleguy77",
+    "Gillou68310",
+    "No1ofconsequenz",
+    "jaymaxim",
+    "gddurruti",
+    "samuka004",
+    "BonzaiThePenguin",
+    "securingsincity",
+    "Zaneris",
+    "sergio820247",
+    "FiachAntaw",
+    "MP2E",
+    "ecsv"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 23378950,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 6736123,
+      "color": "#f34b7d"
+    },
+    "Java": {
+      "bytes": 1356562,
+      "color": "#b07219"
+    },
+    "HTML": {
+      "bytes": 469883,
+      "color": "#e34c26"
+    },
+    "Objective-C": {
+      "bytes": 311957,
+      "color": "#438eff"
+    },
+    "Roff": {
+      "bytes": 283395,
+      "color": "#ecdebe"
+    },
+    "Makefile": {
+      "bytes": 199664,
+      "color": "#427819"
+    },
+    "CMake": {
+      "bytes": 122775,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 72626,
+      "color": "#89e051"
+    },
+    "Assembly": {
+      "bytes": 44512,
+      "color": "#6E4C13"
+    },
+    "Awk": {
+      "bytes": 43244,
+      "color": "#ccc"
+    },
+    "M4": {
+      "bytes": 38114,
+      "color": "#ccc"
+    },
+    "Python": {
+      "bytes": 37828,
+      "color": "#3572A5"
+    },
+    "Perl": {
+      "bytes": 34565,
+      "color": "#0298c3"
+    },
+    "C#": {
+      "bytes": 32732,
+      "color": "#178600"
+    },
+    "Pascal": {
+      "bytes": 17671,
+      "color": "#E3F171"
+    },
+    "DIGITAL Command Language": {
+      "bytes": 10718,
+      "color": "#ccc"
+    },
+    "Batchfile": {
+      "bytes": 9546,
+      "color": "#C1F12E"
+    },
+    "Objective-C++": {
+      "bytes": 3108,
+      "color": "#6866fb"
+    },
+    "Module Management System": {
+      "bytes": 2074,
+      "color": "#ccc"
+    },
+    "QMake": {
+      "bytes": 1767,
+      "color": "#ccc"
+    },
+    "Dockerfile": {
+      "bytes": 944,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-12T16:50:11.462Z"
+}

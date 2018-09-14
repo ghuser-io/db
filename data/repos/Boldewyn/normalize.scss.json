@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "normalize.scss",
+  "full_name": "Boldewyn/normalize.scss",
+  "owner": "Boldewyn",
+  "private": false,
+  "html_url": "https://github.com/Boldewyn/normalize.scss",
+  "description": "A Sass version of normalize.css",
+  "fork": false,
+  "url": "https://api.github.com/repos/Boldewyn/normalize.scss",
+  "languages_url": "https://api.github.com/repos/Boldewyn/normalize.scss/languages",
+  "pulls_url": "https://api.github.com/repos/Boldewyn/normalize.scss/pulls{/number}",
+  "created_at": "2012-04-16T13:45:44Z",
+  "updated_at": "2013-11-28T04:47:29Z",
+  "pushed_at": "2012-04-25T13:24:00Z",
+  "homepage": "http://necolas.github.com/normalize.css/",
+  "size": 92,
+  "stargazers_count": 3,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Boldewyn": 3
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T04:57:56.020Z"
+}

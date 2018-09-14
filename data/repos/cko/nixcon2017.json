@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nixcon2017",
+  "full_name": "cko/nixcon2017",
+  "owner": "cko",
+  "private": false,
+  "html_url": "https://github.com/cko/nixcon2017",
+  "description": "Source of the NixCon 2017 website",
+  "fork": false,
+  "url": "https://api.github.com/repos/cko/nixcon2017",
+  "languages_url": "https://api.github.com/repos/cko/nixcon2017/languages",
+  "pulls_url": "https://api.github.com/repos/cko/nixcon2017/pulls{/number}",
+  "created_at": "2017-02-04T20:16:29Z",
+  "updated_at": "2018-04-02T14:09:46Z",
+  "pushed_at": "2018-04-02T14:14:10Z",
+  "homepage": "http://nixcon2017.org/",
+  "size": 64808,
+  "stargazers_count": 6,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Profpatsch": 1,
+    "regnat": 1,
+    "fpletz": 1,
+    "moretea": 1,
+    "johbo": 1,
+    "copumpkin": 1,
+    "k0001": 1,
+    "gilligan": 2,
+    "zimbatm": 2,
+    "seelmann": 3,
+    "maxhbr": 16,
+    "cko": 129
+  },
+  "pulls_authors": [
+    "Profpatsch",
+    "regnat",
+    "fpletz",
+    "gilligan",
+    "moretea",
+    "johbo",
+    "copumpkin",
+    "maxhbr",
+    "k0001",
+    "zimbatm"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 805976,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 4950,
+      "color": "#563d7c"
+    },
+    "Haskell": {
+      "bytes": 1907,
+      "color": "#5e5086"
+    },
+    "JavaScript": {
+      "bytes": 1115,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 748,
+      "color": "#89e051"
+    },
+    "Nix": {
+      "bytes": 390,
+      "color": "#7e7eff"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:43.741Z"
+}

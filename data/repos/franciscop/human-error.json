@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "human-error",
+  "full_name": "franciscop/human-error",
+  "owner": "franciscop",
+  "private": false,
+  "html_url": "https://github.com/franciscop/human-error",
+  "description": "Allows you to write errors so people can understand",
+  "fork": false,
+  "url": "https://api.github.com/repos/franciscop/human-error",
+  "languages_url": "https://api.github.com/repos/franciscop/human-error/languages",
+  "pulls_url": "https://api.github.com/repos/franciscop/human-error/pulls{/number}",
+  "created_at": "2017-01-27T21:03:45Z",
+  "updated_at": "2017-11-04T22:42:52Z",
+  "pushed_at": "2017-07-24T21:06:03Z",
+  "homepage": "",
+  "size": 544,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "franciscop": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6700,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T00:05:00.885Z"
+}

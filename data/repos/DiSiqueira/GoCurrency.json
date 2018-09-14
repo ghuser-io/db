@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "GoCurrency",
+  "full_name": "DiSiqueira/GoCurrency",
+  "owner": "DiSiqueira",
+  "private": false,
+  "html_url": "https://github.com/DiSiqueira/GoCurrency",
+  "description": "Simple currency converter. Insert an amount, what currency to convert from and what currency to convert to.",
+  "fork": false,
+  "url": "https://api.github.com/repos/DiSiqueira/GoCurrency",
+  "languages_url": "https://api.github.com/repos/DiSiqueira/GoCurrency/languages",
+  "created_at": "2017-03-19T08:48:40Z",
+  "updated_at": "2018-07-19T04:09:23Z",
+  "pushed_at": "2018-04-10T07:36:48Z",
+  "homepage": "https://disiqueira.github.io/GoCurrency/",
+  "size": 10,
+  "stargazers_count": 19,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "DiSiqueira": 17
+  },
+  "languages": {
+    "Go": {
+      "bytes": 2387,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/DiSiqueira/GoCurrency/pulls{/number}",
+  "pulls_authors": [
+    "MichaelTSS"
+  ]
+}

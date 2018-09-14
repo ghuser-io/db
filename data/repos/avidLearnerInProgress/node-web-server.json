@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-web-server",
+  "full_name": "avidLearnerInProgress/node-web-server",
+  "owner": "avidLearnerInProgress",
+  "private": false,
+  "html_url": "https://github.com/avidLearnerInProgress/node-web-server",
+  "description": "Simple web server built using node.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/avidLearnerInProgress/node-web-server",
+  "languages_url": "https://api.github.com/repos/avidLearnerInProgress/node-web-server/languages",
+  "created_at": "2018-01-24T06:24:32Z",
+  "updated_at": "2018-03-30T01:50:08Z",
+  "pushed_at": "2018-01-24T07:37:26Z",
+  "homepage": "https://powerful-basin-63801.herokuapp.com/",
+  "size": 9,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "avidLearnerInProgress": 5
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 1443,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1162,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/avidLearnerInProgress/node-web-server/pulls{/number}",
+  "pulls_authors": []
+}

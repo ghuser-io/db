@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "3d-earth",
+  "full_name": "cheeaun/3d-earth",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/3d-earth",
+  "description": "🌏🌎🌍 3D Earth with Mapbox GL, D3.js and Three.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/3d-earth",
+  "languages_url": "https://api.github.com/repos/cheeaun/3d-earth/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/3d-earth/pulls{/number}",
+  "created_at": "2017-09-04T00:49:47Z",
+  "updated_at": "2018-09-11T05:15:37Z",
+  "pushed_at": "2017-09-13T14:18:48Z",
+  "homepage": "https://cheeaun.github.io/3d-earth/",
+  "size": 1542,
+  "stargazers_count": 25,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 36
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 10514,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T10:34:24.949Z"
+}

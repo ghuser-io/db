@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "native-client",
+  "full_name": "andy-portmen/native-client",
+  "owner": "andy-portmen",
+  "private": false,
+  "html_url": "https://github.com/andy-portmen/native-client",
+  "description": "This is a node wrapper for Native Messaging for Windows, Linux, and Mac OS.",
+  "fork": false,
+  "url": "https://api.github.com/repos/andy-portmen/native-client",
+  "languages_url": "https://api.github.com/repos/andy-portmen/native-client/languages",
+  "pulls_url": "https://api.github.com/repos/andy-portmen/native-client/pulls{/number}",
+  "created_at": "2016-12-05T10:16:04Z",
+  "updated_at": "2018-09-14T07:47:07Z",
+  "pushed_at": "2018-08-07T11:18:07Z",
+  "homepage": "http://add0n.com/open-in.html",
+  "size": 64775,
+  "stargazers_count": 164,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mpl-2.0",
+    "name": "Mozilla Public License 2.0",
+    "spdx_id": "MPL-2.0",
+    "url": "https://api.github.com/licenses/mpl-2.0",
+    "node_id": "MDc6TGljZW5zZTE0"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jayvdb": 1,
+    "piroor": 1,
+    "andy-portmen": 69
+  },
+  "pulls_authors": [
+    "ghost",
+    "jayvdb",
+    "piroor"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 38275,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 1896,
+      "color": "#89e051"
+    },
+    "Batchfile": {
+      "bytes": 1244,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-14T08:30:19.762Z"
+}

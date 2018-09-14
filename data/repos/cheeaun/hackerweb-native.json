@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hackerweb-native",
+  "full_name": "cheeaun/hackerweb-native",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/hackerweb-native",
+  "description": "A simply readable Hacker News app for iOS & Android, built with React Native",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/hackerweb-native",
+  "languages_url": "https://api.github.com/repos/cheeaun/hackerweb-native/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/hackerweb-native/pulls{/number}",
+  "created_at": "2015-08-10T07:20:26Z",
+  "updated_at": "2018-09-09T12:41:35Z",
+  "pushed_at": "2018-06-25T08:26:17Z",
+  "homepage": "http://hackerwebapp.com/",
+  "size": 9499,
+  "stargazers_count": 156,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 205
+  },
+  "pulls_authors": [
+    "Photonios"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 56222,
+      "color": "#f1e05a"
+    },
+    "Objective-C": {
+      "bytes": 5551,
+      "color": "#438eff"
+    },
+    "Python": {
+      "bytes": 1512,
+      "color": "#3572A5"
+    },
+    "Java": {
+      "bytes": 1265,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:57.504Z"
+}

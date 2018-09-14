@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "debian-debootstrap",
+  "full_name": "multiarch/debian-debootstrap",
+  "owner": "multiarch",
+  "private": false,
+  "html_url": "https://github.com/multiarch/debian-debootstrap",
+  "description": ":earth_africa: `debian-debootstrap` Docker image for multiple architectures",
+  "fork": false,
+  "url": "https://api.github.com/repos/multiarch/debian-debootstrap",
+  "languages_url": "https://api.github.com/repos/multiarch/debian-debootstrap/languages",
+  "pulls_url": "https://api.github.com/repos/multiarch/debian-debootstrap/pulls{/number}",
+  "created_at": "2015-12-01T21:34:57Z",
+  "updated_at": "2018-09-14T02:51:37Z",
+  "pushed_at": "2018-05-26T17:02:48Z",
+  "homepage": "https://hub.docker.com/r/multiarch/debian-debootstrap/",
+  "size": 32,
+  "stargazers_count": 16,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "multiarch",
+    "id": 16105548,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2MTA1NTQ4",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/16105548?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/multiarch",
+    "html_url": "https://github.com/multiarch",
+    "followers_url": "https://api.github.com/users/multiarch/followers",
+    "following_url": "https://api.github.com/users/multiarch/following{/other_user}",
+    "gists_url": "https://api.github.com/users/multiarch/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/multiarch/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/multiarch/subscriptions",
+    "organizations_url": "https://api.github.com/users/multiarch/orgs",
+    "repos_url": "https://api.github.com/users/multiarch/repos",
+    "events_url": "https://api.github.com/users/multiarch/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/multiarch/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "meyskens": 1,
+    "QuentinPerez": 1,
+    "ShadowWings": 3,
+    "lafin": 4,
+    "moul": 17
+  },
+  "pulls_authors": [
+    "ShadowWings",
+    "dennis-tiepie",
+    "meyskens",
+    "lafin",
+    "QuentinPerez"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 2395,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T08:33:57.049Z"
+}

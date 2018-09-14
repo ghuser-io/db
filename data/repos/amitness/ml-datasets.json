@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ml-datasets",
+  "full_name": "amitness/ml-datasets",
+  "owner": "amitness",
+  "private": false,
+  "html_url": "https://github.com/amitness/ml-datasets",
+  "description": "Machine Learning datasets from Nepalese Researchers",
+  "fork": false,
+  "url": "https://api.github.com/repos/amitness/ml-datasets",
+  "languages_url": "https://api.github.com/repos/amitness/ml-datasets/languages",
+  "pulls_url": "https://api.github.com/repos/amitness/ml-datasets/pulls{/number}",
+  "created_at": "2018-07-27T16:29:39Z",
+  "updated_at": "2018-08-02T04:22:24Z",
+  "pushed_at": "2018-07-27T17:18:32Z",
+  "homepage": "",
+  "size": 12,
+  "stargazers_count": 18,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "amitness": 11
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-08-18T09:17:23.525Z"
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Deep-learning-model-for-stock-price-prediction",
+  "full_name": "sr6033/Deep-learning-model-for-stock-price-prediction",
+  "owner": "sr6033",
+  "private": false,
+  "html_url": "https://github.com/sr6033/Deep-learning-model-for-stock-price-prediction",
+  "description": "A simple deep learning model for predicting SP500 stock price using TensorFlow",
+  "fork": false,
+  "url": "https://api.github.com/repos/sr6033/Deep-learning-model-for-stock-price-prediction",
+  "languages_url": "https://api.github.com/repos/sr6033/Deep-learning-model-for-stock-price-prediction/languages",
+  "created_at": "2018-03-01T04:56:15Z",
+  "updated_at": "2018-07-25T07:13:47Z",
+  "pushed_at": "2018-03-01T06:00:30Z",
+  "homepage": null,
+  "size": 30,
+  "stargazers_count": 1,
+  "language": "Jupyter Notebook",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sr6033": 4
+  },
+  "languages": {
+    "Jupyter Notebook": {
+      "bytes": 45651,
+      "color": "#DA5B0B"
+    },
+    "Python": {
+      "bytes": 4178,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/sr6033/Deep-learning-model-for-stock-price-prediction/pulls{/number}",
+  "pulls_authors": []
+}

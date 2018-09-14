@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gr-dvbt",
+  "full_name": "BogdanDIA/gr-dvbt",
+  "owner": "BogdanDIA",
+  "private": false,
+  "html_url": "https://github.com/BogdanDIA/gr-dvbt",
+  "description": "DVB-T implementation in gnuradio",
+  "fork": false,
+  "url": "https://api.github.com/repos/BogdanDIA/gr-dvbt",
+  "languages_url": "https://api.github.com/repos/BogdanDIA/gr-dvbt/languages",
+  "pulls_url": "https://api.github.com/repos/BogdanDIA/gr-dvbt/pulls{/number}",
+  "created_at": "2014-01-04T19:24:05Z",
+  "updated_at": "2018-08-24T08:28:51Z",
+  "pushed_at": "2017-04-24T15:14:19Z",
+  "homepage": null,
+  "size": 6717,
+  "stargazers_count": 107,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "bryant1410": 1,
+    "giomasce": 1,
+    "jmcorgan": 2,
+    "BogdanDIA": 456
+  },
+  "pulls_authors": [
+    "bryant1410",
+    "giomasce",
+    "jmcorgan",
+    "edy555",
+    "maggo1404"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 317223,
+      "color": "#f34b7d"
+    },
+    "CMake": {
+      "bytes": 63960,
+      "color": "#ccc"
+    },
+    "Python": {
+      "bytes": 55581,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 29973,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 433,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:25.826Z"
+}

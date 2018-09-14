@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "my-emacs-config",
+  "full_name": "AurelienLourot/my-emacs-config",
+  "owner": "AurelienLourot",
+  "private": false,
+  "html_url": "https://github.com/AurelienLourot/my-emacs-config",
+  "description": "My Emacs config",
+  "fork": false,
+  "url": "https://api.github.com/repos/AurelienLourot/my-emacs-config",
+  "languages_url": "https://api.github.com/repos/AurelienLourot/my-emacs-config/languages",
+  "created_at": "2018-03-11T13:39:48Z",
+  "updated_at": "2018-09-13T15:18:43Z",
+  "pushed_at": "2018-09-13T15:18:41Z",
+  "homepage": null,
+  "size": 3776,
+  "stargazers_count": 1,
+  "language": "Emacs Lisp",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "AurelienLourot": 29
+  },
+  "languages": {
+    "Emacs Lisp": {
+      "bytes": 16927,
+      "color": "#c065db"
+    },
+    "Shell": {
+      "bytes": 1004,
+      "color": "#89e051"
+    }
+  },
+  "settings": {
+    "_comment": "Repo metadata for ghuser.io. See https://github.com/ghuser-io/ghuser.io/blob/master/docs/repo-settings.md",
+    "avatar_url": "https://rawgit.com/AurelienLourot/crouton-emacs-conf/master/thirdparty/480px-EmacsIcon.svg.png"
+  },
+  "fetched_at": "2018-09-13T16:24:14.006Z",
+  "pulls_url": "https://api.github.com/repos/AurelienLourot/my-emacs-config/pulls{/number}",
+  "pulls_authors": []
+}

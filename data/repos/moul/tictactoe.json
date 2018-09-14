@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tictactoe",
+  "full_name": "moul/tictactoe",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/tictactoe",
+  "description": ":game_die: Tic Tac Toe resolver in Golang",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/tictactoe",
+  "languages_url": "https://api.github.com/repos/moul/tictactoe/languages",
+  "pulls_url": "https://api.github.com/repos/moul/tictactoe/pulls{/number}",
+  "created_at": "2015-11-09T22:23:46Z",
+  "updated_at": "2016-05-24T11:43:47Z",
+  "pushed_at": "2016-05-28T19:45:04Z",
+  "homepage": "tictactoe.m.42.am",
+  "size": 19,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 14
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 9503,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 316,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:55.508Z"
+}

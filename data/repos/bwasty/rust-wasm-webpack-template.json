@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rust-wasm-webpack-template",
+  "full_name": "bwasty/rust-wasm-webpack-template",
+  "owner": "bwasty",
+  "private": false,
+  "html_url": "https://github.com/bwasty/rust-wasm-webpack-template",
+  "description": "Small template for compiling Rust to WebAssembly with webpack and live reloading",
+  "fork": false,
+  "url": "https://api.github.com/repos/bwasty/rust-wasm-webpack-template",
+  "languages_url": "https://api.github.com/repos/bwasty/rust-wasm-webpack-template/languages",
+  "pulls_url": "https://api.github.com/repos/bwasty/rust-wasm-webpack-template/pulls{/number}",
+  "created_at": "2017-09-30T09:07:58Z",
+  "updated_at": "2018-09-13T08:02:09Z",
+  "pushed_at": "2017-09-30T20:00:47Z",
+  "homepage": "",
+  "size": 899,
+  "stargazers_count": 7,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bwasty": 10
+  },
+  "pulls_authors": [
+    "bwasty"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 3181,
+      "color": "#f1e05a"
+    },
+    "Rust": {
+      "bytes": 222,
+      "color": "#dea584"
+    }
+  },
+  "fetched_at": "2018-09-13T16:25:32.388Z"
+}

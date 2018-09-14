@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Fancy-Calculator-App-",
+  "full_name": "jamesgeorge007/Fancy-Calculator-App-",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/Fancy-Calculator-App-",
+  "description": "This is a Desktop application built using the Tkinter module in python.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/Fancy-Calculator-App-",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/Fancy-Calculator-App-/languages",
+  "created_at": "2017-12-08T10:55:24Z",
+  "updated_at": "2018-04-08T08:35:28Z",
+  "pushed_at": "2018-04-08T08:35:27Z",
+  "homepage": "",
+  "size": 67,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jamesgeorge007": 23
+  },
+  "languages": {
+    "Python": {
+      "bytes": 9497,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/Fancy-Calculator-App-/pulls{/number}",
+  "pulls_authors": []
+}

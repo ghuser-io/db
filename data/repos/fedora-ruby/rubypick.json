@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rubypick",
+  "full_name": "fedora-ruby/rubypick",
+  "owner": "fedora-ruby",
+  "private": false,
+  "html_url": "https://github.com/fedora-ruby/rubypick",
+  "description": "/usr/bin/ruby stub to allow choosing Ruby runtime",
+  "fork": false,
+  "url": "https://api.github.com/repos/fedora-ruby/rubypick",
+  "languages_url": "https://api.github.com/repos/fedora-ruby/rubypick/languages",
+  "pulls_url": "https://api.github.com/repos/fedora-ruby/rubypick/pulls{/number}",
+  "created_at": "2012-12-04T11:34:02Z",
+  "updated_at": "2017-05-17T16:20:38Z",
+  "pushed_at": "2018-02-08T08:40:04Z",
+  "homepage": "",
+  "size": 190,
+  "stargazers_count": 10,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "fedora-ruby",
+    "id": 7008810,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjcwMDg4MTA=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/7008810?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/fedora-ruby",
+    "html_url": "https://github.com/fedora-ruby",
+    "followers_url": "https://api.github.com/users/fedora-ruby/followers",
+    "following_url": "https://api.github.com/users/fedora-ruby/following{/other_user}",
+    "gists_url": "https://api.github.com/users/fedora-ruby/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/fedora-ruby/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/fedora-ruby/subscriptions",
+    "organizations_url": "https://api.github.com/users/fedora-ruby/orgs",
+    "repos_url": "https://api.github.com/users/fedora-ruby/repos",
+    "events_url": "https://api.github.com/users/fedora-ruby/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/fedora-ruby/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "voxik": 6,
+    "bkabrda": 7
+  },
+  "pulls_authors": [
+    "jayvdb",
+    "voxik"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 2365,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

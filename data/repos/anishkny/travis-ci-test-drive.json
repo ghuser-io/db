@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "travis-ci-test-drive",
+  "full_name": "anishkny/travis-ci-test-drive",
+  "owner": "anishkny",
+  "private": false,
+  "html_url": "https://github.com/anishkny/travis-ci-test-drive",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/anishkny/travis-ci-test-drive",
+  "languages_url": "https://api.github.com/repos/anishkny/travis-ci-test-drive/languages",
+  "pulls_url": "https://api.github.com/repos/anishkny/travis-ci-test-drive/pulls{/number}",
+  "created_at": "2017-04-23T04:47:22Z",
+  "updated_at": "2018-02-02T04:31:39Z",
+  "pushed_at": "2018-02-02T04:34:35Z",
+  "homepage": null,
+  "size": 34,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "anishkny": 17
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 368,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:39.497Z"
+}

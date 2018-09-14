@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "new-issue",
+  "full_name": "wei/new-issue",
+  "owner": "wei",
+  "private": false,
+  "html_url": "https://github.com/wei/new-issue",
+  "description": "A fully customizable Github issues interface. Setup for your repo today!",
+  "fork": false,
+  "url": "https://api.github.com/repos/wei/new-issue",
+  "languages_url": "https://api.github.com/repos/wei/new-issue/languages",
+  "created_at": "2018-05-11T23:24:12Z",
+  "updated_at": "2018-09-10T15:39:28Z",
+  "pushed_at": "2018-09-10T15:42:19Z",
+  "homepage": "https://new-issue.org",
+  "size": 1615,
+  "stargazers_count": 14,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "wei": 18,
+    "depfu[bot]": 54
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 45780,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 3387,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 811,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-10T19:07:50.378Z",
+  "pulls_url": "https://api.github.com/repos/wei/new-issue/pulls{/number}",
+  "pulls_authors": [
+    "depfu[bot]",
+    "wei",
+    "fossabot"
+  ]
+}

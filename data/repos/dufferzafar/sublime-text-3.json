@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sublime-text-3",
+  "full_name": "dufferzafar/sublime-text-3",
+  "owner": "dufferzafar",
+  "private": false,
+  "html_url": "https://github.com/dufferzafar/sublime-text-3",
+  "description": "My Sublime Text 3 config & some custom packages",
+  "fork": false,
+  "url": "https://api.github.com/repos/dufferzafar/sublime-text-3",
+  "languages_url": "https://api.github.com/repos/dufferzafar/sublime-text-3/languages",
+  "pulls_url": "https://api.github.com/repos/dufferzafar/sublime-text-3/pulls{/number}",
+  "created_at": "2017-12-12T19:32:19Z",
+  "updated_at": "2018-07-19T10:03:02Z",
+  "pushed_at": "2018-07-19T10:03:01Z",
+  "homepage": "",
+  "size": 47,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "pykong": 1,
+    "dufferzafar": 46
+  },
+  "pulls_authors": [
+    "pykong"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 8018,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 58,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-03T12:56:53.147Z"
+}

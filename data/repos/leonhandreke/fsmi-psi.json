@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fsmi-psi",
+  "full_name": "leonhandreke/fsmi-psi",
+  "owner": "leonhandreke",
+  "private": false,
+  "html_url": "https://github.com/leonhandreke/fsmi-psi",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/leonhandreke/fsmi-psi",
+  "languages_url": "https://api.github.com/repos/leonhandreke/fsmi-psi/languages",
+  "pulls_url": "https://api.github.com/repos/leonhandreke/fsmi-psi/pulls{/number}",
+  "created_at": "2012-10-05T21:36:49Z",
+  "updated_at": "2014-02-06T18:39:16Z",
+  "pushed_at": "2012-10-07T20:06:44Z",
+  "homepage": null,
+  "size": 476,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "leonhandreke": 1,
+    "nomeata": 17
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 431076,
+      "color": "#f1e05a"
+    },
+    "ASP": {
+      "bytes": 134336,
+      "color": "#6a40fd"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:19.854Z"
+}

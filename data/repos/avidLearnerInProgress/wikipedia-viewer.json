@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wikipedia-viewer",
+  "full_name": "avidLearnerInProgress/wikipedia-viewer",
+  "owner": "avidLearnerInProgress",
+  "private": false,
+  "html_url": "https://github.com/avidLearnerInProgress/wikipedia-viewer",
+  "description": "Material Design AngularJS application which searches articles from wikipedia. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/avidLearnerInProgress/wikipedia-viewer",
+  "languages_url": "https://api.github.com/repos/avidLearnerInProgress/wikipedia-viewer/languages",
+  "created_at": "2018-01-07T09:21:07Z",
+  "updated_at": "2018-03-30T01:50:17Z",
+  "pushed_at": "2018-01-09T18:47:34Z",
+  "homepage": "https://cdn.rawgit.com/avidLearnerInProgress/wikipedia-viewer/31df99f8/index.html",
+  "size": 63,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "avidLearnerInProgress": 4
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 1565,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/avidLearnerInProgress/wikipedia-viewer/pulls{/number}",
+  "pulls_authors": []
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "GoogleImagesAreMine",
+  "full_name": "itaditya/GoogleImagesAreMine",
+  "owner": "itaditya",
+  "private": false,
+  "html_url": "https://github.com/itaditya/GoogleImagesAreMine",
+  "description": "When you want a large database of images suppose for training your AI program or other super recreational purposes. You should use me . Seriously !",
+  "fork": false,
+  "url": "https://api.github.com/repos/itaditya/GoogleImagesAreMine",
+  "languages_url": "https://api.github.com/repos/itaditya/GoogleImagesAreMine/languages",
+  "created_at": "2016-08-03T14:20:18Z",
+  "updated_at": "2016-12-27T09:29:39Z",
+  "pushed_at": "2016-08-30T16:33:57Z",
+  "homepage": null,
+  "size": 3736,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "itaditya": 7
+  },
+  "languages": {
+    "Python": {
+      "bytes": 1925,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/itaditya/GoogleImagesAreMine/pulls{/number}",
+  "pulls_authors": []
+}

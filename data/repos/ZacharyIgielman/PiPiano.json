@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PiPiano",
+  "full_name": "ZacharyIgielman/PiPiano",
+  "owner": "ZacharyIgielman",
+  "private": false,
+  "html_url": "https://github.com/ZacharyIgielman/PiPiano",
+  "description": "Here you will find all the code examples and tutorials for the PiPiano add-on for the Raspberry Pi",
+  "fork": false,
+  "url": "https://api.github.com/repos/ZacharyIgielman/PiPiano",
+  "languages_url": "https://api.github.com/repos/ZacharyIgielman/PiPiano/languages",
+  "pulls_url": "https://api.github.com/repos/ZacharyIgielman/PiPiano/pulls{/number}",
+  "created_at": "2014-06-06T09:23:07Z",
+  "updated_at": "2018-07-20T20:48:42Z",
+  "pushed_at": "2015-03-30T18:00:19Z",
+  "homepage": null,
+  "size": 93971,
+  "stargazers_count": 12,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "cc0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "spdx_id": "CC0-1.0",
+    "url": "https://api.github.com/licenses/cc0-1.0",
+    "node_id": "MDc6TGljZW5zZTY="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "recantha": 3,
+    "ZacharyI123": 11,
+    "ZacharyIgielman": 28
+  },
+  "pulls_authors": [
+    "Gadgetoid",
+    "recantha"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 24570,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 5785,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:14.505Z"
+}

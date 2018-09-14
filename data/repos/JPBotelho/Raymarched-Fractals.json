@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Raymarched-Fractals",
+  "full_name": "JPBotelho/Raymarched-Fractals",
+  "owner": "JPBotelho",
+  "private": false,
+  "html_url": "https://github.com/JPBotelho/Raymarched-Fractals",
+  "description": "Mandelbulb, Juliabulb, Julia, Mandelbox, Sierpinski Piramid",
+  "fork": false,
+  "url": "https://api.github.com/repos/JPBotelho/Raymarched-Fractals",
+  "languages_url": "https://api.github.com/repos/JPBotelho/Raymarched-Fractals/languages",
+  "pulls_url": "https://api.github.com/repos/JPBotelho/Raymarched-Fractals/pulls{/number}",
+  "created_at": "2018-05-31T10:35:21Z",
+  "updated_at": "2018-08-17T16:46:49Z",
+  "pushed_at": "2018-06-10T12:31:07Z",
+  "homepage": null,
+  "size": 17183,
+  "stargazers_count": 18,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "JPBotelho": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 4536,
+      "color": "#178600"
+    },
+    "ShaderLab": {
+      "bytes": 4226,
+      "color": "#ccc"
+    },
+    "HLSL": {
+      "bytes": 3954,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-08-18T09:20:59.567Z"
+}

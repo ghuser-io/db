@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "js",
+  "full_name": "turbo/js",
+  "owner": "turbo",
+  "private": false,
+  "html_url": "https://github.com/turbo/js",
+  "description": "turbo.js - perform massive parallel computations in your browser with GPGPU.",
+  "fork": false,
+  "url": "https://api.github.com/repos/turbo/js",
+  "languages_url": "https://api.github.com/repos/turbo/js/languages",
+  "pulls_url": "https://api.github.com/repos/turbo/js/pulls{/number}",
+  "created_at": "2016-11-04T01:40:43Z",
+  "updated_at": "2018-09-13T14:45:06Z",
+  "pushed_at": "2018-08-02T15:45:57Z",
+  "homepage": "https://turbo.js.org",
+  "size": 22,
+  "stargazers_count": 2401,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "msimpson": 1,
+    "turbo": 19
+  },
+  "pulls_authors": [
+    "strangerintheq",
+    "ybgitcom",
+    "sdta25196",
+    "VictoriaLasso",
+    "bws30021",
+    "msimpson"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6986,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-13T17:04:34.269Z"
+}

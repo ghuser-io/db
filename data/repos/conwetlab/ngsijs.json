@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ngsijs",
+  "full_name": "conwetlab/ngsijs",
+  "owner": "conwetlab",
+  "private": false,
+  "html_url": "https://github.com/conwetlab/ngsijs",
+  "description": "JavaScript library for Orion Context Broker services (web & nodejs)",
+  "fork": false,
+  "url": "https://api.github.com/repos/conwetlab/ngsijs",
+  "languages_url": "https://api.github.com/repos/conwetlab/ngsijs/languages",
+  "pulls_url": "https://api.github.com/repos/conwetlab/ngsijs/pulls{/number}",
+  "created_at": "2013-02-06T11:54:44Z",
+  "updated_at": "2018-09-10T15:57:54Z",
+  "pushed_at": "2018-09-10T16:15:14Z",
+  "homepage": "",
+  "size": 1653,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "conwetlab",
+    "id": 318508,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMxODUwOA==",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/318508?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/conwetlab",
+    "html_url": "https://github.com/conwetlab",
+    "followers_url": "https://api.github.com/users/conwetlab/followers",
+    "following_url": "https://api.github.com/users/conwetlab/following{/other_user}",
+    "gists_url": "https://api.github.com/users/conwetlab/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/conwetlab/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/conwetlab/subscriptions",
+    "organizations_url": "https://api.github.com/users/conwetlab/orgs",
+    "repos_url": "https://api.github.com/users/conwetlab/repos",
+    "events_url": "https://api.github.com/users/conwetlab/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/conwetlab/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "rockneurotiko": 2,
+    "aarranz": 272
+  },
+  "pulls_authors": [
+    "aarranz",
+    "rianwouters"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 640491,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 161160,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-10T19:06:32.162Z"
+}

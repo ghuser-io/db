@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "inspection-testing",
+  "full_name": "nomeata/inspection-testing",
+  "owner": "nomeata",
+  "private": false,
+  "html_url": "https://github.com/nomeata/inspection-testing",
+  "description": "Inspection Testing for Haskell",
+  "fork": false,
+  "url": "https://api.github.com/repos/nomeata/inspection-testing",
+  "languages_url": "https://api.github.com/repos/nomeata/inspection-testing/languages",
+  "pulls_url": "https://api.github.com/repos/nomeata/inspection-testing/pulls{/number}",
+  "created_at": "2017-11-04T15:16:10Z",
+  "updated_at": "2018-09-10T06:34:45Z",
+  "pushed_at": "2018-08-11T17:46:29Z",
+  "homepage": null,
+  "size": 126,
+  "stargazers_count": 84,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "alexfmpe": 1,
+    "ulysses4ever": 1,
+    "bravit": 1,
+    "ethercrow": 1,
+    "kosmikus": 1,
+    "isovector": 4,
+    "phadej": 6,
+    "nomeata": 81
+  },
+  "pulls_authors": [
+    "alexfmpe",
+    "LightAndLight",
+    "isovector",
+    "phadej",
+    "ulysses4ever",
+    "kcsongor",
+    "bravit",
+    "ethercrow",
+    "kosmikus"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 33616,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-10T07:08:07.399Z"
+}

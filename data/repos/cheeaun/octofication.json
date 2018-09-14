@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "octofication",
+  "full_name": "cheeaun/octofication",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/octofication",
+  "description": "A nifty little Chrome extension for displaying GitHub notifications.",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/octofication",
+  "languages_url": "https://api.github.com/repos/cheeaun/octofication/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/octofication/pulls{/number}",
+  "created_at": "2012-10-29T13:25:41Z",
+  "updated_at": "2017-06-23T03:20:51Z",
+  "pushed_at": "2012-11-24T11:22:31Z",
+  "homepage": "https://chrome.google.com/webstore/detail/octofication/ooicpiadbdjcbbhamalpmdkececehgil",
+  "size": 430,
+  "stargazers_count": 16,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 17
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 112340,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T19:00:05.116Z"
+}

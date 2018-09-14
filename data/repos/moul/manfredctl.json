@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "manfredctl",
+  "full_name": "moul/manfredctl",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/manfredctl",
+  "description": ":neckbeard: Controller for the manfred daemon",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/manfredctl",
+  "languages_url": "https://api.github.com/repos/moul/manfredctl/languages",
+  "pulls_url": "https://api.github.com/repos/moul/manfredctl/pulls{/number}",
+  "created_at": "2014-12-17T17:25:15Z",
+  "updated_at": "2015-03-17T14:28:55Z",
+  "pushed_at": "2014-12-17T17:29:55Z",
+  "homepage": "",
+  "size": 100,
+  "stargazers_count": 2,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 250,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:43.653Z"
+}

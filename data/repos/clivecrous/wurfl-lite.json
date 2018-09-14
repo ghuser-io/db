@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wurfl-lite",
+  "full_name": "clivecrous/wurfl-lite",
+  "owner": "clivecrous",
+  "private": false,
+  "html_url": "https://github.com/clivecrous/wurfl-lite",
+  "description": "A lite, easy to use, Ruby implementation for accessing the WURFL database of capabilities and features for mobile devices",
+  "fork": false,
+  "url": "https://api.github.com/repos/clivecrous/wurfl-lite",
+  "languages_url": "https://api.github.com/repos/clivecrous/wurfl-lite/languages",
+  "pulls_url": "https://api.github.com/repos/clivecrous/wurfl-lite/pulls{/number}",
+  "created_at": "2012-03-04T19:33:02Z",
+  "updated_at": "2014-02-20T13:56:17Z",
+  "pushed_at": "2012-07-06T06:25:39Z",
+  "homepage": "http://www.darkarts.co.za/wurfl-lite",
+  "size": 108,
+  "stargazers_count": 8,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "noonius": 1,
+    "clivecrous": 19
+  },
+  "pulls_authors": [
+    "noonius",
+    "andremedeiros"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 4547,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T10:32:20.277Z"
+}

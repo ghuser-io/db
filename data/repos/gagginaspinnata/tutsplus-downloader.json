@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tutsplus-downloader",
+  "full_name": "gagginaspinnata/tutsplus-downloader",
+  "owner": "gagginaspinnata",
+  "private": false,
+  "html_url": "https://github.com/gagginaspinnata/tutsplus-downloader",
+  "description": "Script for bulk downloading premium course (paid users only) from tutsplus",
+  "fork": false,
+  "url": "https://api.github.com/repos/gagginaspinnata/tutsplus-downloader",
+  "languages_url": "https://api.github.com/repos/gagginaspinnata/tutsplus-downloader/languages",
+  "pulls_url": "https://api.github.com/repos/gagginaspinnata/tutsplus-downloader/pulls{/number}",
+  "created_at": "2013-11-26T12:12:59Z",
+  "updated_at": "2017-11-28T08:25:33Z",
+  "pushed_at": "2017-05-19T12:40:29Z",
+  "homepage": "",
+  "size": 11,
+  "stargazers_count": 20,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "NurdTurd": 1,
+    "PizzaLiu": 1,
+    "gagginaspinnata": 3
+  },
+  "pulls_authors": [
+    "NurdTurd",
+    "cl1ck",
+    "PizzaLiu"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 4047,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-11T14:32:15.121Z"
+}

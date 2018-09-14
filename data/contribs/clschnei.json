@@ -1,0 +1,21 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "elementalui/elemental": {
+      "full_name": "elementalui/elemental",
+      "name": "elemental",
+      "stargazers_count": 4121,
+      "popularity": 4.6149468447379975,
+      "percentage": 0.41841004184100417,
+      "maturity": 3.832388876484459,
+      "total_commits_count": 717,
+      "activity": 1.1058834186987414,
+      "total_score": 22.86652391919376,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "elementalui"
+  ]
+}

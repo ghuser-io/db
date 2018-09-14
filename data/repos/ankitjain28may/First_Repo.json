@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "First_Repo",
+  "full_name": "ankitjain28may/First_Repo",
+  "owner": "ankitjain28may",
+  "private": false,
+  "html_url": "https://github.com/ankitjain28may/First_Repo",
+  "description": "This is my first project at Github...!!!",
+  "fork": false,
+  "url": "https://api.github.com/repos/ankitjain28may/First_Repo",
+  "languages_url": "https://api.github.com/repos/ankitjain28may/First_Repo/languages",
+  "created_at": "2015-10-08T11:46:40Z",
+  "updated_at": "2015-10-08T12:34:05Z",
+  "pushed_at": "2015-10-08T12:31:55Z",
+  "homepage": null,
+  "size": 136,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ankitjain28may": 4
+  },
+  "languages": {
+    "C": {
+      "bytes": 179,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/ankitjain28may/First_Repo/pulls{/number}",
+  "pulls_authors": []
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mic",
+  "full_name": "superboum/mic",
+  "owner": "superboum",
+  "private": false,
+  "html_url": "https://github.com/superboum/mic",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/superboum/mic",
+  "languages_url": "https://api.github.com/repos/superboum/mic/languages",
+  "pulls_url": "https://api.github.com/repos/superboum/mic/pulls{/number}",
+  "created_at": "2017-10-01T20:24:26Z",
+  "updated_at": "2018-08-23T22:39:46Z",
+  "pushed_at": "2017-10-14T20:54:39Z",
+  "homepage": null,
+  "size": 15628,
+  "stargazers_count": 1,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "superboum": 23
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 33837,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:20.043Z"
+}

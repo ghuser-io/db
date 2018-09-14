@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "glitch",
+  "full_name": "contextio/glitch",
+  "owner": "contextio",
+  "private": false,
+  "html_url": "https://github.com/contextio/glitch",
+  "description": "Context.IO app for Glitch :tada:",
+  "fork": false,
+  "url": "https://api.github.com/repos/contextio/glitch",
+  "languages_url": "https://api.github.com/repos/contextio/glitch/languages",
+  "pulls_url": "https://api.github.com/repos/contextio/glitch/pulls{/number}",
+  "created_at": "2017-03-27T14:52:48Z",
+  "updated_at": "2018-08-15T06:01:14Z",
+  "pushed_at": "2018-04-08T23:05:34Z",
+  "homepage": "",
+  "size": 9,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "contextio",
+    "id": 662154,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY2MjE1NA==",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/662154?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/contextio",
+    "html_url": "https://github.com/contextio",
+    "followers_url": "https://api.github.com/users/contextio/followers",
+    "following_url": "https://api.github.com/users/contextio/following{/other_user}",
+    "gists_url": "https://api.github.com/users/contextio/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/contextio/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/contextio/subscriptions",
+    "organizations_url": "https://api.github.com/users/contextio/orgs",
+    "repos_url": "https://api.github.com/users/contextio/repos",
+    "events_url": "https://api.github.com/users/contextio/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/contextio/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "anishkny": 1,
+    "AaronLaBrie": 6
+  },
+  "pulls_authors": [
+    "anishkny",
+    "AaronLaBrie"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 5396,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 2334,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 599,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:38.616Z"
+}

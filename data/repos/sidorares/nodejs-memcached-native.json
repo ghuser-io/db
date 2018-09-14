@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nodejs-memcached-native",
+  "full_name": "sidorares/nodejs-memcached-native",
+  "owner": "sidorares",
+  "private": false,
+  "html_url": "https://github.com/sidorares/nodejs-memcached-native",
+  "description": "Native async memcached client for node.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/sidorares/nodejs-memcached-native",
+  "languages_url": "https://api.github.com/repos/sidorares/nodejs-memcached-native/languages",
+  "pulls_url": "https://api.github.com/repos/sidorares/nodejs-memcached-native/pulls{/number}",
+  "created_at": "2010-02-15T14:43:25Z",
+  "updated_at": "2018-05-13T15:59:44Z",
+  "pushed_at": "2010-02-24T11:07:39Z",
+  "homepage": "",
+  "size": 72,
+  "stargazers_count": 5,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sidorares": 1
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-11T15:19:47.540Z"
+}

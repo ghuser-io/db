@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pyley",
+  "full_name": "ziyasal/pyley",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/pyley",
+  "description": "Python client for an open-source graph database Cayley",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal/pyley",
+  "languages_url": "https://api.github.com/repos/ziyasal/pyley/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/pyley/pulls{/number}",
+  "created_at": "2014-07-08T21:45:49Z",
+  "updated_at": "2018-09-06T10:07:01Z",
+  "pushed_at": "2018-08-02T18:28:18Z",
+  "homepage": "https://cayley.io",
+  "size": 92,
+  "stargazers_count": 117,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "paultag": 1,
+    "betsybookwyrm": 1,
+    "y-usuzumi": 2,
+    "mcuadros": 6,
+    "canerbasaran": 7,
+    "abdullahselek": 22,
+    "ziyasal": 65
+  },
+  "pulls_authors": [
+    "alucardpj",
+    "y-usuzumi",
+    "paultag",
+    "betsybookwyrm",
+    "dacjames",
+    "marquisthunder",
+    "mcuadros"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 17377,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 530,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:03.078Z"
+}

@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bee-swarm",
+  "full_name": "chrismytton/bee-swarm",
+  "owner": "chrismytton",
+  "private": false,
+  "html_url": "https://github.com/chrismytton/bee-swarm",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/chrismytton/bee-swarm",
+  "languages_url": "https://api.github.com/repos/chrismytton/bee-swarm/languages",
+  "pulls_url": "https://api.github.com/repos/chrismytton/bee-swarm/pulls{/number}",
+  "created_at": "2010-01-21T11:20:06Z",
+  "updated_at": "2018-07-08T15:18:41Z",
+  "pushed_at": "2010-03-19T22:59:44Z",
+  "homepage": "",
+  "size": 100,
+  "stargazers_count": 1,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "chrismytton": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 14682,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:52.173Z"
+}

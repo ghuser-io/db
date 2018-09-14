@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cli",
+  "full_name": "puphpet/cli",
+  "owner": "puphpet",
+  "private": false,
+  "html_url": "https://github.com/puphpet/cli",
+  "description": "CLI app to interact with PuPHPet",
+  "fork": false,
+  "url": "https://api.github.com/repos/puphpet/cli",
+  "languages_url": "https://api.github.com/repos/puphpet/cli/languages",
+  "pulls_url": "https://api.github.com/repos/puphpet/cli/pulls{/number}",
+  "created_at": "2014-08-11T04:03:25Z",
+  "updated_at": "2016-11-22T09:28:43Z",
+  "pushed_at": "2014-08-11T07:44:58Z",
+  "homepage": null,
+  "size": 164,
+  "stargazers_count": 4,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "puphpet",
+    "id": 4490619,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0OTA2MTk=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/4490619?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/puphpet",
+    "html_url": "https://github.com/puphpet",
+    "followers_url": "https://api.github.com/users/puphpet/followers",
+    "following_url": "https://api.github.com/users/puphpet/following{/other_user}",
+    "gists_url": "https://api.github.com/users/puphpet/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/puphpet/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/puphpet/subscriptions",
+    "organizations_url": "https://api.github.com/users/puphpet/orgs",
+    "repos_url": "https://api.github.com/users/puphpet/repos",
+    "events_url": "https://api.github.com/users/puphpet/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/puphpet/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jtreminio": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 2810,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:28.444Z"
+}

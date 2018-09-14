@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mailcatcher",
+  "full_name": "alexandresalome/mailcatcher",
+  "owner": "alexandresalome",
+  "private": false,
+  "html_url": "https://github.com/alexandresalome/mailcatcher",
+  "description": "A library to manipulate Mailcatcher API",
+  "fork": false,
+  "url": "https://api.github.com/repos/alexandresalome/mailcatcher",
+  "languages_url": "https://api.github.com/repos/alexandresalome/mailcatcher/languages",
+  "pulls_url": "https://api.github.com/repos/alexandresalome/mailcatcher/pulls{/number}",
+  "created_at": "2013-07-07T22:34:02Z",
+  "updated_at": "2018-08-08T15:24:54Z",
+  "pushed_at": "2018-07-24T09:38:17Z",
+  "homepage": null,
+  "size": 80,
+  "stargazers_count": 111,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "blazarecki": 1,
+    "OwlyCode": 1,
+    "sgomez": 1,
+    "captbaritone": 1,
+    "Troytft": 1,
+    "damour": 1,
+    "lyrixx": 1,
+    "diegohq": 2,
+    "pix-art": 2,
+    "pfz": 2,
+    "chtipepere": 2,
+    "akovalyov": 2,
+    "nucleartux": 8,
+    "mattparker": 9,
+    "alexandresalome": 19
+  },
+  "pulls_authors": [
+    "blazarecki",
+    "diegohq",
+    "alexislefebvre",
+    "nirbhaypatil",
+    "cgrossde",
+    "OwlyCode",
+    "sgomez",
+    "bashilbers",
+    "nclsHart",
+    "pix-art",
+    "notFloran",
+    "captbaritone",
+    "nucleartux",
+    "damour",
+    "mattparker",
+    "lyrixx"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 66245,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:42.454Z"
+}

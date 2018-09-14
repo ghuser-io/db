@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "iTunesConnector",
+  "full_name": "PhilipTrauner/iTunesConnector",
+  "owner": "PhilipTrauner",
+  "private": false,
+  "html_url": "https://github.com/PhilipTrauner/iTunesConnector",
+  "description": "Python abstraction layer around ScriptingBridge to control iTunes with style.",
+  "fork": false,
+  "url": "https://api.github.com/repos/PhilipTrauner/iTunesConnector",
+  "languages_url": "https://api.github.com/repos/PhilipTrauner/iTunesConnector/languages",
+  "pulls_url": "https://api.github.com/repos/PhilipTrauner/iTunesConnector/pulls{/number}",
+  "created_at": "2015-08-09T21:03:47Z",
+  "updated_at": "2018-07-08T03:08:11Z",
+  "pushed_at": "2015-10-18T18:53:04Z",
+  "homepage": "",
+  "size": 138,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": true,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "PhilipTrauner": 37
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 30496,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:15.336Z"
+}

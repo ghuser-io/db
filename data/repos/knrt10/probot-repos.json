@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "probot-repos",
+  "full_name": "knrt10/probot-repos",
+  "owner": "knrt10",
+  "private": false,
+  "html_url": "https://github.com/knrt10/probot-repos",
+  "description": "Probot extension for events that return undefined",
+  "fork": false,
+  "url": "https://api.github.com/repos/knrt10/probot-repos",
+  "languages_url": "https://api.github.com/repos/knrt10/probot-repos/languages",
+  "created_at": "2018-04-21T11:08:21Z",
+  "updated_at": "2018-06-03T08:30:09Z",
+  "pushed_at": "2018-04-21T13:47:33Z",
+  "homepage": "",
+  "size": 6,
+  "stargazers_count": 7,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "knrt10": 6
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 1458,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-24T14:33:12.483Z",
+  "pulls_url": "https://api.github.com/repos/knrt10/probot-repos/pulls{/number}",
+  "pulls_authors": []
+}

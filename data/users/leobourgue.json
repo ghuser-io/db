@@ -1,0 +1,29 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "leobourgue",
+  "ghuser_created_at": "2018-09-10T23:14:02.831Z",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/16804221?v=4",
+  "html_url": "https://github.com/leobourgue",
+  "organizations_url": "https://api.github.com/users/leobourgue/orgs",
+  "repos_url": "https://api.github.com/users/leobourgue/repos",
+  "type": "User",
+  "name": "leo",
+  "company": null,
+  "blog": "",
+  "location": "France",
+  "email": null,
+  "bio": null,
+  "public_gists": 0,
+  "created_at": "2016-01-20T18:08:02Z",
+  "updated_at": "2018-09-01T18:09:18Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:15:22.189Z",
+    "repos": [
+      "theredspirit/ml-made-simple",
+      "matt5555/Konsensus",
+      "leobourgue/hexom",
+      "matt5555/jsgame"
+    ]
+  }
+}

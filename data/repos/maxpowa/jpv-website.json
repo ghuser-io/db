@@ -1,0 +1,62 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jpv-website",
+  "full_name": "maxpowa/jpv-website",
+  "owner": "maxpowa",
+  "private": false,
+  "html_url": "https://github.com/maxpowa/jpv-website",
+  "description": "Github Repo for http://jpv.everythingisawesome.us",
+  "fork": false,
+  "url": "https://api.github.com/repos/maxpowa/jpv-website",
+  "languages_url": "https://api.github.com/repos/maxpowa/jpv-website/languages",
+  "pulls_url": "https://api.github.com/repos/maxpowa/jpv-website/pulls{/number}",
+  "created_at": "2014-10-23T05:33:49Z",
+  "updated_at": "2016-09-23T12:00:05Z",
+  "pushed_at": "2016-07-14T01:33:50Z",
+  "homepage": null,
+  "size": 9771,
+  "stargazers_count": 10,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "BinaryTENSHi": 7,
+    "Vazkii": 45,
+    "maxpowa": 215
+  },
+  "pulls_authors": [
+    "maxpowa",
+    "BinaryTENSHi"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 1681469,
+      "color": "#4F5D95"
+    },
+    "Python": {
+      "bytes": 71358,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 8256,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 7882,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 5550,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T20:44:42.588Z"
+}

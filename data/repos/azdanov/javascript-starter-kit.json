@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "javascript-starter-kit",
+  "full_name": "azdanov/javascript-starter-kit",
+  "owner": "azdanov",
+  "private": false,
+  "html_url": "https://github.com/azdanov/javascript-starter-kit",
+  "description": "An example starter kit for modern javascript development",
+  "fork": false,
+  "url": "https://api.github.com/repos/azdanov/javascript-starter-kit",
+  "languages_url": "https://api.github.com/repos/azdanov/javascript-starter-kit/languages",
+  "pulls_url": "https://api.github.com/repos/azdanov/javascript-starter-kit/pulls{/number}",
+  "created_at": "2018-03-07T10:21:35Z",
+  "updated_at": "2018-03-28T09:14:00Z",
+  "pushed_at": "2018-03-28T09:13:59Z",
+  "homepage": "",
+  "size": 432,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "prettierci-commits": 1,
+    "azdanov": 18
+  },
+  "pulls_authors": [
+    "prettierci[bot]"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 11391,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 542,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 85,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-17T12:35:01.710Z"
+}

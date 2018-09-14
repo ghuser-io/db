@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "lawnchair.app",
+  "full_name": "LawnchairLauncher/lawnchair.app",
+  "owner": "LawnchairLauncher",
+  "private": false,
+  "html_url": "https://github.com/LawnchairLauncher/lawnchair.app",
+  "description": "Official website for Lawnchair Launcher, made by Jackson Hayes.",
+  "fork": false,
+  "url": "https://api.github.com/repos/LawnchairLauncher/lawnchair.app",
+  "languages_url": "https://api.github.com/repos/LawnchairLauncher/lawnchair.app/languages",
+  "pulls_url": "https://api.github.com/repos/LawnchairLauncher/lawnchair.app/pulls{/number}",
+  "created_at": "2017-12-02T11:30:32Z",
+  "updated_at": "2018-08-21T21:11:42Z",
+  "pushed_at": "2018-08-21T21:11:41Z",
+  "homepage": "https://lawnchair.app",
+  "size": 7295,
+  "stargazers_count": 8,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "LawnchairLauncher",
+    "id": 34144436,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM0MTQ0NDM2",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/34144436?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/LawnchairLauncher",
+    "html_url": "https://github.com/LawnchairLauncher",
+    "followers_url": "https://api.github.com/users/LawnchairLauncher/followers",
+    "following_url": "https://api.github.com/users/LawnchairLauncher/following{/other_user}",
+    "gists_url": "https://api.github.com/users/LawnchairLauncher/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/LawnchairLauncher/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/LawnchairLauncher/subscriptions",
+    "organizations_url": "https://api.github.com/users/LawnchairLauncher/orgs",
+    "repos_url": "https://api.github.com/users/LawnchairLauncher/repos",
+    "events_url": "https://api.github.com/users/LawnchairLauncher/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/LawnchairLauncher/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "sicrs": 1,
+    "JoshuaBaldassarre": 1,
+    "anton0kurilov": 2,
+    "deletescape": 2,
+    "jacksonhvisuals": 5,
+    "chriskardas": 6,
+    "divadsn": 22,
+    "frju365": 1
+  },
+  "pulls_authors": [
+    "frju365",
+    "jacksonhvisuals",
+    "JoshuaBaldassarre",
+    "chriskardas",
+    "sicrs",
+    "anton0kurilov"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 387947,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 28157,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-21T21:46:53.655Z"
+}

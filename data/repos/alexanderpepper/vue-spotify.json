@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vue-spotify",
+  "full_name": "alexanderpepper/vue-spotify",
+  "owner": "alexanderpepper",
+  "private": false,
+  "html_url": "https://github.com/alexanderpepper/vue-spotify",
+  "description": "💿 A Spotify web client built with Loopback, Vue, and Vuetify",
+  "fork": false,
+  "url": "https://api.github.com/repos/alexanderpepper/vue-spotify",
+  "languages_url": "https://api.github.com/repos/alexanderpepper/vue-spotify/languages",
+  "pulls_url": "https://api.github.com/repos/alexanderpepper/vue-spotify/pulls{/number}",
+  "created_at": "2018-03-09T05:36:48Z",
+  "updated_at": "2018-08-20T17:07:57Z",
+  "pushed_at": "2018-08-20T17:07:54Z",
+  "homepage": "",
+  "size": 666,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "develop",
+  "contributors": {
+    "rajatm29": 4,
+    "macacollins": 11,
+    "alexanderpepper": 114
+  },
+  "pulls_authors": [
+    "alexanderpepper",
+    "macacollins",
+    "rajatm29"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 56740,
+      "color": "#f1e05a"
+    },
+    "Vue": {
+      "bytes": 28576,
+      "color": "#2c3e50"
+    },
+    "CSS": {
+      "bytes": 3447,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 597,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 321,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:55:56.388Z"
+}

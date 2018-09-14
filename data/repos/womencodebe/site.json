@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "site",
+  "full_name": "womencodebe/site",
+  "owner": "womencodebe",
+  "private": false,
+  "html_url": "https://github.com/womencodebe/site",
+  "description": "The womencode.be website",
+  "fork": false,
+  "url": "https://api.github.com/repos/womencodebe/site",
+  "languages_url": "https://api.github.com/repos/womencodebe/site/languages",
+  "pulls_url": "https://api.github.com/repos/womencodebe/site/pulls{/number}",
+  "created_at": "2017-11-19T23:28:22Z",
+  "updated_at": "2018-09-05T11:26:46Z",
+  "pushed_at": "2018-09-05T11:26:45Z",
+  "homepage": null,
+  "size": 1108,
+  "stargazers_count": 5,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "womencodebe",
+    "id": 33815926,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMzODE1OTI2",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/33815926?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/womencodebe",
+    "html_url": "https://github.com/womencodebe",
+    "followers_url": "https://api.github.com/users/womencodebe/followers",
+    "following_url": "https://api.github.com/users/womencodebe/following{/other_user}",
+    "gists_url": "https://api.github.com/users/womencodebe/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/womencodebe/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/womencodebe/subscriptions",
+    "organizations_url": "https://api.github.com/users/womencodebe/orgs",
+    "repos_url": "https://api.github.com/users/womencodebe/repos",
+    "events_url": "https://api.github.com/users/womencodebe/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/womencodebe/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "meyskens": 15,
+    "Mangamaui": 27
+  },
+  "pulls_authors": [
+    "Mangamaui",
+    "meyskens"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 16551,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 10428,
+      "color": "#563d7c"
+    },
+    "Go": {
+      "bytes": 1957,
+      "color": "#375eab"
+    },
+    "Dockerfile": {
+      "bytes": 632,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-11T20:50:15.224Z"
+}

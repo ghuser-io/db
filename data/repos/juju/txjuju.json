@@ -1,0 +1,84 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "txjuju",
+  "full_name": "juju/txjuju",
+  "owner": "juju",
+  "private": false,
+  "html_url": "https://github.com/juju/txjuju",
+  "description": "A Twisted-based Juju client",
+  "fork": false,
+  "url": "https://api.github.com/repos/juju/txjuju",
+  "languages_url": "https://api.github.com/repos/juju/txjuju/languages",
+  "pulls_url": "https://api.github.com/repos/juju/txjuju/pulls{/number}",
+  "created_at": "2016-08-25T20:51:32Z",
+  "updated_at": "2017-03-18T13:19:06Z",
+  "pushed_at": "2017-08-22T15:15:21Z",
+  "homepage": "",
+  "size": 177,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "juju",
+    "id": 4604548,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ2MDQ1NDg=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/4604548?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/juju",
+    "html_url": "https://github.com/juju",
+    "followers_url": "https://api.github.com/users/juju/followers",
+    "following_url": "https://api.github.com/users/juju/following{/other_user}",
+    "gists_url": "https://api.github.com/users/juju/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/juju/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/juju/subscriptions",
+    "organizations_url": "https://api.github.com/users/juju/orgs",
+    "repos_url": "https://api.github.com/users/juju/repos",
+    "events_url": "https://api.github.com/users/juju/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/juju/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "freeekanayaka": 1,
+    "simpoir": 1,
+    "sparkiegeek": 1,
+    "albertodonato": 1,
+    "dpb1": 2,
+    "blackboxsw": 3,
+    "fginther": 3,
+    "ericsnowcurrently": 28
+  },
+  "pulls_authors": [
+    "ericsnowcurrently",
+    "freeekanayaka",
+    "simpoir",
+    "sparkiegeek",
+    "blackboxsw",
+    "albertodonato",
+    "fginther"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 336868,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 585,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 546,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T17:15:39.073Z"
+}

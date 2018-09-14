@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "buddy",
+  "full_name": "ciscoheat/buddy",
+  "owner": "ciscoheat",
+  "private": false,
+  "html_url": "https://github.com/ciscoheat/buddy",
+  "description": "Your friendly BDD testing library for Haxe!",
+  "fork": false,
+  "url": "https://api.github.com/repos/ciscoheat/buddy",
+  "languages_url": "https://api.github.com/repos/ciscoheat/buddy/languages",
+  "pulls_url": "https://api.github.com/repos/ciscoheat/buddy/pulls{/number}",
+  "created_at": "2014-06-06T05:01:38Z",
+  "updated_at": "2018-09-05T14:47:09Z",
+  "pushed_at": "2018-07-27T17:12:25Z",
+  "homepage": "",
+  "size": 426,
+  "stargazers_count": 73,
+  "language": "Haxe",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jcward": 1,
+    "hamaluik": 1,
+    "joel-arthur": 1,
+    "waneck": 1,
+    "yanhick": 1,
+    "kLabz": 2,
+    "andyli": 2,
+    "jasononeil": 5,
+    "kevinresol": 5,
+    "ciscoheat": 241
+  },
+  "pulls_authors": [
+    "jcward",
+    "kLabz",
+    "andyli",
+    "jasononeil",
+    "hamaluik",
+    "kevinresol",
+    "ciscoheat",
+    "joel-arthur",
+    "azrafe7",
+    "waneck",
+    "profelis",
+    "yanhick"
+  ],
+  "languages": {
+    "Haxe": {
+      "bytes": 145217,
+      "color": "#df7900"
+    },
+    "Shell": {
+      "bytes": 2092,
+      "color": "#89e051"
+    },
+    "JavaScript": {
+      "bytes": 539,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 199,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:49.699Z"
+}

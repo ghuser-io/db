@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "qt-folderlistmodel",
+  "full_name": "skvark/qt-folderlistmodel",
+  "owner": "skvark",
+  "private": false,
+  "html_url": "https://github.com/skvark/qt-folderlistmodel",
+  "description": "Copy of http://code.qt.io/cgit/qt/qtdeclarative.git/tree/src/imports/folderlistmodel to include the module as submodule to another project due to Jolla's Harbour limitations.",
+  "fork": false,
+  "url": "https://api.github.com/repos/skvark/qt-folderlistmodel",
+  "languages_url": "https://api.github.com/repos/skvark/qt-folderlistmodel/languages",
+  "pulls_url": "https://api.github.com/repos/skvark/qt-folderlistmodel/pulls{/number}",
+  "created_at": "2015-09-10T20:59:05Z",
+  "updated_at": "2017-01-24T13:25:23Z",
+  "pushed_at": "2015-09-10T21:52:40Z",
+  "homepage": null,
+  "size": 236,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sletta": 1,
+    "janihe": 1,
+    "gatispaeglis": 1,
+    "toreinio": 1,
+    "thiagomacieira": 1,
+    "jpnurmi": 1,
+    "Kakadu": 1,
+    "JKSH": 1,
+    "mardy": 1,
+    "ossilator": 1,
+    "ogoffart": 1,
+    "skvark": 2,
+    "iamsergio": 2,
+    "yinyunqiao": 2,
+    "task-jp": 3,
+    "ec1oud": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 45357,
+      "color": "#f34b7d"
+    },
+    "QMake": {
+      "bytes": 316,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-11T01:16:34.497Z"
+}

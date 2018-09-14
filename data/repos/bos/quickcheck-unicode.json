@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "quickcheck-unicode",
+  "full_name": "bos/quickcheck-unicode",
+  "owner": "bos",
+  "private": false,
+  "html_url": "https://github.com/bos/quickcheck-unicode",
+  "description": "Unicode support for QuickCheck",
+  "fork": false,
+  "url": "https://api.github.com/repos/bos/quickcheck-unicode",
+  "languages_url": "https://api.github.com/repos/bos/quickcheck-unicode/languages",
+  "pulls_url": "https://api.github.com/repos/bos/quickcheck-unicode/pulls{/number}",
+  "created_at": "2014-12-05T21:25:12Z",
+  "updated_at": "2017-07-08T22:25:19Z",
+  "pushed_at": "2017-05-21T01:54:25Z",
+  "homepage": null,
+  "size": 7,
+  "stargazers_count": 3,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-2-clause",
+    "name": "BSD 2-Clause \"Simplified\" License",
+    "spdx_id": "BSD-2-Clause",
+    "url": "https://api.github.com/licenses/bsd-2-clause",
+    "node_id": "MDc6TGljZW5zZTQ="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "nomeata": 1,
+    "bos": 10
+  },
+  "pulls_authors": [
+    "nomeata"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 4691,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:14.067Z"
+}

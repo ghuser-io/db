@@ -1,0 +1,100 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "JamomaPureData",
+  "full_name": "jamoma/JamomaPureData",
+  "owner": "jamoma",
+  "private": false,
+  "html_url": "https://github.com/jamoma/JamomaPureData",
+  "description": "Puredata implementation of Jamoma",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamoma/JamomaPureData",
+  "languages_url": "https://api.github.com/repos/jamoma/JamomaPureData/languages",
+  "pulls_url": "https://api.github.com/repos/jamoma/JamomaPureData/pulls{/number}",
+  "created_at": "2012-11-21T00:15:55Z",
+  "updated_at": "2018-06-17T10:08:17Z",
+  "pushed_at": "2016-04-12T16:12:20Z",
+  "homepage": "http://jamoma.org/",
+  "size": 4794,
+  "stargazers_count": 10,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "jamoma",
+    "id": 381262,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM4MTI2Mg==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/381262?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jamoma",
+    "html_url": "https://github.com/jamoma",
+    "followers_url": "https://api.github.com/users/jamoma/followers",
+    "following_url": "https://api.github.com/users/jamoma/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jamoma/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jamoma/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jamoma/subscriptions",
+    "organizations_url": "https://api.github.com/users/jamoma/orgs",
+    "repos_url": "https://api.github.com/users/jamoma/repos",
+    "events_url": "https://api.github.com/users/jamoma/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jamoma/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jcelerier": 1,
+    "reno-": 2,
+    "avilleret": 441
+  },
+  "pulls_authors": [
+    "reno-",
+    "avilleret"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 610590,
+      "color": "#f34b7d"
+    },
+    "JavaScript": {
+      "bytes": 86982,
+      "color": "#f1e05a"
+    },
+    "Pure Data": {
+      "bytes": 51494,
+      "color": "#ccc"
+    },
+    "CMake": {
+      "bytes": 39267,
+      "color": "#ccc"
+    },
+    "C": {
+      "bytes": 36347,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 21777,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 17484,
+      "color": "#563d7c"
+    },
+    "Max": {
+      "bytes": 9444,
+      "color": "#c4a79c"
+    },
+    "HTML": {
+      "bytes": 2267,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 945,
+      "color": "#427819"
+    },
+    "Ruby": {
+      "bytes": 358,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:57.706Z"
+}

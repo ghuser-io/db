@@ -1,0 +1,89 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rainbow-hat",
+  "full_name": "pimoroni/rainbow-hat",
+  "owner": "pimoroni",
+  "private": false,
+  "html_url": "https://github.com/pimoroni/rainbow-hat",
+  "description": "Python library and examples for the Pimoroni Rainbow HAT",
+  "fork": false,
+  "url": "https://api.github.com/repos/pimoroni/rainbow-hat",
+  "languages_url": "https://api.github.com/repos/pimoroni/rainbow-hat/languages",
+  "pulls_url": "https://api.github.com/repos/pimoroni/rainbow-hat/pulls{/number}",
+  "created_at": "2016-12-05T15:50:46Z",
+  "updated_at": "2018-09-01T23:30:17Z",
+  "pushed_at": "2018-05-23T13:29:34Z",
+  "homepage": "https://shop.pimoroni.com/products/rainbow-hat-for-android-things",
+  "size": 161,
+  "stargazers_count": 46,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pimoroni",
+    "id": 2399917,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzOTk5MTc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2399917?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pimoroni",
+    "html_url": "https://github.com/pimoroni",
+    "followers_url": "https://api.github.com/users/pimoroni/followers",
+    "following_url": "https://api.github.com/users/pimoroni/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pimoroni/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pimoroni/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pimoroni/subscriptions",
+    "organizations_url": "https://api.github.com/users/pimoroni/orgs",
+    "repos_url": "https://api.github.com/users/pimoroni/repos",
+    "events_url": "https://api.github.com/users/pimoroni/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pimoroni/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "garethknowles": 1,
+    "proppy": 1,
+    "sandyjmacdonald": 3,
+    "dglaude": 6,
+    "RogueM": 9,
+    "Gadgetoid": 47
+  },
+  "pulls_authors": [
+    "Gadgetoid",
+    "sandyjmacdonald",
+    "garethknowles",
+    "proppy",
+    "dglaude",
+    "RogueM"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 47068,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 9163,
+      "color": "#89e051"
+    },
+    "HTML": {
+      "bytes": 1098,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 971,
+      "color": "#563d7c"
+    },
+    "Makefile": {
+      "bytes": 328,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:07.272Z"
+}

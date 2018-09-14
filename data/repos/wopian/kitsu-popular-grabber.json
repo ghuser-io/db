@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "kitsu-popular-grabber",
+  "full_name": "wopian/kitsu-popular-grabber",
+  "owner": "wopian",
+  "private": false,
+  "html_url": "https://github.com/wopian/kitsu-popular-grabber",
+  "description": "🦊 Grab the most popular titles on Kitsu",
+  "fork": false,
+  "url": "https://api.github.com/repos/wopian/kitsu-popular-grabber",
+  "languages_url": "https://api.github.com/repos/wopian/kitsu-popular-grabber/languages",
+  "pulls_url": "https://api.github.com/repos/wopian/kitsu-popular-grabber/pulls{/number}",
+  "created_at": "2017-04-05T10:48:15Z",
+  "updated_at": "2017-11-19T02:34:20Z",
+  "pushed_at": "2017-05-18T15:37:49Z",
+  "homepage": null,
+  "size": 36,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "wopian": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2752,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 635,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:36.651Z"
+}

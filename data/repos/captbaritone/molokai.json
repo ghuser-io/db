@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "molokai",
+  "full_name": "captbaritone/molokai",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/molokai",
+  "description": "Molokai color scheme for Vim",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/molokai",
+  "languages_url": "https://api.github.com/repos/captbaritone/molokai/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/molokai/pulls{/number}",
+  "created_at": "2014-10-12T05:10:50Z",
+  "updated_at": "2018-07-29T22:10:03Z",
+  "pushed_at": "2014-10-12T06:00:27Z",
+  "homepage": "",
+  "size": 112,
+  "stargazers_count": 1,
+  "language": "VimL",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "aaronjensen": 1,
+    "mathiasbynens": 1,
+    "hotpxl": 1,
+    "raichoo": 1,
+    "octol": 1,
+    "fcharlier": 1,
+    "jgelens": 1,
+    "rwmpelstilzchen": 1,
+    "ninjaaron": 1,
+    "strycore": 1,
+    "gko": 1,
+    "captbaritone": 2,
+    "justinmk": 2,
+    "justinforce": 2,
+    "martijn": 3,
+    "tomasr": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Vim script": {
+      "bytes": 3958,
+      "color": "#199f4b"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:51.747Z"
+}

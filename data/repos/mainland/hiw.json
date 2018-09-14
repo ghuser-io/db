@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hiw",
+  "full_name": "mainland/hiw",
+  "owner": "mainland",
+  "private": false,
+  "html_url": "https://github.com/mainland/hiw",
+  "description": "Haskell Implementors Workshop",
+  "fork": false,
+  "url": "https://api.github.com/repos/mainland/hiw",
+  "languages_url": "https://api.github.com/repos/mainland/hiw/languages",
+  "pulls_url": "https://api.github.com/repos/mainland/hiw/pulls{/number}",
+  "created_at": "2015-09-24T23:59:12Z",
+  "updated_at": "2016-11-01T15:45:56Z",
+  "pushed_at": "2018-01-09T13:14:20Z",
+  "homepage": null,
+  "size": 232,
+  "stargazers_count": 3,
+  "language": "TeX",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "gregorycollins": 1,
+    "goldfirere": 4,
+    "josefs": 4,
+    "nomeata": 5,
+    "rrnewton": 5,
+    "ezyang": 6,
+    "mainland": 6,
+    "jberthold": 13,
+    "tibbe": 21
+  },
+  "pulls_authors": [],
+  "languages": {
+    "TeX": {
+      "bytes": 5967,
+      "color": "#3D6117"
+    },
+    "Makefile": {
+      "bytes": 478,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:06.170Z"
+}

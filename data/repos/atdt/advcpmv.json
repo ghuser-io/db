@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "advcpmv",
+  "full_name": "atdt/advcpmv",
+  "owner": "atdt",
+  "private": false,
+  "html_url": "https://github.com/atdt/advcpmv",
+  "description": "A patch for cp / mv to add progress bars",
+  "fork": false,
+  "url": "https://api.github.com/repos/atdt/advcpmv",
+  "languages_url": "https://api.github.com/repos/atdt/advcpmv/languages",
+  "pulls_url": "https://api.github.com/repos/atdt/advcpmv/pulls{/number}",
+  "created_at": "2015-08-17T07:11:22Z",
+  "updated_at": "2018-08-13T03:38:23Z",
+  "pushed_at": "2018-02-14T16:44:52Z",
+  "homepage": null,
+  "size": 14,
+  "stargazers_count": 37,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 1,
+    "boscowitch": 1,
+    "atdt": 1
+  },
+  "pulls_authors": [
+    "hasnat",
+    "boscowitch"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-11T20:53:41.249Z"
+}

@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "travis-oracle",
+  "full_name": "cbandy/travis-oracle",
+  "owner": "cbandy",
+  "private": false,
+  "html_url": "https://github.com/cbandy/travis-oracle",
+  "description": "Scripts to install Oracle Database Express Edition on Travis CI",
+  "fork": false,
+  "url": "https://api.github.com/repos/cbandy/travis-oracle",
+  "languages_url": "https://api.github.com/repos/cbandy/travis-oracle/languages",
+  "pulls_url": "https://api.github.com/repos/cbandy/travis-oracle/pulls{/number}",
+  "created_at": "2013-07-16T02:18:32Z",
+  "updated_at": "2018-02-14T14:33:51Z",
+  "pushed_at": "2018-03-03T16:46:21Z",
+  "homepage": null,
+  "size": 33,
+  "stargazers_count": 39,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "isc",
+    "name": "ISC License",
+    "spdx_id": "ISC",
+    "url": "https://api.github.com/licenses/isc",
+    "node_id": "MDc6TGljZW5zZTEw"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jayvdb": 2,
+    "cbandy": 37
+  },
+  "pulls_authors": [
+    "ChristopherDavenport",
+    "jmarton",
+    "jayvdb",
+    "jonlawlor"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 5487,
+      "color": "#f1e05a"
+    },
+    "Ruby": {
+      "bytes": 2409,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 2217,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

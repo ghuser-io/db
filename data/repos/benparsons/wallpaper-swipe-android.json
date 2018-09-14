@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wallpaper-swipe-android",
+  "full_name": "benparsons/wallpaper-swipe-android",
+  "owner": "benparsons",
+  "private": false,
+  "html_url": "https://github.com/benparsons/wallpaper-swipe-android",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/benparsons/wallpaper-swipe-android",
+  "languages_url": "https://api.github.com/repos/benparsons/wallpaper-swipe-android/languages",
+  "pulls_url": "https://api.github.com/repos/benparsons/wallpaper-swipe-android/pulls{/number}",
+  "created_at": "2016-04-29T07:18:20Z",
+  "updated_at": "2016-04-30T23:15:00Z",
+  "pushed_at": "2016-07-09T10:31:36Z",
+  "homepage": null,
+  "size": 592,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "chiuki": 5,
+    "benparsons": 46
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 23074,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-11T17:06:55.262Z"
+}

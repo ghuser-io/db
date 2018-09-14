@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "travis-docker",
+  "full_name": "moul/travis-docker",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/travis-docker",
+  "description": ":whale::man: Docker in Travis-CI",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/travis-docker",
+  "languages_url": "https://api.github.com/repos/moul/travis-docker/languages",
+  "pulls_url": "https://api.github.com/repos/moul/travis-docker/pulls{/number}",
+  "created_at": "2015-01-18T15:43:41Z",
+  "updated_at": "2018-05-01T04:57:18Z",
+  "pushed_at": "2018-08-18T16:14:29Z",
+  "homepage": "",
+  "size": 3054,
+  "stargazers_count": 114,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ReadmeCritic": 1,
+    "gagern": 1,
+    "William-Yeh": 1,
+    "ir4y": 1,
+    "orius123": 2,
+    "remram44": 7,
+    "moul": 99
+  },
+  "pulls_authors": [
+    "moul",
+    "ReadmeCritic",
+    "orius123",
+    "gagern",
+    "remram44",
+    "William-Yeh",
+    "ir4y"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 7118,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 2304,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:55.578Z"
+}

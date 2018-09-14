@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "oyagci/42sh-group": {
+      "full_name": "oyagci/42sh-group",
+      "name": "42sh-group",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 1.07450605934529,
+      "total_score": 1.07450605934529,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "oyagci/42sh-parser": {
+      "full_name": "oyagci/42sh-parser",
+      "name": "42sh-parser",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 2.91075503612971,
+      "total_commits_count": 121,
+      "activity": 1.0659927283887245,
+      "total_score": 6.887502800648145,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "mploux/Project-Epsilon": {
+      "full_name": "mploux/Project-Epsilon",
+      "name": "Project-Epsilon",
+      "stargazers_count": 5,
+      "popularity": 1.6128219920330789,
+      "percentage": 3.225806451612903,
+      "maturity": 0,
+      "total_commits_count": 31,
+      "activity": 0.9546013224833736,
+      "total_score": 6.469412004919063,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "GrenderG/tte": {
+      "full_name": "GrenderG/tte",
+      "name": "tte",
+      "stargazers_count": 64,
+      "popularity": 2.800068385953039,
+      "percentage": 1.3333333333333333,
+      "maturity": 2.547038498146359,
+      "total_commits_count": 75,
+      "activity": 0.8976093850930447,
+      "total_score": 14.877236726143405,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

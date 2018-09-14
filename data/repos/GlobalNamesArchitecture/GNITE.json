@@ -1,0 +1,89 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "GNITE",
+  "full_name": "GlobalNamesArchitecture/GNITE",
+  "owner": "GlobalNamesArchitecture",
+  "private": false,
+  "html_url": "https://github.com/GlobalNamesArchitecture/GNITE",
+  "description": "Global Names Interface for Taxonomic Editing",
+  "fork": false,
+  "url": "https://api.github.com/repos/GlobalNamesArchitecture/GNITE",
+  "languages_url": "https://api.github.com/repos/GlobalNamesArchitecture/GNITE/languages",
+  "pulls_url": "https://api.github.com/repos/GlobalNamesArchitecture/GNITE/pulls{/number}",
+  "created_at": "2010-07-19T17:37:45Z",
+  "updated_at": "2018-07-31T17:47:53Z",
+  "pushed_at": "2016-04-06T19:32:57Z",
+  "homepage": "",
+  "size": 137619,
+  "stargazers_count": 4,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "GlobalNamesArchitecture",
+    "id": 326454,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMyNjQ1NA==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/326454?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/GlobalNamesArchitecture",
+    "html_url": "https://github.com/GlobalNamesArchitecture",
+    "followers_url": "https://api.github.com/users/GlobalNamesArchitecture/followers",
+    "following_url": "https://api.github.com/users/GlobalNamesArchitecture/following{/other_user}",
+    "gists_url": "https://api.github.com/users/GlobalNamesArchitecture/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/GlobalNamesArchitecture/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/GlobalNamesArchitecture/subscriptions",
+    "organizations_url": "https://api.github.com/users/GlobalNamesArchitecture/orgs",
+    "repos_url": "https://api.github.com/users/GlobalNamesArchitecture/repos",
+    "events_url": "https://api.github.com/users/GlobalNamesArchitecture/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/GlobalNamesArchitecture/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "acconrad": 2,
+    "pleary": 13,
+    "jasonm": 95,
+    "dimus": 137,
+    "dshorthouse": 285
+  },
+  "pulls_authors": [
+    "acconrad",
+    "kirkland",
+    "dimus"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 353324,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 341795,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 93224,
+      "color": "#563d7c"
+    },
+    "Gherkin": {
+      "bytes": 72379,
+      "color": "#5B2063"
+    },
+    "HTML": {
+      "bytes": 68098,
+      "color": "#e34c26"
+    },
+    "Vim script": {
+      "bytes": 2090,
+      "color": "#199f4b"
+    }
+  },
+  "fetched_at": "2018-09-12T04:55:41.384Z"
+}

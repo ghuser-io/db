@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "css",
+  "full_name": "r-php/css",
+  "owner": "r-php",
+  "private": false,
+  "html_url": "https://github.com/r-php/css",
+  "description": "CSS repo for /r/php",
+  "fork": false,
+  "url": "https://api.github.com/repos/r-php/css",
+  "languages_url": "https://api.github.com/repos/r-php/css/languages",
+  "pulls_url": "https://api.github.com/repos/r-php/css/pulls{/number}",
+  "created_at": "2016-06-30T21:00:40Z",
+  "updated_at": "2018-01-19T16:48:42Z",
+  "pushed_at": "2017-01-07T17:55:48Z",
+  "homepage": null,
+  "size": 153,
+  "stargazers_count": 6,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "r-php",
+    "id": 20232067,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIwMjMyMDY3",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/20232067?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/r-php",
+    "html_url": "https://github.com/r-php",
+    "followers_url": "https://api.github.com/users/r-php/followers",
+    "following_url": "https://api.github.com/users/r-php/following{/other_user}",
+    "gists_url": "https://api.github.com/users/r-php/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/r-php/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/r-php/subscriptions",
+    "organizations_url": "https://api.github.com/users/r-php/orgs",
+    "repos_url": "https://api.github.com/users/r-php/repos",
+    "events_url": "https://api.github.com/users/r-php/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/r-php/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "stedop": 1,
+    "dshafik": 1,
+    "jtreminio": 14
+  },
+  "pulls_authors": [
+    "stedop",
+    "dshafik"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 131875,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:27.215Z"
+}

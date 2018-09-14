@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SVG-workarounds",
+  "full_name": "jamesgeorge007/SVG-workarounds",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/SVG-workarounds",
+  "description": "Just a demo SVG animation while messing around. :+1:",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/SVG-workarounds",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/SVG-workarounds/languages",
+  "created_at": "2018-06-14T11:40:21Z",
+  "updated_at": "2018-06-21T03:13:42Z",
+  "pushed_at": "2018-06-14T11:59:47Z",
+  "homepage": "",
+  "size": 2380,
+  "stargazers_count": 4,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jamesgeorge007": 10
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 4708,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1872,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 873,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/SVG-workarounds/pulls{/number}",
+  "pulls_authors": []
+}

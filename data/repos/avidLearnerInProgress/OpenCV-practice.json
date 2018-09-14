@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "OpenCV-practice",
+  "full_name": "avidLearnerInProgress/OpenCV-practice",
+  "owner": "avidLearnerInProgress",
+  "private": false,
+  "html_url": "https://github.com/avidLearnerInProgress/OpenCV-practice",
+  "description": "Simple OpenCV programs",
+  "fork": false,
+  "url": "https://api.github.com/repos/avidLearnerInProgress/OpenCV-practice",
+  "languages_url": "https://api.github.com/repos/avidLearnerInProgress/OpenCV-practice/languages",
+  "created_at": "2018-02-26T17:48:54Z",
+  "updated_at": "2018-03-30T01:49:30Z",
+  "pushed_at": "2018-03-09T17:17:31Z",
+  "homepage": null,
+  "size": 13227,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "avidLearnerInProgress": 7
+  },
+  "languages": {
+    "Python": {
+      "bytes": 4251,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/avidLearnerInProgress/OpenCV-practice/pulls{/number}",
+  "pulls_authors": []
+}

@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tracker",
+  "full_name": "airdispatch/tracker",
+  "owner": "airdispatch",
+  "private": false,
+  "html_url": "https://github.com/airdispatch/tracker",
+  "description": "A routing framework based around the concept of BitTorrent Trackers.",
+  "fork": false,
+  "url": "https://api.github.com/repos/airdispatch/tracker",
+  "languages_url": "https://api.github.com/repos/airdispatch/tracker/languages",
+  "pulls_url": "https://api.github.com/repos/airdispatch/tracker/pulls{/number}",
+  "created_at": "2014-03-08T22:02:03Z",
+  "updated_at": "2018-05-24T18:18:12Z",
+  "pushed_at": "2015-01-27T01:43:14Z",
+  "homepage": null,
+  "size": 260,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "airdispatch",
+    "id": 4492632,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0OTI2MzI=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/4492632?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/airdispatch",
+    "html_url": "https://github.com/airdispatch",
+    "followers_url": "https://api.github.com/users/airdispatch/followers",
+    "following_url": "https://api.github.com/users/airdispatch/following{/other_user}",
+    "gists_url": "https://api.github.com/users/airdispatch/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/airdispatch/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/airdispatch/subscriptions",
+    "organizations_url": "https://api.github.com/users/airdispatch/orgs",
+    "repos_url": "https://api.github.com/users/airdispatch/repos",
+    "events_url": "https://api.github.com/users/airdispatch/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/airdispatch/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "huntaub": 23
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 25377,
+      "color": "#375eab"
+    },
+    "Shell": {
+      "bytes": 106,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:44:40.030Z"
+}

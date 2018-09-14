@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "misimi",
+  "full_name": "mikelothar/misimi",
+  "owner": "mikelothar",
+  "private": false,
+  "html_url": "https://github.com/mikelothar/misimi",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/mikelothar/misimi",
+  "languages_url": "https://api.github.com/repos/mikelothar/misimi/languages",
+  "pulls_url": "https://api.github.com/repos/mikelothar/misimi/pulls{/number}",
+  "created_at": "2018-03-05T15:30:32Z",
+  "updated_at": "2018-04-28T19:44:49Z",
+  "pushed_at": "2018-04-28T19:47:25Z",
+  "homepage": "https://mikelothar.github.io/misimi/",
+  "size": 3495,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mikelothar": 72
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 19129,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1411,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 1049,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T23:08:36.801Z"
+}

@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "oh-camel",
+  "full_name": "dufferzafar/oh-camel",
+  "owner": "dufferzafar",
+  "private": false,
+  "html_url": "https://github.com/dufferzafar/oh-camel",
+  "description": "IIT D - COL 765 - Introduction to Logic & Functional Programming by Sanjiva Prasad.",
+  "fork": false,
+  "url": "https://api.github.com/repos/dufferzafar/oh-camel",
+  "languages_url": "https://api.github.com/repos/dufferzafar/oh-camel/languages",
+  "pulls_url": "https://api.github.com/repos/dufferzafar/oh-camel/pulls{/number}",
+  "created_at": "2017-08-02T15:57:56Z",
+  "updated_at": "2018-08-11T12:48:52Z",
+  "pushed_at": "2017-12-02T09:10:07Z",
+  "homepage": "",
+  "size": 87,
+  "stargazers_count": 1,
+  "language": "OCaml",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "dufferzafar": 149
+  },
+  "pulls_authors": [],
+  "languages": {
+    "OCaml": {
+      "bytes": 94648,
+      "color": "#3be133"
+    },
+    "Prolog": {
+      "bytes": 4464,
+      "color": "#74283c"
+    },
+    "Makefile": {
+      "bytes": 170,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-03T12:56:55.324Z"
+}

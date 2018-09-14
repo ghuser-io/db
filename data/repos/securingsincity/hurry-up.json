@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hurry-up",
+  "full_name": "securingsincity/hurry-up",
+  "owner": "securingsincity",
+  "private": false,
+  "html_url": "https://github.com/securingsincity/hurry-up",
+  "description": "2018 baseball hack day set up ",
+  "fork": false,
+  "url": "https://api.github.com/repos/securingsincity/hurry-up",
+  "languages_url": "https://api.github.com/repos/securingsincity/hurry-up/languages",
+  "pulls_url": "https://api.github.com/repos/securingsincity/hurry-up/pulls{/number}",
+  "created_at": "2018-03-17T14:38:15Z",
+  "updated_at": "2018-03-25T22:57:02Z",
+  "pushed_at": "2018-03-17T20:00:45Z",
+  "homepage": "",
+  "size": 423,
+  "stargazers_count": 2,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mklait": 1,
+    "nbonofiglio": 3,
+    "securingsincity": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 19959,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 6539,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 4459,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T00:33:37.361Z"
+}

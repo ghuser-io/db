@@ -1,0 +1,82 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bootstraping-ngx-admin-lte",
+  "full_name": "TwanoO67/bootstraping-ngx-admin-lte",
+  "owner": "TwanoO67",
+  "private": false,
+  "html_url": "https://github.com/TwanoO67/bootstraping-ngx-admin-lte",
+  "description": "Angular2,4,6 project with AdminLTE dashboard template (using angular, angular-cli and ngx-admin-lte ) Formerly called 'ng2-admin-lte'. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/TwanoO67/bootstraping-ngx-admin-lte",
+  "languages_url": "https://api.github.com/repos/TwanoO67/bootstraping-ngx-admin-lte/languages",
+  "pulls_url": "https://api.github.com/repos/TwanoO67/bootstraping-ngx-admin-lte/pulls{/number}",
+  "created_at": "2016-02-28T17:53:50Z",
+  "updated_at": "2018-09-11T17:16:51Z",
+  "pushed_at": "2018-08-20T08:38:48Z",
+  "homepage": "",
+  "size": 12851,
+  "stargazers_count": 452,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "nileshyadav326": 1,
+    "mgafur": 1,
+    "shadik42": 1,
+    "boskiv": 1,
+    "ggrnd0": 1,
+    "gitter-badger": 1,
+    "btd1337": 2,
+    "mbateman66": 2,
+    "cindoum": 2,
+    "avatsaev": 3,
+    "fabriceclementz": 3,
+    "RodEsV": 6,
+    "alexsorkin": 28,
+    "TwanoO67": 119
+  },
+  "pulls_authors": [
+    "Kolahzary",
+    "catull",
+    "btd1337",
+    "nileshyadav326",
+    "mgafur",
+    "shadik42",
+    "avatsaev",
+    "boskiv",
+    "reactops",
+    "RodEsV",
+    "mbateman66",
+    "cindoum",
+    "ggrnd0",
+    "hakonamatata",
+    "zhongjixiuxing",
+    "gitter-badger",
+    "fabriceclementz"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 17710,
+      "color": "#2b7489"
+    },
+    "HTML": {
+      "bytes": 7713,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 2520,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 1996,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 1012,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T20:47:41.042Z"
+}

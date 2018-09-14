@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mootools-search-chrome",
+  "full_name": "cheeaun/mootools-search-chrome",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/mootools-search-chrome",
+  "description": "Chrome extension to search MooTools' blogs, demos, documentation, forums and tutorials",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/mootools-search-chrome",
+  "languages_url": "https://api.github.com/repos/cheeaun/mootools-search-chrome/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/mootools-search-chrome/pulls{/number}",
+  "created_at": "2009-12-27T03:15:34Z",
+  "updated_at": "2014-04-07T01:24:55Z",
+  "pushed_at": "2009-12-28T14:40:36Z",
+  "homepage": "https://chrome.google.com/extensions/detail/ickojcglongehflodgpbmccngjfognii",
+  "size": 160,
+  "stargazers_count": 2,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 8
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-10T19:00:08.360Z"
+}

@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "py-spidev",
+  "full_name": "Gadgetoid/py-spidev",
+  "owner": "Gadgetoid",
+  "private": false,
+  "html_url": "https://github.com/Gadgetoid/py-spidev",
+  "description": null,
+  "fork": true,
+  "url": "https://api.github.com/repos/Gadgetoid/py-spidev",
+  "languages_url": "https://api.github.com/repos/Gadgetoid/py-spidev/languages",
+  "pulls_url": "https://api.github.com/repos/Gadgetoid/py-spidev/pulls{/number}",
+  "created_at": "2014-11-04T15:10:23Z",
+  "updated_at": "2018-06-09T16:26:44Z",
+  "pushed_at": "2018-04-27T10:49:55Z",
+  "homepage": "",
+  "size": 64,
+  "stargazers_count": 18,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mk2366": 1,
+    "billmccartney": 1,
+    "bkuhls": 1,
+    "ArmlessJohn404": 1,
+    "jacobwalkr": 1,
+    "timwood0": 1,
+    "larsks": 1,
+    "zevlg": 1,
+    "chrillomat": 1,
+    "pbrook": 1,
+    "rpodgorny": 2,
+    "ams-tech": 4,
+    "doceme": 8,
+    "Gadgetoid": 16
+  },
+  "pulls_authors": [
+    "Gadgetoid"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 25526,
+      "color": "#555555"
+    },
+    "Python": {
+      "bytes": 1482,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 197,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:07.604Z"
+}

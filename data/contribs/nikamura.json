@@ -1,0 +1,115 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "huge-success/sanic": {
+      "full_name": "huge-success/sanic",
+      "name": "sanic",
+      "stargazers_count": 10226,
+      "popularity": 5,
+      "percentage": 0.061690314620604564,
+      "maturity": 4.200695547682062,
+      "total_commits_count": 1621,
+      "activity": 5,
+      "total_score": 28.44148979986752,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "hanami/hanami.github.io": {
+      "full_name": "hanami/hanami.github.io",
+      "name": "hanami.github.io",
+      "stargazers_count": 85,
+      "popularity": 2.924835037974496,
+      "percentage": 0.08620689655172414,
+      "maturity": 4.050992961136823,
+      "total_commits_count": 1160,
+      "activity": 5,
+      "total_score": 21.909269359898573,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "mbleigh/seed-fu": {
+      "full_name": "mbleigh/seed-fu",
+      "name": "seed-fu",
+      "stargazers_count": 1044,
+      "popularity": 4.018365030309009,
+      "percentage": 0,
+      "maturity": 2.718570715884442,
+      "total_commits_count": 92,
+      "activity": 1.819987304966006,
+      "total_score": 19.312223827661917,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "zenedge/API-Examples": {
+      "full_name": "zenedge/API-Examples",
+      "name": "API-Examples",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 9.090909090909092,
+      "maturity": 0,
+      "total_commits_count": 11,
+      "activity": 1.2682568123792324,
+      "total_score": 1.2682568123792324,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "aksonov/react-native-router-flux": {
+      "full_name": "aksonov/react-native-router-flux",
+      "name": "react-native-router-flux",
+      "stargazers_count": 7576,
+      "popularity": 4.879427458534269,
+      "percentage": 0.13280212483399734,
+      "maturity": 3.854886512054834,
+      "total_commits_count": 753,
+      "activity": 5,
+      "total_score": 27.432295183193148,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "mntnorv/to_lua": {
+      "full_name": "mntnorv/to_lua",
+      "name": "to_lua",
+      "stargazers_count": 7,
+      "popularity": 1.7853682828948099,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 21,
+      "activity": 0.6975840006565379,
+      "total_score": 6.0536888493409675,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "makandra/cucumber_factory": {
+      "full_name": "makandra/cucumber_factory",
+      "name": "cucumber_factory",
+      "stargazers_count": 109,
+      "popularity": 3.0338647464484936,
+      "percentage": 0,
+      "maturity": 2.8887884491162428,
+      "total_commits_count": 117,
+      "activity": 1.523454272169647,
+      "total_score": 16.402625409747614,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "StudentsNCL/nessweb": {
+      "full_name": "StudentsNCL/nessweb",
+      "name": "nessweb",
+      "stargazers_count": 8,
+      "popularity": 1.8512968868523627,
+      "percentage": 0.8064516129032258,
+      "maturity": 2.92653025393631,
+      "total_commits_count": 124,
+      "activity": 0.4491953618367912,
+      "total_score": 12.050234107113925,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "hanami",
+    "zenedge",
+    "makandra",
+    "StudentsNCL"
+  ]
+}

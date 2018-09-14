@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "behem0th",
+  "full_name": "robot0nfire/behem0th",
+  "owner": "robot0nfire",
+  "private": false,
+  "html_url": "https://github.com/robot0nfire/behem0th",
+  "description": "File synchronisation done right. :envelope:",
+  "fork": false,
+  "url": "https://api.github.com/repos/robot0nfire/behem0th",
+  "languages_url": "https://api.github.com/repos/robot0nfire/behem0th/languages",
+  "pulls_url": "https://api.github.com/repos/robot0nfire/behem0th/pulls{/number}",
+  "created_at": "2016-09-08T07:32:01Z",
+  "updated_at": "2018-09-04T11:14:33Z",
+  "pushed_at": "2017-04-15T20:15:11Z",
+  "homepage": "",
+  "size": 245,
+  "stargazers_count": 4,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "robot0nfire",
+    "id": 11473578,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExNDczNTc4",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/11473578?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/robot0nfire",
+    "html_url": "https://github.com/robot0nfire",
+    "followers_url": "https://api.github.com/users/robot0nfire/followers",
+    "following_url": "https://api.github.com/users/robot0nfire/following{/other_user}",
+    "gists_url": "https://api.github.com/users/robot0nfire/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/robot0nfire/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/robot0nfire/subscriptions",
+    "organizations_url": "https://api.github.com/users/robot0nfire/orgs",
+    "repos_url": "https://api.github.com/users/robot0nfire/repos",
+    "events_url": "https://api.github.com/users/robot0nfire/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/robot0nfire/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "christoph-heiss": 76
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 26001,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:14.048Z"
+}

@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "omniauth-microsoft_graph",
+  "full_name": "synth/omniauth-microsoft_graph",
+  "owner": "synth",
+  "private": false,
+  "html_url": "https://github.com/synth/omniauth-microsoft_graph",
+  "description": "An Omniauth strategy for the Microsoft Graph Api.",
+  "fork": false,
+  "url": "https://api.github.com/repos/synth/omniauth-microsoft_graph",
+  "languages_url": "https://api.github.com/repos/synth/omniauth-microsoft_graph/languages",
+  "pulls_url": "https://api.github.com/repos/synth/omniauth-microsoft_graph/pulls{/number}",
+  "created_at": "2016-06-18T09:10:55Z",
+  "updated_at": "2018-08-28T01:20:35Z",
+  "pushed_at": "2018-08-07T21:53:06Z",
+  "homepage": null,
+  "size": 13,
+  "stargazers_count": 7,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "fjaeger": 1,
+    "synth": 5,
+    "joelvh": 5
+  },
+  "pulls_authors": [
+    "afkplus",
+    "fjaeger",
+    "FalconPD",
+    "joelvh"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 4704,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T23:12:20.064Z"
+}

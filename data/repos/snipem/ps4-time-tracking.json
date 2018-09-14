@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ps4-time-tracking",
+  "full_name": "snipem/ps4-time-tracking",
+  "owner": "snipem",
+  "private": false,
+  "html_url": "https://github.com/snipem/ps4-time-tracking",
+  "description": "Util for tracking PlayStation 4 usage times",
+  "fork": false,
+  "url": "https://api.github.com/repos/snipem/ps4-time-tracking",
+  "languages_url": "https://api.github.com/repos/snipem/ps4-time-tracking/languages",
+  "pulls_url": "https://api.github.com/repos/snipem/ps4-time-tracking/pulls{/number}",
+  "created_at": "2015-09-27T14:38:28Z",
+  "updated_at": "2018-09-09T04:23:43Z",
+  "pushed_at": "2018-06-04T06:37:37Z",
+  "homepage": "",
+  "size": 37,
+  "stargazers_count": 11,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "pandaslide": 4,
+    "snipem": 21
+  },
+  "pulls_authors": [
+    "pandaslide"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 12970,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 1278,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T02:29:35.999Z"
+}

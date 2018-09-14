@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "socket.io-go-emitter",
+  "full_name": "ziyasal/socket.io-go-emitter",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/socket.io-go-emitter",
+  "description": "Go implementation of socket.io-emitter",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal/socket.io-go-emitter",
+  "languages_url": "https://api.github.com/repos/ziyasal/socket.io-go-emitter/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/socket.io-go-emitter/pulls{/number}",
+  "created_at": "2014-12-14T10:19:04Z",
+  "updated_at": "2018-09-02T09:41:42Z",
+  "pushed_at": "2018-09-02T09:41:41Z",
+  "homepage": "",
+  "size": 12,
+  "stargazers_count": 21,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ziyasal": 21
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 4598,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:01.781Z"
+}

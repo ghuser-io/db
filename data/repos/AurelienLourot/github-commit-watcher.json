@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "github-commit-watcher",
+  "full_name": "AurelienLourot/github-commit-watcher",
+  "owner": "AurelienLourot",
+  "private": false,
+  "html_url": "https://github.com/AurelienLourot/github-commit-watcher",
+  "description": ":mag: Be notified on new commits on watched projects",
+  "fork": false,
+  "url": "https://api.github.com/repos/AurelienLourot/github-commit-watcher",
+  "languages_url": "https://api.github.com/repos/AurelienLourot/github-commit-watcher/languages",
+  "created_at": "2015-07-05T09:07:14Z",
+  "updated_at": "2018-09-13T14:59:48Z",
+  "pushed_at": "2018-09-13T14:59:47Z",
+  "homepage": "http://a.ghuser.io/gicowa/",
+  "size": 142,
+  "stargazers_count": 14,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "cassiodoroVicinetti": 1,
+    "AurelienLourot": 100
+  },
+  "languages": {
+    "Python": {
+      "bytes": 33758,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 1684,
+      "color": "#89e051"
+    }
+  },
+  "settings": {
+    "_comment": "Repo metadata for ghuser.io. See https://github.com/ghuser-io/ghuser.io/blob/master/docs/repo-settings.md",
+    "avatar_url": "https://rawgit.com/AurelienLourot/github-commit-watcher/master/github_icon.png",
+    "techs": [
+      "GitHub API",
+      "Travis CI"
+    ]
+  },
+  "fetched_at": "2018-09-13T16:24:13.322Z",
+  "pulls_url": "https://api.github.com/repos/AurelienLourot/github-commit-watcher/pulls{/number}",
+  "pulls_authors": [
+    "cassiodoroVicinetti"
+  ]
+}

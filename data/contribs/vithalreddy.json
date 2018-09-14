@@ -1,0 +1,110 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "vithalreddy/node-mailin": {
+      "full_name": "vithalreddy/node-mailin",
+      "name": "node-mailin",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 11,
+      "activity": 5,
+      "total_score": 21.662851527087042,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ishanjain28/s3-mongo-backup": {
+      "full_name": "ishanjain28/s3-mongo-backup",
+      "name": "s3-mongo-backup",
+      "stargazers_count": 10,
+      "popularity": 1.9590800514478444,
+      "percentage": 2,
+      "maturity": 2.006040535099928,
+      "total_commits_count": 50,
+      "activity": 1.5761978266782979,
+      "total_score": 11.974879864598126,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "vithalreddy/js-algorithms": {
+      "full_name": "vithalreddy/js-algorithms",
+      "name": "js-algorithms",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 1.2514738564713221,
+      "total_score": 1.2514738564713221,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "vithalreddy/nodeJS-socketIO-chat-app": {
+      "full_name": "vithalreddy/nodeJS-socketIO-chat-app",
+      "name": "nodeJS-socketIO-chat-app",
+      "stargazers_count": 17,
+      "popularity": 2.206864721909315,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 6,
+      "activity": 1.1840043816298151,
+      "total_score": 36.49383993217885,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "vithalreddy/skillsMeterified": {
+      "full_name": "vithalreddy/skillsMeterified",
+      "name": "skillsMeterified",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 23,
+      "activity": 1.0759069298153952,
+      "total_score": 17.73875845690244,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "vithalreddy/editable-html-table-js": {
+      "full_name": "vithalreddy/editable-html-table-js",
+      "name": "editable-html-table-js",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 1.0550217481034583,
+      "total_score": 17.7178732751905,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "vithalreddy/helloDesk": {
+      "full_name": "vithalreddy/helloDesk",
+      "name": "helloDesk",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 0.9294022373884436,
+      "total_score": 17.592253764475487,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "vithalreddy/mean-shop-with-rest-api": {
+      "full_name": "vithalreddy/mean-shop-with-rest-api",
+      "name": "mean-shop-with-rest-api",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 0.9009799186664118,
+      "total_score": 17.563831445753454,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

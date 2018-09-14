@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ruby-sys",
+  "full_name": "steveklabnik/ruby-sys",
+  "owner": "steveklabnik",
+  "private": false,
+  "html_url": "https://github.com/steveklabnik/ruby-sys",
+  "description": "Low-level bindings to Ruby",
+  "fork": false,
+  "url": "https://api.github.com/repos/steveklabnik/ruby-sys",
+  "languages_url": "https://api.github.com/repos/steveklabnik/ruby-sys/languages",
+  "pulls_url": "https://api.github.com/repos/steveklabnik/ruby-sys/pulls{/number}",
+  "created_at": "2016-05-06T18:06:43Z",
+  "updated_at": "2018-08-14T05:08:44Z",
+  "pushed_at": "2018-06-16T19:56:13Z",
+  "homepage": null,
+  "size": 5273,
+  "stargazers_count": 46,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ELD": 1,
+    "ianks": 1,
+    "mikeycgto": 1,
+    "turboladen": 1,
+    "nomoon": 1,
+    "simon0191": 2,
+    "dovahcrow": 2,
+    "malept": 11,
+    "steveklabnik": 32,
+    "d-unseductable": 61
+  },
+  "pulls_authors": [
+    "danielpclark",
+    "andrewstucki",
+    "d-unseductable",
+    "malept",
+    "mikeycgto",
+    "mceldeen",
+    "tinco",
+    "ianks",
+    "turboladen",
+    "simon0191",
+    "nomoon",
+    "dovahcrow"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 16814,
+      "color": "#dea584"
+    }
+  },
+  "fetched_at": "2018-09-11T10:35:56.785Z"
+}

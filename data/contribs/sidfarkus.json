@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "rmseng/2048-agent": {
+      "full_name": "rmseng/2048-agent",
+      "name": "2048-agent",
+      "stargazers_count": 17,
+      "popularity": 2.206864721909315,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 12,
+      "activity": 0.7981606983038372,
+      "total_score": 7.418754864031782,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "spacemunkay/BikeShed": {
+      "full_name": "spacemunkay/BikeShed",
+      "name": "BikeShed",
+      "stargazers_count": 10,
+      "popularity": 1.9590800514478444,
+      "percentage": 1.917808219178082,
+      "maturity": 3.513752755084247,
+      "total_commits_count": 365,
+      "activity": 0.9534540134581819,
+      "total_score": 14.346627855180493,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "mattbradley/livestampjs": {
+      "full_name": "mattbradley/livestampjs",
+      "name": "livestampjs",
+      "stargazers_count": 409,
+      "popularity": 3.6108056738487706,
+      "percentage": 3.4482758620689653,
+      "maturity": 0,
+      "total_commits_count": 29,
+      "activity": 0.7427881051924103,
+      "total_score": 13.193842152946791,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "grosser/parallel_tests": {
+      "full_name": "grosser/parallel_tests",
+      "name": "parallel_tests",
+      "stargazers_count": 2376,
+      "popularity": 4.375720986666954,
+      "percentage": 0.2386634844868735,
+      "maturity": 4.087062438658224,
+      "total_commits_count": 1257,
+      "activity": 5,
+      "total_score": 26.437050063633947,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

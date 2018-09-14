@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "readable.json",
+  "full_name": "Boldewyn/readable.json",
+  "owner": "Boldewyn",
+  "private": false,
+  "html_url": "https://github.com/Boldewyn/readable.json",
+  "description": "Enter JSON and get a human-friendly representation.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Boldewyn/readable.json",
+  "languages_url": "https://api.github.com/repos/Boldewyn/readable.json/languages",
+  "pulls_url": "https://api.github.com/repos/Boldewyn/readable.json/pulls{/number}",
+  "created_at": "2016-03-23T17:07:21Z",
+  "updated_at": "2016-05-13T07:19:02Z",
+  "pushed_at": "2016-05-12T21:12:23Z",
+  "homepage": "https://readable-json.boldewyn.de",
+  "size": 1367,
+  "stargazers_count": 2,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Boldewyn": 30
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CSS": {
+      "bytes": 229517,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 27108,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 6293,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 338,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T04:57:53.001Z"
+}

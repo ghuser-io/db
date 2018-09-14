@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "seneca-wizard",
+  "full_name": "rjrodger/seneca-wizard",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/seneca-wizard",
+  "description": "Seneca plugin to support wizard interfaces",
+  "fork": false,
+  "url": "https://api.github.com/repos/rjrodger/seneca-wizard",
+  "languages_url": "https://api.github.com/repos/rjrodger/seneca-wizard/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/seneca-wizard/pulls{/number}",
+  "created_at": "2014-01-13T12:48:55Z",
+  "updated_at": "2015-01-26T21:12:43Z",
+  "pushed_at": "2014-01-22T07:11:26Z",
+  "homepage": null,
+  "size": 212,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rjrodger": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 22004,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:38.161Z"
+}

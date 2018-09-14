@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "markdown2tufte",
+  "full_name": "schollz/markdown2tufte",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/markdown2tufte",
+  "description": "Process markdown into a nice Tufte-like website :book:",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/markdown2tufte",
+  "languages_url": "https://api.github.com/repos/schollz/markdown2tufte/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/markdown2tufte/pulls{/number}",
+  "created_at": "2017-05-24T23:41:04Z",
+  "updated_at": "2018-03-27T20:36:20Z",
+  "pushed_at": "2017-11-06T12:36:52Z",
+  "homepage": "https://schollz.github.io/markdown2tufte/",
+  "size": 1682,
+  "stargazers_count": 26,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 19
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CSS": {
+      "bytes": 16058,
+      "color": "#563d7c"
+    },
+    "Python": {
+      "bytes": 7020,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:36.161Z"
+}

@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ovs-multipath",
+  "full_name": "dariobanfi/ovs-multipath",
+  "owner": "dariobanfi",
+  "private": false,
+  "html_url": "https://github.com/dariobanfi/ovs-multipath",
+  "description": "Open vSwitch with packet-granularity multipath group and TCP reordering group",
+  "fork": false,
+  "url": "https://api.github.com/repos/dariobanfi/ovs-multipath",
+  "languages_url": "https://api.github.com/repos/dariobanfi/ovs-multipath/languages",
+  "pulls_url": "https://api.github.com/repos/dariobanfi/ovs-multipath/pulls{/number}",
+  "created_at": "2016-01-08T06:43:49Z",
+  "updated_at": "2018-07-26T07:22:14Z",
+  "pushed_at": "2017-11-11T18:46:38Z",
+  "homepage": null,
+  "size": 3575,
+  "stargazers_count": 11,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dariobanfi": 40
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 9024936,
+      "color": "#89e051"
+    },
+    "C": {
+      "bytes": 7827791,
+      "color": "#555555"
+    },
+    "Python": {
+      "bytes": 676888,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 342620,
+      "color": "#427819"
+    },
+    "Roff": {
+      "bytes": 309538,
+      "color": "#ecdebe"
+    },
+    "C++": {
+      "bytes": 260466,
+      "color": "#f34b7d"
+    },
+    "M4": {
+      "bytes": 67018,
+      "color": "#ccc"
+    },
+    "Perl": {
+      "bytes": 17222,
+      "color": "#0298c3"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:30.560Z"
+}

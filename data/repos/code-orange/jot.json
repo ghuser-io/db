@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jot",
+  "full_name": "code-orange/jot",
+  "owner": "code-orange",
+  "private": false,
+  "html_url": "https://github.com/code-orange/jot",
+  "description": "Laravel package that generates RESTful API documentation in Markdown based on PHPDoc",
+  "fork": false,
+  "url": "https://api.github.com/repos/code-orange/jot",
+  "languages_url": "https://api.github.com/repos/code-orange/jot/languages",
+  "pulls_url": "https://api.github.com/repos/code-orange/jot/pulls{/number}",
+  "created_at": "2017-07-29T16:23:34Z",
+  "updated_at": "2018-02-09T09:26:37Z",
+  "pushed_at": "2017-11-28T11:38:58Z",
+  "homepage": "https://code-orange.github.io/jot/",
+  "size": 48,
+  "stargazers_count": 5,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "code-orange",
+    "id": 23122286,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzMTIyMjg2",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/23122286?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/code-orange",
+    "html_url": "https://github.com/code-orange",
+    "followers_url": "https://api.github.com/users/code-orange/followers",
+    "following_url": "https://api.github.com/users/code-orange/following{/other_user}",
+    "gists_url": "https://api.github.com/users/code-orange/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/code-orange/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/code-orange/subscriptions",
+    "organizations_url": "https://api.github.com/users/code-orange/orgs",
+    "repos_url": "https://api.github.com/users/code-orange/repos",
+    "events_url": "https://api.github.com/users/code-orange/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/code-orange/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "timvdalen": 11
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 8760,
+      "color": "#4F5D95"
+    },
+    "HTML": {
+      "bytes": 834,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:53.738Z"
+}

@@ -1,0 +1,85 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "restsharp.portable",
+  "full_name": "FubarDevelopment/restsharp.portable",
+  "owner": "FubarDevelopment",
+  "private": false,
+  "html_url": "https://github.com/FubarDevelopment/restsharp.portable",
+  "description": "Some kind of a RestSharp port to PCL",
+  "fork": false,
+  "url": "https://api.github.com/repos/FubarDevelopment/restsharp.portable",
+  "languages_url": "https://api.github.com/repos/FubarDevelopment/restsharp.portable/languages",
+  "pulls_url": "https://api.github.com/repos/FubarDevelopment/restsharp.portable/pulls{/number}",
+  "created_at": "2014-11-13T09:31:28Z",
+  "updated_at": "2018-08-29T00:18:04Z",
+  "pushed_at": "2018-04-10T12:28:50Z",
+  "homepage": null,
+  "size": 10604,
+  "stargazers_count": 95,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "FubarDevelopment",
+    "id": 9638756,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjk2Mzg3NTY=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/9638756?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/FubarDevelopment",
+    "html_url": "https://github.com/FubarDevelopment",
+    "followers_url": "https://api.github.com/users/FubarDevelopment/followers",
+    "following_url": "https://api.github.com/users/FubarDevelopment/following{/other_user}",
+    "gists_url": "https://api.github.com/users/FubarDevelopment/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/FubarDevelopment/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/FubarDevelopment/subscriptions",
+    "organizations_url": "https://api.github.com/users/FubarDevelopment/orgs",
+    "repos_url": "https://api.github.com/users/FubarDevelopment/repos",
+    "events_url": "https://api.github.com/users/FubarDevelopment/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/FubarDevelopment/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jchannon": 1,
+    "P2SH": 1,
+    "RReverser": 1,
+    "henkmollema": 2,
+    "Yantrio": 2,
+    "gitter-badger": 2,
+    "evnik": 3,
+    "fubar-coder": 468
+  },
+  "pulls_authors": [
+    "henkmollema",
+    "Yantrio",
+    "jchannon",
+    "evnik",
+    "GeirGrusom",
+    "gitter-badger",
+    "P2SH",
+    "RReverser"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 1315286,
+      "color": "#178600"
+    },
+    "PowerShell": {
+      "bytes": 6667,
+      "color": "#012456"
+    },
+    "Batchfile": {
+      "bytes": 290,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:40.393Z"
+}

@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Httwrap",
+  "full_name": "ziyasal/Httwrap",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/Httwrap",
+  "description": "General purpose, simple but useful HttpClient wrapper for .NET & Xamarin/Mono",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal/Httwrap",
+  "languages_url": "https://api.github.com/repos/ziyasal/Httwrap/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/Httwrap/pulls{/number}",
+  "created_at": "2015-01-29T13:46:05Z",
+  "updated_at": "2018-06-02T15:46:28Z",
+  "pushed_at": "2017-09-25T20:51:22Z",
+  "homepage": "",
+  "size": 912,
+  "stargazers_count": 30,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "GokGokalp": 1,
+    "previousdeveloper": 1,
+    "volkanakinpasa": 1,
+    "ocinbat": 5,
+    "ozzimpact": 8,
+    "ziyasal": 77
+  },
+  "pulls_authors": [
+    "previousdeveloper",
+    "ozzimpact",
+    "volkanakinpasa"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 51005,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:05.826Z"
+}

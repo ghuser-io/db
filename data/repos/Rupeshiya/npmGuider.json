@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "npmGuider",
+  "full_name": "Rupeshiya/npmGuider",
+  "owner": "Rupeshiya",
+  "private": false,
+  "html_url": "https://github.com/Rupeshiya/npmGuider",
+  "description": "This gives you the idea of well know npm packages.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Rupeshiya/npmGuider",
+  "languages_url": "https://api.github.com/repos/Rupeshiya/npmGuider/languages",
+  "created_at": "2018-06-05T19:37:07Z",
+  "updated_at": "2018-07-01T11:16:44Z",
+  "pushed_at": "2018-06-24T18:04:00Z",
+  "homepage": null,
+  "size": 9,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "debck": 1,
+    "Rupeshiya": 8
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 637,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/Rupeshiya/npmGuider/pulls{/number}",
+  "pulls_authors": [
+    "Rupeshiya",
+    "debck"
+  ]
+}

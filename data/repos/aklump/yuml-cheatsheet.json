@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "yuml-cheatsheet",
+  "full_name": "aklump/yuml-cheatsheet",
+  "owner": "aklump",
+  "private": false,
+  "html_url": "https://github.com/aklump/yuml-cheatsheet",
+  "description": "A cheatsheet and syntax summary for yUML",
+  "fork": false,
+  "url": "https://api.github.com/repos/aklump/yuml-cheatsheet",
+  "languages_url": "https://api.github.com/repos/aklump/yuml-cheatsheet/languages",
+  "pulls_url": "https://api.github.com/repos/aklump/yuml-cheatsheet/pulls{/number}",
+  "created_at": "2014-01-03T20:23:13Z",
+  "updated_at": "2018-09-05T22:19:24Z",
+  "pushed_at": "2016-10-04T15:25:34Z",
+  "homepage": "",
+  "size": 4,
+  "stargazers_count": 10,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "aloisdg": 2,
+    "aklump": 4
+  },
+  "pulls_authors": [
+    "aloisdg"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-12T04:56:12.438Z"
+}

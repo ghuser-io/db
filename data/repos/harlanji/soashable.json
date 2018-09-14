@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "soashable",
+  "full_name": "harlanji/soashable",
+  "owner": "harlanji",
+  "private": false,
+  "html_url": "https://github.com/harlanji/soashable",
+  "description": "A web based IM client",
+  "fork": false,
+  "url": "https://api.github.com/repos/harlanji/soashable",
+  "languages_url": "https://api.github.com/repos/harlanji/soashable/languages",
+  "pulls_url": "https://api.github.com/repos/harlanji/soashable/pulls{/number}",
+  "created_at": "2008-08-27T05:39:39Z",
+  "updated_at": "2016-05-08T12:29:09Z",
+  "pushed_at": "2008-08-27T15:23:00Z",
+  "homepage": "http://soashable.sourceforge.net",
+  "size": 5472,
+  "stargazers_count": 23,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "harlanji": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 191483,
+      "color": "#f1e05a"
+    },
+    "Java": {
+      "bytes": 120486,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-11T01:33:33.081Z"
+}

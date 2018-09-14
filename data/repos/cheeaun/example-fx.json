@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "example-fx",
+  "full_name": "cheeaun/example-fx",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/example-fx",
+  "description": "An example Firefox extension for anyone to fork.",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/example-fx",
+  "languages_url": "https://api.github.com/repos/cheeaun/example-fx/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/example-fx/pulls{/number}",
+  "created_at": "2009-03-13T09:30:49Z",
+  "updated_at": "2018-06-24T22:29:41Z",
+  "pushed_at": "2009-03-14T08:30:30Z",
+  "homepage": "",
+  "size": 82,
+  "stargazers_count": 7,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 670,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T19:00:11.144Z"
+}

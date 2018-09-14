@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "co",
+  "full_name": "sidorares/co",
+  "owner": "sidorares",
+  "private": false,
+  "html_url": "https://github.com/sidorares/co",
+  "description": "The ultimate generator based flow-control goodness for nodejs (supports thunks, promises, etc)",
+  "fork": true,
+  "url": "https://api.github.com/repos/sidorares/co",
+  "languages_url": "https://api.github.com/repos/sidorares/co/languages",
+  "pulls_url": "https://api.github.com/repos/sidorares/co/pulls{/number}",
+  "created_at": "2013-08-15T01:49:12Z",
+  "updated_at": "2014-12-02T05:51:39Z",
+  "pushed_at": "2013-08-15T01:50:39Z",
+  "homepage": "",
+  "size": 83,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "juliangruber": 1,
+    "TooTallNate": 1,
+    "willconant": 1,
+    "pyrotechnick": 1,
+    "LoicMahieu": 1,
+    "tj": 51
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 24138,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:47.749Z"
+}

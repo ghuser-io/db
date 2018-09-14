@@ -1,0 +1,74 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vim-awesome",
+  "full_name": "captbaritone/vim-awesome",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/vim-awesome",
+  "description": "Awesome Vim plugins from across the universe",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/vim-awesome",
+  "languages_url": "https://api.github.com/repos/captbaritone/vim-awesome/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/vim-awesome/pulls{/number}",
+  "created_at": "2016-02-08T21:32:32Z",
+  "updated_at": "2018-07-29T22:16:54Z",
+  "pushed_at": "2017-05-17T03:00:55Z",
+  "homepage": "http://vimawesome.com",
+  "size": 4150,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "denisinla": 1,
+    "morhetz": 1,
+    "julen": 1,
+    "aaronmiler": 1,
+    "greenkeeperio-bot": 2,
+    "JGulbronson": 2,
+    "andyzg": 6,
+    "jonafato": 7,
+    "xymostech": 9,
+    "sophiebits": 28,
+    "captbaritone": 64,
+    "divad12": 247
+  },
+  "pulls_authors": [
+    "greenkeeperio-bot"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 73217,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 63044,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 59449,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1762,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 1623,
+      "color": "#427819"
+    },
+    "Ruby": {
+      "bytes": 796,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:55.528Z"
+}

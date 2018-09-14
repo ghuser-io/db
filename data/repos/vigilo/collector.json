@@ -1,0 +1,76 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "collector",
+  "full_name": "vigilo/collector",
+  "owner": "vigilo",
+  "private": false,
+  "html_url": "https://github.com/vigilo/collector",
+  "description": "SNMP collector plugin",
+  "fork": false,
+  "url": "https://api.github.com/repos/vigilo/collector",
+  "languages_url": "https://api.github.com/repos/vigilo/collector/languages",
+  "pulls_url": "https://api.github.com/repos/vigilo/collector/pulls{/number}",
+  "created_at": "2015-07-10T14:29:17Z",
+  "updated_at": "2018-09-14T01:24:32Z",
+  "pushed_at": "2018-09-14T01:24:31Z",
+  "homepage": "https://www.vigilo-nms.org/",
+  "size": 173,
+  "stargazers_count": 2,
+  "language": "Perl",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "develop",
+  "organization": {
+    "login": "vigilo",
+    "id": 3083424,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMwODM0MjQ=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/3083424?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/vigilo",
+    "html_url": "https://github.com/vigilo",
+    "followers_url": "https://api.github.com/users/vigilo/followers",
+    "following_url": "https://api.github.com/users/vigilo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/vigilo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/vigilo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/vigilo/subscriptions",
+    "organizations_url": "https://api.github.com/users/vigilo/orgs",
+    "repos_url": "https://api.github.com/users/vigilo/repos",
+    "events_url": "https://api.github.com/users/vigilo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/vigilo/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ldgabet": 1,
+    "vquemener": 2,
+    "tburguie": 26,
+    "fpoirotte": 60
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Perl": {
+      "bytes": 84505,
+      "color": "#0298c3"
+    },
+    "Makefile": {
+      "bytes": 2161,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 364,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 114,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-14T09:11:37.063Z"
+}

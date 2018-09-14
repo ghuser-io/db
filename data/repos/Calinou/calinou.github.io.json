@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 6
+  },
+  "name": "calinou.github.io",
+  "full_name": "Calinou/calinou.github.io",
+  "owner": "Calinou",
+  "private": false,
+  "html_url": "https://github.com/Calinou/calinou.github.io",
+  "description": "My personal site.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Calinou/calinou.github.io",
+  "languages_url": "https://api.github.com/repos/Calinou/calinou.github.io/languages",
+  "created_at": "2015-10-05T19:18:26Z",
+  "updated_at": "2017-02-19T12:57:44Z",
+  "pushed_at": "2018-03-03T16:23:29Z",
+  "homepage": "http://calinou.github.io",
+  "size": 2047,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "CSS": {
+      "bytes": 23200,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 5669,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/Calinou/calinou.github.io/pulls{/number}",
+  "pulls_authors": []
+}

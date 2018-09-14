@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "python-for-ios",
+  "full_name": "jdelman/python-for-ios",
+  "owner": "jdelman",
+  "private": false,
+  "html_url": "https://github.com/jdelman/python-for-ios",
+  "description": "Script for building Python with iOS SDK",
+  "fork": true,
+  "url": "https://api.github.com/repos/jdelman/python-for-ios",
+  "languages_url": "https://api.github.com/repos/jdelman/python-for-ios/languages",
+  "pulls_url": "https://api.github.com/repos/jdelman/python-for-ios/pulls{/number}",
+  "created_at": "2015-11-17T00:26:22Z",
+  "updated_at": "2017-01-31T10:51:36Z",
+  "pushed_at": "2015-11-17T00:29:18Z",
+  "homepage": "",
+  "size": 14372,
+  "stargazers_count": 2,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "linusyang": 24
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 6043,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T13:47:42.330Z"
+}

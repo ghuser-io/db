@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "isolate",
+  "full_name": "cms-dev/isolate",
+  "owner": "cms-dev",
+  "private": false,
+  "html_url": "https://github.com/cms-dev/isolate",
+  "description": "Sandbox for securly executing untrusted programs",
+  "fork": false,
+  "url": "https://api.github.com/repos/cms-dev/isolate",
+  "languages_url": "https://api.github.com/repos/cms-dev/isolate/languages",
+  "pulls_url": "https://api.github.com/repos/cms-dev/isolate/pulls{/number}",
+  "created_at": "2014-02-19T09:34:01Z",
+  "updated_at": "2018-05-21T21:11:57Z",
+  "pushed_at": "2017-10-20T12:17:51Z",
+  "homepage": null,
+  "size": 75,
+  "stargazers_count": 40,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "cms-dev",
+    "id": 1671612,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2NzE2MTI=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/1671612?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/cms-dev",
+    "html_url": "https://github.com/cms-dev",
+    "followers_url": "https://api.github.com/users/cms-dev/followers",
+    "following_url": "https://api.github.com/users/cms-dev/following{/other_user}",
+    "gists_url": "https://api.github.com/users/cms-dev/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/cms-dev/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/cms-dev/subscriptions",
+    "organizations_url": "https://api.github.com/users/cms-dev/orgs",
+    "repos_url": "https://api.github.com/users/cms-dev/repos",
+    "events_url": "https://api.github.com/users/cms-dev/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/cms-dev/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "stefano-maggiolo": 1,
+    "fagu": 1,
+    "veluca93": 2,
+    "konstantint": 2,
+    "lerks": 2,
+    "SuprDewd": 3,
+    "ronalchn": 3,
+    "giomasce": 9,
+    "bblackham": 24,
+    "gollux": 71
+  },
+  "pulls_authors": [
+    "wil93",
+    "austrin",
+    "Alaxe",
+    "seirl",
+    "jamiees2",
+    "konstantint",
+    "lerks",
+    "SuprDewd"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 37632,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 1189,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 86,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:24.850Z"
+}

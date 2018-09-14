@@ -1,0 +1,68 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "diploma-thesis",
+  "full_name": "pigeon-working-group/diploma-thesis",
+  "owner": "pigeon-working-group",
+  "private": false,
+  "html_url": "https://github.com/pigeon-working-group/diploma-thesis",
+  "description": "Pigeon diploma thesis.",
+  "fork": false,
+  "url": "https://api.github.com/repos/pigeon-working-group/diploma-thesis",
+  "languages_url": "https://api.github.com/repos/pigeon-working-group/diploma-thesis/languages",
+  "pulls_url": "https://api.github.com/repos/pigeon-working-group/diploma-thesis/pulls{/number}",
+  "created_at": "2017-09-05T19:54:15Z",
+  "updated_at": "2018-05-15T09:30:32Z",
+  "pushed_at": "2018-05-15T09:30:30Z",
+  "homepage": null,
+  "size": 155,
+  "stargazers_count": 2,
+  "language": "TeX",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "pigeon-working-group",
+    "id": 31774263,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMxNzc0MjYz",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/31774263?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pigeon-working-group",
+    "html_url": "https://github.com/pigeon-working-group",
+    "followers_url": "https://api.github.com/users/pigeon-working-group/followers",
+    "following_url": "https://api.github.com/users/pigeon-working-group/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pigeon-working-group/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pigeon-working-group/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pigeon-working-group/subscriptions",
+    "organizations_url": "https://api.github.com/users/pigeon-working-group/orgs",
+    "repos_url": "https://api.github.com/users/pigeon-working-group/repos",
+    "events_url": "https://api.github.com/users/pigeon-working-group/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pigeon-working-group/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Sybee": 5,
+    "PhilipTrauner": 89
+  },
+  "pulls_authors": [],
+  "languages": {
+    "TeX": {
+      "bytes": 201360,
+      "color": "#3D6117"
+    },
+    "Shell": {
+      "bytes": 3840,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 2726,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 538,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:06.619Z"
+}

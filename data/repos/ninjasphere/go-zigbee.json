@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-zigbee",
+  "full_name": "ninjasphere/go-zigbee",
+  "owner": "ninjasphere",
+  "private": false,
+  "html_url": "https://github.com/ninjasphere/go-zigbee",
+  "description": "Golang ZigBee library (using TI Z-Stack Linux Gateway)",
+  "fork": false,
+  "url": "https://api.github.com/repos/ninjasphere/go-zigbee",
+  "languages_url": "https://api.github.com/repos/ninjasphere/go-zigbee/languages",
+  "pulls_url": "https://api.github.com/repos/ninjasphere/go-zigbee/pulls{/number}",
+  "created_at": "2014-08-03T06:12:13Z",
+  "updated_at": "2018-06-25T09:40:22Z",
+  "pushed_at": "2015-08-25T06:35:56Z",
+  "homepage": "http://ninjablocks.com",
+  "size": 332,
+  "stargazers_count": 12,
+  "language": "Protocol Buffer",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ninjasphere",
+    "id": 6147637,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxNDc2Mzc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/6147637?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ninjasphere",
+    "html_url": "https://github.com/ninjasphere",
+    "followers_url": "https://api.github.com/users/ninjasphere/followers",
+    "following_url": "https://api.github.com/users/ninjasphere/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ninjasphere/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ninjasphere/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ninjasphere/subscriptions",
+    "organizations_url": "https://api.github.com/users/ninjasphere/orgs",
+    "repos_url": "https://api.github.com/users/ninjasphere/repos",
+    "events_url": "https://api.github.com/users/ninjasphere/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ninjasphere/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jonseymour": 12,
+    "elliots": 30
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Protocol Buffer": {
+      "bytes": 94172,
+      "color": "#ccc"
+    },
+    "Go": {
+      "bytes": 26360,
+      "color": "#375eab"
+    },
+    "Shell": {
+      "bytes": 124,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T13:45:53.927Z"
+}

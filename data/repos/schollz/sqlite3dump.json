@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sqlite3dump",
+  "full_name": "schollz/sqlite3dump",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/sqlite3dump",
+  "description": "A Golang library for dumping SQL text ",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/sqlite3dump",
+  "languages_url": "https://api.github.com/repos/schollz/sqlite3dump/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/sqlite3dump/pulls{/number}",
+  "created_at": "2018-02-24T17:14:16Z",
+  "updated_at": "2018-09-07T15:14:18Z",
+  "pushed_at": "2018-09-07T15:14:25Z",
+  "homepage": "",
+  "size": 13,
+  "stargazers_count": 7,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 15
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 7211,
+      "color": "#375eab"
+    },
+    "Python": {
+      "bytes": 3050,
+      "color": "#3572A5"
+    },
+    "PLpgSQL": {
+      "bytes": 460,
+      "color": "#ccc"
+    },
+    "AMPL": {
+      "bytes": 220,
+      "color": "#E6EFBB"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:29.538Z"
+}

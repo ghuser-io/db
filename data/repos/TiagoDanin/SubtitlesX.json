@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SubtitlesX",
+  "full_name": "TiagoDanin/SubtitlesX",
+  "owner": "TiagoDanin",
+  "private": false,
+  "html_url": "https://github.com/TiagoDanin/SubtitlesX",
+  "description": "CLI Tool to download subtitles for movies and series.",
+  "fork": false,
+  "url": "https://api.github.com/repos/TiagoDanin/SubtitlesX",
+  "languages_url": "https://api.github.com/repos/TiagoDanin/SubtitlesX/languages",
+  "pulls_url": "https://api.github.com/repos/TiagoDanin/SubtitlesX/pulls{/number}",
+  "created_at": "2017-12-10T12:51:37Z",
+  "updated_at": "2018-08-11T15:04:42Z",
+  "pushed_at": "2018-08-11T16:22:10Z",
+  "homepage": "https://TiagoDanin.github.io/SubtitlesX/",
+  "size": 50,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "renovate[bot]": 1,
+    "greenkeeper[bot]": 1,
+    "renovate-bot": 6,
+    "TiagoDanin": 13
+  },
+  "pulls_authors": [
+    "renovate[bot]",
+    "greenkeeper[bot]"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2540,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-12T17:48:20.581Z"
+}

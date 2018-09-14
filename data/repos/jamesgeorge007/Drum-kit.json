@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Drum-kit",
+  "full_name": "jamesgeorge007/Drum-kit",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/Drum-kit",
+  "description": "Drum kit made out in pure Vanilla-js :notes: :musical_note:",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/Drum-kit",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/Drum-kit/languages",
+  "created_at": "2018-06-27T14:15:51Z",
+  "updated_at": "2018-07-17T15:51:58Z",
+  "pushed_at": "2018-07-17T15:51:56Z",
+  "homepage": "https://jamesgeorge007.github.io/Drum-kit/",
+  "size": 1139,
+  "stargazers_count": 6,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jamesgeorge007": 19
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 2708,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 2267,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 1540,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/Drum-kit/pulls{/number}",
+  "pulls_authors": []
+}

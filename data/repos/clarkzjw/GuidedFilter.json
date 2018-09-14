@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "GuidedFilter",
+  "full_name": "clarkzjw/GuidedFilter",
+  "owner": "clarkzjw",
+  "private": false,
+  "html_url": "https://github.com/clarkzjw/GuidedFilter",
+  "description": "Implementation and Comparison of Guided Filter",
+  "fork": false,
+  "url": "https://api.github.com/repos/clarkzjw/GuidedFilter",
+  "languages_url": "https://api.github.com/repos/clarkzjw/GuidedFilter/languages",
+  "pulls_url": "https://api.github.com/repos/clarkzjw/GuidedFilter/pulls{/number}",
+  "created_at": "2016-01-21T11:01:12Z",
+  "updated_at": "2018-07-13T16:22:01Z",
+  "pushed_at": "2018-07-13T16:22:00Z",
+  "homepage": "",
+  "size": 666,
+  "stargazers_count": 6,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "clarkzjw": 7
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 6582,
+      "color": "#f34b7d"
+    },
+    "Matlab": {
+      "bytes": 4590,
+      "color": "#e16737"
+    }
+  },
+  "fetched_at": "2018-08-23T12:44:40.970Z"
+}

@@ -1,0 +1,86 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Status-Board",
+  "full_name": "hack-rpi/Status-Board",
+  "owner": "hack-rpi",
+  "private": false,
+  "html_url": "https://github.com/hack-rpi/Status-Board",
+  "description": "Hackathon commit messages, announcements, mentor requests, and more, all in one place!",
+  "fork": false,
+  "url": "https://api.github.com/repos/hack-rpi/Status-Board",
+  "languages_url": "https://api.github.com/repos/hack-rpi/Status-Board/languages",
+  "pulls_url": "https://api.github.com/repos/hack-rpi/Status-Board/pulls{/number}",
+  "created_at": "2014-10-16T13:37:05Z",
+  "updated_at": "2017-03-23T21:45:02Z",
+  "pushed_at": "2017-04-30T23:38:29Z",
+  "homepage": "https://status.hackrpi.com",
+  "size": 5814,
+  "stargazers_count": 14,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "hack-rpi",
+    "id": 16022823,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2MDIyODIz",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/16022823?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hack-rpi",
+    "html_url": "https://github.com/hack-rpi",
+    "followers_url": "https://api.github.com/users/hack-rpi/followers",
+    "following_url": "https://api.github.com/users/hack-rpi/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hack-rpi/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hack-rpi/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hack-rpi/subscriptions",
+    "organizations_url": "https://api.github.com/users/hack-rpi/orgs",
+    "repos_url": "https://api.github.com/users/hack-rpi/repos",
+    "events_url": "https://api.github.com/users/hack-rpi/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hack-rpi/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "LucienBrule": 1,
+    "brianhelba": 2,
+    "mathstuf": 2,
+    "agundy": 3,
+    "Batboa": 4,
+    "leea10": 7,
+    "mpoegel": 154
+  },
+  "pulls_authors": [
+    "mpoegel",
+    "JCBird1012",
+    "LucienBrule",
+    "leea10",
+    "justetz",
+    "mathstuf"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 156920,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 137685,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 18051,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 250,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:05.526Z"
+}

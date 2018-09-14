@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "focus-group",
+  "full_name": "davidtheclark/focus-group",
+  "owner": "davidtheclark",
+  "private": false,
+  "html_url": "https://github.com/davidtheclark/focus-group",
+  "description": "Create a group of nodes with special focusing powers",
+  "fork": false,
+  "url": "https://api.github.com/repos/davidtheclark/focus-group",
+  "languages_url": "https://api.github.com/repos/davidtheclark/focus-group/languages",
+  "pulls_url": "https://api.github.com/repos/davidtheclark/focus-group/pulls{/number}",
+  "created_at": "2016-01-28T13:54:34Z",
+  "updated_at": "2018-08-22T22:25:05Z",
+  "pushed_at": "2017-02-08T06:32:07Z",
+  "homepage": "http://davidtheclark.github.io/focus-group/demo/",
+  "size": 40,
+  "stargazers_count": 31,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "paulyoung": 2,
+    "souporserious": 6,
+    "davidtheclark": 33
+  },
+  "pulls_authors": [
+    "souporserious",
+    "paulyoung"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 24125,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 5172,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 402,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:53.608Z"
+}

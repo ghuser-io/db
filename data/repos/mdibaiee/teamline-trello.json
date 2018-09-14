@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "teamline-trello",
+  "full_name": "mdibaiee/teamline-trello",
+  "owner": "mdibaiee",
+  "private": false,
+  "html_url": "https://github.com/mdibaiee/teamline-trello",
+  "description": "Sync Teamline with Trello",
+  "fork": false,
+  "url": "https://api.github.com/repos/mdibaiee/teamline-trello",
+  "languages_url": "https://api.github.com/repos/mdibaiee/teamline-trello/languages",
+  "pulls_url": "https://api.github.com/repos/mdibaiee/teamline-trello/pulls{/number}",
+  "created_at": "2016-01-27T08:59:25Z",
+  "updated_at": "2016-03-29T13:12:54Z",
+  "pushed_at": "2016-06-19T05:46:02Z",
+  "homepage": null,
+  "size": 71,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mdibaiee": 83
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 69103,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:41.195Z"
+}

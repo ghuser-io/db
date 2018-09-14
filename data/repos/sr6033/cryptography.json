@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cryptography",
+  "full_name": "sr6033/cryptography",
+  "owner": "sr6033",
+  "private": false,
+  "html_url": "https://github.com/sr6033/cryptography",
+  "description": "Various cryptography concept implementations",
+  "fork": false,
+  "url": "https://api.github.com/repos/sr6033/cryptography",
+  "languages_url": "https://api.github.com/repos/sr6033/cryptography/languages",
+  "created_at": "2017-05-05T17:59:21Z",
+  "updated_at": "2018-07-25T07:19:05Z",
+  "pushed_at": "2017-12-31T13:51:56Z",
+  "homepage": null,
+  "size": 40,
+  "stargazers_count": 3,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Swaraj1998": 1,
+    "nawedx": 1,
+    "sr6033": 7,
+    "debck": 13
+  },
+  "languages": {
+    "C++": {
+      "bytes": 21895,
+      "color": "#f34b7d"
+    },
+    "Java": {
+      "bytes": 3472,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/sr6033/cryptography/pulls{/number}",
+  "pulls_authors": [
+    "debck",
+    "Swaraj1998",
+    "nawedx"
+  ]
+}

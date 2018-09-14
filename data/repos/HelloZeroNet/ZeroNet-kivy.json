@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ZeroNet-kivy",
+  "full_name": "HelloZeroNet/ZeroNet-kivy",
+  "owner": "HelloZeroNet",
+  "private": false,
+  "html_url": "https://github.com/HelloZeroNet/ZeroNet-kivy",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/HelloZeroNet/ZeroNet-kivy",
+  "languages_url": "https://api.github.com/repos/HelloZeroNet/ZeroNet-kivy/languages",
+  "pulls_url": "https://api.github.com/repos/HelloZeroNet/ZeroNet-kivy/pulls{/number}",
+  "created_at": "2017-01-26T16:16:16Z",
+  "updated_at": "2018-09-11T10:51:44Z",
+  "pushed_at": "2018-09-07T11:30:41Z",
+  "homepage": null,
+  "size": 18347,
+  "stargazers_count": 187,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "eduaddad": 1,
+    "shortcutme": 1,
+    "l5h5t7": 1,
+    "HelloZeroNet": 1,
+    "cxgreat2014": 2,
+    "mkg20001": 148
+  },
+  "pulls_authors": [
+    "eduaddad",
+    "mkg20001",
+    "cxgreat2014",
+    "l5h5t7"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 27290,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 4019,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 3795,
+      "color": "#89e051"
+    },
+    "Dockerfile": {
+      "bytes": 1783,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:19.289Z"
+}

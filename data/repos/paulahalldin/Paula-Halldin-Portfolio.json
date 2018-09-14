@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Paula-Halldin-Portfolio",
+  "full_name": "paulahalldin/Paula-Halldin-Portfolio",
+  "owner": "paulahalldin",
+  "private": false,
+  "html_url": "https://github.com/paulahalldin/Paula-Halldin-Portfolio",
+  "description": "My portfolio homepage",
+  "fork": false,
+  "url": "https://api.github.com/repos/paulahalldin/Paula-Halldin-Portfolio",
+  "languages_url": "https://api.github.com/repos/paulahalldin/Paula-Halldin-Portfolio/languages",
+  "pulls_url": "https://api.github.com/repos/paulahalldin/Paula-Halldin-Portfolio/pulls{/number}",
+  "created_at": "2016-02-13T13:42:08Z",
+  "updated_at": "2017-10-05T09:09:08Z",
+  "pushed_at": "2018-01-15T20:03:04Z",
+  "homepage": null,
+  "size": 4704,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "paulahalldin": 2,
+    "Hemmingsson": 9
+  },
+  "pulls_authors": [
+    "Hemmingsson",
+    "paulahalldin"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 15299,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 13093,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 5802,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T17:10:05.203Z"
+}

@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "yapper",
+  "full_name": "synth/yapper",
+  "owner": "synth",
+  "private": false,
+  "html_url": "https://github.com/synth/yapper",
+  "description": "Yammer + Wrapper = Yapper; A higher level abstraction to accessing Yammer api via official Yam gem",
+  "fork": false,
+  "url": "https://api.github.com/repos/synth/yapper",
+  "languages_url": "https://api.github.com/repos/synth/yapper/languages",
+  "pulls_url": "https://api.github.com/repos/synth/yapper/pulls{/number}",
+  "created_at": "2013-12-26T20:46:43Z",
+  "updated_at": "2014-01-22T04:14:09Z",
+  "pushed_at": "2014-01-22T04:14:07Z",
+  "homepage": null,
+  "size": 168,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "synth": 11
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 34907,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T23:12:21.202Z"
+}

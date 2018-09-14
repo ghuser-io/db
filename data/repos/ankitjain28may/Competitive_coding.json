@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Competitive_coding",
+  "full_name": "ankitjain28may/Competitive_coding",
+  "owner": "ankitjain28may",
+  "private": false,
+  "html_url": "https://github.com/ankitjain28may/Competitive_coding",
+  "description": "All my programming solutions.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ankitjain28may/Competitive_coding",
+  "languages_url": "https://api.github.com/repos/ankitjain28may/Competitive_coding/languages",
+  "created_at": "2016-05-20T14:39:00Z",
+  "updated_at": "2018-08-25T13:56:26Z",
+  "pushed_at": "2017-09-11T09:20:58Z",
+  "homepage": "",
+  "size": 95,
+  "stargazers_count": 7,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ankitjain28may": 48
+  },
+  "languages": {
+    "Java": {
+      "bytes": 63676,
+      "color": "#b07219"
+    },
+    "Python": {
+      "bytes": 52298,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 9512,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 3634,
+      "color": "#f34b7d"
+    },
+    "PHP": {
+      "bytes": 175,
+      "color": "#4F5D95"
+    },
+    "Ruby": {
+      "bytes": 149,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-08-25T19:31:55.160Z",
+  "pulls_url": "https://api.github.com/repos/ankitjain28may/Competitive_coding/pulls{/number}",
+  "pulls_authors": []
+}

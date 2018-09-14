@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gate-executor",
+  "full_name": "senecajs/gate-executor",
+  "owner": "senecajs",
+  "private": false,
+  "html_url": "https://github.com/senecajs/gate-executor",
+  "description": "Execute functions that return via callback in order, but pause if a function is marked as a gate.",
+  "fork": false,
+  "url": "https://api.github.com/repos/senecajs/gate-executor",
+  "languages_url": "https://api.github.com/repos/senecajs/gate-executor/languages",
+  "pulls_url": "https://api.github.com/repos/senecajs/gate-executor/pulls{/number}",
+  "created_at": "2014-08-22T10:32:37Z",
+  "updated_at": "2018-06-13T07:35:53Z",
+  "pushed_at": "2017-05-02T14:12:17Z",
+  "homepage": null,
+  "size": 419,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "senecajs",
+    "id": 10085488,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwMDg1NDg4",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/10085488?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/senecajs",
+    "html_url": "https://github.com/senecajs",
+    "followers_url": "https://api.github.com/users/senecajs/followers",
+    "following_url": "https://api.github.com/users/senecajs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/senecajs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/senecajs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/senecajs/subscriptions",
+    "organizations_url": "https://api.github.com/users/senecajs/orgs",
+    "repos_url": "https://api.github.com/users/senecajs/repos",
+    "events_url": "https://api.github.com/users/senecajs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/senecajs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jakepruitt": 1,
+    "paolochiodi": 3,
+    "geek": 3,
+    "AdrieanKhisbe": 5,
+    "rjrodger": 43
+  },
+  "pulls_authors": [
+    "paolochiodi",
+    "rjrodger",
+    "eeswr",
+    "paulscheltema",
+    "mcollina",
+    "geek",
+    "AdrieanKhisbe",
+    "gitter-badger",
+    "jakepruitt"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 108633,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:30.697Z"
+}

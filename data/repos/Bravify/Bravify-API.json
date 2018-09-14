@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Bravify-API",
+  "full_name": "Bravify/Bravify-API",
+  "owner": "Bravify",
+  "private": false,
+  "html_url": "https://github.com/Bravify/Bravify-API",
+  "description": "An API for Bravify, to simplify and unify all the things Bravify needs to do.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Bravify/Bravify-API",
+  "languages_url": "https://api.github.com/repos/Bravify/Bravify-API/languages",
+  "pulls_url": "https://api.github.com/repos/Bravify/Bravify-API/pulls{/number}",
+  "created_at": "2016-08-20T20:47:02Z",
+  "updated_at": "2016-11-09T19:33:31Z",
+  "pushed_at": "2016-11-16T17:24:06Z",
+  "homepage": null,
+  "size": 44,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "develop",
+  "organization": {
+    "login": "Bravify",
+    "id": 18170494,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4MTcwNDk0",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/18170494?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Bravify",
+    "html_url": "https://github.com/Bravify",
+    "followers_url": "https://api.github.com/users/Bravify/followers",
+    "following_url": "https://api.github.com/users/Bravify/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Bravify/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Bravify/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Bravify/subscriptions",
+    "organizations_url": "https://api.github.com/users/Bravify/orgs",
+    "repos_url": "https://api.github.com/users/Bravify/repos",
+    "events_url": "https://api.github.com/users/Bravify/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Bravify/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "AKPWebDesign": 21
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 21320,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:12.888Z"
+}

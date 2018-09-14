@@ -1,0 +1,105 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "graphql-faker",
+  "full_name": "APIs-guru/graphql-faker",
+  "owner": "APIs-guru",
+  "private": false,
+  "html_url": "https://github.com/APIs-guru/graphql-faker",
+  "description": "🎲 Mock or extend your GraphQL API with faked data. No coding required.",
+  "fork": false,
+  "url": "https://api.github.com/repos/APIs-guru/graphql-faker",
+  "languages_url": "https://api.github.com/repos/APIs-guru/graphql-faker/languages",
+  "pulls_url": "https://api.github.com/repos/APIs-guru/graphql-faker/pulls{/number}",
+  "created_at": "2017-02-27T11:26:55Z",
+  "updated_at": "2018-09-14T07:05:24Z",
+  "pushed_at": "2018-08-24T11:36:08Z",
+  "homepage": "",
+  "size": 1936,
+  "stargazers_count": 887,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "APIs-guru",
+    "id": 10975548,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwOTc1NTQ4",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/10975548?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/APIs-guru",
+    "html_url": "https://github.com/APIs-guru",
+    "followers_url": "https://api.github.com/users/APIs-guru/followers",
+    "following_url": "https://api.github.com/users/APIs-guru/following{/other_user}",
+    "gists_url": "https://api.github.com/users/APIs-guru/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/APIs-guru/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/APIs-guru/subscriptions",
+    "organizations_url": "https://api.github.com/users/APIs-guru/orgs",
+    "repos_url": "https://api.github.com/users/APIs-guru/repos",
+    "events_url": "https://api.github.com/users/APIs-guru/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/APIs-guru/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "arquio": 1,
+    "Archon-": 1,
+    "declaneugeneleekennedy": 1,
+    "slavik925": 1,
+    "wtgtybhertgeghgtwtg": 1,
+    "cajames": 1,
+    "DonnieWest": 1,
+    "ojczeo": 1,
+    "peteruithoven": 2,
+    "spawnia": 2,
+    "securingsincity": 2,
+    "JamesKyburz": 5,
+    "RomanGotsiy": 67,
+    "IvanGoncharov": 110
+  },
+  "pulls_authors": [
+    "arquio",
+    "peteruithoven",
+    "Archon-",
+    "spawnia",
+    "declaneugeneleekennedy",
+    "slavik925",
+    "wtgtybhertgeghgtwtg",
+    "JamesKyburz",
+    "liuchong",
+    "cajames",
+    "DonnieWest",
+    "zephraph",
+    "securingsincity",
+    "ojczeo"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 36128,
+      "color": "#2b7489"
+    },
+    "CSS": {
+      "bytes": 19527,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 7720,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 386,
+      "color": "#e34c26"
+    },
+    "Dockerfile": {
+      "bytes": 175,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-14T09:08:38.306Z"
+}

@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "openbook",
+  "full_name": "captbaritone/openbook",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/openbook",
+  "description": "open book is an open lilypond real book for Jazz musicians",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/openbook",
+  "languages_url": "https://api.github.com/repos/captbaritone/openbook/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/openbook/pulls{/number}",
+  "created_at": "2013-08-02T06:43:23Z",
+  "updated_at": "2018-07-29T22:10:56Z",
+  "pushed_at": "2013-08-27T00:36:26Z",
+  "homepage": "https://github.com/veltzer/openbook#readme",
+  "size": 50533,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "glynnforrest": 1,
+    "captbaritone": 71,
+    "veltzer": 887
+  },
+  "pulls_authors": [
+    "captbaritone"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1496390,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 32469,
+      "color": "#563d7c"
+    },
+    "Perl": {
+      "bytes": 27755,
+      "color": "#0298c3"
+    },
+    "Python": {
+      "bytes": 15009,
+      "color": "#3572A5"
+    },
+    "PHP": {
+      "bytes": 5877,
+      "color": "#4F5D95"
+    },
+    "Vim script": {
+      "bytes": 303,
+      "color": "#199f4b"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:44.633Z"
+}

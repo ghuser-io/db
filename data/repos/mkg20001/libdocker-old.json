@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "libdocker-old",
+  "full_name": "mkg20001/libdocker-old",
+  "owner": "mkg20001",
+  "private": false,
+  "html_url": "https://github.com/mkg20001/libdocker-old",
+  "description": "A Docker NodeJS lib wrapping the Docker command line and managing it from a json file.",
+  "fork": true,
+  "url": "https://api.github.com/repos/mkg20001/libdocker-old",
+  "languages_url": "https://api.github.com/repos/mkg20001/libdocker-old/languages",
+  "pulls_url": "https://api.github.com/repos/mkg20001/libdocker-old/pulls{/number}",
+  "created_at": "2017-06-10T10:59:36Z",
+  "updated_at": "2018-02-19T13:14:24Z",
+  "pushed_at": "2017-06-13T14:27:22Z",
+  "homepage": "",
+  "size": 64,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "antialias": 1,
+    "anthony-o": 11,
+    "mkg20001": 14
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 29361,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:36.915Z"
+}

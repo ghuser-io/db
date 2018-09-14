@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "uni-task-1",
+  "full_name": "BesutKode/uni-task-1",
+  "owner": "BesutKode",
+  "private": false,
+  "html_url": "https://github.com/BesutKode/uni-task-1",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/BesutKode/uni-task-1",
+  "languages_url": "https://api.github.com/repos/BesutKode/uni-task-1/languages",
+  "pulls_url": "https://api.github.com/repos/BesutKode/uni-task-1/pulls{/number}",
+  "created_at": "2016-10-19T16:39:54Z",
+  "updated_at": "2016-11-17T16:49:33Z",
+  "pushed_at": "2016-11-02T04:17:03Z",
+  "homepage": null,
+  "size": 17,
+  "stargazers_count": 5,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "cc-by-4.0",
+    "name": "Creative Commons Attribution 4.0",
+    "spdx_id": "CC-BY-4.0",
+    "url": "https://api.github.com/licenses/cc-by-4.0",
+    "node_id": "MDc6TGljZW5zZTI1"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "BesutKode",
+    "id": 18556752,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4NTU2NzUy",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/18556752?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/BesutKode",
+    "html_url": "https://github.com/BesutKode",
+    "followers_url": "https://api.github.com/users/BesutKode/followers",
+    "following_url": "https://api.github.com/users/BesutKode/following{/other_user}",
+    "gists_url": "https://api.github.com/users/BesutKode/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/BesutKode/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/BesutKode/subscriptions",
+    "organizations_url": "https://api.github.com/users/BesutKode/orgs",
+    "repos_url": "https://api.github.com/users/BesutKode/repos",
+    "events_url": "https://api.github.com/users/BesutKode/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/BesutKode/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "bekicot": 1,
+    "edawine": 2,
+    "jayvdb": 4
+  },
+  "pulls_authors": [
+    "edawine",
+    "bekicot"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 2051,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

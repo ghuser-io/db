@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "RAGEWOLF",
+  "full_name": "har777/RAGEWOLF",
+  "owner": "har777",
+  "private": false,
+  "html_url": "https://github.com/har777/RAGEWOLF",
+  "description": "A very basic web-browser for Debian and its variants. Open to beginners to add and improve features.",
+  "fork": false,
+  "url": "https://api.github.com/repos/har777/RAGEWOLF",
+  "languages_url": "https://api.github.com/repos/har777/RAGEWOLF/languages",
+  "pulls_url": "https://api.github.com/repos/har777/RAGEWOLF/pulls{/number}",
+  "created_at": "2012-09-29T18:29:53Z",
+  "updated_at": "2013-10-26T13:18:35Z",
+  "pushed_at": "2013-07-11T21:15:49Z",
+  "homepage": null,
+  "size": 172,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "har777": 2
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-11T22:30:26.277Z"
+}

@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "MLPVC-RR",
+  "full_name": "SeinopSys/MLPVC-RR",
+  "owner": "SeinopSys",
+  "private": false,
+  "html_url": "https://github.com/SeinopSys/MLPVC-RR",
+  "description": "MLP-VectorClub Requests / Reservations / Color Guide website",
+  "fork": false,
+  "url": "https://api.github.com/repos/SeinopSys/MLPVC-RR",
+  "languages_url": "https://api.github.com/repos/SeinopSys/MLPVC-RR/languages",
+  "pulls_url": "https://api.github.com/repos/SeinopSys/MLPVC-RR/pulls{/number}",
+  "created_at": "2015-07-05T19:23:23Z",
+  "updated_at": "2018-09-13T22:54:28Z",
+  "pushed_at": "2018-09-13T22:54:26Z",
+  "homepage": "https://mlpvector.club/",
+  "size": 28341,
+  "stargazers_count": 7,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "SeinopSys": 2936
+  },
+  "pulls_authors": [
+    "SeinopSys"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 746534,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 449855,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 147723,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 125615,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 1423,
+      "color": "#89e051"
+    },
+    "Standard ML": {
+      "bytes": 473,
+      "color": "#dc566d"
+    }
+  },
+  "fetched_at": "2018-09-13T23:59:44.710Z"
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "natural-synaptic",
+  "full_name": "nemo/natural-synaptic",
+  "owner": "nemo",
+  "private": false,
+  "html_url": "https://github.com/nemo/natural-synaptic",
+  "description": "Javascript Natural Language Classifier",
+  "fork": false,
+  "url": "https://api.github.com/repos/nemo/natural-synaptic",
+  "languages_url": "https://api.github.com/repos/nemo/natural-synaptic/languages",
+  "pulls_url": "https://api.github.com/repos/nemo/natural-synaptic/pulls{/number}",
+  "created_at": "2015-12-23T09:59:12Z",
+  "updated_at": "2018-09-11T20:51:52Z",
+  "pushed_at": "2017-04-26T10:39:52Z",
+  "homepage": null,
+  "size": 20,
+  "stargazers_count": 98,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "superMDguy": 1,
+    "nemo": 9
+  },
+  "pulls_authors": [
+    "maxpastor",
+    "superMDguy"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 13246,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T22:37:09.867Z"
+}

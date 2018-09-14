@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Blazy",
+  "full_name": "s0md3v/Blazy",
+  "owner": "s0md3v",
+  "private": false,
+  "html_url": "https://github.com/s0md3v/Blazy",
+  "description": "Blazy is a modern login bruteforcer which also tests for CSRF, Clickjacking, Cloudflare and WAF .",
+  "fork": false,
+  "url": "https://api.github.com/repos/s0md3v/Blazy",
+  "languages_url": "https://api.github.com/repos/s0md3v/Blazy/languages",
+  "pulls_url": "https://api.github.com/repos/s0md3v/Blazy/pulls{/number}",
+  "created_at": "2017-10-03T06:19:41Z",
+  "updated_at": "2018-09-10T20:17:10Z",
+  "pushed_at": "2017-11-25T17:23:19Z",
+  "homepage": "https://teamultimate.in",
+  "size": 37,
+  "stargazers_count": 400,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "gustavosnovaes": 1,
+    "rogerzanoni": 1,
+    "thehappydinoa": 2,
+    "s0md3v": 10
+  },
+  "pulls_authors": [
+    "fernando24164",
+    "thehappydinoa",
+    "gustavosnovaes",
+    "cclauss",
+    "rogerzanoni",
+    "ghost"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 8988,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-10T21:39:48.044Z"
+}

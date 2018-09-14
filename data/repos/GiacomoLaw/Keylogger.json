@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Keylogger",
+  "full_name": "GiacomoLaw/Keylogger",
+  "owner": "GiacomoLaw",
+  "private": false,
+  "html_url": "https://github.com/GiacomoLaw/Keylogger",
+  "description": "A simple keylogger for Windows, Linux and Mac",
+  "fork": false,
+  "url": "https://api.github.com/repos/GiacomoLaw/Keylogger",
+  "languages_url": "https://api.github.com/repos/GiacomoLaw/Keylogger/languages",
+  "pulls_url": "https://api.github.com/repos/GiacomoLaw/Keylogger/pulls{/number}",
+  "created_at": "2016-11-25T18:58:01Z",
+  "updated_at": "2018-09-12T18:02:19Z",
+  "pushed_at": "2018-05-24T06:45:43Z",
+  "homepage": "https://simple-keylogger.github.io/",
+  "size": 74,
+  "stargazers_count": 453,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "doodzik": 1,
+    "mzfr": 1,
+    "luolong": 1,
+    "Doelia": 1,
+    "mohan3d": 1,
+    "diebolo": 1,
+    "itaym120": 1,
+    "jesobreira": 1,
+    "cjwelborn": 1,
+    "waffle-iron": 1,
+    "isivisi": 1,
+    "Foggalong": 2,
+    "GiacomoLaw": 114
+  },
+  "pulls_authors": [
+    "doodzik",
+    "mzfr",
+    "usa1776",
+    "luolong",
+    "Doelia",
+    "mohan3d",
+    "diebolo",
+    "itaym120",
+    "GiacomoLaw",
+    "jesobreira",
+    "zochris",
+    "cjwelborn",
+    "waffle-iron",
+    "Foggalong",
+    "isivisi"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 17677,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 6225,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 5013,
+      "color": "#f34b7d"
+    },
+    "Makefile": {
+      "bytes": 432,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-13T00:01:32.617Z"
+}

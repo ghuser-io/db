@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-vacbot",
+  "full_name": "skburgart/go-vacbot",
+  "owner": "skburgart",
+  "private": false,
+  "html_url": "https://github.com/skburgart/go-vacbot",
+  "description": "A golang library for communicating with Ecovacs Deebot robot vacuums",
+  "fork": false,
+  "url": "https://api.github.com/repos/skburgart/go-vacbot",
+  "languages_url": "https://api.github.com/repos/skburgart/go-vacbot/languages",
+  "pulls_url": "https://api.github.com/repos/skburgart/go-vacbot/pulls{/number}",
+  "created_at": "2018-07-16T03:44:45Z",
+  "updated_at": "2018-08-12T13:01:58Z",
+  "pushed_at": "2018-07-22T04:32:56Z",
+  "homepage": null,
+  "size": 49,
+  "stargazers_count": 3,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "securingsincity": 1,
+    "skburgart": 48
+  },
+  "pulls_authors": [
+    "securingsincity"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 10035,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T00:33:37.021Z"
+}

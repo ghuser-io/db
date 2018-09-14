@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "infinum_setup",
+  "full_name": "infinum/infinum_setup",
+  "owner": "infinum",
+  "private": false,
+  "html_url": "https://github.com/infinum/infinum_setup",
+  "description": "Setup script",
+  "fork": false,
+  "url": "https://api.github.com/repos/infinum/infinum_setup",
+  "languages_url": "https://api.github.com/repos/infinum/infinum_setup/languages",
+  "pulls_url": "https://api.github.com/repos/infinum/infinum_setup/pulls{/number}",
+  "created_at": "2017-01-28T15:52:54Z",
+  "updated_at": "2018-08-17T06:41:21Z",
+  "pushed_at": "2018-02-13T12:59:27Z",
+  "homepage": null,
+  "size": 52,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "infinum",
+    "id": 97652,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjk3NjUy",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/97652?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/infinum",
+    "html_url": "https://github.com/infinum",
+    "followers_url": "https://api.github.com/users/infinum/followers",
+    "following_url": "https://api.github.com/users/infinum/following{/other_user}",
+    "gists_url": "https://api.github.com/users/infinum/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/infinum/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/infinum/subscriptions",
+    "organizations_url": "https://api.github.com/users/infinum/orgs",
+    "repos_url": "https://api.github.com/users/infinum/repos",
+    "events_url": "https://api.github.com/users/infinum/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/infinum/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "melcha": 1,
+    "DarkoKukovec": 2,
+    "d4be4st": 44
+  },
+  "pulls_authors": [
+    "DarkoKukovec"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 11154,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 730,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-17T16:21:29.763Z"
+}

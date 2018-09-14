@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "webamp-music",
+  "full_name": "captbaritone/webamp-music",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/webamp-music",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/captbaritone/webamp-music",
+  "languages_url": "https://api.github.com/repos/captbaritone/webamp-music/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/webamp-music/pulls{/number}",
+  "created_at": "2018-06-11T15:05:51Z",
+  "updated_at": "2018-07-29T22:18:00Z",
+  "pushed_at": "2018-06-11T15:07:54Z",
+  "homepage": null,
+  "size": 96115,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 2
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T04:58:34.708Z"
+}

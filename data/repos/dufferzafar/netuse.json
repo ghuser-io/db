@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "netuse",
+  "full_name": "dufferzafar/netuse",
+  "owner": "dufferzafar",
+  "private": false,
+  "html_url": "https://github.com/dufferzafar/netuse",
+  "description": "Network Usage Monitoring for Linux.",
+  "fork": false,
+  "url": "https://api.github.com/repos/dufferzafar/netuse",
+  "languages_url": "https://api.github.com/repos/dufferzafar/netuse/languages",
+  "pulls_url": "https://api.github.com/repos/dufferzafar/netuse/pulls{/number}",
+  "created_at": "2015-09-18T12:41:55Z",
+  "updated_at": "2018-09-03T10:54:28Z",
+  "pushed_at": "2016-07-06T15:46:18Z",
+  "homepage": "",
+  "size": 102,
+  "stargazers_count": 146,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "andlrc": 2,
+    "dufferzafar": 40
+  },
+  "pulls_authors": [
+    "ghost",
+    "andlrc"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 12960,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 5015,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 619,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-03T12:56:57.618Z"
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "kiki",
+  "full_name": "schollz/kiki",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/kiki",
+  "description": "An experimental social network that works offline.",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/kiki",
+  "languages_url": "https://api.github.com/repos/schollz/kiki/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/kiki/pulls{/number}",
+  "created_at": "2017-12-12T15:38:10Z",
+  "updated_at": "2018-06-24T00:38:28Z",
+  "pushed_at": "2018-02-04T15:27:01Z",
+  "homepage": "https://kiki.network",
+  "size": 34664,
+  "stargazers_count": 27,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 448
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 279956,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 2212,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:35.425Z"
+}

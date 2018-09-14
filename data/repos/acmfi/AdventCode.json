@@ -1,0 +1,104 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "AdventCode",
+  "full_name": "acmfi/AdventCode",
+  "owner": "acmfi",
+  "private": false,
+  "html_url": "https://github.com/acmfi/AdventCode",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/acmfi/AdventCode",
+  "languages_url": "https://api.github.com/repos/acmfi/AdventCode/languages",
+  "pulls_url": "https://api.github.com/repos/acmfi/AdventCode/pulls{/number}",
+  "created_at": "2016-12-06T22:51:40Z",
+  "updated_at": "2018-01-10T17:07:30Z",
+  "pushed_at": "2018-01-10T17:07:29Z",
+  "homepage": null,
+  "size": 976,
+  "stargazers_count": 4,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "acmfi",
+    "id": 1393071,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzOTMwNzE=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/1393071?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/acmfi",
+    "html_url": "https://github.com/acmfi",
+    "followers_url": "https://api.github.com/users/acmfi/followers",
+    "following_url": "https://api.github.com/users/acmfi/following{/other_user}",
+    "gists_url": "https://api.github.com/users/acmfi/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/acmfi/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/acmfi/subscriptions",
+    "organizations_url": "https://api.github.com/users/acmfi/orgs",
+    "repos_url": "https://api.github.com/users/acmfi/repos",
+    "events_url": "https://api.github.com/users/acmfi/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/acmfi/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "GoLoT": 2,
+    "edububa": 4,
+    "palomatanis": 5,
+    "Ironjanowar": 6,
+    "rockneurotiko": 14,
+    "KuroAku": 15,
+    "andsanmar": 16,
+    "RACAPPS": 17,
+    "ignaciobll": 23,
+    "skgsergio": 27
+  },
+  "pulls_authors": [
+    "RACAPPS",
+    "palomatanis",
+    "KuroAku"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 91566,
+      "color": "#3572A5"
+    },
+    "Haskell": {
+      "bytes": 90131,
+      "color": "#5e5086"
+    },
+    "Ruby": {
+      "bytes": 15797,
+      "color": "#701516"
+    },
+    "C": {
+      "bytes": 1129,
+      "color": "#555555"
+    },
+    "Go": {
+      "bytes": 1042,
+      "color": "#375eab"
+    },
+    "Elixir": {
+      "bytes": 729,
+      "color": "#6e4a7e"
+    },
+    "Java": {
+      "bytes": 650,
+      "color": "#b07219"
+    },
+    "JavaScript": {
+      "bytes": 626,
+      "color": "#f1e05a"
+    },
+    "Julia": {
+      "bytes": 455,
+      "color": "#a270ba"
+    },
+    "Makefile": {
+      "bytes": 405,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:42.445Z"
+}

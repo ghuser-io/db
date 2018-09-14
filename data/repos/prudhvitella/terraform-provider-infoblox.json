@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "terraform-provider-infoblox",
+  "full_name": "prudhvitella/terraform-provider-infoblox",
+  "owner": "prudhvitella",
+  "private": false,
+  "html_url": "https://github.com/prudhvitella/terraform-provider-infoblox",
+  "description": "Infoblox plugin for Terraform",
+  "fork": false,
+  "url": "https://api.github.com/repos/prudhvitella/terraform-provider-infoblox",
+  "languages_url": "https://api.github.com/repos/prudhvitella/terraform-provider-infoblox/languages",
+  "pulls_url": "https://api.github.com/repos/prudhvitella/terraform-provider-infoblox/pulls{/number}",
+  "created_at": "2015-12-07T22:27:55Z",
+  "updated_at": "2018-08-28T07:38:17Z",
+  "pushed_at": "2018-06-14T09:23:34Z",
+  "homepage": null,
+  "size": 4485,
+  "stargazers_count": 21,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mpl-2.0",
+    "name": "Mozilla Public License 2.0",
+    "spdx_id": "MPL-2.0",
+    "url": "https://api.github.com/licenses/mpl-2.0",
+    "node_id": "MDc6TGljZW5zZTE0"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dn1s": 1,
+    "jrandall": 2,
+    "JackBracken": 14,
+    "prudhvitella": 24
+  },
+  "pulls_authors": [
+    "JackBracken",
+    "ooOOJavaOOoo",
+    "jrandall",
+    "fmosti",
+    "dn1s",
+    "cakepietoast",
+    "st33v",
+    "andrewstucki",
+    "ReinAkane",
+    "calphool",
+    "prudhvitella"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 63033,
+      "color": "#375eab"
+    },
+    "Shell": {
+      "bytes": 1989,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 1620,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T15:14:33.361Z"
+}

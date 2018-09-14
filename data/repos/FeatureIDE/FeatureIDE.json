@@ -1,0 +1,171 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "FeatureIDE",
+  "full_name": "FeatureIDE/FeatureIDE",
+  "owner": "FeatureIDE",
+  "private": false,
+  "html_url": "https://github.com/FeatureIDE/FeatureIDE",
+  "description": "An extensible framework for feature-oriented software development",
+  "fork": false,
+  "url": "https://api.github.com/repos/FeatureIDE/FeatureIDE",
+  "languages_url": "https://api.github.com/repos/FeatureIDE/FeatureIDE/languages",
+  "pulls_url": "https://api.github.com/repos/FeatureIDE/FeatureIDE/pulls{/number}",
+  "created_at": "2013-10-25T19:08:36Z",
+  "updated_at": "2018-09-12T18:23:27Z",
+  "pushed_at": "2018-09-08T17:12:20Z",
+  "homepage": "https://featureide.github.io/",
+  "size": 358360,
+  "stargazers_count": 53,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "develop",
+  "contributors": {
+    "FeatureIDE": 1,
+    "stbolle": 1,
+    "amoench": 1,
+    "Krorsok": 1,
+    "dbronesk": 1,
+    "cpwnd": 2,
+    "Adarsh-g-s": 2,
+    "enra64": 2,
+    "belkinot": 2,
+    "jonasweigt42": 2,
+    "fdalton": 3,
+    "DawidSA2017": 4,
+    "frieger": 5,
+    "tlautens": 5,
+    "sibi": 5,
+    "but4reuse": 6,
+    "andykenner": 6,
+    "jabiercoding": 9,
+    "Henningson": 10,
+    "hfenske33": 11,
+    "Alhajjaji": 12,
+    "PaulAtTUBS": 13,
+    "dlabsch": 13,
+    "aweigelt": 13,
+    "3dik": 14,
+    "svenschuster": 16,
+    "thiagoeolima": 20,
+    "gulreich": 20,
+    "kTonscheidt": 25,
+    "dhohmann": 27,
+    "Moe-mah": 28,
+    "PaulWestphal": 29,
+    "darekkay": 31,
+    "mkuehl": 32,
+    "SirusUni": 34,
+    "ibews": 35,
+    "AlexanderKnueppel": 39,
+    "SundermannC": 45,
+    "christophlsa": 50,
+    "ckruczek": 68,
+    "RSchroeter": 77,
+    "kruegers": 104,
+    "Kogoro": 123,
+    "pinnecke": 202,
+    "Subaro": 231,
+    "TimoGuenther": 285,
+    "fbenduhn": 345,
+    "tthuem": 562,
+    "meinicke": 649,
+    "skrieter": 692
+  },
+  "pulls_authors": [
+    "ekuiter",
+    "cpwnd",
+    "alkalinan",
+    "Subaro",
+    "vandia",
+    "hfenske33",
+    "Adarsh-g-s",
+    "enra64",
+    "madateamprojekt",
+    "DawidSA2017",
+    "PaulWestphal",
+    "3dik",
+    "Henningson",
+    "niecore",
+    "oyewaleoyelami",
+    "jabiercoding",
+    "TimoGuenther",
+    "tthuem",
+    "Kogoro",
+    "felipegustavo",
+    "gitter-badger",
+    "kruegers"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 15430928,
+      "color": "#b07219"
+    },
+    "HTML": {
+      "bytes": 2455340,
+      "color": "#e34c26"
+    },
+    "GAP": {
+      "bytes": 302832,
+      "color": "#ccc"
+    },
+    "Matlab": {
+      "bytes": 235689,
+      "color": "#e16737"
+    },
+    "Haskell": {
+      "bytes": 104406,
+      "color": "#5e5086"
+    },
+    "AspectJ": {
+      "bytes": 88284,
+      "color": "#a957b0"
+    },
+    "C#": {
+      "bytes": 67749,
+      "color": "#178600"
+    },
+    "Assembly": {
+      "bytes": 40631,
+      "color": "#6E4C13"
+    },
+    "C": {
+      "bytes": 26792,
+      "color": "#555555"
+    },
+    "Brainfuck": {
+      "bytes": 24326,
+      "color": "#2F2530"
+    },
+    "Xtend": {
+      "bytes": 22183,
+      "color": "#ccc"
+    },
+    "CSS": {
+      "bytes": 1090,
+      "color": "#563d7c"
+    },
+    "C++": {
+      "bytes": 730,
+      "color": "#f34b7d"
+    },
+    "Batchfile": {
+      "bytes": 445,
+      "color": "#C1F12E"
+    },
+    "M": {
+      "bytes": 284,
+      "color": "#ccc"
+    },
+    "Mathematica": {
+      "bytes": 176,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 71,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T23:50:36.991Z"
+}

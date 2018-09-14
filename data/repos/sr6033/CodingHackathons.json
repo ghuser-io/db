@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "CodingHackathons",
+  "full_name": "sr6033/CodingHackathons",
+  "owner": "sr6033",
+  "private": false,
+  "html_url": "https://github.com/sr6033/CodingHackathons",
+  "description": "It will contain the problems and solutions in one or more languages for the Past Coding Hackathons ",
+  "fork": true,
+  "url": "https://api.github.com/repos/sr6033/CodingHackathons",
+  "languages_url": "https://api.github.com/repos/sr6033/CodingHackathons/languages",
+  "created_at": "2017-10-05T19:07:24Z",
+  "updated_at": "2018-07-25T07:19:51Z",
+  "pushed_at": "2017-10-06T04:04:28Z",
+  "homepage": null,
+  "size": 443,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "harshita97": 1,
+    "inncaps": 2,
+    "harishnandan": 3,
+    "akshaykhatter": 3,
+    "sr6033": 4,
+    "hxyxxn": 6,
+    "suthagar23": 7
+  },
+  "languages": {
+    "C++": {
+      "bytes": 22544,
+      "color": "#f34b7d"
+    },
+    "Python": {
+      "bytes": 15988,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 1622,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/sr6033/CodingHackathons/pulls{/number}",
+  "pulls_authors": [
+    "sr6033"
+  ]
+}

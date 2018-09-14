@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "brainfuck",
+  "full_name": "clarkzjw/brainfuck",
+  "owner": "clarkzjw",
+  "private": false,
+  "html_url": "https://github.com/clarkzjw/brainfuck",
+  "description": ":bow: Simple Brainfuck interpreter implemented in C",
+  "fork": false,
+  "url": "https://api.github.com/repos/clarkzjw/brainfuck",
+  "languages_url": "https://api.github.com/repos/clarkzjw/brainfuck/languages",
+  "pulls_url": "https://api.github.com/repos/clarkzjw/brainfuck/pulls{/number}",
+  "created_at": "2015-01-02T11:09:41Z",
+  "updated_at": "2018-07-13T16:46:10Z",
+  "pushed_at": "2018-07-13T16:46:09Z",
+  "homepage": "",
+  "size": 9,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "bitdeli-chef": 1,
+    "clarkzjw": 12
+  },
+  "pulls_authors": [
+    "bitdeli-chef"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 1725,
+      "color": "#555555"
+    },
+    "Brainfuck": {
+      "bytes": 147,
+      "color": "#2F2530"
+    }
+  },
+  "fetched_at": "2018-08-23T12:44:40.255Z"
+}

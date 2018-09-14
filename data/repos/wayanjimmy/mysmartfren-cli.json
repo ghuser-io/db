@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mysmartfren-cli",
+  "full_name": "wayanjimmy/mysmartfren-cli",
+  "owner": "wayanjimmy",
+  "private": false,
+  "html_url": "https://github.com/wayanjimmy/mysmartfren-cli",
+  "description": "Check your smartfren data usage with in CLI",
+  "fork": false,
+  "url": "https://api.github.com/repos/wayanjimmy/mysmartfren-cli",
+  "languages_url": "https://api.github.com/repos/wayanjimmy/mysmartfren-cli/languages",
+  "pulls_url": "https://api.github.com/repos/wayanjimmy/mysmartfren-cli/pulls{/number}",
+  "created_at": "2016-08-23T08:19:35Z",
+  "updated_at": "2017-09-03T15:29:17Z",
+  "pushed_at": "2016-10-02T11:24:53Z",
+  "homepage": "",
+  "size": 12,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "gedelumbung": 1,
+    "wayanjimmy": 16
+  },
+  "pulls_authors": [
+    "gedelumbung"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 3506,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:33.040Z"
+}

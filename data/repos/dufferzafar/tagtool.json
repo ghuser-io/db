@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tagtool",
+  "full_name": "dufferzafar/tagtool",
+  "owner": "dufferzafar",
+  "private": false,
+  "html_url": "https://github.com/dufferzafar/tagtool",
+  "description": "Mass Clean MP3 Tags",
+  "fork": false,
+  "url": "https://api.github.com/repos/dufferzafar/tagtool",
+  "languages_url": "https://api.github.com/repos/dufferzafar/tagtool/languages",
+  "pulls_url": "https://api.github.com/repos/dufferzafar/tagtool/pulls{/number}",
+  "created_at": "2015-12-02T09:24:59Z",
+  "updated_at": "2018-05-23T17:23:14Z",
+  "pushed_at": "2018-05-11T14:35:25Z",
+  "homepage": null,
+  "size": 30,
+  "stargazers_count": 19,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "demidovakatya": 1,
+    "dufferzafar": 50
+  },
+  "pulls_authors": [
+    "demidovakatya"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 13988,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-03T12:56:54.601Z"
+}

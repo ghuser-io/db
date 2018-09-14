@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "haredis",
+  "full_name": "carlos8f/haredis",
+  "owner": "carlos8f",
+  "private": false,
+  "html_url": "https://github.com/carlos8f/haredis",
+  "description": "High-availability redis in Node.js.",
+  "fork": false,
+  "url": "https://api.github.com/repos/carlos8f/haredis",
+  "languages_url": "https://api.github.com/repos/carlos8f/haredis/languages",
+  "pulls_url": "https://api.github.com/repos/carlos8f/haredis/pulls{/number}",
+  "created_at": "2012-06-13T07:13:23Z",
+  "updated_at": "2018-07-30T06:53:04Z",
+  "pushed_at": "2018-05-29T15:09:39Z",
+  "homepage": "https://npmjs.org/package/haredis",
+  "size": 399,
+  "stargazers_count": 162,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "lcodes": 1,
+    "cheeaun": 1
+  },
+  "pulls_authors": [
+    "webdevian",
+    "lbrucher",
+    "trickeyone",
+    "lcodes",
+    "carlos8f",
+    "shamil",
+    "sheldonh",
+    "cheeaun"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 149965,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T19:00:05.201Z"
+}

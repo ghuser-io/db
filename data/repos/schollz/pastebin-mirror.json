@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pastebin-mirror",
+  "full_name": "schollz/pastebin-mirror",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/pastebin-mirror",
+  "description": "Mirror Pastebin.com to a local SQLite",
+  "fork": true,
+  "url": "https://api.github.com/repos/schollz/pastebin-mirror",
+  "languages_url": "https://api.github.com/repos/schollz/pastebin-mirror/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/pastebin-mirror/pulls{/number}",
+  "created_at": "2017-07-26T13:01:32Z",
+  "updated_at": "2018-08-01T10:24:45Z",
+  "pushed_at": "2017-07-09T17:51:59Z",
+  "homepage": null,
+  "size": 10,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "brannondorsey": 1,
+    "imnotjames": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 15723,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:55.105Z"
+}

@@ -1,0 +1,139 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "blog",
+  "full_name": "src-d/blog",
+  "owner": "src-d",
+  "private": false,
+  "html_url": "https://github.com/src-d/blog",
+  "description": "source{d} blog",
+  "fork": false,
+  "url": "https://api.github.com/repos/src-d/blog",
+  "languages_url": "https://api.github.com/repos/src-d/blog/languages",
+  "pulls_url": "https://api.github.com/repos/src-d/blog/pulls{/number}",
+  "created_at": "2015-10-15T12:58:09Z",
+  "updated_at": "2018-09-14T05:51:36Z",
+  "pushed_at": "2018-09-14T05:52:15Z",
+  "homepage": "https://blog.sourced.tech/",
+  "size": 84709,
+  "stargazers_count": 19,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "src-d",
+    "id": 15128793,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1MTI4Nzkz",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/15128793?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/src-d",
+    "html_url": "https://github.com/src-d",
+    "followers_url": "https://api.github.com/users/src-d/followers",
+    "following_url": "https://api.github.com/users/src-d/following{/other_user}",
+    "gists_url": "https://api.github.com/users/src-d/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/src-d/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/src-d/subscriptions",
+    "organizations_url": "https://api.github.com/users/src-d/orgs",
+    "repos_url": "https://api.github.com/users/src-d/repos",
+    "events_url": "https://api.github.com/users/src-d/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/src-d/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "dennwc": 1,
+    "zurk": 1,
+    "fineguy": 1,
+    "ferhatelmas": 1,
+    "jdmaturen": 1,
+    "dripolles": 1,
+    "moul": 2,
+    "smola": 3,
+    "TheodoraAlexandra": 3,
+    "bzz": 5,
+    "smeruelo": 7,
+    "mcarmonaa": 11,
+    "warenlg": 13,
+    "Serabe": 14,
+    "abeaumont": 14,
+    "alcortesm": 23,
+    "dpordomingo": 37,
+    "erizocosmico": 36,
+    "mcuadros": 43,
+    "campoy": 46,
+    "eiso": 65,
+    "vmarkovtsev": 148
+  },
+  "pulls_authors": [
+    "r0mainK",
+    "vmarkovtsev",
+    "campoy",
+    "bzz",
+    "dennwc",
+    "ricardobaeta",
+    "warenlg",
+    "dpordomingo",
+    "moul",
+    "smeruelo",
+    "eiso",
+    "erizocosmico",
+    "zurk",
+    "Serabe",
+    "fineguy",
+    "mcarmonaa",
+    "abeaumont",
+    "margaridagsl",
+    "alcortesm",
+    "smola",
+    "ferhatelmas",
+    "jdmaturen",
+    "TheodoraAlexandra",
+    "dripolles"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 3334739,
+      "color": "#e34c26"
+    },
+    "Jupyter Notebook": {
+      "bytes": 3072452,
+      "color": "#DA5B0B"
+    },
+    "JavaScript": {
+      "bytes": 153784,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 29937,
+      "color": "#563d7c"
+    },
+    "Makefile": {
+      "bytes": 2103,
+      "color": "#427819"
+    },
+    "Smarty": {
+      "bytes": 516,
+      "color": "#ccc"
+    },
+    "C": {
+      "bytes": 427,
+      "color": "#555555"
+    },
+    "Go": {
+      "bytes": 323,
+      "color": "#375eab"
+    },
+    "Dockerfile": {
+      "bytes": 77,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-14T08:35:00.216Z"
+}

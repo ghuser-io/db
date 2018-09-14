@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "old-blog",
+  "full_name": "chase-seibert/old-blog",
+  "owner": "chase-seibert",
+  "private": false,
+  "html_url": "https://github.com/chase-seibert/old-blog",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/chase-seibert/old-blog",
+  "languages_url": "https://api.github.com/repos/chase-seibert/old-blog/languages",
+  "pulls_url": "https://api.github.com/repos/chase-seibert/old-blog/pulls{/number}",
+  "created_at": "2012-09-10T19:10:51Z",
+  "updated_at": "2017-12-03T01:31:21Z",
+  "pushed_at": "2017-12-01T17:00:37Z",
+  "homepage": null,
+  "size": 8651,
+  "stargazers_count": 6,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "gh-pages",
+  "contributors": {
+    "chase-seibert": 4
+  },
+  "pulls_authors": [
+    "chase-seibert",
+    "captbaritone"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 8855695,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 18774,
+      "color": "#563d7c"
+    },
+    "Ruby": {
+      "bytes": 6668,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 770,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:41.581Z"
+}

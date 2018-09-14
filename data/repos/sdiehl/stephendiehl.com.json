@@ -1,0 +1,95 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "stephendiehl.com",
+  "full_name": "sdiehl/stephendiehl.com",
+  "owner": "sdiehl",
+  "private": false,
+  "html_url": "https://github.com/sdiehl/stephendiehl.com",
+  "description": "Stephen Diehl's Blog & Website",
+  "fork": false,
+  "url": "https://api.github.com/repos/sdiehl/stephendiehl.com",
+  "languages_url": "https://api.github.com/repos/sdiehl/stephendiehl.com/languages",
+  "pulls_url": "https://api.github.com/repos/sdiehl/stephendiehl.com/pulls{/number}",
+  "created_at": "2012-04-30T13:48:16Z",
+  "updated_at": "2018-09-10T20:54:28Z",
+  "pushed_at": "2018-05-17T08:49:41Z",
+  "homepage": "http://www.stephendiehl.com",
+  "size": 2267,
+  "stargazers_count": 23,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ReinierMaas": 1,
+    "RasmusKlett": 1,
+    "NunoAlexandre": 1,
+    "noprompt": 1,
+    "stites": 1,
+    "bunsenmcdubbs": 1,
+    "yamafaktory": 1,
+    "snowleopard": 1,
+    "tfausak": 1,
+    "meiersi-da": 1,
+    "philderbeast": 1,
+    "iblech": 1,
+    "Oregu": 1,
+    "btbytes": 1,
+    "knuton": 1,
+    "beerendlauwers": 2,
+    "tippenein": 2,
+    "kputnam": 3,
+    "vaibhavsagar": 13,
+    "sdiehl": 211
+  },
+  "pulls_authors": [
+    "ReinierMaas",
+    "kputnam",
+    "adamkrellenstein",
+    "alexanderkjeldaas",
+    "RasmusKlett",
+    "NunoAlexandre",
+    "beerendlauwers",
+    "vaibhavsagar",
+    "noprompt",
+    "stites",
+    "bunsenmcdubbs",
+    "yamafaktory",
+    "snowleopard",
+    "tfausak",
+    "meiersi-da",
+    "tippenein",
+    "philderbeast",
+    "iblech",
+    "Oregu",
+    "btbytes",
+    "knuton",
+    "isomorphisms"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 19283,
+      "color": "#563d7c"
+    },
+    "Haskell": {
+      "bytes": 3926,
+      "color": "#5e5086"
+    },
+    "HTML": {
+      "bytes": 3866,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 218,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-10T21:38:33.732Z"
+}

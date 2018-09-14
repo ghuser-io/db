@@ -1,0 +1,145 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "admiral",
+  "full_name": "Shippable/admiral",
+  "owner": "Shippable",
+  "private": false,
+  "html_url": "https://github.com/Shippable/admiral",
+  "description": "Shippable UI based Installer",
+  "fork": false,
+  "url": "https://api.github.com/repos/Shippable/admiral",
+  "languages_url": "https://api.github.com/repos/Shippable/admiral/languages",
+  "pulls_url": "https://api.github.com/repos/Shippable/admiral/pulls{/number}",
+  "created_at": "2017-03-15T23:03:11Z",
+  "updated_at": "2018-09-13T17:13:54Z",
+  "pushed_at": "2018-09-13T17:13:56Z",
+  "homepage": "http://docs.shippable.com/reference/admiral/",
+  "size": 14114,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "Shippable",
+    "id": 5647221,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjU2NDcyMjE=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/5647221?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Shippable",
+    "html_url": "https://github.com/Shippable",
+    "followers_url": "https://api.github.com/users/Shippable/followers",
+    "following_url": "https://api.github.com/users/Shippable/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Shippable/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Shippable/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Shippable/subscriptions",
+    "organizations_url": "https://api.github.com/users/Shippable/orgs",
+    "repos_url": "https://api.github.com/users/Shippable/repos",
+    "events_url": "https://api.github.com/users/Shippable/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Shippable/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "vijayreddy1991": 2,
+    "kirtisahu05": 2,
+    "vivex": 3,
+    "harryi3t": 3,
+    "avinci": 5,
+    "rageshkrishna": 16,
+    "ChaitanyaVootla": 18,
+    "scriptnull": 34,
+    "himanshu0503": 42,
+    "jatindogra": 53,
+    "amalfra": 59,
+    "trriplejay": 66,
+    "shrivara": 86,
+    "ambarish2012": 89,
+    "mohit5it9": 92,
+    "stephanielingwood": 93,
+    "niranjan92": 100,
+    "deepikasl": 106,
+    "ankul-shippable": 109,
+    "Riturajcse": 135,
+    "a-murphy": 202,
+    "Bharath92": 218,
+    "ric03uec": 341
+  },
+  "pulls_authors": [
+    "trriplejay",
+    "a-murphy",
+    "ankul-shippable",
+    "vijayreddy1991",
+    "Ranjansingh41",
+    "Bharath92",
+    "ric03uec",
+    "kirtisahu05",
+    "rageshkrishna",
+    "Riturajcse",
+    "deepikasl",
+    "shrivara",
+    "ChaitanyaVootla",
+    "scriptnull",
+    "jatindogra",
+    "niranjan92",
+    "ghost",
+    "mohit5it9",
+    "priyakirankumar",
+    "amalfra",
+    "vivex",
+    "himanshu0503",
+    "ttrahan",
+    "stephanielingwood",
+    "harryi3t"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 7745672,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 918978,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 657511,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 371491,
+      "color": "#89e051"
+    },
+    "PLSQL": {
+      "bytes": 358843,
+      "color": "#dad8d8"
+    },
+    "SQLPL": {
+      "bytes": 43527,
+      "color": "#ccc"
+    },
+    "Python": {
+      "bytes": 33652,
+      "color": "#3572A5"
+    },
+    "PHP": {
+      "bytes": 4717,
+      "color": "#4F5D95"
+    },
+    "HCL": {
+      "bytes": 684,
+      "color": "#ccc"
+    },
+    "Dockerfile": {
+      "bytes": 657,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-13T23:59:26.966Z"
+}

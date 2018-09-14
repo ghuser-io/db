@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "knewzen": 1,
+    "vkammerer": 1,
+    "jgthms": 48
+  },
+  "name": "css-reference",
+  "full_name": "jgthms/css-reference",
+  "owner": "jgthms",
+  "private": false,
+  "html_url": "https://github.com/jgthms/css-reference",
+  "description": "CSS Reference: a free visual guide to the most popular CSS properties",
+  "fork": false,
+  "url": "https://api.github.com/repos/jgthms/css-reference",
+  "languages_url": "https://api.github.com/repos/jgthms/css-reference/languages",
+  "created_at": "2016-11-22T17:00:30Z",
+  "updated_at": "2018-09-14T06:59:14Z",
+  "pushed_at": "2018-02-28T07:34:37Z",
+  "homepage": "https://cssreference.io",
+  "size": 2250,
+  "stargazers_count": 3639,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "HTML": {
+      "bytes": 1408198,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 35614,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 14883,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-14T08:23:16.292Z",
+  "pulls_url": "https://api.github.com/repos/jgthms/css-reference/pulls{/number}",
+  "pulls_authors": [
+    "li1xu1bin",
+    "nicoder",
+    "knewzen",
+    "igor-shevchenko",
+    "parloti",
+    "vkammerer",
+    "jgthms",
+    "jankjn",
+    "francescozaia",
+    "guntbert",
+    "manpenaloza",
+    "philraj",
+    "johan",
+    "iGrubesic",
+    "fredericksilva",
+    "qoh",
+    "Calinou",
+    "Fcmam5",
+    "unused",
+    "BBB",
+    "gps035",
+    "Rukenshia",
+    "samsymons"
+  ]
+}

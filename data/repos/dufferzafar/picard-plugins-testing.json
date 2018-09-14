@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "picard-plugins-testing",
+  "full_name": "dufferzafar/picard-plugins-testing",
+  "owner": "dufferzafar",
+  "private": false,
+  "html_url": "https://github.com/dufferzafar/picard-plugins-testing",
+  "description": "GSoC (2014) - Building a JSON from a Github Repo of plugins and keeping the stats updated via an API.",
+  "fork": false,
+  "url": "https://api.github.com/repos/dufferzafar/picard-plugins-testing",
+  "languages_url": "https://api.github.com/repos/dufferzafar/picard-plugins-testing/languages",
+  "pulls_url": "https://api.github.com/repos/dufferzafar/picard-plugins-testing/pulls{/number}",
+  "created_at": "2014-05-15T19:51:57Z",
+  "updated_at": "2014-10-11T15:11:20Z",
+  "pushed_at": "2014-09-05T06:16:01Z",
+  "homepage": "",
+  "size": 384,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dufferzafar": 20
+  },
+  "pulls_authors": [
+    "dufferzafar"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 236784,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-03T12:57:04.844Z"
+}

@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "require-j",
+  "full_name": "pheuter/require-j",
+  "owner": "pheuter",
+  "private": false,
+  "html_url": "https://github.com/pheuter/require-j",
+  "description": "RequireJS Jade plugin that supports client-side Jade rendering, including template inheritance.",
+  "fork": false,
+  "url": "https://api.github.com/repos/pheuter/require-j",
+  "languages_url": "https://api.github.com/repos/pheuter/require-j/languages",
+  "pulls_url": "https://api.github.com/repos/pheuter/require-j/pulls{/number}",
+  "created_at": "2013-03-03T17:19:59Z",
+  "updated_at": "2016-07-20T07:40:28Z",
+  "pushed_at": "2013-04-27T14:45:44Z",
+  "homepage": "",
+  "size": 350,
+  "stargazers_count": 6,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "paulyoung": 3,
+    "pheuter": 9
+  },
+  "pulls_authors": [
+    "paulyoung"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1129441,
+      "color": "#f1e05a"
+    },
+    "CoffeeScript": {
+      "bytes": 4175,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-08T12:41:04.050Z"
+}

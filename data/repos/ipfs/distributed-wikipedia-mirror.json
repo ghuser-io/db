@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "distributed-wikipedia-mirror",
+  "full_name": "ipfs/distributed-wikipedia-mirror",
+  "owner": "ipfs",
+  "private": false,
+  "html_url": "https://github.com/ipfs/distributed-wikipedia-mirror",
+  "description": "Putting wikipedia on IPFS",
+  "fork": false,
+  "url": "https://api.github.com/repos/ipfs/distributed-wikipedia-mirror",
+  "languages_url": "https://api.github.com/repos/ipfs/distributed-wikipedia-mirror/languages",
+  "pulls_url": "https://api.github.com/repos/ipfs/distributed-wikipedia-mirror/pulls{/number}",
+  "created_at": "2017-05-01T17:22:00Z",
+  "updated_at": "2018-09-12T15:11:43Z",
+  "pushed_at": "2018-04-24T11:36:33Z",
+  "homepage": null,
+  "size": 4956,
+  "stargazers_count": 191,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "ipfs",
+    "id": 10536621,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNTM2NjIx",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/10536621?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ipfs",
+    "html_url": "https://github.com/ipfs",
+    "followers_url": "https://api.github.com/users/ipfs/followers",
+    "following_url": "https://api.github.com/users/ipfs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ipfs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ipfs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ipfs/subscriptions",
+    "organizations_url": "https://api.github.com/users/ipfs/orgs",
+    "repos_url": "https://api.github.com/users/ipfs/repos",
+    "events_url": "https://api.github.com/users/ipfs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ipfs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "PunkChameleon": 1,
+    "jbenet": 2,
+    "flyingzumwalt": 8,
+    "Kubuxu": 28
+  },
+  "pulls_authors": [
+    "PunkChameleon",
+    "Hazae41",
+    "magik6k",
+    "Kubuxu",
+    "mkg20001",
+    "lgierth",
+    "flyingzumwalt"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 9582,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 2641,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 455,
+      "color": "#427819"
+    },
+    "HTML": {
+      "bytes": 316,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:33.088Z"
+}

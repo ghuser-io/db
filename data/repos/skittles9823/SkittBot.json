@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SkittBot",
+  "full_name": "skittles9823/SkittBot",
+  "owner": "skittles9823",
+  "private": false,
+  "html_url": "https://github.com/skittles9823/SkittBot",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/skittles9823/SkittBot",
+  "languages_url": "https://api.github.com/repos/skittles9823/SkittBot/languages",
+  "pulls_url": "https://api.github.com/repos/skittles9823/SkittBot/pulls{/number}",
+  "created_at": "2018-03-15T04:43:08Z",
+  "updated_at": "2018-09-11T09:47:27Z",
+  "pushed_at": "2018-09-11T09:47:25Z",
+  "homepage": null,
+  "size": 675,
+  "stargazers_count": 8,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "AyraHikari": 1,
+    "nitanmarcel": 1,
+    "Dyneteve": 1,
+    "Yash-Garg": 1,
+    "anirudhgupta109": 1,
+    "Rohk25": 1,
+    "MSF-Jarvis": 1,
+    "julianodorneles": 3,
+    "TermoZour": 3,
+    "1maverick1": 4,
+    "krypticallusion": 5,
+    "divadsn": 8,
+    "ATechnoHazard": 9,
+    "deletescape": 18,
+    "skittles9823": 113,
+    "PaulSonOfLars": 476
+  },
+  "pulls_authors": [
+    "divadsn",
+    "songotenks69",
+    "nitanmarcel",
+    "rupansh",
+    "deletescape",
+    "Yash-Garg",
+    "krypticallusion",
+    "ATechnoHazard"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 392401,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T10:35:11.797Z"
+}

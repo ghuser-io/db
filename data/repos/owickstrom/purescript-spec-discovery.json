@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "purescript-spec-discovery",
+  "full_name": "owickstrom/purescript-spec-discovery",
+  "owner": "owickstrom",
+  "private": false,
+  "html_url": "https://github.com/owickstrom/purescript-spec-discovery",
+  "description": "A purescript-spec extension that finds your specs automatically!",
+  "fork": false,
+  "url": "https://api.github.com/repos/owickstrom/purescript-spec-discovery",
+  "languages_url": "https://api.github.com/repos/owickstrom/purescript-spec-discovery/languages",
+  "pulls_url": "https://api.github.com/repos/owickstrom/purescript-spec-discovery/pulls{/number}",
+  "created_at": "2016-10-25T19:54:09Z",
+  "updated_at": "2018-08-13T13:05:58Z",
+  "pushed_at": "2018-06-19T23:22:44Z",
+  "homepage": null,
+  "size": 18,
+  "stargazers_count": 8,
+  "language": "PureScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mpl-2.0",
+    "name": "Mozilla Public License 2.0",
+    "spdx_id": "MPL-2.0",
+    "url": "https://api.github.com/licenses/mpl-2.0",
+    "node_id": "MDc6TGljZW5zZTE0"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "anilanar": 1,
+    "Unisay": 1,
+    "justinwoo": 1,
+    "paulyoung": 2,
+    "owickstrom": 16
+  },
+  "pulls_authors": [
+    "paulyoung",
+    "anilanar",
+    "Unisay",
+    "benkolera",
+    "justinwoo"
+  ],
+  "languages": {
+    "PureScript": {
+      "bytes": 1030,
+      "color": "#1D222D"
+    },
+    "JavaScript": {
+      "bytes": 695,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:50.952Z"
+}

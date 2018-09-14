@@ -1,0 +1,32 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "RajaSrinivasan/rlmlogs": {
+      "full_name": "RajaSrinivasan/rlmlogs",
+      "name": "rlmlogs",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 8,
+      "maturity": 0,
+      "total_commits_count": 25,
+      "activity": 5,
+      "total_score": 5,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "pannal/Sub-Zero.bundle": {
+      "full_name": "pannal/Sub-Zero.bundle",
+      "name": "Sub-Zero.bundle",
+      "stargazers_count": 616,
+      "popularity": 3.788984809322462,
+      "percentage": 0.07846214201647705,
+      "maturity": 4.401254219981931,
+      "total_commits_count": 2549,
+      "activity": 5,
+      "total_score": 25.2081108102782,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

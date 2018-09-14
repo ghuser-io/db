@@ -1,0 +1,108 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "citybound",
+  "full_name": "citybound/citybound",
+  "owner": "citybound",
+  "private": false,
+  "html_url": "https://github.com/citybound/citybound",
+  "description": "A work-in-progress, open-source, multi-player city simulation game.",
+  "fork": false,
+  "url": "https://api.github.com/repos/citybound/citybound",
+  "languages_url": "https://api.github.com/repos/citybound/citybound/languages",
+  "pulls_url": "https://api.github.com/repos/citybound/citybound/pulls{/number}",
+  "created_at": "2016-06-04T19:44:11Z",
+  "updated_at": "2018-09-14T02:48:38Z",
+  "pushed_at": "2018-09-10T12:49:29Z",
+  "homepage": "http://cityboundsim.com",
+  "size": 4318,
+  "stargazers_count": 1346,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "citybound",
+    "id": 15174518,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1MTc0NTE4",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/15174518?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/citybound",
+    "html_url": "https://github.com/citybound",
+    "followers_url": "https://api.github.com/users/citybound/followers",
+    "following_url": "https://api.github.com/users/citybound/following{/other_user}",
+    "gists_url": "https://api.github.com/users/citybound/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/citybound/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/citybound/subscriptions",
+    "organizations_url": "https://api.github.com/users/citybound/orgs",
+    "repos_url": "https://api.github.com/users/citybound/repos",
+    "events_url": "https://api.github.com/users/citybound/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/citybound/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "bkircher": 1,
+    "beefsack": 1,
+    "wopian": 1,
+    "tsteinholz": 1,
+    "chdudek": 1,
+    "chances": 2,
+    "Paul-E": 2,
+    "manuel3108": 2,
+    "SimplyNaOH": 2,
+    "Idonoghue": 3,
+    "martinrlilja": 4,
+    "Herbstein": 12,
+    "kingoflolz": 18,
+    "o01eg": 35,
+    "bogdad": 82,
+    "aeickhoff": 724
+  },
+  "pulls_authors": [
+    "o01eg",
+    "chances",
+    "aeickhoff",
+    "bkircher",
+    "bogdad",
+    "Paul-E",
+    "ZakCodes",
+    "manuel3108",
+    "Idonoghue",
+    "Jimmyson",
+    "Herbstein",
+    "samdroid-apps",
+    "kingoflolz",
+    "SimplyNaOH",
+    "martinrlilja",
+    "beefsack",
+    "wopian",
+    "tsteinholz",
+    "chdudek"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 412894,
+      "color": "#dea584"
+    },
+    "JavaScript": {
+      "bytes": 63958,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 6836,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 6787,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-14T09:11:53.555Z"
+}

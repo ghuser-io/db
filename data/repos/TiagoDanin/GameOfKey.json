@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "GameOfKey",
+  "full_name": "TiagoDanin/GameOfKey",
+  "owner": "TiagoDanin",
+  "private": false,
+  "html_url": "https://github.com/TiagoDanin/GameOfKey",
+  "description": "The game made your keyboard, this is amazing!",
+  "fork": false,
+  "url": "https://api.github.com/repos/TiagoDanin/GameOfKey",
+  "languages_url": "https://api.github.com/repos/TiagoDanin/GameOfKey/languages",
+  "pulls_url": "https://api.github.com/repos/TiagoDanin/GameOfKey/pulls{/number}",
+  "created_at": "2018-02-04T23:00:25Z",
+  "updated_at": "2018-02-05T15:31:13Z",
+  "pushed_at": "2018-08-11T16:22:08Z",
+  "homepage": "https://tiagodanin.github.io/GameOfKey/",
+  "size": 61,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "TiagoDanin": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 2569,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-12T17:48:20.581Z"
+}

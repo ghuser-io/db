@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "endless-kaminari-demo",
+  "full_name": "zzak/endless-kaminari-demo",
+  "owner": "zzak",
+  "private": false,
+  "html_url": "https://github.com/zzak/endless-kaminari-demo",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/zzak/endless-kaminari-demo",
+  "languages_url": "https://api.github.com/repos/zzak/endless-kaminari-demo/languages",
+  "pulls_url": "https://api.github.com/repos/zzak/endless-kaminari-demo/pulls{/number}",
+  "created_at": "2013-07-11T16:48:45Z",
+  "updated_at": "2016-06-23T03:19:34Z",
+  "pushed_at": "2014-07-16T22:40:53Z",
+  "homepage": null,
+  "size": 297,
+  "stargazers_count": 6,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "trkinovacije": 1,
+    "fcastellanos": 1,
+    "MattRyder": 1,
+    "zzak": 3
+  },
+  "pulls_authors": [
+    "duleorlovic",
+    "fcastellanos",
+    "MattRyder"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 18515,
+      "color": "#701516"
+    },
+    "CSS": {
+      "bytes": 1749,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 698,
+      "color": "#f1e05a"
+    },
+    "CoffeeScript": {
+      "bytes": 543,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-11T00:06:00.796Z"
+}

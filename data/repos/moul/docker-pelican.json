@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docker-pelican",
+  "full_name": "moul/docker-pelican",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/docker-pelican",
+  "description": ":whale: run Pelican blogging system (Python) in Docker",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/docker-pelican",
+  "languages_url": "https://api.github.com/repos/moul/docker-pelican/languages",
+  "pulls_url": "https://api.github.com/repos/moul/docker-pelican/pulls{/number}",
+  "created_at": "2015-02-10T10:43:48Z",
+  "updated_at": "2015-06-24T04:30:26Z",
+  "pushed_at": "2018-08-18T16:12:29Z",
+  "homepage": "",
+  "size": 2,
+  "stargazers_count": 2,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 2
+  },
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-05T13:07:39.744Z"
+}

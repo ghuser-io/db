@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "LeoAutoClick",
+  "full_name": "TiagoDanin/LeoAutoClick",
+  "owner": "TiagoDanin",
+  "private": false,
+  "html_url": "https://github.com/TiagoDanin/LeoAutoClick",
+  "description": "A Autolick using the Arduino Leonardo",
+  "fork": false,
+  "url": "https://api.github.com/repos/TiagoDanin/LeoAutoClick",
+  "languages_url": "https://api.github.com/repos/TiagoDanin/LeoAutoClick/languages",
+  "pulls_url": "https://api.github.com/repos/TiagoDanin/LeoAutoClick/pulls{/number}",
+  "created_at": "2018-03-23T15:04:10Z",
+  "updated_at": "2018-09-06T19:07:39Z",
+  "pushed_at": "2018-08-11T16:22:07Z",
+  "homepage": "https://TiagoDanin.github.io/LeoAutoClick/",
+  "size": 11,
+  "stargazers_count": 2,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "TiagoDanin": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 872,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-07T03:36:28.339Z"
+}

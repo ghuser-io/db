@@ -1,0 +1,83 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "CodingHackathons",
+  "full_name": "inncaps/CodingHackathons",
+  "owner": "inncaps",
+  "private": false,
+  "html_url": "https://github.com/inncaps/CodingHackathons",
+  "description": "It will contain the problems and solutions in one or more languages for the Past Coding Hackathons ",
+  "fork": false,
+  "url": "https://api.github.com/repos/inncaps/CodingHackathons",
+  "languages_url": "https://api.github.com/repos/inncaps/CodingHackathons/languages",
+  "created_at": "2017-10-05T07:00:04Z",
+  "updated_at": "2018-01-26T16:53:46Z",
+  "pushed_at": "2017-10-31T15:42:02Z",
+  "homepage": null,
+  "size": 2462,
+  "stargazers_count": 5,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "hemantyadaviitg2016": 1,
+    "daacaceressa": 1,
+    "vishalpolley": 1,
+    "zeroxenator": 1,
+    "harshita97": 1,
+    "roh-7": 2,
+    "omurbekjk": 2,
+    "inncaps": 2,
+    "harishnandan": 3,
+    "kventinel": 4,
+    "sr6033": 4,
+    "akshaykhatter": 6,
+    "hxyxxn": 6,
+    "sumangala028": 8,
+    "suthagar23": 9,
+    "iharsh234": 12
+  },
+  "languages": {
+    "Java": {
+      "bytes": 160681,
+      "color": "#b07219"
+    },
+    "C++": {
+      "bytes": 89215,
+      "color": "#f34b7d"
+    },
+    "Python": {
+      "bytes": 17968,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 2165,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-07-25T00:05:30.322Z",
+  "pulls_url": "https://api.github.com/repos/inncaps/CodingHackathons/pulls{/number}",
+  "pulls_authors": [
+    "aditicode4",
+    "AnuragBarfa",
+    "AashutoshAgrawal",
+    "ashishranjan2011",
+    "hemantyadaviitg2016",
+    "kventinel",
+    "roh-7",
+    "sumangala028",
+    "vgramirezc",
+    "omurbekjk",
+    "daacaceressa",
+    "vishalpolley",
+    "zeroxenator",
+    "akshaykhatter",
+    "iharsh234",
+    "sr6033",
+    "hxyxxn",
+    "harishnandan",
+    "harshita97",
+    "suthagar23"
+  ]
+}

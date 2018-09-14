@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ghbackup",
+  "full_name": "schollz/ghbackup",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/ghbackup",
+  "description": "Embarrassingly simple GitHub backup tool",
+  "fork": true,
+  "url": "https://api.github.com/repos/schollz/ghbackup",
+  "languages_url": "https://api.github.com/repos/schollz/ghbackup/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/ghbackup/pulls{/number}",
+  "created_at": "2018-06-05T14:17:06Z",
+  "updated_at": "2018-06-06T21:15:08Z",
+  "pushed_at": "2018-04-13T14:58:40Z",
+  "homepage": "https://qvl.io/ghbackup",
+  "size": 74,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bradleyfalzon": 1,
+    "caarlos0": 2,
+    "danieldiekmeier": 3,
+    "jorinvo": 97
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 12341,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:53.437Z"
+}

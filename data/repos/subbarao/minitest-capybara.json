@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "minitest-capybara",
+  "full_name": "subbarao/minitest-capybara",
+  "owner": "subbarao",
+  "private": false,
+  "html_url": "https://github.com/subbarao/minitest-capybara",
+  "description": "A gem to add Capybara driver switching parameters to minitest/spec's describe and it.",
+  "fork": false,
+  "url": "https://api.github.com/repos/subbarao/minitest-capybara",
+  "languages_url": "https://api.github.com/repos/subbarao/minitest-capybara/languages",
+  "pulls_url": "https://api.github.com/repos/subbarao/minitest-capybara/pulls{/number}",
+  "created_at": "2012-02-02T22:59:35Z",
+  "updated_at": "2014-05-03T04:35:00Z",
+  "pushed_at": "2012-02-02T23:36:53Z",
+  "homepage": "",
+  "size": 102,
+  "stargazers_count": 3,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "subbarao": 2,
+    "carols10cents": 5
+  },
+  "pulls_authors": [
+    "willnet"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 4983,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T10:41:35.906Z"
+}

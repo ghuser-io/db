@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "aimp-mobile-web-ctl",
+  "full_name": "cheeaun/aimp-mobile-web-ctl",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/aimp-mobile-web-ctl",
+  "description": "AIMP Mobile Web Control interface.",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/aimp-mobile-web-ctl",
+  "languages_url": "https://api.github.com/repos/cheeaun/aimp-mobile-web-ctl/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/aimp-mobile-web-ctl/pulls{/number}",
+  "created_at": "2010-12-19T14:58:04Z",
+  "updated_at": "2018-08-08T04:48:03Z",
+  "pushed_at": "2011-12-24T08:21:29Z",
+  "homepage": "",
+  "size": 426,
+  "stargazers_count": 8,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 8
+  },
+  "pulls_authors": [
+    "arteezy"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 214829,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T19:00:06.428Z"
+}

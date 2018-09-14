@@ -1,0 +1,74 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go2nix",
+  "full_name": "kamilchm/go2nix",
+  "owner": "kamilchm",
+  "private": false,
+  "html_url": "https://github.com/kamilchm/go2nix",
+  "description": "Reproducible builds and development environment for Go",
+  "fork": false,
+  "url": "https://api.github.com/repos/kamilchm/go2nix",
+  "languages_url": "https://api.github.com/repos/kamilchm/go2nix/languages",
+  "pulls_url": "https://api.github.com/repos/kamilchm/go2nix/pulls{/number}",
+  "created_at": "2015-11-02T19:38:24Z",
+  "updated_at": "2018-09-04T01:55:53Z",
+  "pushed_at": "2018-08-16T09:37:35Z",
+  "homepage": "",
+  "size": 97,
+  "stargazers_count": 51,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Profpatsch": 1,
+    "brodul": 1,
+    "hectorj": 1,
+    "chris-martin": 1,
+    "cmfwyp": 1,
+    "rushmorem": 1,
+    "qknight": 3,
+    "valeriangalliat": 9,
+    "kamilchm": 49
+  },
+  "pulls_authors": [
+    "Profpatsch",
+    "nlewo",
+    "brodul",
+    "fossabot",
+    "hectorj",
+    "kamilchm",
+    "chris-martin",
+    "qknight",
+    "cmfwyp",
+    "roblabla",
+    "rushmorem",
+    "valeriangalliat"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 9964,
+      "color": "#375eab"
+    },
+    "Nix": {
+      "bytes": 3005,
+      "color": "#7e7eff"
+    },
+    "Shell": {
+      "bytes": 1738,
+      "color": "#89e051"
+    },
+    "Roff": {
+      "bytes": 1080,
+      "color": "#ecdebe"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:43.042Z"
+}

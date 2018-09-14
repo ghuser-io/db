@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Jabber-Bot",
+  "full_name": "davidmarek/Jabber-Bot",
+  "owner": "davidmarek",
+  "private": false,
+  "html_url": "https://github.com/davidmarek/Jabber-Bot",
+  "description": "Pluginable lightweight python jabber bot. Writing plugins is as easy as it can be.",
+  "fork": false,
+  "url": "https://api.github.com/repos/davidmarek/Jabber-Bot",
+  "languages_url": "https://api.github.com/repos/davidmarek/Jabber-Bot/languages",
+  "pulls_url": "https://api.github.com/repos/davidmarek/Jabber-Bot/pulls{/number}",
+  "created_at": "2009-09-17T16:10:23Z",
+  "updated_at": "2018-07-23T21:16:14Z",
+  "pushed_at": "2009-11-11T14:29:02Z",
+  "homepage": "",
+  "size": 99,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "davidmarek": 10
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 16617,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:41:15.091Z"
+}

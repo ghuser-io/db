@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "brase",
+  "ghuser_created_at": "2018-09-11T13:26:53.489Z",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/170088?v=4",
+  "html_url": "https://github.com/brase",
+  "organizations_url": "https://api.github.com/users/brase/orgs",
+  "repos_url": "https://api.github.com/users/brase/repos",
+  "type": "User",
+  "name": "Sebastian Brandt",
+  "company": "@rheinspree ",
+  "blog": "",
+  "location": "Leipzig",
+  "email": null,
+  "bio": null,
+  "public_gists": 11,
+  "created_at": "2009-12-20T09:48:33Z",
+  "updated_at": "2018-09-13T05:39:23Z",
+  "organizations": [
+    "rheinspree"
+  ],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:10:11.035Z",
+    "repos": [
+      "SAFE-Stack/SAFE-BookStore",
+      "brase/castos",
+      "brase/burner",
+      "SaturnFramework/Saturn.Template",
+      "brase/castos-podcatcher",
+      "rheinspree/discourse-youtrack-plugin",
+      "thunklife/fsharp-suave-demo",
+      "brase/copter",
+      "MassTransit/MassTransit",
+      "jishi/node-sonos-http-api",
+      "rheinspree/YoutrackGitlab",
+      "brase/service.sonos",
+      "fsharp/FAKE",
+      "brase/S-BUS",
+      "brase/nancyaspetvnext",
+      "brase/run",
+      "brase/brase.github.com",
+      "brase/rSunny"
+    ]
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "aurelien-ldp": 19,
+    "Nax": 221
+  },
+  "name": "supremacy",
+  "full_name": "DossierSansTitre/supremacy",
+  "owner": "DossierSansTitre",
+  "private": false,
+  "html_url": "https://github.com/DossierSansTitre/supremacy",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/DossierSansTitre/supremacy",
+  "languages_url": "https://api.github.com/repos/DossierSansTitre/supremacy/languages",
+  "created_at": "2017-04-10T12:09:09Z",
+  "updated_at": "2018-04-21T18:17:54Z",
+  "pushed_at": "2018-04-22T01:16:10Z",
+  "homepage": null,
+  "size": 473,
+  "stargazers_count": 5,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "DossierSansTitre",
+    "id": 27205596,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI3MjA1NTk2",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/27205596?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/DossierSansTitre",
+    "html_url": "https://github.com/DossierSansTitre",
+    "followers_url": "https://api.github.com/users/DossierSansTitre/followers",
+    "following_url": "https://api.github.com/users/DossierSansTitre/following{/other_user}",
+    "gists_url": "https://api.github.com/users/DossierSansTitre/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/DossierSansTitre/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/DossierSansTitre/subscriptions",
+    "organizations_url": "https://api.github.com/users/DossierSansTitre/orgs",
+    "repos_url": "https://api.github.com/users/DossierSansTitre/repos",
+    "events_url": "https://api.github.com/users/DossierSansTitre/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/DossierSansTitre/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "C++": {
+      "bytes": 204468,
+      "color": "#f34b7d"
+    },
+    "CMake": {
+      "bytes": 12797,
+      "color": "#ccc"
+    },
+    "Ruby": {
+      "bytes": 8796,
+      "color": "#701516"
+    },
+    "Objective-C++": {
+      "bytes": 8482,
+      "color": "#6866fb"
+    },
+    "C": {
+      "bytes": 5478,
+      "color": "#555555"
+    },
+    "GLSL": {
+      "bytes": 908,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 49,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/DossierSansTitre/supremacy/pulls{/number}",
+  "pulls_authors": [
+    "Calinou",
+    "aurelien-ldp",
+    "Nax"
+  ]
+}

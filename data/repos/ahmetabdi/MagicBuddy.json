@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "MagicBuddy",
+  "full_name": "ahmetabdi/MagicBuddy",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/MagicBuddy",
+  "description": "Magic The Gathering Mobile App in react-native",
+  "fork": false,
+  "url": "https://api.github.com/repos/ahmetabdi/MagicBuddy",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/MagicBuddy/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/MagicBuddy/pulls{/number}",
+  "created_at": "2017-02-19T12:46:00Z",
+  "updated_at": "2018-04-03T10:40:55Z",
+  "pushed_at": "2017-02-22T11:12:11Z",
+  "homepage": "",
+  "size": 82015,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 15
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 71974,
+      "color": "#f1e05a"
+    },
+    "Objective-C": {
+      "bytes": 4428,
+      "color": "#438eff"
+    },
+    "Python": {
+      "bytes": 1645,
+      "color": "#3572A5"
+    },
+    "Java": {
+      "bytes": 1626,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-12T15:30:55.200Z"
+}

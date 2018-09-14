@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "eldredge-thats_why_i_love_you",
+  "full_name": "captbaritone/eldredge-thats_why_i_love_you",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/eldredge-thats_why_i_love_you",
+  "description": "Rough transcription of \"That's Why I Love You\" by The Flamingos typeset using Lilypond",
+  "fork": false,
+  "url": "https://api.github.com/repos/captbaritone/eldredge-thats_why_i_love_you",
+  "languages_url": "https://api.github.com/repos/captbaritone/eldredge-thats_why_i_love_you/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/eldredge-thats_why_i_love_you/pulls{/number}",
+  "created_at": "2013-08-04T20:28:46Z",
+  "updated_at": "2018-07-29T22:02:51Z",
+  "pushed_at": "2013-08-04T20:28:56Z",
+  "homepage": "http://blog.classicalcode.com/2009/08/multitrack-thats-why-i-love-you/",
+  "size": 104,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 2
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T04:58:45.125Z"
+}

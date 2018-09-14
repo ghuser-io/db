@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tsxml",
+  "full_name": "FabianLauer/tsxml",
+  "owner": "FabianLauer",
+  "private": false,
+  "html_url": "https://github.com/FabianLauer/tsxml",
+  "description": "A small XML parser and serializer. No dependencies, no hassle.",
+  "fork": false,
+  "url": "https://api.github.com/repos/FabianLauer/tsxml",
+  "languages_url": "https://api.github.com/repos/FabianLauer/tsxml/languages",
+  "pulls_url": "https://api.github.com/repos/FabianLauer/tsxml/pulls{/number}",
+  "created_at": "2016-05-03T17:26:09Z",
+  "updated_at": "2017-08-28T16:32:00Z",
+  "pushed_at": "2017-11-12T12:26:11Z",
+  "homepage": null,
+  "size": 4602,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "FabianLauer": 173
+  },
+  "pulls_authors": [
+    "jcalex3922"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 205891,
+      "color": "#e34c26"
+    },
+    "TypeScript": {
+      "bytes": 149059,
+      "color": "#2b7489"
+    },
+    "JavaScript": {
+      "bytes": 95105,
+      "color": "#f1e05a"
+    },
+    "XSLT": {
+      "bytes": 17555,
+      "color": "#EB8CEB"
+    },
+    "Makefile": {
+      "bytes": 403,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T17:09:41.280Z"
+}

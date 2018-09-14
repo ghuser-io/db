@@ -1,0 +1,68 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "BikeShed",
+  "full_name": "spacemunkay/BikeShed",
+  "owner": "spacemunkay",
+  "private": false,
+  "html_url": "https://github.com/spacemunkay/BikeShed",
+  "description": "Velocipede's User, Sales, and Bike Inventory Web App",
+  "fork": false,
+  "url": "https://api.github.com/repos/spacemunkay/BikeShed",
+  "languages_url": "https://api.github.com/repos/spacemunkay/BikeShed/languages",
+  "pulls_url": "https://api.github.com/repos/spacemunkay/BikeShed/pulls{/number}",
+  "created_at": "2012-12-04T05:43:57Z",
+  "updated_at": "2018-08-04T19:29:06Z",
+  "pushed_at": "2017-07-06T09:36:09Z",
+  "homepage": null,
+  "size": 625,
+  "stargazers_count": 10,
+  "language": "PLpgSQL",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "darm0ck": 1,
+    "sidfarkus": 7,
+    "jnm": 10,
+    "ilya-konanykhin": 59,
+    "spacemunkay": 288
+  },
+  "pulls_authors": [
+    "fspc",
+    "ilya-konanykhin",
+    "Deimos620",
+    "spacemunkay",
+    "brigittewarner",
+    "sidfarkus",
+    "jnm",
+    "ghost"
+  ],
+  "languages": {
+    "PLpgSQL": {
+      "bytes": 426984,
+      "color": "#ccc"
+    },
+    "Ruby": {
+      "bytes": 165119,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 28822,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 19772,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1284,
+      "color": "#563d7c"
+    },
+    "CoffeeScript": {
+      "bytes": 100,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:21.760Z"
+}

@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "language-server-protocol-haxe",
+  "full_name": "vshaxe/language-server-protocol-haxe",
+  "owner": "vshaxe",
+  "private": false,
+  "html_url": "https://github.com/vshaxe/language-server-protocol-haxe",
+  "description": "Implementation of the Language Server Protocol in Haxe",
+  "fork": false,
+  "url": "https://api.github.com/repos/vshaxe/language-server-protocol-haxe",
+  "languages_url": "https://api.github.com/repos/vshaxe/language-server-protocol-haxe/languages",
+  "pulls_url": "https://api.github.com/repos/vshaxe/language-server-protocol-haxe/pulls{/number}",
+  "created_at": "2016-05-19T13:46:02Z",
+  "updated_at": "2018-08-24T01:23:58Z",
+  "pushed_at": "2018-08-20T18:01:18Z",
+  "homepage": "",
+  "size": 104,
+  "stargazers_count": 5,
+  "language": "Haxe",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "vshaxe",
+    "id": 19169749,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5MTY5NzQ5",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/19169749?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/vshaxe",
+    "html_url": "https://github.com/vshaxe",
+    "followers_url": "https://api.github.com/users/vshaxe/followers",
+    "following_url": "https://api.github.com/users/vshaxe/following{/other_user}",
+    "gists_url": "https://api.github.com/users/vshaxe/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/vshaxe/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/vshaxe/subscriptions",
+    "organizations_url": "https://api.github.com/users/vshaxe/orgs",
+    "repos_url": "https://api.github.com/users/vshaxe/repos",
+    "events_url": "https://api.github.com/users/vshaxe/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/vshaxe/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "kLabz": 1,
+    "Simn": 1,
+    "nadako": 16,
+    "Gama11": 30
+  },
+  "pulls_authors": [
+    "kLabz"
+  ],
+  "languages": {
+    "Haxe": {
+      "bytes": 93139,
+      "color": "#df7900"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:50.971Z"
+}

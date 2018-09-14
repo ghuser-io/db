@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "turtlecoin-php-rpc-usage",
+  "full_name": "RocksteadyTC/turtlecoin-php-rpc-usage",
+  "owner": "RocksteadyTC",
+  "private": false,
+  "html_url": "https://github.com/RocksteadyTC/turtlecoin-php-rpc-usage",
+  "description": "Simple usage of the turtlecoin-php-rpc library",
+  "fork": true,
+  "url": "https://api.github.com/repos/RocksteadyTC/turtlecoin-php-rpc-usage",
+  "languages_url": "https://api.github.com/repos/RocksteadyTC/turtlecoin-php-rpc-usage/languages",
+  "pulls_url": "https://api.github.com/repos/RocksteadyTC/turtlecoin-php-rpc-usage/pulls{/number}",
+  "created_at": "2018-05-02T04:36:02Z",
+  "updated_at": "2018-05-10T07:52:12Z",
+  "pushed_at": "2018-05-04T14:43:44Z",
+  "homepage": "",
+  "size": 31,
+  "stargazers_count": 2,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "TheDOme6": 11
+  },
+  "pulls_authors": [
+    "TheDOme6"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 25110,
+      "color": "#4F5D95"
+    },
+    "CSS": {
+      "bytes": 906,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 879,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T22:35:57.218Z"
+}

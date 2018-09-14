@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "lxmlproc",
+  "full_name": "nicferrier/lxmlproc",
+  "owner": "nicferrier",
+  "private": false,
+  "html_url": "https://github.com/nicferrier/lxmlproc",
+  "description": "an lxml version of xsltproc",
+  "fork": false,
+  "url": "https://api.github.com/repos/nicferrier/lxmlproc",
+  "languages_url": "https://api.github.com/repos/nicferrier/lxmlproc/languages",
+  "pulls_url": "https://api.github.com/repos/nicferrier/lxmlproc/pulls{/number}",
+  "created_at": "2010-07-04T21:37:27Z",
+  "updated_at": "2013-10-29T06:28:02Z",
+  "pushed_at": "2016-03-29T19:41:01Z",
+  "homepage": "http://nic.ferrier.me.uk/lxmlproc",
+  "size": 112,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "nicferrier": 6
+  },
+  "pulls_authors": [
+    "jayvdb"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 835,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "elatexam-demo",
+  "full_name": "smee/elatexam-demo",
+  "owner": "smee",
+  "private": false,
+  "html_url": "https://github.com/smee/elatexam-demo",
+  "description": "Preview of exams on Google's app engine",
+  "fork": false,
+  "url": "https://api.github.com/repos/smee/elatexam-demo",
+  "languages_url": "https://api.github.com/repos/smee/elatexam-demo/languages",
+  "pulls_url": "https://api.github.com/repos/smee/elatexam-demo/pulls{/number}",
+  "created_at": "2010-12-22T08:56:38Z",
+  "updated_at": "2014-01-18T16:42:12Z",
+  "pushed_at": "2011-09-06T08:16:08Z",
+  "homepage": "http://elatexam-preview.appspot.com/preview?id=2711830731051520",
+  "size": 152,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "smee": 21
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 66026,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-11T13:51:50.365Z"
+}

@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "closestmatch",
+  "full_name": "schollz/closestmatch",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/closestmatch",
+  "description": "Golang library for fuzzy matching within a set of strings :page_with_curl:",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/closestmatch",
+  "languages_url": "https://api.github.com/repos/schollz/closestmatch/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/closestmatch/pulls{/number}",
+  "created_at": "2017-03-30T14:43:15Z",
+  "updated_at": "2018-09-14T08:34:28Z",
+  "pushed_at": "2017-09-08T20:46:17Z",
+  "homepage": "",
+  "size": 655,
+  "stargazers_count": 169,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dominikschulz": 1,
+    "schollz": 65
+  },
+  "pulls_authors": [
+    "dominikschulz"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 35908,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 42,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-14T09:08:01.772Z"
+}

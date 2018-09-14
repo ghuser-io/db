@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rpi_ai",
+  "full_name": "schollz/rpi_ai",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/rpi_ai",
+  "description": "An AI developed for the Raspberry Pi",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/rpi_ai",
+  "languages_url": "https://api.github.com/repos/schollz/rpi_ai/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/rpi_ai/pulls{/number}",
+  "created_at": "2014-02-12T22:16:10Z",
+  "updated_at": "2018-05-04T04:54:07Z",
+  "pushed_at": "2017-09-09T14:31:47Z",
+  "homepage": "https://rpiai.com/raspberry-pi-ai/",
+  "size": 350,
+  "stargazers_count": 42,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 15
+  },
+  "pulls_authors": [
+    "BeauGieskens"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 33312,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 297,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:38.023Z"
+}

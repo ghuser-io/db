@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "picade",
+  "full_name": "pimoroni/picade",
+  "owner": "pimoroni",
+  "private": false,
+  "html_url": "https://github.com/pimoroni/picade",
+  "description": "All Picade related stuff.",
+  "fork": false,
+  "url": "https://api.github.com/repos/pimoroni/picade",
+  "languages_url": "https://api.github.com/repos/pimoroni/picade/languages",
+  "pulls_url": "https://api.github.com/repos/pimoroni/picade/pulls{/number}",
+  "created_at": "2013-05-13T12:21:29Z",
+  "updated_at": "2017-10-10T00:42:43Z",
+  "pushed_at": "2016-10-11T13:48:30Z",
+  "homepage": null,
+  "size": 18776,
+  "stargazers_count": 23,
+  "language": "Eagle",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pimoroni",
+    "id": 2399917,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzOTk5MTc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2399917?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pimoroni",
+    "html_url": "https://github.com/pimoroni",
+    "followers_url": "https://api.github.com/users/pimoroni/followers",
+    "following_url": "https://api.github.com/users/pimoroni/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pimoroni/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pimoroni/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pimoroni/subscriptions",
+    "organizations_url": "https://api.github.com/users/pimoroni/orgs",
+    "repos_url": "https://api.github.com/users/pimoroni/repos",
+    "events_url": "https://api.github.com/users/pimoroni/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pimoroni/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Gadgetoid": 1,
+    "paulecoyote": 1,
+    "lowfatcode": 4
+  },
+  "pulls_authors": [
+    "paulecoyote"
+  ],
+  "languages": {
+    "Eagle": {
+      "bytes": 660415,
+      "color": "#ccc"
+    },
+    "C": {
+      "bytes": 4751,
+      "color": "#555555"
+    },
+    "Prolog": {
+      "bytes": 1036,
+      "color": "#74283c"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:11.794Z"
+}

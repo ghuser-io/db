@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "spree_globalize",
+  "full_name": "tomash/spree_globalize",
+  "owner": "tomash",
+  "private": false,
+  "html_url": "https://github.com/tomash/spree_globalize",
+  "description": "THE Spree extension for integration with Globalize3",
+  "fork": false,
+  "url": "https://api.github.com/repos/tomash/spree_globalize",
+  "languages_url": "https://api.github.com/repos/tomash/spree_globalize/languages",
+  "pulls_url": "https://api.github.com/repos/tomash/spree_globalize/pulls{/number}",
+  "created_at": "2011-11-02T13:40:03Z",
+  "updated_at": "2017-08-02T10:14:56Z",
+  "pushed_at": "2012-02-15T19:43:48Z",
+  "homepage": "",
+  "size": 122,
+  "stargazers_count": 13,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "tomash": 2,
+    "jeroenj": 7,
+    "oliverbarnes": 17
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 14603,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T16:53:08.194Z"
+}

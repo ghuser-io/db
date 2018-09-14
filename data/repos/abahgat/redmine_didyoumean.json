@@ -1,0 +1,98 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "redmine_didyoumean",
+  "full_name": "abahgat/redmine_didyoumean",
+  "owner": "abahgat",
+  "private": false,
+  "html_url": "https://github.com/abahgat/redmine_didyoumean",
+  "description": "A Redmine plugin to search for possible duplicates when users are about to open new issues.",
+  "fork": false,
+  "url": "https://api.github.com/repos/abahgat/redmine_didyoumean",
+  "languages_url": "https://api.github.com/repos/abahgat/redmine_didyoumean/languages",
+  "created_at": "2012-01-16T18:10:35Z",
+  "updated_at": "2018-07-07T14:16:47Z",
+  "pushed_at": "2017-12-29T18:49:11Z",
+  "homepage": "",
+  "size": 127,
+  "stargazers_count": 66,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "y-imaida": 1,
+    "Angelinsky7": 1,
+    "giraypultar": 1,
+    "swiatkiewicz": 1,
+    "edgardmessias": 1,
+    "namezero111111": 1,
+    "matheusdias": 1,
+    "kotashiratsuka": 1,
+    "cforce": 1,
+    "robocyber": 2,
+    "jrencz": 2,
+    "jwalkerbg": 2,
+    "xavier-calland": 2,
+    "mcascallares": 2,
+    "patrickatamaniuk": 3,
+    "archonwang": 5,
+    "Raibaz": 8,
+    "nettsundere": 10,
+    "abahgat": 53
+  },
+  "languages": {
+    "Ruby": {
+      "bytes": 16081,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 3786,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 3461,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 3327,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 175,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-07-29T09:27:58.155Z",
+  "pulls_url": "https://api.github.com/repos/abahgat/redmine_didyoumean/pulls{/number}",
+  "pulls_authors": [
+    "robocyber",
+    "abahgat",
+    "y-imaida",
+    "mbideau",
+    "Angelinsky7",
+    "giraypultar",
+    "rlisowski",
+    "namezero111111",
+    "edgardmessias",
+    "swiatkiewicz",
+    "matheusdias",
+    "seqizz",
+    "archonwang",
+    "kotashiratsuka",
+    "jrencz",
+    "cforce",
+    "jwalkerbg",
+    "nettsundere",
+    "xavier-calland",
+    "patrickatamaniuk",
+    "mcascallares",
+    "tuxinaut"
+  ]
+}

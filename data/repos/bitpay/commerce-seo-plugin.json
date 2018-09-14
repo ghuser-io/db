@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "commerce-seo-plugin",
+  "full_name": "bitpay/commerce-seo-plugin",
+  "owner": "bitpay",
+  "private": false,
+  "html_url": "https://github.com/bitpay/commerce-seo-plugin",
+  "description": "Commerce SEO plugin for bitpay.com",
+  "fork": false,
+  "url": "https://api.github.com/repos/bitpay/commerce-seo-plugin",
+  "languages_url": "https://api.github.com/repos/bitpay/commerce-seo-plugin/languages",
+  "pulls_url": "https://api.github.com/repos/bitpay/commerce-seo-plugin/pulls{/number}",
+  "created_at": "2013-08-06T19:02:07Z",
+  "updated_at": "2017-04-24T02:45:56Z",
+  "pushed_at": "2016-02-19T20:43:52Z",
+  "homepage": null,
+  "size": 49,
+  "stargazers_count": 4,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "bitpay",
+    "id": 2554930,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1NTQ5MzA=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/2554930?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/bitpay",
+    "html_url": "https://github.com/bitpay",
+    "followers_url": "https://api.github.com/users/bitpay/followers",
+    "following_url": "https://api.github.com/users/bitpay/following{/other_user}",
+    "gists_url": "https://api.github.com/users/bitpay/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/bitpay/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/bitpay/subscriptions",
+    "organizations_url": "https://api.github.com/users/bitpay/orgs",
+    "repos_url": "https://api.github.com/users/bitpay/repos",
+    "events_url": "https://api.github.com/users/bitpay/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/bitpay/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jameswalpole": 1,
+    "kleetus": 3,
+    "chris30269": 5,
+    "ionux": 15
+  },
+  "pulls_authors": [
+    "jameswalpole",
+    "ionux",
+    "aleitner",
+    "samuelbohler",
+    "elahurd",
+    "cstevens88"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 31843,
+      "color": "#4F5D95"
+    },
+    "ApacheConf": {
+      "bytes": 3798,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T16:48:32.459Z"
+}

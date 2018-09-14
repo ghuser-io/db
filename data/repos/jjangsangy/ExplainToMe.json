@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ExplainToMe",
+  "full_name": "jjangsangy/ExplainToMe",
+  "owner": "jjangsangy",
+  "private": false,
+  "html_url": "https://github.com/jjangsangy/ExplainToMe",
+  "description": "Automatic Web Article Summarizer",
+  "fork": false,
+  "url": "https://api.github.com/repos/jjangsangy/ExplainToMe",
+  "languages_url": "https://api.github.com/repos/jjangsangy/ExplainToMe/languages",
+  "created_at": "2015-03-12T05:34:06Z",
+  "updated_at": "2018-09-13T22:24:27Z",
+  "pushed_at": "2018-09-13T22:24:25Z",
+  "homepage": "https://explaintome-app.herokuapp.com/",
+  "size": 5830,
+  "stargazers_count": 344,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "vinodpahuja": 1,
+    "andykaycodes": 4,
+    "jjangsangy": 175
+  },
+  "languages": {
+    "Python": {
+      "bytes": 13937,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 12056,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 9228,
+      "color": "#563d7c"
+    },
+    "Dockerfile": {
+      "bytes": 1211,
+      "color": "#0db7ed"
+    },
+    "JavaScript": {
+      "bytes": 504,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-13T23:46:48.772Z",
+  "pulls_url": "https://api.github.com/repos/jjangsangy/ExplainToMe/pulls{/number}",
+  "pulls_authors": [
+    "DiSiqueira",
+    "vinodpahuja",
+    "gyuhyeon",
+    "cosmospham",
+    "andykaycodes"
+  ]
+}

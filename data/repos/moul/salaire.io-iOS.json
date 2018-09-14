@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "salaire.io-iOS",
+  "full_name": "moul/salaire.io-iOS",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/salaire.io-iOS",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/salaire.io-iOS",
+  "languages_url": "https://api.github.com/repos/moul/salaire.io-iOS/languages",
+  "pulls_url": "https://api.github.com/repos/moul/salaire.io-iOS/pulls{/number}",
+  "created_at": "2016-06-03T14:04:57Z",
+  "updated_at": "2016-06-10T21:55:58Z",
+  "pushed_at": "2018-08-18T16:10:42Z",
+  "homepage": null,
+  "size": 10256,
+  "stargazers_count": 1,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 19
+  },
+  "pulls_authors": [
+    "imgbot[bot]"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 12823,
+      "color": "#ffac45"
+    },
+    "Ruby": {
+      "bytes": 76,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:55.237Z"
+}

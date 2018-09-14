@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "EasyStock",
+  "full_name": "beingcooper/EasyStock",
+  "owner": "beingcooper",
+  "private": false,
+  "html_url": "https://github.com/beingcooper/EasyStock",
+  "description": "A Python application for Mock Stock players!",
+  "fork": false,
+  "url": "https://api.github.com/repos/beingcooper/EasyStock",
+  "languages_url": "https://api.github.com/repos/beingcooper/EasyStock/languages",
+  "pulls_url": "https://api.github.com/repos/beingcooper/EasyStock/pulls{/number}",
+  "created_at": "2015-02-09T13:27:42Z",
+  "updated_at": "2018-07-02T16:41:39Z",
+  "pushed_at": "2018-07-02T16:41:38Z",
+  "homepage": "",
+  "size": 18000,
+  "stargazers_count": 8,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "iCHAIT": 1,
+    "beingcooper": 35
+  },
+  "pulls_authors": [
+    "iCHAIT"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 2235,
+      "color": "#3572A5"
+    },
+    "R": {
+      "bytes": 730,
+      "color": "#198CE7"
+    }
+  },
+  "fetched_at": "2018-09-03T17:15:08.636Z"
+}

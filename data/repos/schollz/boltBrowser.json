@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "boltBrowser",
+  "full_name": "schollz/boltBrowser",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/boltBrowser",
+  "description": "boltBrowser is a web-browser for boltDB",
+  "fork": true,
+  "url": "https://api.github.com/repos/schollz/boltBrowser",
+  "languages_url": "https://api.github.com/repos/schollz/boltBrowser/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/boltBrowser/pulls{/number}",
+  "created_at": "2018-05-17T18:27:12Z",
+  "updated_at": "2018-06-05T15:07:59Z",
+  "pushed_at": "2018-05-17T16:15:43Z",
+  "homepage": null,
+  "size": 8186,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ShoshinNikita": 37
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 30136,
+      "color": "#375eab"
+    },
+    "JavaScript": {
+      "bytes": 5672,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 2058,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1455,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:52.213Z"
+}

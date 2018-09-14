@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ppa-script",
+  "full_name": "mkg20001/ppa-script",
+  "owner": "mkg20001",
+  "private": false,
+  "html_url": "https://github.com/mkg20001/ppa-script",
+  "description": "A simple script that creates a PPA for packages downloaded from various sources",
+  "fork": false,
+  "url": "https://api.github.com/repos/mkg20001/ppa-script",
+  "languages_url": "https://api.github.com/repos/mkg20001/ppa-script/languages",
+  "pulls_url": "https://api.github.com/repos/mkg20001/ppa-script/pulls{/number}",
+  "created_at": "2018-04-22T10:35:27Z",
+  "updated_at": "2018-09-01T08:30:40Z",
+  "pushed_at": "2018-09-01T08:30:38Z",
+  "homepage": null,
+  "size": 40,
+  "stargazers_count": 2,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mkg20001": 25
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 10193,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:19.960Z"
+}

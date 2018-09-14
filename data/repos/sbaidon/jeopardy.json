@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jeopardy",
+  "full_name": "sbaidon/jeopardy",
+  "owner": "sbaidon",
+  "private": false,
+  "html_url": "https://github.com/sbaidon/jeopardy",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/sbaidon/jeopardy",
+  "languages_url": "https://api.github.com/repos/sbaidon/jeopardy/languages",
+  "pulls_url": "https://api.github.com/repos/sbaidon/jeopardy/pulls{/number}",
+  "created_at": "2017-05-01T21:47:30Z",
+  "updated_at": "2018-08-16T04:04:53Z",
+  "pushed_at": "2017-06-02T20:37:04Z",
+  "homepage": null,
+  "size": 39,
+  "stargazers_count": 7,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sbaidon": 14
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 28403,
+      "color": "#f1e05a"
+    },
+    "Vue": {
+      "bytes": 11902,
+      "color": "#2c3e50"
+    },
+    "HTML": {
+      "bytes": 196,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:15.823Z"
+}

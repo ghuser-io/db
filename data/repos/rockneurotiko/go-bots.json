@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-bots",
+  "full_name": "rockneurotiko/go-bots",
+  "owner": "rockneurotiko",
+  "private": false,
+  "html_url": "https://github.com/rockneurotiko/go-bots",
+  "description": "This are just my bots based in go-tgbot library https://github.com/rockneurotiko/go-tgbot",
+  "fork": false,
+  "url": "https://api.github.com/repos/rockneurotiko/go-bots",
+  "languages_url": "https://api.github.com/repos/rockneurotiko/go-bots/languages",
+  "pulls_url": "https://api.github.com/repos/rockneurotiko/go-bots/pulls{/number}",
+  "created_at": "2015-07-02T17:31:00Z",
+  "updated_at": "2018-07-05T12:38:59Z",
+  "pushed_at": "2016-03-29T20:09:08Z",
+  "homepage": "",
+  "size": 188,
+  "stargazers_count": 30,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "rockneurotiko": 62
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 128623,
+      "color": "#375eab"
+    },
+    "Shell": {
+      "bytes": 2475,
+      "color": "#89e051"
+    },
+    "Batchfile": {
+      "bytes": 420,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:47.141Z"
+}

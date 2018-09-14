@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "flat",
+  "full_name": "rjrodger/flat",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/flat",
+  "description": "A simple node.js library to flatten your callbacks.",
+  "fork": false,
+  "url": "https://api.github.com/repos/rjrodger/flat",
+  "languages_url": "https://api.github.com/repos/rjrodger/flat/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/flat/pulls{/number}",
+  "created_at": "2010-09-12T01:41:17Z",
+  "updated_at": "2015-06-25T14:44:52Z",
+  "pushed_at": "2015-06-25T14:57:45Z",
+  "homepage": "http://flat.ricebridge.com",
+  "size": 140,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rjrodger": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 9567,
+      "color": "#f1e05a"
+    },
+    "CoffeeScript": {
+      "bytes": 185,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:33.635Z"
+}

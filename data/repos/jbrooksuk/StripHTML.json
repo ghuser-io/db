@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "StripHTML",
+  "full_name": "jbrooksuk/StripHTML",
+  "owner": "jbrooksuk",
+  "private": false,
+  "html_url": "https://github.com/jbrooksuk/StripHTML",
+  "description": "Strip HTML content from selected text in Sublime Text 3",
+  "fork": false,
+  "url": "https://api.github.com/repos/jbrooksuk/StripHTML",
+  "languages_url": "https://api.github.com/repos/jbrooksuk/StripHTML/languages",
+  "pulls_url": "https://api.github.com/repos/jbrooksuk/StripHTML/pulls{/number}",
+  "created_at": "2013-04-25T13:45:38Z",
+  "updated_at": "2017-10-06T23:23:32Z",
+  "pushed_at": "2013-05-09T10:46:09Z",
+  "homepage": null,
+  "size": 124,
+  "stargazers_count": 4,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jbrooksuk": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 319,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:03.550Z"
+}

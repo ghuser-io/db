@@ -1,0 +1,82 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "FlappyBirdSwift-Cloupp-Tutorial",
+  "full_name": "ahmetabdi/FlappyBirdSwift-Cloupp-Tutorial",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/FlappyBirdSwift-Cloupp-Tutorial",
+  "description": "The starting point code for the MakeGamesWithUs Flappy Bird Swift tutorial.",
+  "fork": true,
+  "url": "https://api.github.com/repos/ahmetabdi/FlappyBirdSwift-Cloupp-Tutorial",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/FlappyBirdSwift-Cloupp-Tutorial/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/FlappyBirdSwift-Cloupp-Tutorial/pulls{/number}",
+  "created_at": "2015-01-16T09:07:32Z",
+  "updated_at": "2015-11-03T15:21:20Z",
+  "pushed_at": "2015-01-15T22:03:15Z",
+  "homepage": null,
+  "size": 19000,
+  "stargazers_count": 1,
+  "language": "Objective-C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "danielhaaser": 1,
+    "devknoll": 2,
+    "dionlarson": 3,
+    "Benolds": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Objective-C": {
+      "bytes": 1917601,
+      "color": "#438eff"
+    },
+    "M": {
+      "bytes": 333590,
+      "color": "#ccc"
+    },
+    "C": {
+      "bytes": 154842,
+      "color": "#555555"
+    },
+    "Python": {
+      "bytes": 42398,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 18960,
+      "color": "#563d7c"
+    },
+    "Swift": {
+      "bytes": 13689,
+      "color": "#ffac45"
+    },
+    "Perl": {
+      "bytes": 12283,
+      "color": "#0298c3"
+    },
+    "Objective-C++": {
+      "bytes": 6080,
+      "color": "#6866fb"
+    },
+    "Mercury": {
+      "bytes": 5462,
+      "color": "#ff2b2b"
+    },
+    "Shell": {
+      "bytes": 5400,
+      "color": "#89e051"
+    },
+    "C++": {
+      "bytes": 3244,
+      "color": "#f34b7d"
+    },
+    "CoffeeScript": {
+      "bytes": 761,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:09.572Z"
+}

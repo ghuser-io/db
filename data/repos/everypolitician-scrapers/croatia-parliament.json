@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "croatia-parliament",
+  "full_name": "everypolitician-scrapers/croatia-parliament",
+  "owner": "everypolitician-scrapers",
+  "private": false,
+  "html_url": "https://github.com/everypolitician-scrapers/croatia-parliament",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/everypolitician-scrapers/croatia-parliament",
+  "languages_url": "https://api.github.com/repos/everypolitician-scrapers/croatia-parliament/languages",
+  "pulls_url": "https://api.github.com/repos/everypolitician-scrapers/croatia-parliament/pulls{/number}",
+  "created_at": "2015-09-07T13:18:27Z",
+  "updated_at": "2018-08-24T09:20:12Z",
+  "pushed_at": "2018-09-12T04:58:46Z",
+  "homepage": "https://morph.io/tmtmtmtm/croatia-parliament",
+  "size": 563653,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "everypolitician-scrapers",
+    "id": 18443033,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4NDQzMDMz",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/18443033?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/everypolitician-scrapers",
+    "html_url": "https://github.com/everypolitician-scrapers",
+    "followers_url": "https://api.github.com/users/everypolitician-scrapers/followers",
+    "following_url": "https://api.github.com/users/everypolitician-scrapers/following{/other_user}",
+    "gists_url": "https://api.github.com/users/everypolitician-scrapers/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/everypolitician-scrapers/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/everypolitician-scrapers/subscriptions",
+    "organizations_url": "https://api.github.com/users/everypolitician-scrapers/orgs",
+    "repos_url": "https://api.github.com/users/everypolitician-scrapers/repos",
+    "events_url": "https://api.github.com/users/everypolitician-scrapers/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/everypolitician-scrapers/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "octopusinvitro": 3,
+    "chrismytton": 4,
+    "ondenman": 14,
+    "tmtmtmtm": 31
+  },
+  "pulls_authors": [
+    "ondenman",
+    "chrismytton",
+    "octopusinvitro"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 8262,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 1008,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:31.703Z"
+}

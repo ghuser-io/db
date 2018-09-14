@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "face-detection-with-OpenCV-and-DNN",
+  "full_name": "sr6033/face-detection-with-OpenCV-and-DNN",
+  "owner": "sr6033",
+  "private": false,
+  "html_url": "https://github.com/sr6033/face-detection-with-OpenCV-and-DNN",
+  "description": "Detecting faces using OpenCV's Deep Neural Network",
+  "fork": false,
+  "url": "https://api.github.com/repos/sr6033/face-detection-with-OpenCV-and-DNN",
+  "languages_url": "https://api.github.com/repos/sr6033/face-detection-with-OpenCV-and-DNN/languages",
+  "pulls_url": "https://api.github.com/repos/sr6033/face-detection-with-OpenCV-and-DNN/pulls{/number}",
+  "created_at": "2018-08-24T19:45:31Z",
+  "updated_at": "2018-08-25T12:23:53Z",
+  "pushed_at": "2018-08-24T20:19:10Z",
+  "homepage": null,
+  "size": 14490,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sr6033": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 4842,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-25T19:36:27.081Z"
+}

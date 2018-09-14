@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "seneca-examples",
+  "full_name": "rjrodger/seneca-examples",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/seneca-examples",
+  "description": "Node.js seneca module usage examples ",
+  "fork": false,
+  "url": "https://api.github.com/repos/rjrodger/seneca-examples",
+  "languages_url": "https://api.github.com/repos/rjrodger/seneca-examples/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/seneca-examples/pulls{/number}",
+  "created_at": "2012-12-13T17:52:12Z",
+  "updated_at": "2018-08-07T07:47:55Z",
+  "pushed_at": "2018-05-30T20:35:00Z",
+  "homepage": null,
+  "size": 575,
+  "stargazers_count": 117,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rjrodger": 56
+  },
+  "pulls_authors": [
+    "mezerotm",
+    "quiet324",
+    "KristinaMatuleviciute",
+    "sethbergman",
+    "mrcrgl",
+    "alexandrehebert",
+    "andfaulkner",
+    "mcdonnelldean",
+    "mirceaalexandru",
+    "djumanoff",
+    "frankdsm",
+    "jakepruitt",
+    "bitdeli-chef",
+    "dominictarr",
+    "iantocristian"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 24761,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 2849,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 211,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:33.459Z"
+}

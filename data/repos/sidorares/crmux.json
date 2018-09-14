@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "crmux",
+  "full_name": "sidorares/crmux",
+  "owner": "sidorares",
+  "private": false,
+  "html_url": "https://github.com/sidorares/crmux",
+  "description": "Chrome developer tools remote protocol multiplexer.",
+  "fork": false,
+  "url": "https://api.github.com/repos/sidorares/crmux",
+  "languages_url": "https://api.github.com/repos/sidorares/crmux/languages",
+  "pulls_url": "https://api.github.com/repos/sidorares/crmux/pulls{/number}",
+  "created_at": "2013-10-07T09:44:46Z",
+  "updated_at": "2018-09-04T18:00:31Z",
+  "pushed_at": "2017-10-03T01:11:05Z",
+  "homepage": null,
+  "size": 27,
+  "stargazers_count": 102,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "vHanda": 1,
+    "stumitchell": 1,
+    "bitdeli-chef": 1,
+    "eliseosoto": 3,
+    "lostintangent": 4,
+    "sidorares": 21
+  },
+  "pulls_authors": [
+    "richardklafter",
+    "lostintangent",
+    "splebel",
+    "vHanda",
+    "snyk-bot",
+    "stumitchell",
+    "eliseosoto",
+    "bitdeli-chef"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 8445,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:28.745Z"
+}

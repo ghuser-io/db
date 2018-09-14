@@ -1,0 +1,98 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "medium-wordpress-plugin",
+  "full_name": "Medium/medium-wordpress-plugin",
+  "owner": "Medium",
+  "private": false,
+  "html_url": "https://github.com/Medium/medium-wordpress-plugin",
+  "description": "The official WordPress plugin for cross-posting to Medium.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Medium/medium-wordpress-plugin",
+  "languages_url": "https://api.github.com/repos/Medium/medium-wordpress-plugin/languages",
+  "pulls_url": "https://api.github.com/repos/Medium/medium-wordpress-plugin/pulls{/number}",
+  "created_at": "2015-10-01T18:51:39Z",
+  "updated_at": "2018-09-06T02:56:10Z",
+  "pushed_at": "2018-08-24T13:44:11Z",
+  "homepage": "https://medium.com",
+  "size": 1294,
+  "stargazers_count": 185,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "Medium",
+    "id": 923954,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjkyMzk1NA==",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/923954?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Medium",
+    "html_url": "https://github.com/Medium",
+    "followers_url": "https://api.github.com/users/Medium/followers",
+    "following_url": "https://api.github.com/users/Medium/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Medium/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Medium/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Medium/subscriptions",
+    "organizations_url": "https://api.github.com/users/Medium/orgs",
+    "repos_url": "https://api.github.com/users/Medium/repos",
+    "events_url": "https://api.github.com/users/Medium/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Medium/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "benmedium": 1,
+    "exexzian": 1,
+    "lsinger": 1,
+    "kylewm": 3,
+    "fjarrett": 3,
+    "amyquispe": 5,
+    "kylehg": 6,
+    "huckphin": 9,
+    "majelbstoat": 31
+  },
+  "pulls_authors": [
+    "RocksteadyTC",
+    "kylewm",
+    "chuckreynolds",
+    "tihhgoncalves",
+    "TangRufus",
+    "lacqui",
+    "davpsh",
+    "huckphin",
+    "benmedium",
+    "amyquispe",
+    "majelbstoat",
+    "kylehg",
+    "exexzian",
+    "lsinger",
+    "fjarrett",
+    "apassant"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 45778,
+      "color": "#4F5D95"
+    },
+    "HTML": {
+      "bytes": 22715,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 15957,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 781,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T22:35:53.145Z"
+}

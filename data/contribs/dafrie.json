@@ -1,0 +1,19 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "dafrie/lstm-load-forecasting": {
+      "full_name": "dafrie/lstm-load-forecasting",
+      "name": "lstm-load-forecasting",
+      "stargazers_count": 39,
+      "popularity": 2.580963961738607,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 18,
+      "activity": 0.9413304062119181,
+      "total_score": 42.23675379402963,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

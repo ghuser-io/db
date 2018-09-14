@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "socket.io-python-emitter",
+  "full_name": "ziyasal/socket.io-python-emitter",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/socket.io-python-emitter",
+  "description": "Python implementation of socket.io-emitter",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal/socket.io-python-emitter",
+  "languages_url": "https://api.github.com/repos/ziyasal/socket.io-python-emitter/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/socket.io-python-emitter/pulls{/number}",
+  "created_at": "2014-05-31T00:24:48Z",
+  "updated_at": "2018-09-06T18:58:10Z",
+  "pushed_at": "2018-07-13T13:09:09Z",
+  "homepage": "",
+  "size": 47,
+  "stargazers_count": 59,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ceelian": 1,
+    "vrunoa": 1,
+    "Anislav": 1,
+    "errkk": 2,
+    "GameXG": 4,
+    "abdullahselek": 21,
+    "ziyasal": 42
+  },
+  "pulls_authors": [
+    "ceelian",
+    "andreabadesso",
+    "vrunoa",
+    "GameXG",
+    "xeor",
+    "errkk",
+    "Anislav"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 7228,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:03.564Z"
+}

@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "AWetLawn",
+  "full_name": "AWetLawn/AWetLawn",
+  "owner": "AWetLawn",
+  "private": false,
+  "html_url": "https://github.com/AWetLawn/AWetLawn",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/AWetLawn/AWetLawn",
+  "languages_url": "https://api.github.com/repos/AWetLawn/AWetLawn/languages",
+  "pulls_url": "https://api.github.com/repos/AWetLawn/AWetLawn/pulls{/number}",
+  "created_at": "2018-02-19T17:14:08Z",
+  "updated_at": "2018-02-21T18:45:13Z",
+  "pushed_at": "2018-02-19T19:43:03Z",
+  "homepage": null,
+  "size": 3806,
+  "stargazers_count": 2,
+  "language": "Ren'Py",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "AWetLawn",
+    "id": 36641090,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM2NjQxMDkw",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/36641090?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/AWetLawn",
+    "html_url": "https://github.com/AWetLawn",
+    "followers_url": "https://api.github.com/users/AWetLawn/followers",
+    "following_url": "https://api.github.com/users/AWetLawn/following{/other_user}",
+    "gists_url": "https://api.github.com/users/AWetLawn/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/AWetLawn/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/AWetLawn/subscriptions",
+    "organizations_url": "https://api.github.com/users/AWetLawn/orgs",
+    "repos_url": "https://api.github.com/users/AWetLawn/repos",
+    "events_url": "https://api.github.com/users/AWetLawn/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/AWetLawn/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "deletescape": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ren'Py": {
+      "bytes": 64685,
+      "color": "#ff7f7f"
+    }
+  },
+  "fetched_at": "2018-08-20T12:16:21.463Z"
+}

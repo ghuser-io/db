@@ -1,0 +1,89 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "laravel-ircbot",
+  "full_name": "sparksp/laravel-ircbot",
+  "owner": "sparksp",
+  "private": false,
+  "html_url": "https://github.com/sparksp/laravel-ircbot",
+  "description": "Laravel IRC Bot (Rommie)",
+  "fork": false,
+  "url": "https://api.github.com/repos/sparksp/laravel-ircbot",
+  "languages_url": "https://api.github.com/repos/sparksp/laravel-ircbot/languages",
+  "pulls_url": "https://api.github.com/repos/sparksp/laravel-ircbot/pulls{/number}",
+  "created_at": "2012-03-09T10:51:25Z",
+  "updated_at": "2018-06-29T21:33:39Z",
+  "pushed_at": "2015-05-07T14:35:06Z",
+  "homepage": "",
+  "size": 676,
+  "stargazers_count": 41,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "develop",
+  "contributors": {
+    "JosephSilber": 1,
+    "pzskc383": 1,
+    "jcomack": 1,
+    "niallobrien": 1,
+    "ShawnMcCool": 1,
+    "JesseObrien": 1,
+    "jeroenvdgulik": 1,
+    "DanSmith70": 3,
+    "janhartigan": 5,
+    "s-e": 7,
+    "machuga": 7,
+    "bretterer": 9,
+    "sparksp": 36
+  },
+  "pulls_authors": [
+    "sparksp",
+    "JosephSilber",
+    "montogeek",
+    "s-e",
+    "druu",
+    "0xCMP",
+    "machuga",
+    "robclancy",
+    "pzskc383",
+    "kaning",
+    "RobinMalfait",
+    "jcomack",
+    "ShawnMcCool",
+    "taftse",
+    "DanSmith70",
+    "niallobrien",
+    "bryantebeek",
+    "bretterer",
+    "JesseObrien",
+    "rkrv",
+    "smorell",
+    "Meroje",
+    "jeroenvdgulik",
+    "matiit",
+    "janhartigan",
+    "JoelLarson",
+    "daylerees"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 654717,
+      "color": "#4F5D95"
+    },
+    "Ruby": {
+      "bytes": 1697,
+      "color": "#701516"
+    },
+    "ApacheConf": {
+      "bytes": 183,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-11T20:46:04.366Z"
+}

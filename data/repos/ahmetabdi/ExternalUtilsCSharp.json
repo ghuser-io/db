@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ExternalUtilsCSharp",
+  "full_name": "ahmetabdi/ExternalUtilsCSharp",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/ExternalUtilsCSharp",
+  "description": "A set of utility-classes and -structs to make external gamehacking easier.",
+  "fork": true,
+  "url": "https://api.github.com/repos/ahmetabdi/ExternalUtilsCSharp",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/ExternalUtilsCSharp/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/ExternalUtilsCSharp/pulls{/number}",
+  "created_at": "2015-05-28T08:07:12Z",
+  "updated_at": "2017-08-14T11:19:20Z",
+  "pushed_at": "2015-07-08T07:52:51Z",
+  "homepage": null,
+  "size": 53555,
+  "stargazers_count": 2,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 2,
+    "aganonki": 7,
+    "BigMo": 31
+  },
+  "pulls_authors": [
+    "ahmetabdi"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 193360,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:01.298Z"
+}

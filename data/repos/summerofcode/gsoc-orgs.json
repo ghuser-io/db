@@ -1,0 +1,68 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gsoc-orgs",
+  "full_name": "summerofcode/gsoc-orgs",
+  "owner": "summerofcode",
+  "private": false,
+  "html_url": "https://github.com/summerofcode/gsoc-orgs",
+  "description": "Google Summer of Code organisation listing",
+  "fork": false,
+  "url": "https://api.github.com/repos/summerofcode/gsoc-orgs",
+  "languages_url": "https://api.github.com/repos/summerofcode/gsoc-orgs/languages",
+  "pulls_url": "https://api.github.com/repos/summerofcode/gsoc-orgs/pulls{/number}",
+  "created_at": "2018-02-25T08:51:09Z",
+  "updated_at": "2018-05-23T06:54:49Z",
+  "pushed_at": "2018-03-27T14:42:14Z",
+  "homepage": "https://soc-orgs.netlify.com/",
+  "size": 251,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "summerofcode",
+    "id": 5000269,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjUwMDAyNjk=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/5000269?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/summerofcode",
+    "html_url": "https://github.com/summerofcode",
+    "followers_url": "https://api.github.com/users/summerofcode/followers",
+    "following_url": "https://api.github.com/users/summerofcode/following{/other_user}",
+    "gists_url": "https://api.github.com/users/summerofcode/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/summerofcode/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/summerofcode/subscriptions",
+    "organizations_url": "https://api.github.com/users/summerofcode/orgs",
+    "repos_url": "https://api.github.com/users/summerofcode/repos",
+    "events_url": "https://api.github.com/users/summerofcode/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/summerofcode/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "BlinfoldKing": 1,
+    "jayvdb": 5
+  },
+  "pulls_authors": [
+    "jayvdb",
+    "BlinfoldKing",
+    "qwerty2323"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 7497,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 6515,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 3555,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

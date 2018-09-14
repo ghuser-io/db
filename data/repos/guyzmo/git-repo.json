@@ -1,0 +1,83 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "git-repo",
+  "full_name": "guyzmo/git-repo",
+  "owner": "guyzmo",
+  "private": false,
+  "html_url": "https://github.com/guyzmo/git-repo",
+  "description": "Git-Repo: CLI utility to manage git services from your workspace",
+  "fork": false,
+  "url": "https://api.github.com/repos/guyzmo/git-repo",
+  "languages_url": "https://api.github.com/repos/guyzmo/git-repo/languages",
+  "pulls_url": "https://api.github.com/repos/guyzmo/git-repo/pulls{/number}",
+  "created_at": "2016-03-26T16:05:52Z",
+  "updated_at": "2018-09-06T21:36:54Z",
+  "pushed_at": "2018-08-13T03:19:36Z",
+  "homepage": "https://webchat.freenode.net/?channels=#git-repo",
+  "size": 1004,
+  "stargazers_count": 762,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "devel",
+  "contributors": {
+    "Crazybus": 1,
+    "AllanLRH": 1,
+    "dmerejkowsky": 1,
+    "frankrousseau": 1,
+    "peterazmanov": 1,
+    "benzaita": 1,
+    "king6cong": 1,
+    "Razer6": 1,
+    "fa7ad": 2,
+    "buaazp": 2,
+    "rnestler": 3,
+    "jayvdb": 4,
+    "pyhedgehog": 4,
+    "nikitavbv": 7,
+    "AmandaCameron": 7,
+    "kounoike": 18,
+    "guyzmo": 354
+  },
+  "pulls_authors": [
+    "nikitavbv",
+    "Crazybus",
+    "AllanLRH",
+    "jayvdb",
+    "AmandaCameron",
+    "guyzmo",
+    "rlafuente",
+    "fa7ad",
+    "dmerejkowsky",
+    "kounoike",
+    "pyhedgehog",
+    "rnestler",
+    "graingert",
+    "frankrousseau",
+    "peterazmanov",
+    "benzaita",
+    "buaazp",
+    "king6cong",
+    "Razer6",
+    "waffle-iron",
+    "guyhughes"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 285415,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 4627,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-07T03:33:08.163Z"
+}

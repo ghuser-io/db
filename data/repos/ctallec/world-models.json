@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "world-models",
+  "full_name": "ctallec/world-models",
+  "owner": "ctallec",
+  "private": false,
+  "html_url": "https://github.com/ctallec/world-models",
+  "description": "Reimplementation of World-Models (Ha and Schmidhuber 2018) in pytorch",
+  "fork": false,
+  "url": "https://api.github.com/repos/ctallec/world-models",
+  "languages_url": "https://api.github.com/repos/ctallec/world-models/languages",
+  "pulls_url": "https://api.github.com/repos/ctallec/world-models/pulls{/number}",
+  "created_at": "2018-06-26T13:11:24Z",
+  "updated_at": "2018-09-14T01:41:30Z",
+  "pushed_at": "2018-09-07T08:29:05Z",
+  "homepage": "",
+  "size": 9960,
+  "stargazers_count": 183,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "superMDguy": 1,
+    "Narsil": 1,
+    "Diviyan-Kalainathan": 2,
+    "leonardblier": 3,
+    "ctallec": 55
+  },
+  "pulls_authors": [
+    "superMDguy",
+    "Narsil",
+    "Diviyan-Kalainathan"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 68464,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-14T09:10:14.411Z"
+}

@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "zurich_mobile",
+  "full_name": "mysociety/zurich_mobile",
+  "owner": "mysociety",
+  "private": false,
+  "html_url": "https://github.com/mysociety/zurich_mobile",
+  "description": "Mobile app for Zurich version of FixMyStreet",
+  "fork": false,
+  "url": "https://api.github.com/repos/mysociety/zurich_mobile",
+  "languages_url": "https://api.github.com/repos/mysociety/zurich_mobile/languages",
+  "pulls_url": "https://api.github.com/repos/mysociety/zurich_mobile/pulls{/number}",
+  "created_at": "2013-01-14T12:45:49Z",
+  "updated_at": "2018-06-01T15:37:02Z",
+  "pushed_at": "2018-06-01T15:37:11Z",
+  "homepage": null,
+  "size": 17099,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "mysociety",
+    "id": 141338,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/141338?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mysociety",
+    "html_url": "https://github.com/mysociety",
+    "followers_url": "https://api.github.com/users/mysociety/followers",
+    "following_url": "https://api.github.com/users/mysociety/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mysociety/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mysociety/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mysociety/subscriptions",
+    "organizations_url": "https://api.github.com/users/mysociety/orgs",
+    "repos_url": "https://api.github.com/users/mysociety/repos",
+    "events_url": "https://api.github.com/users/mysociety/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mysociety/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "chrismytton": 13,
+    "davea": 62,
+    "struan": 325
+  },
+  "pulls_authors": [
+    "davea",
+    "stevenday",
+    "chrismytton"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 204365,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 73833,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 63189,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 2844,
+      "color": "#89e051"
+    },
+    "Perl": {
+      "bytes": 1620,
+      "color": "#0298c3"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:47.884Z"
+}

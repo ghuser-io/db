@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rocket-todo-app",
+  "full_name": "ELD/rocket-todo-app",
+  "owner": "ELD",
+  "private": false,
+  "html_url": "https://github.com/ELD/rocket-todo-app",
+  "description": "Simple todo web app in Rust using Rocket and React",
+  "fork": false,
+  "url": "https://api.github.com/repos/ELD/rocket-todo-app",
+  "languages_url": "https://api.github.com/repos/ELD/rocket-todo-app/languages",
+  "pulls_url": "https://api.github.com/repos/ELD/rocket-todo-app/pulls{/number}",
+  "created_at": "2017-09-02T20:09:54Z",
+  "updated_at": "2018-06-02T21:52:02Z",
+  "pushed_at": "2018-01-25T15:25:47Z",
+  "homepage": null,
+  "size": 145,
+  "stargazers_count": 2,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ELD": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Rust": {
+      "bytes": 5884,
+      "color": "#dea584"
+    },
+    "TypeScript": {
+      "bytes": 5174,
+      "color": "#2b7489"
+    },
+    "Shell": {
+      "bytes": 4079,
+      "color": "#89e051"
+    },
+    "HTML": {
+      "bytes": 1590,
+      "color": "#e34c26"
+    },
+    "PLpgSQL": {
+      "bytes": 1145,
+      "color": "#ccc"
+    },
+    "CSS": {
+      "bytes": 404,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T10:35:55.372Z"
+}

@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "notMNIST",
+  "full_name": "mdibaiee/notMNIST",
+  "owner": "mdibaiee",
+  "private": false,
+  "html_url": "https://github.com/mdibaiee/notMNIST",
+  "description": "notMNIST small without empty files",
+  "fork": false,
+  "url": "https://api.github.com/repos/mdibaiee/notMNIST",
+  "languages_url": "https://api.github.com/repos/mdibaiee/notMNIST/languages",
+  "pulls_url": "https://api.github.com/repos/mdibaiee/notMNIST/pulls{/number}",
+  "created_at": "2016-09-08T15:31:26Z",
+  "updated_at": "2017-04-24T08:38:04Z",
+  "pushed_at": "2016-09-08T15:36:07Z",
+  "homepage": null,
+  "size": 8692,
+  "stargazers_count": 2,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mdibaiee": 1
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T07:36:40.647Z"
+}

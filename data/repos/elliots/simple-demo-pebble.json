@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "simple-demo-pebble",
+  "full_name": "elliots/simple-demo-pebble",
+  "owner": "elliots",
+  "private": false,
+  "html_url": "https://github.com/elliots/simple-demo-pebble",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/elliots/simple-demo-pebble",
+  "languages_url": "https://api.github.com/repos/elliots/simple-demo-pebble/languages",
+  "pulls_url": "https://api.github.com/repos/elliots/simple-demo-pebble/pulls{/number}",
+  "created_at": "2013-09-25T06:06:45Z",
+  "updated_at": "2015-04-12T16:51:02Z",
+  "pushed_at": "2013-09-25T06:08:37Z",
+  "homepage": null,
+  "size": 204,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "elliots": 1,
+    "jonspeicher": 113
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 24741,
+      "color": "#555555"
+    },
+    "Objective-C": {
+      "bytes": 6569,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-11T13:45:59.115Z"
+}

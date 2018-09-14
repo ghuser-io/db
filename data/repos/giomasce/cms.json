@@ -1,0 +1,120 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cms",
+  "full_name": "giomasce/cms",
+  "owner": "giomasce",
+  "private": false,
+  "html_url": "https://github.com/giomasce/cms",
+  "description": "Contest Management System",
+  "fork": true,
+  "url": "https://api.github.com/repos/giomasce/cms",
+  "languages_url": "https://api.github.com/repos/giomasce/cms/languages",
+  "pulls_url": "https://api.github.com/repos/giomasce/cms/pulls{/number}",
+  "created_at": "2012-11-19T18:58:51Z",
+  "updated_at": "2015-04-28T07:44:20Z",
+  "pushed_at": "2016-01-13T09:45:06Z",
+  "homepage": "",
+  "size": 12347,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dariost": 1,
+    "hadrava": 1,
+    "lorenzogatto": 1,
+    "rspencer01": 1,
+    "motiejus": 1,
+    "kapf": 1,
+    "ludwigschmidt": 1,
+    "nilehmann": 1,
+    "Corea": 1,
+    "m0r13": 1,
+    "ronalchn": 1,
+    "evgenymartynov": 1,
+    "kennyboy": 1,
+    "volpino": 1,
+    "edomora97": 2,
+    "yihangho": 2,
+    "renegat96": 2,
+    "konstantint": 2,
+    "FKint": 2,
+    "dinkoosmankovic": 2,
+    "WPettersson": 2,
+    "VittGam": 2,
+    "wafrelka": 3,
+    "snuke": 3,
+    "magrady24": 3,
+    "lucach": 7,
+    "vytisb": 7,
+    "smadbe": 8,
+    "davidg2603": 9,
+    "fagu": 10,
+    "qnighy": 11,
+    "gcampax": 13,
+    "veluca93": 21,
+    "artikz": 46,
+    "wil93": 47,
+    "bblackham": 133,
+    "Bosco89": 150,
+    "lerks": 425,
+    "giomasce": 868,
+    "stefano-maggiolo": 1025
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 1653478,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 196377,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 194122,
+      "color": "#e34c26"
+    },
+    "C++": {
+      "bytes": 104944,
+      "color": "#f34b7d"
+    },
+    "CSS": {
+      "bytes": 67265,
+      "color": "#563d7c"
+    },
+    "C": {
+      "bytes": 8021,
+      "color": "#555555"
+    },
+    "Java": {
+      "bytes": 5606,
+      "color": "#b07219"
+    },
+    "Pascal": {
+      "bytes": 3865,
+      "color": "#E3F171"
+    },
+    "Shell": {
+      "bytes": 2757,
+      "color": "#89e051"
+    },
+    "PHP": {
+      "bytes": 1149,
+      "color": "#4F5D95"
+    },
+    "TeX": {
+      "bytes": 633,
+      "color": "#3D6117"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:27.213Z"
+}

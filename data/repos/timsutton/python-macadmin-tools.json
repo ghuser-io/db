@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "python-macadmin-tools",
+  "full_name": "timsutton/python-macadmin-tools",
+  "owner": "timsutton",
+  "private": false,
+  "html_url": "https://github.com/timsutton/python-macadmin-tools",
+  "description": "List of open-source Python-based Mac sysadmin tools",
+  "fork": false,
+  "url": "https://api.github.com/repos/timsutton/python-macadmin-tools",
+  "languages_url": "https://api.github.com/repos/timsutton/python-macadmin-tools/languages",
+  "created_at": "2015-04-10T01:10:06Z",
+  "updated_at": "2018-09-12T12:27:40Z",
+  "pushed_at": "2018-04-24T06:49:35Z",
+  "homepage": "",
+  "size": 64,
+  "stargazers_count": 250,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "alichtman": 1,
+    "brianmorton": 1,
+    "carlashley": 1,
+    "lashomb": 1,
+    "lazymutt": 1,
+    "filipp": 1,
+    "Error-freeIT": 1,
+    "aysiu": 3,
+    "robperc": 4,
+    "homebysix": 5,
+    "timsutton": 45
+  },
+  "languages": {
+    "Python": {
+      "bytes": 520,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:45.144Z",
+  "pulls_url": "https://api.github.com/repos/timsutton/python-macadmin-tools/pulls{/number}",
+  "pulls_authors": [
+    "filipp",
+    "alichtman",
+    "brianmorton",
+    "BadStreff",
+    "carlashley",
+    "lashomb",
+    "aysiu",
+    "robperc",
+    "lazymutt",
+    "homebysix",
+    "Error-freeIT"
+  ]
+}

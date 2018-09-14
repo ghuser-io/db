@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "beach-op_150_trio",
+  "full_name": "captbaritone/beach-op_150_trio",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/beach-op_150_trio",
+  "description": "Parts for Amy Beach's Piano Trio Op. 150",
+  "fork": false,
+  "url": "https://api.github.com/repos/captbaritone/beach-op_150_trio",
+  "languages_url": "https://api.github.com/repos/captbaritone/beach-op_150_trio/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/beach-op_150_trio/pulls{/number}",
+  "created_at": "2013-08-11T06:36:15Z",
+  "updated_at": "2018-07-29T21:58:21Z",
+  "pushed_at": "2013-08-11T06:36:27Z",
+  "homepage": null,
+  "size": 108,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 3
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T04:58:44.857Z"
+}

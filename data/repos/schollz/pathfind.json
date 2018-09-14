@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pathfind",
+  "full_name": "schollz/pathfind",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/pathfind",
+  "description": "A generic A* pathfinding algorithm for Go",
+  "fork": true,
+  "url": "https://api.github.com/repos/schollz/pathfind",
+  "languages_url": "https://api.github.com/repos/schollz/pathfind/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/pathfind/pulls{/number}",
+  "created_at": "2016-06-25T14:36:22Z",
+  "updated_at": "2018-02-06T19:54:03Z",
+  "pushed_at": "2012-11-30T04:09:06Z",
+  "homepage": "",
+  "size": 108,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "massung": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 2893,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:55.232Z"
+}

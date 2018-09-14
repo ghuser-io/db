@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "notes",
+  "full_name": "webuildsg/notes",
+  "owner": "webuildsg",
+  "private": false,
+  "html_url": "https://github.com/webuildsg/notes",
+  "description": "Notes on collaborating on open events and open source",
+  "fork": false,
+  "url": "https://api.github.com/repos/webuildsg/notes",
+  "languages_url": "https://api.github.com/repos/webuildsg/notes/languages",
+  "pulls_url": "https://api.github.com/repos/webuildsg/notes/pulls{/number}",
+  "created_at": "2016-01-11T08:29:05Z",
+  "updated_at": "2018-08-29T14:08:49Z",
+  "pushed_at": "2018-08-23T01:52:31Z",
+  "homepage": "https://webuildsg.github.io/notes/",
+  "size": 15,
+  "stargazers_count": 2,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": true,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "webuildsg",
+    "id": 7611825,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc2MTE4MjU=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/7611825?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/webuildsg",
+    "html_url": "https://github.com/webuildsg",
+    "followers_url": "https://api.github.com/users/webuildsg/followers",
+    "following_url": "https://api.github.com/users/webuildsg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/webuildsg/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/webuildsg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/webuildsg/subscriptions",
+    "organizations_url": "https://api.github.com/users/webuildsg/orgs",
+    "repos_url": "https://api.github.com/users/webuildsg/repos",
+    "events_url": "https://api.github.com/users/webuildsg/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/webuildsg/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "cheeaun": 3,
+    "sayanee": 24
+  },
+  "pulls_authors": [
+    "cheeaun"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 8411,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:57.402Z"
+}

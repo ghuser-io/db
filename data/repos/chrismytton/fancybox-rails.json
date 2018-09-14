@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fancybox-rails",
+  "full_name": "chrismytton/fancybox-rails",
+  "owner": "chrismytton",
+  "private": false,
+  "html_url": "https://github.com/chrismytton/fancybox-rails",
+  "description": "Use FancyBox with the Rails asset pipeline",
+  "fork": false,
+  "url": "https://api.github.com/repos/chrismytton/fancybox-rails",
+  "languages_url": "https://api.github.com/repos/chrismytton/fancybox-rails/languages",
+  "pulls_url": "https://api.github.com/repos/chrismytton/fancybox-rails/pulls{/number}",
+  "created_at": "2011-05-19T21:37:17Z",
+  "updated_at": "2018-08-27T19:07:42Z",
+  "pushed_at": "2015-11-19T15:04:42Z",
+  "homepage": "",
+  "size": 236,
+  "stargazers_count": 97,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "zealot128": 1,
+    "greinacker": 1,
+    "mattiassvedhem": 1,
+    "dennisreimann": 1,
+    "leshill": 2,
+    "chrismytton": 96
+  },
+  "pulls_authors": [
+    "zealot128",
+    "chrismytton",
+    "greinacker",
+    "GSI",
+    "vikewoods",
+    "mcdba",
+    "kyparn",
+    "dennisreimann"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 19741,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 5059,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 707,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 659,
+      "color": "#f1e05a"
+    },
+    "CoffeeScript": {
+      "bytes": 34,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:44.629Z"
+}

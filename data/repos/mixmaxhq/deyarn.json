@@ -1,0 +1,62 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "deyarn",
+  "full_name": "mixmaxhq/deyarn",
+  "owner": "mixmaxhq",
+  "private": false,
+  "html_url": "https://github.com/mixmaxhq/deyarn",
+  "description": "A command-line tool for converting projects that use Yarn to npm.",
+  "fork": false,
+  "url": "https://api.github.com/repos/mixmaxhq/deyarn",
+  "languages_url": "https://api.github.com/repos/mixmaxhq/deyarn/languages",
+  "pulls_url": "https://api.github.com/repos/mixmaxhq/deyarn/pulls{/number}",
+  "created_at": "2018-05-03T19:03:43Z",
+  "updated_at": "2018-09-11T10:13:59Z",
+  "pushed_at": "2018-07-09T13:04:54Z",
+  "homepage": null,
+  "size": 81,
+  "stargazers_count": 149,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "mixmaxhq",
+    "id": 7530142,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc1MzAxNDI=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/7530142?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mixmaxhq",
+    "html_url": "https://github.com/mixmaxhq",
+    "followers_url": "https://api.github.com/users/mixmaxhq/followers",
+    "following_url": "https://api.github.com/users/mixmaxhq/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mixmaxhq/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mixmaxhq/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mixmaxhq/subscriptions",
+    "organizations_url": "https://api.github.com/users/mixmaxhq/orgs",
+    "repos_url": "https://api.github.com/users/mixmaxhq/repos",
+    "events_url": "https://api.github.com/users/mixmaxhq/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mixmaxhq/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "wearhere": 3,
+    "lukebarton": 3,
+    "spencer-brown": 6
+  },
+  "pulls_authors": [
+    "acconrad",
+    "lukebarton",
+    "cbovis",
+    "spencer-brown"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2368,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:55:39.021Z"
+}

@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vim-choosewin",
+  "full_name": "t9md/vim-choosewin",
+  "owner": "t9md",
+  "private": false,
+  "html_url": "https://github.com/t9md/vim-choosewin",
+  "description": "Land on window you chose like tmux's 'display-pane'",
+  "fork": false,
+  "url": "https://api.github.com/repos/t9md/vim-choosewin",
+  "languages_url": "https://api.github.com/repos/t9md/vim-choosewin/languages",
+  "pulls_url": "https://api.github.com/repos/t9md/vim-choosewin/pulls{/number}",
+  "created_at": "2013-12-21T10:36:03Z",
+  "updated_at": "2018-09-12T12:26:15Z",
+  "pushed_at": "2018-06-11T12:05:49Z",
+  "homepage": "",
+  "size": 229,
+  "stargazers_count": 309,
+  "language": "Vim script",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "nicoder": 1,
+    "Crote": 1,
+    "gomlgs": 1,
+    "faceleg": 1,
+    "tao12345666333": 1,
+    "lkdjiin": 1,
+    "weilbith": 2,
+    "rafi": 2,
+    "wsdjeg": 2,
+    "wikimatze": 2,
+    "KevinSjoberg": 3,
+    "captbaritone": 4,
+    "t9md": 203
+  },
+  "pulls_authors": [
+    "weilbith",
+    "nicoder",
+    "Crote",
+    "rafi",
+    "gomlgs",
+    "wsdjeg",
+    "gstewart",
+    "faceleg",
+    "captbaritone",
+    "KevinSjoberg",
+    "tao12345666333",
+    "kovetskiy",
+    "wikimatze",
+    "lkdjiin",
+    "hrsh7th"
+  ],
+  "languages": {
+    "Vim script": {
+      "bytes": 35831,
+      "color": "#199f4b"
+    },
+    "Ruby": {
+      "bytes": 827,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:37:40.852Z"
+}

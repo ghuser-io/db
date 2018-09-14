@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vim-async-make-green",
+  "full_name": "captbaritone/vim-async-make-green",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/vim-async-make-green",
+  "description": "Vim plugin to asynchronously run make and display a green/red bar on success/failure",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/vim-async-make-green",
+  "languages_url": "https://api.github.com/repos/captbaritone/vim-async-make-green/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/vim-async-make-green/pulls{/number}",
+  "created_at": "2014-09-08T18:47:27Z",
+  "updated_at": "2018-07-29T22:16:47Z",
+  "pushed_at": "2014-09-08T18:47:52Z",
+  "homepage": "",
+  "size": 105,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jimf": 4
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T04:58:55.414Z"
+}

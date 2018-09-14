@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "slara",
+  "ghuser_created_at": "2018-09-11T22:45:31.660Z",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/585824?v=4",
+  "html_url": "https://github.com/slara",
+  "organizations_url": "https://api.github.com/users/slara/orgs",
+  "repos_url": "https://api.github.com/users/slara/repos",
+  "type": "User",
+  "name": "Sebastian Lara Menares",
+  "company": "@E2iIngenieria ",
+  "blog": "https://twitter.com/slaramen",
+  "location": "Concepción Chile",
+  "email": "slaramen@gmail.com",
+  "bio": null,
+  "public_gists": 8,
+  "created_at": "2011-01-27T03:17:45Z",
+  "updated_at": "2018-06-19T02:24:02Z",
+  "organizations": [
+    "E2iIngenieria"
+  ],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:17:48.330Z",
+    "repos": [
+      "MTSolutions/superslacker",
+      "slara/vimfiles",
+      "slara/starsconfalert",
+      "slara/generator-reveal",
+      "RichardLitt/awesome-conferences",
+      "slara/revealgit",
+      "slara/generator-impress",
+      "slara/mtsmtdi",
+      "CEFOP/usereport",
+      "slara/reveal-deploy",
+      "slara/reveal-gh-pages",
+      "slara/live-mts",
+      "slara/backbone-pyramid-example",
+      "slara/startechconf-yeoman",
+      "yeoman/yeoman.github.io",
+      "h5bp/Front-end-Developer-Interview-Questions",
+      "yeoman/generator-backbone",
+      "slara/satelitarte",
+      "slara/testapp",
+      "uxsolutions/bootstrap-datepicker",
+      "slara/Leaflet.BorderPan",
+      "Leaflet/Leaflet"
+    ]
+  }
+}

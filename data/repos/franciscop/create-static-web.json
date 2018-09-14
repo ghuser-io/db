@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "create-static-web",
+  "full_name": "franciscop/create-static-web",
+  "owner": "franciscop",
+  "private": false,
+  "html_url": "https://github.com/franciscop/create-static-web",
+  "description": "Another static site generator",
+  "fork": false,
+  "url": "https://api.github.com/repos/franciscop/create-static-web",
+  "languages_url": "https://api.github.com/repos/franciscop/create-static-web/languages",
+  "pulls_url": "https://api.github.com/repos/franciscop/create-static-web/pulls{/number}",
+  "created_at": "2018-06-23T07:09:35Z",
+  "updated_at": "2018-06-26T01:08:04Z",
+  "pushed_at": "2018-06-25T12:08:46Z",
+  "homepage": null,
+  "size": 648,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "franciscop": 18
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6587,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 5079,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 64,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T00:04:56.573Z"
+}

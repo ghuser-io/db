@@ -1,0 +1,98 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "latino",
+  "full_name": "primitivorm/latino",
+  "owner": "primitivorm",
+  "private": false,
+  "html_url": "https://github.com/primitivorm/latino",
+  "description": "Lenguaje de programación de código abierto para latinos y de habla hispana.",
+  "fork": false,
+  "url": "https://api.github.com/repos/primitivorm/latino",
+  "languages_url": "https://api.github.com/repos/primitivorm/latino/languages",
+  "pulls_url": "https://api.github.com/repos/primitivorm/latino/pulls{/number}",
+  "created_at": "2015-01-17T08:00:50Z",
+  "updated_at": "2018-09-07T16:24:39Z",
+  "pushed_at": "2018-03-06T15:27:19Z",
+  "homepage": "http://lenguaje-latino.org/",
+  "size": 64495,
+  "stargazers_count": 144,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sieira": 1,
+    "SalchiPapa": 1,
+    "gitter-badger": 1,
+    "dionnyprensa": 5,
+    "TiagoDanin": 9,
+    "otgo": 34,
+    "robincoello": 60,
+    "primitivorm": 458
+  },
+  "pulls_authors": [
+    "TiagoDanin",
+    "codetriage-readme-bot",
+    "sieira",
+    "otgo",
+    "primitivorm",
+    "robincoello",
+    "dionnyprensa",
+    "SalchiPapa",
+    "gitter-badger"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 693547,
+      "color": "#555555"
+    },
+    "CMake": {
+      "bytes": 53149,
+      "color": "#ccc"
+    },
+    "Visual Basic": {
+      "bytes": 34136,
+      "color": "#945db7"
+    },
+    "Yacc": {
+      "bytes": 15297,
+      "color": "#4B6C4B"
+    },
+    "Shell": {
+      "bytes": 10141,
+      "color": "#89e051"
+    },
+    "Inno Setup": {
+      "bytes": 9431,
+      "color": "#ccc"
+    },
+    "Roff": {
+      "bytes": 5438,
+      "color": "#ecdebe"
+    },
+    "Lex": {
+      "bytes": 4846,
+      "color": "#DBCA00"
+    },
+    "C++": {
+      "bytes": 3353,
+      "color": "#f34b7d"
+    },
+    "Ruby": {
+      "bytes": 1625,
+      "color": "#701516"
+    },
+    "Objective-C": {
+      "bytes": 1378,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-08T00:08:55.426Z"
+}

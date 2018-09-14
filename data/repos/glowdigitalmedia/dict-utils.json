@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dict-utils",
+  "full_name": "glowdigitalmedia/dict-utils",
+  "owner": "glowdigitalmedia",
+  "private": false,
+  "html_url": "https://github.com/glowdigitalmedia/dict-utils",
+  "description": "Set of utilities and accessory methods to work with Python dicts.",
+  "fork": false,
+  "url": "https://api.github.com/repos/glowdigitalmedia/dict-utils",
+  "languages_url": "https://api.github.com/repos/glowdigitalmedia/dict-utils/languages",
+  "pulls_url": "https://api.github.com/repos/glowdigitalmedia/dict-utils/pulls{/number}",
+  "created_at": "2014-04-09T13:46:56Z",
+  "updated_at": "2016-02-04T09:43:16Z",
+  "pushed_at": "2016-02-04T09:43:15Z",
+  "homepage": null,
+  "size": 29,
+  "stargazers_count": 4,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "glowdigitalmedia",
+    "id": 6934604,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY5MzQ2MDQ=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/6934604?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/glowdigitalmedia",
+    "html_url": "https://github.com/glowdigitalmedia",
+    "followers_url": "https://api.github.com/users/glowdigitalmedia/followers",
+    "following_url": "https://api.github.com/users/glowdigitalmedia/following{/other_user}",
+    "gists_url": "https://api.github.com/users/glowdigitalmedia/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/glowdigitalmedia/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/glowdigitalmedia/subscriptions",
+    "organizations_url": "https://api.github.com/users/glowdigitalmedia/orgs",
+    "repos_url": "https://api.github.com/users/glowdigitalmedia/repos",
+    "events_url": "https://api.github.com/users/glowdigitalmedia/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/glowdigitalmedia/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jayvdb": 1,
+    "andreagrandi": 32
+  },
+  "pulls_authors": [
+    "jayvdb",
+    "LoveIsGrief",
+    "andreagrandi"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 5209,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

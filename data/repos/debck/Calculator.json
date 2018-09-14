@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Calculator",
+  "full_name": "debck/Calculator",
+  "owner": "debck",
+  "private": false,
+  "html_url": "https://github.com/debck/Calculator",
+  "description": "Simple Calculator using NETBEANS (GUI Implementation)✒️✒️. 📟",
+  "fork": false,
+  "url": "https://api.github.com/repos/debck/Calculator",
+  "languages_url": "https://api.github.com/repos/debck/Calculator/languages",
+  "created_at": "2017-12-30T09:25:03Z",
+  "updated_at": "2018-07-27T11:34:14Z",
+  "pushed_at": "2018-05-24T11:20:46Z",
+  "homepage": "",
+  "size": 32,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "debck": 12
+  },
+  "languages": {
+    "Java": {
+      "bytes": 20813,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-07-27T17:48:38.221Z",
+  "pulls_url": "https://api.github.com/repos/debck/Calculator/pulls{/number}",
+  "pulls_authors": []
+}

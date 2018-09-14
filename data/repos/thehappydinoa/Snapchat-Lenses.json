@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Snapchat-Lenses",
+  "full_name": "thehappydinoa/Snapchat-Lenses",
+  "owner": "thehappydinoa",
+  "private": false,
+  "html_url": "https://github.com/thehappydinoa/Snapchat-Lenses",
+  "description": "Collection of my Snapchat Lenses",
+  "fork": false,
+  "url": "https://api.github.com/repos/thehappydinoa/Snapchat-Lenses",
+  "languages_url": "https://api.github.com/repos/thehappydinoa/Snapchat-Lenses/languages",
+  "pulls_url": "https://api.github.com/repos/thehappydinoa/Snapchat-Lenses/pulls{/number}",
+  "created_at": "2018-01-17T21:40:27Z",
+  "updated_at": "2018-09-12T14:51:58Z",
+  "pushed_at": "2018-09-12T14:51:57Z",
+  "homepage": null,
+  "size": 3112,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "thehappydinoa": 20
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 16269,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T16:52:25.820Z"
+}

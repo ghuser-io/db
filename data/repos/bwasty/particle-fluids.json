@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "particle-fluids",
+  "full_name": "bwasty/particle-fluids",
+  "owner": "bwasty",
+  "private": false,
+  "html_url": "https://github.com/bwasty/particle-fluids",
+  "description": "Screen space fluid rendering with Ogre and Nvidia PhysX",
+  "fork": false,
+  "url": "https://api.github.com/repos/bwasty/particle-fluids",
+  "languages_url": "https://api.github.com/repos/bwasty/particle-fluids/languages",
+  "pulls_url": "https://api.github.com/repos/bwasty/particle-fluids/pulls{/number}",
+  "created_at": "2014-10-07T23:05:36Z",
+  "updated_at": "2018-03-29T14:37:37Z",
+  "pushed_at": "2017-07-22T12:39:21Z",
+  "homepage": "https://youtu.be/6fRd4qMZs7s",
+  "size": 2777,
+  "stargazers_count": 3,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "bwasty": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 68443,
+      "color": "#f34b7d"
+    },
+    "Batchfile": {
+      "bytes": 96,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-11T00:29:54.884Z"
+}

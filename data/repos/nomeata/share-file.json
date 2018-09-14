@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "share-file",
+  "full_name": "nomeata/share-file",
+  "owner": "nomeata",
+  "private": false,
+  "html_url": "https://github.com/nomeata/share-file",
+  "description": "FileTea-like command line tool",
+  "fork": false,
+  "url": "https://api.github.com/repos/nomeata/share-file",
+  "languages_url": "https://api.github.com/repos/nomeata/share-file/languages",
+  "pulls_url": "https://api.github.com/repos/nomeata/share-file/pulls{/number}",
+  "created_at": "2013-12-19T11:13:12Z",
+  "updated_at": "2014-10-12T19:40:39Z",
+  "pushed_at": "2013-12-19T23:18:15Z",
+  "homepage": null,
+  "size": 148,
+  "stargazers_count": 10,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "nomeata": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 5744,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:18.040Z"
+}

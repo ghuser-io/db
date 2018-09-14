@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ookaboo",
+  "full_name": "paulhoule/ookaboo",
+  "owner": "paulhoule",
+  "private": false,
+  "html_url": "https://github.com/paulhoule/ookaboo",
+  "description": "trouble tickets and documentation related to ookaboo",
+  "fork": false,
+  "url": "https://api.github.com/repos/paulhoule/ookaboo",
+  "languages_url": "https://api.github.com/repos/paulhoule/ookaboo/languages",
+  "pulls_url": "https://api.github.com/repos/paulhoule/ookaboo/pulls{/number}",
+  "created_at": "2013-10-19T00:33:31Z",
+  "updated_at": "2014-01-02T19:37:59Z",
+  "pushed_at": "2014-01-02T19:37:59Z",
+  "homepage": null,
+  "size": 1081,
+  "stargazers_count": 2,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "bitdeli-chef": 1,
+    "paulhoule": 26
+  },
+  "pulls_authors": [
+    "bitdeli-chef"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 20390,
+      "color": "#b07219"
+    },
+    "PowerShell": {
+      "bytes": 188,
+      "color": "#012456"
+    },
+    "Shell": {
+      "bytes": 172,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T23:10:16.760Z"
+}

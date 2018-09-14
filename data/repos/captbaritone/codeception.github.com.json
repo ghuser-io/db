@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "codeception.github.com",
+  "full_name": "captbaritone/codeception.github.com",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/codeception.github.com",
+  "description": "Codeception Site",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/codeception.github.com",
+  "languages_url": "https://api.github.com/repos/captbaritone/codeception.github.com/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/codeception.github.com/pulls{/number}",
+  "created_at": "2014-01-23T20:56:50Z",
+  "updated_at": "2018-07-29T21:59:51Z",
+  "pushed_at": "2014-03-20T05:49:54Z",
+  "homepage": "codeception.com",
+  "size": 36750,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "raylai": 1,
+    "klaude": 1,
+    "jonphipps": 1,
+    "warrenseymour": 1,
+    "gimler": 3,
+    "DavertMik": 502
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CSS": {
+      "bytes": 220640,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 22284,
+      "color": "#f1e05a"
+    },
+    "Ruby": {
+      "bytes": 10712,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:47.642Z"
+}

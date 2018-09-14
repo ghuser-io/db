@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "crvi",
+  "full_name": "devSessions/crvi",
+  "owner": "devSessions",
+  "private": false,
+  "html_url": "https://github.com/devSessions/crvi",
+  "description": "Cash Recognition for Visually Impaired",
+  "fork": false,
+  "url": "https://api.github.com/repos/devSessions/crvi",
+  "languages_url": "https://api.github.com/repos/devSessions/crvi/languages",
+  "pulls_url": "https://api.github.com/repos/devSessions/crvi/pulls{/number}",
+  "created_at": "2017-12-30T16:07:27Z",
+  "updated_at": "2018-09-10T23:12:41Z",
+  "pushed_at": "2018-01-15T17:29:06Z",
+  "homepage": null,
+  "size": 13,
+  "stargazers_count": 16,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "devSessions",
+    "id": 31912941,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMxOTEyOTQx",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/31912941?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/devSessions",
+    "html_url": "https://github.com/devSessions",
+    "followers_url": "https://api.github.com/users/devSessions/followers",
+    "following_url": "https://api.github.com/users/devSessions/following{/other_user}",
+    "gists_url": "https://api.github.com/users/devSessions/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/devSessions/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/devSessions/subscriptions",
+    "organizations_url": "https://api.github.com/users/devSessions/orgs",
+    "repos_url": "https://api.github.com/users/devSessions/repos",
+    "events_url": "https://api.github.com/users/devSessions/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/devSessions/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "rabingaire": 2,
+    "amitness": 2,
+    "kshitizrimal": 2
+  },
+  "pulls_authors": [
+    "amitness",
+    "rabingaire",
+    "kshitizrimal"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 15414,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-10T23:38:31.203Z"
+}

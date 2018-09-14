@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ThreadCC",
+  "full_name": "turbo/ThreadCC",
+  "owner": "turbo",
+  "private": false,
+  "html_url": "https://github.com/turbo/ThreadCC",
+  "description": "Portable C++ compiler suite for Windows, preconfigured for parallelism and concurrency.",
+  "fork": false,
+  "url": "https://api.github.com/repos/turbo/ThreadCC",
+  "languages_url": "https://api.github.com/repos/turbo/ThreadCC/languages",
+  "pulls_url": "https://api.github.com/repos/turbo/ThreadCC/pulls{/number}",
+  "created_at": "2017-01-29T07:01:21Z",
+  "updated_at": "2018-09-12T17:19:22Z",
+  "pushed_at": "2017-01-30T23:27:39Z",
+  "homepage": "",
+  "size": 152913,
+  "stargazers_count": 8,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "turbo": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 47862042,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 36924456,
+      "color": "#555555"
+    },
+    "Python": {
+      "bytes": 17310372,
+      "color": "#3572A5"
+    },
+    "Roff": {
+      "bytes": 5433777,
+      "color": "#ecdebe"
+    },
+    "Objective-C": {
+      "bytes": 214280,
+      "color": "#438eff"
+    },
+    "Logos": {
+      "bytes": 23600,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 13428,
+      "color": "#89e051"
+    },
+    "HTML": {
+      "bytes": 2515,
+      "color": "#e34c26"
+    },
+    "Batchfile": {
+      "bytes": 116,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-13T00:28:49.476Z"
+}

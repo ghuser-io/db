@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "finna-be-octo-hipster",
+  "full_name": "ctaloi/finna-be-octo-hipster",
+  "owner": "ctaloi",
+  "private": false,
+  "html_url": "https://github.com/ctaloi/finna-be-octo-hipster",
+  "description": "Bash functions for setting the title and tab color in iTerm2, with some AppleScripts for automating a default setup",
+  "fork": true,
+  "url": "https://api.github.com/repos/ctaloi/finna-be-octo-hipster",
+  "languages_url": "https://api.github.com/repos/ctaloi/finna-be-octo-hipster/languages",
+  "pulls_url": "https://api.github.com/repos/ctaloi/finna-be-octo-hipster/pulls{/number}",
+  "created_at": "2013-10-17T04:25:20Z",
+  "updated_at": "2013-10-17T04:25:20Z",
+  "pushed_at": "2013-06-05T16:41:44Z",
+  "homepage": "",
+  "size": 64,
+  "stargazers_count": 1,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jacaetevha": 15
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-11T23:04:45.248Z"
+}

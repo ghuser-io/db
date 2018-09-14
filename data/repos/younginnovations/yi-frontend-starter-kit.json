@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "yi-frontend-starter-kit",
+  "full_name": "younginnovations/yi-frontend-starter-kit",
+  "owner": "younginnovations",
+  "private": false,
+  "html_url": "https://github.com/younginnovations/yi-frontend-starter-kit",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/younginnovations/yi-frontend-starter-kit",
+  "languages_url": "https://api.github.com/repos/younginnovations/yi-frontend-starter-kit/languages",
+  "pulls_url": "https://api.github.com/repos/younginnovations/yi-frontend-starter-kit/pulls{/number}",
+  "created_at": "2016-10-19T10:27:42Z",
+  "updated_at": "2017-06-14T00:30:06Z",
+  "pushed_at": "2017-06-15T08:30:10Z",
+  "homepage": null,
+  "size": 752,
+  "stargazers_count": 5,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "younginnovations",
+    "id": 7163668,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjcxNjM2Njg=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/7163668?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/younginnovations",
+    "html_url": "https://github.com/younginnovations",
+    "followers_url": "https://api.github.com/users/younginnovations/followers",
+    "following_url": "https://api.github.com/users/younginnovations/following{/other_user}",
+    "gists_url": "https://api.github.com/users/younginnovations/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/younginnovations/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/younginnovations/subscriptions",
+    "organizations_url": "https://api.github.com/users/younginnovations/orgs",
+    "repos_url": "https://api.github.com/users/younginnovations/repos",
+    "events_url": "https://api.github.com/users/younginnovations/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/younginnovations/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "amitness": 1,
+    "kcsuraj": 2,
+    "isurajkc": 4,
+    "Neev89": 5
+  },
+  "pulls_authors": [
+    "amitness",
+    "Neev89",
+    "isurajkc"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 26508,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 8394,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 744,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:29.087Z"
+}

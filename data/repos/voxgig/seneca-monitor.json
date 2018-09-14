@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "seneca-monitor",
+  "full_name": "voxgig/seneca-monitor",
+  "owner": "voxgig",
+  "private": false,
+  "html_url": "https://github.com/voxgig/seneca-monitor",
+  "description": "seneca-monitor",
+  "fork": false,
+  "url": "https://api.github.com/repos/voxgig/seneca-monitor",
+  "languages_url": "https://api.github.com/repos/voxgig/seneca-monitor/languages",
+  "pulls_url": "https://api.github.com/repos/voxgig/seneca-monitor/pulls{/number}",
+  "created_at": "2017-05-19T11:28:25Z",
+  "updated_at": "2018-05-29T14:30:11Z",
+  "pushed_at": "2018-05-29T14:34:14Z",
+  "homepage": null,
+  "size": 376,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "voxgig",
+    "id": 33902825,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMzOTAyODI1",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/33902825?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/voxgig",
+    "html_url": "https://github.com/voxgig",
+    "followers_url": "https://api.github.com/users/voxgig/followers",
+    "following_url": "https://api.github.com/users/voxgig/following{/other_user}",
+    "gists_url": "https://api.github.com/users/voxgig/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/voxgig/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/voxgig/subscriptions",
+    "organizations_url": "https://api.github.com/users/voxgig/orgs",
+    "repos_url": "https://api.github.com/users/voxgig/repos",
+    "events_url": "https://api.github.com/users/voxgig/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/voxgig/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "rjrodger": 16
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 22404,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 944,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:27.561Z"
+}

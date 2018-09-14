@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "pra85": 1,
+    "electerious": 1,
+    "MrAlexLau": 1,
+    "kennyt": 1,
+    "afc163": 1,
+    "DDKnoll": 1,
+    "TimothyGu": 1,
+    "crohrer": 1,
+    "Calinou": 1,
+    "sithmel": 13,
+    "Rich-Harris": 140
+  },
+  "name": "ramjet",
+  "full_name": "Rich-Harris/ramjet",
+  "owner": "Rich-Harris",
+  "private": false,
+  "html_url": "https://github.com/Rich-Harris/ramjet",
+  "description": "Morph DOM elements from one state to another with smooth animations and transitions",
+  "fork": false,
+  "url": "https://api.github.com/repos/Rich-Harris/ramjet",
+  "languages_url": "https://api.github.com/repos/Rich-Harris/ramjet/languages",
+  "created_at": "2014-09-25T23:17:22Z",
+  "updated_at": "2018-09-12T09:05:47Z",
+  "pushed_at": "2017-02-09T15:06:44Z",
+  "homepage": "http://www.rich-harris.co.uk/ramjet/",
+  "size": 6933,
+  "stargazers_count": 5158,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "JavaScript": {
+      "bytes": 31637,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 8160,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 907,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 398,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:37:14.643Z",
+  "pulls_url": "https://api.github.com/repos/Rich-Harris/ramjet/pulls{/number}",
+  "pulls_authors": [
+    "kennynaoh",
+    "bfred-it",
+    "pra85",
+    "Rich-Harris",
+    "electerious",
+    "regou",
+    "sithmel",
+    "MrAlexLau",
+    "kennyt",
+    "afc163",
+    "DDKnoll",
+    "lishengzxc",
+    "TimothyGu",
+    "crohrer",
+    "Calinou",
+    "huntie"
+  ]
+}

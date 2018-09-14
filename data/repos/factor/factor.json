@@ -1,0 +1,272 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "factor",
+  "full_name": "factor/factor",
+  "owner": "factor",
+  "private": false,
+  "html_url": "https://github.com/factor/factor",
+  "description": "Factor programming language - GitHub mirror of official GIT repo",
+  "fork": false,
+  "url": "https://api.github.com/repos/factor/factor",
+  "languages_url": "https://api.github.com/repos/factor/factor/languages",
+  "pulls_url": "https://api.github.com/repos/factor/factor/pulls{/number}",
+  "created_at": "2009-03-24T13:17:48Z",
+  "updated_at": "2018-09-12T14:04:42Z",
+  "pushed_at": "2018-09-12T14:04:34Z",
+  "homepage": "https://factorcode.org/",
+  "size": 134298,
+  "stargazers_count": 682,
+  "language": "Factor",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-2-clause",
+    "name": "BSD 2-Clause \"Simplified\" License",
+    "spdx_id": "BSD-2-Clause",
+    "url": "https://api.github.com/licenses/bsd-2-clause",
+    "node_id": "MDc6TGljZW5zZTQ="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "factor",
+    "id": 232051,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzMjA1MQ==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/232051?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/factor",
+    "html_url": "https://github.com/factor",
+    "followers_url": "https://api.github.com/users/factor/followers",
+    "following_url": "https://api.github.com/users/factor/following{/other_user}",
+    "gists_url": "https://api.github.com/users/factor/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/factor/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/factor/subscriptions",
+    "organizations_url": "https://api.github.com/users/factor/orgs",
+    "repos_url": "https://api.github.com/users/factor/repos",
+    "events_url": "https://api.github.com/users/factor/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/factor/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "philipdexter": 1,
+    "thron7": 1,
+    "shanepelletier": 1,
+    "xzenf": 1,
+    "ForNeVeR": 1,
+    "arkrost": 1,
+    "sstewartgallus": 1,
+    "Profpatsch": 1,
+    "phred": 1,
+    "ownwaterloo": 1,
+    "mcandre": 1,
+    "PGGB": 1,
+    "eipipuz": 1,
+    "addrummond": 1,
+    "hugows": 1,
+    "mattknox": 1,
+    "8byte-jose": 1,
+    "rswarbrick": 1,
+    "carlo-kokoth": 1,
+    "vegai": 1,
+    "bogiebro": 1,
+    "kencausey": 1,
+    "ehird": 1,
+    "nseckar": 1,
+    "zedshaw": 1,
+    "mohd-akram": 2,
+    "robx": 2,
+    "masweeney": 2,
+    "hyphz": 2,
+    "thoughteer": 2,
+    "lorynj": 2,
+    "abstraktio": 2,
+    "brennancheung": 2,
+    "dne": 2,
+    "fxkr": 3,
+    "kerabromsmu": 4,
+    "philippwinkler": 4,
+    "martind": 4,
+    "inforichland": 4,
+    "Keyholder": 5,
+    "Screwtapello": 5,
+    "seckar": 6,
+    "Bigot": 6,
+    "mncharity": 7,
+    "rictic": 7,
+    "ceninan": 8,
+    "viswans83": 10,
+    "malu": 10,
+    "prunedtree": 10,
+    "alec": 12,
+    "guillaume-nargeot": 13,
+    "littledan": 20,
+    "glguy": 22,
+    "ageldama": 23,
+    "catb0t": 24,
+    "abeaumont": 24,
+    "otoburb": 26,
+    "dmsh": 27,
+    "bpollack": 39,
+    "Blei": 62,
+    "klazuka": 69,
+    "ex-rzr": 70,
+    "ajvondrak": 71,
+    "dharmatech": 80,
+    "nicolas-p": 102,
+    "doublec": 104,
+    "samueltardieu": 122,
+    "jedahu": 127,
+    "x6j8x": 129,
+    "tizoc": 131,
+    "jonenst": 186,
+    "jamesnvc": 186,
+    "elasticdog": 209,
+    "erikcharlebois": 211,
+    "phildawes": 237,
+    "jaor": 243,
+    "AlexIljin": 364,
+    "bjourne": 1520,
+    "slavapestov": 1579,
+    "jckarter": 2157,
+    "mrjbq7": 3936,
+    "erg": 4603
+  },
+  "pulls_authors": [
+    "catb0t",
+    "bpollack",
+    "AlexIljin",
+    "mohd-akram",
+    "xificurC",
+    "erg",
+    "twopir",
+    "philipdexter",
+    "jonenst",
+    "DivyaSharma59",
+    "sam0410",
+    "robx",
+    "nicolas-p",
+    "viswans83",
+    "samueltardieu",
+    "thron7",
+    "shanepelletier",
+    "doublec",
+    "masweeney",
+    "xzenf",
+    "ForNeVeR",
+    "arkrost",
+    "bjourne",
+    "mrjbq7",
+    "kerabromsmu",
+    "hyphz",
+    "tgunr",
+    "thoughteer",
+    "sstewartgallus",
+    "Profpatsch",
+    "ownwaterloo",
+    "untothebreach",
+    "alesguzik",
+    "lorynj",
+    "mcandre",
+    "wzrd63",
+    "ghost",
+    "erikcharlebois",
+    "PGGB",
+    "otoburb",
+    "jckarter",
+    "fxkr",
+    "eipipuz",
+    "Blei",
+    "eungju",
+    "yac",
+    "abeaumont",
+    "8byte-jose",
+    "mncharity"
+  ],
+  "languages": {
+    "Factor": {
+      "bytes": 14152725,
+      "color": "#636746"
+    },
+    "C++": {
+      "bytes": 452285,
+      "color": "#f34b7d"
+    },
+    "Emacs Lisp": {
+      "bytes": 189495,
+      "color": "#c065db"
+    },
+    "HTML": {
+      "bytes": 62119,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 51614,
+      "color": "#f1e05a"
+    },
+    "Vim script": {
+      "bytes": 49157,
+      "color": "#199f4b"
+    },
+    "C": {
+      "bytes": 24788,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 19871,
+      "color": "#89e051"
+    },
+    "GLSL": {
+      "bytes": 8229,
+      "color": "#ccc"
+    },
+    "CSS": {
+      "bytes": 6136,
+      "color": "#563d7c"
+    },
+    "Game Maker Language": {
+      "bytes": 5795,
+      "color": "#71b417"
+    },
+    "Makefile": {
+      "bytes": 5643,
+      "color": "#427819"
+    },
+    "Cuda": {
+      "bytes": 4139,
+      "color": "#3A4E3A"
+    },
+    "Lua": {
+      "bytes": 4020,
+      "color": "#000080"
+    },
+    "Objective-C++": {
+      "bytes": 2749,
+      "color": "#6866fb"
+    },
+    "Smalltalk": {
+      "bytes": 2426,
+      "color": "#596706"
+    },
+    "Batchfile": {
+      "bytes": 2297,
+      "color": "#C1F12E"
+    },
+    "Visual Basic": {
+      "bytes": 1389,
+      "color": "#945db7"
+    },
+    "Ruby": {
+      "bytes": 1203,
+      "color": "#701516"
+    },
+    "Assembly": {
+      "bytes": 1071,
+      "color": "#6E4C13"
+    },
+    "Rust": {
+      "bytes": 38,
+      "color": "#dea584"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:45.042Z"
+}

@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Freeze",
+  "full_name": "Hemmingsson/Freeze",
+  "owner": "Hemmingsson",
+  "private": false,
+  "html_url": "https://github.com/Hemmingsson/Freeze",
+  "description": "A Curated Cinemagraph Each Time You Open a New Tab",
+  "fork": false,
+  "url": "https://api.github.com/repos/Hemmingsson/Freeze",
+  "languages_url": "https://api.github.com/repos/Hemmingsson/Freeze/languages",
+  "pulls_url": "https://api.github.com/repos/Hemmingsson/Freeze/pulls{/number}",
+  "created_at": "2018-01-17T19:00:14Z",
+  "updated_at": "2018-07-29T17:45:20Z",
+  "pushed_at": "2018-07-17T09:26:58Z",
+  "homepage": "https://chrome.google.com/webstore/detail/kacdbklgelcjnoejpbafhdelhlnkgpnd",
+  "size": 2254,
+  "stargazers_count": 15,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "luizkowalski": 1,
+    "Hemmingsson": 119
+  },
+  "pulls_authors": [
+    "luizkowalski"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 20147,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 14103,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 5410,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T17:10:04.687Z"
+}

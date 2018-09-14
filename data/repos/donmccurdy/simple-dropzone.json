@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "simple-dropzone",
+  "full_name": "donmccurdy/simple-dropzone",
+  "owner": "donmccurdy",
+  "private": false,
+  "html_url": "https://github.com/donmccurdy/simple-dropzone",
+  "description": "A simple multi-file drag-and-drop input using vanilla JavaScript.",
+  "fork": false,
+  "url": "https://api.github.com/repos/donmccurdy/simple-dropzone",
+  "languages_url": "https://api.github.com/repos/donmccurdy/simple-dropzone/languages",
+  "pulls_url": "https://api.github.com/repos/donmccurdy/simple-dropzone/pulls{/number}",
+  "created_at": "2018-02-22T16:01:34Z",
+  "updated_at": "2018-08-24T07:04:03Z",
+  "pushed_at": "2018-04-22T21:00:51Z",
+  "homepage": null,
+  "size": 198,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bwasty": 1,
+    "zellski": 1,
+    "donmccurdy": 8
+  },
+  "pulls_authors": [
+    "bwasty",
+    "zellski"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 22194,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T00:29:53.925Z"
+}

@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "openshift-ubuntu-cartridge",
+  "full_name": "maxired/openshift-ubuntu-cartridge",
+  "owner": "maxired",
+  "private": false,
+  "html_url": "https://github.com/maxired/openshift-ubuntu-cartridge",
+  "description": "A cartridge to run Ubuntu inside a gears (Root available)",
+  "fork": false,
+  "url": "https://api.github.com/repos/maxired/openshift-ubuntu-cartridge",
+  "languages_url": "https://api.github.com/repos/maxired/openshift-ubuntu-cartridge/languages",
+  "pulls_url": "https://api.github.com/repos/maxired/openshift-ubuntu-cartridge/pulls{/number}",
+  "created_at": "2013-10-10T15:02:48Z",
+  "updated_at": "2018-05-18T08:20:38Z",
+  "pushed_at": "2016-10-28T18:01:36Z",
+  "homepage": null,
+  "size": 152,
+  "stargazers_count": 5,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "maxired": 2
+  },
+  "pulls_authors": [
+    "MeD1aToR"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 1723,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:31.771Z"
+}

@@ -1,0 +1,117 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pointfreeco",
+  "full_name": "pointfreeco/pointfreeco",
+  "owner": "pointfreeco",
+  "private": false,
+  "html_url": "https://github.com/pointfreeco/pointfreeco",
+  "description": "🎬 The source for Point-Free, a video series on functional programming and the Swift programming language.",
+  "fork": false,
+  "url": "https://api.github.com/repos/pointfreeco/pointfreeco",
+  "languages_url": "https://api.github.com/repos/pointfreeco/pointfreeco/languages",
+  "pulls_url": "https://api.github.com/repos/pointfreeco/pointfreeco/pulls{/number}",
+  "created_at": "2017-09-09T14:02:08Z",
+  "updated_at": "2018-09-14T06:56:49Z",
+  "pushed_at": "2018-09-13T13:32:36Z",
+  "homepage": "https://www.pointfree.co",
+  "size": 360802,
+  "stargazers_count": 450,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pointfreeco",
+    "id": 29466629,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI5NDY2NjI5",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/29466629?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pointfreeco",
+    "html_url": "https://github.com/pointfreeco",
+    "followers_url": "https://api.github.com/users/pointfreeco/followers",
+    "following_url": "https://api.github.com/users/pointfreeco/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pointfreeco/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pointfreeco/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pointfreeco/subscriptions",
+    "organizations_url": "https://api.github.com/users/pointfreeco/orgs",
+    "repos_url": "https://api.github.com/users/pointfreeco/repos",
+    "events_url": "https://api.github.com/users/pointfreeco/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pointfreeco/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jasonzurita": 1,
+    "eliperkins": 1,
+    "timothybarraclough": 1,
+    "lacyrhoades": 1,
+    "rehatkathuria": 1,
+    "shpakovski": 1,
+    "paulyoung": 1,
+    "Eddpt": 1,
+    "nikita-leonov": 1,
+    "amotion": 1,
+    "stephencelis": 161,
+    "mbrandonw": 265
+  },
+  "pulls_authors": [
+    "mbrandonw",
+    "jasonzurita",
+    "eliperkins",
+    "timothybarraclough",
+    "stephencelis",
+    "lacyrhoades",
+    "rehatkathuria",
+    "shpakovski",
+    "paulyoung",
+    "Eddpt",
+    "nikita-leonov",
+    "amotion"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 1257373,
+      "color": "#ffac45"
+    },
+    "HTML": {
+      "bytes": 743460,
+      "color": "#e34c26"
+    },
+    "Objective-C": {
+      "bytes": 553179,
+      "color": "#438eff"
+    },
+    "JavaScript": {
+      "bytes": 127005,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 41151,
+      "color": "#563d7c"
+    },
+    "C": {
+      "bytes": 40041,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 10008,
+      "color": "#427819"
+    },
+    "Dockerfile": {
+      "bytes": 539,
+      "color": "#0db7ed"
+    },
+    "Shell": {
+      "bytes": 174,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T08:37:48.735Z"
+}

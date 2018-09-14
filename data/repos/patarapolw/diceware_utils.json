@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "diceware_utils",
+  "full_name": "patarapolw/diceware_utils",
+  "owner": "patarapolw",
+  "private": false,
+  "html_url": "https://github.com/patarapolw/diceware_utils",
+  "description": "A collection of tools to make diceware passphrase conform with \"password policy\"",
+  "fork": false,
+  "url": "https://api.github.com/repos/patarapolw/diceware_utils",
+  "languages_url": "https://api.github.com/repos/patarapolw/diceware_utils/languages",
+  "pulls_url": "https://api.github.com/repos/patarapolw/diceware_utils/pulls{/number}",
+  "created_at": "2018-04-14T09:12:28Z",
+  "updated_at": "2018-05-22T09:21:18Z",
+  "pushed_at": "2018-05-22T09:21:16Z",
+  "homepage": "",
+  "size": 1246,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "patarapolw": 26
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 13631,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 2692,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 904,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-17T13:22:20.072Z"
+}

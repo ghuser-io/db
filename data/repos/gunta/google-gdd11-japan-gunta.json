@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "google-gdd11-japan-gunta",
+  "full_name": "gunta/google-gdd11-japan-gunta",
+  "owner": "gunta",
+  "private": false,
+  "html_url": "https://github.com/gunta/google-gdd11-japan-gunta",
+  "description": "A submission for GDD11 japan",
+  "fork": false,
+  "url": "https://api.github.com/repos/gunta/google-gdd11-japan-gunta",
+  "languages_url": "https://api.github.com/repos/gunta/google-gdd11-japan-gunta/languages",
+  "pulls_url": "https://api.github.com/repos/gunta/google-gdd11-japan-gunta/pulls{/number}",
+  "created_at": "2011-08-12T21:13:10Z",
+  "updated_at": "2014-02-09T08:40:20Z",
+  "pushed_at": "2011-08-12T21:44:21Z",
+  "homepage": "Git",
+  "size": 132,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "gunta": 2
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-11T23:06:06.071Z"
+}

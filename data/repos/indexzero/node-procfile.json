@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-procfile",
+  "full_name": "indexzero/node-procfile",
+  "owner": "indexzero",
+  "private": false,
+  "html_url": "https://github.com/indexzero/node-procfile",
+  "description": "Procfile parser for node.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/indexzero/node-procfile",
+  "languages_url": "https://api.github.com/repos/indexzero/node-procfile/languages",
+  "pulls_url": "https://api.github.com/repos/indexzero/node-procfile/pulls{/number}",
+  "created_at": "2011-06-13T08:23:40Z",
+  "updated_at": "2017-12-31T08:54:44Z",
+  "pushed_at": "2012-08-24T18:22:41Z",
+  "homepage": "http://github.com/indexzero/node-procfile",
+  "size": 108,
+  "stargazers_count": 9,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "chrismytton": 2,
+    "indexzero": 7
+  },
+  "pulls_authors": [
+    "chrismytton"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 5319,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:49.159Z"
+}

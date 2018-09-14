@@ -1,0 +1,93 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hdbc-odbc",
+  "full_name": "hdbc/hdbc-odbc",
+  "owner": "hdbc",
+  "private": false,
+  "html_url": "https://github.com/hdbc/hdbc-odbc",
+  "description": "ODBC driver for HDBC",
+  "fork": false,
+  "url": "https://api.github.com/repos/hdbc/hdbc-odbc",
+  "languages_url": "https://api.github.com/repos/hdbc/hdbc-odbc/languages",
+  "pulls_url": "https://api.github.com/repos/hdbc/hdbc-odbc/pulls{/number}",
+  "created_at": "2010-04-22T17:43:17Z",
+  "updated_at": "2018-07-15T03:05:03Z",
+  "pushed_at": "2018-01-17T16:20:09Z",
+  "homepage": "",
+  "size": 772,
+  "stargazers_count": 24,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "hdbc",
+    "id": 1113926,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExMTM5MjY=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1113926?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hdbc",
+    "html_url": "https://github.com/hdbc",
+    "followers_url": "https://api.github.com/users/hdbc/followers",
+    "following_url": "https://api.github.com/users/hdbc/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hdbc/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hdbc/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hdbc/subscriptions",
+    "organizations_url": "https://api.github.com/users/hdbc/orgs",
+    "repos_url": "https://api.github.com/users/hdbc/repos",
+    "events_url": "https://api.github.com/users/hdbc/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hdbc/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Profpatsch": 1,
+    "bringert": 1,
+    "proglang": 1,
+    "khibino": 2,
+    "soenkehahn": 2,
+    "igrep": 3,
+    "vagifverdi": 3,
+    "anton-dessiatov": 18,
+    "zenzike": 75,
+    "jgoerzen": 368
+  },
+  "pulls_authors": [
+    "dzhus",
+    "Profpatsch",
+    "igrep",
+    "spencerjanssen",
+    "anton-dessiatov",
+    "khibino",
+    "vagifverdi",
+    "soenkehahn",
+    "ghost",
+    "zenzike"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 103455,
+      "color": "#5e5086"
+    },
+    "Makefile": {
+      "bytes": 941,
+      "color": "#427819"
+    },
+    "C": {
+      "bytes": 549,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 529,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:45.530Z"
+}

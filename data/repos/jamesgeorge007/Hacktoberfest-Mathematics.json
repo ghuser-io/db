@@ -1,0 +1,210 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Hacktoberfest-Mathematics",
+  "full_name": "jamesgeorge007/Hacktoberfest-Mathematics",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/Hacktoberfest-Mathematics",
+  "description": "Math is fun so let's make some scripts and or programs that use some of your favorite math formulas and functions.",
+  "fork": true,
+  "url": "https://api.github.com/repos/jamesgeorge007/Hacktoberfest-Mathematics",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/Hacktoberfest-Mathematics/languages",
+  "created_at": "2018-03-04T09:18:21Z",
+  "updated_at": "2018-03-04T09:18:37Z",
+  "pushed_at": "2017-10-27T17:32:42Z",
+  "homepage": "http://brettreinhard.com/Hacktoberfest-Mathematics/",
+  "size": 21717,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ng29": 1,
+    "rkpattnaik780": 1,
+    "mojtabatmj": 1,
+    "tanmaydarmorha": 1,
+    "SidDefinition": 1,
+    "shagunuppal": 1,
+    "abdulfatir": 1,
+    "PureHyd": 1,
+    "prakhar897": 1,
+    "schitte": 1,
+    "Priyansh2": 1,
+    "Vasu7052": 1,
+    "arkwrn": 1,
+    "rizkiprof": 1,
+    "BradenGoodwin": 1,
+    "xenocidewiki": 1,
+    "AtoMc": 1,
+    "mukulgoyal793": 1,
+    "arpitgogia": 1,
+    "Divide-By-0": 1,
+    "Crowton": 1,
+    "akshit04": 1,
+    "anoopsingh1996": 1,
+    "AndrewOrr": 2,
+    "KaroliShp": 1,
+    "jndachenhaus": 1,
+    "mtoadvine": 1,
+    "ka1289": 1,
+    "97arushisharma": 2,
+    "monst12": 1,
+    "Kameramann23": 1,
+    "AlexandreInsua": 1,
+    "Double-A-92": 1,
+    "jpvg10": 1,
+    "Garvit244": 3,
+    "vVv-AA": 1,
+    "Thuva4": 1,
+    "naremuradyan": 1,
+    "srshashi": 1,
+    "ybui210": 2,
+    "marcobarbosa16": 1,
+    "EthanTheMaster": 1,
+    "nicolasmanic": 1,
+    "tunnelsnake": 1,
+    "brianhang": 1,
+    "robillo": 1,
+    "jvogit": 1,
+    "Draylar": 1,
+    "tbhaxor": 2,
+    "aurobindodebnath": 2,
+    "hyerra": 2,
+    "LucasVC800": 2,
+    "lewiswatson55": 2,
+    "geekguy": 2,
+    "davgomgar": 2,
+    "TomOrth": 2,
+    "ajthinking": 2,
+    "rjvani": 2,
+    "Lyxnx": 2,
+    "arsanig": 2,
+    "thvardhan": 2,
+    "sshirolkar": 2,
+    "trentandraka": 2,
+    "vladimir-gavrilenko": 2,
+    "stevesweetney": 2,
+    "KristofArron": 2,
+    "FlavioFS": 2,
+    "OhMrSticky": 3,
+    "dalpd": 3,
+    "sarthak268": 3,
+    "Aashishgtbit": 3,
+    "AdityaGupta030697": 3,
+    "RamIyer1998": 3,
+    "prudywsh": 3,
+    "BayMinimum": 3,
+    "mittrayash": 3,
+    "thiagocmoreira": 3,
+    "GGearing314": 3,
+    "DanielArthurUK": 4,
+    "MajorGrits": 3,
+    "ab-anand": 3,
+    "mdew192837": 6,
+    "tfrench93": 4,
+    "karlyttle": 4,
+    "Nina029": 4,
+    "sb1997": 4,
+    "2hands10fingers": 4,
+    "daksh249": 5,
+    "robertoduessmann": 5,
+    "Hiosdra": 7,
+    "endreman0": 5,
+    "Hanbrolo117": 5,
+    "zazulam": 5,
+    "Adroit11": 14,
+    "itsjustmustafa": 6,
+    "faysvas": 6,
+    "vatsalmevada": 7,
+    "jreina": 10,
+    "MinyaRancic": 12,
+    "BaReinhard": 318,
+    "seasonguy": 18,
+    "ajomadlabs": 1
+  },
+  "languages": {
+    "Java": {
+      "bytes": 61258,
+      "color": "#b07219"
+    },
+    "Python": {
+      "bytes": 30953,
+      "color": "#3572A5"
+    },
+    "PHP": {
+      "bytes": 18619,
+      "color": "#4F5D95"
+    },
+    "Mathematica": {
+      "bytes": 14531,
+      "color": "#ccc"
+    },
+    "C": {
+      "bytes": 11449,
+      "color": "#555555"
+    },
+    "JavaScript": {
+      "bytes": 10191,
+      "color": "#f1e05a"
+    },
+    "C++": {
+      "bytes": 9808,
+      "color": "#f34b7d"
+    },
+    "Ruby": {
+      "bytes": 2187,
+      "color": "#701516"
+    },
+    "Objective-C": {
+      "bytes": 2049,
+      "color": "#438eff"
+    },
+    "HTML": {
+      "bytes": 1724,
+      "color": "#e34c26"
+    },
+    "Elixir": {
+      "bytes": 1211,
+      "color": "#6e4a7e"
+    },
+    "C#": {
+      "bytes": 880,
+      "color": "#178600"
+    },
+    "Standard ML": {
+      "bytes": 857,
+      "color": "#dc566d"
+    },
+    "Dart": {
+      "bytes": 765,
+      "color": "#00B4AB"
+    },
+    "Haskell": {
+      "bytes": 232,
+      "color": "#5e5086"
+    },
+    "Lua": {
+      "bytes": 198,
+      "color": "#000080"
+    },
+    "Scala": {
+      "bytes": 70,
+      "color": "#c22d40"
+    },
+    "Kotlin": {
+      "bytes": 29,
+      "color": "#F18E33"
+    }
+  },
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/Hacktoberfest-Mathematics/pulls{/number}",
+  "pulls_authors": []
+}

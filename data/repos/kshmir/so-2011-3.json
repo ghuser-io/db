@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "so-2011-3",
+  "full_name": "kshmir/so-2011-3",
+  "owner": "kshmir",
+  "private": false,
+  "html_url": "https://github.com/kshmir/so-2011-3",
+  "description": "TP 3 SO",
+  "fork": false,
+  "url": "https://api.github.com/repos/kshmir/so-2011-3",
+  "languages_url": "https://api.github.com/repos/kshmir/so-2011-3/languages",
+  "pulls_url": "https://api.github.com/repos/kshmir/so-2011-3/pulls{/number}",
+  "created_at": "2011-11-28T20:43:07Z",
+  "updated_at": "2013-10-20T15:48:10Z",
+  "pushed_at": "2011-11-29T00:56:30Z",
+  "homepage": "",
+  "size": 1456,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "maximovs": 6,
+    "kshmir": 60
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 245336,
+      "color": "#555555"
+    },
+    "Assembly": {
+      "bytes": 20077,
+      "color": "#6E4C13"
+    },
+    "Shell": {
+      "bytes": 56,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T10:37:59.141Z"
+}

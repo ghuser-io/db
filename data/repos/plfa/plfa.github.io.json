@@ -1,0 +1,104 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "plfa.github.io",
+  "full_name": "plfa/plfa.github.io",
+  "owner": "plfa",
+  "private": false,
+  "html_url": "https://github.com/plfa/plfa.github.io",
+  "description": "Introduction to programming language theory in Agda.",
+  "fork": false,
+  "url": "https://api.github.com/repos/plfa/plfa.github.io",
+  "languages_url": "https://api.github.com/repos/plfa/plfa.github.io/languages",
+  "pulls_url": "https://api.github.com/repos/plfa/plfa.github.io/pulls{/number}",
+  "created_at": "2017-03-10T11:41:30Z",
+  "updated_at": "2018-09-13T16:25:19Z",
+  "pushed_at": "2018-09-13T12:22:01Z",
+  "homepage": "https://plfa.github.io",
+  "size": 6052,
+  "stargazers_count": 195,
+  "language": "Agda",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "dev",
+  "organization": {
+    "login": "plfa",
+    "id": 40851723,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQwODUxNzIz",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/40851723?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/plfa",
+    "html_url": "https://github.com/plfa",
+    "followers_url": "https://api.github.com/users/plfa/followers",
+    "following_url": "https://api.github.com/users/plfa/following{/other_user}",
+    "gists_url": "https://api.github.com/users/plfa/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/plfa/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/plfa/subscriptions",
+    "organizations_url": "https://api.github.com/users/plfa/orgs",
+    "repos_url": "https://api.github.com/users/plfa/repos",
+    "events_url": "https://api.github.com/users/plfa/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/plfa/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "spwhitt": 2,
+    "navaati": 1,
+    "phi16": 1,
+    "Teggy": 1,
+    "potato4444": 1,
+    "stepchowfun": 1,
+    "philderbeast": 1,
+    "Cubesoup": 3,
+    "michel-steuwer": 3,
+    "jonaprieto": 4,
+    "Fingerzam": 7,
+    "Kwezan": 17,
+    "wenkokke": 121,
+    "wadler": 575
+  },
+  "pulls_authors": [
+    "spwhitt",
+    "Cubesoup",
+    "mullr",
+    "Kwezan",
+    "navaati",
+    "phi16",
+    "Teggy",
+    "potato4444",
+    "jonaprieto",
+    "jsyeo",
+    "Fingerzam",
+    "michel-steuwer",
+    "koo5",
+    "stepchowfun",
+    "philderbeast"
+  ],
+  "languages": {
+    "Agda": {
+      "bytes": 1537062,
+      "color": "#315665"
+    },
+    "CSS": {
+      "bytes": 25356,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 10083,
+      "color": "#e34c26"
+    },
+    "Ruby": {
+      "bytes": 7166,
+      "color": "#701516"
+    },
+    "Makefile": {
+      "bytes": 2820,
+      "color": "#427819"
+    },
+    "Haskell": {
+      "bytes": 1776,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-13T16:41:20.492Z"
+}

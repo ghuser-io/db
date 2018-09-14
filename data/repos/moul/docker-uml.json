@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docker-uml",
+  "full_name": "moul/docker-uml",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/docker-uml",
+  "description": ":penguin::whale: UML in Docker",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/docker-uml",
+  "languages_url": "https://api.github.com/repos/moul/docker-uml/languages",
+  "pulls_url": "https://api.github.com/repos/moul/docker-uml/pulls{/number}",
+  "created_at": "2015-06-01T20:16:08Z",
+  "updated_at": "2016-05-03T15:41:46Z",
+  "pushed_at": "2015-06-01T20:17:19Z",
+  "homepage": "",
+  "size": 2872,
+  "stargazers_count": 4,
+  "language": "Makefile",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Makefile": {
+      "bytes": 2272,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 1136,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:35.490Z"
+}

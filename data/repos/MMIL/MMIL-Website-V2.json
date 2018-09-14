@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "MMIL-Website-V2",
+  "full_name": "MMIL/MMIL-Website-V2",
+  "owner": "MMIL",
+  "private": false,
+  "html_url": "https://github.com/MMIL/MMIL-Website-V2",
+  "description": "MMIL Official Website 2017",
+  "fork": false,
+  "url": "https://api.github.com/repos/MMIL/MMIL-Website-V2",
+  "languages_url": "https://api.github.com/repos/MMIL/MMIL-Website-V2/languages",
+  "created_at": "2017-06-07T16:45:31Z",
+  "updated_at": "2018-08-11T13:07:00Z",
+  "pushed_at": "2018-08-11T13:06:58Z",
+  "homepage": null,
+  "size": 74350,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "MMIL",
+    "id": 15360665,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1MzYwNjY1",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/15360665?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/MMIL",
+    "html_url": "https://github.com/MMIL",
+    "followers_url": "https://api.github.com/users/MMIL/followers",
+    "following_url": "https://api.github.com/users/MMIL/following{/other_user}",
+    "gists_url": "https://api.github.com/users/MMIL/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/MMIL/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/MMIL/subscriptions",
+    "organizations_url": "https://api.github.com/users/MMIL/orgs",
+    "repos_url": "https://api.github.com/users/MMIL/repos",
+    "events_url": "https://api.github.com/users/MMIL/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/MMIL/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "architkshk": 1,
+    "Eshicagupta3": 2,
+    "anuragsachdeva28": 7,
+    "deepika212": 3,
+    "anantjain6": 6,
+    "HimaniPanwar": 10,
+    "geekayush": 39,
+    "deepti1996": 41,
+    "shreyaskargit": 1
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 123224,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 67728,
+      "color": "#563d7c"
+    },
+    "PHP": {
+      "bytes": 3699,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 484,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-11T14:08:16.487Z",
+  "pulls_url": "https://api.github.com/repos/MMIL/MMIL-Website-V2/pulls{/number}",
+  "pulls_authors": [
+    "anuragsachdeva28",
+    "architkshk",
+    "geekayush",
+    "HimaniPanwar",
+    "shreyaskargit"
+  ]
+}

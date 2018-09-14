@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "phez",
+  "full_name": "ahmetabdi/phez",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/phez",
+  "description": "Phez - the free speech platform",
+  "fork": true,
+  "url": "https://api.github.com/repos/ahmetabdi/phez",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/phez/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/phez/pulls{/number}",
+  "created_at": "2015-07-26T17:41:06Z",
+  "updated_at": "2015-11-03T15:21:01Z",
+  "pushed_at": "2015-07-26T07:41:29Z",
+  "homepage": null,
+  "size": 330,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "voyera": 1,
+    "krekoten": 1,
+    "aspencer8111": 1,
+    "phezco": 78
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 145973,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 75700,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 9999,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 5730,
+      "color": "#563d7c"
+    },
+    "CoffeeScript": {
+      "bytes": 104,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:13.949Z"
+}

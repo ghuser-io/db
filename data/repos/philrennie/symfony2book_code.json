@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "symfony2book_code",
+  "full_name": "philrennie/symfony2book_code",
+  "owner": "philrennie",
+  "private": false,
+  "html_url": "https://github.com/philrennie/symfony2book_code",
+  "description": "Code to accompany my Symfony 2 book",
+  "fork": false,
+  "url": "https://api.github.com/repos/philrennie/symfony2book_code",
+  "languages_url": "https://api.github.com/repos/philrennie/symfony2book_code/languages",
+  "pulls_url": "https://api.github.com/repos/philrennie/symfony2book_code/pulls{/number}",
+  "created_at": "2011-11-19T17:33:30Z",
+  "updated_at": "2014-02-11T11:59:56Z",
+  "pushed_at": "2011-11-19T17:42:18Z",
+  "homepage": "leanpub.com/philrenniesymfony2",
+  "size": 88,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "philrennie": 1
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-11T10:40:31.877Z"
+}

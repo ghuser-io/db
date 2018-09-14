@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fts_remote_console",
+  "full_name": "forrestthewoods/fts_remote_console",
+  "owner": "forrestthewoods",
+  "private": false,
+  "html_url": "https://github.com/forrestthewoods/fts_remote_console",
+  "description": "A cross-platform remote logging console written in C++",
+  "fork": false,
+  "url": "https://api.github.com/repos/forrestthewoods/fts_remote_console",
+  "languages_url": "https://api.github.com/repos/forrestthewoods/fts_remote_console/languages",
+  "pulls_url": "https://api.github.com/repos/forrestthewoods/fts_remote_console/pulls{/number}",
+  "created_at": "2016-12-31T00:42:07Z",
+  "updated_at": "2018-09-13T13:43:07Z",
+  "pushed_at": "2017-03-11T08:10:16Z",
+  "homepage": "",
+  "size": 1833,
+  "stargazers_count": 41,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cotsog": 1,
+    "IlyaFinkelshteyn": 1,
+    "forrestthewoods": 147
+  },
+  "pulls_authors": [
+    "cotsog",
+    "IlyaFinkelshteyn"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 86341,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-13T16:28:25.004Z"
+}

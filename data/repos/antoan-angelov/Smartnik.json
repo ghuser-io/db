@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Smartnik",
+  "full_name": "antoan-angelov/Smartnik",
+  "owner": "antoan-angelov",
+  "private": false,
+  "html_url": "https://github.com/antoan-angelov/Smartnik",
+  "description": "Automated greenhouse.",
+  "fork": false,
+  "url": "https://api.github.com/repos/antoan-angelov/Smartnik",
+  "languages_url": "https://api.github.com/repos/antoan-angelov/Smartnik/languages",
+  "pulls_url": "https://api.github.com/repos/antoan-angelov/Smartnik/pulls{/number}",
+  "created_at": "2016-11-27T13:24:31Z",
+  "updated_at": "2017-10-02T21:02:19Z",
+  "pushed_at": "2017-01-07T14:57:55Z",
+  "homepage": null,
+  "size": 6899,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "preslavsh": 7,
+    "EmilianStankov": 18,
+    "antoan-angelov": 42
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 463511,
+      "color": "#f1e05a"
+    },
+    "Java": {
+      "bytes": 76404,
+      "color": "#b07219"
+    },
+    "Python": {
+      "bytes": 24357,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 11350,
+      "color": "#e34c26"
+    },
+    "Protocol Buffer": {
+      "bytes": 8416,
+      "color": "#ccc"
+    },
+    "CSS": {
+      "bytes": 1971,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:42:48.270Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "firebase_read_and_write",
+  "full_name": "jamesgeorge007/firebase_read_and_write",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/firebase_read_and_write",
+  "description": "An android app which demonstrates data retrieval and writing within firebase.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/firebase_read_and_write",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/firebase_read_and_write/languages",
+  "created_at": "2018-05-19T10:32:50Z",
+  "updated_at": "2018-07-17T16:04:28Z",
+  "pushed_at": "2018-07-17T16:04:26Z",
+  "homepage": null,
+  "size": 127,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jamesgeorge007": 2
+  },
+  "languages": {
+    "Java": {
+      "bytes": 3476,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/firebase_read_and_write/pulls{/number}",
+  "pulls_authors": []
+}

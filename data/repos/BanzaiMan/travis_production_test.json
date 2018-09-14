@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "travis_production_test",
+  "full_name": "BanzaiMan/travis_production_test",
+  "owner": "BanzaiMan",
+  "private": false,
+  "html_url": "https://github.com/BanzaiMan/travis_production_test",
+  "description": "Repo for testing Travis production",
+  "fork": false,
+  "url": "https://api.github.com/repos/BanzaiMan/travis_production_test",
+  "languages_url": "https://api.github.com/repos/BanzaiMan/travis_production_test/languages",
+  "pulls_url": "https://api.github.com/repos/BanzaiMan/travis_production_test/pulls{/number}",
+  "created_at": "2013-12-12T18:30:07Z",
+  "updated_at": "2017-07-21T18:53:00Z",
+  "pushed_at": "2018-09-07T10:03:23Z",
+  "homepage": "http://foobar.com",
+  "size": 1315,
+  "stargazers_count": 4,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "default",
+  "contributors": {
+    "joshk": 3,
+    "BanzaiMan": 3256
+  },
+  "pulls_authors": [
+    "BanzaiMan",
+    "joepvd",
+    "jakirkham",
+    "cotsog",
+    "meatballhat"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 10481,
+      "color": "#89e051"
+    },
+    "PHP": {
+      "bytes": 898,
+      "color": "#4F5D95"
+    },
+    "Ruby": {
+      "bytes": 412,
+      "color": "#701516"
+    },
+    "Python": {
+      "bytes": 282,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 255,
+      "color": "#555555"
+    },
+    "Java": {
+      "bytes": 168,
+      "color": "#b07219"
+    },
+    "C++": {
+      "bytes": 78,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-11T17:08:28.523Z"
+}

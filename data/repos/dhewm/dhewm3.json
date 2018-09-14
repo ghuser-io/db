@@ -1,0 +1,149 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 1,
+    "devnexen": 1,
+    "twolife": 1,
+    "svdijk": 1,
+    "franmagneto": 1,
+    "jmtd": 1,
+    "waldheinz": 1,
+    "dotfloat": 1,
+    "bk138": 1,
+    "hurikhan": 1,
+    "rohit-n": 1,
+    "bibendovsky": 1,
+    "kevindqc": 1,
+    "andre-d": 1,
+    "rcgordon": 1,
+    "Yamagi": 3,
+    "coldtobi": 2,
+    "dhewg": 2,
+    "leffmann": 3,
+    "turol": 4,
+    "scottwakeling": 9,
+    "Kalamatee": 11,
+    "DanielGibson": 81
+  },
+  "name": "dhewm3",
+  "full_name": "dhewm/dhewm3",
+  "owner": "dhewm",
+  "private": false,
+  "html_url": "https://github.com/dhewm/dhewm3",
+  "description": "dhewm 3 main repository",
+  "fork": false,
+  "url": "https://api.github.com/repos/dhewm/dhewm3",
+  "languages_url": "https://api.github.com/repos/dhewm/dhewm3/languages",
+  "created_at": "2012-01-14T17:25:06Z",
+  "updated_at": "2018-09-13T10:41:12Z",
+  "pushed_at": "2018-09-03T02:15:13Z",
+  "homepage": "https://dhewm3.org/",
+  "size": 13570,
+  "stargazers_count": 848,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "dhewm",
+    "id": 1330320,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzMzAzMjA=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/1330320?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/dhewm",
+    "html_url": "https://github.com/dhewm",
+    "followers_url": "https://api.github.com/users/dhewm/followers",
+    "following_url": "https://api.github.com/users/dhewm/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dhewm/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/dhewm/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dhewm/subscriptions",
+    "organizations_url": "https://api.github.com/users/dhewm/orgs",
+    "repos_url": "https://api.github.com/users/dhewm/repos",
+    "events_url": "https://api.github.com/users/dhewm/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/dhewm/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "C++": {
+      "bytes": 19019615,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 409672,
+      "color": "#555555"
+    },
+    "Objective-C": {
+      "bytes": 70352,
+      "color": "#438eff"
+    },
+    "HTML": {
+      "bytes": 42213,
+      "color": "#e34c26"
+    },
+    "CMake": {
+      "bytes": 36598,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 31634,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 15774,
+      "color": "#3572A5"
+    },
+    "Objective-C++": {
+      "bytes": 8083,
+      "color": "#6866fb"
+    },
+    "Roff": {
+      "bytes": 1815,
+      "color": "#ecdebe"
+    },
+    "NSIS": {
+      "bytes": 958,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-13T16:25:42.996Z",
+  "pulls_url": "https://api.github.com/repos/dhewm/dhewm3/pulls{/number}",
+  "pulls_authors": [
+    "coldtobi",
+    "Yamagi",
+    "PROPHESSOR",
+    "Calinou",
+    "Kalamatee",
+    "turol",
+    "devnexen",
+    "BielBdeLuna",
+    "twolife",
+    "cjayho",
+    "leffmann",
+    "svdijk",
+    "jmtd",
+    "franmagneto",
+    "fmwviormv",
+    "Eleuin",
+    "chungy",
+    "waldheinz",
+    "dotfloat",
+    "bk138",
+    "hurikhan",
+    "rohit-n",
+    "bibendovsky",
+    "kevindqc",
+    "meklu",
+    "DanielGibson",
+    "andre-d",
+    "justinvh",
+    "alepulver"
+  ]
+}

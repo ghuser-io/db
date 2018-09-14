@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SwiftCSharp",
+  "full_name": "masters3d/SwiftCSharp",
+  "owner": "masters3d",
+  "private": false,
+  "html_url": "https://github.com/masters3d/SwiftCSharp",
+  "description": "Comparing Swift and C#",
+  "fork": false,
+  "url": "https://api.github.com/repos/masters3d/SwiftCSharp",
+  "languages_url": "https://api.github.com/repos/masters3d/SwiftCSharp/languages",
+  "pulls_url": "https://api.github.com/repos/masters3d/SwiftCSharp/pulls{/number}",
+  "created_at": "2015-03-01T08:07:27Z",
+  "updated_at": "2018-05-03T18:39:49Z",
+  "pushed_at": "2018-05-03T18:39:48Z",
+  "homepage": null,
+  "size": 3867,
+  "stargazers_count": 5,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "aloisdg": 1,
+    "masters3d": 14
+  },
+  "pulls_authors": [
+    "aloisdg"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 22624,
+      "color": "#178600"
+    },
+    "Swift": {
+      "bytes": 17693,
+      "color": "#ffac45"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:20.864Z"
+}

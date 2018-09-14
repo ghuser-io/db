@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Vanish",
+  "full_name": "KittehOrg/Vanish",
+  "owner": "KittehOrg",
+  "private": false,
+  "html_url": "https://github.com/KittehOrg/Vanish",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/KittehOrg/Vanish",
+  "languages_url": "https://api.github.com/repos/KittehOrg/Vanish/languages",
+  "pulls_url": "https://api.github.com/repos/KittehOrg/Vanish/pulls{/number}",
+  "created_at": "2016-01-02T21:44:31Z",
+  "updated_at": "2016-12-28T22:36:21Z",
+  "pushed_at": "2018-01-19T15:48:52Z",
+  "homepage": null,
+  "size": 25,
+  "stargazers_count": 4,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "KittehOrg",
+    "id": 1663469,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2NjM0Njk=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/1663469?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/KittehOrg",
+    "html_url": "https://github.com/KittehOrg",
+    "followers_url": "https://api.github.com/users/KittehOrg/followers",
+    "following_url": "https://api.github.com/users/KittehOrg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/KittehOrg/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/KittehOrg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/KittehOrg/subscriptions",
+    "organizations_url": "https://api.github.com/users/KittehOrg/orgs",
+    "repos_url": "https://api.github.com/users/KittehOrg/repos",
+    "events_url": "https://api.github.com/users/KittehOrg/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/KittehOrg/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "AKPWebDesign": 1,
+    "parlough": 2,
+    "mbax": 22
+  },
+  "pulls_authors": [
+    "ryantheleach",
+    "parlough",
+    "AKPWebDesign"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 11260,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:14.604Z"
+}

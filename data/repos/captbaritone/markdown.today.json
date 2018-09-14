@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "markdown.today",
+  "full_name": "captbaritone/markdown.today",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/markdown.today",
+  "description": "Store your journal as a markdown file on Dropbox and edit/view it from any browser",
+  "fork": false,
+  "url": "https://api.github.com/repos/captbaritone/markdown.today",
+  "languages_url": "https://api.github.com/repos/captbaritone/markdown.today/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/markdown.today/pulls{/number}",
+  "created_at": "2017-01-24T01:18:36Z",
+  "updated_at": "2018-07-29T22:09:49Z",
+  "pushed_at": "2018-06-06T05:13:08Z",
+  "homepage": "https://markdown.today",
+  "size": 554,
+  "stargazers_count": 41,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 189
+  },
+  "pulls_authors": [
+    "captbaritone"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 135765,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 2660,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 922,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 445,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:34.795Z"
+}

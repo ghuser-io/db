@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hem-haml-coffee",
+  "full_name": "vojto/hem-haml-coffee",
+  "owner": "vojto",
+  "private": false,
+  "html_url": "https://github.com/vojto/hem-haml-coffee",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/vojto/hem-haml-coffee",
+  "languages_url": "https://api.github.com/repos/vojto/hem-haml-coffee/languages",
+  "pulls_url": "https://api.github.com/repos/vojto/hem-haml-coffee/pulls{/number}",
+  "created_at": "2012-04-06T07:40:09Z",
+  "updated_at": "2017-01-19T19:35:16Z",
+  "pushed_at": "2012-10-10T18:44:33Z",
+  "homepage": "",
+  "size": 150,
+  "stargazers_count": 8,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "richard-flosi": 1,
+    "paulyoung": 1,
+    "vojto": 7
+  },
+  "pulls_authors": [
+    "richard-flosi",
+    "paulyoung"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1394,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-08T12:41:05.065Z"
+}

@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Cloud-Down",
+  "full_name": "simpleweb/Cloud-Down",
+  "owner": "simpleweb",
+  "private": false,
+  "html_url": "https://github.com/simpleweb/Cloud-Down",
+  "description": "Experiments in Sound Cloud",
+  "fork": false,
+  "url": "https://api.github.com/repos/simpleweb/Cloud-Down",
+  "languages_url": "https://api.github.com/repos/simpleweb/Cloud-Down/languages",
+  "pulls_url": "https://api.github.com/repos/simpleweb/Cloud-Down/pulls{/number}",
+  "created_at": "2010-10-01T12:17:14Z",
+  "updated_at": "2016-08-15T10:15:21Z",
+  "pushed_at": "2010-10-01T13:27:09Z",
+  "homepage": "soundcloud.heroku.com",
+  "size": 16633,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "simpleweb",
+    "id": 255666,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1NTY2Ng==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/255666?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/simpleweb",
+    "html_url": "https://github.com/simpleweb",
+    "followers_url": "https://api.github.com/users/simpleweb/followers",
+    "following_url": "https://api.github.com/users/simpleweb/following{/other_user}",
+    "gists_url": "https://api.github.com/users/simpleweb/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/simpleweb/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/simpleweb/subscriptions",
+    "organizations_url": "https://api.github.com/users/simpleweb/orgs",
+    "repos_url": "https://api.github.com/users/simpleweb/repos",
+    "events_url": "https://api.github.com/users/simpleweb/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/simpleweb/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "redeye": 3,
+    "chrismytton": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 74043,
+      "color": "#f1e05a"
+    },
+    "Ruby": {
+      "bytes": 12580,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:52.103Z"
+}

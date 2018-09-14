@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "latino-sublimetext-plugin",
+  "full_name": "lenguaje-latino/latino-sublimetext-plugin",
+  "owner": "lenguaje-latino",
+  "private": false,
+  "html_url": "https://github.com/lenguaje-latino/latino-sublimetext-plugin",
+  "description": "Plugin para coloreado de sintaxis de Latino en Sublime Text",
+  "fork": false,
+  "url": "https://api.github.com/repos/lenguaje-latino/latino-sublimetext-plugin",
+  "languages_url": "https://api.github.com/repos/lenguaje-latino/latino-sublimetext-plugin/languages",
+  "pulls_url": "https://api.github.com/repos/lenguaje-latino/latino-sublimetext-plugin/pulls{/number}",
+  "created_at": "2016-05-03T13:55:47Z",
+  "updated_at": "2017-07-05T03:33:17Z",
+  "pushed_at": "2017-09-14T21:47:49Z",
+  "homepage": "http://lenguaje-latino.org/",
+  "size": 42,
+  "stargazers_count": 4,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "lenguaje-latino",
+    "id": 19155845,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5MTU1ODQ1",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/19155845?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/lenguaje-latino",
+    "html_url": "https://github.com/lenguaje-latino",
+    "followers_url": "https://api.github.com/users/lenguaje-latino/followers",
+    "following_url": "https://api.github.com/users/lenguaje-latino/following{/other_user}",
+    "gists_url": "https://api.github.com/users/lenguaje-latino/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/lenguaje-latino/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/lenguaje-latino/subscriptions",
+    "organizations_url": "https://api.github.com/users/lenguaje-latino/orgs",
+    "repos_url": "https://api.github.com/users/lenguaje-latino/repos",
+    "events_url": "https://api.github.com/users/lenguaje-latino/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/lenguaje-latino/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "TiagoDanin": 1,
+    "primitivorm": 4
+  },
+  "pulls_authors": [
+    "TiagoDanin",
+    "otgo"
+  ],
+  "languages": {},
+  "fetched_at": "2018-08-12T17:48:20.581Z"
+}

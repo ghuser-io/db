@@ -1,0 +1,133 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nofib",
+  "full_name": "ghc/nofib",
+  "owner": "ghc",
+  "private": false,
+  "html_url": "https://github.com/ghc/nofib",
+  "description": "Mirror of nofib repository. DO NOT SUBMIT PULL REQUESTS HERE",
+  "fork": false,
+  "url": "https://api.github.com/repos/ghc/nofib",
+  "languages_url": "https://api.github.com/repos/ghc/nofib/languages",
+  "pulls_url": "https://api.github.com/repos/ghc/nofib/pulls{/number}",
+  "created_at": "2011-04-03T19:16:42Z",
+  "updated_at": "2018-08-27T14:38:16Z",
+  "pushed_at": "2018-08-27T14:38:15Z",
+  "homepage": "",
+  "size": 25139,
+  "stargazers_count": 10,
+  "language": "Haskell",
+  "mirror_url": "http://git.haskell.org/nofib.git",
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "ghc",
+    "id": 705657,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjcwNTY1Nw==",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/705657?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ghc",
+    "html_url": "https://github.com/ghc",
+    "followers_url": "https://api.github.com/users/ghc/followers",
+    "following_url": "https://api.github.com/users/ghc/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ghc/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ghc/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ghc/subscriptions",
+    "organizations_url": "https://api.github.com/users/ghc/orgs",
+    "repos_url": "https://api.github.com/users/ghc/repos",
+    "events_url": "https://api.github.com/users/ghc/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ghc/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "sgraf812": 1,
+    "duog": 1,
+    "osa1": 1,
+    "Mistuke": 1,
+    "trommler": 1,
+    "Seraphime": 1,
+    "leroux": 1,
+    "monoidal": 1,
+    "benl23x5": 1,
+    "dmpots": 1,
+    "mpickering": 3,
+    "jgoerzen": 3,
+    "thoughtpolice": 4,
+    "AndreasPK": 5,
+    "ggreif": 5,
+    "bgamari": 5,
+    "hvr": 5,
+    "batterseapower": 5,
+    "simonpj": 8,
+    "ezyang": 10,
+    "nomeata": 18,
+    "tibbe": 22,
+    "michalt": 24,
+    "igfoo": 36,
+    "simonmar": 107
+  },
+  "pulls_authors": [
+    "Mistuke"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 4370904,
+      "color": "#5e5086"
+    },
+    "Roff": {
+      "bytes": 1871013,
+      "color": "#ecdebe"
+    },
+    "Fortran": {
+      "bytes": 143564,
+      "color": "#4d41b1"
+    },
+    "C": {
+      "bytes": 99431,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 93320,
+      "color": "#427819"
+    },
+    "TeX": {
+      "bytes": 37557,
+      "color": "#3D6117"
+    },
+    "M": {
+      "bytes": 19646,
+      "color": "#ccc"
+    },
+    "Assembly": {
+      "bytes": 7698,
+      "color": "#6E4C13"
+    },
+    "Matlab": {
+      "bytes": 4054,
+      "color": "#e16737"
+    },
+    "Clean": {
+      "bytes": 3498,
+      "color": "#3F85AF"
+    },
+    "Shell": {
+      "bytes": 1979,
+      "color": "#89e051"
+    },
+    "Mathematica": {
+      "bytes": 1561,
+      "color": "#ccc"
+    },
+    "C++": {
+      "bytes": 1064,
+      "color": "#f34b7d"
+    },
+    "Objective-C": {
+      "bytes": 1056,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:06.560Z"
+}

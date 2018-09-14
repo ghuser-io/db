@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "simple-constraints",
+  "full_name": "simpleweb/simple-constraints",
+  "owner": "simpleweb",
+  "private": false,
+  "html_url": "https://github.com/simpleweb/simple-constraints",
+  "description": "Rails routing constraints",
+  "fork": false,
+  "url": "https://api.github.com/repos/simpleweb/simple-constraints",
+  "languages_url": "https://api.github.com/repos/simpleweb/simple-constraints/languages",
+  "pulls_url": "https://api.github.com/repos/simpleweb/simple-constraints/pulls{/number}",
+  "created_at": "2013-02-01T16:06:15Z",
+  "updated_at": "2014-02-14T10:22:04Z",
+  "pushed_at": "2014-02-14T10:22:03Z",
+  "homepage": "",
+  "size": 259,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "simpleweb",
+    "id": 255666,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1NTY2Ng==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/255666?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/simpleweb",
+    "html_url": "https://github.com/simpleweb",
+    "followers_url": "https://api.github.com/users/simpleweb/followers",
+    "following_url": "https://api.github.com/users/simpleweb/following{/other_user}",
+    "gists_url": "https://api.github.com/users/simpleweb/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/simpleweb/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/simpleweb/subscriptions",
+    "organizations_url": "https://api.github.com/users/simpleweb/orgs",
+    "repos_url": "https://api.github.com/users/simpleweb/repos",
+    "events_url": "https://api.github.com/users/simpleweb/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/simpleweb/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "paulspringett": 9,
+    "chrismytton": 34
+  },
+  "pulls_authors": [
+    "paulspringett"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 19088,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 641,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 546,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:48.470Z"
+}

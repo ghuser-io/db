@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docker-protobuf",
+  "full_name": "znly/docker-protobuf",
+  "owner": "znly",
+  "private": false,
+  "html_url": "https://github.com/znly/docker-protobuf",
+  "description": "All inclusive Protocol Buffer and gRPC suite, powered by Docker and Alpine",
+  "fork": false,
+  "url": "https://api.github.com/repos/znly/docker-protobuf",
+  "languages_url": "https://api.github.com/repos/znly/docker-protobuf/languages",
+  "pulls_url": "https://api.github.com/repos/znly/docker-protobuf/pulls{/number}",
+  "created_at": "2016-07-08T01:37:05Z",
+  "updated_at": "2018-09-07T07:59:17Z",
+  "pushed_at": "2018-08-23T00:33:06Z",
+  "homepage": "https://hub.docker.com/r/znly/protoc/",
+  "size": 573,
+  "stargazers_count": 130,
+  "language": "Dockerfile",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "znly",
+    "id": 1242263,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyNDIyNjM=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/1242263?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/znly",
+    "html_url": "https://github.com/znly",
+    "followers_url": "https://api.github.com/users/znly/followers",
+    "following_url": "https://api.github.com/users/znly/following{/other_user}",
+    "gists_url": "https://api.github.com/users/znly/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/znly/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/znly/subscriptions",
+    "organizations_url": "https://api.github.com/users/znly/orgs",
+    "repos_url": "https://api.github.com/users/znly/repos",
+    "events_url": "https://api.github.com/users/znly/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/znly/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "bennyscetbun": 1,
+    "csommelet": 1,
+    "cerisier": 1,
+    "keinohguchi": 2,
+    "moul": 5,
+    "QuentinPerez": 11,
+    "steeve": 32
+  },
+  "pulls_authors": [
+    "fenollp",
+    "filipovi",
+    "moul",
+    "keinohguchi",
+    "QuentinPerez",
+    "cocorambo",
+    "bennyscetbun",
+    "csommelet",
+    "jfyne",
+    "nbareil",
+    "rvolosatovs",
+    "jhayotte"
+  ],
+  "languages": {
+    "Dockerfile": {
+      "bytes": 8361,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-07T11:24:59.038Z"
+}

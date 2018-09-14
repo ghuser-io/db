@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SublimeGotoUsage",
+  "full_name": "syko/SublimeGotoUsage",
+  "owner": "syko",
+  "private": false,
+  "html_url": "https://github.com/syko/SublimeGotoUsage",
+  "description": "Opposite of Goto Definition - easily find where an exported class/function/variable is used",
+  "fork": false,
+  "url": "https://api.github.com/repos/syko/SublimeGotoUsage",
+  "languages_url": "https://api.github.com/repos/syko/SublimeGotoUsage/languages",
+  "pulls_url": "https://api.github.com/repos/syko/SublimeGotoUsage/pulls{/number}",
+  "created_at": "2016-05-15T20:45:24Z",
+  "updated_at": "2018-01-14T20:27:19Z",
+  "pushed_at": "2017-05-13T10:03:47Z",
+  "homepage": null,
+  "size": 28,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "syko": 38
+  },
+  "pulls_authors": [
+    "amitness"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 34121,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:33.818Z"
+}

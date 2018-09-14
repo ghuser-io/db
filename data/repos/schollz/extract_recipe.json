@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "extract_recipe",
+  "full_name": "schollz/extract_recipe",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/extract_recipe",
+  "description": "Extract recipes from websites, calculates cooking times, collects nutrition info from USDA database",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/extract_recipe",
+  "languages_url": "https://api.github.com/repos/schollz/extract_recipe/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/extract_recipe/pulls{/number}",
+  "created_at": "2015-01-20T21:47:14Z",
+  "updated_at": "2018-08-29T03:59:14Z",
+  "pushed_at": "2015-04-04T13:40:16Z",
+  "homepage": "",
+  "size": 118258,
+  "stargazers_count": 12,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "tscholl2": 1,
+    "schollz": 146
+  },
+  "pulls_authors": [
+    "tscholl2"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 151504,
+      "color": "#3572A5"
+    },
+    "Go": {
+      "bytes": 1801,
+      "color": "#375eab"
+    },
+    "HTML": {
+      "bytes": 1571,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 878,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 401,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:51.030Z"
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Leaflet.BorderPan",
+  "full_name": "slara/Leaflet.BorderPan",
+  "owner": "slara",
+  "private": false,
+  "html_url": "https://github.com/slara/Leaflet.BorderPan",
+  "description": "A Leaflet plugin to pan by clicking on map borders.",
+  "fork": false,
+  "url": "https://api.github.com/repos/slara/Leaflet.BorderPan",
+  "languages_url": "https://api.github.com/repos/slara/Leaflet.BorderPan/languages",
+  "pulls_url": "https://api.github.com/repos/slara/Leaflet.BorderPan/pulls{/number}",
+  "created_at": "2013-07-01T03:28:13Z",
+  "updated_at": "2016-09-13T12:38:03Z",
+  "pushed_at": "2016-09-27T10:06:57Z",
+  "homepage": "",
+  "size": 65,
+  "stargazers_count": 9,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "themendo": 2,
+    "slara": 5
+  },
+  "pulls_authors": [
+    "pierrebonbon",
+    "themendo"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1694,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T16:51:04.682Z"
+}

@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gitignore-org",
+  "full_name": "gitignore-org/gitignore-org",
+  "owner": "gitignore-org",
+  "private": false,
+  "html_url": "https://github.com/gitignore-org/gitignore-org",
+  "description": " A collection of useful .gitignore templates",
+  "fork": false,
+  "url": "https://api.github.com/repos/gitignore-org/gitignore-org",
+  "languages_url": "https://api.github.com/repos/gitignore-org/gitignore-org/languages",
+  "pulls_url": "https://api.github.com/repos/gitignore-org/gitignore-org/pulls{/number}",
+  "created_at": "2018-08-20T12:49:45Z",
+  "updated_at": "2018-08-30T03:59:29Z",
+  "pushed_at": "2018-08-30T03:59:28Z",
+  "homepage": "https://gitignore.org",
+  "size": 2487,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "gitignore-org",
+    "id": 39369460,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM5MzY5NDYw",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/39369460?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/gitignore-org",
+    "html_url": "https://github.com/gitignore-org",
+    "followers_url": "https://api.github.com/users/gitignore-org/followers",
+    "following_url": "https://api.github.com/users/gitignore-org/following{/other_user}",
+    "gists_url": "https://api.github.com/users/gitignore-org/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/gitignore-org/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/gitignore-org/subscriptions",
+    "organizations_url": "https://api.github.com/users/gitignore-org/orgs",
+    "repos_url": "https://api.github.com/users/gitignore-org/repos",
+    "events_url": "https://api.github.com/users/gitignore-org/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/gitignore-org/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "TiagoDanin": 4,
+    "amorist": 16,
+    "greenkeeper[bot]": 1
+  },
+  "pulls_authors": [
+    "TiagoDanin",
+    "greenkeeper[bot]"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2258,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-30T09:31:37.104Z"
+}

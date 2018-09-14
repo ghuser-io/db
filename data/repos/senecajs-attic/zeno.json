@@ -1,0 +1,76 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "zeno",
+  "full_name": "senecajs-attic/zeno",
+  "owner": "senecajs-attic",
+  "private": false,
+  "html_url": "https://github.com/senecajs-attic/zeno",
+  "description": "Core seneca implementation.",
+  "fork": false,
+  "url": "https://api.github.com/repos/senecajs-attic/zeno",
+  "languages_url": "https://api.github.com/repos/senecajs-attic/zeno/languages",
+  "pulls_url": "https://api.github.com/repos/senecajs-attic/zeno/pulls{/number}",
+  "created_at": "2015-07-13T20:09:08Z",
+  "updated_at": "2016-11-02T06:46:30Z",
+  "pushed_at": "2015-10-07T13:32:39Z",
+  "homepage": null,
+  "size": 538,
+  "stargazers_count": 11,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "senecajs-attic",
+    "id": 18685160,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4Njg1MTYw",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/18685160?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/senecajs-attic",
+    "html_url": "https://github.com/senecajs-attic",
+    "followers_url": "https://api.github.com/users/senecajs-attic/followers",
+    "following_url": "https://api.github.com/users/senecajs-attic/following{/other_user}",
+    "gists_url": "https://api.github.com/users/senecajs-attic/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/senecajs-attic/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/senecajs-attic/subscriptions",
+    "organizations_url": "https://api.github.com/users/senecajs-attic/orgs",
+    "repos_url": "https://api.github.com/users/senecajs-attic/repos",
+    "events_url": "https://api.github.com/users/senecajs-attic/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/senecajs-attic/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mcdonnelldean": 1,
+    "rjrodger": 16
+  },
+  "pulls_authors": [
+    "mcdonnelldean"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1143927,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 50265,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 6537,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 308,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:33.296Z"
+}

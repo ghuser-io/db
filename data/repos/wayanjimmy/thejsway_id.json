@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "thejsway_id",
+  "full_name": "wayanjimmy/thejsway_id",
+  "owner": "wayanjimmy",
+  "private": false,
+  "html_url": "https://github.com/wayanjimmy/thejsway_id",
+  "description": "Buku JavaScript Way",
+  "fork": true,
+  "url": "https://api.github.com/repos/wayanjimmy/thejsway_id",
+  "languages_url": "https://api.github.com/repos/wayanjimmy/thejsway_id/languages",
+  "pulls_url": "https://api.github.com/repos/wayanjimmy/thejsway_id/pulls{/number}",
+  "created_at": "2018-07-24T11:18:23Z",
+  "updated_at": "2018-08-21T06:08:58Z",
+  "pushed_at": "2018-08-21T06:08:56Z",
+  "homepage": null,
+  "size": 986,
+  "stargazers_count": 5,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "balinux": 1,
+    "bpesquet": 3,
+    "satyakresna": 4,
+    "wayanjimmy": 23
+  },
+  "pulls_authors": [
+    "satyakresna",
+    "balinux"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-12T07:44:33.345Z"
+}

@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "LoLNotes",
+  "full_name": "ahmetabdi/LoLNotes",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/LoLNotes",
+  "description": null,
+  "fork": true,
+  "url": "https://api.github.com/repos/ahmetabdi/LoLNotes",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/LoLNotes/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/LoLNotes/pulls{/number}",
+  "created_at": "2012-11-10T16:27:17Z",
+  "updated_at": "2015-11-03T15:22:00Z",
+  "pushed_at": "2012-10-18T03:40:25Z",
+  "homepage": "",
+  "size": 15868,
+  "stargazers_count": 1,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "bladecoding": 17
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T15:31:10.377Z"
+}

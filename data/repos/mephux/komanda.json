@@ -1,0 +1,103 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "komanda",
+  "full_name": "mephux/komanda",
+  "owner": "mephux",
+  "private": false,
+  "html_url": "https://github.com/mephux/komanda",
+  "description": "The IRC Client For Developers",
+  "fork": false,
+  "url": "https://api.github.com/repos/mephux/komanda",
+  "languages_url": "https://api.github.com/repos/mephux/komanda/languages",
+  "pulls_url": "https://api.github.com/repos/mephux/komanda/pulls{/number}",
+  "created_at": "2014-06-08T04:23:33Z",
+  "updated_at": "2018-08-31T12:26:14Z",
+  "pushed_at": "2015-08-02T15:22:12Z",
+  "homepage": "http://komanda.io",
+  "size": 75670,
+  "stargazers_count": 1837,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ScruffyRules": 1,
+    "Alex-D": 1,
+    "houqp": 1,
+    "ishmayeck": 1,
+    "dufferzafar": 1,
+    "landonwilkins": 1,
+    "brandonhamilton": 2,
+    "h0lyalg0rithm": 2,
+    "RealKindOne": 2,
+    "stchris": 2,
+    "Constellation": 4,
+    "rahatarmanahmed": 4,
+    "diaswrd": 7,
+    "AlexKvazos": 8,
+    "0xazure": 9,
+    "andrew2060": 11,
+    "cvespa": 12,
+    "xqwzts": 14,
+    "tyscorp": 35,
+    "mephux": 158
+  },
+  "pulls_authors": [
+    "Alex-D",
+    "andrew2060",
+    "ScruffyRules",
+    "diaswrd",
+    "brandonhamilton",
+    "krainboltgreene",
+    "0xazure",
+    "h0lyalg0rithm",
+    "ahmadsoe",
+    "houqp",
+    "Constellation",
+    "eugene-bulkin",
+    "rahatarmanahmed",
+    "AlexKvazos",
+    "xqwzts",
+    "ghost",
+    "tyscorp",
+    "cvespa",
+    "ishmayeck",
+    "InusualZ",
+    "stchris",
+    "lord2800",
+    "dufferzafar",
+    "sdotz",
+    "landonwilkins",
+    "robertg"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1517293,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 215106,
+      "color": "#563d7c"
+    },
+    "Handlebars": {
+      "bytes": 32836,
+      "color": "#ccc"
+    },
+    "HTML": {
+      "bytes": 4245,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 124,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-03T12:57:05.806Z"
+}

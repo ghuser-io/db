@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "minuit-controller",
+  "full_name": "iscore-metabots/minuit-controller",
+  "owner": "iscore-metabots",
+  "private": false,
+  "html_url": "https://github.com/iscore-metabots/minuit-controller",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/iscore-metabots/minuit-controller",
+  "languages_url": "https://api.github.com/repos/iscore-metabots/minuit-controller/languages",
+  "pulls_url": "https://api.github.com/repos/iscore-metabots/minuit-controller/pulls{/number}",
+  "created_at": "2015-05-28T07:33:44Z",
+  "updated_at": "2016-08-03T06:29:44Z",
+  "pushed_at": "2016-01-23T11:36:02Z",
+  "homepage": null,
+  "size": 50,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "iscore-metabots",
+    "id": 16340389,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2MzQwMzg5",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/16340389?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/iscore-metabots",
+    "html_url": "https://github.com/iscore-metabots",
+    "followers_url": "https://api.github.com/users/iscore-metabots/followers",
+    "following_url": "https://api.github.com/users/iscore-metabots/following{/other_user}",
+    "gists_url": "https://api.github.com/users/iscore-metabots/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/iscore-metabots/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/iscore-metabots/subscriptions",
+    "organizations_url": "https://api.github.com/users/iscore-metabots/orgs",
+    "repos_url": "https://api.github.com/users/iscore-metabots/repos",
+    "events_url": "https://api.github.com/users/iscore-metabots/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/iscore-metabots/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jcelerier": 6,
+    "etcheverry": 20
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 36653,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 898,
+      "color": "#427819"
+    },
+    "CMake": {
+      "bytes": 570,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:56.046Z"
+}

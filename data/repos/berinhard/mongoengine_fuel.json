@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mongoengine_fuel",
+  "full_name": "berinhard/mongoengine_fuel",
+  "owner": "berinhard",
+  "private": false,
+  "html_url": "https://github.com/berinhard/mongoengine_fuel",
+  "description": "A factory for mongoengine documents",
+  "fork": false,
+  "url": "https://api.github.com/repos/berinhard/mongoengine_fuel",
+  "languages_url": "https://api.github.com/repos/berinhard/mongoengine_fuel/languages",
+  "pulls_url": "https://api.github.com/repos/berinhard/mongoengine_fuel/pulls{/number}",
+  "created_at": "2011-05-29T21:09:34Z",
+  "updated_at": "2017-12-28T21:17:00Z",
+  "pushed_at": "2016-03-08T15:17:30Z",
+  "homepage": "",
+  "size": 63,
+  "stargazers_count": 25,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "toyg": 2
+  },
+  "pulls_authors": [
+    "toyg"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 92646,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 252,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:03.617Z"
+}

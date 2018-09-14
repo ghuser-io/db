@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vim-rubybeautifier",
+  "full_name": "subbarao/vim-rubybeautifier",
+  "owner": "subbarao",
+  "private": false,
+  "html_url": "https://github.com/subbarao/vim-rubybeautifier",
+  "description": "rubybeautifier",
+  "fork": false,
+  "url": "https://api.github.com/repos/subbarao/vim-rubybeautifier",
+  "languages_url": "https://api.github.com/repos/subbarao/vim-rubybeautifier/languages",
+  "pulls_url": "https://api.github.com/repos/subbarao/vim-rubybeautifier/pulls{/number}",
+  "created_at": "2010-08-01T19:53:42Z",
+  "updated_at": "2018-04-11T04:51:11Z",
+  "pushed_at": "2010-08-01T20:08:24Z",
+  "homepage": "",
+  "size": 154,
+  "stargazers_count": 3,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "subbarao": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 3146,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T10:41:36.180Z"
+}

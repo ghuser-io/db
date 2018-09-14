@@ -1,0 +1,82 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "purescript-test-unit",
+  "full_name": "bodil/purescript-test-unit",
+  "owner": "bodil",
+  "private": false,
+  "html_url": "https://github.com/bodil/purescript-test-unit",
+  "description": "An asynchronous unit test runner for PureScript",
+  "fork": false,
+  "url": "https://api.github.com/repos/bodil/purescript-test-unit",
+  "languages_url": "https://api.github.com/repos/bodil/purescript-test-unit/languages",
+  "pulls_url": "https://api.github.com/repos/bodil/purescript-test-unit/pulls{/number}",
+  "created_at": "2014-11-16T22:00:19Z",
+  "updated_at": "2018-09-08T15:57:26Z",
+  "pushed_at": "2018-05-28T14:10:00Z",
+  "homepage": "",
+  "size": 100,
+  "stargazers_count": 61,
+  "language": "PureScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx_id": "LGPL-3.0",
+    "url": "https://api.github.com/licenses/lgpl-3.0",
+    "node_id": "MDc6TGljZW5zZTEy"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "madnight": 1,
+    "natefaubion": 1,
+    "aove215": 1,
+    "paulyoung": 1,
+    "tfausak": 1,
+    "FrigoEU": 1,
+    "romansergey": 1,
+    "artemyarulin": 1,
+    "garyb": 1,
+    "passy": 1,
+    "jonsterling": 1,
+    "nwolverson": 1,
+    "epost": 1,
+    "MichaelXavier": 1,
+    "justinwoo": 2,
+    "ttbodil": 8,
+    "bodil": 48
+  },
+  "pulls_authors": [
+    "justinwoo",
+    "esad",
+    "madnight",
+    "natefaubion",
+    "coot",
+    "Risto-Stevcev",
+    "aove215",
+    "paulyoung",
+    "dgendill",
+    "tfausak",
+    "FrigoEU",
+    "romansergey",
+    "artemyarulin",
+    "garyb",
+    "passy",
+    "jonsterling",
+    "nwolverson",
+    "chexxor",
+    "epost",
+    "MichaelXavier"
+  ],
+  "languages": {
+    "PureScript": {
+      "bytes": 24408,
+      "color": "#1D222D"
+    },
+    "JavaScript": {
+      "bytes": 2034,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-09T03:12:01.623Z"
+}

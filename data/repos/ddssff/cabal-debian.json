@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cabal-debian",
+  "full_name": "ddssff/cabal-debian",
+  "owner": "ddssff",
+  "private": false,
+  "html_url": "https://github.com/ddssff/cabal-debian",
+  "description": "Create a Debianization by examining a .cabal file.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ddssff/cabal-debian",
+  "languages_url": "https://api.github.com/repos/ddssff/cabal-debian/languages",
+  "pulls_url": "https://api.github.com/repos/ddssff/cabal-debian/pulls{/number}",
+  "created_at": "2014-08-29T20:04:44Z",
+  "updated_at": "2018-07-06T15:54:06Z",
+  "pushed_at": "2018-07-06T15:54:04Z",
+  "homepage": "",
+  "size": 1533,
+  "stargazers_count": 12,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "khibino": 1,
+    "neongreen": 1,
+    "iliastsi": 3,
+    "creichert": 3,
+    "nomeata": 27,
+    "iu-guest": 30,
+    "ddssff": 367
+  },
+  "pulls_authors": [
+    "iliastsi",
+    "clinty",
+    "khibino",
+    "neongreen",
+    "nomeata",
+    "ddssff",
+    "creichert"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 495600,
+      "color": "#5e5086"
+    },
+    "Shell": {
+      "bytes": 8581,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 6062,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:11.405Z"
+}

@@ -1,0 +1,32 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bash_scripts",
+  "full_name": "michiwend/bash_scripts",
+  "owner": "michiwend",
+  "private": false,
+  "html_url": "https://github.com/michiwend/bash_scripts",
+  "description": "some useful bash scripts",
+  "fork": false,
+  "url": "https://api.github.com/repos/michiwend/bash_scripts",
+  "languages_url": "https://api.github.com/repos/michiwend/bash_scripts/languages",
+  "pulls_url": "https://api.github.com/repos/michiwend/bash_scripts/pulls{/number}",
+  "created_at": "2013-10-23T08:32:14Z",
+  "updated_at": "2014-07-16T12:44:44Z",
+  "pushed_at": "2013-10-23T14:06:28Z",
+  "homepage": null,
+  "size": 116,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "michiwend": 5
+  },
+  "pulls_authors": [
+    "Profpatsch"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-08T00:07:49.945Z"
+}

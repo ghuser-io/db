@@ -1,0 +1,103 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "JSIL",
+  "full_name": "turbo/JSIL",
+  "owner": "turbo",
+  "private": false,
+  "html_url": "https://github.com/turbo/JSIL",
+  "description": "CIL to Javascript Compiler",
+  "fork": true,
+  "url": "https://api.github.com/repos/turbo/JSIL",
+  "languages_url": "https://api.github.com/repos/turbo/JSIL/languages",
+  "pulls_url": "https://api.github.com/repos/turbo/JSIL/pulls{/number}",
+  "created_at": "2016-05-14T21:56:39Z",
+  "updated_at": "2016-11-05T10:40:03Z",
+  "pushed_at": "2016-05-13T02:15:05Z",
+  "homepage": "http://jsil.org/",
+  "size": 122764,
+  "stargazers_count": 1,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "callanh": 1,
+    "elw00d": 1,
+    "Mike-EEE": 1,
+    "esardaya": 1,
+    "hach-que": 1,
+    "danielcrenna": 1,
+    "euphoria": 1,
+    "Rohansi": 3,
+    "desunit": 3,
+    "nanexcool": 4,
+    "ZimM-LostPolygon": 4,
+    "BrainSlugs83": 4,
+    "robashton": 4,
+    "mwh": 5,
+    "matthid": 9,
+    "dlbd": 11,
+    "matra774": 13,
+    "dmirmilshteyn": 18,
+    "xen2": 25,
+    "mispy": 56,
+    "markusjohnsson": 58,
+    "iskiselev": 406,
+    "kg": 3010
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 3011758,
+      "color": "#178600"
+    },
+    "JavaScript": {
+      "bytes": 1891568,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 60654,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 21575,
+      "color": "#563d7c"
+    },
+    "C++": {
+      "bytes": 4583,
+      "color": "#f34b7d"
+    },
+    "Batchfile": {
+      "bytes": 3254,
+      "color": "#C1F12E"
+    },
+    "F#": {
+      "bytes": 2354,
+      "color": "#b845fc"
+    },
+    "Shell": {
+      "bytes": 1780,
+      "color": "#89e051"
+    },
+    "Groff": {
+      "bytes": 1546,
+      "color": "#ccc"
+    },
+    "Visual Basic": {
+      "bytes": 1386,
+      "color": "#945db7"
+    },
+    "ASP": {
+      "bytes": 554,
+      "color": "#6a40fd"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:11.475Z"
+}

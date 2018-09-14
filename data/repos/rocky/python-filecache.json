@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "python-filecache",
+  "full_name": "rocky/python-filecache",
+  "owner": "rocky",
+  "private": false,
+  "html_url": "https://github.com/rocky/python-filecache",
+  "description": "module for Python module for reading and caching lines. This may be useful for example in a debugger where the same lines are shown many times.",
+  "fork": false,
+  "url": "https://api.github.com/repos/rocky/python-filecache",
+  "languages_url": "https://api.github.com/repos/rocky/python-filecache/languages",
+  "pulls_url": "https://api.github.com/repos/rocky/python-filecache/pulls{/number}",
+  "created_at": "2015-01-25T00:00:42Z",
+  "updated_at": "2018-06-27T02:39:25Z",
+  "pushed_at": "2018-06-27T02:40:40Z",
+  "homepage": null,
+  "size": 168,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "movermeyer": 1,
+    "x746e": 1,
+    "jayvdb": 2,
+    "rocky": 76
+  },
+  "pulls_authors": [
+    "movermeyer",
+    "x746e",
+    "jayvdb"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 47356,
+      "color": "#3572A5"
+    },
+    "PowerShell": {
+      "bytes": 7195,
+      "color": "#012456"
+    },
+    "Shell": {
+      "bytes": 3933,
+      "color": "#89e051"
+    },
+    "Batchfile": {
+      "bytes": 3365,
+      "color": "#C1F12E"
+    },
+    "Makefile": {
+      "bytes": 1656,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

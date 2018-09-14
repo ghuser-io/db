@@ -1,0 +1,114 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hackathon",
+  "full_name": "react-europe/hackathon",
+  "owner": "react-europe",
+  "private": false,
+  "html_url": "https://github.com/react-europe/hackathon",
+  "description": "The ReactEurope hackathon.",
+  "fork": false,
+  "url": "https://api.github.com/repos/react-europe/hackathon",
+  "languages_url": "https://api.github.com/repos/react-europe/hackathon/languages",
+  "pulls_url": "https://api.github.com/repos/react-europe/hackathon/pulls{/number}",
+  "created_at": "2015-04-27T23:30:19Z",
+  "updated_at": "2018-05-12T21:31:07Z",
+  "pushed_at": "2015-07-02T13:30:05Z",
+  "homepage": null,
+  "size": 16570,
+  "stargazers_count": 26,
+  "language": "Objective-C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "react-europe",
+    "id": 10244342,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwMjQ0MzQy",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/10244342?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/react-europe",
+    "html_url": "https://github.com/react-europe",
+    "followers_url": "https://api.github.com/users/react-europe/followers",
+    "following_url": "https://api.github.com/users/react-europe/following{/other_user}",
+    "gists_url": "https://api.github.com/users/react-europe/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/react-europe/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/react-europe/subscriptions",
+    "organizations_url": "https://api.github.com/users/react-europe/orgs",
+    "repos_url": "https://api.github.com/users/react-europe/repos",
+    "events_url": "https://api.github.com/users/react-europe/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/react-europe/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "robgietema": 2,
+    "fdecampredon": 5,
+    "patcito": 5
+  },
+  "pulls_authors": [
+    "rakannimer",
+    "oliverlaz",
+    "webkreation",
+    "robgietema",
+    "cheeaun",
+    "jlebensold",
+    "bogdan-dumitru",
+    "fdecampredon",
+    "chibicode",
+    "alexkirsz",
+    "eldh",
+    "blax",
+    "ericat",
+    "sprzybylski",
+    "rudin",
+    "mtempels",
+    "zenlambda",
+    "niklasvh"
+  ],
+  "languages": {
+    "Objective-C": {
+      "bytes": 252151,
+      "color": "#438eff"
+    },
+    "JavaScript": {
+      "bytes": 53482,
+      "color": "#f1e05a"
+    },
+    "Java": {
+      "bytes": 12287,
+      "color": "#b07219"
+    },
+    "C#": {
+      "bytes": 5005,
+      "color": "#178600"
+    },
+    "Shell": {
+      "bytes": 4592,
+      "color": "#89e051"
+    },
+    "C": {
+      "bytes": 3985,
+      "color": "#555555"
+    },
+    "Batchfile": {
+      "bytes": 3009,
+      "color": "#C1F12E"
+    },
+    "HTML": {
+      "bytes": 2746,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 2418,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:59.174Z"
+}

@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "znjs-web-bundle",
+  "full_name": "ZeroNetJS/znjs-web-bundle",
+  "owner": "ZeroNetJS",
+  "private": false,
+  "html_url": "https://github.com/ZeroNetJS/znjs-web-bundle",
+  "description": "ZeroNetJS for web-browsers",
+  "fork": false,
+  "url": "https://api.github.com/repos/ZeroNetJS/znjs-web-bundle",
+  "languages_url": "https://api.github.com/repos/ZeroNetJS/znjs-web-bundle/languages",
+  "pulls_url": "https://api.github.com/repos/ZeroNetJS/znjs-web-bundle/pulls{/number}",
+  "created_at": "2017-08-12T16:02:49Z",
+  "updated_at": "2018-01-28T11:20:21Z",
+  "pushed_at": "2018-02-28T15:00:41Z",
+  "homepage": null,
+  "size": 7387,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "ZeroNetJS",
+    "id": 30019016,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMwMDE5MDE2",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/30019016?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ZeroNetJS",
+    "html_url": "https://github.com/ZeroNetJS",
+    "followers_url": "https://api.github.com/users/ZeroNetJS/followers",
+    "following_url": "https://api.github.com/users/ZeroNetJS/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ZeroNetJS/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ZeroNetJS/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ZeroNetJS/subscriptions",
+    "organizations_url": "https://api.github.com/users/ZeroNetJS/orgs",
+    "repos_url": "https://api.github.com/users/ZeroNetJS/repos",
+    "events_url": "https://api.github.com/users/ZeroNetJS/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ZeroNetJS/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "kustomzone": 1,
+    "mkg20001": 41
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 4397,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1397,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 212,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:26.328Z"
+}

@@ -1,0 +1,141 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "The-Kember-Identity",
+  "full_name": "elliottkember/The-Kember-Identity",
+  "owner": "elliottkember",
+  "private": false,
+  "html_url": "https://github.com/elliottkember/The-Kember-Identity",
+  "description": "The search for an MD5 hash which returns itself when hashed.",
+  "fork": false,
+  "url": "https://api.github.com/repos/elliottkember/The-Kember-Identity",
+  "languages_url": "https://api.github.com/repos/elliottkember/The-Kember-Identity/languages",
+  "pulls_url": "https://api.github.com/repos/elliottkember/The-Kember-Identity/pulls{/number}",
+  "created_at": "2009-05-06T14:58:38Z",
+  "updated_at": "2018-05-25T06:31:08Z",
+  "pushed_at": "2013-12-31T11:37:02Z",
+  "homepage": "http://www.elliottkember.com/kember_identity.html",
+  "size": 501,
+  "stargazers_count": 38,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "RobKellett": 1,
+    "ashawley": 1,
+    "jettero": 1,
+    "elliottkember": 2,
+    "jcoglan": 2,
+    "vladev": 2,
+    "wups": 2,
+    "audreyt": 4,
+    "cheeaun": 4,
+    "petdance": 10
+  },
+  "pulls_authors": [
+    "Pitel",
+    "RobKellett",
+    "ashawley",
+    "audreyt"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 31788,
+      "color": "#f1e05a"
+    },
+    "C++": {
+      "bytes": 26527,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 16599,
+      "color": "#555555"
+    },
+    "ActionScript": {
+      "bytes": 15775,
+      "color": "#882B0F"
+    },
+    "Java": {
+      "bytes": 14910,
+      "color": "#b07219"
+    },
+    "Visual Basic": {
+      "bytes": 12272,
+      "color": "#945db7"
+    },
+    "Ruby": {
+      "bytes": 7415,
+      "color": "#701516"
+    },
+    "C#": {
+      "bytes": 6410,
+      "color": "#178600"
+    },
+    "Perl": {
+      "bytes": 5917,
+      "color": "#0298c3"
+    },
+    "PHP": {
+      "bytes": 4089,
+      "color": "#4F5D95"
+    },
+    "Emacs Lisp": {
+      "bytes": 4055,
+      "color": "#c065db"
+    },
+    "Scala": {
+      "bytes": 2537,
+      "color": "#c22d40"
+    },
+    "Erlang": {
+      "bytes": 1986,
+      "color": "#B83998"
+    },
+    "Python": {
+      "bytes": 1946,
+      "color": "#3572A5"
+    },
+    "Ada": {
+      "bytes": 1878,
+      "color": "#02f88c"
+    },
+    "Objective-C": {
+      "bytes": 1530,
+      "color": "#438eff"
+    },
+    "Shell": {
+      "bytes": 1416,
+      "color": "#89e051"
+    },
+    "Clojure": {
+      "bytes": 820,
+      "color": "#db5855"
+    },
+    "F#": {
+      "bytes": 606,
+      "color": "#b845fc"
+    },
+    "Common Lisp": {
+      "bytes": 505,
+      "color": "#3fb68b"
+    },
+    "Haskell": {
+      "bytes": 498,
+      "color": "#5e5086"
+    },
+    "OCaml": {
+      "bytes": 434,
+      "color": "#3be133"
+    },
+    "Dart": {
+      "bytes": 384,
+      "color": "#00B4AB"
+    },
+    "Tcl": {
+      "bytes": 338,
+      "color": "#e4cc98"
+    }
+  },
+  "fetched_at": "2018-09-10T19:00:10.670Z"
+}

@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 22
+  },
+  "name": "quakeworld-simple-items",
+  "full_name": "Calinou/quakeworld-simple-items",
+  "owner": "Calinou",
+  "private": false,
+  "html_url": "https://github.com/Calinou/quakeworld-simple-items",
+  "description": "Simple item textures for QuakeWorld clients such as ezQuake",
+  "fork": false,
+  "url": "https://api.github.com/repos/Calinou/quakeworld-simple-items",
+  "languages_url": "https://api.github.com/repos/Calinou/quakeworld-simple-items/languages",
+  "created_at": "2018-02-10T01:08:59Z",
+  "updated_at": "2018-04-06T22:19:17Z",
+  "pushed_at": "2018-03-17T12:44:36Z",
+  "homepage": "",
+  "size": 54,
+  "stargazers_count": 2,
+  "language": "Makefile",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "languages": {
+    "Makefile": {
+      "bytes": 4346,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/Calinou/quakeworld-simple-items/pulls{/number}",
+  "pulls_authors": []
+}

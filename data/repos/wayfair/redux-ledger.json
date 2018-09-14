@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "redux-ledger",
+  "full_name": "wayfair/redux-ledger",
+  "owner": "wayfair",
+  "private": false,
+  "html_url": "https://github.com/wayfair/redux-ledger",
+  "description": ":star: Async Redux Testing Middleware",
+  "fork": false,
+  "url": "https://api.github.com/repos/wayfair/redux-ledger",
+  "languages_url": "https://api.github.com/repos/wayfair/redux-ledger/languages",
+  "pulls_url": "https://api.github.com/repos/wayfair/redux-ledger/pulls{/number}",
+  "created_at": "2018-04-11T15:23:02Z",
+  "updated_at": "2018-05-26T14:59:36Z",
+  "pushed_at": "2018-04-12T14:47:37Z",
+  "homepage": "",
+  "size": 53,
+  "stargazers_count": 8,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "wayfair",
+    "id": 1065892,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNjU4OTI=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/1065892?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/wayfair",
+    "html_url": "https://github.com/wayfair",
+    "followers_url": "https://api.github.com/users/wayfair/followers",
+    "following_url": "https://api.github.com/users/wayfair/following{/other_user}",
+    "gists_url": "https://api.github.com/users/wayfair/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/wayfair/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/wayfair/subscriptions",
+    "organizations_url": "https://api.github.com/users/wayfair/orgs",
+    "repos_url": "https://api.github.com/users/wayfair/repos",
+    "events_url": "https://api.github.com/users/wayfair/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/wayfair/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ballercat": 7
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 3358,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:57:34.815Z"
+}

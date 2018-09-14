@@ -1,0 +1,92 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SwiftLanguageWeather",
+  "full_name": "JakeLin/SwiftLanguageWeather",
+  "owner": "JakeLin",
+  "private": false,
+  "html_url": "https://github.com/JakeLin/SwiftLanguageWeather",
+  "description": "Swift Language Weather is an iOS weather app developed in Swift 4. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/JakeLin/SwiftLanguageWeather",
+  "languages_url": "https://api.github.com/repos/JakeLin/SwiftLanguageWeather/languages",
+  "pulls_url": "https://api.github.com/repos/JakeLin/SwiftLanguageWeather/pulls{/number}",
+  "created_at": "2014-06-10T10:58:37Z",
+  "updated_at": "2018-09-14T09:04:49Z",
+  "pushed_at": "2018-07-05T03:17:36Z",
+  "homepage": "",
+  "size": 40669,
+  "stargazers_count": 4808,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "tommylo": 1,
+    "muyexi": 1,
+    "ReadmeCritic": 1,
+    "doedje": 1,
+    "cielpy": 1,
+    "hnaoto": 1,
+    "Tokuriku": 1,
+    "orchan": 1,
+    "durul": 2,
+    "mstrzele": 2,
+    "pjchavarria": 2,
+    "TheLittleBoy": 2,
+    "danielCarlosCE": 6,
+    "wozuo": 6,
+    "hoang-tran": 8,
+    "JakeLin": 156
+  },
+  "pulls_authors": [
+    "MasamiSuzuki",
+    "saulurias",
+    "JakeLin",
+    "passerbyloo",
+    "danielCarlosCE",
+    "durul",
+    "muyexi",
+    "ReadmeCritic",
+    "mstrzele",
+    "aybekckaya",
+    "drfear",
+    "kencar17",
+    "tiagomartinho",
+    "paynemiller92",
+    "doedje",
+    "haisome",
+    "cielpy",
+    "hoang-tran",
+    "pjchavarria",
+    "hnaoto",
+    "febus",
+    "Tokuriku",
+    "wozuo",
+    "orchan",
+    "crouchygt",
+    "TheLittleBoy",
+    "xyclos"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 42481,
+      "color": "#ffac45"
+    },
+    "Ruby": {
+      "bytes": 245,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 126,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T09:11:58.420Z"
+}

@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "oo-systems-development",
+  "full_name": "wopian/oo-systems-development",
+  "owner": "wopian",
+  "private": false,
+  "html_url": "https://github.com/wopian/oo-systems-development",
+  "description": "📚 Object Oriented Systems Development Coursework",
+  "fork": false,
+  "url": "https://api.github.com/repos/wopian/oo-systems-development",
+  "languages_url": "https://api.github.com/repos/wopian/oo-systems-development/languages",
+  "pulls_url": "https://api.github.com/repos/wopian/oo-systems-development/pulls{/number}",
+  "created_at": "2017-11-19T04:54:52Z",
+  "updated_at": "2017-12-15T15:11:31Z",
+  "pushed_at": "2017-12-15T14:06:52Z",
+  "homepage": "",
+  "size": 9196,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "JAS260": 3,
+    "Qasim12341": 3,
+    "alexcosta97": 46,
+    "wopian": 81
+  },
+  "pulls_authors": [
+    "wopian"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 59449,
+      "color": "#b07219"
+    },
+    "TeX": {
+      "bytes": 48590,
+      "color": "#3D6117"
+    },
+    "Perl": {
+      "bytes": 2043,
+      "color": "#0298c3"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:35.088Z"
+}

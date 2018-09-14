@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Furler",
+  "full_name": "collinsnji/Furler",
+  "owner": "collinsnji",
+  "private": false,
+  "html_url": "https://github.com/collinsnji/Furler",
+  "description": "Show lyrics of your favourite Sia song (or other songs) right in your terminal",
+  "fork": false,
+  "url": "https://api.github.com/repos/collinsnji/Furler",
+  "languages_url": "https://api.github.com/repos/collinsnji/Furler/languages",
+  "pulls_url": "https://api.github.com/repos/collinsnji/Furler/pulls{/number}",
+  "created_at": "2017-08-15T05:06:25Z",
+  "updated_at": "2018-06-18T01:47:11Z",
+  "pushed_at": "2018-02-26T03:52:17Z",
+  "homepage": "",
+  "size": 20,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "castro732": 1,
+    "anshumanv": 3,
+    "collinsnji": 27
+  },
+  "pulls_authors": [
+    "collinsnji",
+    "anshumanv",
+    "castro732"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6333,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-04T12:17:57.542Z"
+}

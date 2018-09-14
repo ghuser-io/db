@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "luma.led_matrix",
+  "full_name": "rm-hull/luma.led_matrix",
+  "owner": "rm-hull",
+  "private": false,
+  "html_url": "https://github.com/rm-hull/luma.led_matrix",
+  "description": "Python module to drive LED Matrices & 7-segment displays (MAX7219) and RGB NeoPixels (WS2812 / APA102)",
+  "fork": false,
+  "url": "https://api.github.com/repos/rm-hull/luma.led_matrix",
+  "languages_url": "https://api.github.com/repos/rm-hull/luma.led_matrix/languages",
+  "pulls_url": "https://api.github.com/repos/rm-hull/luma.led_matrix/pulls{/number}",
+  "created_at": "2013-06-29T20:38:12Z",
+  "updated_at": "2018-09-07T15:08:14Z",
+  "pushed_at": "2018-08-03T23:54:20Z",
+  "homepage": "https://luma-led-matrix.readthedocs.io",
+  "size": 11520,
+  "stargazers_count": 249,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Gadgetoid": 1,
+    "swoodford": 1,
+    "pokebox": 1,
+    "terokorp": 1,
+    "bauerj": 1,
+    "TheRayTracer": 1,
+    "briceparent": 1,
+    "tarasius": 1,
+    "bitdeli-chef": 1,
+    "wkapga": 2,
+    "webmonger": 3,
+    "twdkeule": 4,
+    "thijstriemstra": 49,
+    "rm-hull": 254
+  },
+  "pulls_authors": [
+    "rm-hull",
+    "Gadgetoid",
+    "thijstriemstra",
+    "swoodford",
+    "pokebox",
+    "terokorp",
+    "twdkeule",
+    "bauerj",
+    "TheRayTracer",
+    "briceparent",
+    "webmonger",
+    "tarasius",
+    "reimerp",
+    "wkapga",
+    "bitdeli-chef"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 41567,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:05.615Z"
+}

@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "triplie-ng",
+  "full_name": "moul/triplie-ng",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/triplie-ng",
+  "description": "An IRC conversation simulator (chatbot) utilising Markov chains, Hebbian networks and information theory (2nd generation)",
+  "fork": true,
+  "url": "https://api.github.com/repos/moul/triplie-ng",
+  "languages_url": "https://api.github.com/repos/moul/triplie-ng/languages",
+  "pulls_url": "https://api.github.com/repos/moul/triplie-ng/pulls{/number}",
+  "created_at": "2014-02-03T01:35:17Z",
+  "updated_at": "2018-08-14T11:50:57Z",
+  "pushed_at": "2014-02-07T17:28:34Z",
+  "homepage": "",
+  "size": 447,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bmelts": 1,
+    "moul": 5,
+    "spion": 94
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 59888,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 174,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:57.835Z"
+}

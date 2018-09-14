@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "seneca-memcached-cache",
+  "full_name": "darsee/seneca-memcached-cache",
+  "owner": "darsee",
+  "private": false,
+  "html_url": "https://github.com/darsee/seneca-memcached-cache",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/darsee/seneca-memcached-cache",
+  "languages_url": "https://api.github.com/repos/darsee/seneca-memcached-cache/languages",
+  "pulls_url": "https://api.github.com/repos/darsee/seneca-memcached-cache/pulls{/number}",
+  "created_at": "2014-03-25T15:54:57Z",
+  "updated_at": "2018-02-06T00:50:31Z",
+  "pushed_at": "2015-12-27T16:19:34Z",
+  "homepage": null,
+  "size": 14,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rjrodger": 7,
+    "darsee": 16
+  },
+  "pulls_authors": [
+    "cexafaulkner"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 5972,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:32.646Z"
+}

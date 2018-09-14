@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "laravel-elixir-bless",
+  "full_name": "BlueBayTravel/laravel-elixir-bless",
+  "owner": "BlueBayTravel",
+  "private": false,
+  "html_url": "https://github.com/BlueBayTravel/laravel-elixir-bless",
+  "description": "Bless your CSS files with Laravel Elixir.",
+  "fork": false,
+  "url": "https://api.github.com/repos/BlueBayTravel/laravel-elixir-bless",
+  "languages_url": "https://api.github.com/repos/BlueBayTravel/laravel-elixir-bless/languages",
+  "pulls_url": "https://api.github.com/repos/BlueBayTravel/laravel-elixir-bless/pulls{/number}",
+  "created_at": "2015-05-19T08:02:56Z",
+  "updated_at": "2018-01-02T08:54:37Z",
+  "pushed_at": "2018-01-02T08:54:36Z",
+  "homepage": "http://bluebaytravel.co.uk",
+  "size": 6,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "BlueBayTravel",
+    "id": 3775282,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM3NzUyODI=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/3775282?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/BlueBayTravel",
+    "html_url": "https://github.com/BlueBayTravel",
+    "followers_url": "https://api.github.com/users/BlueBayTravel/followers",
+    "following_url": "https://api.github.com/users/BlueBayTravel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/BlueBayTravel/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/BlueBayTravel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/BlueBayTravel/subscriptions",
+    "organizations_url": "https://api.github.com/users/BlueBayTravel/orgs",
+    "repos_url": "https://api.github.com/users/BlueBayTravel/repos",
+    "events_url": "https://api.github.com/users/BlueBayTravel/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/BlueBayTravel/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "alexroden": 1,
+    "makque": 1,
+    "junkystu": 2,
+    "jbrooksuk": 5
+  },
+  "pulls_authors": [
+    "junkystu",
+    "makque"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1392,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T05:04:19.275Z"
+}

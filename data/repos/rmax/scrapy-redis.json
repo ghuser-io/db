@@ -1,0 +1,83 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "scrapy-redis",
+  "full_name": "rmax/scrapy-redis",
+  "owner": "rmax",
+  "private": false,
+  "html_url": "https://github.com/rmax/scrapy-redis",
+  "description": "Redis-based components for Scrapy.",
+  "fork": false,
+  "url": "https://api.github.com/repos/rmax/scrapy-redis",
+  "languages_url": "https://api.github.com/repos/rmax/scrapy-redis/languages",
+  "pulls_url": "https://api.github.com/repos/rmax/scrapy-redis/pulls{/number}",
+  "created_at": "2011-08-29T04:06:23Z",
+  "updated_at": "2018-09-14T01:35:53Z",
+  "pushed_at": "2018-05-05T08:18:31Z",
+  "homepage": "http://scrapy-redis.readthedocs.io",
+  "size": 151,
+  "stargazers_count": 3447,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "yswhynot": 1,
+    "kleschenko": 1,
+    "djm": 1,
+    "lmorillas": 1,
+    "nopper": 1,
+    "MOON-CLJ": 1,
+    "bitdeli-chef": 1,
+    "rolando": 2,
+    "carlosp420": 2,
+    "younghz": 2,
+    "parisholley": 2,
+    "gnemoug": 2,
+    "llonchj": 3,
+    "schmich": 4,
+    "rmax": 122
+  },
+  "pulls_authors": [
+    "xxNB",
+    "szthanatos",
+    "chishaku",
+    "zoyanhui",
+    "carlosp420",
+    "15310944349",
+    "rmax",
+    "stevepeak",
+    "yswhynot",
+    "Skyross",
+    "kleschenko",
+    "djm",
+    "younghz",
+    "parisholley",
+    "lmorillas",
+    "nside",
+    "nopper",
+    "schmich",
+    "xaqq",
+    "MOON-CLJ",
+    "gnemoug",
+    "bitdeli-chef",
+    "llonchj"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 57015,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 4085,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-14T09:07:48.884Z"
+}

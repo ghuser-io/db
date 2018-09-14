@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sublime-text-3",
+  "full_name": "ahmetabdi/sublime-text-3",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/sublime-text-3",
+  "description": "Sublime Setup on Mac for Ruby/Rails & RubyMotion development.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ahmetabdi/sublime-text-3",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/sublime-text-3/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/sublime-text-3/pulls{/number}",
+  "created_at": "2013-12-12T16:01:48Z",
+  "updated_at": "2017-08-14T11:19:14Z",
+  "pushed_at": "2016-03-10T12:06:50Z",
+  "homepage": "",
+  "size": 159138,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 21
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 20966128,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 547930,
+      "color": "#f1e05a"
+    },
+    "Tcl": {
+      "bytes": 88877,
+      "color": "#e4cc98"
+    },
+    "Elixir": {
+      "bytes": 6028,
+      "color": "#6e4a7e"
+    },
+    "Shell": {
+      "bytes": 2262,
+      "color": "#89e051"
+    },
+    "PowerShell": {
+      "bytes": 978,
+      "color": "#012456"
+    },
+    "Batchfile": {
+      "bytes": 752,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-12T15:30:58.731Z"
+}

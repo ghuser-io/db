@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "compana16",
+  "full_name": "Ruediger-Braun/compana16",
+  "owner": "Ruediger-Braun",
+  "private": false,
+  "html_url": "https://github.com/Ruediger-Braun/compana16",
+  "description": "Materialien zur Vorlesung \"Computergestützte Mathematik zur Analysis\" im WS 2016/17",
+  "fork": false,
+  "url": "https://api.github.com/repos/Ruediger-Braun/compana16",
+  "languages_url": "https://api.github.com/repos/Ruediger-Braun/compana16/languages",
+  "pulls_url": "https://api.github.com/repos/Ruediger-Braun/compana16/pulls{/number}",
+  "created_at": "2016-09-23T09:43:39Z",
+  "updated_at": "2018-06-13T05:51:41Z",
+  "pushed_at": "2018-06-13T05:51:39Z",
+  "homepage": null,
+  "size": 7327,
+  "stargazers_count": 2,
+  "language": "Jupyter Notebook",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jcla1": 2,
+    "masch212": 2,
+    "Ruediger-Braun": 133
+  },
+  "pulls_authors": [
+    "jcla1"
+  ],
+  "languages": {
+    "Jupyter Notebook": {
+      "bytes": 7067981,
+      "color": "#DA5B0B"
+    },
+    "Python": {
+      "bytes": 13872,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:06.814Z"
+}

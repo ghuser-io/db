@@ -1,0 +1,87 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Score-old",
+  "full_name": "i-score-old/Score-old",
+  "owner": "i-score-old",
+  "private": false,
+  "html_url": "https://github.com/i-score-old/Score-old",
+  "description": "peer object library to share the work done with the libIscore",
+  "fork": false,
+  "url": "https://api.github.com/repos/i-score-old/Score-old",
+  "languages_url": "https://api.github.com/repos/i-score-old/Score-old/languages",
+  "pulls_url": "https://api.github.com/repos/i-score-old/Score-old/pulls{/number}",
+  "created_at": "2012-11-28T17:36:52Z",
+  "updated_at": "2017-09-08T09:17:31Z",
+  "pushed_at": "2015-02-10T15:26:16Z",
+  "homepage": null,
+  "size": 130597,
+  "stargazers_count": 5,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "i-score-old",
+    "id": 6952670,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY5NTI2NzA=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/6952670?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/i-score-old",
+    "html_url": "https://github.com/i-score-old",
+    "followers_url": "https://api.github.com/users/i-score-old/followers",
+    "following_url": "https://api.github.com/users/i-score-old/following{/other_user}",
+    "gists_url": "https://api.github.com/users/i-score-old/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/i-score-old/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/i-score-old/subscriptions",
+    "organizations_url": "https://api.github.com/users/i-score-old/orgs",
+    "repos_url": "https://api.github.com/users/i-score-old/repos",
+    "events_url": "https://api.github.com/users/i-score-old/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/i-score-old/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "BorisMansencal": 2,
+    "reno-": 2,
+    "ChristianFrisson": 2,
+    "jaimechao": 2,
+    "bltzr": 3,
+    "jln-": 3,
+    "jcelerier": 9,
+    "cbossut": 38
+  },
+  "pulls_authors": [
+    "jcelerier",
+    "ChristianFrisson"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 534459,
+      "color": "#f34b7d"
+    },
+    "Ruby": {
+      "bytes": 5848,
+      "color": "#701516"
+    },
+    "TeX": {
+      "bytes": 5462,
+      "color": "#3D6117"
+    },
+    "Makefile": {
+      "bytes": 1473,
+      "color": "#427819"
+    },
+    "C": {
+      "bytes": 937,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:58.249Z"
+}

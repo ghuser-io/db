@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "TestGithub",
+  "full_name": "TiagoDanin/TestGithub",
+  "owner": "TiagoDanin",
+  "private": false,
+  "html_url": "https://github.com/TiagoDanin/TestGithub",
+  "description": "'-'",
+  "fork": false,
+  "url": "https://api.github.com/repos/TiagoDanin/TestGithub",
+  "languages_url": "https://api.github.com/repos/TiagoDanin/TestGithub/languages",
+  "pulls_url": "https://api.github.com/repos/TiagoDanin/TestGithub/pulls{/number}",
+  "created_at": "2017-08-14T17:04:29Z",
+  "updated_at": "2018-08-11T15:57:31Z",
+  "pushed_at": "2018-08-11T15:57:30Z",
+  "homepage": "https://TiagoDanin.github.io/TestGithub/",
+  "size": 36,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "TiagoDanin": 46
+  },
+  "pulls_authors": [
+    "fossabot"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 6184,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-12T17:48:20.581Z"
+}

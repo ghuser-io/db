@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "localStorageDB",
+  "full_name": "knadh/localStorageDB",
+  "owner": "knadh",
+  "private": false,
+  "html_url": "https://github.com/knadh/localStorageDB",
+  "description": "A simple database layer for localStorage and sessionStorage for creating structured data in the form of databases and tables",
+  "fork": false,
+  "url": "https://api.github.com/repos/knadh/localStorageDB",
+  "languages_url": "https://api.github.com/repos/knadh/localStorageDB/languages",
+  "pulls_url": "https://api.github.com/repos/knadh/localStorageDB/pulls{/number}",
+  "created_at": "2011-09-19T22:55:03Z",
+  "updated_at": "2018-09-12T13:26:06Z",
+  "pushed_at": "2018-08-14T05:50:35Z",
+  "homepage": "http://nadh.in/code/localstoragedb",
+  "size": 118,
+  "stargazers_count": 596,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "geirsagberg": 1,
+    "kkohler2": 1,
+    "J2TEAM": 1,
+    "dj-raphael": 1,
+    "patik": 1,
+    "vividvilla": 2,
+    "w35l3y": 2,
+    "objectivehtml": 2,
+    "ashishsharma229": 2,
+    "a904guy": 6,
+    "knadh": 63
+  },
+  "pulls_authors": [
+    "geirsagberg",
+    "kkohler2",
+    "vividvilla",
+    "switoon",
+    "w35l3y",
+    "J2TEAM",
+    "uelarn",
+    "linslin",
+    "a904guy",
+    "jsyang",
+    "nateriver520",
+    "stanislav-web",
+    "drm2",
+    "orangecoding",
+    "objectivehtml",
+    "ashishsharma229",
+    "dj-raphael",
+    "patik",
+    "Asgraf"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 29004,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 563,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:16.212Z"
+}

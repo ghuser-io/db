@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "angular-regex",
+  "full_name": "previousdeveloper/angular-regex",
+  "owner": "previousdeveloper",
+  "private": false,
+  "html_url": "https://github.com/previousdeveloper/angular-regex",
+  "description": "Angular regular expressions service",
+  "fork": false,
+  "url": "https://api.github.com/repos/previousdeveloper/angular-regex",
+  "languages_url": "https://api.github.com/repos/previousdeveloper/angular-regex/languages",
+  "pulls_url": "https://api.github.com/repos/previousdeveloper/angular-regex/pulls{/number}",
+  "created_at": "2016-01-06T20:00:35Z",
+  "updated_at": "2016-06-06T10:16:05Z",
+  "pushed_at": "2016-01-10T08:55:19Z",
+  "homepage": null,
+  "size": 16,
+  "stargazers_count": 9,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ziyasal": 1,
+    "previousdeveloper": 9
+  },
+  "pulls_authors": [
+    "ziyasal"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 23272,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:15.170Z"
+}

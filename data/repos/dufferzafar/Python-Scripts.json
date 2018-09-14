@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Python-Scripts",
+  "full_name": "dufferzafar/Python-Scripts",
+  "owner": "dufferzafar",
+  "private": false,
+  "html_url": "https://github.com/dufferzafar/Python-Scripts",
+  "description": "Some scripts I've written in Python [UNMAINTAINED]",
+  "fork": false,
+  "url": "https://api.github.com/repos/dufferzafar/Python-Scripts",
+  "languages_url": "https://api.github.com/repos/dufferzafar/Python-Scripts/languages",
+  "pulls_url": "https://api.github.com/repos/dufferzafar/Python-Scripts/pulls{/number}",
+  "created_at": "2013-10-05T21:10:12Z",
+  "updated_at": "2018-08-19T03:48:19Z",
+  "pushed_at": "2016-10-29T19:34:17Z",
+  "homepage": "",
+  "size": 621,
+  "stargazers_count": 13,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bitdeli-chef": 1,
+    "dufferzafar": 87
+  },
+  "pulls_authors": [
+    "dufferzafar",
+    "szmarci",
+    "bitdeli-chef"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 176120,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-03T12:56:56.748Z"
+}

@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "iammobile",
+  "full_name": "innovate-technologies/iammobile",
+  "owner": "innovate-technologies",
+  "private": false,
+  "html_url": "https://github.com/innovate-technologies/iammobile",
+  "description": "Site to crowd source mobile-asn",
+  "fork": false,
+  "url": "https://api.github.com/repos/innovate-technologies/iammobile",
+  "languages_url": "https://api.github.com/repos/innovate-technologies/iammobile/languages",
+  "pulls_url": "https://api.github.com/repos/innovate-technologies/iammobile/pulls{/number}",
+  "created_at": "2018-07-22T09:57:07Z",
+  "updated_at": "2018-08-25T11:25:44Z",
+  "pushed_at": "2018-09-11T06:33:00Z",
+  "homepage": null,
+  "size": 11649,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "innovate-technologies",
+    "id": 11369360,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExMzY5MzYw",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/11369360?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/innovate-technologies",
+    "html_url": "https://github.com/innovate-technologies",
+    "followers_url": "https://api.github.com/users/innovate-technologies/followers",
+    "following_url": "https://api.github.com/users/innovate-technologies/following{/other_user}",
+    "gists_url": "https://api.github.com/users/innovate-technologies/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/innovate-technologies/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/innovate-technologies/subscriptions",
+    "organizations_url": "https://api.github.com/users/innovate-technologies/orgs",
+    "repos_url": "https://api.github.com/users/innovate-technologies/repos",
+    "events_url": "https://api.github.com/users/innovate-technologies/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/innovate-technologies/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "dependabot-bot": 4,
+    "meyskens": 19
+  },
+  "pulls_authors": [
+    "dependabot[bot]"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 5437,
+      "color": "#375eab"
+    },
+    "HTML": {
+      "bytes": 3801,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 725,
+      "color": "#f1e05a"
+    },
+    "Dockerfile": {
+      "bytes": 723,
+      "color": "#0db7ed"
+    },
+    "CSS": {
+      "bytes": 240,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T20:50:11.489Z"
+}

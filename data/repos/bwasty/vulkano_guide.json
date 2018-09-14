@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vulkano_guide",
+  "full_name": "bwasty/vulkano_guide",
+  "owner": "bwasty",
+  "private": false,
+  "html_url": "https://github.com/bwasty/vulkano_guide",
+  "description": "Playground for following the guide at http://vulkano.rs/",
+  "fork": false,
+  "url": "https://api.github.com/repos/bwasty/vulkano_guide",
+  "languages_url": "https://api.github.com/repos/bwasty/vulkano_guide/languages",
+  "pulls_url": "https://api.github.com/repos/bwasty/vulkano_guide/pulls{/number}",
+  "created_at": "2018-08-18T09:58:27Z",
+  "updated_at": "2018-08-20T00:52:09Z",
+  "pushed_at": "2018-08-18T18:20:47Z",
+  "homepage": null,
+  "size": 18,
+  "stargazers_count": 2,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "bwasty": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Rust": {
+      "bytes": 16443,
+      "color": "#dea584"
+    },
+    "Shell": {
+      "bytes": 242,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T00:29:53.341Z"
+}

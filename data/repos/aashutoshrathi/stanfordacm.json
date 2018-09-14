@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "stanfordacm",
+  "full_name": "aashutoshrathi/stanfordacm",
+  "owner": "aashutoshrathi",
+  "private": false,
+  "html_url": "https://github.com/aashutoshrathi/stanfordacm",
+  "description": "Stanford ACM-ICPC related materials",
+  "fork": true,
+  "url": "https://api.github.com/repos/aashutoshrathi/stanfordacm",
+  "languages_url": "https://api.github.com/repos/aashutoshrathi/stanfordacm/languages",
+  "pulls_url": "https://api.github.com/repos/aashutoshrathi/stanfordacm/pulls{/number}",
+  "created_at": "2017-03-10T13:57:57Z",
+  "updated_at": "2017-03-10T13:58:01Z",
+  "pushed_at": "2017-03-02T22:34:16Z",
+  "homepage": null,
+  "size": 14110,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ImnIrdst": 1,
+    "joshuarwang": 1,
+    "simonlindholm": 3,
+    "jaehyunp": 50
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 193324,
+      "color": "#e34c26"
+    },
+    "C++": {
+      "bytes": 171198,
+      "color": "#f34b7d"
+    },
+    "TeX": {
+      "bytes": 118341,
+      "color": "#3D6117"
+    },
+    "Java": {
+      "bytes": 32370,
+      "color": "#b07219"
+    },
+    "Python": {
+      "bytes": 4481,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-05T16:59:38.516Z"
+}

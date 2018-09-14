@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "window-size",
+  "full_name": "jonschlinkert/window-size",
+  "owner": "jonschlinkert",
+  "private": false,
+  "html_url": "https://github.com/jonschlinkert/window-size",
+  "description": "Reliable way to to get the height and width of the terminal/console in a node.js environment.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jonschlinkert/window-size",
+  "languages_url": "https://api.github.com/repos/jonschlinkert/window-size/languages",
+  "pulls_url": "https://api.github.com/repos/jonschlinkert/window-size/pulls{/number}",
+  "created_at": "2014-02-15T03:42:28Z",
+  "updated_at": "2018-09-12T14:32:40Z",
+  "pushed_at": "2018-07-27T20:19:41Z",
+  "homepage": "https://github.com/jonschlinkert",
+  "size": 1152,
+  "stargazers_count": 60,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jackw01": 1,
+    "karliky": 1,
+    "derhuerst": 2,
+    "icyflame": 3,
+    "bcoe": 4,
+    "doowb": 12,
+    "jonschlinkert": 19
+  },
+  "pulls_authors": [
+    "jackw01",
+    "doowb",
+    "jonschlinkert",
+    "derhuerst",
+    "karliky",
+    "osher",
+    "bcoe",
+    "icyflame"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 8295,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T15:46:01.741Z"
+}

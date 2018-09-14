@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "salut-c-est-alfred-ton-banquier-generator",
+  "full_name": "m1ch3l/salut-c-est-alfred-ton-banquier-generator",
+  "owner": "m1ch3l",
+  "private": false,
+  "html_url": "https://github.com/m1ch3l/salut-c-est-alfred-ton-banquier-generator",
+  "description": "\"Salut, c'est Alfred, ton banquier...\" generator",
+  "fork": false,
+  "url": "https://api.github.com/repos/m1ch3l/salut-c-est-alfred-ton-banquier-generator",
+  "languages_url": "https://api.github.com/repos/m1ch3l/salut-c-est-alfred-ton-banquier-generator/languages",
+  "pulls_url": "https://api.github.com/repos/m1ch3l/salut-c-est-alfred-ton-banquier-generator/pulls{/number}",
+  "created_at": "2013-02-03T23:11:06Z",
+  "updated_at": "2015-04-27T09:44:44Z",
+  "pushed_at": "2013-03-06T23:44:48Z",
+  "homepage": null,
+  "size": 7111,
+  "stargazers_count": 5,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "m1ch3l",
+    "id": 6570500,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY1NzA1MDA=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/6570500?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/m1ch3l",
+    "html_url": "https://github.com/m1ch3l",
+    "followers_url": "https://api.github.com/users/m1ch3l/followers",
+    "following_url": "https://api.github.com/users/m1ch3l/following{/other_user}",
+    "gists_url": "https://api.github.com/users/m1ch3l/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/m1ch3l/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/m1ch3l/subscriptions",
+    "organizations_url": "https://api.github.com/users/m1ch3l/orgs",
+    "repos_url": "https://api.github.com/users/m1ch3l/repos",
+    "events_url": "https://api.github.com/users/m1ch3l/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/m1ch3l/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "moul": 28
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 9892,
+      "color": "#244776"
+    },
+    "Shell": {
+      "bytes": 1079,
+      "color": "#89e051"
+    },
+    "JavaScript": {
+      "bytes": 184,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:52.291Z"
+}

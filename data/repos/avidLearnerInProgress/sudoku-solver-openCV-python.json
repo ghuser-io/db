@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sudoku-solver-openCV-python",
+  "full_name": "avidLearnerInProgress/sudoku-solver-openCV-python",
+  "owner": "avidLearnerInProgress",
+  "private": false,
+  "html_url": "https://github.com/avidLearnerInProgress/sudoku-solver-openCV-python",
+  "description": "Sudoku Solver Using OpenCV and Python",
+  "fork": false,
+  "url": "https://api.github.com/repos/avidLearnerInProgress/sudoku-solver-openCV-python",
+  "languages_url": "https://api.github.com/repos/avidLearnerInProgress/sudoku-solver-openCV-python/languages",
+  "created_at": "2018-03-13T17:26:51Z",
+  "updated_at": "2018-03-30T01:49:28Z",
+  "pushed_at": "2018-03-19T07:35:40Z",
+  "homepage": "",
+  "size": 374,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "avidLearnerInProgress": 18
+  },
+  "languages": {
+    "Python": {
+      "bytes": 21300,
+      "color": "#3572A5"
+    },
+    "C++": {
+      "bytes": 2822,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/avidLearnerInProgress/sudoku-solver-openCV-python/pulls{/number}",
+  "pulls_authors": []
+}

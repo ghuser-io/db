@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "oz-nolines",
+  "full_name": "timvdalen/oz-nolines",
+  "owner": "timvdalen",
+  "private": false,
+  "html_url": "https://github.com/timvdalen/oz-nolines",
+  "description": "An extension of oz.sty and ltcadiz.sty",
+  "fork": false,
+  "url": "https://api.github.com/repos/timvdalen/oz-nolines",
+  "languages_url": "https://api.github.com/repos/timvdalen/oz-nolines/languages",
+  "pulls_url": "https://api.github.com/repos/timvdalen/oz-nolines/pulls{/number}",
+  "created_at": "2012-03-28T09:45:10Z",
+  "updated_at": "2013-10-09T22:30:00Z",
+  "pushed_at": "2012-03-28T10:04:23Z",
+  "homepage": "",
+  "size": 108,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "timvdalen": 5
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T07:43:59.294Z"
+}

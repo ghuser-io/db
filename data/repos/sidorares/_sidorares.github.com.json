@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "_sidorares.github.com",
+  "full_name": "sidorares/_sidorares.github.com",
+  "owner": "sidorares",
+  "private": false,
+  "html_url": "https://github.com/sidorares/_sidorares.github.com",
+  "description": "personal tech blog",
+  "fork": false,
+  "url": "https://api.github.com/repos/sidorares/_sidorares.github.com",
+  "languages_url": "https://api.github.com/repos/sidorares/_sidorares.github.com/languages",
+  "pulls_url": "https://api.github.com/repos/sidorares/_sidorares.github.com/pulls{/number}",
+  "created_at": "2010-08-03T11:20:40Z",
+  "updated_at": "2015-02-13T00:57:16Z",
+  "pushed_at": "2014-07-17T02:21:22Z",
+  "homepage": "andreysidorov.com",
+  "size": 1708,
+  "stargazers_count": 2,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sidorares": 24
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CSS": {
+      "bytes": 113880,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 86272,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:37.016Z"
+}

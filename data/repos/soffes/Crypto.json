@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Crypto",
+  "full_name": "soffes/Crypto",
+  "owner": "soffes",
+  "private": false,
+  "html_url": "https://github.com/soffes/Crypto",
+  "description": "Swift CommonCrypto wrapper",
+  "fork": false,
+  "url": "https://api.github.com/repos/soffes/Crypto",
+  "languages_url": "https://api.github.com/repos/soffes/Crypto/languages",
+  "pulls_url": "https://api.github.com/repos/soffes/Crypto/pulls{/number}",
+  "created_at": "2015-04-21T16:33:44Z",
+  "updated_at": "2018-09-08T23:37:56Z",
+  "pushed_at": "2017-11-22T07:31:59Z",
+  "homepage": "",
+  "size": 102,
+  "stargazers_count": 316,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "pebble8888": 1,
+    "mbuchetics": 1,
+    "paulyoung": 2,
+    "JanGorman": 3,
+    "nickygerritsen": 5,
+    "soffes": 53
+  },
+  "pulls_authors": [
+    "cwoloszynski",
+    "kangaroo5383",
+    "pebble8888",
+    "mbuchetics",
+    "soffes",
+    "kgn",
+    "nickygerritsen",
+    "tehprofessor",
+    "paulyoung",
+    "JanGorman"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 9132,
+      "color": "#ffac45"
+    },
+    "Objective-C": {
+      "bytes": 359,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-09T03:12:05.989Z"
+}

@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "py-spidev",
+  "full_name": "doceme/py-spidev",
+  "owner": "doceme",
+  "private": false,
+  "html_url": "https://github.com/doceme/py-spidev",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/doceme/py-spidev",
+  "languages_url": "https://api.github.com/repos/doceme/py-spidev/languages",
+  "pulls_url": "https://api.github.com/repos/doceme/py-spidev/pulls{/number}",
+  "created_at": "2012-02-08T05:46:09Z",
+  "updated_at": "2018-09-11T06:21:49Z",
+  "pushed_at": "2018-06-28T16:32:04Z",
+  "homepage": "",
+  "size": 52,
+  "stargazers_count": 201,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "billmccartney": 1,
+    "bkuhls": 1,
+    "ArmlessJohn404": 1,
+    "jacobwalkr": 1,
+    "timwood0": 1,
+    "larsks": 1,
+    "zevlg": 1,
+    "chrillomat": 1,
+    "pbrook": 1,
+    "rpodgorny": 2,
+    "ams-tech": 4,
+    "doceme": 8,
+    "Gadgetoid": 14
+  },
+  "pulls_authors": [
+    "ekerin",
+    "mk2366",
+    "cpetrescu",
+    "zeeMonkeez",
+    "billmccartney",
+    "Gadgetoid",
+    "ams-tech",
+    "doceme",
+    "bkuhls",
+    "ArmlessJohn404",
+    "jacobwalkr",
+    "timwood0",
+    "larsks",
+    "zevlg",
+    "chrillomat",
+    "pbrook",
+    "tomdean1",
+    "rpodgorny"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 25526,
+      "color": "#555555"
+    },
+    "Python": {
+      "bytes": 1401,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 197,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:11.980Z"
+}

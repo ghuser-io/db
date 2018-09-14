@@ -1,0 +1,82 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "purescript-node-child-process",
+  "full_name": "purescript-node/purescript-node-child-process",
+  "owner": "purescript-node",
+  "private": false,
+  "html_url": "https://github.com/purescript-node/purescript-node-child-process",
+  "description": "Spawn child processes in PureScript via the Node.js child_process API.",
+  "fork": false,
+  "url": "https://api.github.com/repos/purescript-node/purescript-node-child-process",
+  "languages_url": "https://api.github.com/repos/purescript-node/purescript-node-child-process/languages",
+  "pulls_url": "https://api.github.com/repos/purescript-node/purescript-node-child-process/pulls{/number}",
+  "created_at": "2015-12-17T09:38:20Z",
+  "updated_at": "2018-06-02T07:25:52Z",
+  "pushed_at": "2018-06-02T07:28:32Z",
+  "homepage": null,
+  "size": 52,
+  "stargazers_count": 10,
+  "language": "PureScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "purescript-node",
+    "id": 12017641,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMDE3NjQx",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/12017641?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/purescript-node",
+    "html_url": "https://github.com/purescript-node",
+    "followers_url": "https://api.github.com/users/purescript-node/followers",
+    "following_url": "https://api.github.com/users/purescript-node/following{/other_user}",
+    "gists_url": "https://api.github.com/users/purescript-node/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/purescript-node/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/purescript-node/subscriptions",
+    "organizations_url": "https://api.github.com/users/purescript-node/orgs",
+    "repos_url": "https://api.github.com/users/purescript-node/repos",
+    "events_url": "https://api.github.com/users/purescript-node/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/purescript-node/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "kRITZCREEK": 1,
+    "jyh1": 1,
+    "nwolverson": 1,
+    "FrigoEU": 1,
+    "justinwoo": 2,
+    "paf31": 2,
+    "Profpatsch": 3,
+    "garyb": 4,
+    "joneshf": 6,
+    "hdgarrood": 41
+  },
+  "pulls_authors": [
+    "kRITZCREEK",
+    "justinwoo",
+    "Profpatsch",
+    "jyh1",
+    "paf31",
+    "garyb",
+    "nwolverson"
+  ],
+  "languages": {
+    "PureScript": {
+      "bytes": 17131,
+      "color": "#1D222D"
+    },
+    "JavaScript": {
+      "bytes": 3422,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:42.351Z"
+}

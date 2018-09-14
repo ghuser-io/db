@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "kurento-example-services-scala",
+  "full_name": "wirecloud-fiware/kurento-example-services-scala",
+  "owner": "wirecloud-fiware",
+  "private": false,
+  "html_url": "https://github.com/wirecloud-fiware/kurento-example-services-scala",
+  "description": "Example kurento service to be used by the WireCloud demos",
+  "fork": false,
+  "url": "https://api.github.com/repos/wirecloud-fiware/kurento-example-services-scala",
+  "languages_url": "https://api.github.com/repos/wirecloud-fiware/kurento-example-services-scala/languages",
+  "pulls_url": "https://api.github.com/repos/wirecloud-fiware/kurento-example-services-scala/pulls{/number}",
+  "created_at": "2015-03-20T22:42:03Z",
+  "updated_at": "2017-07-19T04:05:09Z",
+  "pushed_at": "2016-11-07T08:46:18Z",
+  "homepage": "",
+  "size": 33,
+  "stargazers_count": 2,
+  "language": "Scala",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "wirecloud-fiware",
+    "id": 4395585,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQzOTU1ODU=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/4395585?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/wirecloud-fiware",
+    "html_url": "https://github.com/wirecloud-fiware",
+    "followers_url": "https://api.github.com/users/wirecloud-fiware/followers",
+    "following_url": "https://api.github.com/users/wirecloud-fiware/following{/other_user}",
+    "gists_url": "https://api.github.com/users/wirecloud-fiware/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/wirecloud-fiware/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/wirecloud-fiware/subscriptions",
+    "organizations_url": "https://api.github.com/users/wirecloud-fiware/orgs",
+    "repos_url": "https://api.github.com/users/wirecloud-fiware/repos",
+    "events_url": "https://api.github.com/users/wirecloud-fiware/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/wirecloud-fiware/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "aarranz": 1,
+    "rockneurotiko": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Scala": {
+      "bytes": 63285,
+      "color": "#c22d40"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:50.184Z"
+}

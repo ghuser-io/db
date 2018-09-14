@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "chrome-gruvbox",
+  "full_name": "bbrks/chrome-gruvbox",
+  "owner": "bbrks",
+  "private": false,
+  "html_url": "https://github.com/bbrks/chrome-gruvbox",
+  "description": "💻 Port of the gruvbox retro groove color scheme for Chrome",
+  "fork": false,
+  "url": "https://api.github.com/repos/bbrks/chrome-gruvbox",
+  "languages_url": "https://api.github.com/repos/bbrks/chrome-gruvbox/languages",
+  "pulls_url": "https://api.github.com/repos/bbrks/chrome-gruvbox/pulls{/number}",
+  "created_at": "2017-05-31T16:53:53Z",
+  "updated_at": "2018-08-23T04:59:14Z",
+  "pushed_at": "2017-05-31T17:12:22Z",
+  "homepage": "",
+  "size": 638,
+  "stargazers_count": 7,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bbrks": 3
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T04:57:38.222Z"
+}

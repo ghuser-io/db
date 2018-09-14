@@ -1,0 +1,91 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ng2-validation",
+  "full_name": "yuyang041060120/ng2-validation",
+  "owner": "yuyang041060120",
+  "private": false,
+  "html_url": "https://github.com/yuyang041060120/ng2-validation",
+  "description": "angular2 validation",
+  "fork": false,
+  "url": "https://api.github.com/repos/yuyang041060120/ng2-validation",
+  "languages_url": "https://api.github.com/repos/yuyang041060120/ng2-validation/languages",
+  "pulls_url": "https://api.github.com/repos/yuyang041060120/ng2-validation/pulls{/number}",
+  "created_at": "2016-07-14T10:31:38Z",
+  "updated_at": "2018-09-12T09:19:48Z",
+  "pushed_at": "2018-02-07T16:48:27Z",
+  "homepage": "https://yuyang041060120.github.io/ng2-validation/index.html",
+  "size": 4168,
+  "stargazers_count": 517,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "guilhermejcgois": 1,
+    "cjc343": 1,
+    "shahmirn": 1,
+    "rafaelss95": 1,
+    "Nick-Triller": 1,
+    "Chuvisco88": 1,
+    "jsBlackBelt": 1,
+    "BioSin": 1,
+    "intellix": 2,
+    "chrisgriffith": 3,
+    "ert78gb": 5,
+    "yuyang041060120": 17
+  },
+  "pulls_authors": [
+    "anjmao",
+    "kplates",
+    "zavorotiuk",
+    "hanssulo",
+    "F1oyd",
+    "ZuBB",
+    "superMDguy",
+    "kirilmitev",
+    "rafaelss95",
+    "smart--petea",
+    "guilhermejcgois",
+    "smnbbrv",
+    "verygreenboi",
+    "MichaelSL",
+    "shahmirn",
+    "cjc343",
+    "intellix",
+    "chrisgriffith",
+    "Nick-Triller",
+    "Chuvisco88",
+    "Sweet-Bob",
+    "jsBlackBelt",
+    "fabianderijk",
+    "ert78gb",
+    "xcuben",
+    "BioSin"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 56033,
+      "color": "#2b7489"
+    },
+    "HTML": {
+      "bytes": 10252,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 2898,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 139,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T16:52:12.688Z"
+}

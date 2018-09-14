@@ -1,0 +1,90 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "basho_bench",
+  "full_name": "gmcabrita/basho_bench",
+  "owner": "gmcabrita",
+  "private": false,
+  "html_url": "https://github.com/gmcabrita/basho_bench",
+  "description": ":seat: A load-generation and testing tool for basically whatever you can write a returning Erlang function for.",
+  "fork": true,
+  "url": "https://api.github.com/repos/gmcabrita/basho_bench",
+  "languages_url": "https://api.github.com/repos/gmcabrita/basho_bench/languages",
+  "pulls_url": "https://api.github.com/repos/gmcabrita/basho_bench/pulls{/number}",
+  "created_at": "2017-02-06T15:56:53Z",
+  "updated_at": "2018-06-03T09:04:36Z",
+  "pushed_at": "2017-10-22T21:55:15Z",
+  "homepage": "",
+  "size": 10069,
+  "stargazers_count": 1,
+  "language": "Erlang",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "pnc": 1,
+    "benoitc": 1,
+    "jrwest": 1,
+    "cmeiklejohn": 1,
+    "waisbrot": 1,
+    "vinoski": 1,
+    "motiejus": 1,
+    "davidx": 1,
+    "viganiko": 1,
+    "doubleyou": 1,
+    "argv0": 1,
+    "tatyree": 2,
+    "jtuple": 2,
+    "lordnull": 2,
+    "legoscia": 2,
+    "ian-plosker": 2,
+    "gpascale": 2,
+    "smorin": 2,
+    "sanmiguel": 3,
+    "kellymclaughlin": 3,
+    "athoune": 3,
+    "gomoripeti": 3,
+    "tuncer": 3,
+    "tnm": 3,
+    "dreverri": 4,
+    "norton": 4,
+    "engelsanchez": 6,
+    "kuenishi": 6,
+    "russelldb": 7,
+    "evanmcc": 9,
+    "nathanaschbacher": 9,
+    "jonmeredith": 10,
+    "shino": 12,
+    "rzezeski": 14,
+    "seancribbs": 14,
+    "rustyio": 21,
+    "slfritchie": 41,
+    "dizzyd": 117
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Erlang": {
+      "bytes": 215340,
+      "color": "#B83998"
+    },
+    "R": {
+      "bytes": 9351,
+      "color": "#198CE7"
+    },
+    "Shell": {
+      "bytes": 8053,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 781,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:44:05.593Z"
+}

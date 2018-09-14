@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "apollographql/apollo-link": {
+      "full_name": "apollographql/apollo-link",
+      "name": "apollo-link",
+      "stargazers_count": 826,
+      "popularity": 3.916545671031198,
+      "percentage": 0.13297872340425532,
+      "maturity": 3.854277061035542,
+      "total_commits_count": 752,
+      "activity": 5,
+      "total_score": 24.525897376818143,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "date-fns/date-fns": {
+      "full_name": "date-fns/date-fns",
+      "name": "date-fns",
+      "stargazers_count": 13143,
+      "popularity": 5,
+      "percentage": 0.10030090270812438,
+      "maturity": 3.982693453786972,
+      "total_commits_count": 997,
+      "activity": 5,
+      "total_score": 28.030582494334226,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "apollographql",
+    "date-fns"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "clusterfach-py",
+  "full_name": "captbaritone/clusterfach-py",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/clusterfach-py",
+  "description": "A recommendation engine",
+  "fork": false,
+  "url": "https://api.github.com/repos/captbaritone/clusterfach-py",
+  "languages_url": "https://api.github.com/repos/captbaritone/clusterfach-py/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/clusterfach-py/pulls{/number}",
+  "created_at": "2016-04-17T04:52:02Z",
+  "updated_at": "2018-07-29T21:59:18Z",
+  "pushed_at": "2016-04-26T17:11:08Z",
+  "homepage": null,
+  "size": 412,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 3036,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:39.269Z"
+}

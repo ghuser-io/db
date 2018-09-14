@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "purescript-quickcheck-laws",
+  "full_name": "garyb/purescript-quickcheck-laws",
+  "owner": "garyb",
+  "private": false,
+  "html_url": "https://github.com/garyb/purescript-quickcheck-laws",
+  "description": "QuickCheck powered law tests for PureScript's core typeclasses.",
+  "fork": false,
+  "url": "https://api.github.com/repos/garyb/purescript-quickcheck-laws",
+  "languages_url": "https://api.github.com/repos/garyb/purescript-quickcheck-laws/languages",
+  "pulls_url": "https://api.github.com/repos/garyb/purescript-quickcheck-laws/pulls{/number}",
+  "created_at": "2015-04-03T11:54:06Z",
+  "updated_at": "2018-09-02T17:46:29Z",
+  "pushed_at": "2018-08-21T21:19:18Z",
+  "homepage": "",
+  "size": 139,
+  "stargazers_count": 9,
+  "language": "PureScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "justinwoo": 1,
+    "soupi": 1,
+    "rgrempel": 1,
+    "freebroccolo": 1,
+    "hdgarrood": 2,
+    "paulyoung": 3,
+    "jacereda": 4,
+    "menelaos": 12,
+    "garyb": 22
+  },
+  "pulls_authors": [
+    "garyb",
+    "thomashoneyman",
+    "kejace",
+    "paulyoung",
+    "justinwoo",
+    "matthewleon",
+    "jacereda",
+    "soupi",
+    "hdgarrood",
+    "menelaos",
+    "rgrempel",
+    "DavidHarrison",
+    "freebroccolo",
+    "paf31"
+  ],
+  "languages": {
+    "PureScript": {
+      "bytes": 46909,
+      "color": "#1D222D"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:50.860Z"
+}

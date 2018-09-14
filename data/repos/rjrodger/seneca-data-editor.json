@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "seneca-data-editor",
+  "full_name": "rjrodger/seneca-data-editor",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/seneca-data-editor",
+  "description": "Visual data editor for Seneca-based systems",
+  "fork": false,
+  "url": "https://api.github.com/repos/rjrodger/seneca-data-editor",
+  "languages_url": "https://api.github.com/repos/rjrodger/seneca-data-editor/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/seneca-data-editor/pulls{/number}",
+  "created_at": "2013-05-27T12:25:36Z",
+  "updated_at": "2016-10-17T03:39:19Z",
+  "pushed_at": "2015-12-22T10:28:51Z",
+  "homepage": null,
+  "size": 885,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "rjrodger": 37
+  },
+  "pulls_authors": [
+    "AdrieanKhisbe",
+    "bitdeli-chef"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1004561,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 22544,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:34.857Z"
+}

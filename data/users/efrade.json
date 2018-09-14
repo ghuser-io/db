@@ -1,0 +1,24 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "efrade",
+  "ghuser_created_at": "2018-09-11T10:07:38.348Z",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/34276144?v=4",
+  "html_url": "https://github.com/efrade",
+  "organizations_url": "https://api.github.com/users/efrade/orgs",
+  "repos_url": "https://api.github.com/users/efrade/repos",
+  "type": "User",
+  "name": "Enrique Frade",
+  "company": null,
+  "blog": "enriquefrade.com",
+  "location": null,
+  "email": null,
+  "bio": null,
+  "public_gists": 0,
+  "created_at": "2017-12-05T14:09:14Z",
+  "updated_at": "2018-06-22T10:15:28Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:13:17.128Z",
+    "repos": []
+  }
+}

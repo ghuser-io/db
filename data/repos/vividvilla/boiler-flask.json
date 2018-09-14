@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "boiler-flask",
+  "full_name": "vividvilla/boiler-flask",
+  "owner": "vividvilla",
+  "private": false,
+  "html_url": "https://github.com/vividvilla/boiler-flask",
+  "description": "Simple boiler plate for Flask test/sample apps.",
+  "fork": false,
+  "url": "https://api.github.com/repos/vividvilla/boiler-flask",
+  "languages_url": "https://api.github.com/repos/vividvilla/boiler-flask/languages",
+  "pulls_url": "https://api.github.com/repos/vividvilla/boiler-flask/pulls{/number}",
+  "created_at": "2017-08-16T18:24:07Z",
+  "updated_at": "2018-08-16T13:35:34Z",
+  "pushed_at": "2017-08-16T18:24:47Z",
+  "homepage": null,
+  "size": 2,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "vividvilla": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 894,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:16.118Z"
+}

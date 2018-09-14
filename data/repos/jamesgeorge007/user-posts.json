@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "user-posts",
+  "full_name": "jamesgeorge007/user-posts",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/user-posts",
+  "description": "A Single page Application made just for fun while learning Angular 6.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/user-posts",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/user-posts/languages",
+  "created_at": "2018-06-08T02:41:43Z",
+  "updated_at": "2018-06-28T06:43:54Z",
+  "pushed_at": "2018-06-28T06:43:53Z",
+  "homepage": null,
+  "size": 290,
+  "stargazers_count": 2,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jamesgeorge007": 33
+  },
+  "languages": {
+    "TypeScript": {
+      "bytes": 14125,
+      "color": "#2b7489"
+    },
+    "JavaScript": {
+      "bytes": 1716,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1657,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1465,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/user-posts/pulls{/number}",
+  "pulls_authors": [
+    "gallagherrchris",
+    "fusion89k"
+  ]
+}

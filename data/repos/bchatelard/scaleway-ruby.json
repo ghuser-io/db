@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "scaleway-ruby",
+  "full_name": "bchatelard/scaleway-ruby",
+  "owner": "bchatelard",
+  "private": false,
+  "html_url": "https://github.com/bchatelard/scaleway-ruby",
+  "description": "Easy to use Scaleway api client. (former Online Labs)",
+  "fork": false,
+  "url": "https://api.github.com/repos/bchatelard/scaleway-ruby",
+  "languages_url": "https://api.github.com/repos/bchatelard/scaleway-ruby/languages",
+  "pulls_url": "https://api.github.com/repos/bchatelard/scaleway-ruby/pulls{/number}",
+  "created_at": "2014-11-09T16:28:20Z",
+  "updated_at": "2018-08-11T13:46:21Z",
+  "pushed_at": "2017-02-28T08:26:28Z",
+  "homepage": "http://rubygems.org/gems/scaleway",
+  "size": 23,
+  "stargazers_count": 25,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "develop",
+  "contributors": {
+    "alehander42": 1,
+    "moul": 3,
+    "bchatelard": 23
+  },
+  "pulls_authors": [
+    "alehander42",
+    "moul"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 15996,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:37.431Z"
+}

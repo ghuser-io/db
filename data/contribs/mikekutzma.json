@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "pandas-dev/pandas": {
+      "full_name": "pandas-dev/pandas",
+      "name": "pandas",
+      "stargazers_count": 15995,
+      "popularity": 5,
+      "percentage": 0,
+      "maturity": 5,
+      "total_commits_count": 16061,
+      "activity": 5,
+      "total_score": 30,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "mikekutzma/compPhys": {
+      "full_name": "mikekutzma/compPhys",
+      "name": "compPhys",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 0.9716555544478149,
+      "total_score": 0.9716555544478149,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "mikekutzma/matfin": {
+      "full_name": "mikekutzma/matfin",
+      "name": "matfin",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 26,
+      "activity": 5,
+      "total_score": 5,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "pandas-dev"
+  ]
+}

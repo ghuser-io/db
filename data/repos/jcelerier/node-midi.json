@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-midi",
+  "full_name": "jcelerier/node-midi",
+  "owner": "jcelerier",
+  "private": false,
+  "html_url": "https://github.com/jcelerier/node-midi",
+  "description": "A node.js wrapper for RtMidi providing MIDI I/O",
+  "fork": true,
+  "url": "https://api.github.com/repos/jcelerier/node-midi",
+  "languages_url": "https://api.github.com/repos/jcelerier/node-midi/languages",
+  "pulls_url": "https://api.github.com/repos/jcelerier/node-midi/pulls{/number}",
+  "created_at": "2018-07-06T17:04:12Z",
+  "updated_at": "2018-07-06T17:06:33Z",
+  "pushed_at": "2018-07-06T17:04:42Z",
+  "homepage": "",
+  "size": 673,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 1,
+    "imyller": 1,
+    "a-rodin": 1,
+    "malyn": 1,
+    "michael-lawrence": 2,
+    "szymonkaliski": 2,
+    "julianduque": 2,
+    "hhromic": 4,
+    "tmpvar": 4,
+    "luxigo": 9,
+    "drewish": 24,
+    "justinlatimer": 27
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 11572,
+      "color": "#f34b7d"
+    },
+    "JavaScript": {
+      "bytes": 11231,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 1916,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:00.614Z"
+}

@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "exjsx",
+  "full_name": "talentdeficit/exjsx",
+  "owner": "talentdeficit",
+  "private": false,
+  "html_url": "https://github.com/talentdeficit/exjsx",
+  "description": "json for elixir",
+  "fork": false,
+  "url": "https://api.github.com/repos/talentdeficit/exjsx",
+  "languages_url": "https://api.github.com/repos/talentdeficit/exjsx/languages",
+  "pulls_url": "https://api.github.com/repos/talentdeficit/exjsx/pulls{/number}",
+  "created_at": "2013-05-29T05:41:49Z",
+  "updated_at": "2018-09-14T04:05:47Z",
+  "pushed_at": "2017-01-31T19:24:13Z",
+  "homepage": "",
+  "size": 146,
+  "stargazers_count": 154,
+  "language": "Elixir",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "izaakschroeder": 1,
+    "milmazz": 1,
+    "lowks": 1,
+    "andremedeiros": 1,
+    "yrashk": 1,
+    "igas": 2,
+    "parroty": 2,
+    "d0rc": 3,
+    "edgurgel": 5,
+    "talentdeficit": 131
+  },
+  "pulls_authors": [
+    "jwfearn",
+    "izaakschroeder",
+    "milmazz",
+    "lowks",
+    "andremedeiros",
+    "talentdeficit",
+    "jeremyvdw",
+    "igas",
+    "d0rc",
+    "edgurgel",
+    "parroty",
+    "yrashk",
+    "devinus"
+  ],
+  "languages": {
+    "Elixir": {
+      "bytes": 12635,
+      "color": "#6e4a7e"
+    }
+  },
+  "fetched_at": "2018-09-14T08:21:07.986Z"
+}

@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Js-css-Experimentations",
+  "full_name": "Monal5031/Js-css-Experimentations",
+  "owner": "Monal5031",
+  "private": false,
+  "html_url": "https://github.com/Monal5031/Js-css-Experimentations",
+  "description": "Useful List of experimentations made in js and css",
+  "fork": false,
+  "url": "https://api.github.com/repos/Monal5031/Js-css-Experimentations",
+  "languages_url": "https://api.github.com/repos/Monal5031/Js-css-Experimentations/languages",
+  "pulls_url": "https://api.github.com/repos/Monal5031/Js-css-Experimentations/pulls{/number}",
+  "created_at": "2017-07-05T18:50:28Z",
+  "updated_at": "2017-08-22T11:05:23Z",
+  "pushed_at": "2017-10-15T10:38:20Z",
+  "homepage": "",
+  "size": 48,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Amykw105": 1,
+    "mdt2": 1,
+    "anshumanv": 1,
+    "Monal5031": 21
+  },
+  "pulls_authors": [
+    "Amykw105",
+    "mdt2",
+    "Monal5031",
+    "anshumanv"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 5112,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 3578,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 3406,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-04T12:17:58.796Z"
+}

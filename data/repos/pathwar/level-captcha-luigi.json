@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "level-captcha-luigi",
+  "full_name": "pathwar/level-captcha-luigi",
+  "owner": "pathwar",
+  "private": false,
+  "html_url": "https://github.com/pathwar/level-captcha-luigi",
+  "description": ":video_game: Captcha Luigi level on Pathwar",
+  "fork": false,
+  "url": "https://api.github.com/repos/pathwar/level-captcha-luigi",
+  "languages_url": "https://api.github.com/repos/pathwar/level-captcha-luigi/languages",
+  "pulls_url": "https://api.github.com/repos/pathwar/level-captcha-luigi/pulls{/number}",
+  "created_at": "2014-12-24T17:39:37Z",
+  "updated_at": "2016-02-10T12:28:58Z",
+  "pushed_at": "2018-03-02T17:43:54Z",
+  "homepage": "www.pathwar.net",
+  "size": 7,
+  "stargazers_count": 1,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "pathwar",
+    "id": 2904560,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI5MDQ1NjA=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/2904560?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pathwar",
+    "html_url": "https://github.com/pathwar",
+    "followers_url": "https://api.github.com/users/pathwar/followers",
+    "following_url": "https://api.github.com/users/pathwar/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pathwar/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pathwar/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pathwar/subscriptions",
+    "organizations_url": "https://api.github.com/users/pathwar/orgs",
+    "repos_url": "https://api.github.com/users/pathwar/repos",
+    "events_url": "https://api.github.com/users/pathwar/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pathwar/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "aimxhaisse": 1,
+    "moul": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 1441,
+      "color": "#4F5D95"
+    },
+    "Makefile": {
+      "bytes": 245,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 85,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:40.412Z"
+}

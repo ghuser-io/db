@@ -1,0 +1,87 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wine_bouncer",
+  "full_name": "antek-drzewiecki/wine_bouncer",
+  "owner": "antek-drzewiecki",
+  "private": false,
+  "html_url": "https://github.com/antek-drzewiecki/wine_bouncer",
+  "description": "A Ruby gem that allows Oauth2 protection with Doorkeeper for Grape Api's",
+  "fork": false,
+  "url": "https://api.github.com/repos/antek-drzewiecki/wine_bouncer",
+  "languages_url": "https://api.github.com/repos/antek-drzewiecki/wine_bouncer/languages",
+  "pulls_url": "https://api.github.com/repos/antek-drzewiecki/wine_bouncer/pulls{/number}",
+  "created_at": "2014-09-15T09:42:23Z",
+  "updated_at": "2018-09-04T15:21:23Z",
+  "pushed_at": "2018-08-16T19:58:07Z",
+  "homepage": null,
+  "size": 188,
+  "stargazers_count": 98,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "gustavolobo": 1,
+    "stereoscott": 1,
+    "synth": 1,
+    "sethherr": 1,
+    "zzk": 1,
+    "crm114": 1,
+    "daveallie": 2,
+    "calfzhou": 2,
+    "Fryie": 3,
+    "nickcharlton": 3,
+    "sunnyrjuneja": 4,
+    "chandeeland": 6,
+    "texpert": 6,
+    "antek-drzewiecki": 10
+  },
+  "pulls_authors": [
+    "antek-drzewiecki",
+    "stereoscott",
+    "gustavolobo",
+    "MaximeD",
+    "chandeeland",
+    "daveallie",
+    "texpert",
+    "mkristian",
+    "synth",
+    "penso",
+    "calfzhou",
+    "Fryie",
+    "neilor",
+    "masarakki",
+    "sethherr",
+    "nickcharlton",
+    "ddoolin",
+    "sunnyrjuneja",
+    "zzk",
+    "crm114"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 79475,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 4883,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 683,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 599,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T23:12:20.623Z"
+}

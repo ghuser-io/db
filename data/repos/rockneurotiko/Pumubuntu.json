@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Pumubuntu",
+  "full_name": "rockneurotiko/Pumubuntu",
+  "owner": "rockneurotiko",
+  "private": false,
+  "html_url": "https://github.com/rockneurotiko/Pumubuntu",
+  "description": "Pomodoro applet fo Ubuntu with Unity compatibility.",
+  "fork": true,
+  "url": "https://api.github.com/repos/rockneurotiko/Pumubuntu",
+  "languages_url": "https://api.github.com/repos/rockneurotiko/Pumubuntu/languages",
+  "pulls_url": "https://api.github.com/repos/rockneurotiko/Pumubuntu/pulls{/number}",
+  "created_at": "2012-02-13T18:23:25Z",
+  "updated_at": "2013-01-07T20:44:12Z",
+  "pushed_at": "2012-02-13T18:24:31Z",
+  "homepage": "",
+  "size": 821,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dc740": 6,
+    "antoniovazquezblanco": 25
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 10433,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:52.247Z"
+}

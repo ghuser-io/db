@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "prAk",
+  "full_name": "progma/prAk",
+  "owner": "progma",
+  "private": false,
+  "html_url": "https://github.com/progma/prAk",
+  "description": "Web pro interaktivní výuku programování s pomocí javascriptu",
+  "fork": false,
+  "url": "https://api.github.com/repos/progma/prAk",
+  "languages_url": "https://api.github.com/repos/progma/prAk/languages",
+  "pulls_url": "https://api.github.com/repos/progma/prAk/pulls{/number}",
+  "created_at": "2012-06-21T11:58:18Z",
+  "updated_at": "2018-07-23T21:38:28Z",
+  "pushed_at": "2013-01-21T14:22:08Z",
+  "homepage": "http://prak.mff.cuni.cz",
+  "size": 3564,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "progma",
+    "id": 1876631,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4NzY2MzE=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1876631?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/progma",
+    "html_url": "https://github.com/progma",
+    "followers_url": "https://api.github.com/users/progma/followers",
+    "following_url": "https://api.github.com/users/progma/following{/other_user}",
+    "gists_url": "https://api.github.com/users/progma/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/progma/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/progma/subscriptions",
+    "organizations_url": "https://api.github.com/users/progma/orgs",
+    "repos_url": "https://api.github.com/users/progma/repos",
+    "events_url": "https://api.github.com/users/progma/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/progma/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jirkamarsik": 2,
+    "davidmarek": 13,
+    "lukas-lansky": 69,
+    "JackeLee": 97
+  },
+  "pulls_authors": [
+    "JackeLee",
+    "lukas-lansky",
+    "davidmarek",
+    "jirkamarsik"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 959310,
+      "color": "#f1e05a"
+    },
+    "CoffeeScript": {
+      "bytes": 115201,
+      "color": "#244776"
+    },
+    "Shell": {
+      "bytes": 353,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:41:13.614Z"
+}

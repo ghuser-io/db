@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tabtrekker",
+  "full_name": "gowong/tabtrekker",
+  "owner": "gowong",
+  "private": false,
+  "html_url": "https://github.com/gowong/tabtrekker",
+  "description": "Explore the world one tab at a time (Firefox addon).",
+  "fork": false,
+  "url": "https://api.github.com/repos/gowong/tabtrekker",
+  "languages_url": "https://api.github.com/repos/gowong/tabtrekker/languages",
+  "pulls_url": "https://api.github.com/repos/gowong/tabtrekker/pulls{/number}",
+  "created_at": "2014-09-27T21:53:28Z",
+  "updated_at": "2018-03-19T18:54:35Z",
+  "pushed_at": "2017-12-11T02:43:21Z",
+  "homepage": "http://tabtrekker.com",
+  "size": 1055609,
+  "stargazers_count": 44,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mpl-2.0",
+    "name": "Mozilla Public License 2.0",
+    "spdx_id": "MPL-2.0",
+    "url": "https://api.github.com/licenses/mpl-2.0",
+    "node_id": "MDc6TGljZW5zZTE0"
+  },
+  "default_branch": "develop",
+  "contributors": {
+    "toyg": 1,
+    "jish": 2,
+    "zqtcao": 2,
+    "gowong": 405
+  },
+  "pulls_authors": [
+    "toyg",
+    "jish",
+    "gowong",
+    "zqtcao"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 175073,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 34653,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 5124,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:03.061Z"
+}

@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "FormulaCompiler",
+  "full_name": "turbo/FormulaCompiler",
+  "owner": "turbo",
+  "private": false,
+  "html_url": "https://github.com/turbo/FormulaCompiler",
+  "description": "Compile any code to basic mathematical formulas.",
+  "fork": false,
+  "url": "https://api.github.com/repos/turbo/FormulaCompiler",
+  "languages_url": "https://api.github.com/repos/turbo/FormulaCompiler/languages",
+  "pulls_url": "https://api.github.com/repos/turbo/FormulaCompiler/pulls{/number}",
+  "created_at": "2016-04-28T18:27:51Z",
+  "updated_at": "2018-06-03T09:01:41Z",
+  "pushed_at": "2017-03-20T01:27:06Z",
+  "homepage": "http://turbo.github.io/FormulaCompiler",
+  "size": 1589,
+  "stargazers_count": 4,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "turbo": 1,
+    "hlecter": 2
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T07:44:09.312Z"
+}

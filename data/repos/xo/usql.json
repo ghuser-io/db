@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 1,
+    "badbart": 1,
+    "kenshaw": 307
+  },
+  "name": "usql",
+  "full_name": "xo/usql",
+  "owner": "xo",
+  "private": false,
+  "html_url": "https://github.com/xo/usql",
+  "description": "universal command-line interface for SQL databases",
+  "fork": false,
+  "url": "https://api.github.com/repos/xo/usql",
+  "languages_url": "https://api.github.com/repos/xo/usql/languages",
+  "created_at": "2017-03-02T13:03:21Z",
+  "updated_at": "2018-09-14T02:27:25Z",
+  "pushed_at": "2018-07-28T03:30:27Z",
+  "homepage": "",
+  "size": 460,
+  "stargazers_count": 4343,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "xo",
+    "id": 30761128,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMwNzYxMTI4",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/30761128?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/xo",
+    "html_url": "https://github.com/xo",
+    "followers_url": "https://api.github.com/users/xo/followers",
+    "following_url": "https://api.github.com/users/xo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/xo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/xo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/xo/subscriptions",
+    "organizations_url": "https://api.github.com/users/xo/orgs",
+    "repos_url": "https://api.github.com/users/xo/repos",
+    "events_url": "https://api.github.com/users/xo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/xo/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "Go": {
+      "bytes": 155390,
+      "color": "#375eab"
+    },
+    "Shell": {
+      "bytes": 7141,
+      "color": "#89e051"
+    },
+    "Dockerfile": {
+      "bytes": 636,
+      "color": "#0db7ed"
+    },
+    "PLpgSQL": {
+      "bytes": 269,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-14T08:23:08.356Z",
+  "pulls_url": "https://api.github.com/repos/xo/usql/pulls{/number}",
+  "pulls_authors": [
+    "dolmen",
+    "Calinou",
+    "badbart",
+    "matiasinsaurralde",
+    "harjot85"
+  ]
+}

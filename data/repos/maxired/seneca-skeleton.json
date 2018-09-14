@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "seneca-skeleton",
+  "full_name": "maxired/seneca-skeleton",
+  "owner": "maxired",
+  "private": false,
+  "html_url": "https://github.com/maxired/seneca-skeleton",
+  "description": " A Seneca.js skeleton to write plugins",
+  "fork": false,
+  "url": "https://api.github.com/repos/maxired/seneca-skeleton",
+  "languages_url": "https://api.github.com/repos/maxired/seneca-skeleton/languages",
+  "pulls_url": "https://api.github.com/repos/maxired/seneca-skeleton/pulls{/number}",
+  "created_at": "2015-10-08T14:51:14Z",
+  "updated_at": "2016-01-23T10:21:33Z",
+  "pushed_at": "2015-12-29T22:27:32Z",
+  "homepage": null,
+  "size": 5,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "maxired": 2,
+    "AdrieanKhisbe": 5
+  },
+  "pulls_authors": [
+    "AdrieanKhisbe"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 401,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:27.596Z"
+}

@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bottle_service",
+  "full_name": "uberous/bottle_service",
+  "owner": "uberous",
+  "private": false,
+  "html_url": "https://github.com/uberous/bottle_service",
+  "description": "Simple Service Objects",
+  "fork": false,
+  "url": "https://api.github.com/repos/uberous/bottle_service",
+  "languages_url": "https://api.github.com/repos/uberous/bottle_service/languages",
+  "pulls_url": "https://api.github.com/repos/uberous/bottle_service/pulls{/number}",
+  "created_at": "2016-03-11T15:38:13Z",
+  "updated_at": "2016-04-06T21:23:19Z",
+  "pushed_at": "2016-09-21T12:41:16Z",
+  "homepage": "http://bottleservice.space/",
+  "size": 26,
+  "stargazers_count": 3,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "uberous",
+    "id": 5321930,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjUzMjE5MzA=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/5321930?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/uberous",
+    "html_url": "https://github.com/uberous",
+    "followers_url": "https://api.github.com/users/uberous/followers",
+    "following_url": "https://api.github.com/users/uberous/following{/other_user}",
+    "gists_url": "https://api.github.com/users/uberous/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/uberous/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/uberous/subscriptions",
+    "organizations_url": "https://api.github.com/users/uberous/orgs",
+    "repos_url": "https://api.github.com/users/uberous/repos",
+    "events_url": "https://api.github.com/users/uberous/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/uberous/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jeroenvisser101": 5,
+    "hl": 11
+  },
+  "pulls_authors": [
+    "jeroenvisser101"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 7928,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:44.278Z"
+}

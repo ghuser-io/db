@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ceefax.js",
+  "full_name": "MattRyder/ceefax.js",
+  "owner": "MattRyder",
+  "private": false,
+  "html_url": "https://github.com/MattRyder/ceefax.js",
+  "description": "A BBC Ceefax terminal/emulator in HTML5 & Javascript",
+  "fork": false,
+  "url": "https://api.github.com/repos/MattRyder/ceefax.js",
+  "languages_url": "https://api.github.com/repos/MattRyder/ceefax.js/languages",
+  "pulls_url": "https://api.github.com/repos/MattRyder/ceefax.js/pulls{/number}",
+  "created_at": "2013-02-07T21:42:32Z",
+  "updated_at": "2018-07-18T14:32:52Z",
+  "pushed_at": "2013-02-07T23:17:34Z",
+  "homepage": "http://mattryder.github.com/ceefax.js/ceefax/",
+  "size": 188,
+  "stargazers_count": 8,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "MattRyder": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 11799,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T00:06:00.904Z"
+}

@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "demos",
+  "full_name": "ebidel/demos",
+  "owner": "ebidel",
+  "private": false,
+  "html_url": "https://github.com/ebidel/demos",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/ebidel/demos",
+  "languages_url": "https://api.github.com/repos/ebidel/demos/languages",
+  "created_at": "2017-09-16T16:54:12Z",
+  "updated_at": "2018-08-27T17:03:41Z",
+  "pushed_at": "2018-07-19T22:50:51Z",
+  "homepage": "https://ebidel.github.io/demos/",
+  "size": 5375,
+  "stargazers_count": 74,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "donysukardi": 1,
+    "itaditya": 1,
+    "ebidel": 28
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 46371,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-27T19:18:52.474Z",
+  "pulls_url": "https://api.github.com/repos/ebidel/demos/pulls{/number}",
+  "pulls_authors": [
+    "donysukardi",
+    "itaditya"
+  ]
+}

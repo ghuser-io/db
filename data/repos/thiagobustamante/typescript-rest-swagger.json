@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "typescript-rest-swagger",
+  "full_name": "thiagobustamante/typescript-rest-swagger",
+  "owner": "thiagobustamante",
+  "private": false,
+  "html_url": "https://github.com/thiagobustamante/typescript-rest-swagger",
+  "description": "Swagger tools for typescript-rest",
+  "fork": false,
+  "url": "https://api.github.com/repos/thiagobustamante/typescript-rest-swagger",
+  "languages_url": "https://api.github.com/repos/thiagobustamante/typescript-rest-swagger/languages",
+  "pulls_url": "https://api.github.com/repos/thiagobustamante/typescript-rest-swagger/pulls{/number}",
+  "created_at": "2017-04-28T03:39:07Z",
+  "updated_at": "2018-09-11T17:06:07Z",
+  "pushed_at": "2018-08-19T02:26:19Z",
+  "homepage": null,
+  "size": 211,
+  "stargazers_count": 41,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "tchambard": 1,
+    "dotob": 1,
+    "robkallen": 1,
+    "alessandrovaccaro": 2,
+    "kshmir": 10,
+    "ngraef": 17,
+    "thiagobustamante": 56
+  },
+  "pulls_authors": [
+    "tchambard",
+    "ngraef",
+    "alessandrovaccaro",
+    "dotob",
+    "vellengs",
+    "krazar",
+    "kshmir",
+    "robkallen"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 114630,
+      "color": "#2b7489"
+    },
+    "JavaScript": {
+      "bytes": 2701,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T17:11:51.333Z"
+}

@@ -1,0 +1,104 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Swish",
+  "full_name": "thoughtbot/Swish",
+  "owner": "thoughtbot",
+  "private": false,
+  "html_url": "https://github.com/thoughtbot/Swish",
+  "description": "Nothing but Net(working)",
+  "fork": false,
+  "url": "https://api.github.com/repos/thoughtbot/Swish",
+  "languages_url": "https://api.github.com/repos/thoughtbot/Swish/languages",
+  "pulls_url": "https://api.github.com/repos/thoughtbot/Swish/pulls{/number}",
+  "created_at": "2015-07-17T14:51:14Z",
+  "updated_at": "2018-09-06T22:19:14Z",
+  "pushed_at": "2018-04-25T19:46:26Z",
+  "homepage": null,
+  "size": 478,
+  "stargazers_count": 364,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "thoughtbot",
+    "id": 6183,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxODM=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/6183?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/thoughtbot",
+    "html_url": "https://github.com/thoughtbot",
+    "followers_url": "https://api.github.com/users/thoughtbot/followers",
+    "following_url": "https://api.github.com/users/thoughtbot/following{/other_user}",
+    "gists_url": "https://api.github.com/users/thoughtbot/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/thoughtbot/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/thoughtbot/subscriptions",
+    "organizations_url": "https://api.github.com/users/thoughtbot/orgs",
+    "repos_url": "https://api.github.com/users/thoughtbot/repos",
+    "events_url": "https://api.github.com/users/thoughtbot/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/thoughtbot/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "klaaspieter": 1,
+    "Arcovv": 1,
+    "tysongach": 1,
+    "lfarah": 1,
+    "BasThomas": 1,
+    "whmii": 2,
+    "kaishin": 2,
+    "jakecraige": 3,
+    "paulyoung": 17,
+    "sidraval": 19,
+    "sharplet": 34,
+    "gfontenot": 45
+  },
+  "pulls_authors": [
+    "gfontenot",
+    "klaaspieter",
+    "sidraval",
+    "sharplet",
+    "Arcovv",
+    "tonyd256",
+    "xNekOIx",
+    "jakecraige",
+    "zinthemoney",
+    "lfarah",
+    "nickvelloff",
+    "BasThomas",
+    "kaishin",
+    "jnutting",
+    "paulyoung"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 24928,
+      "color": "#ffac45"
+    },
+    "Objective-C": {
+      "bytes": 951,
+      "color": "#438eff"
+    },
+    "Shell": {
+      "bytes": 835,
+      "color": "#89e051"
+    },
+    "Ruby": {
+      "bytes": 792,
+      "color": "#701516"
+    },
+    "Vim script": {
+      "bytes": 41,
+      "color": "#199f4b"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:55.887Z"
+}

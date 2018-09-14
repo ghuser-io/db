@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "to_lua",
+  "full_name": "mntnorv/to_lua",
+  "owner": "mntnorv",
+  "private": false,
+  "html_url": "https://github.com/mntnorv/to_lua",
+  "description": "Serialize Ruby objects to lua tables",
+  "fork": false,
+  "url": "https://api.github.com/repos/mntnorv/to_lua",
+  "languages_url": "https://api.github.com/repos/mntnorv/to_lua/languages",
+  "pulls_url": "https://api.github.com/repos/mntnorv/to_lua/pulls{/number}",
+  "created_at": "2015-05-14T17:30:18Z",
+  "updated_at": "2018-06-29T01:20:30Z",
+  "pushed_at": "2016-08-16T10:22:32Z",
+  "homepage": null,
+  "size": 17,
+  "stargazers_count": 7,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mntnorv": 21
+  },
+  "pulls_authors": [
+    "Nikamura"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 15042,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T17:13:23.745Z"
+}

@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Bulb-Glow-App",
+  "full_name": "jamesgeorge007/Bulb-Glow-App",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/Bulb-Glow-App",
+  "description": "This is a very simple Android application that I did as part of my Android course from learncodeonline. It is all about changing a bulb which is an image from blue to green and vice-versa with a button click.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/Bulb-Glow-App",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/Bulb-Glow-App/languages",
+  "created_at": "2017-10-28T12:40:14Z",
+  "updated_at": "2018-07-17T16:06:56Z",
+  "pushed_at": "2018-07-17T16:06:54Z",
+  "homepage": null,
+  "size": 1397,
+  "stargazers_count": 3,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jamesgeorge007": 6
+  },
+  "languages": {
+    "Java": {
+      "bytes": 2509,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/Bulb-Glow-App/pulls{/number}",
+  "pulls_authors": []
+}

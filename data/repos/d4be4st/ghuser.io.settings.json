@@ -1,0 +1,31 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ghuser.io.settings",
+  "full_name": "d4be4st/ghuser.io.settings",
+  "owner": "d4be4st",
+  "private": false,
+  "html_url": "https://github.com/d4be4st/ghuser.io.settings",
+  "description": "User metadata for ghuser.io",
+  "fork": true,
+  "url": "https://api.github.com/repos/d4be4st/ghuser.io.settings",
+  "languages_url": "https://api.github.com/repos/d4be4st/ghuser.io.settings/languages",
+  "pulls_url": "https://api.github.com/repos/d4be4st/ghuser.io.settings/pulls{/number}",
+  "created_at": "2018-08-17T17:30:54Z",
+  "updated_at": "2018-08-18T11:37:17Z",
+  "pushed_at": "2018-08-17T17:32:15Z",
+  "homepage": "https://ghuser.io",
+  "size": 2,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "d4be4st": 1,
+    "AurelienLourot": 3
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-08-18T20:06:45.505Z"
+}

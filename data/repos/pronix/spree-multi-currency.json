@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "spree-multi-currency",
+  "full_name": "pronix/spree-multi-currency",
+  "owner": "pronix",
+  "private": false,
+  "html_url": "https://github.com/pronix/spree-multi-currency",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/pronix/spree-multi-currency",
+  "languages_url": "https://api.github.com/repos/pronix/spree-multi-currency/languages",
+  "pulls_url": "https://api.github.com/repos/pronix/spree-multi-currency/pulls{/number}",
+  "created_at": "2010-11-10T04:53:29Z",
+  "updated_at": "2018-08-14T11:30:31Z",
+  "pushed_at": "2017-12-07T11:30:00Z",
+  "homepage": "",
+  "size": 229,
+  "stargazers_count": 51,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "filipechagas": 1,
+    "aadonskoy": 1,
+    "vkris": 1,
+    "camelmasa": 1,
+    "rschumann": 1,
+    "devilcoders": 1,
+    "tomash": 1,
+    "yonahforst": 2,
+    "lcx": 2,
+    "coupling": 3,
+    "divineforest": 3,
+    "Fodoj": 5,
+    "arthurtalkgoal": 10,
+    "chalmagean": 14,
+    "parallel588": 31,
+    "pronix": 69
+  },
+  "pulls_authors": [
+    "arthurtalkgoal",
+    "scsirdx",
+    "filipechagas",
+    "yonahforst",
+    "aadonskoy",
+    "joshteng",
+    "camelmasa",
+    "rschumann",
+    "chalmagean",
+    "devilcoders",
+    "tomash",
+    "divineforest"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 57966,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 6050,
+      "color": "#e34c26"
+    },
+    "Gherkin": {
+      "bytes": 1104,
+      "color": "#5B2063"
+    }
+  },
+  "fetched_at": "2018-09-12T16:53:09.405Z"
+}

@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PHP_Resources",
+  "full_name": "ankitjain28may/PHP_Resources",
+  "owner": "ankitjain28may",
+  "private": false,
+  "html_url": "https://github.com/ankitjain28may/PHP_Resources",
+  "description": "Some of my php scripts which can be used later in some projects",
+  "fork": false,
+  "url": "https://api.github.com/repos/ankitjain28may/PHP_Resources",
+  "languages_url": "https://api.github.com/repos/ankitjain28may/PHP_Resources/languages",
+  "created_at": "2016-09-13T19:24:56Z",
+  "updated_at": "2017-10-07T18:00:22Z",
+  "pushed_at": "2017-11-08T06:24:06Z",
+  "homepage": "",
+  "size": 311,
+  "stargazers_count": 3,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "itsaman": 1,
+    "ankitjain28may": 11
+  },
+  "languages": {
+    "PHP": {
+      "bytes": 753569,
+      "color": "#4F5D95"
+    },
+    "CSS": {
+      "bytes": 83905,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 32865,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 17151,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 4715,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/ankitjain28may/PHP_Resources/pulls{/number}",
+  "pulls_authors": [
+    "itsaman"
+  ]
+}

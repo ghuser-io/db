@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vagrant-publish",
+  "full_name": "schmich/vagrant-publish",
+  "owner": "schmich",
+  "private": false,
+  "html_url": "https://github.com/schmich/vagrant-publish",
+  "description": "Command-line tool for quickly creating and publishing Vagrant base boxes.",
+  "fork": false,
+  "url": "https://api.github.com/repos/schmich/vagrant-publish",
+  "languages_url": "https://api.github.com/repos/schmich/vagrant-publish/languages",
+  "pulls_url": "https://api.github.com/repos/schmich/vagrant-publish/pulls{/number}",
+  "created_at": "2014-08-26T03:38:49Z",
+  "updated_at": "2016-09-28T16:52:00Z",
+  "pushed_at": "2014-08-31T02:57:19Z",
+  "homepage": "",
+  "size": 140,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schmich": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 7797,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:25.936Z"
+}

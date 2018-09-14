@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jvac",
+  "full_name": "eroj333/jvac",
+  "owner": "eroj333",
+  "private": false,
+  "html_url": "https://github.com/eroj333/jvac",
+  "description": "Get Notifications for Job Vacancies Published in Printed Newspapers",
+  "fork": false,
+  "url": "https://api.github.com/repos/eroj333/jvac",
+  "languages_url": "https://api.github.com/repos/eroj333/jvac/languages",
+  "pulls_url": "https://api.github.com/repos/eroj333/jvac/pulls{/number}",
+  "created_at": "2016-06-05T06:47:29Z",
+  "updated_at": "2016-10-12T16:15:25Z",
+  "pushed_at": "2016-11-06T05:27:03Z",
+  "homepage": "",
+  "size": 8582,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {},
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 1300,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 548,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:32.845Z"
+}

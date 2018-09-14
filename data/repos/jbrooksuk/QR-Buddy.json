@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "QR-Buddy",
+  "full_name": "jbrooksuk/QR-Buddy",
+  "owner": "jbrooksuk",
+  "private": false,
+  "html_url": "https://github.com/jbrooksuk/QR-Buddy",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/jbrooksuk/QR-Buddy",
+  "languages_url": "https://api.github.com/repos/jbrooksuk/QR-Buddy/languages",
+  "pulls_url": "https://api.github.com/repos/jbrooksuk/QR-Buddy/pulls{/number}",
+  "created_at": "2014-07-04T21:35:06Z",
+  "updated_at": "2014-12-16T11:06:40Z",
+  "pushed_at": "2014-12-16T11:06:34Z",
+  "homepage": "http://james-brooks.uk",
+  "size": 178,
+  "stargazers_count": 1,
+  "language": "Objective-C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jbrooksuk": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Objective-C": {
+      "bytes": 27921,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:55.088Z"
+}

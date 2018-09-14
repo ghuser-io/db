@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Snifferdog",
+  "full_name": "World-wd/Snifferdog",
+  "owner": "World-wd",
+  "private": false,
+  "html_url": "https://github.com/World-wd/Snifferdog",
+  "description": "Open-source search engine for ZeroNet, based in Kaffiene.",
+  "fork": false,
+  "url": "https://api.github.com/repos/World-wd/Snifferdog",
+  "languages_url": "https://api.github.com/repos/World-wd/Snifferdog/languages",
+  "pulls_url": "https://api.github.com/repos/World-wd/Snifferdog/pulls{/number}",
+  "created_at": "2017-04-08T23:09:20Z",
+  "updated_at": "2017-07-09T15:16:46Z",
+  "pushed_at": "2017-04-12T18:17:35Z",
+  "homepage": "https://bit.surf:43110/snifferdog.bit",
+  "size": 3387,
+  "stargazers_count": 2,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "World-wd",
+    "id": 17253816,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3MjUzODE2",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/17253816?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/World-wd",
+    "html_url": "https://github.com/World-wd",
+    "followers_url": "https://api.github.com/users/World-wd/followers",
+    "following_url": "https://api.github.com/users/World-wd/following{/other_user}",
+    "gists_url": "https://api.github.com/users/World-wd/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/World-wd/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/World-wd/subscriptions",
+    "organizations_url": "https://api.github.com/users/World-wd/orgs",
+    "repos_url": "https://api.github.com/users/World-wd/repos",
+    "events_url": "https://api.github.com/users/World-wd/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/World-wd/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "DaniellMesquita": 69
+  },
+  "pulls_authors": [
+    "mkg20001"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 21143,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 17873,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 190,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:33.912Z"
+}

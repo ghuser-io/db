@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "diumoo",
+  "full_name": "shanzi/diumoo",
+  "owner": "shanzi",
+  "private": false,
+  "html_url": "https://github.com/shanzi/diumoo",
+  "description": "Third party Douban.FM client for Mac",
+  "fork": false,
+  "url": "https://api.github.com/repos/shanzi/diumoo",
+  "languages_url": "https://api.github.com/repos/shanzi/diumoo/languages",
+  "created_at": "2016-06-01T12:55:38Z",
+  "updated_at": "2018-09-09T11:21:30Z",
+  "pushed_at": "2018-01-08T04:19:14Z",
+  "homepage": "http://diumoo.net",
+  "size": 4301,
+  "stargazers_count": 354,
+  "language": "Objective-C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "seansay": 1,
+    "wei": 2,
+    "leavez": 4,
+    "AnakinMac": 107,
+    "shanzi": 233
+  },
+  "languages": {
+    "Objective-C": {
+      "bytes": 185050,
+      "color": "#438eff"
+    },
+    "Swift": {
+      "bytes": 31443,
+      "color": "#ffac45"
+    },
+    "Ruby": {
+      "bytes": 264,
+      "color": "#701516"
+    },
+    "C": {
+      "bytes": 250,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-09T13:14:30.149Z",
+  "pulls_url": "https://api.github.com/repos/shanzi/diumoo/pulls{/number}",
+  "pulls_authors": [
+    "wei",
+    "leavez",
+    "kilolumen",
+    "shanzi",
+    "leonskywalker"
+  ]
+}

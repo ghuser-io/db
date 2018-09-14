@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "aloisdg.github.io",
+  "full_name": "aloisdg/aloisdg.github.io",
+  "owner": "aloisdg",
+  "private": false,
+  "html_url": "https://github.com/aloisdg/aloisdg.github.io",
+  "description": "web",
+  "fork": false,
+  "url": "https://api.github.com/repos/aloisdg/aloisdg.github.io",
+  "languages_url": "https://api.github.com/repos/aloisdg/aloisdg.github.io/languages",
+  "pulls_url": "https://api.github.com/repos/aloisdg/aloisdg.github.io/pulls{/number}",
+  "created_at": "2016-08-27T20:54:01Z",
+  "updated_at": "2016-10-13T10:14:03Z",
+  "pushed_at": "2016-09-25T20:02:33Z",
+  "homepage": null,
+  "size": 545,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "aloisdg": 17
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 66057,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 11942,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 4281,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:12.617Z"
+}

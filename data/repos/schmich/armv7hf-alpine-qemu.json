@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "armv7hf-alpine-qemu",
+  "full_name": "schmich/armv7hf-alpine-qemu",
+  "owner": "schmich",
+  "private": false,
+  "html_url": "https://github.com/schmich/armv7hf-alpine-qemu",
+  "description": "Alpine ARM Docker image with QEMU cross-build support",
+  "fork": true,
+  "url": "https://api.github.com/repos/schmich/armv7hf-alpine-qemu",
+  "languages_url": "https://api.github.com/repos/schmich/armv7hf-alpine-qemu/languages",
+  "pulls_url": "https://api.github.com/repos/schmich/armv7hf-alpine-qemu/pulls{/number}",
+  "created_at": "2017-04-30T09:46:17Z",
+  "updated_at": "2018-08-13T20:22:00Z",
+  "pushed_at": "2017-05-01T16:54:46Z",
+  "homepage": "https://hub.docker.com/r/schmich/armv7hf-alpine-qemu",
+  "size": 5694,
+  "stargazers_count": 7,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "petrosagg": 6,
+    "schmich": 7
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 1066,
+      "color": "#375eab"
+    },
+    "Shell": {
+      "bytes": 380,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 277,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:28.238Z"
+}

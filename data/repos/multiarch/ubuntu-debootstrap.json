@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ubuntu-debootstrap",
+  "full_name": "multiarch/ubuntu-debootstrap",
+  "owner": "multiarch",
+  "private": false,
+  "html_url": "https://github.com/multiarch/ubuntu-debootstrap",
+  "description": ":earth_africa: `ubuntu-debootstrap` Docker image for multiple architectures",
+  "fork": false,
+  "url": "https://api.github.com/repos/multiarch/ubuntu-debootstrap",
+  "languages_url": "https://api.github.com/repos/multiarch/ubuntu-debootstrap/languages",
+  "pulls_url": "https://api.github.com/repos/multiarch/ubuntu-debootstrap/pulls{/number}",
+  "created_at": "2015-12-01T18:18:02Z",
+  "updated_at": "2018-09-13T03:21:26Z",
+  "pushed_at": "2018-05-27T19:51:40Z",
+  "homepage": "https://hub.docker.com/r/multiarch/ubuntu-debootstrap/",
+  "size": 45,
+  "stargazers_count": 9,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "multiarch",
+    "id": 16105548,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2MTA1NTQ4",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/16105548?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/multiarch",
+    "html_url": "https://github.com/multiarch",
+    "followers_url": "https://api.github.com/users/multiarch/followers",
+    "following_url": "https://api.github.com/users/multiarch/following{/other_user}",
+    "gists_url": "https://api.github.com/users/multiarch/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/multiarch/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/multiarch/subscriptions",
+    "organizations_url": "https://api.github.com/users/multiarch/orgs",
+    "repos_url": "https://api.github.com/users/multiarch/repos",
+    "events_url": "https://api.github.com/users/multiarch/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/multiarch/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "bchatelard": 1,
+    "QuentinPerez": 2,
+    "paladox": 4,
+    "meyskens": 6,
+    "lafin": 7,
+    "moul": 32
+  },
+  "pulls_authors": [
+    "lafin",
+    "meyskens",
+    "paladox",
+    "bchatelard",
+    "QuentinPerez",
+    "moul"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 2380,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T16:37:52.938Z"
+}

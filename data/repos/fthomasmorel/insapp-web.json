@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "insapp-web",
+  "full_name": "fthomasmorel/insapp-web",
+  "owner": "fthomasmorel",
+  "private": false,
+  "html_url": "https://github.com/fthomasmorel/insapp-web",
+  "description": "Front end part of insapp project",
+  "fork": false,
+  "url": "https://api.github.com/repos/fthomasmorel/insapp-web",
+  "languages_url": "https://api.github.com/repos/fthomasmorel/insapp-web/languages",
+  "pulls_url": "https://api.github.com/repos/fthomasmorel/insapp-web/pulls{/number}",
+  "created_at": "2016-03-12T15:38:14Z",
+  "updated_at": "2017-01-19T17:51:02Z",
+  "pushed_at": "2016-10-21T05:51:44Z",
+  "homepage": null,
+  "size": 4060,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "superboum": 1,
+    "fthomasmorel": 14
+  },
+  "pulls_authors": [
+    "superboum"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 244051,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 141818,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 47784,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:21.574Z"
+}

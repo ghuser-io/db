@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "uom-plugin",
+  "full_name": "adamgundry/uom-plugin",
+  "owner": "adamgundry",
+  "private": false,
+  "html_url": "https://github.com/adamgundry/uom-plugin",
+  "description": "Units of measure as a GHC typechecker plugin",
+  "fork": false,
+  "url": "https://api.github.com/repos/adamgundry/uom-plugin",
+  "languages_url": "https://api.github.com/repos/adamgundry/uom-plugin/languages",
+  "pulls_url": "https://api.github.com/repos/adamgundry/uom-plugin/pulls{/number}",
+  "created_at": "2014-11-26T14:28:58Z",
+  "updated_at": "2018-06-13T20:27:34Z",
+  "pushed_at": "2018-06-13T20:27:32Z",
+  "homepage": null,
+  "size": 246,
+  "stargazers_count": 26,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "expipiplus1": 1,
+    "erikd": 2,
+    "marcinmrotek": 3,
+    "philderbeast": 59,
+    "adamgundry": 152
+  },
+  "pulls_authors": [
+    "adamgundry",
+    "philderbeast",
+    "erikd",
+    "expipiplus1",
+    "nushio3",
+    "marcinmrotek"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 91923,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:33.564Z"
+}

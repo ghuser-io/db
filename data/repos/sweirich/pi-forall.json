@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pi-forall",
+  "full_name": "sweirich/pi-forall",
+  "owner": "sweirich",
+  "private": false,
+  "html_url": "https://github.com/sweirich/pi-forall",
+  "description": "A demo implementation of a simple dependently-typed language",
+  "fork": false,
+  "url": "https://api.github.com/repos/sweirich/pi-forall",
+  "languages_url": "https://api.github.com/repos/sweirich/pi-forall/languages",
+  "pulls_url": "https://api.github.com/repos/sweirich/pi-forall/pulls{/number}",
+  "created_at": "2013-07-20T14:13:37Z",
+  "updated_at": "2018-09-01T20:33:53Z",
+  "pushed_at": "2016-08-24T21:10:11Z",
+  "homepage": "",
+  "size": 25790,
+  "stargazers_count": 279,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "2014",
+  "contributors": {
+    "reuleaux": 1,
+    "jwiegley": 1,
+    "lambdageek": 3,
+    "jstolarek": 3,
+    "nomeata": 4,
+    "sweirich": 68
+  },
+  "pulls_authors": [
+    "reuleaux",
+    "lambdageek",
+    "jstolarek",
+    "serendependy",
+    "nomeata",
+    "jwiegley",
+    "mkroghj"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 465299,
+      "color": "#5e5086"
+    },
+    "Makefile": {
+      "bytes": 7151,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:16.925Z"
+}

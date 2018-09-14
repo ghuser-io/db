@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-skype-dbus",
+  "full_name": "sidorares/node-skype-dbus",
+  "owner": "sidorares",
+  "private": false,
+  "html_url": "https://github.com/sidorares/node-skype-dbus",
+  "description": "node.js SkypeAPI dbus client",
+  "fork": false,
+  "url": "https://api.github.com/repos/sidorares/node-skype-dbus",
+  "languages_url": "https://api.github.com/repos/sidorares/node-skype-dbus/languages",
+  "pulls_url": "https://api.github.com/repos/sidorares/node-skype-dbus/pulls{/number}",
+  "created_at": "2013-09-18T02:13:17Z",
+  "updated_at": "2015-08-05T11:54:02Z",
+  "pushed_at": "2017-05-01T05:50:03Z",
+  "homepage": null,
+  "size": 4,
+  "stargazers_count": 7,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bitdeli-chef": 1,
+    "sidorares": 3
+  },
+  "pulls_authors": [
+    "bitdeli-chef"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 5718,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:43.468Z"
+}

@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ninjaripper",
+  "full_name": "ahmetabdi/ninjaripper",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/ninjaripper",
+  "description": "Ripper of 3D models/Textures/Shaders from DX11/DX9/DX8 games",
+  "fork": true,
+  "url": "https://api.github.com/repos/ahmetabdi/ninjaripper",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/ninjaripper/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/ninjaripper/pulls{/number}",
+  "created_at": "2015-08-11T12:04:09Z",
+  "updated_at": "2015-11-03T15:21:21Z",
+  "pushed_at": "2014-12-24T15:11:13Z",
+  "homepage": "",
+  "size": 19212,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "blackninja2": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 10451732,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 7020737,
+      "color": "#f34b7d"
+    },
+    "Objective-C": {
+      "bytes": 36518,
+      "color": "#438eff"
+    },
+    "Groff": {
+      "bytes": 18898,
+      "color": "#ccc"
+    },
+    "Logos": {
+      "bytes": 4044,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:12.630Z"
+}

@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "quizler",
+  "full_name": "quizl/quizler",
+  "owner": "quizl",
+  "private": false,
+  "html_url": "https://github.com/quizl/quizler",
+  "description": "Set of utils for Quizlet flash cards management",
+  "fork": false,
+  "url": "https://api.github.com/repos/quizl/quizler",
+  "languages_url": "https://api.github.com/repos/quizl/quizler/languages",
+  "created_at": "2017-05-06T12:11:27Z",
+  "updated_at": "2018-02-12T17:51:35Z",
+  "pushed_at": "2018-01-09T11:02:09Z",
+  "homepage": "",
+  "size": 65,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "quizl",
+    "id": 34978882,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM0OTc4ODgy",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/34978882?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/quizl",
+    "html_url": "https://github.com/quizl",
+    "followers_url": "https://api.github.com/users/quizl/followers",
+    "following_url": "https://api.github.com/users/quizl/following{/other_user}",
+    "gists_url": "https://api.github.com/users/quizl/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/quizl/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/quizl/subscriptions",
+    "organizations_url": "https://api.github.com/users/quizl/orgs",
+    "repos_url": "https://api.github.com/users/quizl/repos",
+    "events_url": "https://api.github.com/users/quizl/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/quizl/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "AurelienLourot": 16,
+    "lancelote": 56
+  },
+  "languages": {
+    "Python": {
+      "bytes": 33105,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 1495,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/quizl/quizler/pulls{/number}",
+  "pulls_authors": [
+    "AurelienLourot",
+    "lancelote"
+  ]
+}

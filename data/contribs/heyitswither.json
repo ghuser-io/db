@@ -1,0 +1,138 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "selfagency/microsoft-drop-ice": {
+      "full_name": "selfagency/microsoft-drop-ice",
+      "name": "microsoft-drop-ice",
+      "stargazers_count": 557,
+      "popularity": 3.7451919767014212,
+      "percentage": 0.14124293785310735,
+      "maturity": 3.8265775309931898,
+      "total_commits_count": 708,
+      "activity": 5,
+      "total_score": 23.957498641380358,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Jguer/yay": {
+      "full_name": "Jguer/yay",
+      "name": "yay",
+      "stargazers_count": 1336,
+      "popularity": 4.12555288162975,
+      "percentage": 0.25477707006369427,
+      "maturity": 3.8739506494408817,
+      "total_commits_count": 785,
+      "activity": 5,
+      "total_score": 25.261202459595694,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "biglizards/butty": {
+      "full_name": "biglizards/butty",
+      "name": "butty",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 2.2598870056497176,
+      "maturity": 3.692905899890014,
+      "total_commits_count": 531,
+      "activity": 5,
+      "total_score": 12.38581179978003,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "heyitswither/Discord-RWCI": {
+      "full_name": "heyitswither/Discord-RWCI",
+      "name": "Discord-RWCI",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 1.2140760673187954,
+      "total_score": 1.2140760673187954,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "heyitswither/rwci.py": {
+      "full_name": "heyitswither/rwci.py",
+      "name": "rwci.py",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 87.87878787878788,
+      "maturity": 0,
+      "total_commits_count": 33,
+      "activity": 2.0617931873417064,
+      "total_score": 2.0617931873417064,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "heyitswither/Alpha-Bot": {
+      "full_name": "heyitswither/Alpha-Bot",
+      "name": "Alpha-Bot",
+      "stargazers_count": 3,
+      "popularity": 1.3222565221025262,
+      "percentage": 98.55072463768116,
+      "maturity": 2.993403559571943,
+      "total_commits_count": 138,
+      "activity": 1.1350026630037808,
+      "total_score": 28.028793341768772,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Discoin/old-api": {
+      "full_name": "Discoin/old-api",
+      "name": "old-api",
+      "stargazers_count": 11,
+      "popularity": 2.0043600754367907,
+      "percentage": 1.4285714285714286,
+      "maturity": 2.4802970571810303,
+      "total_commits_count": 70,
+      "activity": 0.9987120397995772,
+      "total_score": 12.344624680195988,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Aareon/prettyoutput": {
+      "full_name": "Aareon/prettyoutput",
+      "name": "prettyoutput",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 4,
+      "maturity": 0,
+      "total_commits_count": 25,
+      "activity": 0.9946296218426189,
+      "total_score": 4.6604569578017685,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Hectate/moonstache": {
+      "full_name": "Hectate/moonstache",
+      "name": "moonstache",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 5.555555555555555,
+      "maturity": 2.1509431413585514,
+      "total_commits_count": 54,
+      "activity": 0.9715200313983203,
+      "total_score": 9.149833579097479,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "NISH1001/playx": {
+      "full_name": "NISH1001/playx",
+      "name": "playx",
+      "stargazers_count": 39,
+      "popularity": 2.580963961738607,
+      "percentage": 7.228915662650603,
+      "maturity": 2.636209568212883,
+      "total_commits_count": 83,
+      "activity": 5,
+      "total_score": 20.44079522664895,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "Discoin"
+  ]
+}

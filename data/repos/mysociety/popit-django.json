@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "popit-django",
+  "full_name": "mysociety/popit-django",
+  "owner": "mysociety",
+  "private": false,
+  "html_url": "https://github.com/mysociety/popit-django",
+  "description": "DEPRECATED - Please consider using django-popolo instead",
+  "fork": false,
+  "url": "https://api.github.com/repos/mysociety/popit-django",
+  "languages_url": "https://api.github.com/repos/mysociety/popit-django/languages",
+  "pulls_url": "https://api.github.com/repos/mysociety/popit-django/pulls{/number}",
+  "created_at": "2013-03-25T11:25:57Z",
+  "updated_at": "2016-03-09T15:43:20Z",
+  "pushed_at": "2016-09-03T11:11:39Z",
+  "homepage": "https://github.com/openpolis/django-popolo",
+  "size": 73,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "mysociety",
+    "id": 141338,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/141338?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mysociety",
+    "html_url": "https://github.com/mysociety",
+    "followers_url": "https://api.github.com/users/mysociety/followers",
+    "following_url": "https://api.github.com/users/mysociety/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mysociety/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mysociety/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mysociety/subscriptions",
+    "organizations_url": "https://api.github.com/users/mysociety/orgs",
+    "repos_url": "https://api.github.com/users/mysociety/repos",
+    "events_url": "https://api.github.com/users/mysociety/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mysociety/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "lfalvarez": 1,
+    "chrismytton": 2,
+    "dracos": 3,
+    "mhl": 3,
+    "osfameron": 7,
+    "evdb": 50
+  },
+  "pulls_authors": [
+    "mhl",
+    "lfalvarez",
+    "osfameron"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 28789,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 1161,
+      "color": "#89e051"
+    },
+    "JavaScript": {
+      "bytes": 882,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:41.379Z"
+}

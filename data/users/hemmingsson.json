@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "Hemmingsson",
+  "ghuser_created_at": "2018-09-11T13:33:36.675Z",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1866963?v=4",
+  "html_url": "https://github.com/Hemmingsson",
+  "organizations_url": "https://api.github.com/users/Hemmingsson/orgs",
+  "repos_url": "https://api.github.com/users/Hemmingsson/repos",
+  "type": "User",
+  "name": "Mattias Hemmingsson",
+  "company": null,
+  "blog": "http://mattias.lol",
+  "location": "Berlin, Germany",
+  "email": "hemmingsson.m@gmail.com",
+  "bio": "Product Designer",
+  "public_gists": 0,
+  "created_at": "2012-06-19T10:00:26Z",
+  "updated_at": "2018-08-15T08:17:16Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:14:01.652Z",
+    "repos": [
+      "Hemmingsson/mattias.lol",
+      "Hemmingsson/soundcloud-comments",
+      "Hemmingsson/dancemusic.wtf",
+      "Hemmingsson/FacePause",
+      "Hemmingsson/Freeze",
+      "Hemmingsson/Quick-Preview",
+      "mairod/screensaver-js",
+      "Hemmingsson/Sketch-Title-Case",
+      "paulahalldin/Paula-Halldin-Portfolio",
+      "Hemmingsson/Mixtape-Highlighter",
+      "sketchplugins/plugin-directory",
+      "ViktorRohlin/asos-notify"
+    ]
+  }
+}

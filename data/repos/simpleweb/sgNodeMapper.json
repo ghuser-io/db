@@ -1,0 +1,93 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sgNodeMapper",
+  "full_name": "simpleweb/sgNodeMapper",
+  "owner": "simpleweb",
+  "private": false,
+  "html_url": "https://github.com/simpleweb/sgNodeMapper",
+  "description": "\"The Social Graph Node Mapper is a community project to build a portable library to map social networking sites' URLs to and from a new canonical form (sgn:// URLs).\"\nThe project is originally hosted on Google Code, but I need it here to make it a submodule of Social-Graph-Node-Mapper-JSON-API",
+  "fork": true,
+  "url": "https://api.github.com/repos/simpleweb/sgNodeMapper",
+  "languages_url": "https://api.github.com/repos/simpleweb/sgNodeMapper/languages",
+  "pulls_url": "https://api.github.com/repos/simpleweb/sgNodeMapper/pulls{/number}",
+  "created_at": "2012-06-07T09:38:52Z",
+  "updated_at": "2013-01-09T13:37:14Z",
+  "pushed_at": "2012-06-12T22:17:43Z",
+  "homepage": "http://code.google.com/p/google-sgnodemapper/",
+  "size": 3705,
+  "stargazers_count": 1,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "simpleweb",
+    "id": 255666,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1NTY2Ng==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/255666?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/simpleweb",
+    "html_url": "https://github.com/simpleweb",
+    "followers_url": "https://api.github.com/users/simpleweb/followers",
+    "following_url": "https://api.github.com/users/simpleweb/following{/other_user}",
+    "gists_url": "https://api.github.com/users/simpleweb/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/simpleweb/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/simpleweb/subscriptions",
+    "organizations_url": "https://api.github.com/users/simpleweb/orgs",
+    "repos_url": "https://api.github.com/users/simpleweb/repos",
+    "events_url": "https://api.github.com/users/simpleweb/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/simpleweb/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "tholder": 2,
+    "chrismytton": 6
+  },
+  "pulls_authors": [
+    "chrismytton",
+    "tholder"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 875335,
+      "color": "#89e051"
+    },
+    "JavaScript": {
+      "bytes": 315883,
+      "color": "#f1e05a"
+    },
+    "Perl": {
+      "bytes": 19717,
+      "color": "#0298c3"
+    },
+    "C++": {
+      "bytes": 16778,
+      "color": "#f34b7d"
+    },
+    "Python": {
+      "bytes": 15762,
+      "color": "#3572A5"
+    },
+    "Java": {
+      "bytes": 7632,
+      "color": "#b07219"
+    },
+    "PHP": {
+      "bytes": 1162,
+      "color": "#4F5D95"
+    },
+    "C": {
+      "bytes": 1156,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:49.519Z"
+}

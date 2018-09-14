@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Arduino-SerialVGA",
+  "full_name": "Gadgetoid/Arduino-SerialVGA",
+  "owner": "Gadgetoid",
+  "private": false,
+  "html_url": "https://github.com/Gadgetoid/Arduino-SerialVGA",
+  "description": "Arduino Library for the Hobbytronics.co.uk Serial VGA driver board",
+  "fork": false,
+  "url": "https://api.github.com/repos/Gadgetoid/Arduino-SerialVGA",
+  "languages_url": "https://api.github.com/repos/Gadgetoid/Arduino-SerialVGA/languages",
+  "pulls_url": "https://api.github.com/repos/Gadgetoid/Arduino-SerialVGA/pulls{/number}",
+  "created_at": "2012-06-30T17:07:23Z",
+  "updated_at": "2017-12-12T13:22:59Z",
+  "pushed_at": "2012-07-01T17:10:11Z",
+  "homepage": null,
+  "size": 112,
+  "stargazers_count": 5,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Gadgetoid": 7
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 4426,
+      "color": "#f34b7d"
+    },
+    "Arduino": {
+      "bytes": 3271,
+      "color": "#ccc"
+    },
+    "C": {
+      "bytes": 1872,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:16.398Z"
+}

@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Fari-Framework",
+  "full_name": "radekstepan/Fari-Framework",
+  "owner": "radekstepan",
+  "private": false,
+  "html_url": "https://github.com/radekstepan/Fari-Framework",
+  "description": "A lean PHP Model-View-Presenter Framework",
+  "fork": false,
+  "url": "https://api.github.com/repos/radekstepan/Fari-Framework",
+  "languages_url": "https://api.github.com/repos/radekstepan/Fari-Framework/languages",
+  "pulls_url": "https://api.github.com/repos/radekstepan/Fari-Framework/pulls{/number}",
+  "created_at": "2011-08-15T20:42:15Z",
+  "updated_at": "2013-11-26T12:18:55Z",
+  "pushed_at": "2012-08-27T09:18:44Z",
+  "homepage": "",
+  "size": 834,
+  "stargazers_count": 4,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "radekstepan": 24
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 359620,
+      "color": "#4F5D95"
+    },
+    "Perl": {
+      "bytes": 1176,
+      "color": "#0298c3"
+    }
+  },
+  "fetched_at": "2018-09-11T13:51:02.880Z"
+}

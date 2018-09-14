@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "resXClone",
+  "full_name": "TiagoDanin/resXClone",
+  "owner": "TiagoDanin",
+  "private": false,
+  "html_url": "https://github.com/TiagoDanin/resXClone",
+  "description": "A utility to clone and update xml resources file",
+  "fork": false,
+  "url": "https://api.github.com/repos/TiagoDanin/resXClone",
+  "languages_url": "https://api.github.com/repos/TiagoDanin/resXClone/languages",
+  "pulls_url": "https://api.github.com/repos/TiagoDanin/resXClone/pulls{/number}",
+  "created_at": "2017-12-09T12:23:11Z",
+  "updated_at": "2018-09-11T18:36:02Z",
+  "pushed_at": "2018-09-11T18:36:00Z",
+  "homepage": "https://TiagoDanin.github.io/resXClone/",
+  "size": 98,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "renovate[bot]": 1,
+    "greenkeeper[bot]": 1,
+    "renovate-bot": 6,
+    "TiagoDanin": 19,
+    "snyk-bot": 1
+  },
+  "pulls_authors": [
+    "renovate[bot]",
+    "greenkeeper[bot]",
+    "snyk-bot"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2955,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T20:54:39.905Z"
+}

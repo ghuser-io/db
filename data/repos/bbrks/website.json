@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "website",
+  "full_name": "bbrks/website",
+  "owner": "bbrks",
+  "private": false,
+  "html_url": "https://github.com/bbrks/website",
+  "description": "A simple HTML5/CSS3 portfolio",
+  "fork": false,
+  "url": "https://api.github.com/repos/bbrks/website",
+  "languages_url": "https://api.github.com/repos/bbrks/website/languages",
+  "pulls_url": "https://api.github.com/repos/bbrks/website/pulls{/number}",
+  "created_at": "2012-12-10T20:02:00Z",
+  "updated_at": "2018-04-08T19:54:58Z",
+  "pushed_at": "2015-04-05T11:00:44Z",
+  "homepage": "http://bbrks.me",
+  "size": 22819,
+  "stargazers_count": 3,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bbrks": 21
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CSS": {
+      "bytes": 5749,
+      "color": "#563d7c"
+    },
+    "PHP": {
+      "bytes": 3815,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T04:57:40.308Z"
+}

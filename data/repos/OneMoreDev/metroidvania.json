@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "metroidvania",
+  "full_name": "OneMoreDev/metroidvania",
+  "owner": "OneMoreDev",
+  "private": false,
+  "html_url": "https://github.com/OneMoreDev/metroidvania",
+  "description": "Nothing to see here, move along",
+  "fork": false,
+  "url": "https://api.github.com/repos/OneMoreDev/metroidvania",
+  "languages_url": "https://api.github.com/repos/OneMoreDev/metroidvania/languages",
+  "pulls_url": "https://api.github.com/repos/OneMoreDev/metroidvania/pulls{/number}",
+  "created_at": "2014-11-10T00:02:33Z",
+  "updated_at": "2014-12-14T23:27:47Z",
+  "pushed_at": "2014-12-14T23:27:47Z",
+  "homepage": null,
+  "size": 436,
+  "stargazers_count": 1,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "OneMoreDev",
+    "id": 7157642,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjcxNTc2NDI=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/7157642?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/OneMoreDev",
+    "html_url": "https://github.com/OneMoreDev",
+    "followers_url": "https://api.github.com/users/OneMoreDev/followers",
+    "following_url": "https://api.github.com/users/OneMoreDev/following{/other_user}",
+    "gists_url": "https://api.github.com/users/OneMoreDev/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/OneMoreDev/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/OneMoreDev/subscriptions",
+    "organizations_url": "https://api.github.com/users/OneMoreDev/orgs",
+    "repos_url": "https://api.github.com/users/OneMoreDev/repos",
+    "events_url": "https://api.github.com/users/OneMoreDev/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/OneMoreDev/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "gtarmetro": 1,
+    "pedroslopez": 1,
+    "kroltan": 12
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 288669,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:28.701Z"
+}

@@ -1,0 +1,68 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "scaleway-ubuntu-desktop",
+  "full_name": "scaleway-community/scaleway-ubuntu-desktop",
+  "owner": "scaleway-community",
+  "private": false,
+  "html_url": "https://github.com/scaleway-community/scaleway-ubuntu-desktop",
+  "description": ":minidisc: Official Ubuntu Desktop image on Scaleway",
+  "fork": false,
+  "url": "https://api.github.com/repos/scaleway-community/scaleway-ubuntu-desktop",
+  "languages_url": "https://api.github.com/repos/scaleway-community/scaleway-ubuntu-desktop/languages",
+  "pulls_url": "https://api.github.com/repos/scaleway-community/scaleway-ubuntu-desktop/pulls{/number}",
+  "created_at": "2014-12-22T22:21:47Z",
+  "updated_at": "2018-07-28T17:19:59Z",
+  "pushed_at": "2016-04-26T13:55:32Z",
+  "homepage": "https://www.scaleway.com/docs/",
+  "size": 90,
+  "stargazers_count": 4,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "scaleway-community",
+    "id": 14197047,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0MTk3MDQ3",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/14197047?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/scaleway-community",
+    "html_url": "https://github.com/scaleway-community",
+    "followers_url": "https://api.github.com/users/scaleway-community/followers",
+    "following_url": "https://api.github.com/users/scaleway-community/following{/other_user}",
+    "gists_url": "https://api.github.com/users/scaleway-community/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/scaleway-community/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/scaleway-community/subscriptions",
+    "organizations_url": "https://api.github.com/users/scaleway-community/orgs",
+    "repos_url": "https://api.github.com/users/scaleway-community/repos",
+    "events_url": "https://api.github.com/users/scaleway-community/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/scaleway-community/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "moul": 38
+  },
+  "pulls_authors": [
+    "QuentinPerez",
+    "moul"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 1458,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 521,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:58.837Z"
+}

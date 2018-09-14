@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nodeeditor",
+  "full_name": "paceholder/nodeeditor",
+  "owner": "paceholder",
+  "private": false,
+  "html_url": "https://github.com/paceholder/nodeeditor",
+  "description": "Qt Node Editor. Dataflow programming framework",
+  "fork": false,
+  "url": "https://api.github.com/repos/paceholder/nodeeditor",
+  "languages_url": "https://api.github.com/repos/paceholder/nodeeditor/languages",
+  "pulls_url": "https://api.github.com/repos/paceholder/nodeeditor/pulls{/number}",
+  "created_at": "2016-04-09T09:19:51Z",
+  "updated_at": "2018-09-13T19:13:25Z",
+  "pushed_at": "2018-08-24T16:10:19Z",
+  "homepage": "",
+  "size": 1801,
+  "stargazers_count": 613,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "DanielBorn": 1,
+    "ypnos": 1,
+    "tuvok": 1,
+    "kPanesar": 1,
+    "schumacb": 1,
+    "mtbrobotanist": 1,
+    "jcelerier": 1,
+    "MigFerreira": 1,
+    "rkollataj": 3,
+    "facontidavide": 7,
+    "LandonJerre": 7,
+    "Quincunx271": 8,
+    "russelltg": 32,
+    "paceholder": 231
+  },
+  "pulls_authors": [
+    "facontidavide",
+    "chriamue",
+    "Quincunx271",
+    "DanielBorn",
+    "paceholder",
+    "Lishen1",
+    "iclosure",
+    "rkollataj",
+    "ReubenJCarter",
+    "ypnos",
+    "russelltg",
+    "tuvok",
+    "kPanesar",
+    "ebischreck",
+    "schumacb",
+    "mtbrobotanist",
+    "LandonJerre",
+    "jcelerier",
+    "MigFerreira"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 147880,
+      "color": "#f34b7d"
+    },
+    "CMake": {
+      "bytes": 4571,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-13T23:51:35.883Z"
+}

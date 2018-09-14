@@ -1,0 +1,33 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "OpenPizza",
+  "full_name": "aloisdg/OpenPizza",
+  "owner": "aloisdg",
+  "private": false,
+  "html_url": "https://github.com/aloisdg/OpenPizza",
+  "description": "OpenPizza is a community driven open source initiative to create a YAML-based standard and database for pizza recipes.",
+  "fork": false,
+  "url": "https://api.github.com/repos/aloisdg/OpenPizza",
+  "languages_url": "https://api.github.com/repos/aloisdg/OpenPizza/languages",
+  "pulls_url": "https://api.github.com/repos/aloisdg/OpenPizza/pulls{/number}",
+  "created_at": "2016-10-29T08:06:00Z",
+  "updated_at": "2016-10-29T15:14:11Z",
+  "pushed_at": "2016-11-01T11:55:03Z",
+  "homepage": "",
+  "size": 23,
+  "stargazers_count": 5,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Eastrall": 2,
+    "aloisdg": 9
+  },
+  "pulls_authors": [
+    "Eastrall"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-12T04:56:11.430Z"
+}

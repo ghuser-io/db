@@ -1,0 +1,68 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "soccermetrics-client-py",
+  "full_name": "soccermetrics/soccermetrics-client-py",
+  "owner": "soccermetrics",
+  "private": false,
+  "html_url": "https://github.com/soccermetrics/soccermetrics-client-py",
+  "description": "Python client library for the Soccermetrics soccer analytics APIs.",
+  "fork": false,
+  "url": "https://api.github.com/repos/soccermetrics/soccermetrics-client-py",
+  "languages_url": "https://api.github.com/repos/soccermetrics/soccermetrics-client-py/languages",
+  "pulls_url": "https://api.github.com/repos/soccermetrics/soccermetrics-client-py/pulls{/number}",
+  "created_at": "2013-09-03T07:00:01Z",
+  "updated_at": "2018-07-18T09:38:49Z",
+  "pushed_at": "2014-08-10T07:11:28Z",
+  "homepage": "",
+  "size": 9102,
+  "stargazers_count": 66,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "soccermetrics",
+    "id": 616517,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxNjUxNw==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/616517?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/soccermetrics",
+    "html_url": "https://github.com/soccermetrics",
+    "followers_url": "https://api.github.com/users/soccermetrics/followers",
+    "following_url": "https://api.github.com/users/soccermetrics/following{/other_user}",
+    "gists_url": "https://api.github.com/users/soccermetrics/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/soccermetrics/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/soccermetrics/subscriptions",
+    "organizations_url": "https://api.github.com/users/soccermetrics/orgs",
+    "repos_url": "https://api.github.com/users/soccermetrics/repos",
+    "events_url": "https://api.github.com/users/soccermetrics/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/soccermetrics/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "toyg": 3,
+    "howardhamilton": 143
+  },
+  "pulls_authors": [
+    "toyg"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 182150,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 98,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:04.018Z"
+}

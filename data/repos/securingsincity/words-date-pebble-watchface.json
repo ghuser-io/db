@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "words-date-pebble-watchface",
+  "full_name": "securingsincity/words-date-pebble-watchface",
+  "owner": "securingsincity",
+  "private": false,
+  "html_url": "https://github.com/securingsincity/words-date-pebble-watchface",
+  "description": "Words + Date pebble watch face",
+  "fork": false,
+  "url": "https://api.github.com/repos/securingsincity/words-date-pebble-watchface",
+  "languages_url": "https://api.github.com/repos/securingsincity/words-date-pebble-watchface/languages",
+  "pulls_url": "https://api.github.com/repos/securingsincity/words-date-pebble-watchface/pulls{/number}",
+  "created_at": "2013-04-14T04:54:27Z",
+  "updated_at": "2015-08-12T08:26:44Z",
+  "pushed_at": "2013-04-17T00:24:34Z",
+  "homepage": null,
+  "size": 2707,
+  "stargazers_count": 5,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "securingsincity": 7,
+    "Dhertz": 14
+  },
+  "pulls_authors": [
+    "Dhertz"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 9611,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-11T00:33:43.282Z"
+}

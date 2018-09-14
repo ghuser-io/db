@@ -1,0 +1,106 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Shuttle",
+  "full_name": "timusus/Shuttle",
+  "owner": "timusus",
+  "private": false,
+  "html_url": "https://github.com/timusus/Shuttle",
+  "description": "Shuttle Music Player",
+  "fork": false,
+  "url": "https://api.github.com/repos/timusus/Shuttle",
+  "languages_url": "https://api.github.com/repos/timusus/Shuttle/languages",
+  "pulls_url": "https://api.github.com/repos/timusus/Shuttle/pulls{/number}",
+  "created_at": "2017-02-21T11:06:23Z",
+  "updated_at": "2018-09-14T04:39:44Z",
+  "pushed_at": "2018-09-06T20:36:52Z",
+  "homepage": null,
+  "size": 8156,
+  "stargazers_count": 1696,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "dev",
+  "contributors": {
+    "larsdroid": 1,
+    "amagh": 1,
+    "BezMan": 1,
+    "technacity": 1,
+    "nickcapurso": 1,
+    "faho": 1,
+    "PossibleKDay": 1,
+    "AOrobator": 1,
+    "lastbulletbender": 2,
+    "tkashkin": 2,
+    "gmattis": 3,
+    "geecko86": 6,
+    "willcoughlin": 7,
+    "Khang-NT": 9,
+    "fxsalazar": 11,
+    "rfazi": 16,
+    "adneal": 29,
+    "deletescape": 29,
+    "timusus": 747,
+    "Daykod": 1
+  },
+  "pulls_authors": [
+    "gmattis",
+    "rockmax001",
+    "fxsalazar",
+    "pschichtel",
+    "nico151999",
+    "venku111",
+    "BezMan",
+    "adneal",
+    "lastbulletbender",
+    "rfazi",
+    "Khang-NT",
+    "aadithyabk",
+    "timusus",
+    "tkashkin",
+    "willcoughlin",
+    "Herna1994",
+    "larsdroid",
+    "amagh",
+    "MaxFour",
+    "geecko86",
+    "technacity",
+    "kfarst",
+    "deletescape",
+    "nickcapurso",
+    "faho",
+    "Daykod",
+    "AOrobator",
+    "damongant",
+    "farmerbb"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 2458138,
+      "color": "#b07219"
+    },
+    "Kotlin": {
+      "bytes": 172143,
+      "color": "#F18E33"
+    },
+    "HTML": {
+      "bytes": 129373,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 982,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 375,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T08:26:09.450Z"
+}

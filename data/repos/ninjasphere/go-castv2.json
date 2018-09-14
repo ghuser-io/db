@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-castv2",
+  "full_name": "ninjasphere/go-castv2",
+  "owner": "ninjasphere",
+  "private": false,
+  "html_url": "https://github.com/ninjasphere/go-castv2",
+  "description": "An implementation of the Chromecast CASTV2 protocol in Golang",
+  "fork": false,
+  "url": "https://api.github.com/repos/ninjasphere/go-castv2",
+  "languages_url": "https://api.github.com/repos/ninjasphere/go-castv2/languages",
+  "pulls_url": "https://api.github.com/repos/ninjasphere/go-castv2/pulls{/number}",
+  "created_at": "2014-10-20T05:01:12Z",
+  "updated_at": "2018-08-25T19:29:05Z",
+  "pushed_at": "2016-09-27T05:28:15Z",
+  "homepage": null,
+  "size": 18,
+  "stargazers_count": 62,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ninjasphere",
+    "id": 6147637,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxNDc2Mzc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/6147637?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ninjasphere",
+    "html_url": "https://github.com/ninjasphere",
+    "followers_url": "https://api.github.com/users/ninjasphere/followers",
+    "following_url": "https://api.github.com/users/ninjasphere/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ninjasphere/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ninjasphere/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ninjasphere/subscriptions",
+    "organizations_url": "https://api.github.com/users/ninjasphere/orgs",
+    "repos_url": "https://api.github.com/users/ninjasphere/repos",
+    "events_url": "https://api.github.com/users/ninjasphere/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ninjasphere/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "PSUdaemon": 1,
+    "djeebus": 1,
+    "elliots": 13
+  },
+  "pulls_authors": [
+    "PSUdaemon",
+    "djeebus",
+    "zabawaba99"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 16736,
+      "color": "#375eab"
+    },
+    "Protocol Buffer": {
+      "bytes": 2405,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 39,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T13:45:50.629Z"
+}

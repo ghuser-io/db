@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Genetic-Algorithms",
+  "full_name": "DanielBaulig/Genetic-Algorithms",
+  "owner": "DanielBaulig",
+  "private": false,
+  "html_url": "https://github.com/DanielBaulig/Genetic-Algorithms",
+  "description": "A simple C# library for implementing Genetic Algorithms, some demonstration classes and an entire project based on Genetic Algorithms we developed for a university project. Feel free to fork and improve. We might reconsider our licensing model for further versions and switch to LGPL for our library base. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/DanielBaulig/Genetic-Algorithms",
+  "languages_url": "https://api.github.com/repos/DanielBaulig/Genetic-Algorithms/languages",
+  "pulls_url": "https://api.github.com/repos/DanielBaulig/Genetic-Algorithms/pulls{/number}",
+  "created_at": "2009-11-27T09:19:54Z",
+  "updated_at": "2018-08-02T23:24:50Z",
+  "pushed_at": "2014-07-03T18:43:34Z",
+  "homepage": "",
+  "size": 1155,
+  "stargazers_count": 24,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "bencoveney": 10,
+    "DanielBaulig": 10
+  },
+  "pulls_authors": [
+    "bencoveney"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 120122,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-08-17T11:57:05.095Z"
+}

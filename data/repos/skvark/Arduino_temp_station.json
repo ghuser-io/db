@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Arduino_temp_station",
+  "full_name": "skvark/Arduino_temp_station",
+  "owner": "skvark",
+  "private": false,
+  "html_url": "https://github.com/skvark/Arduino_temp_station",
+  "description": "Arduino temperature monitoring station.",
+  "fork": false,
+  "url": "https://api.github.com/repos/skvark/Arduino_temp_station",
+  "languages_url": "https://api.github.com/repos/skvark/Arduino_temp_station/languages",
+  "pulls_url": "https://api.github.com/repos/skvark/Arduino_temp_station/pulls{/number}",
+  "created_at": "2012-05-20T13:52:57Z",
+  "updated_at": "2013-12-22T21:13:01Z",
+  "pushed_at": "2012-05-23T14:38:03Z",
+  "homepage": null,
+  "size": 89,
+  "stargazers_count": 1,
+  "language": "Arduino",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "skvark": 10
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Arduino": {
+      "bytes": 3399,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-11T01:16:35.566Z"
+}

@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gulp-purescript",
+  "full_name": "purescript-contrib/gulp-purescript",
+  "owner": "purescript-contrib",
+  "private": false,
+  "html_url": "https://github.com/purescript-contrib/gulp-purescript",
+  "description": "Gulp plugin providing PureScript compiler tasks",
+  "fork": false,
+  "url": "https://api.github.com/repos/purescript-contrib/gulp-purescript",
+  "languages_url": "https://api.github.com/repos/purescript-contrib/gulp-purescript/languages",
+  "pulls_url": "https://api.github.com/repos/purescript-contrib/gulp-purescript/pulls{/number}",
+  "created_at": "2014-03-30T03:47:29Z",
+  "updated_at": "2018-09-02T17:46:19Z",
+  "pushed_at": "2017-08-28T22:45:08Z",
+  "homepage": "",
+  "size": 135,
+  "stargazers_count": 35,
+  "language": "PureScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "purescript-contrib",
+    "id": 7391813,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjczOTE4MTM=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/7391813?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/purescript-contrib",
+    "html_url": "https://github.com/purescript-contrib",
+    "followers_url": "https://api.github.com/users/purescript-contrib/followers",
+    "following_url": "https://api.github.com/users/purescript-contrib/following{/other_user}",
+    "gists_url": "https://api.github.com/users/purescript-contrib/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/purescript-contrib/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/purescript-contrib/subscriptions",
+    "organizations_url": "https://api.github.com/users/purescript-contrib/orgs",
+    "repos_url": "https://api.github.com/users/purescript-contrib/repos",
+    "events_url": "https://api.github.com/users/purescript-contrib/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/purescript-contrib/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "sluukkonen": 1,
+    "philderbeast": 1,
+    "joneshf": 3,
+    "fujimura": 3,
+    "garyb": 17,
+    "ethul": 70
+  },
+  "pulls_authors": [
+    "ethul",
+    "garyb",
+    "sluukkonen",
+    "Fresheyeball",
+    "philderbeast",
+    "pelotom",
+    "joneshf",
+    "fujimura"
+  ],
+  "languages": {
+    "PureScript": {
+      "bytes": 20232,
+      "color": "#1D222D"
+    },
+    "JavaScript": {
+      "bytes": 6056,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:36.157Z"
+}

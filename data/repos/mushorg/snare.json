@@ -1,0 +1,89 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "snare",
+  "full_name": "mushorg/snare",
+  "owner": "mushorg",
+  "private": false,
+  "html_url": "https://github.com/mushorg/snare",
+  "description": "Super Next generation Advanced Reactive honEypot",
+  "fork": false,
+  "url": "https://api.github.com/repos/mushorg/snare",
+  "languages_url": "https://api.github.com/repos/mushorg/snare/languages",
+  "pulls_url": "https://api.github.com/repos/mushorg/snare/pulls{/number}",
+  "created_at": "2015-07-07T21:47:52Z",
+  "updated_at": "2018-09-09T15:23:58Z",
+  "pushed_at": "2018-09-09T05:27:12Z",
+  "homepage": "http://mushmush.org",
+  "size": 154,
+  "stargazers_count": 108,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "mushorg",
+    "id": 2742625,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI3NDI2MjU=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2742625?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mushorg",
+    "html_url": "https://github.com/mushorg",
+    "followers_url": "https://api.github.com/users/mushorg/followers",
+    "following_url": "https://api.github.com/users/mushorg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mushorg/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mushorg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mushorg/subscriptions",
+    "organizations_url": "https://api.github.com/users/mushorg/orgs",
+    "repos_url": "https://api.github.com/users/mushorg/repos",
+    "events_url": "https://api.github.com/users/mushorg/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mushorg/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Aws0mus": 1,
+    "manu-g": 1,
+    "X4mp": 1,
+    "wackyapples": 1,
+    "t3chn0m4g3": 2,
+    "mzfr": 3,
+    "nsmfoo": 3,
+    "rnehra01": 6,
+    "afeena": 31,
+    "viskey98": 31,
+    "glaslos": 33
+  },
+  "pulls_authors": [
+    "afeena",
+    "t3chn0m4g3",
+    "viskey98",
+    "mzfr",
+    "Aws0mus",
+    "nsmfoo",
+    "surajt97",
+    "manu-g",
+    "rnehra01",
+    "paralax",
+    "tpltnt",
+    "X4mp",
+    "wackyapples"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 58380,
+      "color": "#3572A5"
+    },
+    "Dockerfile": {
+      "bytes": 860,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-09T18:03:54.021Z"
+}

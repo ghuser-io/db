@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vertx-keynote",
+  "full_name": "alexsderkach/vertx-keynote",
+  "owner": "alexsderkach",
+  "private": false,
+  "html_url": "https://github.com/alexsderkach/vertx-keynote",
+  "description": "Code from demo at JEEConf 2016",
+  "fork": false,
+  "url": "https://api.github.com/repos/alexsderkach/vertx-keynote",
+  "languages_url": "https://api.github.com/repos/alexsderkach/vertx-keynote/languages",
+  "pulls_url": "https://api.github.com/repos/alexsderkach/vertx-keynote/pulls{/number}",
+  "created_at": "2016-05-19T11:27:56Z",
+  "updated_at": "2016-06-22T15:30:40Z",
+  "pushed_at": "2016-06-22T15:32:33Z",
+  "homepage": "",
+  "size": 19,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "alexsderkach": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 9020,
+      "color": "#f1e05a"
+    },
+    "Java": {
+      "bytes": 4788,
+      "color": "#b07219"
+    },
+    "HTML": {
+      "bytes": 575,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T04:55:59.962Z"
+}

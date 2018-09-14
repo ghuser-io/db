@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "patchitup",
+  "full_name": "schollz/patchitup",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/patchitup",
+  "description": "Backup your file to your remote server using minimum bandwidth.",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/patchitup",
+  "languages_url": "https://api.github.com/repos/schollz/patchitup/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/patchitup/pulls{/number}",
+  "created_at": "2018-02-22T16:35:55Z",
+  "updated_at": "2018-08-03T01:11:14Z",
+  "pushed_at": "2018-02-26T20:20:10Z",
+  "homepage": "",
+  "size": 98,
+  "stargazers_count": 21,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 32
+  },
+  "pulls_authors": [
+    "schollz"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 27691,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:34.753Z"
+}

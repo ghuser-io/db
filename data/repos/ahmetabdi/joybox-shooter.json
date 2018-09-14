@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "joybox-shooter",
+  "full_name": "ahmetabdi/joybox-shooter",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/joybox-shooter",
+  "description": "Joybox Shooter using Ruby Motion",
+  "fork": false,
+  "url": "https://api.github.com/repos/ahmetabdi/joybox-shooter",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/joybox-shooter/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/joybox-shooter/pulls{/number}",
+  "created_at": "2013-12-08T20:45:57Z",
+  "updated_at": "2017-08-14T11:19:14Z",
+  "pushed_at": "2014-01-30T16:44:43Z",
+  "homepage": null,
+  "size": 14999,
+  "stargazers_count": 3,
+  "language": "Objective-C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Objective-C": {
+      "bytes": 23883,
+      "color": "#438eff"
+    },
+    "Ruby": {
+      "bytes": 4674,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:06.375Z"
+}

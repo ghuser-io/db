@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "parambulator",
+  "full_name": "rjrodger/parambulator",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/parambulator",
+  "description": "A simple way to generate nice error messages for named parameters",
+  "fork": false,
+  "url": "https://api.github.com/repos/rjrodger/parambulator",
+  "languages_url": "https://api.github.com/repos/rjrodger/parambulator/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/parambulator/pulls{/number}",
+  "created_at": "2012-08-07T15:42:08Z",
+  "updated_at": "2018-07-03T12:48:47Z",
+  "pushed_at": "2016-05-08T22:03:35Z",
+  "homepage": null,
+  "size": 601,
+  "stargazers_count": 39,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "datashaman": 1,
+    "marianr": 13,
+    "nherment": 15,
+    "mirceaalexandru": 20,
+    "rjrodger": 55
+  },
+  "pulls_authors": [
+    "AdrieanKhisbe",
+    "gitter-badger",
+    "CEXMCote",
+    "nherment",
+    "mistadikay",
+    "datashaman",
+    "bitdeli-chef",
+    "mirceaalexandru",
+    "marianr"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 243832,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 6537,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1148,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 397,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:32.170Z"
+}

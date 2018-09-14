@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SimpleMvcSitemap",
+  "full_name": "ziyasal/SimpleMvcSitemap",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/SimpleMvcSitemap",
+  "description": "A simple library for creating sitemap files inside ASP.NET MVC applications",
+  "fork": true,
+  "url": "https://api.github.com/repos/ziyasal/SimpleMvcSitemap",
+  "languages_url": "https://api.github.com/repos/ziyasal/SimpleMvcSitemap/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/SimpleMvcSitemap/pulls{/number}",
+  "created_at": "2015-01-25T14:02:33Z",
+  "updated_at": "2015-03-17T14:45:41Z",
+  "pushed_at": "2015-05-13T12:54:31Z",
+  "homepage": null,
+  "size": 768,
+  "stargazers_count": 1,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bitdeli-chef": 1,
+    "burakcetin": 2,
+    "ziyasal": 19,
+    "uhaciogullari": 125
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 93820,
+      "color": "#178600"
+    },
+    "ASP": {
+      "bytes": 113,
+      "color": "#6a40fd"
+    },
+    "Shell": {
+      "bytes": 47,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:20.470Z"
+}

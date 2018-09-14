@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "FeetInchDelegate",
+  "full_name": "cotsog/FeetInchDelegate",
+  "owner": "cotsog",
+  "private": false,
+  "html_url": "https://github.com/cotsog/FeetInchDelegate",
+  "description": "UITextField delegate for providing length in imperial units: feet and inches",
+  "fork": true,
+  "url": "https://api.github.com/repos/cotsog/FeetInchDelegate",
+  "languages_url": "https://api.github.com/repos/cotsog/FeetInchDelegate/languages",
+  "pulls_url": "https://api.github.com/repos/cotsog/FeetInchDelegate/pulls{/number}",
+  "created_at": "2015-10-21T17:15:36Z",
+  "updated_at": "2015-11-15T22:44:12Z",
+  "pushed_at": "2015-10-23T01:51:51Z",
+  "homepage": null,
+  "size": 206,
+  "stargazers_count": 1,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "michallaskowski": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Swift": {
+      "bytes": 10492,
+      "color": "#ffac45"
+    },
+    "Ruby": {
+      "bytes": 947,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T17:08:34.058Z"
+}

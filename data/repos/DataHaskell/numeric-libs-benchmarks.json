@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "numeric-libs-benchmarks",
+  "full_name": "DataHaskell/numeric-libs-benchmarks",
+  "owner": "DataHaskell",
+  "private": false,
+  "html_url": "https://github.com/DataHaskell/numeric-libs-benchmarks",
+  "description": ":vs: - An overview of Haskell numerical libraries",
+  "fork": false,
+  "url": "https://api.github.com/repos/DataHaskell/numeric-libs-benchmarks",
+  "languages_url": "https://api.github.com/repos/DataHaskell/numeric-libs-benchmarks/languages",
+  "pulls_url": "https://api.github.com/repos/DataHaskell/numeric-libs-benchmarks/pulls{/number}",
+  "created_at": "2016-10-09T23:09:25Z",
+  "updated_at": "2018-04-04T02:54:12Z",
+  "pushed_at": "2016-10-11T12:31:03Z",
+  "homepage": "",
+  "size": 579,
+  "stargazers_count": 17,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "gh-pages",
+  "organization": {
+    "login": "DataHaskell",
+    "id": 21349676,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIxMzQ5Njc2",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/21349676?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/DataHaskell",
+    "html_url": "https://github.com/DataHaskell",
+    "followers_url": "https://api.github.com/users/DataHaskell/followers",
+    "following_url": "https://api.github.com/users/DataHaskell/following{/other_user}",
+    "gists_url": "https://api.github.com/users/DataHaskell/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/DataHaskell/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/DataHaskell/subscriptions",
+    "organizations_url": "https://api.github.com/users/DataHaskell/orgs",
+    "repos_url": "https://api.github.com/users/DataHaskell/repos",
+    "events_url": "https://api.github.com/users/DataHaskell/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/DataHaskell/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mdibaiee": 7
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 1455879,
+      "color": "#e34c26"
+    },
+    "Haskell": {
+      "bytes": 2739,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:40.081Z"
+}

@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "asciigraf",
+  "full_name": "opusonesolutions/asciigraf",
+  "owner": "opusonesolutions",
+  "private": false,
+  "html_url": "https://github.com/opusonesolutions/asciigraf",
+  "description": "A python library for making ascii-art into network graphs.",
+  "fork": false,
+  "url": "https://api.github.com/repos/opusonesolutions/asciigraf",
+  "languages_url": "https://api.github.com/repos/opusonesolutions/asciigraf/languages",
+  "pulls_url": "https://api.github.com/repos/opusonesolutions/asciigraf/pulls{/number}",
+  "created_at": "2017-10-17T18:59:24Z",
+  "updated_at": "2018-08-27T16:21:04Z",
+  "pushed_at": "2018-08-23T14:12:59Z",
+  "homepage": null,
+  "size": 53,
+  "stargazers_count": 13,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "opusonesolutions",
+    "id": 33697464,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMzNjk3NDY0",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/33697464?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/opusonesolutions",
+    "html_url": "https://github.com/opusonesolutions",
+    "followers_url": "https://api.github.com/users/opusonesolutions/followers",
+    "following_url": "https://api.github.com/users/opusonesolutions/following{/other_user}",
+    "gists_url": "https://api.github.com/users/opusonesolutions/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/opusonesolutions/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/opusonesolutions/subscriptions",
+    "organizations_url": "https://api.github.com/users/opusonesolutions/orgs",
+    "repos_url": "https://api.github.com/users/opusonesolutions/repos",
+    "events_url": "https://api.github.com/users/opusonesolutions/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/opusonesolutions/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "greatestape": 11,
+    "AnjoMan": 42
+  },
+  "pulls_authors": [
+    "greatestape",
+    "iriberri",
+    "cotsog",
+    "AnjoMan"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 11897,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T17:08:20.344Z"
+}

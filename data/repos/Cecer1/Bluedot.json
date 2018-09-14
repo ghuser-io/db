@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Bluedot",
+  "full_name": "Cecer1/Bluedot",
+  "owner": "Cecer1",
+  "private": false,
+  "html_url": "https://github.com/Cecer1/Bluedot",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/Cecer1/Bluedot",
+  "languages_url": "https://api.github.com/repos/Cecer1/Bluedot/languages",
+  "pulls_url": "https://api.github.com/repos/Cecer1/Bluedot/pulls{/number}",
+  "created_at": "2012-05-26T05:24:05Z",
+  "updated_at": "2017-11-13T22:38:29Z",
+  "pushed_at": "2013-08-17T17:26:06Z",
+  "homepage": null,
+  "size": 642,
+  "stargazers_count": 3,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "TisRyno": 7,
+    "Cecer1": 39
+  },
+  "pulls_authors": [
+    "TisRyno"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 436238,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:59.740Z"
+}

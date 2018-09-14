@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "eslint-plugin-jasmine",
+  "full_name": "captbaritone/eslint-plugin-jasmine",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/eslint-plugin-jasmine",
+  "description": "ESLint rules for Jasmine",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/eslint-plugin-jasmine",
+  "languages_url": "https://api.github.com/repos/captbaritone/eslint-plugin-jasmine/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/eslint-plugin-jasmine/pulls{/number}",
+  "created_at": "2016-02-09T04:38:08Z",
+  "updated_at": "2018-07-29T22:03:54Z",
+  "pushed_at": "2016-02-07T17:57:55Z",
+  "homepage": "https://www.npmjs.com/package/eslint-plugin-jasmine",
+  "size": 56,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ganimomer": 1,
+    "SimenB": 1,
+    "remcohaszing": 2,
+    "ArnaudRinquin": 2,
+    "pdehaan": 2,
+    "alecxe": 3,
+    "tlvince": 36
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 24720,
+      "color": "#f1e05a"
+    },
+    "Vim script": {
+      "bytes": 92,
+      "color": "#199f4b"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:48.892Z"
+}

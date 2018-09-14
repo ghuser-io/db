@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Learn-Spanish-Numbers",
+  "full_name": "jamesgeorge007/Learn-Spanish-Numbers",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/Learn-Spanish-Numbers",
+  "description": "Learn how numbers from 1-10 are said in spanish.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/Learn-Spanish-Numbers",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/Learn-Spanish-Numbers/languages",
+  "created_at": "2018-05-16T03:56:47Z",
+  "updated_at": "2018-05-19T17:30:29Z",
+  "pushed_at": "2018-05-16T09:04:05Z",
+  "homepage": "",
+  "size": 1548,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jamesgeorge007": 3
+  },
+  "languages": {
+    "Java": {
+      "bytes": 1925,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/Learn-Spanish-Numbers/pulls{/number}",
+  "pulls_authors": []
+}

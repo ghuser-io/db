@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SublimeLinter-scss-lint",
+  "full_name": "attenzione/SublimeLinter-scss-lint",
+  "owner": "attenzione",
+  "private": false,
+  "html_url": "https://github.com/attenzione/SublimeLinter-scss-lint",
+  "description": "SublimeLinter plugin for Sass scss syntax, using scss-lint",
+  "fork": false,
+  "url": "https://api.github.com/repos/attenzione/SublimeLinter-scss-lint",
+  "languages_url": "https://api.github.com/repos/attenzione/SublimeLinter-scss-lint/languages",
+  "pulls_url": "https://api.github.com/repos/attenzione/SublimeLinter-scss-lint/pulls{/number}",
+  "created_at": "2013-12-24T15:08:38Z",
+  "updated_at": "2018-07-16T08:55:02Z",
+  "pushed_at": "2018-05-30T15:22:58Z",
+  "homepage": null,
+  "size": 16,
+  "stargazers_count": 83,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "afroald": 1,
+    "tancnle": 1,
+    "jblandry": 1,
+    "designorant": 1,
+    "mikesherov": 1
+  },
+  "pulls_authors": [
+    "acconrad",
+    "afroald",
+    "joeyhoer",
+    "tancnle",
+    "jblandry",
+    "designorant",
+    "mikesherov"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 1815,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T04:55:39.570Z"
+}

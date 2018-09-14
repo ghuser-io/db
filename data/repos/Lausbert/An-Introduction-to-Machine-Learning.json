@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "An-Introduction-to-Machine-Learning",
+  "full_name": "Lausbert/An-Introduction-to-Machine-Learning",
+  "owner": "Lausbert",
+  "private": false,
+  "html_url": "https://github.com/Lausbert/An-Introduction-to-Machine-Learning",
+  "description": "The shortest introduction to machine learning",
+  "fork": false,
+  "url": "https://api.github.com/repos/Lausbert/An-Introduction-to-Machine-Learning",
+  "languages_url": "https://api.github.com/repos/Lausbert/An-Introduction-to-Machine-Learning/languages",
+  "pulls_url": "https://api.github.com/repos/Lausbert/An-Introduction-to-Machine-Learning/pulls{/number}",
+  "created_at": "2017-11-05T21:26:52Z",
+  "updated_at": "2018-05-17T15:27:47Z",
+  "pushed_at": "2018-05-17T15:27:46Z",
+  "homepage": "http://lausbert.com/2018/01/14/the-shortest-introduction-to-machine-learning/",
+  "size": 4185,
+  "stargazers_count": 1,
+  "language": "Jupyter Notebook",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Lausbert": 12
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Jupyter Notebook": {
+      "bytes": 115902,
+      "color": "#DA5B0B"
+    },
+    "TeX": {
+      "bytes": 4756,
+      "color": "#3D6117"
+    }
+  },
+  "fetched_at": "2018-09-11T23:08:03.834Z"
+}

@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "StackExchange.Redis.Extensions",
+  "full_name": "ziyasal/StackExchange.Redis.Extensions",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/StackExchange.Redis.Extensions",
+  "description": "StackExchange.Redis.Extensions is a library that extends StackExchange.Redis allowing you a set of functionality needed by common applications.",
+  "fork": true,
+  "url": "https://api.github.com/repos/ziyasal/StackExchange.Redis.Extensions",
+  "languages_url": "https://api.github.com/repos/ziyasal/StackExchange.Redis.Extensions/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/StackExchange.Redis.Extensions/pulls{/number}",
+  "created_at": "2015-01-20T08:36:49Z",
+  "updated_at": "2017-03-07T08:59:01Z",
+  "pushed_at": "2016-03-01T11:26:23Z",
+  "homepage": "",
+  "size": 983,
+  "stargazers_count": 1,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rajasekarshanmugam": 1,
+    "jkruer01": 2,
+    "ppanyukov": 2,
+    "AliOsman1981": 3,
+    "rushfrisby": 7,
+    "ziyasal": 12,
+    "EugeneKrapivin": 21,
+    "imperugo": 73
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 190160,
+      "color": "#178600"
+    },
+    "Batchfile": {
+      "bytes": 839,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:20.556Z"
+}

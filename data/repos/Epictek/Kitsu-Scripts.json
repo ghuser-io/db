@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Kitsu-Scripts",
+  "full_name": "Epictek/Kitsu-Scripts",
+  "owner": "Epictek",
+  "private": false,
+  "html_url": "https://github.com/Epictek/Kitsu-Scripts",
+  "description": "Various scripts for Kitsu",
+  "fork": false,
+  "url": "https://api.github.com/repos/Epictek/Kitsu-Scripts",
+  "languages_url": "https://api.github.com/repos/Epictek/Kitsu-Scripts/languages",
+  "pulls_url": "https://api.github.com/repos/Epictek/Kitsu-Scripts/pulls{/number}",
+  "created_at": "2015-02-19T17:22:51Z",
+  "updated_at": "2018-09-13T23:21:31Z",
+  "pushed_at": "2017-04-04T02:03:30Z",
+  "homepage": "",
+  "size": 19,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Ntaig": 1,
+    "wopian": 1,
+    "Epictek": 28
+  },
+  "pulls_authors": [
+    "Ntaig",
+    "wopian"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 2936,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:39.467Z"
+}

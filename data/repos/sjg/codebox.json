@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "codebox",
+  "full_name": "sjg/codebox",
+  "owner": "sjg",
+  "private": false,
+  "html_url": "https://github.com/sjg/codebox",
+  "description": "A little password protected box that teaches school kids the importance of cryptography",
+  "fork": false,
+  "url": "https://api.github.com/repos/sjg/codebox",
+  "languages_url": "https://api.github.com/repos/sjg/codebox/languages",
+  "pulls_url": "https://api.github.com/repos/sjg/codebox/pulls{/number}",
+  "created_at": "2013-06-26T12:33:55Z",
+  "updated_at": "2017-08-07T19:33:31Z",
+  "pushed_at": "2017-08-11T11:09:21Z",
+  "homepage": null,
+  "size": 951,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sjg": 13
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 23393,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 5734,
+      "color": "#e34c26"
+    },
+    "C++": {
+      "bytes": 4250,
+      "color": "#f34b7d"
+    },
+    "Arduino": {
+      "bytes": 2446,
+      "color": "#ccc"
+    },
+    "CSS": {
+      "bytes": 1001,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:39.710Z"
+}

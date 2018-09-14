@@ -1,0 +1,96 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "website",
+  "full_name": "cipta-media/website",
+  "owner": "cipta-media",
+  "private": false,
+  "html_url": "https://github.com/cipta-media/website",
+  "description": "Development occurs at https://gitlab.com/ciptamedia/ciptamedia-dev.gitlab.io",
+  "fork": false,
+  "url": "https://api.github.com/repos/cipta-media/website",
+  "languages_url": "https://api.github.com/repos/cipta-media/website/languages",
+  "pulls_url": "https://api.github.com/repos/cipta-media/website/pulls{/number}",
+  "created_at": "2018-02-15T05:01:52Z",
+  "updated_at": "2018-03-25T17:16:08Z",
+  "pushed_at": "2018-03-25T17:10:27Z",
+  "homepage": "https://www.ciptamedia.org/",
+  "size": 151576,
+  "stargazers_count": 4,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "cipta-media",
+    "id": 35117902,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM1MTE3OTAy",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/35117902?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/cipta-media",
+    "html_url": "https://github.com/cipta-media",
+    "followers_url": "https://api.github.com/users/cipta-media/followers",
+    "following_url": "https://api.github.com/users/cipta-media/following{/other_user}",
+    "gists_url": "https://api.github.com/users/cipta-media/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/cipta-media/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/cipta-media/subscriptions",
+    "organizations_url": "https://api.github.com/users/cipta-media/orgs",
+    "repos_url": "https://api.github.com/users/cipta-media/repos",
+    "events_url": "https://api.github.com/users/cipta-media/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/cipta-media/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Sisita": 1,
+    "ayo230694": 1,
+    "titialfakhairia": 1,
+    "snsehaa": 1,
+    "dannyditimor": 1,
+    "sitianisyah": 1,
+    "mayadki": 1,
+    "jjadibrata": 4,
+    "bekicot": 4,
+    "blazeu": 34,
+    "editadiana": 36,
+    "yakuka": 64,
+    "jayvdb": 112,
+    "ivonne-kristiani": 372,
+    "riouwa": 393,
+    "Andrikurnii": 1885
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 487683,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 162367,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 37374,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 21474,
+      "color": "#3572A5"
+    },
+    "Ruby": {
+      "bytes": 9616,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 1773,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

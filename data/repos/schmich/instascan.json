@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "instascan",
+  "full_name": "schmich/instascan",
+  "owner": "schmich",
+  "private": false,
+  "html_url": "https://github.com/schmich/instascan",
+  "description": "HTML5 QR code scanner using your webcam",
+  "fork": false,
+  "url": "https://api.github.com/repos/schmich/instascan",
+  "languages_url": "https://api.github.com/repos/schmich/instascan/languages",
+  "pulls_url": "https://api.github.com/repos/schmich/instascan/pulls{/number}",
+  "created_at": "2016-06-25T08:52:12Z",
+  "updated_at": "2018-09-14T08:52:00Z",
+  "pushed_at": "2018-08-15T06:38:47Z",
+  "homepage": "https://schmich.github.io/instascan/",
+  "size": 2114,
+  "stargazers_count": 1140,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "askarby": 1,
+    "schmich": 116
+  },
+  "pulls_authors": [
+    "briman0094",
+    "mancioshell",
+    "DanielRuf",
+    "PeterOrneholm",
+    "thegreatsunra",
+    "adammcfadden",
+    "leplatrem",
+    "dcousens",
+    "Shuliyey",
+    "turtleguyy",
+    "sidharthchh",
+    "alegag",
+    "PallasKatze",
+    "pakokrew",
+    "frederikbosch",
+    "scmx",
+    "askarby"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 11775,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 836,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T09:07:40.592Z"
+}

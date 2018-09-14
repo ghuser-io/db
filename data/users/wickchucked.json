@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "wickchucked",
+  "ghuser_created_at": "2018-09-11T09:46:16.987Z",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/580078?v=4",
+  "html_url": "https://github.com/wickchucked",
+  "organizations_url": "https://api.github.com/users/wickchucked/orgs",
+  "repos_url": "https://api.github.com/users/wickchucked/repos",
+  "type": "User",
+  "name": "Ed Winn",
+  "company": "Wick <--> Labs",
+  "blog": "",
+  "location": "Marshall, MN",
+  "email": null,
+  "bio": "Full-Stack Web Developer, DevOps, System Architect",
+  "public_gists": 31,
+  "created_at": "2011-01-24T03:55:57Z",
+  "updated_at": "2018-09-10T13:43:56Z",
+  "organizations": [
+    "bis-mapper"
+  ],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:18:46.141Z",
+    "repos": [
+      "bis-mapper/bis-sublime",
+      "coreui/coreui-free-bootstrap-admin-template",
+      "northstarmutual/ns-assets",
+      "elastic/elasticsearch",
+      "bis-mapper/sublwatcher",
+      "wickchucked/go-hello",
+      "bis-mapper/bis-json",
+      "wickchucked/ice_sample_app",
+      "wickchucked/Cab-Quality-Construction"
+    ]
+  }
+}

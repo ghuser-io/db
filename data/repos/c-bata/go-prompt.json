@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "ktr0731": 1,
+    "Calinou": 1,
+    "stealthybox": 1,
+    "bcicen": 2,
+    "brettbuddin": 1,
+    "hori-ryota": 1,
+    "arayaryoma": 2,
+    "unasuke": 2,
+    "b4b4r07": 2,
+    "Chyroc": 4,
+    "mattn": 4,
+    "orisano": 12,
+    "c-bata": 211,
+    "monkeywithacupcake": 1
+  },
+  "name": "go-prompt",
+  "full_name": "c-bata/go-prompt",
+  "owner": "c-bata",
+  "private": false,
+  "html_url": "https://github.com/c-bata/go-prompt",
+  "description": "Building powerful interactive prompts in Go, inspired by python-prompt-toolkit.",
+  "fork": false,
+  "url": "https://api.github.com/repos/c-bata/go-prompt",
+  "languages_url": "https://api.github.com/repos/c-bata/go-prompt/languages",
+  "created_at": "2017-08-14T16:02:09Z",
+  "updated_at": "2018-09-14T08:04:27Z",
+  "pushed_at": "2018-09-03T05:00:02Z",
+  "homepage": "",
+  "size": 286,
+  "stargazers_count": 1747,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "Go": {
+      "bytes": 137973,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 812,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-14T08:23:10.351Z",
+  "pulls_url": "https://api.github.com/repos/c-bata/go-prompt/pulls{/number}",
+  "pulls_authors": [
+    "monkeywithacupcake",
+    "aphistic",
+    "c-bata",
+    "iepathos",
+    "orisano",
+    "ktr0731",
+    "Calinou",
+    "Chyroc",
+    "nu11ptr",
+    "stealthybox",
+    "mattn",
+    "bcicen",
+    "arayaryoma",
+    "unasuke",
+    "jesseward",
+    "brettbuddin",
+    "b4b4r07",
+    "hori-ryota",
+    "kalafut"
+  ]
+}

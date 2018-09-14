@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "WiringPi-PHP",
+  "full_name": "WiringPi/WiringPi-PHP",
+  "owner": "WiringPi",
+  "private": false,
+  "html_url": "https://github.com/WiringPi/WiringPi-PHP",
+  "description": "PHP wrapper for WiringPi",
+  "fork": false,
+  "url": "https://api.github.com/repos/WiringPi/WiringPi-PHP",
+  "languages_url": "https://api.github.com/repos/WiringPi/WiringPi-PHP/languages",
+  "pulls_url": "https://api.github.com/repos/WiringPi/WiringPi-PHP/pulls{/number}",
+  "created_at": "2012-08-22T18:30:28Z",
+  "updated_at": "2018-05-30T02:56:47Z",
+  "pushed_at": "2018-04-02T03:29:12Z",
+  "homepage": null,
+  "size": 64,
+  "stargazers_count": 99,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "WiringPi",
+    "id": 1950827,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5NTA4Mjc=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/1950827?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/WiringPi",
+    "html_url": "https://github.com/WiringPi",
+    "followers_url": "https://api.github.com/users/WiringPi/followers",
+    "following_url": "https://api.github.com/users/WiringPi/following{/other_user}",
+    "gists_url": "https://api.github.com/users/WiringPi/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/WiringPi/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/WiringPi/subscriptions",
+    "organizations_url": "https://api.github.com/users/WiringPi/orgs",
+    "repos_url": "https://api.github.com/users/WiringPi/repos",
+    "events_url": "https://api.github.com/users/WiringPi/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/WiringPi/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "nullvariable": 1,
+    "frak": 10,
+    "Gadgetoid": 11
+  },
+  "pulls_authors": [
+    "alexfraundorf-com",
+    "MPParsley",
+    "ghost",
+    "alexandruradovici",
+    "phil-lavin",
+    "nullvariable",
+    "frak"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 176486,
+      "color": "#555555"
+    },
+    "PHP": {
+      "bytes": 13287,
+      "color": "#4F5D95"
+    },
+    "Makefile": {
+      "bytes": 889,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:12.505Z"
+}

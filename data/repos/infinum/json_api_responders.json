@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "json_api_responders",
+  "full_name": "infinum/json_api_responders",
+  "owner": "infinum",
+  "private": false,
+  "html_url": "https://github.com/infinum/json_api_responders",
+  "description": "Responders for your Rails JSON API apps.",
+  "fork": true,
+  "url": "https://api.github.com/repos/infinum/json_api_responders",
+  "languages_url": "https://api.github.com/repos/infinum/json_api_responders/languages",
+  "pulls_url": "https://api.github.com/repos/infinum/json_api_responders/pulls{/number}",
+  "created_at": "2016-06-06T14:11:16Z",
+  "updated_at": "2018-08-01T16:15:54Z",
+  "pushed_at": "2018-01-16T14:22:42Z",
+  "homepage": "",
+  "size": 67,
+  "stargazers_count": 24,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "infinum",
+    "id": 97652,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjk3NjUy",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/97652?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/infinum",
+    "html_url": "https://github.com/infinum",
+    "followers_url": "https://api.github.com/users/infinum/followers",
+    "following_url": "https://api.github.com/users/infinum/following{/other_user}",
+    "gists_url": "https://api.github.com/users/infinum/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/infinum/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/infinum/subscriptions",
+    "organizations_url": "https://api.github.com/users/infinum/orgs",
+    "repos_url": "https://api.github.com/users/infinum/repos",
+    "events_url": "https://api.github.com/users/infinum/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/infinum/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "nikone": 1,
+    "Narayanan170": 1,
+    "IvanGrgurevic": 11,
+    "DamirSvrtan": 12,
+    "stankec": 13,
+    "d4be4st": 21
+  },
+  "pulls_authors": [
+    "aziflaj",
+    "nevenRakonic",
+    "DamirSvrtan",
+    "IvanGrgurevic",
+    "d4be4st"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 20441,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 131,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-17T16:21:31.549Z"
+}

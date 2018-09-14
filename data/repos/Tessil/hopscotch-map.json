@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hopscotch-map",
+  "full_name": "Tessil/hopscotch-map",
+  "owner": "Tessil",
+  "private": false,
+  "html_url": "https://github.com/Tessil/hopscotch-map",
+  "description": "C++ implementation of a fast hash map and hash set using hopscotch hashing",
+  "fork": false,
+  "url": "https://api.github.com/repos/Tessil/hopscotch-map",
+  "languages_url": "https://api.github.com/repos/Tessil/hopscotch-map/languages",
+  "pulls_url": "https://api.github.com/repos/Tessil/hopscotch-map/pulls{/number}",
+  "created_at": "2016-08-15T00:05:57Z",
+  "updated_at": "2018-09-13T18:10:33Z",
+  "pushed_at": "2018-09-13T18:10:31Z",
+  "homepage": "",
+  "size": 1463,
+  "stargazers_count": 201,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Reputeless": 1,
+    "jcelerier": 4,
+    "Tessil": 222
+  },
+  "pulls_authors": [
+    "cmakshin",
+    "Tessil",
+    "jcelerier",
+    "Reputeless"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 230764,
+      "color": "#f34b7d"
+    },
+    "CMake": {
+      "bytes": 2277,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-13T23:51:29.671Z"
+}

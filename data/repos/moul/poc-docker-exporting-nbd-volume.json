@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "poc-docker-exporting-nbd-volume",
+  "full_name": "moul/poc-docker-exporting-nbd-volume",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/poc-docker-exporting-nbd-volume",
+  "description": ":whale: Exporting a Docker image using another container",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/poc-docker-exporting-nbd-volume",
+  "languages_url": "https://api.github.com/repos/moul/poc-docker-exporting-nbd-volume/languages",
+  "pulls_url": "https://api.github.com/repos/moul/poc-docker-exporting-nbd-volume/pulls{/number}",
+  "created_at": "2014-12-10T11:15:08Z",
+  "updated_at": "2015-09-15T06:58:38Z",
+  "pushed_at": "2018-08-18T16:10:52Z",
+  "homepage": "",
+  "size": 2,
+  "stargazers_count": 1,
+  "language": "Makefile",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 3
+  },
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
+  "languages": {
+    "Makefile": {
+      "bytes": 441,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:39.493Z"
+}

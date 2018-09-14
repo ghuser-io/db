@@ -1,0 +1,156 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mupen64plus-web",
+  "full_name": "hauxir/mupen64plus-web",
+  "owner": "hauxir",
+  "private": false,
+  "html_url": "https://github.com/hauxir/mupen64plus-web",
+  "description": "Emscripten based web port of Mupen64plus N64 Emulator",
+  "fork": true,
+  "url": "https://api.github.com/repos/hauxir/mupen64plus-web",
+  "languages_url": "https://api.github.com/repos/hauxir/mupen64plus-web/languages",
+  "pulls_url": "https://api.github.com/repos/hauxir/mupen64plus-web/pulls{/number}",
+  "created_at": "2017-11-23T09:54:58Z",
+  "updated_at": "2018-08-18T22:18:57Z",
+  "pushed_at": "2017-11-23T21:55:02Z",
+  "homepage": null,
+  "size": 95509,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "joneil-primary",
+  "contributors": {
+    "on-three": 17,
+    "johnoneil": 51
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 171365133,
+      "color": "#f34b7d"
+    },
+    "HTML": {
+      "bytes": 152809335,
+      "color": "#e34c26"
+    },
+    "C": {
+      "bytes": 2758052,
+      "color": "#555555"
+    },
+    "Python": {
+      "bytes": 1687956,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 1109032,
+      "color": "#427819"
+    },
+    "XSLT": {
+      "bytes": 549658,
+      "color": "#EB8CEB"
+    },
+    "Shell": {
+      "bytes": 353528,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 270879,
+      "color": "#563d7c"
+    },
+    "Assembly": {
+      "bytes": 218230,
+      "color": "#6E4C13"
+    },
+    "JavaScript": {
+      "bytes": 175442,
+      "color": "#f1e05a"
+    },
+    "CWeb": {
+      "bytes": 174166,
+      "color": "#ccc"
+    },
+    "PHP": {
+      "bytes": 59030,
+      "color": "#4F5D95"
+    },
+    "C#": {
+      "bytes": 40804,
+      "color": "#178600"
+    },
+    "Perl": {
+      "bytes": 38544,
+      "color": "#0298c3"
+    },
+    "Max": {
+      "bytes": 36857,
+      "color": "#c4a79c"
+    },
+    "TeX": {
+      "bytes": 32117,
+      "color": "#3D6117"
+    },
+    "Batchfile": {
+      "bytes": 31249,
+      "color": "#C1F12E"
+    },
+    "M4": {
+      "bytes": 29689,
+      "color": "#ccc"
+    },
+    "Cuda": {
+      "bytes": 26521,
+      "color": "#3A4E3A"
+    },
+    "Yacc": {
+      "bytes": 19623,
+      "color": "#4B6C4B"
+    },
+    "QMake": {
+      "bytes": 16692,
+      "color": "#ccc"
+    },
+    "CMake": {
+      "bytes": 16644,
+      "color": "#ccc"
+    },
+    "Roff": {
+      "bytes": 6097,
+      "color": "#ecdebe"
+    },
+    "Objective-C": {
+      "bytes": 4620,
+      "color": "#438eff"
+    },
+    "Fortran": {
+      "bytes": 1856,
+      "color": "#4d41b1"
+    },
+    "Lex": {
+      "bytes": 1231,
+      "color": "#DBCA00"
+    },
+    "Tcl": {
+      "bytes": 1172,
+      "color": "#e4cc98"
+    },
+    "QML": {
+      "bytes": 593,
+      "color": "#44a51c"
+    },
+    "Objective-C++": {
+      "bytes": 421,
+      "color": "#6866fb"
+    },
+    "Rebol": {
+      "bytes": 354,
+      "color": "#358a5b"
+    },
+    "IDL": {
+      "bytes": 14,
+      "color": "#a3522f"
+    }
+  },
+  "fetched_at": "2018-09-11T17:10:02.997Z"
+}

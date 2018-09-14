@@ -1,0 +1,96 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bootstrapify",
+  "full_name": "lucidnz/bootstrapify",
+  "owner": "lucidnz",
+  "private": false,
+  "html_url": "https://github.com/lucidnz/bootstrapify",
+  "description": "An open-source base theme for Shopify using Twitter Bootstrap",
+  "fork": false,
+  "url": "https://api.github.com/repos/lucidnz/bootstrapify",
+  "languages_url": "https://api.github.com/repos/lucidnz/bootstrapify/languages",
+  "pulls_url": "https://api.github.com/repos/lucidnz/bootstrapify/pulls{/number}",
+  "created_at": "2012-05-29T01:40:16Z",
+  "updated_at": "2018-08-10T01:21:46Z",
+  "pushed_at": "2017-10-24T01:07:05Z",
+  "homepage": "http://bootstrapify-theme.myshopify.com/",
+  "size": 54205,
+  "stargazers_count": 188,
+  "language": "Liquid",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "lucidnz",
+    "id": 17086,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3MDg2",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/17086?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/lucidnz",
+    "html_url": "https://github.com/lucidnz",
+    "followers_url": "https://api.github.com/users/lucidnz/followers",
+    "following_url": "https://api.github.com/users/lucidnz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/lucidnz/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/lucidnz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/lucidnz/subscriptions",
+    "organizations_url": "https://api.github.com/users/lucidnz/orgs",
+    "repos_url": "https://api.github.com/users/lucidnz/repos",
+    "events_url": "https://api.github.com/users/lucidnz/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/lucidnz/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "adler99": 1,
+    "fredrock": 1,
+    "lulessa": 2,
+    "leowolff": 2,
+    "Gadgetoid": 3,
+    "pagameba": 4,
+    "dima7b": 8,
+    "gavinballard": 13,
+    "darryn": 171,
+    "galenking": 181,
+    "stewartknapman": 576
+  },
+  "pulls_authors": [
+    "adler99",
+    "ajmalafif",
+    "gavinballard",
+    "stewartknapman",
+    "darryn",
+    "galenking",
+    "thomasdarde",
+    "Gadgetoid",
+    "lulessa",
+    "dima7b",
+    "rodrigoescandon",
+    "danifornells",
+    "pagameba",
+    "fredrock"
+  ],
+  "languages": {
+    "Liquid": {
+      "bytes": 884319,
+      "color": "#ccc"
+    },
+    "CSS": {
+      "bytes": 168229,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 166141,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 118019,
+      "color": "#e34c26"
+    },
+    "Ruby": {
+      "bytes": 61,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:15.084Z"
+}

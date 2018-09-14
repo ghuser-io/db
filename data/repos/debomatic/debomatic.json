@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "debomatic",
+  "full_name": "debomatic/debomatic",
+  "owner": "debomatic",
+  "private": false,
+  "html_url": "https://github.com/debomatic/debomatic",
+  "description": "Deb-o-Matic development branch",
+  "fork": false,
+  "url": "https://api.github.com/repos/debomatic/debomatic",
+  "languages_url": "https://api.github.com/repos/debomatic/debomatic/languages",
+  "pulls_url": "https://api.github.com/repos/debomatic/debomatic/pulls{/number}",
+  "created_at": "2014-07-18T09:00:42Z",
+  "updated_at": "2018-09-05T16:44:55Z",
+  "pushed_at": "2018-06-10T15:28:06Z",
+  "homepage": null,
+  "size": 2081,
+  "stargazers_count": 17,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "debomatic",
+    "id": 8179709,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjgxNzk3MDk=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/8179709?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/debomatic",
+    "html_url": "https://github.com/debomatic",
+    "followers_url": "https://api.github.com/users/debomatic/followers",
+    "following_url": "https://api.github.com/users/debomatic/following{/other_user}",
+    "gists_url": "https://api.github.com/users/debomatic/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/debomatic/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/debomatic/subscriptions",
+    "organizations_url": "https://api.github.com/users/debomatic/orgs",
+    "repos_url": "https://api.github.com/users/debomatic/repos",
+    "events_url": "https://api.github.com/users/debomatic/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/debomatic/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "cdluminate": 1,
+    "gno": 1,
+    "acerisara": 1,
+    "mfvescovi": 2,
+    "giomasce": 3,
+    "ntyni": 6,
+    "mapreri": 7,
+    "LeoIannacone": 15,
+    "alessio": 19,
+    "dktrkranz": 503
+  },
+  "pulls_authors": [
+    "ntyni",
+    "cdluminate",
+    "dktrkranz",
+    "mfvescovi",
+    "mapreri"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 108742,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 2772,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:24.571Z"
+}

@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mxs.sbrk.org",
+  "full_name": "aimxhaisse/mxs.sbrk.org",
+  "owner": "aimxhaisse",
+  "private": false,
+  "html_url": "https://github.com/aimxhaisse/mxs.sbrk.org",
+  "description": "random ramblings",
+  "fork": false,
+  "url": "https://api.github.com/repos/aimxhaisse/mxs.sbrk.org",
+  "languages_url": "https://api.github.com/repos/aimxhaisse/mxs.sbrk.org/languages",
+  "pulls_url": "https://api.github.com/repos/aimxhaisse/mxs.sbrk.org/pulls{/number}",
+  "created_at": "2014-10-26T21:22:04Z",
+  "updated_at": "2015-04-10T20:41:11Z",
+  "pushed_at": "2015-04-10T20:41:11Z",
+  "homepage": "",
+  "size": 52530,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 1,
+    "aimxhaisse": 111
+  },
+  "pulls_authors": [
+    "moul"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 23129,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 14703,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 10966,
+      "color": "#f1e05a"
+    },
+    "CoffeeScript": {
+      "bytes": 7351,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:40.307Z"
+}

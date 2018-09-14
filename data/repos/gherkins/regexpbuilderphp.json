@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "regexpbuilderphp",
+  "full_name": "gherkins/regexpbuilderphp",
+  "owner": "gherkins",
+  "private": false,
+  "html_url": "https://github.com/gherkins/regexpbuilderphp",
+  "description": "human-readable regular expressions for PHP 5.3+",
+  "fork": false,
+  "url": "https://api.github.com/repos/gherkins/regexpbuilderphp",
+  "languages_url": "https://api.github.com/repos/gherkins/regexpbuilderphp/languages",
+  "pulls_url": "https://api.github.com/repos/gherkins/regexpbuilderphp/pulls{/number}",
+  "created_at": "2015-02-12T19:16:22Z",
+  "updated_at": "2018-09-03T22:56:07Z",
+  "pushed_at": "2018-04-07T14:56:16Z",
+  "homepage": "",
+  "size": 153,
+  "stargazers_count": 837,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ELD": 1,
+    "younes0": 5,
+    "TomasVotruba": 9,
+    "gherkins": 117
+  },
+  "pulls_authors": [
+    "stranc",
+    "VIVEKLUCKY249",
+    "TomasVotruba",
+    "gherkins",
+    "younes0",
+    "ELD"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 45391,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-11T10:35:59.035Z"
+}

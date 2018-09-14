@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ipfs-snap",
+  "full_name": "elopio/ipfs-snap",
+  "owner": "elopio",
+  "private": false,
+  "html_url": "https://github.com/elopio/ipfs-snap",
+  "description": "IPFS packaged as a snap",
+  "fork": false,
+  "url": "https://api.github.com/repos/elopio/ipfs-snap",
+  "languages_url": "https://api.github.com/repos/elopio/ipfs-snap/languages",
+  "pulls_url": "https://api.github.com/repos/elopio/ipfs-snap/pulls{/number}",
+  "created_at": "2016-11-04T01:41:01Z",
+  "updated_at": "2018-09-12T23:38:49Z",
+  "pushed_at": "2018-09-12T23:38:47Z",
+  "homepage": null,
+  "size": 467,
+  "stargazers_count": 11,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "abitrolly": 1,
+    "elopio": 8
+  },
+  "pulls_authors": [
+    "abitrolly",
+    "elopio",
+    "mkg20001"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 2237,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:34.997Z"
+}

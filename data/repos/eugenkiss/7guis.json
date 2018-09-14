@@ -1,0 +1,101 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "7guis",
+  "full_name": "eugenkiss/7guis",
+  "owner": "eugenkiss",
+  "private": false,
+  "html_url": "https://github.com/eugenkiss/7guis",
+  "description": "7GUIs is a GUI programming usability benchmark.",
+  "fork": false,
+  "url": "https://api.github.com/repos/eugenkiss/7guis",
+  "languages_url": "https://api.github.com/repos/eugenkiss/7guis/languages",
+  "pulls_url": "https://api.github.com/repos/eugenkiss/7guis/pulls{/number}",
+  "created_at": "2014-03-20T17:20:35Z",
+  "updated_at": "2018-09-09T12:55:16Z",
+  "pushed_at": "2018-06-30T16:32:13Z",
+  "homepage": "https://eugenkiss.github.io/7guis",
+  "size": 3344,
+  "stargazers_count": 644,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "petelomax": 1,
+    "andreasgruenh": 1,
+    "evgeniy-kunitsa": 1,
+    "davedx": 1,
+    "swhgoon": 1,
+    "greggirwin": 2,
+    "vmakoed": 2,
+    "jcelerier": 3,
+    "TomasMikula": 3,
+    "suvjunmd": 4,
+    "miguel-cv": 7,
+    "eugenkiss": 131
+  },
+  "pulls_authors": [
+    "petelomax",
+    "andreasgruenh",
+    "greggirwin",
+    "dzmitry-lahoda",
+    "drewnoakes",
+    "KubaO",
+    "zaheer1389",
+    "evgeniy-kunitsa",
+    "vmakoed",
+    "suvjunmd",
+    "miguel-cv",
+    "davedx",
+    "jcelerier",
+    "swhgoon"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 49386,
+      "color": "#f1e05a"
+    },
+    "Red": {
+      "bytes": 16623,
+      "color": "#f50000"
+    },
+    "C++": {
+      "bytes": 15308,
+      "color": "#f34b7d"
+    },
+    "C#": {
+      "bytes": 9316,
+      "color": "#178600"
+    },
+    "Clojure": {
+      "bytes": 3318,
+      "color": "#db5855"
+    },
+    "CMake": {
+      "bytes": 1702,
+      "color": "#ccc"
+    },
+    "Makefile": {
+      "bytes": 649,
+      "color": "#427819"
+    },
+    "QML": {
+      "bytes": 556,
+      "color": "#44a51c"
+    },
+    "HTML": {
+      "bytes": 317,
+      "color": "#e34c26"
+    },
+    "C": {
+      "bytes": 48,
+      "color": "#555555"
+    },
+    "CSS": {
+      "bytes": 18,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:50.781Z"
+}

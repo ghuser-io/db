@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "aerozoic": 2,
+    "Cyberpangolin": 2,
+    "Calinou": 2,
+    "ElementW": 14,
+    "ObaniGemini": 19,
+    "Darcidride": 38,
+    "LeMagnesium": 165
+  },
+  "name": "server-minetestforfun-hungry_games",
+  "full_name": "MinetestForFun/server-minetestforfun-hungry_games",
+  "owner": "MinetestForFun",
+  "private": false,
+  "html_url": "https://github.com/MinetestForFun/server-minetestforfun-hungry_games",
+  "description": "Repository of the subgame and mods of \"MinetestForFun Hunger Games\" server",
+  "fork": false,
+  "url": "https://api.github.com/repos/MinetestForFun/server-minetestforfun-hungry_games",
+  "languages_url": "https://api.github.com/repos/MinetestForFun/server-minetestforfun-hungry_games/languages",
+  "created_at": "2015-07-31T20:37:52Z",
+  "updated_at": "2018-07-23T22:49:31Z",
+  "pushed_at": "2018-07-23T22:49:29Z",
+  "homepage": "https://www.xorhub.com",
+  "size": 9925,
+  "stargazers_count": 4,
+  "language": "RPC",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "MinetestForFun",
+    "id": 13528494,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzNTI4NDk0",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/13528494?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/MinetestForFun",
+    "html_url": "https://github.com/MinetestForFun",
+    "followers_url": "https://api.github.com/users/MinetestForFun/followers",
+    "following_url": "https://api.github.com/users/MinetestForFun/following{/other_user}",
+    "gists_url": "https://api.github.com/users/MinetestForFun/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/MinetestForFun/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/MinetestForFun/subscriptions",
+    "organizations_url": "https://api.github.com/users/MinetestForFun/orgs",
+    "repos_url": "https://api.github.com/users/MinetestForFun/repos",
+    "events_url": "https://api.github.com/users/MinetestForFun/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/MinetestForFun/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "RPC": {
+      "bytes": 1387413,
+      "color": "#ccc"
+    },
+    "Lua": {
+      "bytes": 1040853,
+      "color": "#000080"
+    },
+    "Python": {
+      "bytes": 5172,
+      "color": "#3572A5"
+    },
+    "Mathematica": {
+      "bytes": 152,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-07-24T06:35:11.064Z",
+  "pulls_url": "https://api.github.com/repos/MinetestForFun/server-minetestforfun-hungry_games/pulls{/number}",
+  "pulls_authors": [
+    "LeMagnesium"
+  ]
+}

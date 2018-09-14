@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "swiftislikecsharp",
+  "full_name": "terryso/swiftislikecsharp",
+  "owner": "terryso",
+  "private": false,
+  "html_url": "https://github.com/terryso/swiftislikecsharp",
+  "description": "Swift is a lot like C#",
+  "fork": true,
+  "url": "https://api.github.com/repos/terryso/swiftislikecsharp",
+  "languages_url": "https://api.github.com/repos/terryso/swiftislikecsharp/languages",
+  "pulls_url": "https://api.github.com/repos/terryso/swiftislikecsharp/pulls{/number}",
+  "created_at": "2014-06-11T09:35:21Z",
+  "updated_at": "2018-07-12T12:43:23Z",
+  "pushed_at": "2016-11-22T14:08:40Z",
+  "homepage": "",
+  "size": 323,
+  "stargazers_count": 23,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "gh-pages",
+  "contributors": {
+    "aloisdg": 1,
+    "dustMason": 1,
+    "t3chnoboy": 1,
+    "diegoleme": 1,
+    "rwaldron": 1,
+    "vicnicius": 1,
+    "delehef": 1,
+    "rkrupinski": 1,
+    "pborreli": 1,
+    "etlovett": 1,
+    "akorchev": 1,
+    "GeraldLoeffler": 2,
+    "headbandno2": 2,
+    "eipark": 2,
+    "terryso": 3,
+    "yukulele": 3,
+    "fhemberger": 4,
+    "damieng": 5,
+    "zackbloom": 5,
+    "fabricionaweb": 6,
+    "leverich": 16,
+    "adamschwartz": 19
+  },
+  "pulls_authors": [
+    "OmidID",
+    "eyalsk",
+    "AndriiTsok",
+    "aloisdg",
+    "jp311"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 49276,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 14580,
+      "color": "#563d7c"
+    },
+    "CoffeeScript": {
+      "bytes": 4450,
+      "color": "#244776"
+    },
+    "JavaScript": {
+      "bytes": 54,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:16.158Z"
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "shikaku",
+  "full_name": "moul/shikaku",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/shikaku",
+  "description": ":mahjong: Shikaku generator",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/shikaku",
+  "languages_url": "https://api.github.com/repos/moul/shikaku/languages",
+  "pulls_url": "https://api.github.com/repos/moul/shikaku/pulls{/number}",
+  "created_at": "2015-11-04T11:13:02Z",
+  "updated_at": "2017-04-23T22:31:18Z",
+  "pushed_at": "2015-11-08T16:58:54Z",
+  "homepage": "http://shikaku-as-a-service.appspot.com/",
+  "size": 157,
+  "stargazers_count": 3,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 24
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 13379,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 1497,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:18.481Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ninja-presence-bluetooth",
+  "full_name": "elliots/ninja-presence-bluetooth",
+  "owner": "elliots",
+  "private": false,
+  "html_url": "https://github.com/elliots/ninja-presence-bluetooth",
+  "description": "NinjaBlocks Presence Driver - Bluetooth (Mac, Linux)",
+  "fork": false,
+  "url": "https://api.github.com/repos/elliots/ninja-presence-bluetooth",
+  "languages_url": "https://api.github.com/repos/elliots/ninja-presence-bluetooth/languages",
+  "pulls_url": "https://api.github.com/repos/elliots/ninja-presence-bluetooth/pulls{/number}",
+  "created_at": "2013-05-30T06:36:46Z",
+  "updated_at": "2015-04-23T12:25:43Z",
+  "pushed_at": "2013-08-09T07:07:38Z",
+  "homepage": "",
+  "size": 108,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "elliots": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1221,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T13:46:00.363Z"
+}

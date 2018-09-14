@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "federal-nepal",
+  "full_name": "amitness/federal-nepal",
+  "owner": "amitness",
+  "private": false,
+  "html_url": "https://github.com/amitness/federal-nepal",
+  "description": "Data for federal structure of Nepal",
+  "fork": false,
+  "url": "https://api.github.com/repos/amitness/federal-nepal",
+  "languages_url": "https://api.github.com/repos/amitness/federal-nepal/languages",
+  "pulls_url": "https://api.github.com/repos/amitness/federal-nepal/pulls{/number}",
+  "created_at": "2017-05-16T09:34:10Z",
+  "updated_at": "2017-07-13T08:39:09Z",
+  "pushed_at": "2017-07-13T13:51:31Z",
+  "homepage": "",
+  "size": 14,
+  "stargazers_count": 4,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "amitness": 7
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-08-18T09:17:28.832Z"
+}

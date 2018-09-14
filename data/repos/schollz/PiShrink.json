@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PiShrink",
+  "full_name": "schollz/PiShrink",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/PiShrink",
+  "description": "Make your pi images smaller!",
+  "fork": true,
+  "url": "https://api.github.com/repos/schollz/PiShrink",
+  "languages_url": "https://api.github.com/repos/schollz/PiShrink/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/PiShrink/pulls{/number}",
+  "created_at": "2018-02-17T05:12:40Z",
+  "updated_at": "2018-06-13T08:10:53Z",
+  "pushed_at": "2018-02-15T18:20:50Z",
+  "homepage": null,
+  "size": 33,
+  "stargazers_count": 1,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "raspberrycoulis": 1,
+    "shatteredsword": 1,
+    "carlfj": 1,
+    "rbaumbach": 1,
+    "framps": 3,
+    "lurch": 13,
+    "Drewsif": 21
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 4590,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:55.454Z"
+}

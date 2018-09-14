@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ninja-fmip",
+  "full_name": "elliots/ninja-fmip",
+  "owner": "elliots",
+  "private": false,
+  "html_url": "https://github.com/elliots/ninja-fmip",
+  "description": "Ninja Blocks Find My iPhone Driver",
+  "fork": true,
+  "url": "https://api.github.com/repos/elliots/ninja-fmip",
+  "languages_url": "https://api.github.com/repos/elliots/ninja-fmip/languages",
+  "pulls_url": "https://api.github.com/repos/elliots/ninja-fmip/pulls{/number}",
+  "created_at": "2014-04-27T11:53:34Z",
+  "updated_at": "2014-06-22T07:56:19Z",
+  "pushed_at": "2014-04-27T12:01:14Z",
+  "homepage": null,
+  "size": 138,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "hrshukla": 2,
+    "elliots": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 25646,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T13:46:03.661Z"
+}

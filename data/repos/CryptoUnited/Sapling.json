@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Sapling",
+  "full_name": "CryptoUnited/Sapling",
+  "owner": "CryptoUnited",
+  "private": false,
+  "html_url": "https://github.com/CryptoUnited/Sapling",
+  "description": "Electron application providing the graphical user interface for a bitcoin based cryptocurrency using RPC",
+  "fork": false,
+  "url": "https://api.github.com/repos/CryptoUnited/Sapling",
+  "languages_url": "https://api.github.com/repos/CryptoUnited/Sapling/languages",
+  "pulls_url": "https://api.github.com/repos/CryptoUnited/Sapling/pulls{/number}",
+  "created_at": "2017-11-28T19:55:39Z",
+  "updated_at": "2018-07-10T06:02:12Z",
+  "pushed_at": "2018-09-10T16:09:55Z",
+  "homepage": null,
+  "size": 2684,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "CryptoUnited",
+    "id": 24512013,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI0NTEyMDEz",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/24512013?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/CryptoUnited",
+    "html_url": "https://github.com/CryptoUnited",
+    "followers_url": "https://api.github.com/users/CryptoUnited/followers",
+    "following_url": "https://api.github.com/users/CryptoUnited/following{/other_user}",
+    "gists_url": "https://api.github.com/users/CryptoUnited/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/CryptoUnited/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/CryptoUnited/subscriptions",
+    "organizations_url": "https://api.github.com/users/CryptoUnited/orgs",
+    "repos_url": "https://api.github.com/users/CryptoUnited/repos",
+    "events_url": "https://api.github.com/users/CryptoUnited/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/CryptoUnited/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "troymccabe": 2,
+    "Greg-Griffith": 13
+  },
+  "pulls_authors": [
+    "gl3nda85",
+    "dnieboer",
+    "Greg-Griffith",
+    "troymccabe",
+    "brunoalano",
+    "danmolitor"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 200892,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 17704,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1310,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T15:36:04.119Z"
+}

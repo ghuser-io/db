@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "stf-appstore-db",
+  "full_name": "openstf/stf-appstore-db",
+  "owner": "openstf",
+  "private": false,
+  "html_url": "https://github.com/openstf/stf-appstore-db",
+  "description": "A small collection of different app stores for STF.",
+  "fork": false,
+  "url": "https://api.github.com/repos/openstf/stf-appstore-db",
+  "languages_url": "https://api.github.com/repos/openstf/stf-appstore-db/languages",
+  "pulls_url": "https://api.github.com/repos/openstf/stf-appstore-db/pulls{/number}",
+  "created_at": "2015-06-18T10:08:50Z",
+  "updated_at": "2017-12-14T17:06:21Z",
+  "pushed_at": "2015-07-01T04:00:43Z",
+  "homepage": "",
+  "size": 442,
+  "stargazers_count": 4,
+  "language": "Makefile",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "openstf",
+    "id": 12196621,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMTk2NjIx",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/12196621?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/openstf",
+    "html_url": "https://github.com/openstf",
+    "followers_url": "https://api.github.com/users/openstf/followers",
+    "following_url": "https://api.github.com/users/openstf/following{/other_user}",
+    "gists_url": "https://api.github.com/users/openstf/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/openstf/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/openstf/subscriptions",
+    "organizations_url": "https://api.github.com/users/openstf/orgs",
+    "repos_url": "https://api.github.com/users/openstf/repos",
+    "events_url": "https://api.github.com/users/openstf/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/openstf/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "gunta": 1,
+    "sorccu": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Makefile": {
+      "bytes": 800,
+      "color": "#427819"
+    },
+    "JavaScript": {
+      "bytes": 40,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T23:06:04.539Z"
+}

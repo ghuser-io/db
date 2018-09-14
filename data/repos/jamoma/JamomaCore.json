@@ -1,0 +1,140 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "JamomaCore",
+  "full_name": "jamoma/JamomaCore",
+  "owner": "jamoma",
+  "private": false,
+  "html_url": "https://github.com/jamoma/JamomaCore",
+  "description": "Jamoma Frameworks for Audio and Control Structure",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamoma/JamomaCore",
+  "languages_url": "https://api.github.com/repos/jamoma/JamomaCore/languages",
+  "pulls_url": "https://api.github.com/repos/jamoma/JamomaCore/pulls{/number}",
+  "created_at": "2012-11-16T23:15:10Z",
+  "updated_at": "2018-09-11T19:09:57Z",
+  "pushed_at": "2017-02-01T18:31:48Z",
+  "homepage": null,
+  "size": 479127,
+  "stargazers_count": 18,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "jamoma",
+    "id": 381262,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM4MTI2Mg==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/381262?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jamoma",
+    "html_url": "https://github.com/jamoma",
+    "followers_url": "https://api.github.com/users/jamoma/followers",
+    "following_url": "https://api.github.com/users/jamoma/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jamoma/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jamoma/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jamoma/subscriptions",
+    "organizations_url": "https://api.github.com/users/jamoma/orgs",
+    "repos_url": "https://api.github.com/users/jamoma/repos",
+    "events_url": "https://api.github.com/users/jamoma/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jamoma/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "j45ch": 1,
+    "ChristianFrisson": 1,
+    "krisny": 1,
+    "jaimechao": 2,
+    "BorisMansencal": 4,
+    "caseybasichis": 5,
+    "jamomabuild": 5,
+    "reno-": 6,
+    "adrian-gierakowski": 7,
+    "tap": 17,
+    "diemoschwarz": 23,
+    "avilleret": 74,
+    "jcelerier": 108,
+    "jln-": 126,
+    "bltzr": 379,
+    "nwolek": 664,
+    "Nilson": 1189
+  },
+  "pulls_authors": [
+    "tap",
+    "jcelerier",
+    "avilleret",
+    "reno-",
+    "lossius",
+    "ChristianFrisson"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 5698245,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 3830490,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 880872,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 614501,
+      "color": "#427819"
+    },
+    "HTML": {
+      "bytes": 172434,
+      "color": "#e34c26"
+    },
+    "Smarty": {
+      "bytes": 168351,
+      "color": "#ccc"
+    },
+    "CMake": {
+      "bytes": 131387,
+      "color": "#ccc"
+    },
+    "Objective-C": {
+      "bytes": 70758,
+      "color": "#438eff"
+    },
+    "M4": {
+      "bytes": 55942,
+      "color": "#ccc"
+    },
+    "Roff": {
+      "bytes": 23492,
+      "color": "#ecdebe"
+    },
+    "Python": {
+      "bytes": 15477,
+      "color": "#3572A5"
+    },
+    "M": {
+      "bytes": 6224,
+      "color": "#ccc"
+    },
+    "Matlab": {
+      "bytes": 1942,
+      "color": "#e16737"
+    },
+    "CSS": {
+      "bytes": 1562,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 1184,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:53.353Z"
+}

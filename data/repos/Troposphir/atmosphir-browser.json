@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "atmosphir-browser",
+  "full_name": "Troposphir/atmosphir-browser",
+  "owner": "Troposphir",
+  "private": false,
+  "html_url": "https://github.com/Troposphir/atmosphir-browser",
+  "description": "A web-based level browser using the Troposphir API",
+  "fork": false,
+  "url": "https://api.github.com/repos/Troposphir/atmosphir-browser",
+  "languages_url": "https://api.github.com/repos/Troposphir/atmosphir-browser/languages",
+  "pulls_url": "https://api.github.com/repos/Troposphir/atmosphir-browser/pulls{/number}",
+  "created_at": "2018-03-16T15:55:33Z",
+  "updated_at": "2018-07-06T02:06:17Z",
+  "pushed_at": "2018-07-06T02:06:16Z",
+  "homepage": "http://onemoreblock.com/level-browser",
+  "size": 1029,
+  "stargazers_count": 1,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "Troposphir",
+    "id": 16614540,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2NjE0NTQw",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/16614540?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Troposphir",
+    "html_url": "https://github.com/Troposphir",
+    "followers_url": "https://api.github.com/users/Troposphir/followers",
+    "following_url": "https://api.github.com/users/Troposphir/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Troposphir/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Troposphir/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Troposphir/subscriptions",
+    "organizations_url": "https://api.github.com/users/Troposphir/orgs",
+    "repos_url": "https://api.github.com/users/Troposphir/repos",
+    "events_url": "https://api.github.com/users/Troposphir/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Troposphir/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "kroltan": 14
+  },
+  "pulls_authors": [],
+  "languages": {
+    "TypeScript": {
+      "bytes": 37025,
+      "color": "#2b7489"
+    },
+    "CSS": {
+      "bytes": 9708,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 6036,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1763,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:25.979Z"
+}

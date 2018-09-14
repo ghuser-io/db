@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "web-client-router",
+  "full_name": "kevbook/web-client-router",
+  "owner": "kevbook",
+  "private": false,
+  "html_url": "https://github.com/kevbook/web-client-router",
+  "description": "Client router for single page web apps",
+  "fork": false,
+  "url": "https://api.github.com/repos/kevbook/web-client-router",
+  "languages_url": "https://api.github.com/repos/kevbook/web-client-router/languages",
+  "created_at": "2015-04-03T21:08:59Z",
+  "updated_at": "2016-02-26T19:39:45Z",
+  "pushed_at": "2016-06-01T19:45:58Z",
+  "homepage": null,
+  "size": 85,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "wei": 2,
+    "kevbook": 45
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 101914,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 418,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-07-21T08:12:16.618Z",
+  "pulls_url": "https://api.github.com/repos/kevbook/web-client-router/pulls{/number}",
+  "pulls_authors": [
+    "kevbook",
+    "wei"
+  ]
+}

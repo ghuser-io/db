@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "frontend-kiwilib",
+  "full_name": "KIWIKIGMBH/frontend-kiwilib",
+  "owner": "KIWIKIGMBH",
+  "private": false,
+  "html_url": "https://github.com/KIWIKIGMBH/frontend-kiwilib",
+  "description": "This is a library that wraps the KIWI.KI Backend API in order to provide a simple JavaScript interface for Web Applications.",
+  "fork": false,
+  "url": "https://api.github.com/repos/KIWIKIGMBH/frontend-kiwilib",
+  "languages_url": "https://api.github.com/repos/KIWIKIGMBH/frontend-kiwilib/languages",
+  "created_at": "2014-02-25T15:49:07Z",
+  "updated_at": "2014-03-19T09:49:08Z",
+  "pushed_at": "2014-03-19T09:49:07Z",
+  "homepage": null,
+  "size": 416,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mpl-2.0",
+    "name": "Mozilla Public License 2.0",
+    "spdx_id": "MPL-2.0",
+    "url": "https://api.github.com/licenses/mpl-2.0",
+    "node_id": "MDc6TGljZW5zZTE0"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "KIWIKIGMBH",
+    "id": 6759177,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY3NTkxNzc=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/6759177?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/KIWIKIGMBH",
+    "html_url": "https://github.com/KIWIKIGMBH",
+    "followers_url": "https://api.github.com/users/KIWIKIGMBH/followers",
+    "following_url": "https://api.github.com/users/KIWIKIGMBH/following{/other_user}",
+    "gists_url": "https://api.github.com/users/KIWIKIGMBH/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/KIWIKIGMBH/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/KIWIKIGMBH/subscriptions",
+    "organizations_url": "https://api.github.com/users/KIWIKIGMBH/orgs",
+    "repos_url": "https://api.github.com/users/KIWIKIGMBH/repos",
+    "events_url": "https://api.github.com/users/KIWIKIGMBH/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/KIWIKIGMBH/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "brillout": 24
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 49559,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/KIWIKIGMBH/frontend-kiwilib/pulls{/number}",
+  "pulls_authors": []
+}

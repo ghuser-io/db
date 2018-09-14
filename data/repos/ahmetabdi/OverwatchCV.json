@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "OverwatchCV",
+  "full_name": "ahmetabdi/OverwatchCV",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/OverwatchCV",
+  "description": "Overwatch OpenCV Image Detection",
+  "fork": false,
+  "url": "https://api.github.com/repos/ahmetabdi/OverwatchCV",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/OverwatchCV/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/OverwatchCV/pulls{/number}",
+  "created_at": "2016-10-02T17:08:49Z",
+  "updated_at": "2018-08-23T19:12:34Z",
+  "pushed_at": "2016-10-02T17:22:45Z",
+  "homepage": null,
+  "size": 49395,
+  "stargazers_count": 34,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 4659,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 611,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T15:30:56.539Z"
+}

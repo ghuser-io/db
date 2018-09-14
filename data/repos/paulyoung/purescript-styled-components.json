@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "purescript-styled-components",
+  "full_name": "paulyoung/purescript-styled-components",
+  "owner": "paulyoung",
+  "private": false,
+  "html_url": "https://github.com/paulyoung/purescript-styled-components",
+  "description": "A PureScript implementation of styled-components",
+  "fork": false,
+  "url": "https://api.github.com/repos/paulyoung/purescript-styled-components",
+  "languages_url": "https://api.github.com/repos/paulyoung/purescript-styled-components/languages",
+  "pulls_url": "https://api.github.com/repos/paulyoung/purescript-styled-components/pulls{/number}",
+  "created_at": "2018-05-12T19:29:39Z",
+  "updated_at": "2018-08-29T17:20:17Z",
+  "pushed_at": "2018-07-20T06:43:33Z",
+  "homepage": "",
+  "size": 46,
+  "stargazers_count": 4,
+  "language": "PureScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "paulyoung": 7
+  },
+  "pulls_authors": [
+    "paulyoung"
+  ],
+  "languages": {
+    "PureScript": {
+      "bytes": 3695,
+      "color": "#1D222D"
+    },
+    "HTML": {
+      "bytes": 133,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:49.997Z"
+}

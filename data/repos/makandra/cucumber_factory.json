@@ -1,0 +1,87 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cucumber_factory",
+  "full_name": "makandra/cucumber_factory",
+  "owner": "makandra",
+  "private": false,
+  "html_url": "https://github.com/makandra/cucumber_factory",
+  "description": "Create records from Cucumber features without writing step definitions.",
+  "fork": false,
+  "url": "https://api.github.com/repos/makandra/cucumber_factory",
+  "languages_url": "https://api.github.com/repos/makandra/cucumber_factory/languages",
+  "pulls_url": "https://api.github.com/repos/makandra/cucumber_factory/pulls{/number}",
+  "created_at": "2009-09-07T08:55:01Z",
+  "updated_at": "2018-07-22T02:34:37Z",
+  "pushed_at": "2018-04-26T07:07:04Z",
+  "homepage": "http://makandra.com/",
+  "size": 170,
+  "stargazers_count": 109,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "makandra",
+    "id": 89593,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjg5NTkz",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/89593?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/makandra",
+    "html_url": "https://github.com/makandra",
+    "followers_url": "https://api.github.com/users/makandra/followers",
+    "following_url": "https://api.github.com/users/makandra/following{/other_user}",
+    "gists_url": "https://api.github.com/users/makandra/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/makandra/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/makandra/subscriptions",
+    "organizations_url": "https://api.github.com/users/makandra/orgs",
+    "repos_url": "https://api.github.com/users/makandra/repos",
+    "events_url": "https://api.github.com/users/makandra/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/makandra/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "john-denisov": 1,
+    "bitboxer": 1,
+    "denzelem": 2,
+    "foobear": 2,
+    "micapam": 2,
+    "tjallingvanderwal": 3,
+    "thomasklemm": 3,
+    "kraatob": 13,
+    "kratob": 14,
+    "triskweline": 76
+  },
+  "pulls_authors": [
+    "kratob",
+    "denzelem",
+    "tjallingvanderwal",
+    "john-denisov",
+    "dirkholzapfel",
+    "Nikamura",
+    "thomasklemm",
+    "xhr15",
+    "codezomb",
+    "pkoch",
+    "micapam",
+    "dennisreimann"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 32323,
+      "color": "#701516"
+    },
+    "Roff": {
+      "bytes": 1025,
+      "color": "#ecdebe"
+    }
+  },
+  "fetched_at": "2018-09-11T17:13:23.830Z"
+}

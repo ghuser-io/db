@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "egit-github",
+  "full_name": "stephenwilliams/egit-github",
+  "owner": "stephenwilliams",
+  "private": false,
+  "html_url": "https://github.com/stephenwilliams/egit-github",
+  "description": "GitHub Mylyn Connector",
+  "fork": true,
+  "url": "https://api.github.com/repos/stephenwilliams/egit-github",
+  "languages_url": "https://api.github.com/repos/stephenwilliams/egit-github/languages",
+  "pulls_url": "https://api.github.com/repos/stephenwilliams/egit-github/pulls{/number}",
+  "created_at": "2012-07-05T19:33:18Z",
+  "updated_at": "2013-01-11T00:31:09Z",
+  "pushed_at": "2012-07-05T20:04:50Z",
+  "homepage": "",
+  "size": 2042,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "stefanlay": 1,
+    "rombert": 1,
+    "stephenwilliams": 2,
+    "spingel": 2,
+    "jsntsay": 3,
+    "manandbytes": 3,
+    "fsteeg": 3,
+    "thallgren": 4,
+    "EddieRingle": 4,
+    "caniszczyk": 26,
+    "smilebase": 37,
+    "msohn": 60,
+    "kevinsawicki": 369
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 1215120,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:12.514Z"
+}

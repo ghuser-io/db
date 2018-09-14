@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "registry-usb",
+  "full_name": "meyskens/registry-usb",
+  "owner": "meyskens",
+  "private": false,
+  "html_url": "https://github.com/meyskens/registry-usb",
+  "description": "Hosting a local Docker registry on a USB drive",
+  "fork": false,
+  "url": "https://api.github.com/repos/meyskens/registry-usb",
+  "languages_url": "https://api.github.com/repos/meyskens/registry-usb/languages",
+  "pulls_url": "https://api.github.com/repos/meyskens/registry-usb/pulls{/number}",
+  "created_at": "2017-08-19T10:49:58Z",
+  "updated_at": "2018-08-15T05:39:36Z",
+  "pushed_at": "2017-08-19T17:35:40Z",
+  "homepage": null,
+  "size": 4,
+  "stargazers_count": 6,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "meyskens": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 515,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T20:50:22.767Z"
+}

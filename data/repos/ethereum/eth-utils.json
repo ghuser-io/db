@@ -1,0 +1,93 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "eth-utils",
+  "full_name": "ethereum/eth-utils",
+  "owner": "ethereum",
+  "private": false,
+  "html_url": "https://github.com/ethereum/eth-utils",
+  "description": "Utility functions for working with ethereum related codebases.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ethereum/eth-utils",
+  "languages_url": "https://api.github.com/repos/ethereum/eth-utils/languages",
+  "created_at": "2017-02-07T15:15:18Z",
+  "updated_at": "2018-09-12T10:00:20Z",
+  "pushed_at": "2018-09-11T15:40:30Z",
+  "homepage": null,
+  "size": 278,
+  "stargazers_count": 107,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ethereum",
+    "id": 6250754,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYyNTA3NTQ=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/6250754?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ethereum",
+    "html_url": "https://github.com/ethereum",
+    "followers_url": "https://api.github.com/users/ethereum/followers",
+    "following_url": "https://api.github.com/users/ethereum/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ethereum/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ethereum/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ethereum/subscriptions",
+    "organizations_url": "https://api.github.com/users/ethereum/orgs",
+    "repos_url": "https://api.github.com/users/ethereum/repos",
+    "events_url": "https://api.github.com/users/ethereum/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ethereum/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "palash25": 1,
+    "palango": 1,
+    "djrtwo": 2,
+    "davesque": 9,
+    "Alegzander": 4,
+    "reiven": 4,
+    "njgheorghita": 34,
+    "carver": 47,
+    "pipermerriam": 63,
+    "srisankethu": 1,
+    "Arbitrage0": 1
+  },
+  "languages": {
+    "Python": {
+      "bytes": 79873,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 985,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:53:49.069Z",
+  "pulls_url": "https://api.github.com/repos/ethereum/eth-utils/pulls{/number}",
+  "pulls_authors": [
+    "njgheorghita",
+    "carver",
+    "dilatebrave",
+    "gsalgado",
+    "davesque",
+    "hbprotoss",
+    "pipermerriam",
+    "cburgdorf",
+    "palash25",
+    "palango",
+    "ghost",
+    "Alegzander",
+    "djrtwo",
+    "reiven",
+    "srisankethu",
+    "RichardLitt",
+    "Arbitrage0"
+  ]
+}

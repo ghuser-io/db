@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "2048-agent",
+  "full_name": "rmseng/2048-agent",
+  "owner": "rmseng",
+  "private": false,
+  "html_url": "https://github.com/rmseng/2048-agent",
+  "description": "Create and run agents to play 2048",
+  "fork": false,
+  "url": "https://api.github.com/repos/rmseng/2048-agent",
+  "languages_url": "https://api.github.com/repos/rmseng/2048-agent/languages",
+  "pulls_url": "https://api.github.com/repos/rmseng/2048-agent/pulls{/number}",
+  "created_at": "2014-04-03T04:28:45Z",
+  "updated_at": "2017-01-14T04:26:42Z",
+  "pushed_at": "2017-01-14T04:26:41Z",
+  "homepage": null,
+  "size": 13,
+  "stargazers_count": 17,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rmseng": 12
+  },
+  "pulls_authors": [
+    "sidfarkus"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 13081,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:21.651Z"
+}

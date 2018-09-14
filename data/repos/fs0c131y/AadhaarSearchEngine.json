@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "AadhaarSearchEngine",
+  "full_name": "fs0c131y/AadhaarSearchEngine",
+  "owner": "fs0c131y",
+  "private": false,
+  "html_url": "https://github.com/fs0c131y/AadhaarSearchEngine",
+  "description": "Find Aadhaar cards thanks to Google",
+  "fork": false,
+  "url": "https://api.github.com/repos/fs0c131y/AadhaarSearchEngine",
+  "languages_url": "https://api.github.com/repos/fs0c131y/AadhaarSearchEngine/languages",
+  "pulls_url": "https://api.github.com/repos/fs0c131y/AadhaarSearchEngine/pulls{/number}",
+  "created_at": "2018-03-19T16:57:13Z",
+  "updated_at": "2018-08-09T07:15:44Z",
+  "pushed_at": "2018-03-20T17:57:47Z",
+  "homepage": null,
+  "size": 5,
+  "stargazers_count": 124,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "fs0c131y": 1,
+    "mzfr": 2
+  },
+  "pulls_authors": [
+    "mzfr"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 4094,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-02T14:34:53.493Z"
+}

@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "web-workshop",
+  "full_name": "ncs-jss/web-workshop",
+  "owner": "ncs-jss",
+  "private": false,
+  "html_url": "https://github.com/ncs-jss/web-workshop",
+  "description": "A helper project for the students to understand HTML5 and CSS3",
+  "fork": false,
+  "url": "https://api.github.com/repos/ncs-jss/web-workshop",
+  "languages_url": "https://api.github.com/repos/ncs-jss/web-workshop/languages",
+  "created_at": "2017-09-19T16:19:58Z",
+  "updated_at": "2017-09-19T19:57:45Z",
+  "pushed_at": "2017-09-19T16:46:28Z",
+  "homepage": null,
+  "size": 1297,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "ncs-jss",
+    "id": 11776797,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExNzc2Nzk3",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/11776797?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ncs-jss",
+    "html_url": "https://github.com/ncs-jss",
+    "followers_url": "https://api.github.com/users/ncs-jss/followers",
+    "following_url": "https://api.github.com/users/ncs-jss/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ncs-jss/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ncs-jss/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ncs-jss/subscriptions",
+    "organizations_url": "https://api.github.com/users/ncs-jss/orgs",
+    "repos_url": "https://api.github.com/users/ncs-jss/repos",
+    "events_url": "https://api.github.com/users/ncs-jss/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ncs-jss/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "itaditya": 2
+  },
+  "languages": {
+    "CSS": {
+      "bytes": 738,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 490,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/ncs-jss/web-workshop/pulls{/number}",
+  "pulls_authors": []
+}

@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "essential-react",
+  "full_name": "pheuter/essential-react",
+  "owner": "pheuter",
+  "private": false,
+  "html_url": "https://github.com/pheuter/essential-react",
+  "description": "A minimal skeleton for building testable React apps using Babel",
+  "fork": false,
+  "url": "https://api.github.com/repos/pheuter/essential-react",
+  "languages_url": "https://api.github.com/repos/pheuter/essential-react/languages",
+  "pulls_url": "https://api.github.com/repos/pheuter/essential-react/pulls{/number}",
+  "created_at": "2015-03-08T19:10:15Z",
+  "updated_at": "2018-09-12T21:16:34Z",
+  "pushed_at": "2018-07-31T14:53:27Z",
+  "homepage": "",
+  "size": 352,
+  "stargazers_count": 2059,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "harlantwood": 1,
+    "lolcookie": 1,
+    "MichalKononenko": 1,
+    "claudiopro": 1,
+    "paulyoung": 1,
+    "liady": 5,
+    "pheuter": 52
+  },
+  "pulls_authors": [
+    "Luanre",
+    "rluncasu",
+    "cray9503",
+    "kminehart",
+    "franzherzog",
+    "sizov",
+    "harlantwood",
+    "vkomulai",
+    "liady",
+    "lolcookie",
+    "MichalKononenko",
+    "davedx",
+    "claudiopro",
+    "therealmarv",
+    "tupy",
+    "StevenLangbroek",
+    "paulyoung",
+    "pheuter",
+    "sandhose",
+    "sudodoki",
+    "martinbalfanz"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6809,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 1306,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 221,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-13T00:22:03.231Z"
+}

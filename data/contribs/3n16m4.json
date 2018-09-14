@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "3n16m4/dotfiles": {
+      "full_name": "3n16m4/dotfiles",
+      "name": "dotfiles",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 0.945948050709954,
+      "total_score": 0.945948050709954,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "3n16m4/sequence-table-dumper": {
+      "full_name": "3n16m4/sequence-table-dumper",
+      "name": "sequence-table-dumper",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 12,
+      "activity": 0.9242894471039111,
+      "total_score": 0.9242894471039111,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "3n16m4/enigma-pro": {
+      "full_name": "3n16m4/enigma-pro",
+      "name": "enigma-pro",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 0.882267875386594,
+      "total_score": 17.545119402473638,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "3n16m4/n1x_crack": {
+      "full_name": "3n16m4/n1x_crack",
+      "name": "n1x_crack",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 7,
+      "activity": 0.8703791663409612,
+      "total_score": 0.8703791663409612,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

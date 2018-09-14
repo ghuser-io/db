@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "GPIB-USBTMC-Serial-Connector",
+  "full_name": "PythonLabInstControl/GPIB-USBTMC-Serial-Connector",
+  "owner": "PythonLabInstControl",
+  "private": false,
+  "html_url": "https://github.com/PythonLabInstControl/GPIB-USBTMC-Serial-Connector",
+  "description": "Installer and libraries required to talk to GPIB, USBTMC and Serial devices.",
+  "fork": false,
+  "url": "https://api.github.com/repos/PythonLabInstControl/GPIB-USBTMC-Serial-Connector",
+  "languages_url": "https://api.github.com/repos/PythonLabInstControl/GPIB-USBTMC-Serial-Connector/languages",
+  "pulls_url": "https://api.github.com/repos/PythonLabInstControl/GPIB-USBTMC-Serial-Connector/pulls{/number}",
+  "created_at": "2015-07-15T08:10:17Z",
+  "updated_at": "2017-08-20T18:38:20Z",
+  "pushed_at": "2017-07-19T16:46:41Z",
+  "homepage": "",
+  "size": 2604,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "PythonLabInstControl",
+    "id": 9948587,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjk5NDg1ODc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/9948587?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/PythonLabInstControl",
+    "html_url": "https://github.com/PythonLabInstControl",
+    "followers_url": "https://api.github.com/users/PythonLabInstControl/followers",
+    "following_url": "https://api.github.com/users/PythonLabInstControl/following{/other_user}",
+    "gists_url": "https://api.github.com/users/PythonLabInstControl/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/PythonLabInstControl/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/PythonLabInstControl/subscriptions",
+    "organizations_url": "https://api.github.com/users/PythonLabInstControl/orgs",
+    "repos_url": "https://api.github.com/users/PythonLabInstControl/repos",
+    "events_url": "https://api.github.com/users/PythonLabInstControl/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/PythonLabInstControl/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "elektronomikon": 8,
+    "HoWilgh": 8,
+    "PhilipTrauner": 106
+  },
+  "pulls_authors": [
+    "elektronomikon"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 130550,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 750,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 407,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:15.224Z"
+}

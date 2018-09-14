@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ansible-role-django",
+  "full_name": "cchurch/ansible-role-django",
+  "owner": "cchurch",
+  "private": false,
+  "html_url": "https://github.com/cchurch/ansible-role-django",
+  "description": "Ansible role to configure and update a Django project.",
+  "fork": false,
+  "url": "https://api.github.com/repos/cchurch/ansible-role-django",
+  "languages_url": "https://api.github.com/repos/cchurch/ansible-role-django/languages",
+  "pulls_url": "https://api.github.com/repos/cchurch/ansible-role-django/pulls{/number}",
+  "created_at": "2015-06-07T23:26:54Z",
+  "updated_at": "2018-09-06T20:54:59Z",
+  "pushed_at": "2018-01-28T21:19:41Z",
+  "homepage": null,
+  "size": 38,
+  "stargazers_count": 7,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "vierbergenlars": 1,
+    "cchurch": 34
+  },
+  "pulls_authors": [
+    "vierbergenlars"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 7151,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 1703,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T17:16:17.359Z"
+}

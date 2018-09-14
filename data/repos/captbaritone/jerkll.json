@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jerkll",
+  "full_name": "captbaritone/jerkll",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/jerkll",
+  "description": "A tiny(!) JavaScript clone of Jekyll inspired by RequireJS",
+  "fork": false,
+  "url": "https://api.github.com/repos/captbaritone/jerkll",
+  "languages_url": "https://api.github.com/repos/captbaritone/jerkll/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/jerkll/pulls{/number}",
+  "created_at": "2015-05-10T00:11:16Z",
+  "updated_at": "2018-08-15T11:25:11Z",
+  "pushed_at": "2015-08-24T23:28:11Z",
+  "homepage": "https://jordaneldredge.com/projects/jerkll/",
+  "size": 268,
+  "stargazers_count": 12,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 34
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 28570,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 22671,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 2520,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:41.427Z"
+}

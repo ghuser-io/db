@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hs-crypto-cipher",
+  "full_name": "vincenthz/hs-crypto-cipher",
+  "owner": "vincenthz",
+  "private": false,
+  "html_url": "https://github.com/vincenthz/hs-crypto-cipher",
+  "description": "DEPRECATED by cryptonite; A collection of cryptographic block and stream ciphers in haskell",
+  "fork": false,
+  "url": "https://api.github.com/repos/vincenthz/hs-crypto-cipher",
+  "languages_url": "https://api.github.com/repos/vincenthz/hs-crypto-cipher/languages",
+  "pulls_url": "https://api.github.com/repos/vincenthz/hs-crypto-cipher/pulls{/number}",
+  "created_at": "2010-07-31T11:13:31Z",
+  "updated_at": "2018-03-26T05:03:35Z",
+  "pushed_at": "2014-03-13T09:34:53Z",
+  "homepage": "",
+  "size": 795,
+  "stargazers_count": 18,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "juhp": 1,
+    "domdere": 1,
+    "rzetterberg": 1,
+    "joecrayne": 1,
+    "rocco66": 1,
+    "tanimoto": 1,
+    "nomeata": 1,
+    "hvr": 1,
+    "bos": 1,
+    "stbuehler": 2,
+    "snoyberg": 2,
+    "TomMD": 2,
+    "vincenthz": 294
+  },
+  "pulls_authors": [
+    "rethab",
+    "juhp",
+    "domdere",
+    "stbuehler",
+    "snoyberg",
+    "rzetterberg",
+    "joecrayne",
+    "rocco66",
+    "tanimoto",
+    "PeterDWhite",
+    "nomeata",
+    "ghost",
+    "TomMD",
+    "hvr",
+    "bos"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 131111,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:20.217Z"
+}

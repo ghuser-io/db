@@ -1,0 +1,100 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pyexcel",
+  "full_name": "pyexcel/pyexcel",
+  "owner": "pyexcel",
+  "private": false,
+  "html_url": "https://github.com/pyexcel/pyexcel",
+  "description": "Single API for reading, manipulating and writing data in csv, ods, xls, xlsx and xlsm files",
+  "fork": false,
+  "url": "https://api.github.com/repos/pyexcel/pyexcel",
+  "languages_url": "https://api.github.com/repos/pyexcel/pyexcel/languages",
+  "pulls_url": "https://api.github.com/repos/pyexcel/pyexcel/pulls{/number}",
+  "created_at": "2014-08-22T12:52:20Z",
+  "updated_at": "2018-09-11T12:41:25Z",
+  "pushed_at": "2018-08-30T22:12:05Z",
+  "homepage": "http://docs.pyexcel.org",
+  "size": 3435,
+  "stargazers_count": 534,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pyexcel",
+    "id": 16431467,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2NDMxNDY3",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/16431467?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pyexcel",
+    "html_url": "https://github.com/pyexcel",
+    "followers_url": "https://api.github.com/users/pyexcel/followers",
+    "following_url": "https://api.github.com/users/pyexcel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pyexcel/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pyexcel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pyexcel/subscriptions",
+    "organizations_url": "https://api.github.com/users/pyexcel/orgs",
+    "repos_url": "https://api.github.com/users/pyexcel/repos",
+    "events_url": "https://api.github.com/users/pyexcel/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pyexcel/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "arunkumar-ra": 1,
+    "williamjamir": 1,
+    "garfunkel": 1,
+    "rmzelle": 1,
+    "nikolas": 1,
+    "darylyu": 1,
+    "andrealmar": 1,
+    "lordakshaya": 1,
+    "jnothman": 1,
+    "svisser": 1,
+    "julzhk": 5,
+    "jayvdb": 6,
+    "chfw": 1555
+  },
+  "pulls_authors": [
+    "arunkumar-ra",
+    "julzhk",
+    "williamjamir",
+    "fuhrysteve",
+    "garfunkel",
+    "rmzelle",
+    "nikolas",
+    "jayvdb",
+    "darylyu",
+    "andrealmar",
+    "lordakshaya",
+    "jnothman",
+    "svisser",
+    "chfw"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 414699,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 626,
+      "color": "#89e051"
+    },
+    "Batchfile": {
+      "bytes": 603,
+      "color": "#C1F12E"
+    },
+    "Makefile": {
+      "bytes": 121,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T13:47:31.696Z"
+}

@@ -1,0 +1,105 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dcpython-django",
+  "full_name": "dcpython-archive/dcpython-django",
+  "owner": "dcpython-archive",
+  "private": false,
+  "html_url": "https://github.com/dcpython-archive/dcpython-django",
+  "description": "Moved to",
+  "fork": false,
+  "url": "https://api.github.com/repos/dcpython-archive/dcpython-django",
+  "languages_url": "https://api.github.com/repos/dcpython-archive/dcpython-django/languages",
+  "pulls_url": "https://api.github.com/repos/dcpython-archive/dcpython-django/pulls{/number}",
+  "created_at": "2013-10-03T19:39:06Z",
+  "updated_at": "2018-01-19T01:45:31Z",
+  "pushed_at": "2016-09-15T19:07:34Z",
+  "homepage": "https://github.com/dcpython/dcpython-website-save",
+  "size": 809,
+  "stargazers_count": 25,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "dcpython-archive",
+    "id": 35584866,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM1NTg0ODY2",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/35584866?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/dcpython-archive",
+    "html_url": "https://github.com/dcpython-archive",
+    "followers_url": "https://api.github.com/users/dcpython-archive/followers",
+    "following_url": "https://api.github.com/users/dcpython-archive/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dcpython-archive/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/dcpython-archive/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dcpython-archive/subscriptions",
+    "organizations_url": "https://api.github.com/users/dcpython-archive/orgs",
+    "repos_url": "https://api.github.com/users/dcpython-archive/repos",
+    "events_url": "https://api.github.com/users/dcpython-archive/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/dcpython-archive/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "dahoste": 1,
+    "snitzr": 2,
+    "srthurman": 2,
+    "ajschumacher": 3,
+    "garnertb": 6,
+    "ducklet": 7,
+    "sinistersnare": 10,
+    "edwelker": 16,
+    "acdha": 33,
+    "dgreisen": 70,
+    "aclark4life": 199
+  },
+  "pulls_authors": [
+    "aclark4life",
+    "snitzr",
+    "dgreisen",
+    "dahoste",
+    "edwelker",
+    "sinistersnare",
+    "ajschumacher",
+    "joshfinnie",
+    "lauralorenz",
+    "garnertb",
+    "acdha",
+    "ducklet",
+    "srthurman"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 39154,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 34345,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 4442,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 1890,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 1076,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 292,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:38.416Z"
+}

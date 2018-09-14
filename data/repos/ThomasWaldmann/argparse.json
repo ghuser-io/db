@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "argparse",
+  "full_name": "ThomasWaldmann/argparse",
+  "owner": "ThomasWaldmann",
+  "private": false,
+  "html_url": "https://github.com/ThomasWaldmann/argparse",
+  "description": "python argparse, pypi version (moved from google code)",
+  "fork": false,
+  "url": "https://api.github.com/repos/ThomasWaldmann/argparse",
+  "languages_url": "https://api.github.com/repos/ThomasWaldmann/argparse/languages",
+  "pulls_url": "https://api.github.com/repos/ThomasWaldmann/argparse/pulls{/number}",
+  "created_at": "2015-09-12T18:22:54Z",
+  "updated_at": "2018-09-03T15:03:45Z",
+  "pushed_at": "2017-05-18T21:06:08Z",
+  "homepage": "",
+  "size": 502,
+  "stargazers_count": 18,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ThomasWaldmann": 8
+  },
+  "pulls_authors": [
+    "ralic",
+    "jayvdb",
+    "jd"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 237470,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-03T15:15:41.455Z"
+}

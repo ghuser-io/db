@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "psi-sg",
+  "full_name": "cheeaun/psi-sg",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/psi-sg",
+  "description": "A web app that displays PSI readings in Singapore",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/psi-sg",
+  "languages_url": "https://api.github.com/repos/cheeaun/psi-sg/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/psi-sg/pulls{/number}",
+  "created_at": "2013-06-25T15:39:59Z",
+  "updated_at": "2016-08-27T12:28:45Z",
+  "pushed_at": "2015-09-26T06:51:30Z",
+  "homepage": "http://cheeaun.github.io/psi-sg/",
+  "size": 172,
+  "stargazers_count": 6,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 14
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 4665,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 302,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:58.990Z"
+}

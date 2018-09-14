@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rusic-gem",
+  "full_name": "rusic/rusic-gem",
+  "owner": "rusic",
+  "private": false,
+  "html_url": "https://github.com/rusic/rusic-gem",
+  "description": "Generate and deploy Rusic themes",
+  "fork": false,
+  "url": "https://api.github.com/repos/rusic/rusic-gem",
+  "languages_url": "https://api.github.com/repos/rusic/rusic-gem/languages",
+  "pulls_url": "https://api.github.com/repos/rusic/rusic-gem/pulls{/number}",
+  "created_at": "2011-06-30T00:59:58Z",
+  "updated_at": "2016-07-12T16:34:57Z",
+  "pushed_at": "2016-07-05T15:53:16Z",
+  "homepage": "http://rusic.com",
+  "size": 200,
+  "stargazers_count": 5,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "rusic",
+    "id": 7166889,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjcxNjY4ODk=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/7166889?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/rusic",
+    "html_url": "https://github.com/rusic",
+    "followers_url": "https://api.github.com/users/rusic/followers",
+    "following_url": "https://api.github.com/users/rusic/following{/other_user}",
+    "gists_url": "https://api.github.com/users/rusic/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/rusic/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/rusic/subscriptions",
+    "organizations_url": "https://api.github.com/users/rusic/orgs",
+    "repos_url": "https://api.github.com/users/rusic/repos",
+    "events_url": "https://api.github.com/users/rusic/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/rusic/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "msaqib52": 1,
+    "benjaminreid": 2,
+    "chrismytton": 18,
+    "adambutler": 22,
+    "paulspringett": 39
+  },
+  "pulls_authors": [
+    "markjs",
+    "adambutler",
+    "benjaminreid",
+    "msaqib52",
+    "createdbypete",
+    "paulspringett"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 16277,
+      "color": "#701516"
+    },
+    "Liquid": {
+      "bytes": 8433,
+      "color": "#ccc"
+    },
+    "CSS": {
+      "bytes": 2437,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:50.908Z"
+}

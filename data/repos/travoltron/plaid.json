@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "plaid",
+  "full_name": "travoltron/plaid",
+  "owner": "travoltron",
+  "private": false,
+  "html_url": "https://github.com/travoltron/plaid",
+  "description": "Laravel specific wrapper for Plaid",
+  "fork": false,
+  "url": "https://api.github.com/repos/travoltron/plaid",
+  "languages_url": "https://api.github.com/repos/travoltron/plaid/languages",
+  "pulls_url": "https://api.github.com/repos/travoltron/plaid/pulls{/number}",
+  "created_at": "2016-06-06T22:01:13Z",
+  "updated_at": "2018-09-12T19:26:07Z",
+  "pushed_at": "2018-09-12T19:26:36Z",
+  "homepage": "",
+  "size": 104,
+  "stargazers_count": 12,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "joshstrange": 12,
+    "travoltron": 78
+  },
+  "pulls_authors": [
+    "travoltron",
+    "joshstrange"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 108275,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T23:56:34.360Z"
+}

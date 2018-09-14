@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PySeqsee",
+  "full_name": "amahabal/PySeqsee",
+  "owner": "amahabal",
+  "private": false,
+  "html_url": "https://github.com/amahabal/PySeqsee",
+  "description": "Python framework for writing programs to solve complex problems not amenable to brute force. The architecture is a descendant of Douglas Hofstadter and Melanie Mitchell's Copycat architecture. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/amahabal/PySeqsee",
+  "languages_url": "https://api.github.com/repos/amahabal/PySeqsee/languages",
+  "pulls_url": "https://api.github.com/repos/amahabal/PySeqsee/pulls{/number}",
+  "created_at": "2011-08-17T01:57:48Z",
+  "updated_at": "2018-08-04T19:54:25Z",
+  "pushed_at": "2017-07-31T03:59:07Z",
+  "homepage": "http://amahabal.github.com/PySeqsee/",
+  "size": 3011,
+  "stargazers_count": 26,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "superMDguy": 36,
+    "amahabal": 489
+  },
+  "pulls_authors": [
+    "Alex-Linhares",
+    "superMDguy"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 468229,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T22:37:09.614Z"
+}

@@ -1,0 +1,89 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "adbkit",
+  "full_name": "openstf/adbkit",
+  "owner": "openstf",
+  "private": false,
+  "html_url": "https://github.com/openstf/adbkit",
+  "description": "A pure Node.js client for the Android Debug Bridge.",
+  "fork": false,
+  "url": "https://api.github.com/repos/openstf/adbkit",
+  "languages_url": "https://api.github.com/repos/openstf/adbkit/languages",
+  "pulls_url": "https://api.github.com/repos/openstf/adbkit/pulls{/number}",
+  "created_at": "2013-11-26T09:38:44Z",
+  "updated_at": "2018-09-13T07:46:51Z",
+  "pushed_at": "2018-02-09T11:28:19Z",
+  "homepage": null,
+  "size": 1115,
+  "stargazers_count": 452,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "openstf",
+    "id": 12196621,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMTk2NjIx",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/12196621?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/openstf",
+    "html_url": "https://github.com/openstf",
+    "followers_url": "https://api.github.com/users/openstf/followers",
+    "following_url": "https://api.github.com/users/openstf/following{/other_user}",
+    "gists_url": "https://api.github.com/users/openstf/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/openstf/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/openstf/subscriptions",
+    "organizations_url": "https://api.github.com/users/openstf/orgs",
+    "repos_url": "https://api.github.com/users/openstf/repos",
+    "events_url": "https://api.github.com/users/openstf/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/openstf/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "kittens": 1,
+    "bennlich": 1,
+    "codeskyblue": 1,
+    "gunta": 1,
+    "fiws": 1,
+    "nwalters512": 7,
+    "pablito900": 7,
+    "redgell": 9,
+    "sorccu": 372
+  },
+  "pulls_authors": [
+    "mingyuan-xia",
+    "iabukai",
+    "NotWoods",
+    "kittens",
+    "redgell",
+    "bennlich",
+    "geminiwen",
+    "nwalters512",
+    "codeskyblue",
+    "deathlord87",
+    "toniov",
+    "pablito900",
+    "eliav",
+    "gamemake",
+    "fiws"
+  ],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 211904,
+      "color": "#244776"
+    },
+    "JavaScript": {
+      "bytes": 43,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-13T16:32:33.754Z"
+}

@@ -1,0 +1,99 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "crazy-weekend",
+  "full_name": "wayanjimmy/crazy-weekend",
+  "owner": "wayanjimmy",
+  "private": false,
+  "html_url": "https://github.com/wayanjimmy/crazy-weekend",
+  "description": "Mengobati rasa ingin tahu atau kadang hanya iseng",
+  "fork": false,
+  "url": "https://api.github.com/repos/wayanjimmy/crazy-weekend",
+  "languages_url": "https://api.github.com/repos/wayanjimmy/crazy-weekend/languages",
+  "pulls_url": "https://api.github.com/repos/wayanjimmy/crazy-weekend/pulls{/number}",
+  "created_at": "2016-02-27T07:24:04Z",
+  "updated_at": "2018-08-29T01:45:25Z",
+  "pushed_at": "2018-08-29T01:45:23Z",
+  "homepage": "",
+  "size": 5075,
+  "stargazers_count": 8,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "wayanjimmy": 148
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 156199,
+      "color": "#f1e05a"
+    },
+    "PHP": {
+      "bytes": 77925,
+      "color": "#4F5D95"
+    },
+    "HTML": {
+      "bytes": 54331,
+      "color": "#e34c26"
+    },
+    "Go": {
+      "bytes": 52410,
+      "color": "#375eab"
+    },
+    "Ruby": {
+      "bytes": 43645,
+      "color": "#701516"
+    },
+    "C": {
+      "bytes": 39681,
+      "color": "#555555"
+    },
+    "Elixir": {
+      "bytes": 32401,
+      "color": "#6e4a7e"
+    },
+    "C++": {
+      "bytes": 22335,
+      "color": "#f34b7d"
+    },
+    "CSS": {
+      "bytes": 15432,
+      "color": "#563d7c"
+    },
+    "TypeScript": {
+      "bytes": 14050,
+      "color": "#2b7489"
+    },
+    "OCaml": {
+      "bytes": 8960,
+      "color": "#3be133"
+    },
+    "Objective-C": {
+      "bytes": 4392,
+      "color": "#438eff"
+    },
+    "Java": {
+      "bytes": 3567,
+      "color": "#b07219"
+    },
+    "Python": {
+      "bytes": 1909,
+      "color": "#3572A5"
+    },
+    "Kotlin": {
+      "bytes": 349,
+      "color": "#F18E33"
+    },
+    "Rust": {
+      "bytes": 298,
+      "color": "#dea584"
+    },
+    "Crystal": {
+      "bytes": 240,
+      "color": "#776791"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:30.995Z"
+}

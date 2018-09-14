@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "httpserver",
+  "full_name": "chrismytton/httpserver",
+  "owner": "chrismytton",
+  "private": false,
+  "html_url": "https://github.com/chrismytton/httpserver",
+  "description": "Static http server in Go",
+  "fork": false,
+  "url": "https://api.github.com/repos/chrismytton/httpserver",
+  "languages_url": "https://api.github.com/repos/chrismytton/httpserver/languages",
+  "pulls_url": "https://api.github.com/repos/chrismytton/httpserver/pulls{/number}",
+  "created_at": "2013-07-16T23:10:39Z",
+  "updated_at": "2018-06-27T03:34:01Z",
+  "pushed_at": "2016-04-01T16:52:55Z",
+  "homepage": "https://www.chrismytton.uk/2013/07/17/golang-static-http-file-server/",
+  "size": 2,
+  "stargazers_count": 8,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "chrismytton": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 365,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:40.482Z"
+}

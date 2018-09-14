@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "force-graph",
+  "full_name": "azdanov/force-graph",
+  "owner": "azdanov",
+  "private": false,
+  "html_url": "https://github.com/azdanov/force-graph",
+  "description": "D3.js force graph showing bordering countries.",
+  "fork": false,
+  "url": "https://api.github.com/repos/azdanov/force-graph",
+  "languages_url": "https://api.github.com/repos/azdanov/force-graph/languages",
+  "pulls_url": "https://api.github.com/repos/azdanov/force-graph/pulls{/number}",
+  "created_at": "2017-12-09T23:11:45Z",
+  "updated_at": "2018-08-09T04:47:04Z",
+  "pushed_at": "2018-08-09T04:45:58Z",
+  "homepage": "https://azdanov.github.io/force-graph/",
+  "size": 2042,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "azdanov": 12
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 7272,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 805,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 683,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-17T12:34:58.848Z"
+}

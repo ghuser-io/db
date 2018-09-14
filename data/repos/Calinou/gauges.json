@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 1,
+    "4aiman": 1,
+    "rubenwardy": 3
+  },
+  "name": "gauges",
+  "full_name": "Calinou/gauges",
+  "owner": "Calinou",
+  "private": false,
+  "html_url": "https://github.com/Calinou/gauges",
+  "description": "Minetest Mod: health and breath gauges",
+  "fork": false,
+  "url": "https://api.github.com/repos/Calinou/gauges",
+  "languages_url": "https://api.github.com/repos/Calinou/gauges/languages",
+  "created_at": "2017-10-12T14:50:40Z",
+  "updated_at": "2017-10-12T17:01:42Z",
+  "pushed_at": "2017-10-12T15:21:01Z",
+  "homepage": null,
+  "size": 7,
+  "stargazers_count": 1,
+  "language": "Lua",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "Lua": {
+      "bytes": 1591,
+      "color": "#000080"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/Calinou/gauges/pulls{/number}",
+  "pulls_authors": []
+}

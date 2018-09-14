@@ -1,0 +1,100 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "scc-radio",
+  "full_name": "ultreme/scc-radio",
+  "owner": "ultreme",
+  "private": false,
+  "html_url": "https://github.com/ultreme/scc-radio",
+  "description": ":radio: Salut c'est cool radio",
+  "fork": false,
+  "url": "https://api.github.com/repos/ultreme/scc-radio",
+  "languages_url": "https://api.github.com/repos/ultreme/scc-radio/languages",
+  "pulls_url": "https://api.github.com/repos/ultreme/scc-radio/pulls{/number}",
+  "created_at": "2015-02-01T09:24:10Z",
+  "updated_at": "2018-08-18T06:57:40Z",
+  "pushed_at": "2018-08-18T06:57:38Z",
+  "homepage": "http://www.salutcestcool.com/",
+  "size": 1422,
+  "stargazers_count": 16,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ultreme",
+    "id": 8146403,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjgxNDY0MDM=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/8146403?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ultreme",
+    "html_url": "https://github.com/ultreme",
+    "followers_url": "https://api.github.com/users/ultreme/followers",
+    "following_url": "https://api.github.com/users/ultreme/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ultreme/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ultreme/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ultreme/subscriptions",
+    "organizations_url": "https://api.github.com/users/ultreme/orgs",
+    "repos_url": "https://api.github.com/users/ultreme/repos",
+    "events_url": "https://api.github.com/users/ultreme/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ultreme/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "CocolasticotSCC": 1,
+    "moul": 117
+  },
+  "pulls_authors": [
+    "CocolasticotSCC"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 138760,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 12875,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 11616,
+      "color": "#e34c26"
+    },
+    "Ruby": {
+      "bytes": 7265,
+      "color": "#701516"
+    },
+    "CoffeeScript": {
+      "bytes": 6131,
+      "color": "#244776"
+    },
+    "PHP": {
+      "bytes": 5472,
+      "color": "#4F5D95"
+    },
+    "Makefile": {
+      "bytes": 3370,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 440,
+      "color": "#89e051"
+    },
+    "Dockerfile": {
+      "bytes": 438,
+      "color": "#0db7ed"
+    },
+    "Python": {
+      "bytes": 261,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:40.122Z"
+}

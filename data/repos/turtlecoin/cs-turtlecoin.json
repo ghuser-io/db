@@ -1,0 +1,68 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cs-turtlecoin",
+  "full_name": "turtlecoin/cs-turtlecoin",
+  "owner": "turtlecoin",
+  "private": false,
+  "html_url": "https://github.com/turtlecoin/cs-turtlecoin",
+  "description": "Live repo for TurtleCoin daemon spec and PoC",
+  "fork": false,
+  "url": "https://api.github.com/repos/turtlecoin/cs-turtlecoin",
+  "languages_url": "https://api.github.com/repos/turtlecoin/cs-turtlecoin/languages",
+  "pulls_url": "https://api.github.com/repos/turtlecoin/cs-turtlecoin/pulls{/number}",
+  "created_at": "2018-05-16T23:16:46Z",
+  "updated_at": "2018-09-06T22:56:55Z",
+  "pushed_at": "2018-09-06T22:56:53Z",
+  "homepage": null,
+  "size": 423,
+  "stargazers_count": 9,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "turtlecoin",
+    "id": 34389551,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM0Mzg5NTUx",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/34389551?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/turtlecoin",
+    "html_url": "https://github.com/turtlecoin",
+    "followers_url": "https://api.github.com/users/turtlecoin/followers",
+    "following_url": "https://api.github.com/users/turtlecoin/following{/other_user}",
+    "gists_url": "https://api.github.com/users/turtlecoin/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/turtlecoin/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/turtlecoin/subscriptions",
+    "organizations_url": "https://api.github.com/users/turtlecoin/orgs",
+    "repos_url": "https://api.github.com/users/turtlecoin/repos",
+    "events_url": "https://api.github.com/users/turtlecoin/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/turtlecoin/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "sp2432": 1,
+    "brandonlehmann": 1,
+    "RocksteadyTC": 2,
+    "BrandonT42": 24,
+    "zpalmtree": 70
+  },
+  "pulls_authors": [
+    "zpalmtree",
+    "sp2432"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 1013948,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-11T22:35:53.219Z"
+}

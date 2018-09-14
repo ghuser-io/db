@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Crypteda",
+  "full_name": "nickedes/Crypteda",
+  "owner": "nickedes",
+  "private": false,
+  "html_url": "https://github.com/nickedes/Crypteda",
+  "description": "Encrytion and Decryption with AES",
+  "fork": false,
+  "url": "https://api.github.com/repos/nickedes/Crypteda",
+  "languages_url": "https://api.github.com/repos/nickedes/Crypteda/languages",
+  "pulls_url": "https://api.github.com/repos/nickedes/Crypteda/pulls{/number}",
+  "created_at": "2014-08-14T18:56:01Z",
+  "updated_at": "2015-05-04T20:39:10Z",
+  "pushed_at": "2015-05-15T14:09:51Z",
+  "homepage": "",
+  "size": 2979,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "zishanAhmad": 3,
+    "dufferzafar": 9,
+    "nickedes": 14
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 23218,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-03T12:57:03.604Z"
+}

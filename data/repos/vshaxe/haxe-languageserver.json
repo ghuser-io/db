@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "haxe-languageserver",
+  "full_name": "vshaxe/haxe-languageserver",
+  "owner": "vshaxe",
+  "private": false,
+  "html_url": "https://github.com/vshaxe/haxe-languageserver",
+  "description": "Haxe Support for Visual Studio Code - The language server",
+  "fork": false,
+  "url": "https://api.github.com/repos/vshaxe/haxe-languageserver",
+  "languages_url": "https://api.github.com/repos/vshaxe/haxe-languageserver/languages",
+  "pulls_url": "https://api.github.com/repos/vshaxe/haxe-languageserver/pulls{/number}",
+  "created_at": "2016-04-13T16:55:04Z",
+  "updated_at": "2018-09-06T12:39:52Z",
+  "pushed_at": "2018-09-06T12:39:51Z",
+  "homepage": "",
+  "size": 1101,
+  "stargazers_count": 38,
+  "language": "Haxe",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "vshaxe",
+    "id": 19169749,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5MTY5NzQ5",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/19169749?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/vshaxe",
+    "html_url": "https://github.com/vshaxe",
+    "followers_url": "https://api.github.com/users/vshaxe/followers",
+    "following_url": "https://api.github.com/users/vshaxe/following{/other_user}",
+    "gists_url": "https://api.github.com/users/vshaxe/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/vshaxe/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/vshaxe/subscriptions",
+    "organizations_url": "https://api.github.com/users/vshaxe/orgs",
+    "repos_url": "https://api.github.com/users/vshaxe/repos",
+    "events_url": "https://api.github.com/users/vshaxe/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/vshaxe/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jdonaldson": 1,
+    "kLabz": 1,
+    "jeremyfa": 1,
+    "wiggin77": 1,
+    "RSDuck": 1,
+    "Simn": 63,
+    "nadako": 222,
+    "Gama11": 677
+  },
+  "pulls_authors": [
+    "jdonaldson",
+    "AlexHaxe",
+    "kLabz",
+    "jeremyfa",
+    "Gama11",
+    "wiggin77",
+    "fzzr-",
+    "RSDuck",
+    "Simn",
+    "nadako"
+  ],
+  "languages": {
+    "Haxe": {
+      "bytes": 251583,
+      "color": "#df7900"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:50.884Z"
+}

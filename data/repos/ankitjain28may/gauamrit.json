@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gauamrit",
+  "full_name": "ankitjain28may/gauamrit",
+  "owner": "ankitjain28may",
+  "private": false,
+  "html_url": "https://github.com/ankitjain28may/gauamrit",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/ankitjain28may/gauamrit",
+  "languages_url": "https://api.github.com/repos/ankitjain28may/gauamrit/languages",
+  "created_at": "2017-02-22T12:44:46Z",
+  "updated_at": "2018-02-23T08:25:36Z",
+  "pushed_at": "2017-06-24T18:52:37Z",
+  "homepage": null,
+  "size": 3718,
+  "stargazers_count": 2,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "itaditya": 6,
+    "ankitjain28may": 18
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 128889,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 101708,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 62341,
+      "color": "#f1e05a"
+    },
+    "PHP": {
+      "bytes": 36627,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/ankitjain28may/gauamrit/pulls{/number}",
+  "pulls_authors": []
+}

@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "python-github-backup",
+  "full_name": "schollz/python-github-backup",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/python-github-backup",
+  "description": "backup a github user or organization",
+  "fork": true,
+  "url": "https://api.github.com/repos/schollz/python-github-backup",
+  "languages_url": "https://api.github.com/repos/schollz/python-github-backup/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/python-github-backup/pulls{/number}",
+  "created_at": "2018-03-27T06:04:14Z",
+  "updated_at": "2018-06-08T10:10:29Z",
+  "pushed_at": "2018-03-24T19:00:31Z",
+  "homepage": null,
+  "size": 196,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "johbo": 1,
+    "sgreene570": 1,
+    "epfremmer": 1,
+    "mumblez": 1,
+    "karlicoss": 1,
+    "McNetic": 1,
+    "trel": 1,
+    "bjodah": 1,
+    "robertwb": 1,
+    "superbrothers": 1,
+    "aensley": 1,
+    "johnyf": 1,
+    "globin": 2,
+    "slibby": 2,
+    "martintoreilly": 2,
+    "amaczuga": 2,
+    "jmichel-cs": 2,
+    "alexmojaki": 2,
+    "klaude": 2,
+    "pieterclaerhout": 3,
+    "remram44": 4,
+    "kromkrom": 5,
+    "acdha": 6,
+    "eht16": 6,
+    "albertyw": 8,
+    "whwright": 10,
+    "josegonzalez": 53
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 38567,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 4728,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:55.789Z"
+}

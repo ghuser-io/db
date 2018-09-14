@@ -1,0 +1,138 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "dwqs/js2excel": {
+      "full_name": "dwqs/js2excel",
+      "name": "js2excel",
+      "stargazers_count": 33,
+      "popularity": 2.506543999292103,
+      "percentage": 0,
+      "maturity": 2.6928142814876193,
+      "total_commits_count": 89,
+      "activity": 5,
+      "total_score": 17.90526056085155,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "dariobanfi/multipath-sdn-controller": {
+      "full_name": "dariobanfi/multipath-sdn-controller",
+      "name": "multipath-sdn-controller",
+      "stargazers_count": 16,
+      "popularity": 2.179015777092762,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 10,
+      "activity": 1.1178928958808618,
+      "total_score": 35.98214532936505,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "dariobanfi/ovs-multipath": {
+      "full_name": "dariobanfi/ovs-multipath",
+      "name": "ovs-multipath",
+      "stargazers_count": 11,
+      "popularity": 2.0043600754367907,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 40,
+      "activity": 1.120229893645579,
+      "total_score": 33.18999110063423,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "dariobanfi/react-avocado-starter": {
+      "full_name": "dariobanfi/react-avocado-starter",
+      "name": "react-avocado-starter",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 54.54545454545455,
+      "maturity": 0,
+      "total_commits_count": 33,
+      "activity": 1.1195658497949719,
+      "total_score": 1.1195658497949719,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ctrlplusb/react-universally": {
+      "full_name": "ctrlplusb/react-universally",
+      "name": "react-universally",
+      "stargazers_count": 1655,
+      "popularity": 4.218600847936869,
+      "percentage": 0.1757469244288225,
+      "maturity": 3.7252737526322863,
+      "total_commits_count": 569,
+      "activity": 2.396892219777686,
+      "total_score": 22.59962506502717,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "dariobanfi/7hack-surprise-mothababy": {
+      "full_name": "dariobanfi/7hack-surprise-mothababy",
+      "name": "7hack-surprise-mothababy",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 51.31578947368421,
+      "maturity": 2.559238720343991,
+      "total_commits_count": 76,
+      "activity": 0.944155344523308,
+      "total_score": 6.06263278521129,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "auth0/lock": {
+      "full_name": "auth0/lock",
+      "name": "lock",
+      "stargazers_count": 781,
+      "popularity": 3.8921893615441396,
+      "percentage": 0.0755287009063444,
+      "maturity": 4.418060491304999,
+      "total_commits_count": 2648,
+      "activity": 5,
+      "total_score": 25.550905428043077,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "dariobanfi/multiplevlc": {
+      "full_name": "dariobanfi/multiplevlc",
+      "name": "multiplevlc",
+      "stargazers_count": 12,
+      "popularity": 2.045361715305606,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 0.4353346228542394,
+      "total_score": 33.16112206774394,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "dariobanfi/NetSec": {
+      "full_name": "dariobanfi/NetSec",
+      "name": "NetSec",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 0.34503213468882254,
+      "total_score": 0.34503213468882254,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "dariobanfi/AndroidSlidingUpPanelCustomFade": {
+      "full_name": "dariobanfi/AndroidSlidingUpPanelCustomFade",
+      "name": "AndroidSlidingUpPanelCustomFade",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 3.488372093023256,
+      "maturity": 3.3403911896658194,
+      "total_commits_count": 258,
+      "activity": 1.149048964084094,
+      "total_score": 7.829831343415733,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "auth0"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "artwork",
+  "full_name": "coala/artwork",
+  "owner": "coala",
+  "private": false,
+  "html_url": "https://github.com/coala/artwork",
+  "description": "Contains design contents for coala (e.g. mockups and similar)",
+  "fork": false,
+  "url": "https://api.github.com/repos/coala/artwork",
+  "languages_url": "https://api.github.com/repos/coala/artwork/languages",
+  "pulls_url": "https://api.github.com/repos/coala/artwork/pulls{/number}",
+  "created_at": "2015-02-17T20:04:35Z",
+  "updated_at": "2018-09-12T19:23:46Z",
+  "pushed_at": "2018-07-09T07:12:36Z",
+  "homepage": null,
+  "size": 7370,
+  "stargazers_count": 9,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "cc0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "spdx_id": "CC0-1.0",
+    "url": "https://api.github.com/licenses/cc0-1.0",
+    "node_id": "MDc6TGljZW5zZTY="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "coala",
+    "id": 10620750,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNjIwNzUw",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/10620750?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/coala",
+    "html_url": "https://github.com/coala",
+    "followers_url": "https://api.github.com/users/coala/followers",
+    "following_url": "https://api.github.com/users/coala/following{/other_user}",
+    "gists_url": "https://api.github.com/users/coala/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/coala/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/coala/subscriptions",
+    "organizations_url": "https://api.github.com/users/coala/orgs",
+    "repos_url": "https://api.github.com/users/coala/repos",
+    "events_url": "https://api.github.com/users/coala/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/coala/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "shikharvaish28": 1,
+    "jayvdb": 1,
+    "HitRam": 1,
+    "adtac": 1,
+    "bastianilso": 1,
+    "ankitstarski": 2,
+    "cw1": 3,
+    "hemangsk": 5,
+    "Udayan12167": 6,
+    "sils": 35
+  },
+  "pulls_authors": [
+    "sangamcse",
+    "shikharvaish28",
+    "jayvdb",
+    "hemangsk",
+    "HitRam",
+    "adtac",
+    "cw1",
+    "sils",
+    "Udayan12167",
+    "fneu"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 641,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 374,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T23:54:48.472Z"
+}

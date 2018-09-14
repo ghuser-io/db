@@ -1,0 +1,96 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Codepoints.net",
+  "full_name": "Codepoints/Codepoints.net",
+  "owner": "Codepoints",
+  "private": false,
+  "html_url": "https://github.com/Codepoints/Codepoints.net",
+  "description": "A visual guide to the wonders of Unicode",
+  "fork": false,
+  "url": "https://api.github.com/repos/Codepoints/Codepoints.net",
+  "languages_url": "https://api.github.com/repos/Codepoints/Codepoints.net/languages",
+  "pulls_url": "https://api.github.com/repos/Codepoints/Codepoints.net/pulls{/number}",
+  "created_at": "2012-04-05T16:35:06Z",
+  "updated_at": "2018-07-31T22:17:43Z",
+  "pushed_at": "2018-07-31T20:22:08Z",
+  "homepage": "http://codepoints.net",
+  "size": 84781,
+  "stargazers_count": 52,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "Codepoints",
+    "id": 4989342,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ5ODkzNDI=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/4989342?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Codepoints",
+    "html_url": "https://github.com/Codepoints",
+    "followers_url": "https://api.github.com/users/Codepoints/followers",
+    "following_url": "https://api.github.com/users/Codepoints/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Codepoints/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Codepoints/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Codepoints/subscriptions",
+    "organizations_url": "https://api.github.com/users/Codepoints/orgs",
+    "repos_url": "https://api.github.com/users/Codepoints/repos",
+    "events_url": "https://api.github.com/users/Codepoints/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Codepoints/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "johnbillion": 1,
+    "mjpieters": 1,
+    "zed": 2,
+    "mathiasbynens": 2,
+    "Boldewyn": 1117
+  },
+  "pulls_authors": [
+    "johnbillion",
+    "zed",
+    "mathiasbynens",
+    "mjpieters"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 564635,
+      "color": "#4F5D95"
+    },
+    "PLSQL": {
+      "bytes": 162789,
+      "color": "#dad8d8"
+    },
+    "CSS": {
+      "bytes": 97730,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 68013,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 56463,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 6875,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 2149,
+      "color": "#89e051"
+    },
+    "Ruby": {
+      "bytes": 940,
+      "color": "#701516"
+    },
+    "XSLT": {
+      "bytes": 527,
+      "color": "#EB8CEB"
+    }
+  },
+  "fetched_at": "2018-09-12T04:57:51.297Z"
+}

@@ -1,0 +1,91 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hyperform",
+  "full_name": "hyperform/hyperform",
+  "owner": "hyperform",
+  "private": false,
+  "html_url": "https://github.com/hyperform/hyperform",
+  "description": "Capture form validation back from the browser",
+  "fork": false,
+  "url": "https://api.github.com/repos/hyperform/hyperform",
+  "languages_url": "https://api.github.com/repos/hyperform/hyperform/languages",
+  "pulls_url": "https://api.github.com/repos/hyperform/hyperform/pulls{/number}",
+  "created_at": "2016-04-14T19:43:05Z",
+  "updated_at": "2018-09-14T07:46:23Z",
+  "pushed_at": "2018-09-14T07:46:21Z",
+  "homepage": "https://hyperform.js.org",
+  "size": 2076,
+  "stargazers_count": 658,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "hyperform",
+    "id": 18470642,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4NDcwNjQy",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/18470642?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hyperform",
+    "html_url": "https://github.com/hyperform",
+    "followers_url": "https://api.github.com/users/hyperform/followers",
+    "following_url": "https://api.github.com/users/hyperform/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hyperform/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hyperform/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hyperform/subscriptions",
+    "organizations_url": "https://api.github.com/users/hyperform/orgs",
+    "repos_url": "https://api.github.com/users/hyperform/repos",
+    "events_url": "https://api.github.com/users/hyperform/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hyperform/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "bennyn": 1,
+    "coliff": 1,
+    "Garbanas": 1,
+    "farneman": 1,
+    "mmcev106": 1,
+    "pvnr0082t": 1,
+    "Boldewyn": 391
+  },
+  "pulls_authors": [
+    "niftylettuce",
+    "bennyn",
+    "coliff",
+    "Garbanas",
+    "farneman",
+    "mmcev106",
+    "darlanmendonca",
+    "thomas-seres",
+    "pvnr0082t",
+    "mcaskill",
+    "Avol-V"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 132050,
+      "color": "#f1e05a"
+    },
+    "Makefile": {
+      "bytes": 2393,
+      "color": "#427819"
+    },
+    "HTML": {
+      "bytes": 961,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 608,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-14T08:22:26.982Z"
+}

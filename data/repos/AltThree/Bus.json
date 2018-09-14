@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Bus",
+  "full_name": "AltThree/Bus",
+  "owner": "AltThree",
+  "private": false,
+  "html_url": "https://github.com/AltThree/Bus",
+  "description": "An improved command bus for Laravel 5.",
+  "fork": false,
+  "url": "https://api.github.com/repos/AltThree/Bus",
+  "languages_url": "https://api.github.com/repos/AltThree/Bus/languages",
+  "pulls_url": "https://api.github.com/repos/AltThree/Bus/pulls{/number}",
+  "created_at": "2015-12-22T12:31:08Z",
+  "updated_at": "2018-08-21T04:22:21Z",
+  "pushed_at": "2018-03-03T21:09:42Z",
+  "homepage": "https://alt-three.com/",
+  "size": 32,
+  "stargazers_count": 46,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "AltThree",
+    "id": 12829457,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyODI5NDU3",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/12829457?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/AltThree",
+    "html_url": "https://github.com/AltThree",
+    "followers_url": "https://api.github.com/users/AltThree/followers",
+    "following_url": "https://api.github.com/users/AltThree/following{/other_user}",
+    "gists_url": "https://api.github.com/users/AltThree/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/AltThree/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/AltThree/subscriptions",
+    "organizations_url": "https://api.github.com/users/AltThree/orgs",
+    "repos_url": "https://api.github.com/users/AltThree/repos",
+    "events_url": "https://api.github.com/users/AltThree/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/AltThree/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jbrooksuk": 2,
+    "GrahamCampbell": 42
+  },
+  "pulls_authors": [
+    "GrahamCampbell",
+    "aalyusuf",
+    "rikh42"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 9989,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:48.630Z"
+}

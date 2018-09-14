@@ -1,0 +1,88 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rendition",
+  "full_name": "resin-io-modules/rendition",
+  "owner": "resin-io-modules",
+  "private": false,
+  "html_url": "https://github.com/resin-io-modules/rendition",
+  "description": "A library of React UI components",
+  "fork": false,
+  "url": "https://api.github.com/repos/resin-io-modules/rendition",
+  "languages_url": "https://api.github.com/repos/resin-io-modules/rendition/languages",
+  "pulls_url": "https://api.github.com/repos/resin-io-modules/rendition/pulls{/number}",
+  "created_at": "2017-01-27T19:50:33Z",
+  "updated_at": "2018-09-11T17:24:49Z",
+  "pushed_at": "2018-09-07T14:45:24Z",
+  "homepage": "https://resin-io-modules.github.io/rendition",
+  "size": 5133,
+  "stargazers_count": 18,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "resin-io-modules",
+    "id": 17724750,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3NzI0NzUw",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/17724750?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/resin-io-modules",
+    "html_url": "https://github.com/resin-io-modules",
+    "followers_url": "https://api.github.com/users/resin-io-modules/followers",
+    "following_url": "https://api.github.com/users/resin-io-modules/following{/other_user}",
+    "gists_url": "https://api.github.com/users/resin-io-modules/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/resin-io-modules/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/resin-io-modules/subscriptions",
+    "organizations_url": "https://api.github.com/users/resin-io-modules/orgs",
+    "repos_url": "https://api.github.com/users/resin-io-modules/repos",
+    "events_url": "https://api.github.com/users/resin-io-modules/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/resin-io-modules/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mcchrish": 1,
+    "Shou": 1,
+    "pimterry": 1,
+    "konmouz": 4,
+    "resin-ci": 12,
+    "dimitrisnl": 25,
+    "thgreasi": 70,
+    "LucianBuzzo": 172,
+    "resin-io-modules-versionbot[bot]": 224
+  },
+  "pulls_authors": [
+    "bomberaya",
+    "LucianBuzzo",
+    "dimitrisnl",
+    "amdomanska",
+    "thgreasi",
+    "mcchrish",
+    "Shou",
+    "pimterry",
+    "konmouz",
+    "hobochild"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 231119,
+      "color": "#f1e05a"
+    },
+    "TypeScript": {
+      "bytes": 168236,
+      "color": "#2b7489"
+    },
+    "HTML": {
+      "bytes": 97,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:34.641Z"
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "RtMidi17",
+  "full_name": "jcelerier/RtMidi17",
+  "owner": "jcelerier",
+  "private": false,
+  "html_url": "https://github.com/jcelerier/RtMidi17",
+  "description": "Modern C++ update of RtMidi",
+  "fork": false,
+  "url": "https://api.github.com/repos/jcelerier/RtMidi17",
+  "languages_url": "https://api.github.com/repos/jcelerier/RtMidi17/languages",
+  "pulls_url": "https://api.github.com/repos/jcelerier/RtMidi17/pulls{/number}",
+  "created_at": "2018-04-27T21:18:51Z",
+  "updated_at": "2018-09-11T07:44:40Z",
+  "pushed_at": "2018-09-11T07:44:39Z",
+  "homepage": "",
+  "size": 91,
+  "stargazers_count": 5,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-2-clause",
+    "name": "BSD 2-Clause \"Simplified\" License",
+    "spdx_id": "BSD-2-Clause",
+    "url": "https://api.github.com/licenses/bsd-2-clause",
+    "node_id": "MDc6TGljZW5zZTQ="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 44
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 179817,
+      "color": "#f34b7d"
+    },
+    "CMake": {
+      "bytes": 4671,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:42.605Z"
+}

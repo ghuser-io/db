@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hyperform-ui",
+  "full_name": "hyperform/hyperform-ui",
+  "owner": "hyperform",
+  "private": false,
+  "html_url": "https://github.com/hyperform/hyperform-ui",
+  "description": "UI components for the new HTML 5 input types. Use together with Hyperform.",
+  "fork": false,
+  "url": "https://api.github.com/repos/hyperform/hyperform-ui",
+  "languages_url": "https://api.github.com/repos/hyperform/hyperform-ui/languages",
+  "pulls_url": "https://api.github.com/repos/hyperform/hyperform-ui/pulls{/number}",
+  "created_at": "2016-12-06T13:57:18Z",
+  "updated_at": "2018-01-16T05:38:42Z",
+  "pushed_at": "2017-03-30T10:30:40Z",
+  "homepage": "https://hyperform.js.org/",
+  "size": 95,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "hyperform",
+    "id": 18470642,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4NDcwNjQy",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/18470642?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hyperform",
+    "html_url": "https://github.com/hyperform",
+    "followers_url": "https://api.github.com/users/hyperform/followers",
+    "following_url": "https://api.github.com/users/hyperform/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hyperform/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hyperform/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hyperform/subscriptions",
+    "organizations_url": "https://api.github.com/users/hyperform/orgs",
+    "repos_url": "https://api.github.com/users/hyperform/repos",
+    "events_url": "https://api.github.com/users/hyperform/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hyperform/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Boldewyn": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 10936,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1748,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 405,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T04:57:52.189Z"
+}

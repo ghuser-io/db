@@ -1,0 +1,76 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "request-info",
+  "full_name": "behaviorbot/request-info",
+  "owner": "behaviorbot",
+  "private": false,
+  "html_url": "https://github.com/behaviorbot/request-info",
+  "description": "Requests more info from PRs/Issues with either the default title or a blank body",
+  "fork": false,
+  "url": "https://api.github.com/repos/behaviorbot/request-info",
+  "languages_url": "https://api.github.com/repos/behaviorbot/request-info/languages",
+  "created_at": "2017-06-26T16:32:50Z",
+  "updated_at": "2018-09-13T12:13:10Z",
+  "pushed_at": "2018-07-13T17:16:36Z",
+  "homepage": "https://github.com/apps/request-info",
+  "size": 158,
+  "stargazers_count": 28,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "behaviorbot",
+    "id": 29607982,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI5NjA3OTgy",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/29607982?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/behaviorbot",
+    "html_url": "https://github.com/behaviorbot",
+    "followers_url": "https://api.github.com/users/behaviorbot/followers",
+    "following_url": "https://api.github.com/users/behaviorbot/following{/other_user}",
+    "gists_url": "https://api.github.com/users/behaviorbot/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/behaviorbot/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/behaviorbot/subscriptions",
+    "organizations_url": "https://api.github.com/users/behaviorbot/orgs",
+    "repos_url": "https://api.github.com/users/behaviorbot/repos",
+    "events_url": "https://api.github.com/users/behaviorbot/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/behaviorbot/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "aryannarora": 1,
+    "j-f1": 1,
+    "knrt10": 2,
+    "BrechtBonte": 2,
+    "codebytere": 2,
+    "nMustaki": 6,
+    "hiimbex": 36
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 14286,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-13T16:36:35.699Z",
+  "pulls_url": "https://api.github.com/repos/behaviorbot/request-info/pulls{/number}",
+  "pulls_authors": [
+    "hiimbex",
+    "knrt10",
+    "aryannarora",
+    "abhijeetps",
+    "BrechtBonte",
+    "j-f1",
+    "codebytere",
+    "nMustaki"
+  ]
+}

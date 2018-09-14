@@ -1,0 +1,160 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "AscEmu",
+  "full_name": "AscEmu/AscEmu",
+  "owner": "AscEmu",
+  "private": false,
+  "html_url": "https://github.com/AscEmu/AscEmu",
+  "description": "AscEmu... a never ending place to work.",
+  "fork": false,
+  "url": "https://api.github.com/repos/AscEmu/AscEmu",
+  "languages_url": "https://api.github.com/repos/AscEmu/AscEmu/languages",
+  "pulls_url": "https://api.github.com/repos/AscEmu/AscEmu/pulls{/number}",
+  "created_at": "2014-08-17T13:43:22Z",
+  "updated_at": "2018-09-06T05:20:15Z",
+  "pushed_at": "2018-09-05T16:22:30Z",
+  "homepage": "http://www.ascemu.org",
+  "size": 45717,
+  "stargazers_count": 41,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "AscEmu",
+    "id": 8471310,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjg0NzEzMTA=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/8471310?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/AscEmu",
+    "html_url": "https://github.com/AscEmu",
+    "followers_url": "https://api.github.com/users/AscEmu/followers",
+    "following_url": "https://api.github.com/users/AscEmu/following{/other_user}",
+    "gists_url": "https://api.github.com/users/AscEmu/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/AscEmu/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/AscEmu/subscriptions",
+    "organizations_url": "https://api.github.com/users/AscEmu/orgs",
+    "repos_url": "https://api.github.com/users/AscEmu/repos",
+    "events_url": "https://api.github.com/users/AscEmu/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/AscEmu/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "master312": 1,
+    "cotsog": 1,
+    "AriDEV": 1,
+    "brotalnia": 2,
+    "Razfury": 4,
+    "Inifield": 9,
+    "dhmann": 13,
+    "Appled": 14,
+    "sanctum32": 16,
+    "Tulba": 22,
+    "Zallios": 24,
+    "aaron02": 30,
+    "armm77": 37,
+    "schnek": 61,
+    "DankoDJ": 157,
+    "Evairfairy": 323,
+    "Zyres": 2465
+  },
+  "pulls_authors": [
+    "Appled",
+    "Zallios",
+    "schnek",
+    "Inifield",
+    "armm77",
+    "sanctum32",
+    "dhmann",
+    "codacy-badger",
+    "Zyres",
+    "brotalnia",
+    "aaron02",
+    "Sdyess",
+    "Tulba",
+    "DankoDJ",
+    "master312",
+    "cotsog",
+    "AriDEV",
+    "ghost"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 17920875,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 5498249,
+      "color": "#555555"
+    },
+    "HTML": {
+      "bytes": 485619,
+      "color": "#e34c26"
+    },
+    "Assembly": {
+      "bytes": 458160,
+      "color": "#6E4C13"
+    },
+    "Objective-C": {
+      "bytes": 241249,
+      "color": "#438eff"
+    },
+    "CMake": {
+      "bytes": 161621,
+      "color": "#ccc"
+    },
+    "Roff": {
+      "bytes": 93569,
+      "color": "#ecdebe"
+    },
+    "Makefile": {
+      "bytes": 22184,
+      "color": "#427819"
+    },
+    "XSLT": {
+      "bytes": 12288,
+      "color": "#EB8CEB"
+    },
+    "Python": {
+      "bytes": 10868,
+      "color": "#3572A5"
+    },
+    "D": {
+      "bytes": 10568,
+      "color": "#ba595e"
+    },
+    "Shell": {
+      "bytes": 9780,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 4553,
+      "color": "#563d7c"
+    },
+    "M4": {
+      "bytes": 2337,
+      "color": "#ccc"
+    },
+    "Pascal": {
+      "bytes": 1988,
+      "color": "#E3F171"
+    },
+    "Perl": {
+      "bytes": 1689,
+      "color": "#0298c3"
+    },
+    "Batchfile": {
+      "bytes": 320,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-11T17:08:29.059Z"
+}

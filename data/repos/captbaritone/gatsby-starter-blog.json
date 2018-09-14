@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gatsby-starter-blog",
+  "full_name": "captbaritone/gatsby-starter-blog",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/gatsby-starter-blog",
+  "description": "Gatsby starter for creating a blog",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/gatsby-starter-blog",
+  "languages_url": "https://api.github.com/repos/captbaritone/gatsby-starter-blog/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/gatsby-starter-blog/pulls{/number}",
+  "created_at": "2017-02-02T17:18:05Z",
+  "updated_at": "2018-07-29T22:05:06Z",
+  "pushed_at": "2017-02-02T17:30:59Z",
+  "homepage": "http://gatsbyjs.github.io/gatsby-starter-blog/",
+  "size": 6166,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "irekrog": 1,
+    "patrykkopycinski": 1,
+    "benstepp": 1,
+    "mef": 1,
+    "luandro": 5,
+    "gesposito": 11,
+    "KyleAMathews": 68
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 10042,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 2541,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:49.520Z"
+}

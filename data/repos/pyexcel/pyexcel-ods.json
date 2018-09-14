@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pyexcel-ods",
+  "full_name": "pyexcel/pyexcel-ods",
+  "owner": "pyexcel",
+  "private": false,
+  "html_url": "https://github.com/pyexcel/pyexcel-ods",
+  "description": "It is a plugin to pyexcel and provides the capbility to read, manipulate and write data in ods formats using odfpy.",
+  "fork": false,
+  "url": "https://api.github.com/repos/pyexcel/pyexcel-ods",
+  "languages_url": "https://api.github.com/repos/pyexcel/pyexcel-ods/languages",
+  "pulls_url": "https://api.github.com/repos/pyexcel/pyexcel-ods/pulls{/number}",
+  "created_at": "2014-10-11T21:00:51Z",
+  "updated_at": "2018-07-25T01:46:34Z",
+  "pushed_at": "2018-07-14T09:50:42Z",
+  "homepage": "",
+  "size": 309,
+  "stargazers_count": 23,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pyexcel",
+    "id": 16431467,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2NDMxNDY3",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/16431467?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pyexcel",
+    "html_url": "https://github.com/pyexcel",
+    "followers_url": "https://api.github.com/users/pyexcel/followers",
+    "following_url": "https://api.github.com/users/pyexcel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pyexcel/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pyexcel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pyexcel/subscriptions",
+    "organizations_url": "https://api.github.com/users/pyexcel/orgs",
+    "repos_url": "https://api.github.com/users/pyexcel/repos",
+    "events_url": "https://api.github.com/users/pyexcel/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pyexcel/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "winterheart": 1,
+    "jayvdb": 1,
+    "matkoniecz": 1,
+    "chfw": 211
+  },
+  "pulls_authors": [
+    "winterheart",
+    "jayvdb",
+    "matkoniecz"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 38788,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 230,
+      "color": "#89e051"
+    },
+    "Batchfile": {
+      "bytes": 230,
+      "color": "#C1F12E"
+    },
+    "Makefile": {
+      "bytes": 32,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

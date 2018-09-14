@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ViolentPython",
+  "full_name": "rockneurotiko/ViolentPython",
+  "owner": "rockneurotiko",
+  "private": false,
+  "html_url": "https://github.com/rockneurotiko/ViolentPython",
+  "description": "A repo where I will upload the codes since I'm reading the book Violent Python",
+  "fork": false,
+  "url": "https://api.github.com/repos/rockneurotiko/ViolentPython",
+  "languages_url": "https://api.github.com/repos/rockneurotiko/ViolentPython/languages",
+  "pulls_url": "https://api.github.com/repos/rockneurotiko/ViolentPython/pulls{/number}",
+  "created_at": "2013-04-14T12:32:41Z",
+  "updated_at": "2016-07-25T00:36:10Z",
+  "pushed_at": "2013-05-03T16:02:54Z",
+  "homepage": null,
+  "size": 189,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "rockneurotiko": 16
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 17426,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:51.557Z"
+}

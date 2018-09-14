@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nix-http-serve",
+  "full_name": "Profpatsch/nix-http-serve",
+  "owner": "Profpatsch",
+  "private": false,
+  "html_url": "https://github.com/Profpatsch/nix-http-serve",
+  "description": "Serves the result of a nix build as static http files",
+  "fork": false,
+  "url": "https://api.github.com/repos/Profpatsch/nix-http-serve",
+  "languages_url": "https://api.github.com/repos/Profpatsch/nix-http-serve/languages",
+  "pulls_url": "https://api.github.com/repos/Profpatsch/nix-http-serve/pulls{/number}",
+  "created_at": "2016-03-03T16:53:27Z",
+  "updated_at": "2017-11-22T13:00:19Z",
+  "pushed_at": "2016-05-01T23:23:11Z",
+  "homepage": null,
+  "size": 16,
+  "stargazers_count": 7,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Profpatsch": 7
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Haskell": {
+      "bytes": 2000,
+      "color": "#5e5086"
+    },
+    "Nix": {
+      "bytes": 579,
+      "color": "#7e7eff"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:47.066Z"
+}

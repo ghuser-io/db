@@ -1,0 +1,102 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dokuwiki-template-bootstrap3",
+  "full_name": "LotarProject/dokuwiki-template-bootstrap3",
+  "owner": "LotarProject",
+  "private": false,
+  "html_url": "https://github.com/LotarProject/dokuwiki-template-bootstrap3",
+  "description": "Bootstrap-based template for DokuWiki",
+  "fork": false,
+  "url": "https://api.github.com/repos/LotarProject/dokuwiki-template-bootstrap3",
+  "languages_url": "https://api.github.com/repos/LotarProject/dokuwiki-template-bootstrap3/languages",
+  "pulls_url": "https://api.github.com/repos/LotarProject/dokuwiki-template-bootstrap3/pulls{/number}",
+  "created_at": "2015-03-18T15:28:48Z",
+  "updated_at": "2018-08-27T19:46:00Z",
+  "pushed_at": "2018-07-22T20:05:36Z",
+  "homepage": "https://dokuwiki.org/template:bootstrap3",
+  "size": 8720,
+  "stargazers_count": 126,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "CornHead764": 1,
+    "FosseWay": 1,
+    "vidschofelix": 1,
+    "bfogarty": 1,
+    "asmith3006": 1,
+    "ERTurner": 1,
+    "polyzen": 1,
+    "MWsatwareAG": 1,
+    "coudot": 1,
+    "andreasferber": 2,
+    "kmlucy": 2,
+    "vierbergenlars": 2,
+    "phy25": 4,
+    "insspb": 4,
+    "nelson6e65": 8,
+    "Ppjet6": 9,
+    "sawachan": 10,
+    "LotarProject": 843
+  },
+  "pulls_authors": [
+    "llune",
+    "wilminator",
+    "CornHead764",
+    "swordfischer",
+    "andreasferber",
+    "iosonopersia",
+    "kmlucy",
+    "FosseWay",
+    "phy25",
+    "jtfrey",
+    "xkonglong",
+    "vidschofelix",
+    "polyzen",
+    "bfogarty",
+    "EricMaeker",
+    "tysoncecka",
+    "araname",
+    "blacklord049",
+    "asmith3006",
+    "Soeldner",
+    "ERTurner",
+    "vierbergenlars",
+    "mdik",
+    "MWsatwareAG",
+    "sawachan",
+    "huksley",
+    "nelson6e65",
+    "coudot",
+    "insspb",
+    "Ppjet6",
+    "mdjordan"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 396716,
+      "color": "#4F5D95"
+    },
+    "CSS": {
+      "bytes": 115742,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 42489,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 2300,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T17:16:18.466Z"
+}

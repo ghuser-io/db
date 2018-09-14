@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "surl",
+  "full_name": "cprov/surl",
+  "owner": "cprov",
+  "private": false,
+  "html_url": "https://github.com/cprov/surl",
+  "description": "Ubuntu Store API thin wrapper",
+  "fork": false,
+  "url": "https://api.github.com/repos/cprov/surl",
+  "languages_url": "https://api.github.com/repos/cprov/surl/languages",
+  "pulls_url": "https://api.github.com/repos/cprov/surl/pulls{/number}",
+  "created_at": "2016-08-11T01:29:12Z",
+  "updated_at": "2018-09-12T18:10:19Z",
+  "pushed_at": "2018-08-29T13:55:42Z",
+  "homepage": null,
+  "size": 100,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sparkiegeek": 1,
+    "evandandrea": 1,
+    "cprov": 55
+  },
+  "pulls_authors": [
+    "sparkiegeek",
+    "nessita",
+    "cprov",
+    "evandandrea"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 23534,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-13T00:26:58.557Z"
+}

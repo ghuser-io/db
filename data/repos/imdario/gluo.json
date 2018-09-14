@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gluo",
+  "full_name": "imdario/gluo",
+  "owner": "imdario",
+  "private": false,
+  "html_url": "https://github.com/imdario/gluo",
+  "description": "Write your Go net/http server once, deploy it everywhere (on-premise & AWS Lambda supported)",
+  "fork": false,
+  "url": "https://api.github.com/repos/imdario/gluo",
+  "languages_url": "https://api.github.com/repos/imdario/gluo/languages",
+  "pulls_url": "https://api.github.com/repos/imdario/gluo/pulls{/number}",
+  "created_at": "2017-04-06T08:57:05Z",
+  "updated_at": "2018-09-11T02:23:02Z",
+  "pushed_at": "2018-08-25T18:22:52Z",
+  "homepage": "",
+  "size": 22,
+  "stargazers_count": 14,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "imdario": 30
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 14011,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T20:47:59.508Z"
+}

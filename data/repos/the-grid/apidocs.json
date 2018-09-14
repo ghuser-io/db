@@ -1,0 +1,92 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "apidocs",
+  "full_name": "the-grid/apidocs",
+  "owner": "the-grid",
+  "private": false,
+  "html_url": "https://github.com/the-grid/apidocs",
+  "description": "API documentation for The Grid",
+  "fork": false,
+  "url": "https://api.github.com/repos/the-grid/apidocs",
+  "languages_url": "https://api.github.com/repos/the-grid/apidocs/languages",
+  "pulls_url": "https://api.github.com/repos/the-grid/apidocs/pulls{/number}",
+  "created_at": "2015-02-05T04:20:30Z",
+  "updated_at": "2018-07-12T15:37:01Z",
+  "pushed_at": "2017-05-31T21:37:53Z",
+  "homepage": "https://developer.thegrid.io",
+  "size": 1560,
+  "stargazers_count": 44,
+  "language": "API Blueprint",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "the-grid",
+    "id": 2418158,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI0MTgxNTg=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/2418158?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/the-grid",
+    "html_url": "https://github.com/the-grid",
+    "followers_url": "https://api.github.com/users/the-grid/followers",
+    "following_url": "https://api.github.com/users/the-grid/following{/other_user}",
+    "gists_url": "https://api.github.com/users/the-grid/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/the-grid/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/the-grid/subscriptions",
+    "organizations_url": "https://api.github.com/users/the-grid/orgs",
+    "repos_url": "https://api.github.com/users/the-grid/repos",
+    "events_url": "https://api.github.com/users/the-grid/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/the-grid/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "matdube": 1,
+    "greenkeeperio-bot": 1,
+    "jongold": 1,
+    "svetly": 1,
+    "cbchouinard": 5,
+    "paulyoung": 5,
+    "forresto": 6,
+    "automata": 83,
+    "jonnor": 151,
+    "bergie": 220
+  },
+  "pulls_authors": [
+    "greenkeeperio-bot",
+    "matdube",
+    "cbchouinard",
+    "bergie",
+    "automata",
+    "paulyoung",
+    "forresto"
+  ],
+  "languages": {
+    "API Blueprint": {
+      "bytes": 37758,
+      "color": "#2ACCA8"
+    },
+    "CoffeeScript": {
+      "bytes": 16242,
+      "color": "#244776"
+    },
+    "Dart": {
+      "bytes": 4071,
+      "color": "#00B4AB"
+    },
+    "JavaScript": {
+      "bytes": 3917,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 3300,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 1615,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:54.132Z"
+}

@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ZeroNet-kivy",
+  "full_name": "mkg20001/ZeroNet-kivy",
+  "owner": "mkg20001",
+  "private": false,
+  "html_url": "https://github.com/mkg20001/ZeroNet-kivy",
+  "description": "ZeroNet for Android (PLEASE USE https://github.com/HelloZeroNet/ZeroNet-kivy INSTEAD)",
+  "fork": true,
+  "url": "https://api.github.com/repos/mkg20001/ZeroNet-kivy",
+  "languages_url": "https://api.github.com/repos/mkg20001/ZeroNet-kivy/languages",
+  "pulls_url": "https://api.github.com/repos/mkg20001/ZeroNet-kivy/pulls{/number}",
+  "created_at": "2017-02-18T08:03:13Z",
+  "updated_at": "2018-09-07T11:30:46Z",
+  "pushed_at": "2018-09-07T11:30:45Z",
+  "homepage": "https://zeronet.io",
+  "size": 18347,
+  "stargazers_count": 18,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "eduaddad": 1,
+    "shortcutme": 1,
+    "l5h5t7": 1,
+    "HelloZeroNet": 1,
+    "cxgreat2014": 2,
+    "mkg20001": 148
+  },
+  "pulls_authors": [
+    "l5h5t7"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 27290,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 4019,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 3795,
+      "color": "#89e051"
+    },
+    "Dockerfile": {
+      "bytes": 1783,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:37.628Z"
+}

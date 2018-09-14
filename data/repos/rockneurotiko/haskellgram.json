@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "haskellgram",
+  "full_name": "rockneurotiko/haskellgram",
+  "owner": "rockneurotiko",
+  "private": false,
+  "html_url": "https://github.com/rockneurotiko/haskellgram",
+  "description": "Telegram bot API wrapper",
+  "fork": false,
+  "url": "https://api.github.com/repos/rockneurotiko/haskellgram",
+  "languages_url": "https://api.github.com/repos/rockneurotiko/haskellgram/languages",
+  "pulls_url": "https://api.github.com/repos/rockneurotiko/haskellgram/pulls{/number}",
+  "created_at": "2016-01-08T09:08:48Z",
+  "updated_at": "2016-01-08T13:46:26Z",
+  "pushed_at": "2016-01-08T13:46:25Z",
+  "homepage": "",
+  "size": 4,
+  "stargazers_count": 1,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rockneurotiko": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Haskell": {
+      "bytes": 4944,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:48.208Z"
+}

@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "griddler-amazon_ses",
+  "full_name": "ccallebs/griddler-amazon_ses",
+  "owner": "ccallebs",
+  "private": false,
+  "html_url": "https://github.com/ccallebs/griddler-amazon_ses",
+  "description": null,
+  "fork": true,
+  "url": "https://api.github.com/repos/ccallebs/griddler-amazon_ses",
+  "languages_url": "https://api.github.com/repos/ccallebs/griddler-amazon_ses/languages",
+  "pulls_url": "https://api.github.com/repos/ccallebs/griddler-amazon_ses/pulls{/number}",
+  "created_at": "2017-03-19T01:48:00Z",
+  "updated_at": "2018-08-30T01:06:14Z",
+  "pushed_at": "2018-08-30T01:07:32Z",
+  "homepage": null,
+  "size": 45,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rpfahl": 1,
+    "ccallebs": 6,
+    "kmewhort": 24
+  },
+  "pulls_authors": [
+    "ccallebs",
+    "rpfahl"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 19481,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:06.662Z"
+}

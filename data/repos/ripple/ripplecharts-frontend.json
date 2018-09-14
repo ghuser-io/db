@@ -1,0 +1,102 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ripplecharts-frontend",
+  "full_name": "ripple/ripplecharts-frontend",
+  "owner": "ripple",
+  "private": false,
+  "html_url": "https://github.com/ripple/ripplecharts-frontend",
+  "description": "RippleCharts front-end using Angular.js and D3",
+  "fork": false,
+  "url": "https://api.github.com/repos/ripple/ripplecharts-frontend",
+  "languages_url": "https://api.github.com/repos/ripple/ripplecharts-frontend/languages",
+  "pulls_url": "https://api.github.com/repos/ripple/ripplecharts-frontend/pulls{/number}",
+  "created_at": "2013-12-31T20:26:04Z",
+  "updated_at": "2018-09-12T07:58:40Z",
+  "pushed_at": "2018-08-20T16:08:37Z",
+  "homepage": null,
+  "size": 5423,
+  "stargazers_count": 156,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "isc",
+    "name": "ISC License",
+    "spdx_id": "ISC",
+    "url": "https://api.github.com/licenses/isc",
+    "node_id": "MDc6TGljZW5zZTEw"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ripple",
+    "id": 3165523,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMxNjU1MjM=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/3165523?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ripple",
+    "html_url": "https://github.com/ripple",
+    "followers_url": "https://api.github.com/users/ripple/followers",
+    "following_url": "https://api.github.com/users/ripple/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ripple/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ripple/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ripple/subscriptions",
+    "organizations_url": "https://api.github.com/users/ripple/orgs",
+    "repos_url": "https://api.github.com/users/ripple/repos",
+    "events_url": "https://api.github.com/users/ripple/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ripple/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "montoias": 1,
+    "waldyrious": 1,
+    "mDuo13": 1,
+    "weitaolee": 1,
+    "darkdarkdragon": 5,
+    "justinlynn": 6,
+    "henktillman": 35,
+    "bsteinlo": 59,
+    "vahaknp": 124,
+    "shekenahglory": 480
+  },
+  "pulls_authors": [
+    "montoias",
+    "drBeet",
+    "emirb",
+    "waldyrious",
+    "darkdarkdragon",
+    "zxripple",
+    "shekenahglory",
+    "henktillman",
+    "sea51930",
+    "srgong",
+    "mDuo13",
+    "bsteinlo",
+    "vahaknp",
+    "rht",
+    "weitaolee",
+    "itsseanbennett",
+    "snowblindroan",
+    "jatchili",
+    "justinlynn"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 511564,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 137796,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 58880,
+      "color": "#e34c26"
+    },
+    "Smarty": {
+      "bytes": 798,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:42:54.685Z"
+}

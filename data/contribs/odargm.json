@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "OdarGM/OdarBot": {
+      "full_name": "OdarGM/OdarBot",
+      "name": "OdarBot",
+      "stargazers_count": 3,
+      "popularity": 1.3222565221025262,
+      "percentage": 98.9090909090909,
+      "maturity": 3.372988210663766,
+      "total_commits_count": 275,
+      "activity": 5,
+      "total_score": 32.714560759106135,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "OdarArmy/odararmy.github.io": {
+      "full_name": "OdarArmy/odararmy.github.io",
+      "name": "odararmy.github.io",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 12,
+      "activity": 5,
+      "total_score": 21.662851527087042,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "OdarArmy/EasyDiscordPresence": {
+      "full_name": "OdarArmy/EasyDiscordPresence",
+      "name": "EasyDiscordPresence",
+      "stargazers_count": 4,
+      "popularity": 1.49139952161816,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 11,
+      "activity": 2.6440586644216055,
+      "total_score": 26.506451010312166,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "js-org/js.org": {
+      "full_name": "js-org/js.org",
+      "name": "js.org",
+      "stargazers_count": 1893,
+      "popularity": 4.276983172300461,
+      "percentage": 0,
+      "maturity": 4.4791614153929,
+      "total_commits_count": 3042,
+      "activity": 5,
+      "total_score": 26.789272347687184,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "OdarArmy",
+    "js-org"
+  ]
+}

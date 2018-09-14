@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "repokemon",
+  "full_name": "cheeaun/repokemon",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/repokemon",
+  "description": "Showcase of GitHub repos with Pokémon names",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/repokemon",
+  "languages_url": "https://api.github.com/repos/cheeaun/repokemon/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/repokemon/pulls{/number}",
+  "created_at": "2016-07-15T00:37:11Z",
+  "updated_at": "2018-09-11T19:15:45Z",
+  "pushed_at": "2018-08-19T02:48:43Z",
+  "homepage": "https://cheeaun.github.io/repokemon/",
+  "size": 10038,
+  "stargazers_count": 265,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "JuanitoFatas": 1,
+    "limhenry": 5,
+    "cheeaun": 59
+  },
+  "pulls_authors": [
+    "Kaioru",
+    "Humeira",
+    "mehmetkose",
+    "limhenry",
+    "cheeaun",
+    "JuanitoFatas"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 35250,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 8871,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 6285,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T20:45:31.162Z"
+}

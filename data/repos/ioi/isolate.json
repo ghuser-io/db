@@ -1,0 +1,94 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "isolate",
+  "full_name": "ioi/isolate",
+  "owner": "ioi",
+  "private": false,
+  "html_url": "https://github.com/ioi/isolate",
+  "description": "Sandbox for securely executing untrusted programs",
+  "fork": false,
+  "url": "https://api.github.com/repos/ioi/isolate",
+  "languages_url": "https://api.github.com/repos/ioi/isolate/languages",
+  "pulls_url": "https://api.github.com/repos/ioi/isolate/pulls{/number}",
+  "created_at": "2015-07-26T05:14:55Z",
+  "updated_at": "2018-09-11T03:47:05Z",
+  "pushed_at": "2018-09-10T08:05:23Z",
+  "homepage": "",
+  "size": 152,
+  "stargazers_count": 137,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ioi",
+    "id": 13503858,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzNTAzODU4",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/13503858?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ioi",
+    "html_url": "https://github.com/ioi",
+    "followers_url": "https://api.github.com/users/ioi/followers",
+    "following_url": "https://api.github.com/users/ioi/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ioi/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ioi/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ioi/subscriptions",
+    "organizations_url": "https://api.github.com/users/ioi/orgs",
+    "repos_url": "https://api.github.com/users/ioi/repos",
+    "events_url": "https://api.github.com/users/ioi/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ioi/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jbenc": 1,
+    "Zopieux": 1,
+    "hermanzdosilovic": 1,
+    "wil93": 1,
+    "konstantint": 1,
+    "SuprDewd": 1,
+    "ronalchn": 1,
+    "op01": 2,
+    "seirl": 2,
+    "xelez": 3,
+    "giomasce": 3,
+    "bblackham": 18,
+    "gollux": 108
+  },
+  "pulls_authors": [
+    "chongkong",
+    "seirl",
+    "edomora97",
+    "xelez",
+    "op01",
+    "Zopieux",
+    "Leo1003",
+    "hermanzdosilovic",
+    "wil93",
+    "giomasce",
+    "bblackham",
+    "austrin"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 56357,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 6513,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 2099,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:24.937Z"
+}

@@ -1,0 +1,86 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "design-materials",
+  "full_name": "intermine/design-materials",
+  "owner": "intermine",
+  "private": false,
+  "html_url": "https://github.com/intermine/design-materials",
+  "description": "A collection of paper diagrams, presentations, sketches, Photoshop designs and websites for InterMine",
+  "fork": false,
+  "url": "https://api.github.com/repos/intermine/design-materials",
+  "languages_url": "https://api.github.com/repos/intermine/design-materials/languages",
+  "pulls_url": "https://api.github.com/repos/intermine/design-materials/pulls{/number}",
+  "created_at": "2012-05-29T13:29:05Z",
+  "updated_at": "2017-06-13T10:34:54Z",
+  "pushed_at": "2017-08-18T09:49:14Z",
+  "homepage": "",
+  "size": 342434,
+  "stargazers_count": 1,
+  "language": "PostScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "intermine",
+    "id": 179399,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3OTM5OQ==",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/179399?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/intermine",
+    "html_url": "https://github.com/intermine",
+    "followers_url": "https://api.github.com/users/intermine/followers",
+    "following_url": "https://api.github.com/users/intermine/following{/other_user}",
+    "gists_url": "https://api.github.com/users/intermine/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/intermine/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/intermine/subscriptions",
+    "organizations_url": "https://api.github.com/users/intermine/orgs",
+    "repos_url": "https://api.github.com/users/intermine/repos",
+    "events_url": "https://api.github.com/users/intermine/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/intermine/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "sergiocontrino": 1,
+    "alexkalderimis": 2,
+    "joshkh": 5,
+    "jelena121": 6,
+    "yochannah": 8,
+    "julie-sullivan": 11,
+    "mlyne": 11,
+    "radekstepan": 336
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PostScript": {
+      "bytes": 590285,
+      "color": "#da291c"
+    },
+    "CSS": {
+      "bytes": 580889,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 341826,
+      "color": "#e34c26"
+    },
+    "PHP": {
+      "bytes": 128579,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 93405,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 1110,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 214,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T13:50:56.774Z"
+}

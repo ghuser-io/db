@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PowerMonitor",
+  "full_name": "marksamman/PowerMonitor",
+  "owner": "marksamman",
+  "private": false,
+  "html_url": "https://github.com/marksamman/PowerMonitor",
+  "description": "Windows application written in C++11 that switches between low, balanced and high power plan depending on the processes that are running",
+  "fork": false,
+  "url": "https://api.github.com/repos/marksamman/PowerMonitor",
+  "languages_url": "https://api.github.com/repos/marksamman/PowerMonitor/languages",
+  "pulls_url": "https://api.github.com/repos/marksamman/PowerMonitor/pulls{/number}",
+  "created_at": "2013-11-23T21:45:50Z",
+  "updated_at": "2015-04-30T10:28:35Z",
+  "pushed_at": "2013-11-23T21:47:13Z",
+  "homepage": null,
+  "size": 112,
+  "stargazers_count": 2,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "marksamman": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 9895,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-11T15:15:49.810Z"
+}

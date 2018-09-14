@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SendCH-Telegram",
+  "full_name": "TiagoDanin/SendCH-Telegram",
+  "owner": "TiagoDanin",
+  "private": false,
+  "html_url": "https://github.com/TiagoDanin/SendCH-Telegram",
+  "description": "Send message for channel (Telegram) using the Markdown or HTML",
+  "fork": false,
+  "url": "https://api.github.com/repos/TiagoDanin/SendCH-Telegram",
+  "languages_url": "https://api.github.com/repos/TiagoDanin/SendCH-Telegram/languages",
+  "pulls_url": "https://api.github.com/repos/TiagoDanin/SendCH-Telegram/pulls{/number}",
+  "created_at": "2016-02-06T18:12:05Z",
+  "updated_at": "2017-02-23T18:32:20Z",
+  "pushed_at": "2018-04-02T13:25:49Z",
+  "homepage": "http://SendCH-TiagoEDGE.rhcloud.com",
+  "size": 514,
+  "stargazers_count": 8,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "TiagoDanin": 12
+  },
+  "pulls_authors": [
+    "TiagoDanin"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 68199,
+      "color": "#563d7c"
+    },
+    "PHP": {
+      "bytes": 8963,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 6578,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-12T17:48:20.581Z"
+}

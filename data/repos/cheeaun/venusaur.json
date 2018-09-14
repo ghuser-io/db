@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "venusaur",
+  "full_name": "cheeaun/venusaur",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/venusaur",
+  "description": "iCal as a Service",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/venusaur",
+  "languages_url": "https://api.github.com/repos/cheeaun/venusaur/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/venusaur/pulls{/number}",
+  "created_at": "2017-11-25T13:03:24Z",
+  "updated_at": "2017-12-01T17:57:24Z",
+  "pushed_at": "2017-11-25T13:05:38Z",
+  "homepage": "https://venusaur.glitch.me/",
+  "size": 4,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 2
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-10T18:59:54.817Z"
+}

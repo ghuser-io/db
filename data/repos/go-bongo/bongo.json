@@ -1,0 +1,74 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bongo",
+  "full_name": "go-bongo/bongo",
+  "owner": "go-bongo",
+  "private": false,
+  "html_url": "https://github.com/go-bongo/bongo",
+  "description": "Go ODM for MongoDB",
+  "fork": false,
+  "url": "https://api.github.com/repos/go-bongo/bongo",
+  "languages_url": "https://api.github.com/repos/go-bongo/bongo/languages",
+  "pulls_url": "https://api.github.com/repos/go-bongo/bongo/pulls{/number}",
+  "created_at": "2014-11-19T01:49:15Z",
+  "updated_at": "2018-09-13T07:27:37Z",
+  "pushed_at": "2018-05-17T12:42:17Z",
+  "homepage": null,
+  "size": 156,
+  "stargazers_count": 281,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "go-bongo",
+    "id": 26746349,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI2NzQ2MzQ5",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/26746349?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/go-bongo",
+    "html_url": "https://github.com/go-bongo",
+    "followers_url": "https://api.github.com/users/go-bongo/followers",
+    "following_url": "https://api.github.com/users/go-bongo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/go-bongo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/go-bongo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/go-bongo/subscriptions",
+    "organizations_url": "https://api.github.com/users/go-bongo/orgs",
+    "repos_url": "https://api.github.com/users/go-bongo/repos",
+    "events_url": "https://api.github.com/users/go-bongo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/go-bongo/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "msolimans": 1,
+    "ZeoZorg": 1,
+    "jraede": 1,
+    "TheHippo": 1,
+    "sasso": 2,
+    "securingsincity": 6,
+    "ilijamt": 11
+  },
+  "pulls_authors": [
+    "msolimans",
+    "ilijamt",
+    "yaronius",
+    "sasso",
+    "securingsincity",
+    "TheHippo"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 49169,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-13T17:01:48.675Z"
+}

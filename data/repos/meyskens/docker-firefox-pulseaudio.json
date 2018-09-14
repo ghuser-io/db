@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docker-firefox-pulseaudio",
+  "full_name": "meyskens/docker-firefox-pulseaudio",
+  "owner": "meyskens",
+  "private": false,
+  "html_url": "https://github.com/meyskens/docker-firefox-pulseaudio",
+  "description": "jess/firefox with pulseaudio",
+  "fork": false,
+  "url": "https://api.github.com/repos/meyskens/docker-firefox-pulseaudio",
+  "languages_url": "https://api.github.com/repos/meyskens/docker-firefox-pulseaudio/languages",
+  "pulls_url": "https://api.github.com/repos/meyskens/docker-firefox-pulseaudio/pulls{/number}",
+  "created_at": "2017-07-22T16:34:23Z",
+  "updated_at": "2018-06-07T19:52:02Z",
+  "pushed_at": "2018-06-07T19:52:01Z",
+  "homepage": null,
+  "size": 2,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "meyskens": 8
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-11T20:50:14.486Z"
+}

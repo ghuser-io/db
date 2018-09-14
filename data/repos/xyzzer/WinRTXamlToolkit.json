@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "WinRTXamlToolkit",
+  "full_name": "xyzzer/WinRTXamlToolkit",
+  "owner": "xyzzer",
+  "private": false,
+  "html_url": "https://github.com/xyzzer/WinRTXamlToolkit",
+  "description": "WinRT XAML Toolkit",
+  "fork": false,
+  "url": "https://api.github.com/repos/xyzzer/WinRTXamlToolkit",
+  "languages_url": "https://api.github.com/repos/xyzzer/WinRTXamlToolkit/languages",
+  "pulls_url": "https://api.github.com/repos/xyzzer/WinRTXamlToolkit/pulls{/number}",
+  "created_at": "2015-07-14T05:51:57Z",
+  "updated_at": "2018-09-07T04:23:11Z",
+  "pushed_at": "2018-05-24T01:17:26Z",
+  "homepage": null,
+  "size": 62611,
+  "stargazers_count": 238,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "arafattehsin": 1,
+    "higankanshi": 1,
+    "Amrykid": 1,
+    "aloisdg": 1,
+    "thefex": 2,
+    "igorkulman": 5,
+    "xyzzer": 230
+  },
+  "pulls_authors": [
+    "dustin62191",
+    "xyzzer",
+    "higankanshi",
+    "arafattehsin",
+    "gardnerjr",
+    "Amrykid",
+    "aloisdg"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 3947352,
+      "color": "#178600"
+    },
+    "Batchfile": {
+      "bytes": 11841,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:17.444Z"
+}

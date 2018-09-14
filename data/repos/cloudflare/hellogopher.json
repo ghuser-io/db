@@ -1,0 +1,82 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hellogopher",
+  "full_name": "cloudflare/hellogopher",
+  "owner": "cloudflare",
+  "private": false,
+  "html_url": "https://github.com/cloudflare/hellogopher",
+  "description": "Hellogopher: \"just clone and make\" your conventional Go project",
+  "fork": false,
+  "url": "https://api.github.com/repos/cloudflare/hellogopher",
+  "languages_url": "https://api.github.com/repos/cloudflare/hellogopher/languages",
+  "created_at": "2017-01-20T15:42:28Z",
+  "updated_at": "2018-09-14T03:50:28Z",
+  "pushed_at": "2018-03-13T20:01:13Z",
+  "homepage": "",
+  "size": 142,
+  "stargazers_count": 1158,
+  "language": "Makefile",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "cloudflare",
+    "id": 314135,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMxNDEzNQ==",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/314135?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/cloudflare",
+    "html_url": "https://github.com/cloudflare",
+    "followers_url": "https://api.github.com/users/cloudflare/followers",
+    "following_url": "https://api.github.com/users/cloudflare/following{/other_user}",
+    "gists_url": "https://api.github.com/users/cloudflare/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/cloudflare/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/cloudflare/subscriptions",
+    "organizations_url": "https://api.github.com/users/cloudflare/orgs",
+    "repos_url": "https://api.github.com/users/cloudflare/repos",
+    "events_url": "https://api.github.com/users/cloudflare/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/cloudflare/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "lotharschulz": 1,
+    "buro9": 1,
+    "florianletsch": 1,
+    "jgrahamc": 1,
+    "dpw": 1,
+    "cbranch": 1,
+    "dknecht": 2,
+    "FiloSottile": 36
+  },
+  "languages": {
+    "Makefile": {
+      "bytes": 16829,
+      "color": "#427819"
+    },
+    "Go": {
+      "bytes": 750,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-14T08:26:23.427Z",
+  "pulls_url": "https://api.github.com/repos/cloudflare/hellogopher/pulls{/number}",
+  "pulls_authors": [
+    "RichyHBM",
+    "ryan0x44",
+    "FreeBirdLjj",
+    "DiSiqueira",
+    "lotharschulz",
+    "buro9",
+    "FiloSottile",
+    "wjh",
+    "florianletsch"
+  ]
+}

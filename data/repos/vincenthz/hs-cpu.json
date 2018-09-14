@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hs-cpu",
+  "full_name": "vincenthz/hs-cpu",
+  "owner": "vincenthz",
+  "private": false,
+  "html_url": "https://github.com/vincenthz/hs-cpu",
+  "description": "Cpu properties and information helpers for haskell",
+  "fork": false,
+  "url": "https://api.github.com/repos/vincenthz/hs-cpu",
+  "languages_url": "https://api.github.com/repos/vincenthz/hs-cpu/languages",
+  "pulls_url": "https://api.github.com/repos/vincenthz/hs-cpu/pulls{/number}",
+  "created_at": "2012-04-22T14:19:12Z",
+  "updated_at": "2017-06-10T22:56:04Z",
+  "pushed_at": "2013-11-12T05:33:01Z",
+  "homepage": null,
+  "size": 118,
+  "stargazers_count": 5,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "imalsogreg": 1,
+    "nomeata": 1,
+    "lpsmith": 2,
+    "vincenthz": 7
+  },
+  "pulls_authors": [
+    "lpsmith",
+    "imalsogreg",
+    "pxqr",
+    "nomeata"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 6938,
+      "color": "#5e5086"
+    },
+    "C": {
+      "bytes": 1789,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:20.303Z"
+}

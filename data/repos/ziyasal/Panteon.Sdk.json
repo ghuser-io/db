@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Panteon.Sdk",
+  "full_name": "ziyasal/Panteon.Sdk",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/Panteon.Sdk",
+  "description": "A distributed scheduled real-time task processing server for .NET",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal/Panteon.Sdk",
+  "languages_url": "https://api.github.com/repos/ziyasal/Panteon.Sdk/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/Panteon.Sdk/pulls{/number}",
+  "created_at": "2015-08-20T11:32:20Z",
+  "updated_at": "2017-10-05T21:02:32Z",
+  "pushed_at": "2017-06-29T05:55:06Z",
+  "homepage": "",
+  "size": 45,
+  "stargazers_count": 9,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ucatal": 1,
+    "ziyasal": 25
+  },
+  "pulls_authors": [
+    "ucatal"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 29656,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:06.563Z"
+}

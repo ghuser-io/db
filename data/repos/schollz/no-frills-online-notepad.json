@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "no-frills-online-notepad",
+  "full_name": "schollz/no-frills-online-notepad",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/no-frills-online-notepad",
+  "description": "A simple, no-frills online notepad that can be used to automatically store and load notes.",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/no-frills-online-notepad",
+  "languages_url": "https://api.github.com/repos/schollz/no-frills-online-notepad/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/no-frills-online-notepad/pulls{/number}",
+  "created_at": "2015-06-11T19:37:54Z",
+  "updated_at": "2018-06-19T12:39:11Z",
+  "pushed_at": "2015-06-11T19:53:32Z",
+  "homepage": null,
+  "size": 176,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 4010,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 2611,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:50.436Z"
+}

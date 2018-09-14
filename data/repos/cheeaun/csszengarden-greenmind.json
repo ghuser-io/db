@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "csszengarden-greenmind",
+  "full_name": "cheeaun/csszengarden-greenmind",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/csszengarden-greenmind",
+  "description": "'Green Mind' design for CSS Zen Garden",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/csszengarden-greenmind",
+  "languages_url": "https://api.github.com/repos/cheeaun/csszengarden-greenmind/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/csszengarden-greenmind/pulls{/number}",
+  "created_at": "2013-07-21T04:31:35Z",
+  "updated_at": "2015-04-13T05:16:02Z",
+  "pushed_at": "2013-07-21T13:59:12Z",
+  "homepage": "http://cheeaun.github.io/csszengarden-greenmind/",
+  "size": 196,
+  "stargazers_count": 2,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 6
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-10T19:00:04.885Z"
+}

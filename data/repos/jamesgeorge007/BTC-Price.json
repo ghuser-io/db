@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "BTC-Price",
+  "full_name": "jamesgeorge007/BTC-Price",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/BTC-Price",
+  "description": "This web app shows the current price of Bitcoin made while learning Next-js which offers server side rendering capability to React.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/BTC-Price",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/BTC-Price/languages",
+  "created_at": "2018-06-04T16:48:28Z",
+  "updated_at": "2018-07-11T06:08:08Z",
+  "pushed_at": "2018-07-11T06:08:06Z",
+  "homepage": null,
+  "size": 914,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jamesgeorge007": 12
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 3970,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/BTC-Price/pulls{/number}",
+  "pulls_authors": [
+    "jamesgeorge007"
+  ]
+}

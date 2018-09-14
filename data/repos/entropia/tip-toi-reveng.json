@@ -1,0 +1,150 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tip-toi-reveng",
+  "full_name": "entropia/tip-toi-reveng",
+  "owner": "entropia",
+  "private": false,
+  "html_url": "https://github.com/entropia/tip-toi-reveng",
+  "description": "Trying to understand the file format of Tip Toi",
+  "fork": false,
+  "url": "https://api.github.com/repos/entropia/tip-toi-reveng",
+  "languages_url": "https://api.github.com/repos/entropia/tip-toi-reveng/languages",
+  "pulls_url": "https://api.github.com/repos/entropia/tip-toi-reveng/pulls{/number}",
+  "created_at": "2013-04-14T17:16:18Z",
+  "updated_at": "2018-09-11T18:21:16Z",
+  "pushed_at": "2018-08-29T05:23:43Z",
+  "homepage": "http://tttool.entropia.de/",
+  "size": 10636,
+  "stargazers_count": 257,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "entropia",
+    "id": 2362112,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzNjIxMTI=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2362112?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/entropia",
+    "html_url": "https://github.com/entropia",
+    "followers_url": "https://api.github.com/users/entropia/followers",
+    "following_url": "https://api.github.com/users/entropia/following{/other_user}",
+    "gists_url": "https://api.github.com/users/entropia/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/entropia/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/entropia/subscriptions",
+    "organizations_url": "https://api.github.com/users/entropia/orgs",
+    "repos_url": "https://api.github.com/users/entropia/repos",
+    "events_url": "https://api.github.com/users/entropia/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/entropia/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "CryPtiC128": 1,
+    "mercutiodesign": 1,
+    "Tronje-the-Falconer": 1,
+    "wkraft-fablabka": 1,
+    "ravotd": 1,
+    "tsager": 1,
+    "m42e": 1,
+    "kne1p": 1,
+    "SuSonicTH": 1,
+    "m7thon": 2,
+    "waltner": 2,
+    "ernie76": 2,
+    "sengels": 2,
+    "Pronwan": 2,
+    "Rambaldi1988": 3,
+    "larsweiler": 3,
+    "B-G-T": 4,
+    "rneuber1": 5,
+    "colinba": 5,
+    "kontrafuss": 6,
+    "centic9": 7,
+    "NimVek": 13,
+    "HorstFrank": 15,
+    "uli42": 45,
+    "nomeata": 470
+  },
+  "pulls_authors": [
+    "CryPtiC128",
+    "mercutiodesign",
+    "m7thon",
+    "HorstFrank",
+    "rneuber1",
+    "kontrafuss",
+    "Rambaldi1988",
+    "waltner",
+    "larsweiler",
+    "Tronje-the-Falconer",
+    "colinba",
+    "jovermann",
+    "uli42",
+    "SuSonicTH",
+    "ernie76",
+    "wkraft-fablabka",
+    "ravotd",
+    "B-G-T",
+    "tsager",
+    "sengels",
+    "centic9",
+    "m42e",
+    "Ol-li",
+    "Pronwan",
+    "kne1p",
+    "NimVek",
+    "ToniMahagoni",
+    "maehw"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 342077,
+      "color": "#5e5086"
+    },
+    "C": {
+      "bytes": 52058,
+      "color": "#555555"
+    },
+    "Perl": {
+      "bytes": 46370,
+      "color": "#0298c3"
+    },
+    "HTML": {
+      "bytes": 25601,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 4931,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 3286,
+      "color": "#563d7c"
+    },
+    "Python": {
+      "bytes": 2048,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 1297,
+      "color": "#f1e05a"
+    },
+    "Makefile": {
+      "bytes": 946,
+      "color": "#427819"
+    },
+    "Batchfile": {
+      "bytes": 817,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-11T20:51:44.199Z"
+}

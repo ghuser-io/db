@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gocapsule",
+  "full_name": "schollz/gocapsule",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/gocapsule",
+  "description": "Time capsule that monitors and stores notable things",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/gocapsule",
+  "languages_url": "https://api.github.com/repos/schollz/gocapsule/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/gocapsule/pulls{/number}",
+  "created_at": "2016-02-05T18:27:49Z",
+  "updated_at": "2018-04-30T13:28:24Z",
+  "pushed_at": "2016-02-06T15:41:49Z",
+  "homepage": null,
+  "size": 43,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 15
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 20769,
+      "color": "#375eab"
+    },
+    "HTML": {
+      "bytes": 17669,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 266,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:46.962Z"
+}

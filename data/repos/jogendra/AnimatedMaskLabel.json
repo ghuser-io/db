@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "AnimatedMaskLabel",
+  "full_name": "jogendra/AnimatedMaskLabel",
+  "owner": "jogendra",
+  "private": false,
+  "html_url": "https://github.com/jogendra/AnimatedMaskLabel",
+  "description": "Animated Mask Label is a nice gradient animated label. This is an easy way to add a shimmering effect to any view in your app. It is useful as an unobtrusive loading indicator.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jogendra/AnimatedMaskLabel",
+  "languages_url": "https://api.github.com/repos/jogendra/AnimatedMaskLabel/languages",
+  "pulls_url": "https://api.github.com/repos/jogendra/AnimatedMaskLabel/pulls{/number}",
+  "created_at": "2018-04-06T11:48:30Z",
+  "updated_at": "2018-09-13T12:36:45Z",
+  "pushed_at": "2018-09-05T11:36:13Z",
+  "homepage": "",
+  "size": 431,
+  "stargazers_count": 221,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "SheldonWangRJT": 1,
+    "gitter-badger": 1,
+    "imjog": 40,
+    "jogendra": 41
+  },
+  "pulls_authors": [
+    "imjog",
+    "SheldonWangRJT",
+    "gitter-badger",
+    "jogendra"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 8252,
+      "color": "#ffac45"
+    },
+    "Ruby": {
+      "bytes": 1922,
+      "color": "#701516"
+    },
+    "Objective-C": {
+      "bytes": 548,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-13T16:33:26.679Z"
+}

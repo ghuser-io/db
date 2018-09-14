@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "university",
+  "full_name": "libreuniversity/university",
+  "owner": "libreuniversity",
+  "private": false,
+  "html_url": "https://github.com/libreuniversity/university",
+  "description": "The official repository for Libre University",
+  "fork": false,
+  "url": "https://api.github.com/repos/libreuniversity/university",
+  "languages_url": "https://api.github.com/repos/libreuniversity/university/languages",
+  "pulls_url": "https://api.github.com/repos/libreuniversity/university/pulls{/number}",
+  "created_at": "2015-12-08T03:01:21Z",
+  "updated_at": "2018-02-03T06:05:19Z",
+  "pushed_at": "2017-05-18T09:29:00Z",
+  "homepage": "https://www.libre.university/",
+  "size": 5821,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "libreuniversity",
+    "id": 16200856,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2MjAwODU2",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/16200856?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/libreuniversity",
+    "html_url": "https://github.com/libreuniversity",
+    "followers_url": "https://api.github.com/users/libreuniversity/followers",
+    "following_url": "https://api.github.com/users/libreuniversity/following{/other_user}",
+    "gists_url": "https://api.github.com/users/libreuniversity/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/libreuniversity/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/libreuniversity/subscriptions",
+    "organizations_url": "https://api.github.com/users/libreuniversity/orgs",
+    "repos_url": "https://api.github.com/users/libreuniversity/repos",
+    "events_url": "https://api.github.com/users/libreuniversity/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/libreuniversity/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "franciscop": 62
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 442987,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 365034,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 273921,
+      "color": "#563d7c"
+    },
+    "PHP": {
+      "bytes": 2232,
+      "color": "#4F5D95"
+    },
+    "Shell": {
+      "bytes": 2015,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T00:05:01.752Z"
+}

@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "j.leapmotion",
+  "full_name": "theod/j.leapmotion",
+  "owner": "theod",
+  "private": false,
+  "html_url": "https://github.com/theod/j.leapmotion",
+  "description": "returns leap motion data in Max / MSP",
+  "fork": false,
+  "url": "https://api.github.com/repos/theod/j.leapmotion",
+  "languages_url": "https://api.github.com/repos/theod/j.leapmotion/languages",
+  "pulls_url": "https://api.github.com/repos/theod/j.leapmotion/pulls{/number}",
+  "created_at": "2014-11-10T12:17:37Z",
+  "updated_at": "2016-03-23T16:14:28Z",
+  "pushed_at": "2016-05-18T08:23:19Z",
+  "homepage": null,
+  "size": 2692,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 1,
+    "matcham": 5
+  },
+  "pulls_authors": [
+    "jcelerier"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 320630,
+      "color": "#f34b7d"
+    },
+    "Max": {
+      "bytes": 83909,
+      "color": "#c4a79c"
+    },
+    "CMake": {
+      "bytes": 950,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:53.988Z"
+}

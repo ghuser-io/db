@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "car-CLI",
+  "full_name": "debck/car-CLI",
+  "owner": "debck",
+  "private": false,
+  "html_url": "https://github.com/debck/car-CLI",
+  "description": "CLI tool which gives name of car specified to country of origin",
+  "fork": false,
+  "url": "https://api.github.com/repos/debck/car-CLI",
+  "languages_url": "https://api.github.com/repos/debck/car-CLI/languages",
+  "created_at": "2018-06-09T04:55:41Z",
+  "updated_at": "2018-08-25T19:19:19Z",
+  "pushed_at": "2018-07-02T07:32:37Z",
+  "homepage": "",
+  "size": 104,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "renovate[bot]": 1,
+    "renovate-bot": 1,
+    "debck": 22
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 1218,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-25T19:33:18.729Z",
+  "pulls_url": "https://api.github.com/repos/debck/car-CLI/pulls{/number}",
+  "pulls_authors": [
+    "renovate[bot]",
+    "debck"
+  ]
+}

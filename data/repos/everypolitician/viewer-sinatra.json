@@ -1,0 +1,100 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "viewer-sinatra",
+  "full_name": "everypolitician/viewer-sinatra",
+  "owner": "everypolitician",
+  "private": false,
+  "html_url": "https://github.com/everypolitician/viewer-sinatra",
+  "description": "Sinatra app for (pre)viewing EveryPolitician website dynamically",
+  "fork": false,
+  "url": "https://api.github.com/repos/everypolitician/viewer-sinatra",
+  "languages_url": "https://api.github.com/repos/everypolitician/viewer-sinatra/languages",
+  "pulls_url": "https://api.github.com/repos/everypolitician/viewer-sinatra/pulls{/number}",
+  "created_at": "2015-04-01T15:02:20Z",
+  "updated_at": "2018-05-15T13:35:54Z",
+  "pushed_at": "2018-05-15T13:35:51Z",
+  "homepage": "http://everypolitician.org/",
+  "size": 15352,
+  "stargazers_count": 4,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "everypolitician",
+    "id": 12497298,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyNDk3Mjk4",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/12497298?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/everypolitician",
+    "html_url": "https://github.com/everypolitician",
+    "followers_url": "https://api.github.com/users/everypolitician/followers",
+    "following_url": "https://api.github.com/users/everypolitician/following{/other_user}",
+    "gists_url": "https://api.github.com/users/everypolitician/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/everypolitician/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/everypolitician/subscriptions",
+    "organizations_url": "https://api.github.com/users/everypolitician/orgs",
+    "repos_url": "https://api.github.com/users/everypolitician/repos",
+    "events_url": "https://api.github.com/users/everypolitician/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/everypolitician/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "wfdd": 1,
+    "struan": 2,
+    "wrightmartin": 2,
+    "andylolz": 3,
+    "dracos": 4,
+    "mhl": 8,
+    "henare": 14,
+    "ondenman": 54,
+    "zarino": 101,
+    "octopusinvitro": 104,
+    "davewhiteland": 119,
+    "chrismytton": 125,
+    "tmtmtmtm": 704,
+    "everypoliticianbot": 8108
+  },
+  "pulls_authors": [
+    "tmtmtmtm",
+    "wrightmartin",
+    "zarino",
+    "henare",
+    "chrismytton",
+    "davewhiteland",
+    "mhl",
+    "andylolz",
+    "octopusinvitro",
+    "wfdd",
+    "everypoliticianbot",
+    "ondenman",
+    "struan",
+    "dracos",
+    "duncanparkes"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 84290,
+      "color": "#e34c26"
+    },
+    "Ruby": {
+      "bytes": 68878,
+      "color": "#701516"
+    },
+    "CSS": {
+      "bytes": 61110,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 41842,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 2233,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:31.555Z"
+}

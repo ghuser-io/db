@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "trusted-cross-build",
+  "full_name": "dockerparis/trusted-cross-build",
+  "owner": "dockerparis",
+  "private": false,
+  "html_url": "https://github.com/dockerparis/trusted-cross-build",
+  "description": "Cross Build for Docker Trusted builds",
+  "fork": false,
+  "url": "https://api.github.com/repos/dockerparis/trusted-cross-build",
+  "languages_url": "https://api.github.com/repos/dockerparis/trusted-cross-build/languages",
+  "pulls_url": "https://api.github.com/repos/dockerparis/trusted-cross-build/pulls{/number}",
+  "created_at": "2014-12-12T16:33:18Z",
+  "updated_at": "2017-01-10T09:30:16Z",
+  "pushed_at": "2016-08-22T20:22:08Z",
+  "homepage": "https://registry.hub.docker.com/u/moul/trusted-cross-build/",
+  "size": 7012,
+  "stargazers_count": 5,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "dockerparis",
+    "id": 10166584,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwMTY2NTg0",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/10166584?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/dockerparis",
+    "html_url": "https://github.com/dockerparis",
+    "followers_url": "https://api.github.com/users/dockerparis/followers",
+    "following_url": "https://api.github.com/users/dockerparis/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dockerparis/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/dockerparis/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dockerparis/subscriptions",
+    "organizations_url": "https://api.github.com/users/dockerparis/orgs",
+    "repos_url": "https://api.github.com/users/dockerparis/repos",
+    "events_url": "https://api.github.com/users/dockerparis/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/dockerparis/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "moul": 47
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 2067,
+      "color": "#375eab"
+    },
+    "C": {
+      "bytes": 1839,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 1802,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:52.219Z"
+}

@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "zpub",
+  "full_name": "nomeata/zpub",
+  "owner": "nomeata",
+  "private": false,
+  "html_url": "https://github.com/nomeata/zpub",
+  "description": "zpub is a server to collaboratively work on DocBook-based documentation.",
+  "fork": false,
+  "url": "https://api.github.com/repos/nomeata/zpub",
+  "languages_url": "https://api.github.com/repos/nomeata/zpub/languages",
+  "pulls_url": "https://api.github.com/repos/nomeata/zpub/pulls{/number}",
+  "created_at": "2013-07-13T17:03:23Z",
+  "updated_at": "2016-10-08T09:43:47Z",
+  "pushed_at": "2016-05-02T20:18:30Z",
+  "homepage": null,
+  "size": 3540,
+  "stargazers_count": 1,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "tombreit": 9,
+    "nomeata": 246
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 46532,
+      "color": "#89e051"
+    },
+    "Perl": {
+      "bytes": 42571,
+      "color": "#0298c3"
+    },
+    "TeX": {
+      "bytes": 18326,
+      "color": "#3D6117"
+    },
+    "XSLT": {
+      "bytes": 9023,
+      "color": "#EB8CEB"
+    },
+    "CSS": {
+      "bytes": 7245,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:10.362Z"
+}

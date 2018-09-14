@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "curriculum",
+  "full_name": "summer-skills/curriculum",
+  "owner": "summer-skills",
+  "private": false,
+  "html_url": "https://github.com/summer-skills/curriculum",
+  "description": "The curriculum for all the courses",
+  "fork": false,
+  "url": "https://api.github.com/repos/summer-skills/curriculum",
+  "languages_url": "https://api.github.com/repos/summer-skills/curriculum/languages",
+  "created_at": "2018-07-19T03:58:20Z",
+  "updated_at": "2018-07-29T06:09:48Z",
+  "pushed_at": "2018-07-29T06:09:47Z",
+  "homepage": null,
+  "size": 27,
+  "stargazers_count": 3,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "summer-skills",
+    "id": 41152789,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQxMTUyNzg5",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/41152789?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/summer-skills",
+    "html_url": "https://github.com/summer-skills",
+    "followers_url": "https://api.github.com/users/summer-skills/followers",
+    "following_url": "https://api.github.com/users/summer-skills/following{/other_user}",
+    "gists_url": "https://api.github.com/users/summer-skills/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/summer-skills/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/summer-skills/subscriptions",
+    "organizations_url": "https://api.github.com/users/summer-skills/orgs",
+    "repos_url": "https://api.github.com/users/summer-skills/repos",
+    "events_url": "https://api.github.com/users/summer-skills/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/summer-skills/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "itaditya": 14
+  },
+  "languages": {},
+  "fetched_at": "2018-07-29T09:27:58.155Z",
+  "pulls_url": "https://api.github.com/repos/summer-skills/curriculum/pulls{/number}",
+  "pulls_authors": [
+    "itaditya"
+  ]
+}

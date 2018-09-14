@@ -1,0 +1,88 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "harrogate",
+  "full_name": "kipr/harrogate",
+  "owner": "kipr",
+  "private": false,
+  "html_url": "https://github.com/kipr/harrogate",
+  "description": "The UI for the Link2",
+  "fork": false,
+  "url": "https://api.github.com/repos/kipr/harrogate",
+  "languages_url": "https://api.github.com/repos/kipr/harrogate/languages",
+  "pulls_url": "https://api.github.com/repos/kipr/harrogate/pulls{/number}",
+  "created_at": "2015-01-25T10:34:40Z",
+  "updated_at": "2016-11-23T22:33:02Z",
+  "pushed_at": "2017-02-24T17:45:51Z",
+  "homepage": null,
+  "size": 19598,
+  "stargazers_count": 2,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "kipr",
+    "id": 900869,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjkwMDg2OQ==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/900869?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/kipr",
+    "html_url": "https://github.com/kipr",
+    "followers_url": "https://api.github.com/users/kipr/followers",
+    "following_url": "https://api.github.com/users/kipr/following{/other_user}",
+    "gists_url": "https://api.github.com/users/kipr/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/kipr/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/kipr/subscriptions",
+    "organizations_url": "https://api.github.com/users/kipr/orgs",
+    "repos_url": "https://api.github.com/users/kipr/repos",
+    "events_url": "https://api.github.com/users/kipr/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/kipr/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "PhilipTrauner": 1,
+    "swatkins": 8,
+    "navzam": 10,
+    "bmcdorman": 46,
+    "jsoutherland": 87,
+    "zeltner": 302
+  },
+  "pulls_authors": [
+    "jsoutherland",
+    "bmcdorman",
+    "swatkins",
+    "zeltner",
+    "PhilipTrauner"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 4446306,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 532890,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 41211,
+      "color": "#563d7c"
+    },
+    "C": {
+      "bytes": 776,
+      "color": "#555555"
+    },
+    "Batchfile": {
+      "bytes": 207,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:15.858Z"
+}

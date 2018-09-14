@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Troposphir",
+  "full_name": "kevson/Troposphir",
+  "owner": "kevson",
+  "private": false,
+  "html_url": "https://github.com/kevson/Troposphir",
+  "description": "[Migrated] Private server for a dead game. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/kevson/Troposphir",
+  "languages_url": "https://api.github.com/repos/kevson/Troposphir/languages",
+  "pulls_url": "https://api.github.com/repos/kevson/Troposphir/pulls{/number}",
+  "created_at": "2013-10-28T18:44:26Z",
+  "updated_at": "2017-04-07T05:24:42Z",
+  "pushed_at": "2016-07-06T15:30:32Z",
+  "homepage": "",
+  "size": 900,
+  "stargazers_count": 3,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "AtmoEntity": 11,
+    "kroltan": 56,
+    "kevson": 103
+  },
+  "pulls_authors": [
+    "AtmoEntity"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 189069,
+      "color": "#4F5D95"
+    },
+    "C#": {
+      "bytes": 63774,
+      "color": "#178600"
+    },
+    "CSS": {
+      "bytes": 11101,
+      "color": "#563d7c"
+    },
+    "Java": {
+      "bytes": 7838,
+      "color": "#b07219"
+    },
+    "JavaScript": {
+      "bytes": 7344,
+      "color": "#f1e05a"
+    },
+    "Puppet": {
+      "bytes": 5310,
+      "color": "#302B6D"
+    },
+    "HTML": {
+      "bytes": 3678,
+      "color": "#e34c26"
+    },
+    "Ruby": {
+      "bytes": 995,
+      "color": "#701516"
+    },
+    "ApacheConf": {
+      "bytes": 869,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:29.156Z"
+}

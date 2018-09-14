@@ -1,0 +1,95 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "git-task-list",
+  "full_name": "coala/git-task-list",
+  "owner": "coala",
+  "private": false,
+  "html_url": "https://github.com/coala/git-task-list",
+  "description": "Git Task Lists",
+  "fork": false,
+  "url": "https://api.github.com/repos/coala/git-task-list",
+  "languages_url": "https://api.github.com/repos/coala/git-task-list/languages",
+  "pulls_url": "https://api.github.com/repos/coala/git-task-list/pulls{/number}",
+  "created_at": "2017-04-02T02:08:43Z",
+  "updated_at": "2018-08-05T16:37:20Z",
+  "pushed_at": "2018-08-05T16:43:06Z",
+  "homepage": "https://coala.github.io/git-task-list/",
+  "size": 863,
+  "stargazers_count": 26,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "coala",
+    "id": 10620750,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNjIwNzUw",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/10620750?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/coala",
+    "html_url": "https://github.com/coala",
+    "followers_url": "https://api.github.com/users/coala/followers",
+    "following_url": "https://api.github.com/users/coala/following{/other_user}",
+    "gists_url": "https://api.github.com/users/coala/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/coala/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/coala/subscriptions",
+    "organizations_url": "https://api.github.com/users/coala/orgs",
+    "repos_url": "https://api.github.com/users/coala/repos",
+    "events_url": "https://api.github.com/users/coala/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/coala/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "bhavya17037": 1,
+    "blazeu": 1,
+    "pombredanne": 1,
+    "smsunarto": 1,
+    "pamungkaski": 1,
+    "adhikasp": 1,
+    "sdmoko": 1,
+    "ember-tomster": 1,
+    "Arsfiqball": 2,
+    "jayvdb": 9,
+    "bekicot": 31
+  },
+  "pulls_authors": [
+    "bhavya17037",
+    "bekicot",
+    "jayvdb",
+    "blazeu",
+    "Arsfiqball",
+    "pombredanne",
+    "smsunarto",
+    "pamungkaski",
+    "adhikasp",
+    "wisn",
+    "sdmoko"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 21618,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 6623,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 482,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 174,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

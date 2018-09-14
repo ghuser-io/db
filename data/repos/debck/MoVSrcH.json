@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "MoVSrcH",
+  "full_name": "debck/MoVSrcH",
+  "owner": "debck",
+  "private": false,
+  "html_url": "https://github.com/debck/MoVSrcH",
+  "description": "Get info of your favorite movie ",
+  "fork": false,
+  "url": "https://api.github.com/repos/debck/MoVSrcH",
+  "languages_url": "https://api.github.com/repos/debck/MoVSrcH/languages",
+  "pulls_url": "https://api.github.com/repos/debck/MoVSrcH/pulls{/number}",
+  "created_at": "2018-05-12T11:31:21Z",
+  "updated_at": "2018-08-25T19:28:33Z",
+  "pushed_at": "2018-06-19T14:42:36Z",
+  "homepage": "",
+  "size": 1701,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "debck": 19
+  },
+  "pulls_authors": [
+    "debck",
+    "renovate[bot]"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 897,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 413,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-25T19:33:19.458Z"
+}

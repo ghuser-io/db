@@ -1,0 +1,62 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "slack-time-bot",
+  "full_name": "labsevo/slack-time-bot",
+  "owner": "labsevo",
+  "private": false,
+  "html_url": "https://github.com/labsevo/slack-time-bot",
+  "description": " slack bot for logging availability time of team members. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/labsevo/slack-time-bot",
+  "languages_url": "https://api.github.com/repos/labsevo/slack-time-bot/languages",
+  "pulls_url": "https://api.github.com/repos/labsevo/slack-time-bot/pulls{/number}",
+  "created_at": "2016-03-08T21:10:04Z",
+  "updated_at": "2018-03-15T23:03:18Z",
+  "pushed_at": "2018-03-15T23:03:17Z",
+  "homepage": null,
+  "size": 389,
+  "stargazers_count": 3,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "labsevo",
+    "id": 17664880,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3NjY0ODgw",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/17664880?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/labsevo",
+    "html_url": "https://github.com/labsevo",
+    "followers_url": "https://api.github.com/users/labsevo/followers",
+    "following_url": "https://api.github.com/users/labsevo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/labsevo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/labsevo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/labsevo/subscriptions",
+    "organizations_url": "https://api.github.com/users/labsevo/orgs",
+    "repos_url": "https://api.github.com/users/labsevo/repos",
+    "events_url": "https://api.github.com/users/labsevo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/labsevo/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "evexoio": 2,
+    "0xbsec": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 29516,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-11T17:04:55.183Z"
+}

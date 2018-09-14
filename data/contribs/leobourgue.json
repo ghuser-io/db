@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "matt5555/Konsensus": {
+      "full_name": "matt5555/Konsensus",
+      "name": "Konsensus",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 13.333333333333334,
+      "maturity": 0,
+      "total_commits_count": 15,
+      "activity": 0.741826341659908,
+      "total_score": 0.741826341659908,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "leobourgue/hexom": {
+      "full_name": "leobourgue/hexom",
+      "name": "hexom",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 98.57142857142857,
+      "maturity": 2.4802970571810303,
+      "total_commits_count": 70,
+      "activity": 0.6718968660887894,
+      "total_score": 5.63249098045085,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "matt5555/jsgame": {
+      "full_name": "matt5555/jsgame",
+      "name": "jsgame",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 15.789473684210526,
+      "maturity": 0,
+      "total_commits_count": 19,
+      "activity": 0.6062124692040411,
+      "total_score": 0.6062124692040411,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Social-Logins-iOS",
+  "full_name": "imjog/Social-Logins-iOS",
+  "owner": "imjog",
+  "private": false,
+  "html_url": "https://github.com/imjog/Social-Logins-iOS",
+  "description": "Basic app to show how to login with Facebook, Google, Twitter. Created for learning purpose :) using Xcode 9 and Swift 4.0",
+  "fork": false,
+  "url": "https://api.github.com/repos/imjog/Social-Logins-iOS",
+  "languages_url": "https://api.github.com/repos/imjog/Social-Logins-iOS/languages",
+  "pulls_url": "https://api.github.com/repos/imjog/Social-Logins-iOS/pulls{/number}",
+  "created_at": "2018-01-15T19:28:59Z",
+  "updated_at": "2018-07-02T05:05:17Z",
+  "pushed_at": "2018-03-24T18:44:52Z",
+  "homepage": "",
+  "size": 14668,
+  "stargazers_count": 3,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "imjog": 42
+  },
+  "pulls_authors": [
+    "imjog"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 9634,
+      "color": "#ffac45"
+    },
+    "Ruby": {
+      "bytes": 370,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-03T18:26:33.862Z"
+}

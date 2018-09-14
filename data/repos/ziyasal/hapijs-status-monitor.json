@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hapijs-status-monitor",
+  "full_name": "ziyasal/hapijs-status-monitor",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/hapijs-status-monitor",
+  "description": "🚀 Realtime Monitoring solution for Hapi.js apps",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal/hapijs-status-monitor",
+  "languages_url": "https://api.github.com/repos/ziyasal/hapijs-status-monitor/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/hapijs-status-monitor/pulls{/number}",
+  "created_at": "2016-08-19T19:04:12Z",
+  "updated_at": "2018-09-04T05:58:10Z",
+  "pushed_at": "2018-03-31T06:55:25Z",
+  "homepage": "",
+  "size": 736,
+  "stargazers_count": 104,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Wesseldr": 1,
+    "bgardner87": 1,
+    "jbpionnier": 1,
+    "ziyasal": 10,
+    "danielbayerlein": 137
+  },
+  "pulls_authors": [
+    "Wesseldr",
+    "bgardner87",
+    "todvora",
+    "danielbayerlein",
+    "Sniperkillerut",
+    "jbpionnier"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 21962,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 2277,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1135,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:05.930Z"
+}

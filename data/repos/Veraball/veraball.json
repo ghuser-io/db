@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "eska014": 1,
+    "Calinou": 19
+  },
+  "name": "veraball",
+  "full_name": "Veraball/veraball",
+  "owner": "Veraball",
+  "private": false,
+  "html_url": "https://github.com/Veraball/veraball",
+  "description": "A free/libre \"roll the ball\" game made using Godot Engine",
+  "fork": false,
+  "url": "https://api.github.com/repos/Veraball/veraball",
+  "languages_url": "https://api.github.com/repos/Veraball/veraball/languages",
+  "created_at": "2015-11-22T18:03:03Z",
+  "updated_at": "2018-06-20T20:05:38Z",
+  "pushed_at": "2016-02-05T14:02:08Z",
+  "homepage": "",
+  "size": 63676,
+  "stargazers_count": 31,
+  "language": "GDScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "Veraball",
+    "id": 15969517,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1OTY5NTE3",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/15969517?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Veraball",
+    "html_url": "https://github.com/Veraball",
+    "followers_url": "https://api.github.com/users/Veraball/followers",
+    "following_url": "https://api.github.com/users/Veraball/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Veraball/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Veraball/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Veraball/subscriptions",
+    "organizations_url": "https://api.github.com/users/Veraball/orgs",
+    "repos_url": "https://api.github.com/users/Veraball/repos",
+    "events_url": "https://api.github.com/users/Veraball/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Veraball/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "GDScript": {
+      "bytes": 26742,
+      "color": "#355570"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/Veraball/veraball/pulls{/number}",
+  "pulls_authors": [
+    "Hinsbart",
+    "eska014",
+    "DCowboy"
+  ]
+}

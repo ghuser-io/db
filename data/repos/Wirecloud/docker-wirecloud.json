@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docker-wirecloud",
+  "full_name": "Wirecloud/docker-wirecloud",
+  "owner": "Wirecloud",
+  "private": false,
+  "html_url": "https://github.com/Wirecloud/docker-wirecloud",
+  "description": "🐳 Docker Official Image packaging for WireCloud https://conwet.fi.upm.es/wirecloud",
+  "fork": false,
+  "url": "https://api.github.com/repos/Wirecloud/docker-wirecloud",
+  "languages_url": "https://api.github.com/repos/Wirecloud/docker-wirecloud/languages",
+  "pulls_url": "https://api.github.com/repos/Wirecloud/docker-wirecloud/pulls{/number}",
+  "created_at": "2015-07-01T11:58:16Z",
+  "updated_at": "2018-09-10T09:28:20Z",
+  "pushed_at": "2018-09-10T09:28:19Z",
+  "homepage": "",
+  "size": 141,
+  "stargazers_count": 1,
+  "language": "Dockerfile",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "Wirecloud",
+    "id": 931848,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjkzMTg0OA==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/931848?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Wirecloud",
+    "html_url": "https://github.com/Wirecloud",
+    "followers_url": "https://api.github.com/users/Wirecloud/followers",
+    "following_url": "https://api.github.com/users/Wirecloud/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Wirecloud/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Wirecloud/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Wirecloud/subscriptions",
+    "organizations_url": "https://api.github.com/users/Wirecloud/orgs",
+    "repos_url": "https://api.github.com/users/Wirecloud/repos",
+    "events_url": "https://api.github.com/users/Wirecloud/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Wirecloud/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "flopezag": 1,
+    "Mognom": 2,
+    "rockneurotiko": 10,
+    "aarranz": 92
+  },
+  "pulls_authors": [
+    "flopezag",
+    "LordSuricato",
+    "Mognom"
+  ],
+  "languages": {
+    "Dockerfile": {
+      "bytes": 14764,
+      "color": "#0db7ed"
+    },
+    "Shell": {
+      "bytes": 12993,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 10726,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-10T15:11:47.471Z"
+}

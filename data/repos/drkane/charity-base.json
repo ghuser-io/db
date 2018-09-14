@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "charity-base",
+  "full_name": "drkane/charity-base",
+  "owner": "drkane",
+  "private": false,
+  "html_url": "https://github.com/drkane/charity-base",
+  "description": "For creating a database of registered charities in England & Wales and running an API to serve query requests.",
+  "fork": true,
+  "url": "https://api.github.com/repos/drkane/charity-base",
+  "languages_url": "https://api.github.com/repos/drkane/charity-base/languages",
+  "pulls_url": "https://api.github.com/repos/drkane/charity-base/pulls{/number}",
+  "created_at": "2017-02-07T10:17:13Z",
+  "updated_at": "2018-06-18T11:24:13Z",
+  "pushed_at": "2017-07-18T13:53:52Z",
+  "homepage": "http://charitybase.uk",
+  "size": 110,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mhoare": 1,
+    "drkane": 8,
+    "dan-kwiat": 98
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 59550,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T05:01:02.414Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "github-diffs",
+  "full_name": "kamranahmedse/github-diffs",
+  "owner": "kamranahmedse",
+  "private": false,
+  "html_url": "https://github.com/kamranahmedse/github-diffs",
+  "description": "Easier code reviews by collapse/expand diffs in pull requests",
+  "fork": false,
+  "url": "https://api.github.com/repos/kamranahmedse/github-diffs",
+  "languages_url": "https://api.github.com/repos/kamranahmedse/github-diffs/languages",
+  "pulls_url": "https://api.github.com/repos/kamranahmedse/github-diffs/pulls{/number}",
+  "created_at": "2017-08-11T00:30:42Z",
+  "updated_at": "2018-09-05T11:53:42Z",
+  "pushed_at": "2017-08-11T15:13:19Z",
+  "homepage": "https://goo.gl/LCYzwy",
+  "size": 88,
+  "stargazers_count": 34,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": true,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "kamranahmedse": 33
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 5584,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:39.245Z"
+}

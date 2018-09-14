@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sockethub",
+  "full_name": "moul/sockethub",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/sockethub",
+  "description": ":snowflake: generic socket.io server with rooms, useful for fast prototyping",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/sockethub",
+  "languages_url": "https://api.github.com/repos/moul/sockethub/languages",
+  "pulls_url": "https://api.github.com/repos/moul/sockethub/pulls{/number}",
+  "created_at": "2016-01-06T21:31:15Z",
+  "updated_at": "2017-09-14T17:12:25Z",
+  "pushed_at": "2018-08-18T16:14:17Z",
+  "homepage": "http://sockethub.apps.42.am",
+  "size": 1766,
+  "stargazers_count": 2,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 27
+  },
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 7710,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 1958,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:45.684Z"
+}

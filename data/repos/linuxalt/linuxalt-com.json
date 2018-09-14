@@ -1,0 +1,96 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "linuxalt-com",
+  "full_name": "linuxalt/linuxalt-com",
+  "owner": "linuxalt",
+  "private": false,
+  "html_url": "https://github.com/linuxalt/linuxalt-com",
+  "description": "The Linux Alternative Project -- The website.",
+  "fork": false,
+  "url": "https://api.github.com/repos/linuxalt/linuxalt-com",
+  "languages_url": "https://api.github.com/repos/linuxalt/linuxalt-com/languages",
+  "pulls_url": "https://api.github.com/repos/linuxalt/linuxalt-com/pulls{/number}",
+  "created_at": "2013-01-09T01:30:36Z",
+  "updated_at": "2018-08-28T09:56:46Z",
+  "pushed_at": "2018-07-07T11:55:01Z",
+  "homepage": null,
+  "size": 217,
+  "stargazers_count": 61,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "linuxalt",
+    "id": 191933,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5MTkzMw==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/191933?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/linuxalt",
+    "html_url": "https://github.com/linuxalt",
+    "followers_url": "https://api.github.com/users/linuxalt/followers",
+    "following_url": "https://api.github.com/users/linuxalt/following{/other_user}",
+    "gists_url": "https://api.github.com/users/linuxalt/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/linuxalt/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/linuxalt/subscriptions",
+    "organizations_url": "https://api.github.com/users/linuxalt/orgs",
+    "repos_url": "https://api.github.com/users/linuxalt/repos",
+    "events_url": "https://api.github.com/users/linuxalt/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/linuxalt/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "theel0ja": 1,
+    "typoworx-de": 1,
+    "x1yy": 1,
+    "caminostro": 1,
+    "tiberiughioca": 1,
+    "davcri": 1,
+    "daviewales": 1,
+    "ricksebak": 1,
+    "MarkRijckenberg": 1,
+    "vgezer": 1,
+    "mdibaiee": 2,
+    "SanmayJoshi": 5,
+    "human39": 66
+  },
+  "pulls_authors": [
+    "SanmayJoshi",
+    "theel0ja",
+    "JessicaParker",
+    "typoworx-de",
+    "ghost",
+    "caminostro",
+    "tiberiughioca",
+    "davcri",
+    "daviewales",
+    "shinobi-akira",
+    "ricksebak",
+    "MarkRijckenberg",
+    "vgezer",
+    "metamatik",
+    "mdibaiee",
+    "jplatte"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 12082,
+      "color": "#e34c26"
+    },
+    "Ruby": {
+      "bytes": 8051,
+      "color": "#701516"
+    },
+    "CSS": {
+      "bytes": 7970,
+      "color": "#563d7c"
+    },
+    "Liquid": {
+      "bytes": 1270,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:47.431Z"
+}

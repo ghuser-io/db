@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "purescript-estree",
+  "full_name": "paulyoung/purescript-estree",
+  "owner": "paulyoung",
+  "private": false,
+  "html_url": "https://github.com/paulyoung/purescript-estree",
+  "description": "PureScript data types for ESTree.",
+  "fork": false,
+  "url": "https://api.github.com/repos/paulyoung/purescript-estree",
+  "languages_url": "https://api.github.com/repos/paulyoung/purescript-estree/languages",
+  "pulls_url": "https://api.github.com/repos/paulyoung/purescript-estree/pulls{/number}",
+  "created_at": "2016-02-17T08:33:35Z",
+  "updated_at": "2018-02-28T15:57:03Z",
+  "pushed_at": "2016-03-24T23:22:58Z",
+  "homepage": null,
+  "size": 24,
+  "stargazers_count": 3,
+  "language": "PureScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "paulyoung": 21
+  },
+  "pulls_authors": [
+    "paulyoung"
+  ],
+  "languages": {
+    "PureScript": {
+      "bytes": 11885,
+      "color": "#1D222D"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:53.678Z"
+}

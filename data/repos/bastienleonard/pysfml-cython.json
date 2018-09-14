@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pysfml-cython",
+  "full_name": "bastienleonard/pysfml-cython",
+  "owner": "bastienleonard",
+  "private": false,
+  "html_url": "https://github.com/bastienleonard/pysfml-cython",
+  "description": "A Python 2/3 binding for SFML 2, written with Cython",
+  "fork": false,
+  "url": "https://api.github.com/repos/bastienleonard/pysfml-cython",
+  "languages_url": "https://api.github.com/repos/bastienleonard/pysfml-cython/languages",
+  "pulls_url": "https://api.github.com/repos/bastienleonard/pysfml-cython/pulls{/number}",
+  "created_at": "2011-04-10T17:28:12Z",
+  "updated_at": "2018-07-12T04:20:40Z",
+  "pushed_at": "2016-01-03T22:10:48Z",
+  "homepage": "http://pysfml2-cython.readthedocs.org/",
+  "size": 1900,
+  "stargazers_count": 68,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "zakkgcm": 1,
+    "aspidites": 1,
+    "p-h": 1,
+    "BenediktSeidl": 2,
+    "L-P": 3,
+    "mkeeter": 4,
+    "Sonkun": 19,
+    "bastienleonard": 386
+  },
+  "pulls_authors": [
+    "jstasiak",
+    "K900",
+    "Shizmob",
+    "L-P",
+    "aspidites",
+    "zakkgcm",
+    "Sonkun",
+    "BenediktSeidl",
+    "p-h",
+    "mkeeter"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 163847,
+      "color": "#3572A5"
+    },
+    "C++": {
+      "bytes": 16340,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-11T23:08:02.427Z"
+}

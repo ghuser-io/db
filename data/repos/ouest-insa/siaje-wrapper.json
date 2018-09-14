@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "siaje-wrapper",
+  "full_name": "ouest-insa/siaje-wrapper",
+  "owner": "ouest-insa",
+  "private": false,
+  "html_url": "https://github.com/ouest-insa/siaje-wrapper",
+  "description": "An API for SIAJE",
+  "fork": false,
+  "url": "https://api.github.com/repos/ouest-insa/siaje-wrapper",
+  "languages_url": "https://api.github.com/repos/ouest-insa/siaje-wrapper/languages",
+  "pulls_url": "https://api.github.com/repos/ouest-insa/siaje-wrapper/pulls{/number}",
+  "created_at": "2014-12-02T23:36:39Z",
+  "updated_at": "2015-03-20T18:37:12Z",
+  "pushed_at": "2015-03-20T18:37:12Z",
+  "homepage": "",
+  "size": 232,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "ouest-insa",
+    "id": 9293006,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjkyOTMwMDY=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/9293006?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ouest-insa",
+    "html_url": "https://github.com/ouest-insa",
+    "followers_url": "https://api.github.com/users/ouest-insa/followers",
+    "following_url": "https://api.github.com/users/ouest-insa/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ouest-insa/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ouest-insa/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ouest-insa/subscriptions",
+    "organizations_url": "https://api.github.com/users/ouest-insa/orgs",
+    "repos_url": "https://api.github.com/users/ouest-insa/repos",
+    "events_url": "https://api.github.com/users/ouest-insa/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ouest-insa/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "superboum": 20
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 5078,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:23.494Z"
+}

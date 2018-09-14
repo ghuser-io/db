@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "simpledb",
+  "full_name": "rjrodger/simpledb",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/simpledb",
+  "description": "An Amazon AWS SimpleDB library for Node.js that is user-friendly and fault-tolerant",
+  "fork": false,
+  "url": "https://api.github.com/repos/rjrodger/simpledb",
+  "languages_url": "https://api.github.com/repos/rjrodger/simpledb/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/simpledb/pulls{/number}",
+  "created_at": "2011-01-21T01:49:32Z",
+  "updated_at": "2018-07-02T06:13:53Z",
+  "pushed_at": "2017-10-12T20:18:46Z",
+  "homepage": "",
+  "size": 73,
+  "stargazers_count": 143,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "unitof": 1,
+    "ramandeeptrehan": 1,
+    "richorama": 2,
+    "tracend": 19,
+    "rjrodger": 62
+  },
+  "pulls_authors": [
+    "unitof",
+    "ramandeeptrehan",
+    "tracend",
+    "guss77",
+    "richorama",
+    "rightinbox",
+    "aarong",
+    "aomega",
+    "gigq",
+    "yjh0502"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 33852,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:35.640Z"
+}

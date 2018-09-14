@@ -1,0 +1,107 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "elodie",
+  "full_name": "jmathai/elodie",
+  "owner": "jmathai",
+  "private": false,
+  "html_url": "https://github.com/jmathai/elodie",
+  "description": "An EXIF-based photo assistant, organizer and workflow automation tool.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jmathai/elodie",
+  "languages_url": "https://api.github.com/repos/jmathai/elodie/languages",
+  "pulls_url": "https://api.github.com/repos/jmathai/elodie/pulls{/number}",
+  "created_at": "2015-09-09T21:53:43Z",
+  "updated_at": "2018-09-13T12:37:58Z",
+  "pushed_at": "2018-09-03T17:19:04Z",
+  "homepage": "https://bit.ly/introducing-elodie",
+  "size": 3821,
+  "stargazers_count": 510,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "QasimK": 1,
+    "mattca": 1,
+    "rkoster": 1,
+    "petertiedemann": 1,
+    "adamcandy": 1,
+    "adamantike": 1,
+    "edent": 1,
+    "Ramblurr": 1,
+    "davisonio": 1,
+    "arikfr": 1,
+    "zingo": 1,
+    "ibizaman": 1,
+    "patricksan": 1,
+    "ostavnaas": 2,
+    "misterpipine": 2,
+    "srynot4sale": 2,
+    "phifogg": 5,
+    "Kraymer": 9,
+    "zserg": 15,
+    "noonat": 16,
+    "jmathai": 194
+  },
+  "pulls_authors": [
+    "QasimK",
+    "hackacad",
+    "jmathai",
+    "mattca",
+    "rkoster",
+    "petertiedemann",
+    "ojacques",
+    "adamcandy",
+    "ostavnaas",
+    "adamantike",
+    "danwhite85",
+    "bdillahu",
+    "phifogg",
+    "misterpipine",
+    "edent",
+    "zserg",
+    "Ramblurr",
+    "davisonio",
+    "srynot4sale",
+    "noonat",
+    "arikfr",
+    "Kraymer",
+    "zingo",
+    "ibizaman",
+    "patricksan"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 205371,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 17406,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 12517,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 8996,
+      "color": "#e34c26"
+    },
+    "Dockerfile": {
+      "bytes": 1231,
+      "color": "#0db7ed"
+    },
+    "Shell": {
+      "bytes": 89,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T16:36:43.045Z"
+}

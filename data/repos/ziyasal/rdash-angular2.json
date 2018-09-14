@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rdash-angular2",
+  "full_name": "ziyasal/rdash-angular2",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/rdash-angular2",
+  "description": "RDash admin dashboard theme /w AngularJS2 & TypeScript",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal/rdash-angular2",
+  "languages_url": "https://api.github.com/repos/ziyasal/rdash-angular2/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/rdash-angular2/pulls{/number}",
+  "created_at": "2015-10-05T13:39:57Z",
+  "updated_at": "2018-08-03T18:21:28Z",
+  "pushed_at": "2018-03-12T15:12:09Z",
+  "homepage": "https://rdash-angular2.herokuapp.com",
+  "size": 1253,
+  "stargazers_count": 179,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "aayushkapoor206": 3,
+    "ziyasal": 29
+  },
+  "pulls_authors": [
+    "aayushkapoor206"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 13496,
+      "color": "#e34c26"
+    },
+    "TypeScript": {
+      "bytes": 8445,
+      "color": "#2b7489"
+    },
+    "CSS": {
+      "bytes": 950,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 205,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:04.091Z"
+}

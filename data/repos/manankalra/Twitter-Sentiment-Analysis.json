@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Twitter-Sentiment-Analysis",
+  "full_name": "manankalra/Twitter-Sentiment-Analysis",
+  "owner": "manankalra",
+  "private": false,
+  "html_url": "https://github.com/manankalra/Twitter-Sentiment-Analysis",
+  "description": "This project plots live Twitter feed after analyzing it for positive or negative sentiments.",
+  "fork": false,
+  "url": "https://api.github.com/repos/manankalra/Twitter-Sentiment-Analysis",
+  "languages_url": "https://api.github.com/repos/manankalra/Twitter-Sentiment-Analysis/languages",
+  "pulls_url": "https://api.github.com/repos/manankalra/Twitter-Sentiment-Analysis/pulls{/number}",
+  "created_at": "2017-01-14T22:08:58Z",
+  "updated_at": "2017-08-20T20:08:27Z",
+  "pushed_at": "2017-05-26T04:46:24Z",
+  "homepage": "",
+  "size": 2366,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "manankalra": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 32184,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-15T16:07:35.296Z"
+}

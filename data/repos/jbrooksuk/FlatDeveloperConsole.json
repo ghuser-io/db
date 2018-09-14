@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "FlatDeveloperConsole",
+  "full_name": "jbrooksuk/FlatDeveloperConsole",
+  "owner": "jbrooksuk",
+  "private": false,
+  "html_url": "https://github.com/jbrooksuk/FlatDeveloperConsole",
+  "description": "Google Chrome Developer Console with FlatUI Colors",
+  "fork": false,
+  "url": "https://api.github.com/repos/jbrooksuk/FlatDeveloperConsole",
+  "languages_url": "https://api.github.com/repos/jbrooksuk/FlatDeveloperConsole/languages",
+  "pulls_url": "https://api.github.com/repos/jbrooksuk/FlatDeveloperConsole/pulls{/number}",
+  "created_at": "2013-08-15T13:28:07Z",
+  "updated_at": "2015-07-02T22:22:17Z",
+  "pushed_at": "2014-01-10T08:58:02Z",
+  "homepage": null,
+  "size": 336,
+  "stargazers_count": 36,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "denny0223": 1,
+    "jkap": 1,
+    "jbrooksuk": 14
+  },
+  "pulls_authors": [
+    "denny0223",
+    "jkap"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 13503,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:59.049Z"
+}

@@ -1,0 +1,93 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pywikibot-externals-httplib2",
+  "full_name": "wikimedia/pywikibot-externals-httplib2",
+  "owner": "wikimedia",
+  "private": false,
+  "html_url": "https://github.com/wikimedia/pywikibot-externals-httplib2",
+  "description": "Github mirror of \"pywikibot/externals/httplib2\" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing",
+  "fork": false,
+  "url": "https://api.github.com/repos/wikimedia/pywikibot-externals-httplib2",
+  "languages_url": "https://api.github.com/repos/wikimedia/pywikibot-externals-httplib2/languages",
+  "pulls_url": "https://api.github.com/repos/wikimedia/pywikibot-externals-httplib2/pulls{/number}",
+  "created_at": "2013-08-26T09:13:28Z",
+  "updated_at": "2015-02-06T08:11:11Z",
+  "pushed_at": "2015-08-28T03:58:40Z",
+  "homepage": null,
+  "size": 3784,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "wikimedia",
+    "id": 56668,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjU2NjY4",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/56668?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/wikimedia",
+    "html_url": "https://github.com/wikimedia",
+    "followers_url": "https://api.github.com/users/wikimedia/followers",
+    "following_url": "https://api.github.com/users/wikimedia/following{/other_user}",
+    "gists_url": "https://api.github.com/users/wikimedia/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/wikimedia/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/wikimedia/subscriptions",
+    "organizations_url": "https://api.github.com/users/wikimedia/orgs",
+    "repos_url": "https://api.github.com/users/wikimedia/repos",
+    "events_url": "https://api.github.com/users/wikimedia/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/wikimedia/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "cganterh": 1,
+    "i026e": 1,
+    "micolous": 1,
+    "jone": 1,
+    "snarfed": 2,
+    "cdent": 2,
+    "djc": 2,
+    "jayvdb": 3,
+    "alainv": 4,
+    "valhallasw": 6,
+    "jaraco": 20,
+    "durin42": 20,
+    "jcgregorio": 195
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 326414,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 68724,
+      "color": "#e34c26"
+    },
+    "TeX": {
+      "bytes": 20241,
+      "color": "#3D6117"
+    },
+    "CSS": {
+      "bytes": 9779,
+      "color": "#563d7c"
+    },
+    "Makefile": {
+      "bytes": 1782,
+      "color": "#427819"
+    },
+    "ApacheConf": {
+      "bytes": 1170,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

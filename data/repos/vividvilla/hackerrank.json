@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hackerrank",
+  "full_name": "vividvilla/hackerrank",
+  "owner": "vividvilla",
+  "private": false,
+  "html_url": "https://github.com/vividvilla/hackerrank",
+  "description": "Solutions to HackerRank problems.",
+  "fork": false,
+  "url": "https://api.github.com/repos/vividvilla/hackerrank",
+  "languages_url": "https://api.github.com/repos/vividvilla/hackerrank/languages",
+  "pulls_url": "https://api.github.com/repos/vividvilla/hackerrank/pulls{/number}",
+  "created_at": "2013-03-07T14:14:13Z",
+  "updated_at": "2017-10-25T05:24:39Z",
+  "pushed_at": "2017-10-28T07:38:46Z",
+  "homepage": "http://www.hackerrank.com",
+  "size": 24,
+  "stargazers_count": 6,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "poojajain10": 1,
+    "nikki1016": 4,
+    "jcazevedo": 24
+  },
+  "pulls_authors": [
+    "poojajain10",
+    "nikki1016"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 40003,
+      "color": "#f34b7d"
+    },
+    "Makefile": {
+      "bytes": 308,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:15.763Z"
+}

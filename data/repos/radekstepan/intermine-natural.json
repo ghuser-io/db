@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "intermine-natural",
+  "full_name": "radekstepan/intermine-natural",
+  "owner": "radekstepan",
+  "private": false,
+  "html_url": "https://github.com/radekstepan/intermine-natural",
+  "description": "Natural Language User Interface for InterMine models",
+  "fork": false,
+  "url": "https://api.github.com/repos/radekstepan/intermine-natural",
+  "languages_url": "https://api.github.com/repos/radekstepan/intermine-natural/languages",
+  "pulls_url": "https://api.github.com/repos/radekstepan/intermine-natural/pulls{/number}",
+  "created_at": "2012-08-03T15:56:34Z",
+  "updated_at": "2017-11-19T13:08:43Z",
+  "pushed_at": "2017-11-19T13:08:42Z",
+  "homepage": null,
+  "size": 596,
+  "stargazers_count": 2,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mortonfox": 1,
+    "radekstepan": 64
+  },
+  "pulls_authors": [
+    "mortonfox"
+  ],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 10227,
+      "color": "#244776"
+    },
+    "CSS": {
+      "bytes": 9179,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 8478,
+      "color": "#e34c26"
+    },
+    "Prolog": {
+      "bytes": 2659,
+      "color": "#74283c"
+    }
+  },
+  "fetched_at": "2018-09-11T13:50:54.796Z"
+}

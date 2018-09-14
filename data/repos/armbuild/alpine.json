@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "alpine",
+  "full_name": "armbuild/alpine",
+  "owner": "armbuild",
+  "private": false,
+  "html_url": "https://github.com/armbuild/alpine",
+  "description": "ARCH=armhf ./mkimage-alpine.sh",
+  "fork": false,
+  "url": "https://api.github.com/repos/armbuild/alpine",
+  "languages_url": "https://api.github.com/repos/armbuild/alpine/languages",
+  "pulls_url": "https://api.github.com/repos/armbuild/alpine/pulls{/number}",
+  "created_at": "2015-02-13T13:04:09Z",
+  "updated_at": "2017-02-08T21:35:16Z",
+  "pushed_at": "2015-12-09T13:00:32Z",
+  "homepage": null,
+  "size": 6958,
+  "stargazers_count": 11,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "armbuild",
+    "id": 10008422,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwMDA4NDIy",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/10008422?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/armbuild",
+    "html_url": "https://github.com/armbuild",
+    "followers_url": "https://api.github.com/users/armbuild/followers",
+    "following_url": "https://api.github.com/users/armbuild/following{/other_user}",
+    "gists_url": "https://api.github.com/users/armbuild/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/armbuild/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/armbuild/subscriptions",
+    "organizations_url": "https://api.github.com/users/armbuild/orgs",
+    "repos_url": "https://api.github.com/users/armbuild/repos",
+    "events_url": "https://api.github.com/users/armbuild/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/armbuild/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "moul": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 1613,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:16.968Z"
+}

@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "GoTree",
+  "full_name": "DiSiqueira/GoTree",
+  "owner": "DiSiqueira",
+  "private": false,
+  "html_url": "https://github.com/DiSiqueira/GoTree",
+  "description": "A Tree printer module written in GoLang",
+  "fork": false,
+  "url": "https://api.github.com/repos/DiSiqueira/GoTree",
+  "languages_url": "https://api.github.com/repos/DiSiqueira/GoTree/languages",
+  "created_at": "2017-01-16T03:17:17Z",
+  "updated_at": "2018-09-10T19:17:14Z",
+  "pushed_at": "2018-09-07T14:57:32Z",
+  "homepage": "https://disiqueira.github.io/GoTree/",
+  "size": 44,
+  "stargazers_count": 78,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "shivamMg": 1,
+    "jaroslaw-bochniak": 2,
+    "DiSiqueira": 18,
+    "Konstantin8105": 2
+  },
+  "languages": {
+    "Go": {
+      "bytes": 2283,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-10T21:33:28.332Z",
+  "pulls_url": "https://api.github.com/repos/DiSiqueira/GoTree/pulls{/number}",
+  "pulls_authors": [
+    "shivamMg",
+    "DiSiqueira",
+    "jaroslaw-bochniak",
+    "tobikris",
+    "Konstantin8105"
+  ]
+}

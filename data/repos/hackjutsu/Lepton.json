@@ -1,0 +1,82 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "rawrmonstar": 1,
+    "ArLEquiN64": 1,
+    "Calinou": 1,
+    "rogersachan": 1,
+    "tonyxu-io": 2,
+    "Gisonrg": 2,
+    "lcgforever": 2,
+    "meilinz": 5,
+    "YYSU": 3,
+    "wujysh": 13,
+    "DNLHC": 15,
+    "hackjutsu": 341,
+    "ImgBotApp": 1,
+    "baybatu": 2,
+    "samuelmeuli": 1
+  },
+  "name": "Lepton",
+  "full_name": "hackjutsu/Lepton",
+  "owner": "hackjutsu",
+  "private": false,
+  "html_url": "https://github.com/hackjutsu/Lepton",
+  "description": "💻    Democratizing Snippet Management (macOS/Win/Linux)",
+  "fork": false,
+  "url": "https://api.github.com/repos/hackjutsu/Lepton",
+  "languages_url": "https://api.github.com/repos/hackjutsu/Lepton/languages",
+  "created_at": "2016-12-30T22:29:25Z",
+  "updated_at": "2018-09-14T07:59:07Z",
+  "pushed_at": "2018-09-05T14:23:04Z",
+  "homepage": "http://hackjutsu.com/Lepton",
+  "size": 31314,
+  "stargazers_count": 4094,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "languages": {
+    "JavaScript": {
+      "bytes": 152354,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 36005,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 348,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-14T08:23:15.949Z",
+  "pulls_url": "https://api.github.com/repos/hackjutsu/Lepton/pulls{/number}",
+  "pulls_authors": [
+    "imgbot[bot]",
+    "tonyxu-io",
+    "flyudvik",
+    "rawrmonstar",
+    "popey",
+    "ArLEquiN64",
+    "Gisonrg",
+    "cixuuz",
+    "DNLHC",
+    "YYSU",
+    "hackjutsu",
+    "lcgforever",
+    "wujysh",
+    "meilinz",
+    "Calinou",
+    "rogersachan",
+    "baybatu",
+    "samuelmeuli"
+  ]
+}

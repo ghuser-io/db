@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cachet-status",
+  "full_name": "gohiring/cachet-status",
+  "owner": "gohiring",
+  "private": false,
+  "html_url": "https://github.com/gohiring/cachet-status",
+  "description": "Build your own CachetHQ status widget",
+  "fork": false,
+  "url": "https://api.github.com/repos/gohiring/cachet-status",
+  "languages_url": "https://api.github.com/repos/gohiring/cachet-status/languages",
+  "pulls_url": "https://api.github.com/repos/gohiring/cachet-status/pulls{/number}",
+  "created_at": "2015-05-25T16:41:20Z",
+  "updated_at": "2018-04-13T02:42:50Z",
+  "pushed_at": "2017-01-16T13:45:43Z",
+  "homepage": "http://gohiring.github.io/cachet-status",
+  "size": 8,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "gohiring",
+    "id": 2284717,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIyODQ3MTc=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/2284717?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/gohiring",
+    "html_url": "https://github.com/gohiring",
+    "followers_url": "https://api.github.com/users/gohiring/followers",
+    "following_url": "https://api.github.com/users/gohiring/following{/other_user}",
+    "gists_url": "https://api.github.com/users/gohiring/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/gohiring/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/gohiring/subscriptions",
+    "organizations_url": "https://api.github.com/users/gohiring/orgs",
+    "repos_url": "https://api.github.com/users/gohiring/repos",
+    "events_url": "https://api.github.com/users/gohiring/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/gohiring/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jbrooksuk": 1,
+    "Jacoblw": 1,
+    "soulim": 7
+  },
+  "pulls_authors": [
+    "soulim",
+    "jbrooksuk",
+    "jacobleonw"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1906,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T05:04:19.973Z"
+}

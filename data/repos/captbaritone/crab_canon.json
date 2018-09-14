@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "crab_canon",
+  "full_name": "captbaritone/crab_canon",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/crab_canon",
+  "description": "The Crab Cannon from J.S. Bach's The Musical Offering",
+  "fork": false,
+  "url": "https://api.github.com/repos/captbaritone/crab_canon",
+  "languages_url": "https://api.github.com/repos/captbaritone/crab_canon/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/crab_canon/pulls{/number}",
+  "created_at": "2015-10-26T17:52:42Z",
+  "updated_at": "2018-07-29T22:00:26Z",
+  "pushed_at": "2015-10-26T18:42:55Z",
+  "homepage": "",
+  "size": 124,
+  "stargazers_count": 1,
+  "language": "LilyPond",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "LilyPond": {
+      "bytes": 953,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:40.616Z"
+}

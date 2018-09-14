@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dracula-messenger",
+  "full_name": "ppartarr/dracula-messenger",
+  "owner": "ppartarr",
+  "private": false,
+  "html_url": "https://github.com/ppartarr/dracula-messenger",
+  "description": "😱 A dark theme chrome extension for Messenger",
+  "fork": false,
+  "url": "https://api.github.com/repos/ppartarr/dracula-messenger",
+  "languages_url": "https://api.github.com/repos/ppartarr/dracula-messenger/languages",
+  "created_at": "2018-01-17T21:47:01Z",
+  "updated_at": "2018-06-26T11:23:26Z",
+  "pushed_at": "2018-04-09T21:34:06Z",
+  "homepage": "https://chrome.google.com/webstore/detail/dracula-theme-for-messeng/ijphgphffpboghbejdbjjoddacphjafh",
+  "size": 245,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "AurelienLourot": 1,
+    "ktzr": 1,
+    "ppartarr": 12
+  },
+  "languages": {
+    "CSS": {
+      "bytes": 17865,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 1969,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/ppartarr/dracula-messenger/pulls{/number}",
+  "pulls_authors": [
+    "AurelienLourot",
+    "ktzr"
+  ]
+}

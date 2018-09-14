@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "grid_game",
+  "full_name": "AJFaraday/grid_game",
+  "owner": "AJFaraday",
+  "private": false,
+  "html_url": "https://github.com/AJFaraday/grid_game",
+  "description": "A game, on a grid.",
+  "fork": false,
+  "url": "https://api.github.com/repos/AJFaraday/grid_game",
+  "languages_url": "https://api.github.com/repos/AJFaraday/grid_game/languages",
+  "pulls_url": "https://api.github.com/repos/AJFaraday/grid_game/pulls{/number}",
+  "created_at": "2016-08-13T18:33:05Z",
+  "updated_at": "2016-11-12T02:26:00Z",
+  "pushed_at": "2018-08-31T20:37:40Z",
+  "homepage": null,
+  "size": 94,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Drookoo": 1,
+    "dvberkel": 1,
+    "Gadgetoid": 3,
+    "AJFaraday": 36
+  },
+  "pulls_authors": [
+    "Drookoo",
+    "AJFaraday",
+    "Gadgetoid",
+    "dvberkel"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 18775,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 3133,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 2027,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:12.059Z"
+}

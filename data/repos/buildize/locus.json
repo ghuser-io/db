@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "locus",
+  "full_name": "buildize/locus",
+  "owner": "buildize",
+  "private": false,
+  "html_url": "https://github.com/buildize/locus",
+  "description": "Locus is a debugging module for node.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/buildize/locus",
+  "languages_url": "https://api.github.com/repos/buildize/locus/languages",
+  "pulls_url": "https://api.github.com/repos/buildize/locus/pulls{/number}",
+  "created_at": "2013-12-11T13:17:01Z",
+  "updated_at": "2018-09-09T17:18:30Z",
+  "pushed_at": "2017-11-07T10:25:24Z",
+  "homepage": "",
+  "size": 141,
+  "stargazers_count": 250,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "buildize",
+    "id": 5767822,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjU3Njc4MjI=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/5767822?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/buildize",
+    "html_url": "https://github.com/buildize",
+    "followers_url": "https://api.github.com/users/buildize/followers",
+    "following_url": "https://api.github.com/users/buildize/following{/other_user}",
+    "gists_url": "https://api.github.com/users/buildize/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/buildize/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/buildize/subscriptions",
+    "organizations_url": "https://api.github.com/users/buildize/orgs",
+    "repos_url": "https://api.github.com/users/buildize/repos",
+    "events_url": "https://api.github.com/users/buildize/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/buildize/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Liampronan": 1,
+    "Offirmo": 1,
+    "mdibaiee": 3,
+    "alidavut": 31
+  },
+  "pulls_authors": [
+    "glenpike",
+    "rgrannell1",
+    "slavaGanzin",
+    "mdibaiee",
+    "Liampronan",
+    "Offirmo"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 4782,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:44.251Z"
+}

@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "LitterPower",
+  "full_name": "pcastine-lp/LitterPower",
+  "owner": "pcastine-lp",
+  "private": false,
+  "html_url": "https://github.com/pcastine-lp/LitterPower",
+  "description": "Source Code for Litter Power",
+  "fork": false,
+  "url": "https://api.github.com/repos/pcastine-lp/LitterPower",
+  "languages_url": "https://api.github.com/repos/pcastine-lp/LitterPower/languages",
+  "pulls_url": "https://api.github.com/repos/pcastine-lp/LitterPower/pulls{/number}",
+  "created_at": "2016-04-22T10:22:00Z",
+  "updated_at": "2018-09-05T00:21:04Z",
+  "pushed_at": "2017-07-11T13:33:12Z",
+  "homepage": null,
+  "size": 1026,
+  "stargazers_count": 8,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 1,
+    "pcastine-lp": 19
+  },
+  "pulls_authors": [
+    "jcelerier",
+    "pcastine-lp"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 2082760,
+      "color": "#555555"
+    },
+    "Rebol": {
+      "bytes": 317959,
+      "color": "#358a5b"
+    },
+    "R": {
+      "bytes": 217280,
+      "color": "#198CE7"
+    },
+    "Objective-C": {
+      "bytes": 13891,
+      "color": "#438eff"
+    },
+    "Shell": {
+      "bytes": 2699,
+      "color": "#89e051"
+    },
+    "C++": {
+      "bytes": 804,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:48.409Z"
+}

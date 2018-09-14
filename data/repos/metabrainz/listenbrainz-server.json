@@ -1,0 +1,142 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "listenbrainz-server",
+  "full_name": "metabrainz/listenbrainz-server",
+  "owner": "metabrainz",
+  "private": false,
+  "html_url": "https://github.com/metabrainz/listenbrainz-server",
+  "description": "Server for the ListenBrainz project",
+  "fork": false,
+  "url": "https://api.github.com/repos/metabrainz/listenbrainz-server",
+  "languages_url": "https://api.github.com/repos/metabrainz/listenbrainz-server/languages",
+  "pulls_url": "https://api.github.com/repos/metabrainz/listenbrainz-server/pulls{/number}",
+  "created_at": "2015-09-05T12:30:49Z",
+  "updated_at": "2018-09-12T15:31:51Z",
+  "pushed_at": "2018-09-05T08:41:00Z",
+  "homepage": "https://listenbrainz.org/",
+  "size": 3111,
+  "stargazers_count": 196,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "metabrainz",
+    "id": 293421,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI5MzQyMQ==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/293421?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/metabrainz",
+    "html_url": "https://github.com/metabrainz",
+    "followers_url": "https://api.github.com/users/metabrainz/followers",
+    "following_url": "https://api.github.com/users/metabrainz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/metabrainz/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/metabrainz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/metabrainz/subscriptions",
+    "organizations_url": "https://api.github.com/users/metabrainz/orgs",
+    "repos_url": "https://api.github.com/users/metabrainz/repos",
+    "events_url": "https://api.github.com/users/metabrainz/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/metabrainz/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mzfr": 1,
+    "ocharles": 1,
+    "anshuman73": 1,
+    "ferbncode": 1,
+    "samarth": 1,
+    "warpr": 1,
+    "LordSputnik": 1,
+    "philgyford": 1,
+    "samphippen": 1,
+    "reosarevok": 2,
+    "hughrawlinson": 2,
+    "kori": 3,
+    "dpmittal": 3,
+    "Freso": 4,
+    "mwiencek": 6,
+    "russss": 6,
+    "naiveai": 7,
+    "LeoVerto": 8,
+    "mineo": 20,
+    "jwflory": 21,
+    "kartikeyaSh": 22,
+    "Uditgulati": 23,
+    "RJ": 29,
+    "alastair": 80,
+    "gentlecat": 99,
+    "pinkeshbadjatiya": 152,
+    "mayhem": 450,
+    "paramsingh": 649
+  },
+  "pulls_authors": [
+    "kori",
+    "paramsingh",
+    "jwflory",
+    "alastair",
+    "LeoVerto",
+    "mayhem",
+    "Uditgulati",
+    "kartikeyaSh",
+    "mzfr",
+    "mikhailyumanov",
+    "mineo",
+    "ghost",
+    "mwiencek",
+    "ocharles",
+    "phinjensen",
+    "anshuman73",
+    "dpmittal",
+    "ferbncode",
+    "samarth",
+    "pinkeshbadjatiya",
+    "gentlecat",
+    "reosarevok",
+    "tallicamike",
+    "warpr",
+    "LordSputnik",
+    "clinty",
+    "philgyford",
+    "Freso",
+    "russss"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 472660,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 229464,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 43337,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 28976,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 15542,
+      "color": "#89e051"
+    },
+    "PLpgSQL": {
+      "bytes": 12034,
+      "color": "#ccc"
+    },
+    "Dockerfile": {
+      "bytes": 2120,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-12T15:52:48.216Z"
+}

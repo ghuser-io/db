@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "MotionBook",
+  "full_name": "younatics/MotionBook",
+  "owner": "younatics",
+  "private": false,
+  "html_url": "https://github.com/younatics/MotionBook",
+  "description": "📖 Awesome iOS UI/UX Application (Open Source)",
+  "fork": false,
+  "url": "https://api.github.com/repos/younatics/MotionBook",
+  "languages_url": "https://api.github.com/repos/younatics/MotionBook/languages",
+  "pulls_url": "https://api.github.com/repos/younatics/MotionBook/pulls{/number}",
+  "created_at": "2017-02-09T12:59:27Z",
+  "updated_at": "2018-09-13T12:17:07Z",
+  "pushed_at": "2018-08-06T00:49:22Z",
+  "homepage": "https://www.facebook.com/MotionBookiOS",
+  "size": 268023,
+  "stargazers_count": 1165,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "shoheiyokoyama": 1,
+    "cruisediary": 1,
+    "imjog": 2,
+    "younatics": 175
+  },
+  "pulls_authors": [
+    "imjog",
+    "shoheiyokoyama",
+    "cruisediary",
+    "ReadmeCritic"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 2506,
+      "color": "#ffac45"
+    }
+  },
+  "fetched_at": "2018-09-13T16:33:26.329Z"
+}

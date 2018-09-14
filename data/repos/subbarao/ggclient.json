@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ggclient",
+  "full_name": "subbarao/ggclient",
+  "owner": "subbarao",
+  "private": false,
+  "html_url": "https://github.com/subbarao/ggclient",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/subbarao/ggclient",
+  "languages_url": "https://api.github.com/repos/subbarao/ggclient/languages",
+  "pulls_url": "https://api.github.com/repos/subbarao/ggclient/pulls{/number}",
+  "created_at": "2012-04-19T15:31:42Z",
+  "updated_at": "2014-04-27T21:06:33Z",
+  "pushed_at": "2012-04-19T20:51:55Z",
+  "homepage": null,
+  "size": 112,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "subbarao": 10
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 17750,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 463,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T10:41:35.830Z"
+}

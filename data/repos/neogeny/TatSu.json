@@ -1,0 +1,100 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "TatSu",
+  "full_name": "neogeny/TatSu",
+  "owner": "neogeny",
+  "private": false,
+  "html_url": "https://github.com/neogeny/TatSu",
+  "description": "竜 TatSu generates Python parsers from grammars in a variation of EBNF",
+  "fork": false,
+  "url": "https://api.github.com/repos/neogeny/TatSu",
+  "languages_url": "https://api.github.com/repos/neogeny/TatSu/languages",
+  "pulls_url": "https://api.github.com/repos/neogeny/TatSu/pulls{/number}",
+  "created_at": "2017-05-02T02:58:58Z",
+  "updated_at": "2018-09-13T05:23:23Z",
+  "pushed_at": "2018-09-12T23:48:23Z",
+  "homepage": "",
+  "size": 511,
+  "stargazers_count": 74,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "neogeny",
+    "id": 28744184,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI4NzQ0MTg0",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/28744184?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/neogeny",
+    "html_url": "https://github.com/neogeny",
+    "followers_url": "https://api.github.com/users/neogeny/followers",
+    "following_url": "https://api.github.com/users/neogeny/following{/other_user}",
+    "gists_url": "https://api.github.com/users/neogeny/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/neogeny/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/neogeny/subscriptions",
+    "organizations_url": "https://api.github.com/users/neogeny/orgs",
+    "repos_url": "https://api.github.com/users/neogeny/repos",
+    "events_url": "https://api.github.com/users/neogeny/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/neogeny/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Victorious3": 1,
+    "hipe": 1,
+    "matsjoyce": 1,
+    "sauerburger": 1,
+    "fcoelho": 1,
+    "azazel75": 1,
+    "gegenschall": 1,
+    "davidchen": 1,
+    "nicholasbishop": 2,
+    "acw1251": 2,
+    "manueljacob": 2,
+    "paulhoule": 2,
+    "r-chaves": 3,
+    "apalala": 327
+  },
+  "pulls_authors": [
+    "supriyo-biswas",
+    "Victorious3",
+    "apalala",
+    "hipe",
+    "mjdominus",
+    "r-chaves",
+    "matsjoyce",
+    "sauerburger",
+    "acw1251",
+    "fcoelho",
+    "nicholasbishop",
+    "azazel75",
+    "davidchen",
+    "gegenschall",
+    "heronils",
+    "manueljacob",
+    "paulhoule"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 270554,
+      "color": "#3572A5"
+    },
+    "Vim script": {
+      "bytes": 2871,
+      "color": "#199f4b"
+    },
+    "Makefile": {
+      "bytes": 1173,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-13T16:40:45.595Z"
+}

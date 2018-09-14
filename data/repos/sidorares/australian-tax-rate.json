@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "australian-tax-rate",
+  "full_name": "sidorares/australian-tax-rate",
+  "owner": "sidorares",
+  "private": false,
+  "html_url": "https://github.com/sidorares/australian-tax-rate",
+  "description": "return tax rate based on annual income",
+  "fork": false,
+  "url": "https://api.github.com/repos/sidorares/australian-tax-rate",
+  "languages_url": "https://api.github.com/repos/sidorares/australian-tax-rate/languages",
+  "pulls_url": "https://api.github.com/repos/sidorares/australian-tax-rate/pulls{/number}",
+  "created_at": "2016-01-25T05:31:35Z",
+  "updated_at": "2016-02-12T00:10:11Z",
+  "pushed_at": "2017-05-01T05:44:37Z",
+  "homepage": null,
+  "size": 3,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sidorares": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1218,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:34.284Z"
+}

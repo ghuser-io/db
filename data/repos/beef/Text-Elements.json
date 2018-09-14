@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Text-Elements",
+  "full_name": "beef/Text-Elements",
+  "owner": "beef",
+  "private": false,
+  "html_url": "https://github.com/beef/Text-Elements",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/beef/Text-Elements",
+  "languages_url": "https://api.github.com/repos/beef/Text-Elements/languages",
+  "pulls_url": "https://api.github.com/repos/beef/Text-Elements/pulls{/number}",
+  "created_at": "2009-06-24T17:42:42Z",
+  "updated_at": "2014-05-12T08:13:22Z",
+  "pushed_at": "2013-07-17T13:33:09Z",
+  "homepage": "",
+  "size": 74,
+  "stargazers_count": 5,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {},
+  "pulls_authors": [
+    "kevTheDev"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 5950,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T13:47:57.570Z"
+}

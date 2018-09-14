@@ -1,0 +1,113 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "c3nav-32c3",
+  "full_name": "c3nav/c3nav-32c3",
+  "owner": "c3nav",
+  "private": false,
+  "html_url": "https://github.com/c3nav/c3nav-32c3",
+  "description": "Legacy c3nav. Indoor navigation for the 32nd Chaos Communication Congress.",
+  "fork": false,
+  "url": "https://api.github.com/repos/c3nav/c3nav-32c3",
+  "languages_url": "https://api.github.com/repos/c3nav/c3nav-32c3/languages",
+  "pulls_url": "https://api.github.com/repos/c3nav/c3nav-32c3/pulls{/number}",
+  "created_at": "2015-12-09T16:24:17Z",
+  "updated_at": "2018-05-01T05:01:53Z",
+  "pushed_at": "2017-09-10T20:48:33Z",
+  "homepage": "https://c3nav.de",
+  "size": 2971,
+  "stargazers_count": 68,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "c3nav",
+    "id": 21039860,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIxMDM5ODYw",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/21039860?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/c3nav",
+    "html_url": "https://github.com/c3nav",
+    "followers_url": "https://api.github.com/users/c3nav/followers",
+    "following_url": "https://api.github.com/users/c3nav/following{/other_user}",
+    "gists_url": "https://api.github.com/users/c3nav/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/c3nav/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/c3nav/subscriptions",
+    "organizations_url": "https://api.github.com/users/c3nav/orgs",
+    "repos_url": "https://api.github.com/users/c3nav/repos",
+    "events_url": "https://api.github.com/users/c3nav/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/c3nav/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "nikos": 1,
+    "phibo23": 1,
+    "pludi": 1,
+    "wldhx": 1,
+    "Thor77": 1,
+    "raimue": 1,
+    "mweinelt": 1,
+    "kantorkel": 1,
+    "NeoFisch": 1,
+    "cynexit": 2,
+    "bronsen": 2,
+    "Profpatsch": 2,
+    "ahorn42": 2,
+    "exi": 3,
+    "TVLuke": 3,
+    "der-michik": 12,
+    "codingcatgirl": 175
+  },
+  "pulls_authors": [
+    "nikos",
+    "tacurran",
+    "der-michik",
+    "warddr",
+    "phibo23",
+    "pludi",
+    "wldhx",
+    "Thor77",
+    "cynexit",
+    "raimue",
+    "exi",
+    "cwolfram",
+    "bronsen",
+    "TVLuke",
+    "kantorkel",
+    "NeoFisch",
+    "Profpatsch",
+    "mweinelt",
+    "ahorn42"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 82291,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 39142,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 20073,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 8815,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 124,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:47.293Z"
+}

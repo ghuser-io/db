@@ -1,0 +1,32 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-wireless-osx",
+  "full_name": "moul/node-wireless-osx",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/node-wireless-osx",
+  "description": "OSX wireless tools wrapper in Node.js. list, view, connect, events",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/node-wireless-osx",
+  "languages_url": "https://api.github.com/repos/moul/node-wireless-osx/languages",
+  "pulls_url": "https://api.github.com/repos/moul/node-wireless-osx/pulls{/number}",
+  "created_at": "2013-01-15T19:50:12Z",
+  "updated_at": "2014-04-29T01:16:07Z",
+  "pushed_at": "2018-08-18T16:09:14Z",
+  "homepage": "https://npmjs.org/package/wireless-osx",
+  "size": 11,
+  "stargazers_count": 2,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 19
+  },
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-05T13:07:52.761Z"
+}

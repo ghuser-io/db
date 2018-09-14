@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "TelegramBlockly",
+  "full_name": "migueltarga/TelegramBlockly",
+  "owner": "migueltarga",
+  "private": false,
+  "html_url": "https://github.com/migueltarga/TelegramBlockly",
+  "description": "Telegram Bot Creator using Visual Language",
+  "fork": false,
+  "url": "https://api.github.com/repos/migueltarga/TelegramBlockly",
+  "languages_url": "https://api.github.com/repos/migueltarga/TelegramBlockly/languages",
+  "pulls_url": "https://api.github.com/repos/migueltarga/TelegramBlockly/pulls{/number}",
+  "created_at": "2016-10-08T15:00:34Z",
+  "updated_at": "2018-04-14T09:52:57Z",
+  "pushed_at": "2017-12-12T02:53:46Z",
+  "homepage": "https://migueltarga.github.io/TelegramBlockly/",
+  "size": 1176,
+  "stargazers_count": 7,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "migueltarga": 20
+  },
+  "pulls_authors": [
+    "alexmoreno",
+    "ocordeiro"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2141251,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 4253,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 2614,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T04:55:56.986Z"
+}

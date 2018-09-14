@@ -1,0 +1,97 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Curry",
+  "full_name": "thoughtbot/Curry",
+  "owner": "thoughtbot",
+  "private": false,
+  "html_url": "https://github.com/thoughtbot/Curry",
+  "description": "Swift implementations for function currying",
+  "fork": false,
+  "url": "https://api.github.com/repos/thoughtbot/Curry",
+  "languages_url": "https://api.github.com/repos/thoughtbot/Curry/languages",
+  "pulls_url": "https://api.github.com/repos/thoughtbot/Curry/pulls{/number}",
+  "created_at": "2015-07-09T18:47:19Z",
+  "updated_at": "2018-09-07T08:19:22Z",
+  "pushed_at": "2018-04-15T16:15:20Z",
+  "homepage": "https://robots.thoughtbot.com/introduction-to-function-currying-in-swift",
+  "size": 95,
+  "stargazers_count": 422,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "thoughtbot",
+    "id": 6183,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxODM=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/6183?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/thoughtbot",
+    "html_url": "https://github.com/thoughtbot",
+    "followers_url": "https://api.github.com/users/thoughtbot/followers",
+    "following_url": "https://api.github.com/users/thoughtbot/following{/other_user}",
+    "gists_url": "https://api.github.com/users/thoughtbot/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/thoughtbot/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/thoughtbot/subscriptions",
+    "organizations_url": "https://api.github.com/users/thoughtbot/orgs",
+    "repos_url": "https://api.github.com/users/thoughtbot/repos",
+    "events_url": "https://api.github.com/users/thoughtbot/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/thoughtbot/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "johnnysay": 1,
+    "toomey8": 1,
+    "tonyd256": 1,
+    "mokagio": 1,
+    "tkohout": 2,
+    "mbrandonw": 2,
+    "paulyoung": 2,
+    "jshier": 3,
+    "nickygerritsen": 4,
+    "ikesyo": 5,
+    "sharplet": 5,
+    "gfontenot": 35
+  },
+  "pulls_authors": [
+    "johnnysay",
+    "zhongwuzw",
+    "tkohout",
+    "toomey8",
+    "jshier",
+    "gfontenot",
+    "ikesyo",
+    "tonyd256",
+    "sharplet",
+    "eliperkins",
+    "mbrandonw",
+    "swizzlr",
+    "renatorodrigues",
+    "nickygerritsen",
+    "paulyoung",
+    "mokagio"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 18403,
+      "color": "#ffac45"
+    },
+    "Ruby": {
+      "bytes": 714,
+      "color": "#701516"
+    },
+    "Objective-C": {
+      "bytes": 481,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:57.399Z"
+}

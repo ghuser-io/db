@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "canmaps",
+  "full_name": "maxired/canmaps",
+  "owner": "maxired",
+  "private": false,
+  "html_url": "https://github.com/maxired/canmaps",
+  "description": "Canvas drawing maps Library",
+  "fork": false,
+  "url": "https://api.github.com/repos/maxired/canmaps",
+  "languages_url": "https://api.github.com/repos/maxired/canmaps/languages",
+  "pulls_url": "https://api.github.com/repos/maxired/canmaps/pulls{/number}",
+  "created_at": "2014-02-08T16:49:30Z",
+  "updated_at": "2014-05-01T02:22:42Z",
+  "pushed_at": "2014-02-08T16:55:50Z",
+  "homepage": null,
+  "size": 132,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "maxired": 3
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T07:36:31.680Z"
+}

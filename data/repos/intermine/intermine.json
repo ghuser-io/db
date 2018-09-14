@@ -1,0 +1,165 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "intermine",
+  "full_name": "intermine/intermine",
+  "owner": "intermine",
+  "private": false,
+  "html_url": "https://github.com/intermine/intermine",
+  "description": "A powerful open source data warehouse system",
+  "fork": false,
+  "url": "https://api.github.com/repos/intermine/intermine",
+  "languages_url": "https://api.github.com/repos/intermine/intermine/languages",
+  "pulls_url": "https://api.github.com/repos/intermine/intermine/pulls{/number}",
+  "created_at": "2012-07-02T10:25:18Z",
+  "updated_at": "2018-09-05T14:25:21Z",
+  "pushed_at": "2018-09-06T16:48:03Z",
+  "homepage": "http://intermine.org",
+  "size": 656436,
+  "stargazers_count": 110,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "dev",
+  "organization": {
+    "login": "intermine",
+    "id": 179399,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3OTM5OQ==",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/179399?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/intermine",
+    "html_url": "https://github.com/intermine",
+    "followers_url": "https://api.github.com/users/intermine/followers",
+    "following_url": "https://api.github.com/users/intermine/following{/other_user}",
+    "gists_url": "https://api.github.com/users/intermine/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/intermine/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/intermine/subscriptions",
+    "organizations_url": "https://api.github.com/users/intermine/orgs",
+    "repos_url": "https://api.github.com/users/intermine/repos",
+    "events_url": "https://api.github.com/users/intermine/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/intermine/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "nuin": 1,
+    "David-Sharkey": 1,
+    "jogoodma": 1,
+    "arremb": 1,
+    "chenyian-nibio": 1,
+    "widdowquinn": 1,
+    "vivekkrish": 3,
+    "cmdcolin": 5,
+    "JoelRichardson": 10,
+    "JoeCarlson": 11,
+    "sneuhaus": 11,
+    "sammyjava": 26,
+    "justinccdev": 34,
+    "rachellyne": 45,
+    "yochannah": 62,
+    "mlyne": 65,
+    "joshkh": 73,
+    "rnsmith": 123,
+    "sergiocontrino": 166,
+    "radekstepan": 962,
+    "boboppie": 1073,
+    "danielabutano": 1133,
+    "alexkalderimis": 3113,
+    "julie-sullivan": 6879
+  },
+  "pulls_authors": [
+    "justinccdev",
+    "nauer",
+    "arunans23",
+    "JoelRichardson",
+    "julie-sullivan",
+    "intermineorg",
+    "sammyjava",
+    "sergiocontrino",
+    "danielabutano",
+    "yochannah",
+    "joshkh",
+    "vivekkrish",
+    "JoeCarlson",
+    "nuin",
+    "scottcain",
+    "David-Sharkey",
+    "cmdcolin",
+    "ghost",
+    "jogoodma",
+    "sneuhaus",
+    "rnsmith",
+    "justincc",
+    "alexkalderimis",
+    "arremb",
+    "widdowquinn",
+    "FlyMine",
+    "radekstepan",
+    "mlyne"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 14046110,
+      "color": "#b07219"
+    },
+    "HTML": {
+      "bytes": 7462067,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 6572443,
+      "color": "#f1e05a"
+    },
+    "Perl": {
+      "bytes": 904240,
+      "color": "#0298c3"
+    },
+    "Roff": {
+      "bytes": 720310,
+      "color": "#ecdebe"
+    },
+    "CSS": {
+      "bytes": 510100,
+      "color": "#563d7c"
+    },
+    "Python": {
+      "bytes": 94711,
+      "color": "#3572A5"
+    },
+    "PHP": {
+      "bytes": 83773,
+      "color": "#4F5D95"
+    },
+    "Perl 6": {
+      "bytes": 59896,
+      "color": "#0000fb"
+    },
+    "GAP": {
+      "bytes": 40388,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 31422,
+      "color": "#89e051"
+    },
+    "ActionScript": {
+      "bytes": 16287,
+      "color": "#882B0F"
+    },
+    "XSLT": {
+      "bytes": 11879,
+      "color": "#EB8CEB"
+    },
+    "Ruby": {
+      "bytes": 6287,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T13:50:56.869Z"
+}

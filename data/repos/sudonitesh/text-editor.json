@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "text-editor",
+  "full_name": "sudonitesh/text-editor",
+  "owner": "sudonitesh",
+  "private": false,
+  "html_url": "https://github.com/sudonitesh/text-editor",
+  "description": "A hosted text-editor that can be used to share the typed text through url and get html code from typed text",
+  "fork": false,
+  "url": "https://api.github.com/repos/sudonitesh/text-editor",
+  "languages_url": "https://api.github.com/repos/sudonitesh/text-editor/languages",
+  "created_at": "2018-07-10T22:49:42Z",
+  "updated_at": "2018-09-07T20:14:20Z",
+  "pushed_at": "2018-07-11T15:52:43Z",
+  "homepage": "https://warm-island-53824.herokuapp.com/",
+  "size": 1253,
+  "stargazers_count": 5,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sudonitesh": 5
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 254347,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 100874,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 22414,
+      "color": "#f1e05a"
+    },
+    "PHP": {
+      "bytes": 2275,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-08T00:08:25.518Z",
+  "pulls_url": "https://api.github.com/repos/sudonitesh/text-editor/pulls{/number}",
+  "pulls_authors": []
+}

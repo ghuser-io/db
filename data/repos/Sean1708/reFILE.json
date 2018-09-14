@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "reFILE",
+  "full_name": "Sean1708/reFILE",
+  "owner": "Sean1708",
+  "private": false,
+  "html_url": "https://github.com/Sean1708/reFILE",
+  "description": "List, rename and delete files using Python-style regex.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Sean1708/reFILE",
+  "languages_url": "https://api.github.com/repos/Sean1708/reFILE/languages",
+  "pulls_url": "https://api.github.com/repos/Sean1708/reFILE/pulls{/number}",
+  "created_at": "2014-03-26T19:23:12Z",
+  "updated_at": "2015-05-19T20:23:03Z",
+  "pushed_at": "2015-10-28T16:52:51Z",
+  "homepage": "",
+  "size": 387,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jayvdb": 1,
+    "Sean1708": 90
+  },
+  "pulls_authors": [
+    "jayvdb"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 27683,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

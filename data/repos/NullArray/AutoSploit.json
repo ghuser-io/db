@@ -1,0 +1,97 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "AutoSploit",
+  "full_name": "NullArray/AutoSploit",
+  "owner": "NullArray",
+  "private": false,
+  "html_url": "https://github.com/NullArray/AutoSploit",
+  "description": "Automated Mass Exploiter",
+  "fork": false,
+  "url": "https://api.github.com/repos/NullArray/AutoSploit",
+  "languages_url": "https://api.github.com/repos/NullArray/AutoSploit/languages",
+  "pulls_url": "https://api.github.com/repos/NullArray/AutoSploit/pulls{/number}",
+  "created_at": "2018-01-30T17:47:18Z",
+  "updated_at": "2018-09-14T08:14:28Z",
+  "pushed_at": "2018-08-01T22:38:53Z",
+  "homepage": null,
+  "size": 283,
+  "stargazers_count": 3218,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "kimocoder": 1,
+    "daedalus": 1,
+    "jesuiscamille": 1,
+    "DrPiggy": 1,
+    "wernight": 1,
+    "Cherishao": 1,
+    "omercnet": 1,
+    "JannisKirschner": 1,
+    "khast3x": 1,
+    "JustinAzoff": 1,
+    "thehappydinoa": 2,
+    "menkar3": 2,
+    "Selora": 3,
+    "atucom": 5,
+    "ehlewis": 5,
+    "NullArray": 45,
+    "Ekultek": 76
+  },
+  "pulls_authors": [
+    "Ekultek",
+    "Selora",
+    "kimocoder",
+    "atucom",
+    "daedalus",
+    "ehlewis",
+    "jesuiscamille",
+    "menkar3",
+    "thehappydinoa",
+    "NullArray",
+    "nobubby",
+    "cclauss",
+    "DrPiggy",
+    "wernight",
+    "Cherishao",
+    "hahwul",
+    "hACkABUS",
+    "obetools",
+    "omercnet",
+    "actus10",
+    "paralax",
+    "ss18",
+    "khast3x",
+    "JannisKirschner",
+    "nma-io",
+    "notpike",
+    "JustinAzoff"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 59870,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 6240,
+      "color": "#89e051"
+    },
+    "Ruby": {
+      "bytes": 948,
+      "color": "#701516"
+    },
+    "Dockerfile": {
+      "bytes": 447,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-14T09:10:25.823Z"
+}

@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "laravel-ember-lightning",
+  "full_name": "b-lab-org/laravel-ember-lightning",
+  "owner": "b-lab-org",
+  "private": false,
+  "html_url": "https://github.com/b-lab-org/laravel-ember-lightning",
+  "description": "A Laravel application to facilitate the Ember lightning deploy strategy.",
+  "fork": false,
+  "url": "https://api.github.com/repos/b-lab-org/laravel-ember-lightning",
+  "languages_url": "https://api.github.com/repos/b-lab-org/laravel-ember-lightning/languages",
+  "pulls_url": "https://api.github.com/repos/b-lab-org/laravel-ember-lightning/pulls{/number}",
+  "created_at": "2016-08-05T17:49:02Z",
+  "updated_at": "2017-03-21T17:30:39Z",
+  "pushed_at": "2017-09-19T20:18:07Z",
+  "homepage": null,
+  "size": 93,
+  "stargazers_count": 1,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "b-lab-org",
+    "id": 16152600,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2MTUyNjAw",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/16152600?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/b-lab-org",
+    "html_url": "https://github.com/b-lab-org",
+    "followers_url": "https://api.github.com/users/b-lab-org/followers",
+    "following_url": "https://api.github.com/users/b-lab-org/following{/other_user}",
+    "gists_url": "https://api.github.com/users/b-lab-org/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/b-lab-org/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/b-lab-org/subscriptions",
+    "organizations_url": "https://api.github.com/users/b-lab-org/orgs",
+    "repos_url": "https://api.github.com/users/b-lab-org/repos",
+    "events_url": "https://api.github.com/users/b-lab-org/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/b-lab-org/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "zkrzyzanowski": 1,
+    "cotsog": 1,
+    "jvitelli": 2,
+    "jonpitch": 11
+  },
+  "pulls_authors": [
+    "jonpitch",
+    "zkrzyzanowski",
+    "jvitelli",
+    "cotsog"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 256422,
+      "color": "#4F5D95"
+    },
+    "Shell": {
+      "bytes": 4348,
+      "color": "#89e051"
+    },
+    "Nginx": {
+      "bytes": 375,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-11T17:08:28.445Z"
+}

@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Flakebook",
+  "full_name": "synth/Flakebook",
+  "owner": "synth",
+  "private": false,
+  "html_url": "https://github.com/synth/Flakebook",
+  "description": "Sync flickr photos to facebook",
+  "fork": false,
+  "url": "https://api.github.com/repos/synth/Flakebook",
+  "languages_url": "https://api.github.com/repos/synth/Flakebook/languages",
+  "pulls_url": "https://api.github.com/repos/synth/Flakebook/pulls{/number}",
+  "created_at": "2012-03-15T18:48:10Z",
+  "updated_at": "2014-02-04T04:30:10Z",
+  "pushed_at": "2012-04-02T09:51:41Z",
+  "homepage": "",
+  "size": 368,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "bgentry": 1,
+    "npverni": 1,
+    "mortenbagai": 1,
+    "daneharrigan": 3,
+    "adamwiggins": 3,
+    "pedro": 9,
+    "schneems": 14,
+    "synth": 46
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 34293,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 463,
+      "color": "#f1e05a"
+    },
+    "CoffeeScript": {
+      "bytes": 458,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-11T23:12:21.961Z"
+}

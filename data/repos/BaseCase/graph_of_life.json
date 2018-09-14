@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "graph_of_life",
+  "full_name": "BaseCase/graph_of_life",
+  "owner": "BaseCase",
+  "private": false,
+  "html_url": "https://github.com/BaseCase/graph_of_life",
+  "description": "Bookmarklet that turns your Github contributions streak graph into Conway's Game of Life",
+  "fork": false,
+  "url": "https://api.github.com/repos/BaseCase/graph_of_life",
+  "languages_url": "https://api.github.com/repos/BaseCase/graph_of_life/languages",
+  "pulls_url": "https://api.github.com/repos/BaseCase/graph_of_life/pulls{/number}",
+  "created_at": "2016-03-20T01:27:53Z",
+  "updated_at": "2017-02-18T16:23:03Z",
+  "pushed_at": "2017-03-21T12:37:35Z",
+  "homepage": null,
+  "size": 89,
+  "stargazers_count": 23,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 1,
+    "BaseCase": 12
+  },
+  "pulls_authors": [
+    "captbaritone"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 3262,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 3171,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:37.097Z"
+}

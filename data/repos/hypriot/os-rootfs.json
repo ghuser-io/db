@@ -1,0 +1,94 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "os-rootfs",
+  "full_name": "hypriot/os-rootfs",
+  "owner": "hypriot",
+  "private": false,
+  "html_url": "https://github.com/hypriot/os-rootfs",
+  "description": "The root filesystem of HypriotOS",
+  "fork": false,
+  "url": "https://api.github.com/repos/hypriot/os-rootfs",
+  "languages_url": "https://api.github.com/repos/hypriot/os-rootfs/languages",
+  "pulls_url": "https://api.github.com/repos/hypriot/os-rootfs/pulls{/number}",
+  "created_at": "2016-01-06T17:01:09Z",
+  "updated_at": "2018-08-21T09:43:38Z",
+  "pushed_at": "2018-05-29T21:27:01Z",
+  "homepage": "http://blog.hypriot.com/post/how-to-get-docker-working-on-your-favourite-arm-board-with-hypriotos/",
+  "size": 115,
+  "stargazers_count": 49,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "hypriot",
+    "id": 10440767,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNDQwNzY3",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/10440767?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hypriot",
+    "html_url": "https://github.com/hypriot",
+    "followers_url": "https://api.github.com/users/hypriot/followers",
+    "following_url": "https://api.github.com/users/hypriot/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hypriot/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hypriot/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hypriot/subscriptions",
+    "organizations_url": "https://api.github.com/users/hypriot/orgs",
+    "repos_url": "https://api.github.com/users/hypriot/repos",
+    "events_url": "https://api.github.com/users/hypriot/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hypriot/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "MathiasRenner": 1,
+    "apophis90": 1,
+    "whatever4711": 1,
+    "damiencaselli": 1,
+    "MattMacs": 1,
+    "moul": 1,
+    "djmaze": 1,
+    "glensc": 2,
+    "firecyberice": 25,
+    "Govinda-Fichtner": 26,
+    "StefanScherer": 36,
+    "DieterReuter": 41
+  },
+  "pulls_authors": [
+    "StefanScherer",
+    "ecliptik",
+    "DieterReuter",
+    "glensc",
+    "firecyberice",
+    "apophis90",
+    "whatever4711",
+    "damiencaselli",
+    "MattMacs",
+    "moul",
+    "Govinda-Fichtner",
+    "hypriot",
+    "djmaze"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 9665,
+      "color": "#89e051"
+    },
+    "Ruby": {
+      "bytes": 2662,
+      "color": "#701516"
+    },
+    "Makefile": {
+      "bytes": 1932,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:56.900Z"
+}

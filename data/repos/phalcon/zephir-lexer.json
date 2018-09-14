@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "zephir-lexer",
+  "full_name": "phalcon/zephir-lexer",
+  "owner": "phalcon",
+  "private": false,
+  "html_url": "https://github.com/phalcon/zephir-lexer",
+  "description": "Zephir Lexer for Pygments",
+  "fork": false,
+  "url": "https://api.github.com/repos/phalcon/zephir-lexer",
+  "languages_url": "https://api.github.com/repos/phalcon/zephir-lexer/languages",
+  "pulls_url": "https://api.github.com/repos/phalcon/zephir-lexer/pulls{/number}",
+  "created_at": "2014-01-20T23:39:47Z",
+  "updated_at": "2018-04-19T20:49:15Z",
+  "pushed_at": "2015-05-26T12:47:27Z",
+  "homepage": null,
+  "size": 201,
+  "stargazers_count": 6,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "phalcon",
+    "id": 1221505,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMjE1MDU=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1221505?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/phalcon",
+    "html_url": "https://github.com/phalcon",
+    "followers_url": "https://api.github.com/users/phalcon/followers",
+    "following_url": "https://api.github.com/users/phalcon/following{/other_user}",
+    "gists_url": "https://api.github.com/users/phalcon/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/phalcon/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/phalcon/subscriptions",
+    "organizations_url": "https://api.github.com/users/phalcon/orgs",
+    "repos_url": "https://api.github.com/users/phalcon/repos",
+    "events_url": "https://api.github.com/users/phalcon/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/phalcon/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ovr": 1,
+    "andresgutierrez": 3
+  },
+  "pulls_authors": [
+    "ovr",
+    "andresgutierrez"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 4109,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:52.692Z"
+}

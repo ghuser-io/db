@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "vithalreddy",
+  "ghuser_created_at": "2018-09-11T17:51:38.220Z",
+  "avatar_url": "https://avatars3.githubusercontent.com/u/7788819?v=4",
+  "html_url": "https://github.com/vithalreddy",
+  "organizations_url": "https://api.github.com/users/vithalreddy/orgs",
+  "repos_url": "https://api.github.com/users/vithalreddy/repos",
+  "type": "User",
+  "name": "Vithalreddy.M.B",
+  "company": null,
+  "blog": "https://stackfame.com",
+  "location": "Bengaluru",
+  "email": "vmreddyvmb@gmail.com",
+  "bio": "I'm Tech Guy and Web Developer",
+  "public_gists": 9,
+  "created_at": "2014-06-04T04:00:41Z",
+  "updated_at": "2018-09-06T14:27:26Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:18:34.711Z",
+    "repos": [
+      "vithalreddy/node-mailin",
+      "vithalreddy/prackr-docs",
+      "ishanjain28/s3-mongo-backup",
+      "prackr/adminApp",
+      "vithalreddy/js-algorithms",
+      "vithalreddy/nodeJS-socketIO-chat-app",
+      "vithalreddy/skillsMeterified",
+      "vithalreddy/editable-html-table-js",
+      "vithalreddy/vithalreddy.github.io",
+      "vithalreddy/helloDesk",
+      "vithalreddy/mean-shop-with-rest-api",
+      "vithalreddy/rest-api-for-blog-app",
+      "vithalreddy/nginx-config-file",
+      "vithalreddy/angularjs-game-of-thrones-anapioficeandfire-spa-app",
+      "vithalreddy/angularjs-epl-footaball-spa-app",
+      "vithalreddy/vithalreddy",
+      "vithalreddy/fb-graph-api-fetch-using-jquery",
+      "vithalreddy/RWD-Design-Patterns"
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "kythe",
+  "full_name": "google/kythe",
+  "owner": "google",
+  "private": false,
+  "html_url": "https://github.com/google/kythe",
+  "description": "Kythe is a pluggable, (mostly) language-agnostic ecosystem for building tools that work with code.",
+  "fork": false,
+  "url": "https://api.github.com/repos/google/kythe",
+  "languages_url": "https://api.github.com/repos/google/kythe/languages",
+  "pulls_url": "https://api.github.com/repos/google/kythe/pulls{/number}",
+  "created_at": "2015-01-13T05:39:06Z",
+  "updated_at": "2018-09-14T04:28:23Z",
+  "pushed_at": "2018-09-14T04:28:21Z",
+  "homepage": "https://kythe.io",
+  "size": 163707,
+  "stargazers_count": 1054,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "google",
+    "id": 1342004,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzNDIwMDQ=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1342004?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/google",
+    "html_url": "https://github.com/google",
+    "followers_url": "https://api.github.com/users/google/followers",
+    "following_url": "https://api.github.com/users/google/following{/other_user}",
+    "gists_url": "https://api.github.com/users/google/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/google/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/google/subscriptions",
+    "organizations_url": "https://api.github.com/users/google/orgs",
+    "repos_url": "https://api.github.com/users/google/repos",
+    "events_url": "https://api.github.com/users/google/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/google/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "edbaunton": 1,
+    "kant": 1,
+    "juliexxia": 1,
+    "LucasSloan": 1,
+    "bzz": 1,
+    "voithos": 1,
+    "mzats": 1,
+    "kamalmarhubi": 1,
+    "philwo": 1,
+    "endobson": 1,
+    "dapengzhang0": 1,
+    "michel-slm": 1,
+    "jeremyroman": 1,
+    "hanwen": 1,
+    "tsl0922": 1,
+    "johnedmonds": 2,
+    "legrosbuffle": 2,
+    "j3parker": 2,
+    "asankah": 2,
+    "juan-chen": 2,
+    "tcnghia": 2,
+    "mhlopko": 3,
+    "pludemann": 3,
+    "jvgogh": 3,
+    "Dominator008": 3,
+    "jdennett": 3,
+    "nbeloglazov": 6,
+    "cushon": 8,
+    "pcc": 8,
+    "ronshapiro": 14,
+    "jrtom": 19,
+    "benjyw": 32,
+    "craigatgoogle": 47,
+    "djrenren": 64,
+    "danielmoy-google": 82,
+    "evmar": 84,
+    "salguarnieri": 144,
+    "shahms": 165,
+    "creachadair": 438,
+    "zrlk": 436,
+    "schroederc": 1038
+  },
+  "pulls_authors": [
+    "creachadair",
+    "salguarnieri",
+    "zrlk",
+    "schroederc",
+    "cushon",
+    "shahms",
+    "bzz",
+    "edbaunton",
+    "danielmoy-google",
+    "mhlopko",
+    "johnedmonds",
+    "kant",
+    "juliexxia",
+    "evmar",
+    "jrtom",
+    "nbeloglazov",
+    "benjyw",
+    "yuikns",
+    "snnn",
+    "legrosbuffle",
+    "MaskRay",
+    "EricCousineau-TRI",
+    "j3parker",
+    "mikedanese",
+    "kamalmarhubi",
+    "philwo",
+    "endobson",
+    "moul",
+    "Dominator008",
+    "tsl0922"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 1596950,
+      "color": "#f34b7d"
+    },
+    "Go": {
+      "bytes": 1513288,
+      "color": "#375eab"
+    },
+    "Java": {
+      "bytes": 736758,
+      "color": "#b07219"
+    },
+    "Python": {
+      "bytes": 445772,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 148740,
+      "color": "#89e051"
+    },
+    "Objective-C": {
+      "bytes": 83383,
+      "color": "#438eff"
+    },
+    "TypeScript": {
+      "bytes": 70858,
+      "color": "#2b7489"
+    },
+    "Clojure": {
+      "bytes": 39110,
+      "color": "#db5855"
+    },
+    "Rust": {
+      "bytes": 37392,
+      "color": "#dea584"
+    },
+    "Smarty": {
+      "bytes": 27566,
+      "color": "#ccc"
+    },
+    "Dockerfile": {
+      "bytes": 16955,
+      "color": "#0db7ed"
+    },
+    "OCaml": {
+      "bytes": 12653,
+      "color": "#3be133"
+    },
+    "CSS": {
+      "bytes": 12239,
+      "color": "#563d7c"
+    },
+    "PHP": {
+      "bytes": 7226,
+      "color": "#4F5D95"
+    },
+    "HTML": {
+      "bytes": 6264,
+      "color": "#e34c26"
+    },
+    "C": {
+      "bytes": 5823,
+      "color": "#555555"
+    },
+    "Lex": {
+      "bytes": 5192,
+      "color": "#DBCA00"
+    },
+    "Yacc": {
+      "bytes": 4832,
+      "color": "#4B6C4B"
+    },
+    "Ruby": {
+      "bytes": 3823,
+      "color": "#701516"
+    },
+    "Mercury": {
+      "bytes": 3099,
+      "color": "#ff2b2b"
+    },
+    "TeX": {
+      "bytes": 2455,
+      "color": "#3D6117"
+    },
+    "JavaScript": {
+      "bytes": 1171,
+      "color": "#f1e05a"
+    },
+    "Makefile": {
+      "bytes": 222,
+      "color": "#427819"
+    },
+    "RenderScript": {
+      "bytes": 73,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-14T08:35:21.070Z"
+}

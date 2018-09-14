@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "susi_kikbot",
+  "full_name": "fossasia/susi_kikbot",
+  "owner": "fossasia",
+  "private": false,
+  "html_url": "https://github.com/fossasia/susi_kikbot",
+  "description": "Susi Kik Bot http://susi.ai",
+  "fork": false,
+  "url": "https://api.github.com/repos/fossasia/susi_kikbot",
+  "languages_url": "https://api.github.com/repos/fossasia/susi_kikbot/languages",
+  "created_at": "2016-10-04T08:15:24Z",
+  "updated_at": "2018-09-14T06:29:45Z",
+  "pushed_at": "2018-06-17T06:09:17Z",
+  "homepage": "",
+  "size": 203,
+  "stargazers_count": 389,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-2.1",
+    "name": "GNU Lesser General Public License v2.1",
+    "spdx_id": "LGPL-2.1",
+    "url": "https://api.github.com/licenses/lgpl-2.1",
+    "node_id": "MDc6TGljZW5zZTEx"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "fossasia",
+    "id": 6295529,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYyOTU1Mjk=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/6295529?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/fossasia",
+    "html_url": "https://github.com/fossasia",
+    "followers_url": "https://api.github.com/users/fossasia/followers",
+    "following_url": "https://api.github.com/users/fossasia/following{/other_user}",
+    "gists_url": "https://api.github.com/users/fossasia/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/fossasia/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/fossasia/subscriptions",
+    "organizations_url": "https://api.github.com/users/fossasia/orgs",
+    "repos_url": "https://api.github.com/users/fossasia/repos",
+    "events_url": "https://api.github.com/users/fossasia/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/fossasia/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "debck": 1,
+    "Manveer695": 1,
+    "mariobehling": 3,
+    "shivenmian": 4,
+    "AliAyub007": 5,
+    "DNS-404": 7,
+    "sch00lb0y": 14
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 3874,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 3619,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T08:26:00.029Z",
+  "pulls_url": "https://api.github.com/repos/fossasia/susi_kikbot/pulls{/number}",
+  "pulls_authors": [
+    "DNS-404",
+    "debck",
+    "Akshat-Jain",
+    "AliAyub007",
+    "Manveer695",
+    "sch00lb0y"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "crawdad",
+  "full_name": "schollz/crawdad",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/crawdad",
+  "description": "Cross-platform persistent and distributed web crawler :crab:",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/crawdad",
+  "languages_url": "https://api.github.com/repos/schollz/crawdad/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/crawdad/pulls{/number}",
+  "created_at": "2017-06-20T01:06:15Z",
+  "updated_at": "2018-08-28T21:06:11Z",
+  "pushed_at": "2018-07-10T22:59:58Z",
+  "homepage": "https://schollz.github.io/crawdad/",
+  "size": 8198,
+  "stargazers_count": 32,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 93
+  },
+  "pulls_authors": [
+    "schollz"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 28317,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:30.962Z"
+}

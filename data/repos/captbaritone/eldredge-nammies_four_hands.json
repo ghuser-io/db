@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "eldredge-nammies_four_hands",
+  "full_name": "captbaritone/eldredge-nammies_four_hands",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/eldredge-nammies_four_hands",
+  "description": "Lilypond engraving of a piano four-hands arrangement of Tom Hollow's bedtime song",
+  "fork": false,
+  "url": "https://api.github.com/repos/captbaritone/eldredge-nammies_four_hands",
+  "languages_url": "https://api.github.com/repos/captbaritone/eldredge-nammies_four_hands/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/eldredge-nammies_four_hands/pulls{/number}",
+  "created_at": "2013-09-19T21:54:30Z",
+  "updated_at": "2018-07-29T22:02:23Z",
+  "pushed_at": "2013-09-19T21:54:48Z",
+  "homepage": null,
+  "size": 104,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 1
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T04:58:44.561Z"
+}

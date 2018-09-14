@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ExtractGoogleImages",
+  "full_name": "ankitjain28may/ExtractGoogleImages",
+  "owner": "ankitjain28may",
+  "private": false,
+  "html_url": "https://github.com/ankitjain28may/ExtractGoogleImages",
+  "description": "Extract Images directly from google by running this script directly in your system.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ankitjain28may/ExtractGoogleImages",
+  "languages_url": "https://api.github.com/repos/ankitjain28may/ExtractGoogleImages/languages",
+  "created_at": "2016-08-10T09:09:04Z",
+  "updated_at": "2018-05-12T23:15:33Z",
+  "pushed_at": "2017-10-26T10:03:03Z",
+  "homepage": null,
+  "size": 10952,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "GitHug": 1,
+    "ankitjain28may": 3
+  },
+  "languages": {
+    "Python": {
+      "bytes": 1216,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/ankitjain28may/ExtractGoogleImages/pulls{/number}",
+  "pulls_authors": [
+    "sambhav2612",
+    "GitHug"
+  ]
+}

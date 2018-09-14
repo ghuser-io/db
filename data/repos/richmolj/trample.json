@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "trample",
+  "full_name": "richmolj/trample",
+  "owner": "richmolj",
+  "private": false,
+  "html_url": "https://github.com/richmolj/trample",
+  "description": "Easily query elasticsearch given a client-side payload",
+  "fork": false,
+  "url": "https://api.github.com/repos/richmolj/trample",
+  "languages_url": "https://api.github.com/repos/richmolj/trample/languages",
+  "pulls_url": "https://api.github.com/repos/richmolj/trample/pulls{/number}",
+  "created_at": "2016-03-18T14:08:35Z",
+  "updated_at": "2017-08-24T19:11:38Z",
+  "pushed_at": "2016-11-07T15:07:14Z",
+  "homepage": null,
+  "size": 93,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "richmolj": 5,
+    "subbarao": 6
+  },
+  "pulls_authors": [
+    "subbarao"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 65121,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 115,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T10:41:31.727Z"
+}

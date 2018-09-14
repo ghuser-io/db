@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "WeedCSharpClient",
+  "full_name": "TerabyteX/WeedCSharpClient",
+  "owner": "TerabyteX",
+  "private": false,
+  "html_url": "https://github.com/TerabyteX/WeedCSharpClient",
+  "description": "C# client library for the SeaweedFS",
+  "fork": false,
+  "url": "https://api.github.com/repos/TerabyteX/WeedCSharpClient",
+  "languages_url": "https://api.github.com/repos/TerabyteX/WeedCSharpClient/languages",
+  "pulls_url": "https://api.github.com/repos/TerabyteX/WeedCSharpClient/pulls{/number}",
+  "created_at": "2014-08-07T09:28:18Z",
+  "updated_at": "2016-08-04T07:42:30Z",
+  "pushed_at": "2015-11-24T09:19:44Z",
+  "homepage": "https://github.com/chrislusf/seaweedfs",
+  "size": 1044,
+  "stargazers_count": 5,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "TerabyteX": 10
+  },
+  "pulls_authors": [
+    "nmt1994"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 35780,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-12T07:38:37.127Z"
+}

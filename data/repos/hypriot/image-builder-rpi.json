@@ -1,0 +1,93 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "image-builder-rpi",
+  "full_name": "hypriot/image-builder-rpi",
+  "owner": "hypriot",
+  "private": false,
+  "html_url": "https://github.com/hypriot/image-builder-rpi",
+  "description": "SD card image for Raspberry Pi with Docker: HypriotOS",
+  "fork": false,
+  "url": "https://api.github.com/repos/hypriot/image-builder-rpi",
+  "languages_url": "https://api.github.com/repos/hypriot/image-builder-rpi/languages",
+  "pulls_url": "https://api.github.com/repos/hypriot/image-builder-rpi/pulls{/number}",
+  "created_at": "2016-01-07T18:06:13Z",
+  "updated_at": "2018-09-08T21:56:39Z",
+  "pushed_at": "2018-08-10T14:07:53Z",
+  "homepage": "http://blog.hypriot.com/post/how-to-get-docker-working-on-your-favourite-arm-board-with-hypriotos/",
+  "size": 380,
+  "stargazers_count": 447,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "hypriot",
+    "id": 10440767,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNDQwNzY3",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/10440767?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hypriot",
+    "html_url": "https://github.com/hypriot",
+    "followers_url": "https://api.github.com/users/hypriot/followers",
+    "following_url": "https://api.github.com/users/hypriot/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hypriot/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hypriot/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hypriot/subscriptions",
+    "organizations_url": "https://api.github.com/users/hypriot/orgs",
+    "repos_url": "https://api.github.com/users/hypriot/repos",
+    "events_url": "https://api.github.com/users/hypriot/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hypriot/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "glensc": 1,
+    "moul": 1,
+    "rhuss": 1,
+    "yonatan-schultz": 2,
+    "Tombar": 3,
+    "MathiasRenner": 6,
+    "firecyberice": 34,
+    "Govinda-Fichtner": 45,
+    "DieterReuter": 93,
+    "StefanScherer": 168
+  },
+  "pulls_authors": [
+    "hoshsadiq",
+    "michaelkoetter",
+    "StefanScherer",
+    "glensc",
+    "Cellophan",
+    "Tombar",
+    "DieterReuter",
+    "firecyberice",
+    "solidnerd",
+    "yonatan-schultz",
+    "Govinda-Fichtner",
+    "moul",
+    "rhuss",
+    "hypriot"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 23030,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 11912,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 1405,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-09T03:10:47.361Z"
+}

@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "technexUser",
+  "full_name": "imjog/technexUser",
+  "owner": "imjog",
+  "private": false,
+  "html_url": "https://github.com/imjog/technexUser",
+  "description": "Repository contains the website for Techno-Management Fest \"Technex 2017\" , organized by IIT (BHU) Varanasi.",
+  "fork": true,
+  "url": "https://api.github.com/repos/imjog/technexUser",
+  "languages_url": "https://api.github.com/repos/imjog/technexUser/languages",
+  "pulls_url": "https://api.github.com/repos/imjog/technexUser/pulls{/number}",
+  "created_at": "2017-03-17T05:47:58Z",
+  "updated_at": "2018-04-21T17:27:57Z",
+  "pushed_at": "2018-01-21T06:02:42Z",
+  "homepage": "http://www.technex.in/",
+  "size": 114753,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "pyaf": 4,
+    "nitingera1996": 26,
+    "omkarjadhav003": 85,
+    "imjog": 185,
+    "ishu2502": 320,
+    "In-vincible": 323
+  },
+  "pulls_authors": [
+    "imjog"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2114116,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 1628999,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1455673,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 280781,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-03T18:26:34.371Z"
+}

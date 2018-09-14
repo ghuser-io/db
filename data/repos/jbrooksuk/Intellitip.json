@@ -1,0 +1,62 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Intellitip",
+  "full_name": "jbrooksuk/Intellitip",
+  "owner": "jbrooksuk",
+  "private": false,
+  "html_url": "https://github.com/jbrooksuk/Intellitip",
+  "description": "Sublime Text 3 plugin to display function tooltips",
+  "fork": true,
+  "url": "https://api.github.com/repos/jbrooksuk/Intellitip",
+  "languages_url": "https://api.github.com/repos/jbrooksuk/Intellitip/languages",
+  "pulls_url": "https://api.github.com/repos/jbrooksuk/Intellitip/pulls{/number}",
+  "created_at": "2015-02-18T08:36:53Z",
+  "updated_at": "2018-06-06T07:28:29Z",
+  "pushed_at": "2016-07-01T12:05:11Z",
+  "homepage": "https://james-brooks.uk",
+  "size": 2457,
+  "stargazers_count": 28,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "idleberg": 1,
+    "danwall": 1,
+    "princemaple": 1,
+    "shortcutme": 13,
+    "jbrooksuk": 26
+  },
+  "pulls_authors": [
+    "idleberg",
+    "danwall",
+    "princemaple",
+    "jbrooksuk"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 9503,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 2417,
+      "color": "#f1e05a"
+    },
+    "PHP": {
+      "bytes": 542,
+      "color": "#4F5D95"
+    },
+    "CSS": {
+      "bytes": 447,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:04.193Z"
+}

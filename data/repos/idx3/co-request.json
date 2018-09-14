@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "co-request",
+  "full_name": "idx3/co-request",
+  "owner": "idx3",
+  "private": false,
+  "html_url": "https://github.com/idx3/co-request",
+  "description": "Simple wrapper to the request library for co-like interface (node.js generator based code). Usable with koa",
+  "fork": false,
+  "url": "https://api.github.com/repos/idx3/co-request",
+  "languages_url": "https://api.github.com/repos/idx3/co-request/languages",
+  "pulls_url": "https://api.github.com/repos/idx3/co-request/pulls{/number}",
+  "created_at": "2013-09-09T13:23:19Z",
+  "updated_at": "2018-08-29T10:15:04Z",
+  "pushed_at": "2016-02-09T17:03:04Z",
+  "homepage": "",
+  "size": 18,
+  "stargazers_count": 159,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "koreyconway": 1,
+    "hxgdzyuyi": 1,
+    "nunofgs": 1,
+    "ksato9700": 1,
+    "chrismytton": 1,
+    "JaHIY": 2,
+    "blakeembrey": 2
+  },
+  "pulls_authors": [
+    "koreyconway",
+    "hxgdzyuyi",
+    "idx3",
+    "JaHIY",
+    "nunofgs",
+    "blakeembrey",
+    "fixe",
+    "ksato9700",
+    "chrismytton"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 4061,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:47.797Z"
+}

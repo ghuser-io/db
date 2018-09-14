@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "refile-nobrainer",
+  "full_name": "uberous/refile-nobrainer",
+  "owner": "uberous",
+  "private": false,
+  "html_url": "https://github.com/uberous/refile-nobrainer",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/uberous/refile-nobrainer",
+  "languages_url": "https://api.github.com/repos/uberous/refile-nobrainer/languages",
+  "pulls_url": "https://api.github.com/repos/uberous/refile-nobrainer/pulls{/number}",
+  "created_at": "2016-05-05T18:11:20Z",
+  "updated_at": "2016-05-05T21:49:33Z",
+  "pushed_at": "2016-06-01T07:02:40Z",
+  "homepage": "",
+  "size": 7,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "uberous",
+    "id": 5321930,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjUzMjE5MzA=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/5321930?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/uberous",
+    "html_url": "https://github.com/uberous",
+    "followers_url": "https://api.github.com/users/uberous/followers",
+    "following_url": "https://api.github.com/users/uberous/following{/other_user}",
+    "gists_url": "https://api.github.com/users/uberous/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/uberous/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/uberous/subscriptions",
+    "organizations_url": "https://api.github.com/users/uberous/orgs",
+    "repos_url": "https://api.github.com/users/uberous/repos",
+    "events_url": "https://api.github.com/users/uberous/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/uberous/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "gitmagic-bot": 1,
+    "hl": 3,
+    "zenry": 3
+  },
+  "pulls_authors": [
+    "gitmagic-bot"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 3947,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:44.081Z"
+}

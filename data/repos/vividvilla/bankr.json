@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bankr",
+  "full_name": "vividvilla/bankr",
+  "owner": "vividvilla",
+  "private": false,
+  "html_url": "https://github.com/vividvilla/bankr",
+  "description": "Full text search engine written in Go to find any bank details in India by IFSC, Name, Address etc.",
+  "fork": false,
+  "url": "https://api.github.com/repos/vividvilla/bankr",
+  "languages_url": "https://api.github.com/repos/vividvilla/bankr/languages",
+  "pulls_url": "https://api.github.com/repos/vividvilla/bankr/pulls{/number}",
+  "created_at": "2017-03-28T19:57:44Z",
+  "updated_at": "2018-02-13T04:45:14Z",
+  "pushed_at": "2017-06-10T21:47:15Z",
+  "homepage": "https://bankr.io",
+  "size": 145,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "vividvilla": 29
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 25499,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 24490,
+      "color": "#563d7c"
+    },
+    "Go": {
+      "bytes": 20238,
+      "color": "#375eab"
+    },
+    "Vue": {
+      "bytes": 12156,
+      "color": "#2c3e50"
+    },
+    "HTML": {
+      "bytes": 1127,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 554,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:16.391Z"
+}

@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tome",
+  "full_name": "schmich/tome",
+  "owner": "schmich",
+  "private": false,
+  "html_url": "https://github.com/schmich/tome",
+  "description": "Password manager with a humane command-line interface. Succeeded by https://github.com/schmich/ward",
+  "fork": false,
+  "url": "https://api.github.com/repos/schmich/tome",
+  "languages_url": "https://api.github.com/repos/schmich/tome/languages",
+  "pulls_url": "https://api.github.com/repos/schmich/tome/pulls{/number}",
+  "created_at": "2012-06-07T10:35:58Z",
+  "updated_at": "2017-02-01T11:41:02Z",
+  "pushed_at": "2016-02-05T05:18:29Z",
+  "homepage": "",
+  "size": 109,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schmich": 173
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 42634,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:22.106Z"
+}

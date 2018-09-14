@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-epitech-intranet",
+  "full_name": "moul/node-epitech-intranet",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/node-epitech-intranet",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/node-epitech-intranet",
+  "languages_url": "https://api.github.com/repos/moul/node-epitech-intranet/languages",
+  "pulls_url": "https://api.github.com/repos/moul/node-epitech-intranet/pulls{/number}",
+  "created_at": "2013-02-25T11:18:39Z",
+  "updated_at": "2014-05-03T06:17:37Z",
+  "pushed_at": "2018-08-18T16:09:17Z",
+  "homepage": null,
+  "size": 28,
+  "stargazers_count": 2,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 21
+  },
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 11406,
+      "color": "#244776"
+    },
+    "JavaScript": {
+      "bytes": 64,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:51.164Z"
+}

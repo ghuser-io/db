@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "RawRabbit",
+  "full_name": "Yantrio/RawRabbit",
+  "owner": "Yantrio",
+  "private": false,
+  "html_url": "https://github.com/Yantrio/RawRabbit",
+  "description": "A modern .NET framework for communication over RabbitMq",
+  "fork": true,
+  "url": "https://api.github.com/repos/Yantrio/RawRabbit",
+  "languages_url": "https://api.github.com/repos/Yantrio/RawRabbit/languages",
+  "pulls_url": "https://api.github.com/repos/Yantrio/RawRabbit/pulls{/number}",
+  "created_at": "2017-02-03T12:33:13Z",
+  "updated_at": "2017-02-06T08:46:50Z",
+  "pushed_at": "2017-02-02T21:32:59Z",
+  "homepage": "",
+  "size": 1258,
+  "stargazers_count": 1,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "stable",
+  "contributors": {
+    "nblumhardt": 1,
+    "jayrulez": 1,
+    "johnbaker": 1,
+    "brettnagy": 1,
+    "ritasker": 2,
+    "enrique-avalon": 5,
+    "cemremengu": 10,
+    "pardahlman": 12
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 348085,
+      "color": "#178600"
+    },
+    "PowerShell": {
+      "bytes": 4041,
+      "color": "#012456"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:42.613Z"
+}

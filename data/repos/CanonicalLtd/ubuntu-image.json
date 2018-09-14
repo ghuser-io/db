@@ -1,0 +1,84 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ubuntu-image",
+  "full_name": "CanonicalLtd/ubuntu-image",
+  "owner": "CanonicalLtd",
+  "private": false,
+  "html_url": "https://github.com/CanonicalLtd/ubuntu-image",
+  "description": "Ubuntu image building scripts.  Report bugs at Launchpad.",
+  "fork": false,
+  "url": "https://api.github.com/repos/CanonicalLtd/ubuntu-image",
+  "languages_url": "https://api.github.com/repos/CanonicalLtd/ubuntu-image/languages",
+  "pulls_url": "https://api.github.com/repos/CanonicalLtd/ubuntu-image/pulls{/number}",
+  "created_at": "2016-05-17T20:06:04Z",
+  "updated_at": "2018-09-07T13:30:07Z",
+  "pushed_at": "2018-09-07T13:30:08Z",
+  "homepage": "https://launchpad.net/ubuntu-image",
+  "size": 17222,
+  "stargazers_count": 28,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "CanonicalLtd",
+    "id": 7490288,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc0OTAyODg=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/7490288?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/CanonicalLtd",
+    "html_url": "https://github.com/CanonicalLtd",
+    "followers_url": "https://api.github.com/users/CanonicalLtd/followers",
+    "following_url": "https://api.github.com/users/CanonicalLtd/following{/other_user}",
+    "gists_url": "https://api.github.com/users/CanonicalLtd/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/CanonicalLtd/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/CanonicalLtd/subscriptions",
+    "organizations_url": "https://api.github.com/users/CanonicalLtd/orgs",
+    "repos_url": "https://api.github.com/users/CanonicalLtd/repos",
+    "events_url": "https://api.github.com/users/CanonicalLtd/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/CanonicalLtd/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "cotsog": 1,
+    "cyphermox": 3,
+    "alfonsosanchezbeato": 17,
+    "mvo5": 19,
+    "zyga": 20,
+    "adglkh": 32,
+    "sil2100": 85,
+    "vorlonofportland": 134,
+    "warsaw": 399
+  },
+  "pulls_authors": [
+    "alfonsosanchezbeato",
+    "sil2100",
+    "mvo5",
+    "adglkh",
+    "vorlonofportland",
+    "iainlane",
+    "warsaw",
+    "cyphermox",
+    "cotsog",
+    "zyga"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 429810,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 43,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T17:08:29.523Z"
+}

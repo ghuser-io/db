@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "swift-parser",
+  "full_name": "pstodulka/swift-parser",
+  "owner": "pstodulka",
+  "private": false,
+  "html_url": "https://github.com/pstodulka/swift-parser",
+  "description": "JavaScript parser of ISO 15022 messages. Parses the messages including field values.",
+  "fork": false,
+  "url": "https://api.github.com/repos/pstodulka/swift-parser",
+  "languages_url": "https://api.github.com/repos/pstodulka/swift-parser/languages",
+  "pulls_url": "https://api.github.com/repos/pstodulka/swift-parser/pulls{/number}",
+  "created_at": "2014-06-13T19:19:14Z",
+  "updated_at": "2018-03-02T07:43:35Z",
+  "pushed_at": "2016-04-29T04:02:03Z",
+  "homepage": "",
+  "size": 251,
+  "stargazers_count": 12,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "pstodulka": 19
+  },
+  "pulls_authors": [
+    "elliots"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 23182,
+      "color": "#f1e05a"
+    },
+    "CoffeeScript": {
+      "bytes": 13027,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-11T13:45:50.833Z"
+}

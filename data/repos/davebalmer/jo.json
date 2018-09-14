@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jo",
+  "full_name": "davebalmer/jo",
+  "owner": "davebalmer",
+  "private": false,
+  "html_url": "https://github.com/davebalmer/jo",
+  "description": "Jo (0.5.0) is a thin (~16K) candy shell for making HTML5 apps. Jo works with: PhoneGap, Chrome, Safari, Opera, FireFox, iOS, Android, BlackBerry 10, Tizen, & Windows Phone 8+. Features include skinnable UI widgets, a clean event model and a light data layer.",
+  "fork": false,
+  "url": "https://api.github.com/repos/davebalmer/jo",
+  "languages_url": "https://api.github.com/repos/davebalmer/jo/languages",
+  "pulls_url": "https://api.github.com/repos/davebalmer/jo/pulls{/number}",
+  "created_at": "2010-06-05T08:29:02Z",
+  "updated_at": "2018-09-07T15:14:46Z",
+  "pushed_at": "2017-03-23T13:42:01Z",
+  "homepage": "",
+  "size": 1005,
+  "stargazers_count": 1229,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jdachtera": 1,
+    "bemjb": 1,
+    "rjrodger": 1,
+    "maxhauser": 1,
+    "k5e": 3,
+    "k33g": 4,
+    "ansyeow": 6,
+    "codebykevin": 9,
+    "davebalmer": 366
+  },
+  "pulls_authors": [
+    "kscottj",
+    "codebykevin",
+    "k5e",
+    "k33g",
+    "mayoff",
+    "jdachtera",
+    "bemjb",
+    "rystraum",
+    "tiqtech",
+    "liamoehlman",
+    "ansyeow",
+    "ghost",
+    "rjrodger",
+    "maxhauser"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 262095,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 181129,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 3566,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:41.436Z"
+}

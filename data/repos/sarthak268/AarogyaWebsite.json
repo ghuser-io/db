@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "AarogyaWebsite",
+  "full_name": "sarthak268/AarogyaWebsite",
+  "owner": "sarthak268",
+  "private": false,
+  "html_url": "https://github.com/sarthak268/AarogyaWebsite",
+  "description": "This is a website designed for providing basic health facilities by introducing the availaibility to chat with doctors. Also, it involves making the information of spreading diseases in the society by making dynamic heatmaps marking the spread of a disease upon the authentic validation by expert doctors, so as to benefit people in getting awareness, as well as the government in taking necessary measures as and when required.",
+  "fork": false,
+  "url": "https://api.github.com/repos/sarthak268/AarogyaWebsite",
+  "languages_url": "https://api.github.com/repos/sarthak268/AarogyaWebsite/languages",
+  "pulls_url": "https://api.github.com/repos/sarthak268/AarogyaWebsite/pulls{/number}",
+  "created_at": "2018-06-06T22:51:54Z",
+  "updated_at": "2018-08-07T21:43:41Z",
+  "pushed_at": "2018-06-09T10:29:24Z",
+  "homepage": "",
+  "size": 4386,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sarthak268": 1,
+    "shagunuppal": 1
+  },
+  "pulls_authors": [
+    "sarthak268"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 62160,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 38171,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 11113,
+      "color": "#f1e05a"
+    },
+    "PHP": {
+      "bytes": 2637,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-03T15:17:29.330Z"
+}

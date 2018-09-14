@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "protobufferify",
+  "full_name": "gdassori/protobufferify",
+  "owner": "gdassori",
+  "private": false,
+  "html_url": "https://github.com/gdassori/protobufferify",
+  "description": "From ProtocolBuffer to Python Dictionary and viceversa",
+  "fork": false,
+  "url": "https://api.github.com/repos/gdassori/protobufferify",
+  "languages_url": "https://api.github.com/repos/gdassori/protobufferify/languages",
+  "pulls_url": "https://api.github.com/repos/gdassori/protobufferify/pulls{/number}",
+  "created_at": "2017-07-05T13:48:04Z",
+  "updated_at": "2017-07-05T14:03:24Z",
+  "pushed_at": "2017-07-05T14:23:04Z",
+  "homepage": null,
+  "size": 5,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "gdassori": 2
+  },
+  "pulls_authors": [
+    "daddinuz"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 1533,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T10:36:11.069Z"
+}

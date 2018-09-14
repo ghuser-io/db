@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "zeronet.io",
+  "full_name": "HelloZeroNet/zeronet.io",
+  "owner": "HelloZeroNet",
+  "private": false,
+  "html_url": "https://github.com/HelloZeroNet/zeronet.io",
+  "description": "ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network",
+  "fork": false,
+  "url": "https://api.github.com/repos/HelloZeroNet/zeronet.io",
+  "languages_url": "https://api.github.com/repos/HelloZeroNet/zeronet.io/languages",
+  "pulls_url": "https://api.github.com/repos/HelloZeroNet/zeronet.io/pulls{/number}",
+  "created_at": "2015-05-03T14:16:10Z",
+  "updated_at": "2018-09-12T06:08:16Z",
+  "pushed_at": "2018-08-20T23:37:11Z",
+  "homepage": "http://zeronet.io",
+  "size": 7447,
+  "stargazers_count": 20,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sifex": 1,
+    "OliverCole": 1,
+    "EdenSG": 1,
+    "makdisse": 1,
+    "Alexis211": 2,
+    "imachug": 2,
+    "anoadragon453": 2,
+    "sexybiggetje": 2,
+    "frerepoulet": 2,
+    "HostFat": 2,
+    "mkg20001": 2,
+    "koalalorenzo": 2,
+    "paulomsg": 2,
+    "DaniellMesquita": 6,
+    "l5h5t7": 8,
+    "shortcutme": 29
+  },
+  "pulls_authors": [
+    "DaniellMesquita",
+    "Alexis211",
+    "anoadragon453",
+    "imachug",
+    "kuipumu",
+    "l5h5t7",
+    "sexybiggetje",
+    "frerepoulet",
+    "rosariopfernandes",
+    "HostFat",
+    "mkg20001",
+    "sifex",
+    "OliverCole",
+    "koalalorenzo",
+    "EdenSG"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 24587,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 7947,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:35.117Z"
+}

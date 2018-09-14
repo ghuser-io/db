@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ClubPortal",
+  "full_name": "ncs-jss/ClubPortal",
+  "owner": "ncs-jss",
+  "private": false,
+  "html_url": "https://github.com/ncs-jss/ClubPortal",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/ncs-jss/ClubPortal",
+  "languages_url": "https://api.github.com/repos/ncs-jss/ClubPortal/languages",
+  "created_at": "2017-01-02T22:51:41Z",
+  "updated_at": "2017-01-21T18:27:28Z",
+  "pushed_at": "2017-01-29T11:41:52Z",
+  "homepage": null,
+  "size": 13085,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "ncs-jss",
+    "id": 11776797,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExNzc2Nzk3",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/11776797?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ncs-jss",
+    "html_url": "https://github.com/ncs-jss",
+    "followers_url": "https://api.github.com/users/ncs-jss/followers",
+    "following_url": "https://api.github.com/users/ncs-jss/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ncs-jss/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ncs-jss/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ncs-jss/subscriptions",
+    "organizations_url": "https://api.github.com/users/ncs-jss/orgs",
+    "repos_url": "https://api.github.com/users/ncs-jss/repos",
+    "events_url": "https://api.github.com/users/ncs-jss/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ncs-jss/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "shlok007": 19,
+    "itaditya": 20
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 457236,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 444520,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 125453,
+      "color": "#563d7c"
+    },
+    "Ruby": {
+      "bytes": 40683,
+      "color": "#701516"
+    },
+    "ApacheConf": {
+      "bytes": 32,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/ncs-jss/ClubPortal/pulls{/number}",
+  "pulls_authors": []
+}

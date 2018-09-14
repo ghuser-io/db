@@ -1,0 +1,82 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "TelegramXMods",
+  "full_name": "skittles9823/TelegramXMods",
+  "owner": "skittles9823",
+  "private": false,
+  "html_url": "https://github.com/skittles9823/TelegramXMods",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/skittles9823/TelegramXMods",
+  "languages_url": "https://api.github.com/repos/skittles9823/TelegramXMods/languages",
+  "pulls_url": "https://api.github.com/repos/skittles9823/TelegramXMods/pulls{/number}",
+  "created_at": "2018-02-07T13:04:10Z",
+  "updated_at": "2018-08-11T05:27:23Z",
+  "pushed_at": "2018-08-12T13:05:54Z",
+  "homepage": null,
+  "size": 55053,
+  "stargazers_count": 10,
+  "language": "Kotlin",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "kt-n",
+  "contributors": {
+    "BDFrostbite": 1,
+    "chriskardas": 1,
+    "Surge1223": 1,
+    "westcripp": 1,
+    "lhypl": 1,
+    "sstarkenburg": 1,
+    "mddanishansari": 1,
+    "ungeeked": 1,
+    "ashoksoni": 1,
+    "szecs": 1,
+    "KreAch3R": 1,
+    "pierx": 2,
+    "Adarsh-MR": 2,
+    "BlackFoxy757": 2,
+    "gcantoni": 2,
+    "Jertlok": 2,
+    "SubhrajyotiSen": 2,
+    "srisurya95": 2,
+    "ohayoubaka": 3,
+    "valiantshadow": 3,
+    "jahirfiquitiva": 3,
+    "spannaa": 4,
+    "AllanWang": 4,
+    "nitanmarcel": 5,
+    "tetsuo55": 5,
+    "gmillz": 9,
+    "MihailMihov": 14,
+    "iskandar1023": 33,
+    "deletescape": 36,
+    "MSF-Jarvis": 44,
+    "nicholaschum": 115,
+    "skittles9823": 192
+  },
+  "pulls_authors": [
+    "ohayoubaka",
+    "MSF-Jarvis",
+    "ghost",
+    "MihailMihov",
+    "skittles9823"
+  ],
+  "languages": {
+    "Kotlin": {
+      "bytes": 24491,
+      "color": "#F18E33"
+    },
+    "Shell": {
+      "bytes": 1377,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-20T12:16:17.962Z"
+}

@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "light-switch-simulator-pro",
+  "full_name": "bencoveney/light-switch-simulator-pro",
+  "owner": "bencoveney",
+  "private": false,
+  "html_url": "https://github.com/bencoveney/light-switch-simulator-pro",
+  "description": "Light Switch Simulation Game",
+  "fork": false,
+  "url": "https://api.github.com/repos/bencoveney/light-switch-simulator-pro",
+  "languages_url": "https://api.github.com/repos/bencoveney/light-switch-simulator-pro/languages",
+  "pulls_url": "https://api.github.com/repos/bencoveney/light-switch-simulator-pro/pulls{/number}",
+  "created_at": "2018-04-27T23:20:21Z",
+  "updated_at": "2018-04-30T08:00:49Z",
+  "pushed_at": "2018-04-29T19:47:06Z",
+  "homepage": "https://bencoveney.github.io/light-switch-simulator-pro/",
+  "size": 3668,
+  "stargazers_count": 1,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bencoveney": 8
+  },
+  "pulls_authors": [
+    "bencoveney"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 12981,
+      "color": "#2b7489"
+    },
+    "CSS": {
+      "bytes": 4746,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 711,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-17T11:56:59.727Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "IOU",
+  "full_name": "owenlejeune/IOU",
+  "owner": "owenlejeune",
+  "private": false,
+  "html_url": "https://github.com/owenlejeune/IOU",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/owenlejeune/IOU",
+  "languages_url": "https://api.github.com/repos/owenlejeune/IOU/languages",
+  "pulls_url": "https://api.github.com/repos/owenlejeune/IOU/pulls{/number}",
+  "created_at": "2017-09-11T00:13:44Z",
+  "updated_at": "2018-08-18T02:01:06Z",
+  "pushed_at": "2018-04-18T20:22:37Z",
+  "homepage": null,
+  "size": 197,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "owenlejeune": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 43918,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:28.438Z"
+}

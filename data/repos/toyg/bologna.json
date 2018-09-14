@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bologna",
+  "full_name": "toyg/bologna",
+  "owner": "toyg",
+  "private": false,
+  "html_url": "https://github.com/toyg/bologna",
+  "description": "Simple javascript for a referendum in Italy",
+  "fork": false,
+  "url": "https://api.github.com/repos/toyg/bologna",
+  "languages_url": "https://api.github.com/repos/toyg/bologna/languages",
+  "pulls_url": "https://api.github.com/repos/toyg/bologna/pulls{/number}",
+  "created_at": "2013-05-15T15:54:01Z",
+  "updated_at": "2016-06-22T15:33:44Z",
+  "pushed_at": "2013-05-20T08:00:36Z",
+  "homepage": null,
+  "size": 164,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "toyg": 17
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 11547,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:05.178Z"
+}

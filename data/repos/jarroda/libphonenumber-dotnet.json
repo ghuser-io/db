@@ -1,0 +1,91 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "libphonenumber-dotnet",
+  "full_name": "jarroda/libphonenumber-dotnet",
+  "owner": "jarroda",
+  "private": false,
+  "html_url": "https://github.com/jarroda/libphonenumber-dotnet",
+  "description": "A port of Google's libphonenumber for netstandard",
+  "fork": false,
+  "url": "https://api.github.com/repos/jarroda/libphonenumber-dotnet",
+  "languages_url": "https://api.github.com/repos/jarroda/libphonenumber-dotnet/languages",
+  "pulls_url": "https://api.github.com/repos/jarroda/libphonenumber-dotnet/pulls{/number}",
+  "created_at": "2016-05-25T04:10:23Z",
+  "updated_at": "2018-05-29T04:39:13Z",
+  "pushed_at": "2017-03-11T21:08:59Z",
+  "homepage": null,
+  "size": 53629,
+  "stargazers_count": 8,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "weitzhandler": 1,
+    "caesay": 2,
+    "jzelos": 2,
+    "mauricio-morales": 3,
+    "jarroda": 4,
+    "aidanbebbington": 6,
+    "landrix": 7,
+    "pmezard": 8
+  },
+  "pulls_authors": [
+    "aloisdg",
+    "ericgreenmix"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 3335144,
+      "color": "#f34b7d"
+    },
+    "C#": {
+      "bytes": 1981686,
+      "color": "#178600"
+    },
+    "JavaScript": {
+      "bytes": 923034,
+      "color": "#f1e05a"
+    },
+    "Java": {
+      "bytes": 831736,
+      "color": "#b07219"
+    },
+    "Protocol Buffer": {
+      "bytes": 22091,
+      "color": "#ccc"
+    },
+    "CMake": {
+      "bytes": 19728,
+      "color": "#ccc"
+    },
+    "C": {
+      "bytes": 17121,
+      "color": "#555555"
+    },
+    "Python": {
+      "bytes": 9181,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 5583,
+      "color": "#e34c26"
+    },
+    "Batchfile": {
+      "bytes": 503,
+      "color": "#C1F12E"
+    },
+    "CSS": {
+      "bytes": 305,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:09.602Z"
+}

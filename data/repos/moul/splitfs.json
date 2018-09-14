@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "splitfs",
+  "full_name": "moul/splitfs",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/splitfs",
+  "description": "file splitter / joiner into chunks as a stackable file-system",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/splitfs",
+  "languages_url": "https://api.github.com/repos/moul/splitfs/languages",
+  "pulls_url": "https://api.github.com/repos/moul/splitfs/pulls{/number}",
+  "created_at": "2012-03-15T12:29:43Z",
+  "updated_at": "2014-05-23T15:23:18Z",
+  "pushed_at": "2012-04-03T11:23:51Z",
+  "homepage": "",
+  "size": 604,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 35
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 115879,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 949,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:54.156Z"
+}

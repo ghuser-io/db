@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "baseeks",
+  "full_name": "martpie/baseeks",
+  "owner": "martpie",
+  "private": false,
+  "html_url": "https://github.com/martpie/baseeks",
+  "description": "Blank theme framework for Wordpress development",
+  "fork": false,
+  "url": "https://api.github.com/repos/martpie/baseeks",
+  "languages_url": "https://api.github.com/repos/martpie/baseeks/languages",
+  "pulls_url": "https://api.github.com/repos/martpie/baseeks/pulls{/number}",
+  "created_at": "2014-03-20T19:47:18Z",
+  "updated_at": "2018-04-04T11:53:49Z",
+  "pushed_at": "2015-03-23T14:20:50Z",
+  "homepage": "",
+  "size": 698,
+  "stargazers_count": 1,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "martpie": 38
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 9941,
+      "color": "#4F5D95"
+    },
+    "CSS": {
+      "bytes": 3072,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 60,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T13:48:15.857Z"
+}

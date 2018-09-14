@@ -1,0 +1,76 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "weather-station-1",
+  "full_name": "raspberry-pi-weather-station/weather-station-1",
+  "owner": "raspberry-pi-weather-station",
+  "private": false,
+  "html_url": "https://github.com/raspberry-pi-weather-station/weather-station-1",
+  "description": "This is just an alpha",
+  "fork": false,
+  "url": "https://api.github.com/repos/raspberry-pi-weather-station/weather-station-1",
+  "languages_url": "https://api.github.com/repos/raspberry-pi-weather-station/weather-station-1/languages",
+  "pulls_url": "https://api.github.com/repos/raspberry-pi-weather-station/weather-station-1/pulls{/number}",
+  "created_at": "2017-04-20T18:07:22Z",
+  "updated_at": "2018-05-10T05:54:41Z",
+  "pushed_at": "2018-04-23T16:56:33Z",
+  "homepage": "",
+  "size": 12359,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "raspberry-pi-weather-station",
+    "id": 27825450,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI3ODI1NDUw",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/27825450?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/raspberry-pi-weather-station",
+    "html_url": "https://github.com/raspberry-pi-weather-station",
+    "followers_url": "https://api.github.com/users/raspberry-pi-weather-station/followers",
+    "following_url": "https://api.github.com/users/raspberry-pi-weather-station/following{/other_user}",
+    "gists_url": "https://api.github.com/users/raspberry-pi-weather-station/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/raspberry-pi-weather-station/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/raspberry-pi-weather-station/subscriptions",
+    "organizations_url": "https://api.github.com/users/raspberry-pi-weather-station/orgs",
+    "repos_url": "https://api.github.com/users/raspberry-pi-weather-station/repos",
+    "events_url": "https://api.github.com/users/raspberry-pi-weather-station/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/raspberry-pi-weather-station/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "chehaknayar": 1,
+    "akhiljns": 1,
+    "divyaksh-shukla": 3,
+    "akshattrivedi": 8
+  },
+  "pulls_authors": [
+    "divyaksh-shukla"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 55204,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 50928,
+      "color": "#555555"
+    },
+    "TeX": {
+      "bytes": 25262,
+      "color": "#3D6117"
+    },
+    "C++": {
+      "bytes": 4627,
+      "color": "#f34b7d"
+    },
+    "Shell": {
+      "bytes": 371,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:16.898Z"
+}

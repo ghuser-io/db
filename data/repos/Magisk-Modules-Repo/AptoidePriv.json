@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "AptoidePriv",
+  "full_name": "Magisk-Modules-Repo/AptoidePriv",
+  "owner": "Magisk-Modules-Repo",
+  "private": false,
+  "html_url": "https://github.com/Magisk-Modules-Repo/AptoidePriv",
+  "description": "AptoidePriv",
+  "fork": false,
+  "url": "https://api.github.com/repos/Magisk-Modules-Repo/AptoidePriv",
+  "languages_url": "https://api.github.com/repos/Magisk-Modules-Repo/AptoidePriv/languages",
+  "pulls_url": "https://api.github.com/repos/Magisk-Modules-Repo/AptoidePriv/pulls{/number}",
+  "created_at": "2018-01-11T13:28:21Z",
+  "updated_at": "2018-09-05T23:58:39Z",
+  "pushed_at": "2018-06-28T15:53:22Z",
+  "homepage": null,
+  "size": 20150,
+  "stargazers_count": 7,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "Magisk-Modules-Repo",
+    "id": 21679027,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIxNjc5MDI3",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/21679027?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Magisk-Modules-Repo",
+    "html_url": "https://github.com/Magisk-Modules-Repo",
+    "followers_url": "https://api.github.com/users/Magisk-Modules-Repo/followers",
+    "following_url": "https://api.github.com/users/Magisk-Modules-Repo/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Magisk-Modules-Repo/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Magisk-Modules-Repo/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Magisk-Modules-Repo/subscriptions",
+    "organizations_url": "https://api.github.com/users/Magisk-Modules-Repo/orgs",
+    "repos_url": "https://api.github.com/users/Magisk-Modules-Repo/repos",
+    "events_url": "https://api.github.com/users/Magisk-Modules-Repo/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Magisk-Modules-Repo/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "thehappydinoa": 16
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 6286,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-06T06:45:26.416Z"
+}

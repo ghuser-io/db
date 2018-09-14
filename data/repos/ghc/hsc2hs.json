@@ -1,0 +1,104 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hsc2hs",
+  "full_name": "ghc/hsc2hs",
+  "owner": "ghc",
+  "private": false,
+  "html_url": "https://github.com/ghc/hsc2hs",
+  "description": "Mirror of hsc2hs repository. DO NOT SUBMIT PULL REQUESTS HERE",
+  "fork": false,
+  "url": "https://api.github.com/repos/ghc/hsc2hs",
+  "languages_url": "https://api.github.com/repos/ghc/hsc2hs/languages",
+  "pulls_url": "https://api.github.com/repos/ghc/hsc2hs/pulls{/number}",
+  "created_at": "2011-04-03T19:16:33Z",
+  "updated_at": "2018-08-28T16:33:25Z",
+  "pushed_at": "2018-08-28T16:33:23Z",
+  "homepage": "",
+  "size": 232,
+  "stargazers_count": 7,
+  "language": "Haskell",
+  "mirror_url": "http://git.haskell.org/packages/hsc2hs.git",
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ghc",
+    "id": 705657,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjcwNTY1Nw==",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/705657?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ghc",
+    "html_url": "https://github.com/ghc",
+    "followers_url": "https://api.github.com/users/ghc/followers",
+    "following_url": "https://api.github.com/users/ghc/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ghc/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ghc/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ghc/subscriptions",
+    "organizations_url": "https://api.github.com/users/ghc/orgs",
+    "repos_url": "https://api.github.com/users/ghc/repos",
+    "events_url": "https://api.github.com/users/ghc/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ghc/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Rufflewind": 1,
+    "mpickering": 1,
+    "rcook": 1,
+    "thomie": 1,
+    "singpolyma": 1,
+    "treeowl": 1,
+    "rwbarton": 1,
+    "quchen": 1,
+    "shelarcy": 1,
+    "ckoparkar": 2,
+    "nomeata": 2,
+    "thoughtpolice": 2,
+    "pcapriotti": 2,
+    "batterseapower": 2,
+    "erikd": 3,
+    "dcoutts": 4,
+    "RyanGlScott": 5,
+    "bgamari": 6,
+    "angerman": 11,
+    "simonmar": 14,
+    "hvr": 21,
+    "igfoo": 82
+  },
+  "pulls_authors": [
+    "bgamari"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 83375,
+      "color": "#5e5086"
+    },
+    "Assembly": {
+      "bytes": 10738,
+      "color": "#6E4C13"
+    },
+    "C++": {
+      "bytes": 6206,
+      "color": "#f34b7d"
+    },
+    "Makefile": {
+      "bytes": 3140,
+      "color": "#427819"
+    },
+    "C": {
+      "bytes": 864,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 774,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:14.985Z"
+}

@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "TPE-Protos",
+  "full_name": "kshmir/TPE-Protos",
+  "owner": "kshmir",
+  "private": false,
+  "html_url": "https://github.com/kshmir/TPE-Protos",
+  "description": "TPE - Protocolos de comunicación - Proxy HTTP",
+  "fork": true,
+  "url": "https://api.github.com/repos/kshmir/TPE-Protos",
+  "languages_url": "https://api.github.com/repos/kshmir/TPE-Protos/languages",
+  "pulls_url": "https://api.github.com/repos/kshmir/TPE-Protos/pulls{/number}",
+  "created_at": "2012-05-26T18:10:42Z",
+  "updated_at": "2013-01-09T09:01:39Z",
+  "pushed_at": "2012-05-25T22:48:12Z",
+  "homepage": null,
+  "size": 160,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mdesanti": 51
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-11T10:38:00.188Z"
+}

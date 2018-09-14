@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "branding",
+  "full_name": "cheeaun/branding",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/branding",
+  "description": "Branding for myself",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/branding",
+  "languages_url": "https://api.github.com/repos/cheeaun/branding/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/branding/pulls{/number}",
+  "created_at": "2015-02-01T14:57:42Z",
+  "updated_at": "2015-02-01T15:21:28Z",
+  "pushed_at": "2015-02-14T11:29:20Z",
+  "homepage": "http://cheeaun.com/",
+  "size": 212,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 2
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-10T19:00:01.489Z"
+}

@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ghc-vis",
+  "full_name": "def-/ghc-vis",
+  "owner": "def-",
+  "private": false,
+  "html_url": "https://github.com/def-/ghc-vis",
+  "description": "Visualize live Haskell data structures in GHCi",
+  "fork": false,
+  "url": "https://api.github.com/repos/def-/ghc-vis",
+  "languages_url": "https://api.github.com/repos/def-/ghc-vis/languages",
+  "pulls_url": "https://api.github.com/repos/def-/ghc-vis/pulls{/number}",
+  "created_at": "2014-06-09T16:06:25Z",
+  "updated_at": "2018-09-06T15:50:50Z",
+  "pushed_at": "2018-04-30T09:53:34Z",
+  "homepage": "http://felsin9.de/nnis/ghc-vis",
+  "size": 6070,
+  "stargazers_count": 72,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "waddlaw": 1,
+    "FranklinChen": 10,
+    "nomeata": 14,
+    "def-": 142
+  },
+  "pulls_authors": [
+    "waddlaw",
+    "varosi",
+    "FranklinChen"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 104100,
+      "color": "#5e5086"
+    },
+    "TeX": {
+      "bytes": 1277,
+      "color": "#3D6117"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:10.912Z"
+}

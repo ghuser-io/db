@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 1
+  },
+  "name": "godot-snippets",
+  "full_name": "Calinou/godot-snippets",
+  "owner": "Calinou",
+  "private": false,
+  "html_url": "https://github.com/Calinou/godot-snippets",
+  "description": "Code snippets for use with the Godot Engine",
+  "fork": false,
+  "url": "https://api.github.com/repos/Calinou/godot-snippets",
+  "languages_url": "https://api.github.com/repos/Calinou/godot-snippets/languages",
+  "created_at": "2016-01-11T20:22:24Z",
+  "updated_at": "2017-05-25T18:13:02Z",
+  "pushed_at": "2016-01-11T20:54:56Z",
+  "homepage": "http://godotengine.org",
+  "size": 3,
+  "stargazers_count": 10,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "languages": {},
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/Calinou/godot-snippets/pulls{/number}",
+  "pulls_authors": []
+}

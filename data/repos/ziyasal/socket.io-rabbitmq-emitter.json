@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "socket.io-rabbitmq-emitter",
+  "full_name": "ziyasal/socket.io-rabbitmq-emitter",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/socket.io-rabbitmq-emitter",
+  "description": "socket.io emitter implementation",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal/socket.io-rabbitmq-emitter",
+  "languages_url": "https://api.github.com/repos/ziyasal/socket.io-rabbitmq-emitter/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/socket.io-rabbitmq-emitter/pulls{/number}",
+  "created_at": "2015-06-01T20:50:58Z",
+  "updated_at": "2016-02-09T15:45:25Z",
+  "pushed_at": "2015-06-19T21:41:10Z",
+  "homepage": null,
+  "size": 156,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ziyasal": 16
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6487,
+      "color": "#f1e05a"
+    },
+    "Makefile": {
+      "bytes": 379,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:15.969Z"
+}

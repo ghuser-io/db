@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Phrontmatter",
+  "full_name": "BlueBayTravel/Phrontmatter",
+  "owner": "BlueBayTravel",
+  "private": false,
+  "html_url": "https://github.com/BlueBayTravel/Phrontmatter",
+  "description": "Front Matter parser for PHP, with support for YAML, JSON and TOML.",
+  "fork": false,
+  "url": "https://api.github.com/repos/BlueBayTravel/Phrontmatter",
+  "languages_url": "https://api.github.com/repos/BlueBayTravel/Phrontmatter/languages",
+  "pulls_url": "https://api.github.com/repos/BlueBayTravel/Phrontmatter/pulls{/number}",
+  "created_at": "2015-12-09T12:03:12Z",
+  "updated_at": "2018-03-24T15:07:02Z",
+  "pushed_at": "2018-01-02T07:23:11Z",
+  "homepage": "http://bluebaytravel.co.uk",
+  "size": 20,
+  "stargazers_count": 15,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "BlueBayTravel",
+    "id": 3775282,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM3NzUyODI=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/3775282?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/BlueBayTravel",
+    "html_url": "https://github.com/BlueBayTravel",
+    "followers_url": "https://api.github.com/users/BlueBayTravel/followers",
+    "following_url": "https://api.github.com/users/BlueBayTravel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/BlueBayTravel/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/BlueBayTravel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/BlueBayTravel/subscriptions",
+    "organizations_url": "https://api.github.com/users/BlueBayTravel/orgs",
+    "repos_url": "https://api.github.com/users/BlueBayTravel/repos",
+    "events_url": "https://api.github.com/users/BlueBayTravel/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/BlueBayTravel/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jbrooksuk": 30
+  },
+  "pulls_authors": [
+    "vinkla",
+    "jbrooksuk"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 18984,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T05:04:16.660Z"
+}

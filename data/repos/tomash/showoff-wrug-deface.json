@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "showoff-wrug-deface",
+  "full_name": "tomash/showoff-wrug-deface",
+  "owner": "tomash",
+  "private": false,
+  "html_url": "https://github.com/tomash/showoff-wrug-deface",
+  "description": "slides for my Deface talk",
+  "fork": false,
+  "url": "https://api.github.com/repos/tomash/showoff-wrug-deface",
+  "languages_url": "https://api.github.com/repos/tomash/showoff-wrug-deface/languages",
+  "pulls_url": "https://api.github.com/repos/tomash/showoff-wrug-deface/pulls{/number}",
+  "created_at": "2012-03-20T15:40:57Z",
+  "updated_at": "2014-06-20T02:35:01Z",
+  "pushed_at": "2012-03-20T16:50:30Z",
+  "homepage": "",
+  "size": 1256,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "tomash": 3
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T16:53:08.039Z"
+}

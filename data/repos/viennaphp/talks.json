@@ -1,0 +1,103 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "talks",
+  "full_name": "viennaphp/talks",
+  "owner": "viennaphp",
+  "private": false,
+  "html_url": "https://github.com/viennaphp/talks",
+  "description": "Storing all talk pdfs for the ViennaPHP Usergroup",
+  "fork": false,
+  "url": "https://api.github.com/repos/viennaphp/talks",
+  "languages_url": "https://api.github.com/repos/viennaphp/talks/languages",
+  "pulls_url": "https://api.github.com/repos/viennaphp/talks/pulls{/number}",
+  "created_at": "2013-10-15T07:20:08Z",
+  "updated_at": "2018-04-23T08:27:53Z",
+  "pushed_at": "2018-04-23T08:27:52Z",
+  "homepage": null,
+  "size": 195122,
+  "stargazers_count": 13,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "viennaphp",
+    "id": 4233367,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQyMzMzNjc=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/4233367?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/viennaphp",
+    "html_url": "https://github.com/viennaphp",
+    "followers_url": "https://api.github.com/users/viennaphp/followers",
+    "following_url": "https://api.github.com/users/viennaphp/following{/other_user}",
+    "gists_url": "https://api.github.com/users/viennaphp/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/viennaphp/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/viennaphp/subscriptions",
+    "organizations_url": "https://api.github.com/users/viennaphp/orgs",
+    "repos_url": "https://api.github.com/users/viennaphp/repos",
+    "events_url": "https://api.github.com/users/viennaphp/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/viennaphp/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "franzwilding": 1,
+    "shaula": 1,
+    "moee": 1,
+    "epsilonhalbe": 1,
+    "mzeis": 1,
+    "JakobReiter": 1,
+    "christophrumpel": 1,
+    "fago": 1,
+    "Weissheiten": 1,
+    "emirb": 2,
+    "lmuzinic": 2,
+    "DusanKasan": 2,
+    "EmiiKhaos": 2,
+    "dlaxar": 2,
+    "wodka": 6,
+    "fetzi": 6,
+    "mazedlx": 8,
+    "Sgoettschkes": 27
+  },
+  "pulls_authors": [
+    "franzwilding",
+    "emirb",
+    "mazedlx",
+    "lmuzinic",
+    "wodka",
+    "fetzi",
+    "shaula",
+    "moee",
+    "DusanKasan",
+    "EmiiKhaos",
+    "epsilonhalbe",
+    "mzeis",
+    "JakobReiter",
+    "christophrumpel",
+    "dlaxar",
+    "florianeckerstorfer",
+    "fago",
+    "Weissheiten"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 213646,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 206864,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 65073,
+      "color": "#e34c26"
+    },
+    "Haskell": {
+      "bytes": 46,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-11T20:47:12.023Z"
+}

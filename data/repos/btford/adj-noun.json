@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "adj-noun",
+  "full_name": "btford/adj-noun",
+  "owner": "btford",
+  "private": false,
+  "html_url": "https://github.com/btford/adj-noun",
+  "description": "Gives you a random adj-noun pair that you can use as a unique identifier",
+  "fork": false,
+  "url": "https://api.github.com/repos/btford/adj-noun",
+  "languages_url": "https://api.github.com/repos/btford/adj-noun/languages",
+  "pulls_url": "https://api.github.com/repos/btford/adj-noun/pulls{/number}",
+  "created_at": "2014-06-22T22:30:52Z",
+  "updated_at": "2018-06-25T17:30:47Z",
+  "pushed_at": "2016-05-08T08:11:11Z",
+  "homepage": null,
+  "size": 158,
+  "stargazers_count": 60,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "schmich": 4,
+    "btford": 15
+  },
+  "pulls_authors": [
+    "schmich"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1373,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 500,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:21.890Z"
+}

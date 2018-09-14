@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Snaptake",
+  "full_name": "Lausbert/Snaptake",
+  "owner": "Lausbert",
+  "private": false,
+  "html_url": "https://github.com/Lausbert/Snaptake",
+  "description": "Using Fastlane Snapshot to automate creating of appstore preview videos",
+  "fork": false,
+  "url": "https://api.github.com/repos/Lausbert/Snaptake",
+  "languages_url": "https://api.github.com/repos/Lausbert/Snaptake/languages",
+  "pulls_url": "https://api.github.com/repos/Lausbert/Snaptake/pulls{/number}",
+  "created_at": "2018-04-14T15:01:26Z",
+  "updated_at": "2018-06-27T01:45:39Z",
+  "pushed_at": "2018-05-17T15:28:14Z",
+  "homepage": "http://lausbert.com/2018/04/30/134/",
+  "size": 515,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Lausbert": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 20018,
+      "color": "#701516"
+    },
+    "Swift": {
+      "bytes": 17826,
+      "color": "#ffac45"
+    },
+    "HTML": {
+      "bytes": 5207,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T23:08:03.918Z"
+}

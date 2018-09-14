@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "commento",
+  "full_name": "schollz/commento",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/commento",
+  "description": "Lightweight and tracking-free comment engine written in Go",
+  "fork": true,
+  "url": "https://api.github.com/repos/schollz/commento",
+  "languages_url": "https://api.github.com/repos/schollz/commento/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/commento/pulls{/number}",
+  "created_at": "2017-04-25T04:20:02Z",
+  "updated_at": "2017-04-26T01:10:40Z",
+  "pushed_at": "2017-04-30T12:47:10Z",
+  "homepage": null,
+  "size": 60,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "GaiusMartius": 1,
+    "seemethere": 1,
+    "Xe": 1,
+    "daehyeok": 1,
+    "peteretelej": 2,
+    "caarlos0": 4,
+    "smbkr": 4,
+    "adtac": 38
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 5542,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:52.670Z"
+}

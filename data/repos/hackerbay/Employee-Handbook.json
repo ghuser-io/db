@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Employee-Handbook",
+  "full_name": "hackerbay/Employee-Handbook",
+  "owner": "hackerbay",
+  "private": false,
+  "html_url": "https://github.com/hackerbay/Employee-Handbook",
+  "description": "Employee Handbook for HackerBay, Inc. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/hackerbay/Employee-Handbook",
+  "languages_url": "https://api.github.com/repos/hackerbay/Employee-Handbook/languages",
+  "pulls_url": "https://api.github.com/repos/hackerbay/Employee-Handbook/pulls{/number}",
+  "created_at": "2017-11-20T05:36:50Z",
+  "updated_at": "2018-09-13T06:03:01Z",
+  "pushed_at": "2018-09-13T06:03:00Z",
+  "homepage": "https://hackerbay.io",
+  "size": 6276,
+  "stargazers_count": 6,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "hackerbay",
+    "id": 30328362,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMwMzI4MzYy",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/30328362?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hackerbay",
+    "html_url": "https://github.com/hackerbay",
+    "followers_url": "https://api.github.com/users/hackerbay/followers",
+    "following_url": "https://api.github.com/users/hackerbay/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hackerbay/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hackerbay/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hackerbay/subscriptions",
+    "organizations_url": "https://api.github.com/users/hackerbay/orgs",
+    "repos_url": "https://api.github.com/users/hackerbay/repos",
+    "events_url": "https://api.github.com/users/hackerbay/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hackerbay/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "itaditya": 1,
+    "nawazdhandala": 138
+  },
+  "pulls_authors": [
+    "itaditya"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-13T16:33:54.480Z"
+}

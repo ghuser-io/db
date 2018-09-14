@@ -1,0 +1,108 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-lectures",
+  "full_name": "fmi/go-lectures",
+  "owner": "fmi",
+  "private": false,
+  "html_url": "https://github.com/fmi/go-lectures",
+  "description": " The lectures for the Go course",
+  "fork": false,
+  "url": "https://api.github.com/repos/fmi/go-lectures",
+  "languages_url": "https://api.github.com/repos/fmi/go-lectures/languages",
+  "pulls_url": "https://api.github.com/repos/fmi/go-lectures/pulls{/number}",
+  "created_at": "2013-09-29T15:23:13Z",
+  "updated_at": "2018-08-16T19:59:41Z",
+  "pushed_at": "2018-07-01T08:29:53Z",
+  "homepage": null,
+  "size": 1445,
+  "stargazers_count": 14,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "fmi",
+    "id": 601547,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYwMTU0Nw==",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/601547?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/fmi",
+    "html_url": "https://github.com/fmi",
+    "followers_url": "https://api.github.com/users/fmi/followers",
+    "following_url": "https://api.github.com/users/fmi/following{/other_user}",
+    "gists_url": "https://api.github.com/users/fmi/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/fmi/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/fmi/subscriptions",
+    "organizations_url": "https://api.github.com/users/fmi/orgs",
+    "repos_url": "https://api.github.com/users/fmi/repos",
+    "events_url": "https://api.github.com/users/fmi/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/fmi/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Bo0mer": 1,
+    "EmilianStankov": 1,
+    "joankaradimov": 1,
+    "boris-petrov": 1,
+    "evgenidb": 1,
+    "jivko-chobanov": 1,
+    "herince": 2,
+    "MStoykov": 4,
+    "IliaSky": 4,
+    "na--": 12,
+    "ironsmile": 32,
+    "vladimiroff": 45
+  },
+  "pulls_authors": [
+    "Bo0mer",
+    "herince",
+    "EmilianStankov",
+    "hahcho",
+    "speedyGonzales",
+    "IliaSky",
+    "joankaradimov",
+    "evgenidb",
+    "na--",
+    "MariaTerzieva",
+    "jivko-chobanov"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 30768,
+      "color": "#375eab"
+    },
+    "JavaScript": {
+      "bytes": 26991,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 13352,
+      "color": "#563d7c"
+    },
+    "C": {
+      "bytes": 3749,
+      "color": "#555555"
+    },
+    "Assembly": {
+      "bytes": 3013,
+      "color": "#6E4C13"
+    },
+    "Makefile": {
+      "bytes": 591,
+      "color": "#427819"
+    },
+    "Python": {
+      "bytes": 418,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:42:48.954Z"
+}

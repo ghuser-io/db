@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "qml-creative-controls",
+  "full_name": "jcelerier/qml-creative-controls",
+  "owner": "jcelerier",
+  "private": false,
+  "html_url": "https://github.com/jcelerier/qml-creative-controls",
+  "description": "QML controls for creative applications and creative coding",
+  "fork": false,
+  "url": "https://api.github.com/repos/jcelerier/qml-creative-controls",
+  "languages_url": "https://api.github.com/repos/jcelerier/qml-creative-controls/languages",
+  "pulls_url": "https://api.github.com/repos/jcelerier/qml-creative-controls/pulls{/number}",
+  "created_at": "2017-04-01T21:16:10Z",
+  "updated_at": "2018-09-11T07:09:09Z",
+  "pushed_at": "2018-08-27T07:04:28Z",
+  "homepage": "",
+  "size": 361,
+  "stargazers_count": 83,
+  "language": "QML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "avilleret": 4,
+    "jcelerier": 79,
+    "aklevy": 96
+  },
+  "pulls_authors": [
+    "avilleret"
+  ],
+  "languages": {
+    "QML": {
+      "bytes": 89157,
+      "color": "#44a51c"
+    },
+    "C++": {
+      "bytes": 33975,
+      "color": "#f34b7d"
+    },
+    "QMake": {
+      "bytes": 3756,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 858,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:43.484Z"
+}

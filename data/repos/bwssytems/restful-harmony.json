@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "restful-harmony",
+  "full_name": "bwssytems/restful-harmony",
+  "owner": "bwssytems",
+  "private": false,
+  "html_url": "https://github.com/bwssytems/restful-harmony",
+  "description": "Restful harmony server to communicate with harmony hub.",
+  "fork": false,
+  "url": "https://api.github.com/repos/bwssytems/restful-harmony",
+  "languages_url": "https://api.github.com/repos/bwssytems/restful-harmony/languages",
+  "pulls_url": "https://api.github.com/repos/bwssytems/restful-harmony/pulls{/number}",
+  "created_at": "2015-09-18T15:22:40Z",
+  "updated_at": "2018-07-18T11:35:36Z",
+  "pushed_at": "2018-03-07T15:09:02Z",
+  "homepage": null,
+  "size": 62,
+  "stargazers_count": 21,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "snipem": 1,
+    "bwssytems": 29
+  },
+  "pulls_authors": [
+    "snipem"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 15993,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-11T02:29:36.739Z"
+}

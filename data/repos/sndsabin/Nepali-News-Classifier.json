@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Nepali-News-Classifier",
+  "full_name": "sndsabin/Nepali-News-Classifier",
+  "owner": "sndsabin",
+  "private": false,
+  "html_url": "https://github.com/sndsabin/Nepali-News-Classifier",
+  "description": "Text Classification of Nepali Language Document. This Mini Project was done for the partial fulfillment of NLP Course : COMP 473. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/sndsabin/Nepali-News-Classifier",
+  "languages_url": "https://api.github.com/repos/sndsabin/Nepali-News-Classifier/languages",
+  "pulls_url": "https://api.github.com/repos/sndsabin/Nepali-News-Classifier/pulls{/number}",
+  "created_at": "2017-07-20T05:19:49Z",
+  "updated_at": "2018-06-04T04:13:14Z",
+  "pushed_at": "2017-07-22T11:47:19Z",
+  "homepage": null,
+  "size": 37447,
+  "stargazers_count": 6,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "amitness": 1,
+    "sndsabin": 7
+  },
+  "pulls_authors": [
+    "amitness"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 4516,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:27.922Z"
+}

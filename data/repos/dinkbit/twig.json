@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "twig",
+  "full_name": "dinkbit/twig",
+  "owner": "dinkbit",
+  "private": false,
+  "html_url": "https://github.com/dinkbit/twig",
+  "description": "Simple and flexible Laravel integration with Twig template engine.",
+  "fork": false,
+  "url": "https://api.github.com/repos/dinkbit/twig",
+  "languages_url": "https://api.github.com/repos/dinkbit/twig/languages",
+  "pulls_url": "https://api.github.com/repos/dinkbit/twig/pulls{/number}",
+  "created_at": "2015-01-29T07:30:34Z",
+  "updated_at": "2017-11-09T22:00:43Z",
+  "pushed_at": "2015-07-03T17:52:43Z",
+  "homepage": "",
+  "size": 258,
+  "stargazers_count": 6,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "dinkbit",
+    "id": 1818128,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4MTgxMjg=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/1818128?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/dinkbit",
+    "html_url": "https://github.com/dinkbit",
+    "followers_url": "https://api.github.com/users/dinkbit/followers",
+    "following_url": "https://api.github.com/users/dinkbit/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dinkbit/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/dinkbit/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dinkbit/subscriptions",
+    "organizations_url": "https://api.github.com/users/dinkbit/orgs",
+    "repos_url": "https://api.github.com/users/dinkbit/repos",
+    "events_url": "https://api.github.com/users/dinkbit/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/dinkbit/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jbrooksuk": 1,
+    "GrahamCampbell": 1,
+    "arturock": 1,
+    "joecohens": 14
+  },
+  "pulls_authors": [
+    "jbrooksuk",
+    "arturock"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 11877,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:50.606Z"
+}

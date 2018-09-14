@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "python-nytapiclient",
+  "full_name": "cotsog/python-nytapiclient",
+  "owner": "cotsog",
+  "private": false,
+  "html_url": "https://github.com/cotsog/python-nytapiclient",
+  "description": "Python client for the New York Times API",
+  "fork": false,
+  "url": "https://api.github.com/repos/cotsog/python-nytapiclient",
+  "languages_url": "https://api.github.com/repos/cotsog/python-nytapiclient/languages",
+  "pulls_url": "https://api.github.com/repos/cotsog/python-nytapiclient/pulls{/number}",
+  "created_at": "2012-02-01T03:11:06Z",
+  "updated_at": "2016-10-12T20:39:24Z",
+  "pushed_at": "2012-02-15T02:58:59Z",
+  "homepage": "",
+  "size": 161,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cotsog": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 1842,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T17:08:33.837Z"
+}

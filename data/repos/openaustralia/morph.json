@@ -1,0 +1,162 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "morph",
+  "full_name": "openaustralia/morph",
+  "owner": "openaustralia",
+  "private": false,
+  "html_url": "https://github.com/openaustralia/morph",
+  "description": "Take the hassle out of web scraping",
+  "fork": false,
+  "url": "https://api.github.com/repos/openaustralia/morph",
+  "languages_url": "https://api.github.com/repos/openaustralia/morph/languages",
+  "pulls_url": "https://api.github.com/repos/openaustralia/morph/pulls{/number}",
+  "created_at": "2013-12-22T05:39:05Z",
+  "updated_at": "2018-09-06T16:21:53Z",
+  "pushed_at": "2018-06-18T01:06:06Z",
+  "homepage": "https://morph.io",
+  "size": 5078,
+  "stargazers_count": 371,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "openaustralia",
+    "id": 102012,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwMjAxMg==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/102012?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/openaustralia",
+    "html_url": "https://github.com/openaustralia",
+    "followers_url": "https://api.github.com/users/openaustralia/followers",
+    "following_url": "https://api.github.com/users/openaustralia/following{/other_user}",
+    "gists_url": "https://api.github.com/users/openaustralia/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/openaustralia/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/openaustralia/subscriptions",
+    "organizations_url": "https://api.github.com/users/openaustralia/orgs",
+    "repos_url": "https://api.github.com/users/openaustralia/repos",
+    "events_url": "https://api.github.com/users/openaustralia/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/openaustralia/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jamezpolley": 1,
+    "EkaterinaSemenova": 1,
+    "Anishka0107": 1,
+    "drzax": 1,
+    "wfdd": 1,
+    "MikeRalphson": 1,
+    "njenkins": 1,
+    "millette": 1,
+    "jarib": 1,
+    "joonjoonjoon": 1,
+    "softgrow": 1,
+    "bxjx": 1,
+    "CloCkWeRX": 1,
+    "waffle-with-pears": 1,
+    "jcartledge": 2,
+    "katkad": 2,
+    "sebbacon": 2,
+    "zarino": 2,
+    "sam0410": 3,
+    "emikulic": 3,
+    "otherchirps": 4,
+    "lkundrak": 4,
+    "pezholio": 4,
+    "snoblenet": 6,
+    "katska": 10,
+    "auxesis": 14,
+    "chrismytton": 21,
+    "henare": 494,
+    "equivalentideas": 516,
+    "mlandauer": 2008
+  },
+  "pulls_authors": [
+    "jamezpolley",
+    "sgerrand",
+    "mlandauer",
+    "auxesis",
+    "sam0410",
+    "chrismytton",
+    "EkaterinaSemenova",
+    "Anishka0107",
+    "drzax",
+    "henare",
+    "handelaar",
+    "CloCkWeRX",
+    "wfdd",
+    "MikeRalphson",
+    "snoblenet",
+    "njenkins",
+    "equivalentideas",
+    "millette",
+    "jcartledge",
+    "katkad",
+    "otherchirps",
+    "jarib",
+    "emikulic",
+    "joonjoonjoon",
+    "softgrow",
+    "bxjx",
+    "lkundrak",
+    "sebbacon",
+    "pezholio",
+    "zarino",
+    "waffleio"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 435347,
+      "color": "#701516"
+    },
+    "CSS": {
+      "bytes": 101063,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 77337,
+      "color": "#e34c26"
+    },
+    "CoffeeScript": {
+      "bytes": 9252,
+      "color": "#244776"
+    },
+    "Shell": {
+      "bytes": 3007,
+      "color": "#89e051"
+    },
+    "JavaScript": {
+      "bytes": 2503,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 2257,
+      "color": "#3572A5"
+    },
+    "Io": {
+      "bytes": 2249,
+      "color": "#a9188d"
+    },
+    "Perl": {
+      "bytes": 2151,
+      "color": "#0298c3"
+    },
+    "PHP": {
+      "bytes": 1048,
+      "color": "#4F5D95"
+    },
+    "Makefile": {
+      "bytes": 200,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:29.624Z"
+}

@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Flowerflip",
+  "full_name": "the-grid/Flowerflip",
+  "owner": "the-grid",
+  "private": false,
+  "html_url": "https://github.com/the-grid/Flowerflip",
+  "description": "Layout solver",
+  "fork": false,
+  "url": "https://api.github.com/repos/the-grid/Flowerflip",
+  "languages_url": "https://api.github.com/repos/the-grid/Flowerflip/languages",
+  "pulls_url": "https://api.github.com/repos/the-grid/Flowerflip/pulls{/number}",
+  "created_at": "2015-01-31T23:51:21Z",
+  "updated_at": "2017-05-11T12:21:00Z",
+  "pushed_at": "2017-05-31T21:37:48Z",
+  "homepage": null,
+  "size": 345,
+  "stargazers_count": 11,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "the-grid",
+    "id": 2418158,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI0MTgxNTg=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/2418158?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/the-grid",
+    "html_url": "https://github.com/the-grid",
+    "followers_url": "https://api.github.com/users/the-grid/followers",
+    "following_url": "https://api.github.com/users/the-grid/following{/other_user}",
+    "gists_url": "https://api.github.com/users/the-grid/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/the-grid/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/the-grid/subscriptions",
+    "organizations_url": "https://api.github.com/users/the-grid/orgs",
+    "repos_url": "https://api.github.com/users/the-grid/repos",
+    "events_url": "https://api.github.com/users/the-grid/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/the-grid/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "RoyalTS": 1,
+    "jongold": 2,
+    "cbchouinard": 9,
+    "paulyoung": 10,
+    "jonnor": 19,
+    "greenkeeperio-bot": 26,
+    "d4tocchini": 41,
+    "bergie": 218
+  },
+  "pulls_authors": [
+    "greenkeeperio-bot",
+    "bergie",
+    "paulyoung",
+    "cbchouinard"
+  ],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 165069,
+      "color": "#244776"
+    },
+    "HTML": {
+      "bytes": 840,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 79,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:57.131Z"
+}

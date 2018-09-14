@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pretty-ms",
+  "full_name": "sindresorhus/pretty-ms",
+  "owner": "sindresorhus",
+  "private": false,
+  "html_url": "https://github.com/sindresorhus/pretty-ms",
+  "description": "Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`",
+  "fork": false,
+  "url": "https://api.github.com/repos/sindresorhus/pretty-ms",
+  "languages_url": "https://api.github.com/repos/sindresorhus/pretty-ms/languages",
+  "pulls_url": "https://api.github.com/repos/sindresorhus/pretty-ms/pulls{/number}",
+  "created_at": "2014-03-20T14:36:57Z",
+  "updated_at": "2018-09-13T14:58:11Z",
+  "pushed_at": "2018-09-12T14:40:49Z",
+  "homepage": "",
+  "size": 37,
+  "stargazers_count": 337,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "kolyaventuri": 1,
+    "Rich-Harris": 1,
+    "rexxars": 1,
+    "pluma": 1,
+    "mathiasbynens": 1,
+    "kevva": 2,
+    "icyflame": 3,
+    "sindresorhus": 37
+  },
+  "pulls_authors": [
+    "jackw01",
+    "kolyaventuri",
+    "mees-",
+    "Rich-Harris",
+    "rexxars",
+    "kevva",
+    "icyflame",
+    "pluma",
+    "sindresorhus",
+    "mathiasbynens"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 5511,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-13T16:33:58.573Z"
+}

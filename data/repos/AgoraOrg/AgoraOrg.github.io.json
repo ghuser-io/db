@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "AgoraOrg.github.io",
+  "full_name": "AgoraOrg/AgoraOrg.github.io",
+  "owner": "AgoraOrg",
+  "private": false,
+  "html_url": "https://github.com/AgoraOrg/AgoraOrg.github.io",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/AgoraOrg/AgoraOrg.github.io",
+  "languages_url": "https://api.github.com/repos/AgoraOrg/AgoraOrg.github.io/languages",
+  "pulls_url": "https://api.github.com/repos/AgoraOrg/AgoraOrg.github.io/pulls{/number}",
+  "created_at": "2016-11-26T15:58:39Z",
+  "updated_at": "2017-03-22T07:56:48Z",
+  "pushed_at": "2016-11-27T13:00:18Z",
+  "homepage": null,
+  "size": 15417,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "AgoraOrg",
+    "id": 24191870,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI0MTkxODcw",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/24191870?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/AgoraOrg",
+    "html_url": "https://github.com/AgoraOrg",
+    "followers_url": "https://api.github.com/users/AgoraOrg/followers",
+    "following_url": "https://api.github.com/users/AgoraOrg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/AgoraOrg/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/AgoraOrg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/AgoraOrg/subscriptions",
+    "organizations_url": "https://api.github.com/users/AgoraOrg/orgs",
+    "repos_url": "https://api.github.com/users/AgoraOrg/repos",
+    "events_url": "https://api.github.com/users/AgoraOrg/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/AgoraOrg/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "sergioisidoro": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 85551,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 67436,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 12734,
+      "color": "#f1e05a"
+    },
+    "Ruby": {
+      "bytes": 7048,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:19.447Z"
+}

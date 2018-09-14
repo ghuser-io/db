@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "MERN-demo",
+  "full_name": "itaditya/MERN-demo",
+  "owner": "itaditya",
+  "private": false,
+  "html_url": "https://github.com/itaditya/MERN-demo",
+  "description": "A demo application for learning React with Nodejs and MongoDB",
+  "fork": false,
+  "url": "https://api.github.com/repos/itaditya/MERN-demo",
+  "languages_url": "https://api.github.com/repos/itaditya/MERN-demo/languages",
+  "created_at": "2017-09-10T05:04:20Z",
+  "updated_at": "2017-10-20T07:33:28Z",
+  "pushed_at": "2017-10-20T07:33:07Z",
+  "homepage": "https://merndemo.herokuapp.com/",
+  "size": 147,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ankitjain28may": 1,
+    "itaditya": 13
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 24428,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1778,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/itaditya/MERN-demo/pulls{/number}",
+  "pulls_authors": [
+    "itaditya",
+    "ankitjain28may"
+  ]
+}

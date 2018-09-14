@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Elliptical-Curve-Cryptography",
+  "full_name": "iCHAIT/Elliptical-Curve-Cryptography",
+  "owner": "iCHAIT",
+  "private": false,
+  "html_url": "https://github.com/iCHAIT/Elliptical-Curve-Cryptography",
+  "description": "File Encryption/Decryption and Implementation of Digital Signature using Elliptical Curve Cryptography technique.",
+  "fork": false,
+  "url": "https://api.github.com/repos/iCHAIT/Elliptical-Curve-Cryptography",
+  "languages_url": "https://api.github.com/repos/iCHAIT/Elliptical-Curve-Cryptography/languages",
+  "pulls_url": "https://api.github.com/repos/iCHAIT/Elliptical-Curve-Cryptography/pulls{/number}",
+  "created_at": "2015-04-02T10:21:33Z",
+  "updated_at": "2018-07-24T14:20:54Z",
+  "pushed_at": "2015-06-12T16:53:12Z",
+  "homepage": null,
+  "size": 623,
+  "stargazers_count": 10,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ameenkhan07": 6,
+    "iCHAIT": 19
+  },
+  "pulls_authors": [
+    "ameenkhan07",
+    "iCHAIT"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 22337,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-03T17:15:08.266Z"
+}

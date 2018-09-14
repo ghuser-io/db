@@ -1,0 +1,141 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "toggldesktop",
+  "full_name": "toggl/toggldesktop",
+  "owner": "toggl",
+  "private": false,
+  "html_url": "https://github.com/toggl/toggldesktop",
+  "description": "Toggl Desktop app for Windows, Mac and Linux",
+  "fork": false,
+  "url": "https://api.github.com/repos/toggl/toggldesktop",
+  "languages_url": "https://api.github.com/repos/toggl/toggldesktop/languages",
+  "pulls_url": "https://api.github.com/repos/toggl/toggldesktop/pulls{/number}",
+  "created_at": "2014-02-10T17:50:41Z",
+  "updated_at": "2018-09-13T09:20:46Z",
+  "pushed_at": "2018-09-11T12:22:21Z",
+  "homepage": "https://toggl.github.io/toggldesktop/",
+  "size": 218072,
+  "stargazers_count": 1033,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "toggl",
+    "id": 316475,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMxNjQ3NQ==",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/316475?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/toggl",
+    "html_url": "https://github.com/toggl",
+    "followers_url": "https://api.github.com/users/toggl/followers",
+    "following_url": "https://api.github.com/users/toggl/following{/other_user}",
+    "gists_url": "https://api.github.com/users/toggl/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/toggl/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/toggl/subscriptions",
+    "organizations_url": "https://api.github.com/users/toggl/orgs",
+    "repos_url": "https://api.github.com/users/toggl/repos",
+    "events_url": "https://api.github.com/users/toggl/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/toggl/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "tanel": 3602,
+    "IndrekV": 1744,
+    "amulware": 604,
+    "unmultimedio": 12,
+    "samford": 8,
+    "javimudi": 2,
+    "eatskolnikov": 2,
+    "jayvdb": 2,
+    "buma": 2,
+    "brunodlz": 1,
+    "codeman38": 1,
+    "webervin": 1,
+    "reederz": 1,
+    "Leland": 1,
+    "refiito": 1,
+    "tripox": 1,
+    "dev-zero": 1,
+    "cori": 1,
+    "partyka1": 1,
+    "sainaen": 1,
+    "toggl-buildbot": 11,
+    "MartinBriza": 4
+  },
+  "pulls_authors": [
+    "Jackymancs4",
+    "w32",
+    "Leland",
+    "jayvdb",
+    "refiito",
+    "reederz",
+    "partyka1",
+    "sainaen",
+    "unmultimedio",
+    "brunodlz",
+    "dev-zero",
+    "eatskolnikov",
+    "cori",
+    "javimudi",
+    "amulware",
+    "codeman38",
+    "buma",
+    "olvidalo",
+    "tripox",
+    "samford",
+    "MartinBriza",
+    "IndrekV"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 1011437,
+      "color": "#f34b7d"
+    },
+    "C#": {
+      "bytes": 517742,
+      "color": "#178600"
+    },
+    "Objective-C": {
+      "bytes": 308754,
+      "color": "#438eff"
+    },
+    "C": {
+      "bytes": 36059,
+      "color": "#555555"
+    },
+    "HTML": {
+      "bytes": 35682,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 20834,
+      "color": "#427819"
+    },
+    "Go": {
+      "bytes": 12313,
+      "color": "#375eab"
+    },
+    "QMake": {
+      "bytes": 10241,
+      "color": "#ccc"
+    },
+    "Lua": {
+      "bytes": 9389,
+      "color": "#000080"
+    },
+    "Shell": {
+      "bytes": 4522,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T16:34:29.889Z"
+}

@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "trendyol.github.io",
+  "full_name": "Trendyol/trendyol.github.io",
+  "owner": "Trendyol",
+  "private": false,
+  "html_url": "https://github.com/Trendyol/trendyol.github.io",
+  "description": "This repository contains the source of the http://trendyol.github.io",
+  "fork": false,
+  "url": "https://api.github.com/repos/Trendyol/trendyol.github.io",
+  "languages_url": "https://api.github.com/repos/Trendyol/trendyol.github.io/languages",
+  "pulls_url": "https://api.github.com/repos/Trendyol/trendyol.github.io/pulls{/number}",
+  "created_at": "2015-08-19T06:22:54Z",
+  "updated_at": "2018-05-18T18:46:31Z",
+  "pushed_at": "2018-05-18T18:46:31Z",
+  "homepage": "",
+  "size": 663,
+  "stargazers_count": 7,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "Trendyol",
+    "id": 13857072,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzODU3MDcy",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/13857072?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Trendyol",
+    "html_url": "https://github.com/Trendyol",
+    "followers_url": "https://api.github.com/users/Trendyol/followers",
+    "following_url": "https://api.github.com/users/Trendyol/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Trendyol/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Trendyol/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Trendyol/subscriptions",
+    "organizations_url": "https://api.github.com/users/Trendyol/orgs",
+    "repos_url": "https://api.github.com/users/Trendyol/repos",
+    "events_url": "https://api.github.com/users/Trendyol/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Trendyol/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ocinbat": 1,
+    "Numankacar": 3,
+    "ziyasal": 18
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1079060,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 10622,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 6143,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:15.794Z"
+}

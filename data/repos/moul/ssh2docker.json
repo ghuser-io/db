@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ssh2docker",
+  "full_name": "moul/ssh2docker",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/ssh2docker",
+  "description": ":whale: standalone SSH server that connects you to your Docker containers",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/ssh2docker",
+  "languages_url": "https://api.github.com/repos/moul/ssh2docker/languages",
+  "pulls_url": "https://api.github.com/repos/moul/ssh2docker/pulls{/number}",
+  "created_at": "2015-08-24T19:58:18Z",
+  "updated_at": "2018-09-05T03:26:21Z",
+  "pushed_at": "2018-08-18T16:12:48Z",
+  "homepage": "",
+  "size": 4902,
+  "stargazers_count": 119,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "QuentinPerez": 6,
+    "moul": 110
+  },
+  "pulls_authors": [
+    "renovate[bot]",
+    "imgbot[bot]",
+    "moul",
+    "QuentinPerez"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 30825,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 2824,
+      "color": "#427819"
+    },
+    "Ruby": {
+      "bytes": 969,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:42.338Z"
+}

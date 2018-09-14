@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "trust",
+  "full_name": "japaric/trust",
+  "owner": "japaric",
+  "private": false,
+  "html_url": "https://github.com/japaric/trust",
+  "description": "Travis CI and AppVeyor template to test your Rust crate on 5 architectures and publish binary releases of it for Linux, macOS and Windows",
+  "fork": false,
+  "url": "https://api.github.com/repos/japaric/trust",
+  "languages_url": "https://api.github.com/repos/japaric/trust/languages",
+  "pulls_url": "https://api.github.com/repos/japaric/trust/pulls{/number}",
+  "created_at": "2016-09-29T04:44:25Z",
+  "updated_at": "2018-09-13T15:40:28Z",
+  "pushed_at": "2018-09-13T06:45:39Z",
+  "homepage": "",
+  "size": 100,
+  "stargazers_count": 593,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "musoke": 1,
+    "temtemy": 1,
+    "faern": 1,
+    "johannhof": 1,
+    "jaemk": 2,
+    "Arzte": 2,
+    "fenollp": 9,
+    "japaric": 116
+  },
+  "pulls_authors": [
+    "Calinou",
+    "flofriday",
+    "evelynmitchell",
+    "bgermann",
+    "Yiniau",
+    "commonquail",
+    "vbrandl",
+    "SirVer",
+    "musoke",
+    "Susurrus",
+    "temtemy",
+    "jaemk",
+    "faern",
+    "japaric",
+    "Arzte",
+    "gnunicorn",
+    "fenollp",
+    "johannhof",
+    "slonopotamus"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 2535,
+      "color": "#89e051"
+    },
+    "Rust": {
+      "bytes": 1351,
+      "color": "#dea584"
+    },
+    "PowerShell": {
+      "bytes": 576,
+      "color": "#012456"
+    },
+    "C": {
+      "bytes": 66,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-13T16:26:05.697Z"
+}

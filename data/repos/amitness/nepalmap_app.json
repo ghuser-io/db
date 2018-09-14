@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nepalmap_app",
+  "full_name": "amitness/nepalmap_app",
+  "owner": "amitness",
+  "private": false,
+  "html_url": "https://github.com/amitness/nepalmap_app",
+  "description": "An application that maps census data for Nepal to make data more easily accessible and understandable to the public",
+  "fork": true,
+  "url": "https://api.github.com/repos/amitness/nepalmap_app",
+  "languages_url": "https://api.github.com/repos/amitness/nepalmap_app/languages",
+  "pulls_url": "https://api.github.com/repos/amitness/nepalmap_app/pulls{/number}",
+  "created_at": "2016-09-29T14:59:20Z",
+  "updated_at": "2016-11-30T11:58:08Z",
+  "pushed_at": "2016-11-28T15:33:59Z",
+  "homepage": "",
+  "size": 9329,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cliftonmcintosh": 14
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 3788,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 1374,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:34.675Z"
+}

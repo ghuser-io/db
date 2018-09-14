@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "iOSRestrictionBruteForce",
+  "full_name": "thehappydinoa/iOSRestrictionBruteForce",
+  "owner": "thehappydinoa",
+  "private": false,
+  "html_url": "https://github.com/thehappydinoa/iOSRestrictionBruteForce",
+  "description": "Crack iOS Restriction Passcodes with Python",
+  "fork": true,
+  "url": "https://api.github.com/repos/thehappydinoa/iOSRestrictionBruteForce",
+  "languages_url": "https://api.github.com/repos/thehappydinoa/iOSRestrictionBruteForce/languages",
+  "pulls_url": "https://api.github.com/repos/thehappydinoa/iOSRestrictionBruteForce/pulls{/number}",
+  "created_at": "2017-09-25T15:07:04Z",
+  "updated_at": "2018-09-13T19:18:20Z",
+  "pushed_at": "2018-09-09T14:57:47Z",
+  "homepage": "",
+  "size": 611,
+  "stargazers_count": 82,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "yuejd": 1,
+    "thehappydinoa": 81
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 1808724,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 668,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T00:18:23.591Z"
+}

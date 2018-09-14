@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "boris-loader",
+  "full_name": "tobiassjosten/boris-loader",
+  "owner": "tobiassjosten",
+  "private": false,
+  "html_url": "https://github.com/tobiassjosten/boris-loader",
+  "description": "Loads project specific contexts into d11wtq/boris",
+  "fork": false,
+  "url": "https://api.github.com/repos/tobiassjosten/boris-loader",
+  "languages_url": "https://api.github.com/repos/tobiassjosten/boris-loader/languages",
+  "pulls_url": "https://api.github.com/repos/tobiassjosten/boris-loader/pulls{/number}",
+  "created_at": "2013-08-16T09:50:34Z",
+  "updated_at": "2017-11-04T05:51:52Z",
+  "pushed_at": "2016-08-04T10:06:00Z",
+  "homepage": null,
+  "size": 35,
+  "stargazers_count": 30,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ck99": 1,
+    "pcambra": 1,
+    "Cottser": 1,
+    "jrobeson": 1,
+    "mcfedr": 2,
+    "chasingmaxwell": 2,
+    "yched": 2,
+    "bchoquet-heliopsis": 2,
+    "michaelesmith": 3,
+    "philrennie": 8,
+    "tobiassjosten": 13
+  },
+  "pulls_authors": [
+    "mcfedr",
+    "philrennie",
+    "tobiassjosten",
+    "ck99",
+    "pcambra",
+    "Cottser",
+    "chasingmaxwell",
+    "yched",
+    "bchoquet-heliopsis",
+    "michaelesmith",
+    "jrobeson"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 9683,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-11T10:40:31.181Z"
+}

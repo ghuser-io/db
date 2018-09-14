@@ -1,0 +1,125 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tutanota",
+  "full_name": "tutao/tutanota",
+  "owner": "tutao",
+  "private": false,
+  "html_url": "https://github.com/tutao/tutanota",
+  "description": "Tutanota is the end-to-end encrypted mail client that enables you to communicate securely with anyone.",
+  "fork": false,
+  "url": "https://api.github.com/repos/tutao/tutanota",
+  "languages_url": "https://api.github.com/repos/tutao/tutanota/languages",
+  "pulls_url": "https://api.github.com/repos/tutao/tutanota/pulls{/number}",
+  "created_at": "2014-07-28T14:14:45Z",
+  "updated_at": "2018-09-14T07:28:52Z",
+  "pushed_at": "2018-09-14T07:28:50Z",
+  "homepage": "https://tutanota.com",
+  "size": 95738,
+  "stargazers_count": 2070,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "tutao",
+    "id": 6120691,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxMjA2OTE=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/6120691?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/tutao",
+    "html_url": "https://github.com/tutao",
+    "followers_url": "https://api.github.com/users/tutao/followers",
+    "following_url": "https://api.github.com/users/tutao/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tutao/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/tutao/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tutao/subscriptions",
+    "organizations_url": "https://api.github.com/users/tutao/orgs",
+    "repos_url": "https://api.github.com/users/tutao/repos",
+    "events_url": "https://api.github.com/users/tutao/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/tutao/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Perflyst": 1,
+    "Poussinou": 1,
+    "briankcook": 1,
+    "altin": 1,
+    "aloisdg": 1,
+    "graingert": 1,
+    "Pablohn26": 1,
+    "Sc00bz": 1,
+    "svenper": 1,
+    "janriemer": 1,
+    "carnott-redhat": 1,
+    "elninosi": 2,
+    "hahub": 3,
+    "tk421": 4,
+    "ganthern": 9,
+    "charlag": 216,
+    "mpfau": 297,
+    "armhub": 670,
+    "bedhub": 772
+  },
+  "pulls_authors": [
+    "Perflyst",
+    "jgora",
+    "Dutisto",
+    "charlag",
+    "briankcook",
+    "Poussinou",
+    "altin",
+    "lucafavatella",
+    "WhiteSymmetry",
+    "zeeshan595",
+    "aloisdg",
+    "chovy",
+    "elimisteve",
+    "graingert",
+    "Pablohn26",
+    "Sc00bz",
+    "svenper",
+    "ghost",
+    "caedmonm",
+    "arnottcr",
+    "elninosi",
+    "avarisclari",
+    "tk421",
+    "janriemer",
+    "medicalwei"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6633226,
+      "color": "#f1e05a"
+    },
+    "C": {
+      "bytes": 1303545,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 163270,
+      "color": "#f34b7d"
+    },
+    "Objective-C": {
+      "bytes": 142706,
+      "color": "#438eff"
+    },
+    "Java": {
+      "bytes": 139922,
+      "color": "#b07219"
+    },
+    "Shell": {
+      "bytes": 203,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T08:20:20.186Z"
+}

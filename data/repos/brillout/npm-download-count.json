@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "npm-download-count",
+  "full_name": "brillout/npm-download-count",
+  "owner": "brillout",
+  "private": false,
+  "html_url": "https://github.com/brillout/npm-download-count",
+  "description": "Retrieve package's number of downloads in a period of time",
+  "fork": false,
+  "url": "https://api.github.com/repos/brillout/npm-download-count",
+  "languages_url": "https://api.github.com/repos/brillout/npm-download-count/languages",
+  "created_at": "2016-06-28T12:53:57Z",
+  "updated_at": "2016-09-30T04:23:17Z",
+  "pushed_at": "2016-08-03T08:14:59Z",
+  "homepage": null,
+  "size": 6,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "cc0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "spdx_id": "CC0-1.0",
+    "url": "https://api.github.com/licenses/cc0-1.0",
+    "node_id": "MDc6TGljZW5zZTY="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "brillout": 5
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 3012,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/brillout/npm-download-count/pulls{/number}",
+  "pulls_authors": []
+}

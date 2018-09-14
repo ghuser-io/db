@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "telegram-bot-bash",
+  "full_name": "topkecleon/telegram-bot-bash",
+  "owner": "topkecleon",
+  "private": false,
+  "html_url": "https://github.com/topkecleon/telegram-bot-bash",
+  "description": "Telegram bot written in bash",
+  "fork": false,
+  "url": "https://api.github.com/repos/topkecleon/telegram-bot-bash",
+  "languages_url": "https://api.github.com/repos/topkecleon/telegram-bot-bash/languages",
+  "pulls_url": "https://api.github.com/repos/topkecleon/telegram-bot-bash/pulls{/number}",
+  "created_at": "2015-07-10T05:46:37Z",
+  "updated_at": "2018-08-25T10:11:18Z",
+  "pushed_at": "2017-11-14T04:22:03Z",
+  "homepage": null,
+  "size": 104,
+  "stargazers_count": 137,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "fdaniele85": 1,
+    "JuanPotato": 1,
+    "BigNerd95": 2,
+    "TiagoDanin": 3,
+    "iicc1": 5,
+    "danog": 54
+  },
+  "pulls_authors": [
+    "fdaniele85",
+    "TiagoDanin",
+    "otgo",
+    "danog",
+    "wrxck",
+    "iicc1",
+    "BigNerd95",
+    "JuanPotato"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 21361,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-25T19:36:52.919Z"
+}

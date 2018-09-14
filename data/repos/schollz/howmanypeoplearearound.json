@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "howmanypeoplearearound",
+  "full_name": "schollz/howmanypeoplearearound",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/howmanypeoplearearound",
+  "description": "Count the number of people around you :family_man_man_boy: by monitoring wifi signals :satellite:",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/howmanypeoplearearound",
+  "languages_url": "https://api.github.com/repos/schollz/howmanypeoplearearound/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/howmanypeoplearearound/pulls{/number}",
+  "created_at": "2017-05-11T13:06:29Z",
+  "updated_at": "2018-09-08T18:35:14Z",
+  "pushed_at": "2017-10-29T16:03:34Z",
+  "homepage": "",
+  "size": 1701,
+  "stargazers_count": 3107,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "syc728": 1,
+    "sente": 1,
+    "Lodour": 1,
+    "ansell": 1,
+    "cclauss": 13,
+    "schollz": 82
+  },
+  "pulls_authors": [
+    "syc728",
+    "sente",
+    "cclauss",
+    "ansell",
+    "schollz",
+    "taylorsmithgg",
+    "Lodour"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 6536392,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:36.403Z"
+}

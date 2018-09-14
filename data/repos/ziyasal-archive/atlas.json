@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "atlas",
+  "full_name": "ziyasal-archive/atlas",
+  "owner": "ziyasal-archive",
+  "private": false,
+  "html_url": "https://github.com/ziyasal-archive/atlas",
+  "description": "warm ups in java before sending :rocket: to :full_moon:",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal-archive/atlas",
+  "languages_url": "https://api.github.com/repos/ziyasal-archive/atlas/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal-archive/atlas/pulls{/number}",
+  "created_at": "2017-02-03T14:11:21Z",
+  "updated_at": "2017-07-28T19:03:09Z",
+  "pushed_at": "2017-04-07T12:31:48Z",
+  "homepage": "",
+  "size": 23,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ziyasal-archive",
+    "id": 28785172,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI4Nzg1MTcy",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/28785172?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ziyasal-archive",
+    "html_url": "https://github.com/ziyasal-archive",
+    "followers_url": "https://api.github.com/users/ziyasal-archive/followers",
+    "following_url": "https://api.github.com/users/ziyasal-archive/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ziyasal-archive/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ziyasal-archive/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ziyasal-archive/subscriptions",
+    "organizations_url": "https://api.github.com/users/ziyasal-archive/orgs",
+    "repos_url": "https://api.github.com/users/ziyasal-archive/repos",
+    "events_url": "https://api.github.com/users/ziyasal-archive/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ziyasal-archive/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ziyasal": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 23415,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:08.075Z"
+}

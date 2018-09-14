@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "probot-bootstrap",
+  "full_name": "itaditya/probot-bootstrap",
+  "owner": "itaditya",
+  "private": false,
+  "html_url": "https://github.com/itaditya/probot-bootstrap",
+  "description": "A GitHub App built with probot that bootstraps your repo with global settings",
+  "fork": false,
+  "url": "https://api.github.com/repos/itaditya/probot-bootstrap",
+  "languages_url": "https://api.github.com/repos/itaditya/probot-bootstrap/languages",
+  "created_at": "2018-04-16T15:48:40Z",
+  "updated_at": "2018-08-18T00:55:39Z",
+  "pushed_at": "2018-04-19T06:15:22Z",
+  "homepage": null,
+  "size": 127,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "itaditya": 5
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 7129,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 136,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-18T09:19:38.534Z",
+  "pulls_url": "https://api.github.com/repos/itaditya/probot-bootstrap/pulls{/number}",
+  "pulls_authors": []
+}

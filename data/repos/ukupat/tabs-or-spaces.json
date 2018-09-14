@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "matiasgarciaisaia": 1,
+    "ukupat": 51
+  },
+  "name": "tabs-or-spaces",
+  "full_name": "ukupat/tabs-or-spaces",
+  "owner": "ukupat",
+  "private": false,
+  "html_url": "https://github.com/ukupat/tabs-or-spaces",
+  "description": "Module for analysing which whitespace types are used by the top starred repositories in GitHub",
+  "fork": false,
+  "url": "https://api.github.com/repos/ukupat/tabs-or-spaces",
+  "languages_url": "https://api.github.com/repos/ukupat/tabs-or-spaces/languages",
+  "created_at": "2015-05-30T20:30:48Z",
+  "updated_at": "2018-09-11T17:13:30Z",
+  "pushed_at": "2018-02-09T22:50:36Z",
+  "homepage": "http://ukupat.github.io/tabs-or-spaces/",
+  "size": 967,
+  "stargazers_count": 418,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "JavaScript": {
+      "bytes": 14484,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 4604,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 2460,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T20:45:00.634Z",
+  "pulls_url": "https://api.github.com/repos/ukupat/tabs-or-spaces/pulls{/number}",
+  "pulls_authors": [
+    "Calinou",
+    "matiasgarciaisaia"
+  ]
+}

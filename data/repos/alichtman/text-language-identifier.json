@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "text-language-identifier",
+  "full_name": "alichtman/text-language-identifier",
+  "owner": "alichtman",
+  "private": false,
+  "html_url": "https://github.com/alichtman/text-language-identifier",
+  "description": "Accurately identify written English, French or Italian text with up to 99% accuracy.",
+  "fork": false,
+  "url": "https://api.github.com/repos/alichtman/text-language-identifier",
+  "languages_url": "https://api.github.com/repos/alichtman/text-language-identifier/languages",
+  "created_at": "2018-05-07T14:48:17Z",
+  "updated_at": "2018-09-08T10:17:56Z",
+  "pushed_at": "2018-06-30T00:32:02Z",
+  "homepage": "",
+  "size": 6166,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "alichtman": 11
+  },
+  "languages": {
+    "Python": {
+      "bytes": 12400,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-08T12:34:34.808Z",
+  "pulls_url": "https://api.github.com/repos/alichtman/text-language-identifier/pulls{/number}",
+  "pulls_authors": []
+}

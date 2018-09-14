@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "socket-io-presentation",
+  "full_name": "ciaranw/socket-io-presentation",
+  "owner": "ciaranw",
+  "private": false,
+  "html_url": "https://github.com/ciaranw/socket-io-presentation",
+  "description": "Short presentation on the virtues of Socket.IO and node.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/ciaranw/socket-io-presentation",
+  "languages_url": "https://api.github.com/repos/ciaranw/socket-io-presentation/languages",
+  "pulls_url": "https://api.github.com/repos/ciaranw/socket-io-presentation/pulls{/number}",
+  "created_at": "2012-05-01T10:01:01Z",
+  "updated_at": "2013-12-25T14:20:44Z",
+  "pushed_at": "2012-05-01T10:13:32Z",
+  "homepage": null,
+  "size": 528,
+  "stargazers_count": 2,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ciaranw": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 4289,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:53.181Z"
+}

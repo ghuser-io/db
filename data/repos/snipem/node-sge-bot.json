@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-sge-bot",
+  "full_name": "snipem/node-sge-bot",
+  "owner": "snipem",
+  "private": false,
+  "html_url": "https://github.com/snipem/node-sge-bot",
+  "description": "A nodeJs twitter bot collecting news about EINTRACHT FRANKFURT",
+  "fork": true,
+  "url": "https://api.github.com/repos/snipem/node-sge-bot",
+  "languages_url": "https://api.github.com/repos/snipem/node-sge-bot/languages",
+  "pulls_url": "https://api.github.com/repos/snipem/node-sge-bot/pulls{/number}",
+  "created_at": "2016-05-26T14:29:56Z",
+  "updated_at": "2016-05-27T11:30:08Z",
+  "pushed_at": "2016-05-26T15:01:43Z",
+  "homepage": "https://twitter.com/sge_bot",
+  "size": 102,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "snipem": 2,
+    "solygen": 44
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 33746,
+      "color": "#f1e05a"
+    },
+    "ApacheConf": {
+      "bytes": 30,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-11T02:29:38.364Z"
+}

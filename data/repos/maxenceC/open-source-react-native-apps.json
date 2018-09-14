@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "open-source-react-native-apps",
+  "full_name": "maxenceC/open-source-react-native-apps",
+  "owner": "maxenceC",
+  "private": false,
+  "html_url": "https://github.com/maxenceC/open-source-react-native-apps",
+  "description": "Collaborative List of Open-Source React Native apps",
+  "fork": false,
+  "url": "https://api.github.com/repos/maxenceC/open-source-react-native-apps",
+  "languages_url": "https://api.github.com/repos/maxenceC/open-source-react-native-apps/languages",
+  "pulls_url": "https://api.github.com/repos/maxenceC/open-source-react-native-apps/pulls{/number}",
+  "created_at": "2016-07-12T08:21:29Z",
+  "updated_at": "2018-09-07T20:54:49Z",
+  "pushed_at": "2016-08-30T08:59:37Z",
+  "homepage": null,
+  "size": 14,
+  "stargazers_count": 68,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 1,
+    "caffodian": 1,
+    "altayaydemir": 1,
+    "ekonstantinidis": 1,
+    "tmhn": 1,
+    "maxenceC": 26
+  },
+  "pulls_authors": [
+    "cheeaun",
+    "caffodian",
+    "altayaydemir",
+    "manosim",
+    "tmhn"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-10T18:59:57.231Z"
+}

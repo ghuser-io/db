@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sadtrombone.vim",
+  "full_name": "captbaritone/sadtrombone.vim",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/sadtrombone.vim",
+  "description": "Trigger SadTrombone.com mp3 from within vim",
+  "fork": false,
+  "url": "https://api.github.com/repos/captbaritone/sadtrombone.vim",
+  "languages_url": "https://api.github.com/repos/captbaritone/sadtrombone.vim/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/sadtrombone.vim/pulls{/number}",
+  "created_at": "2012-08-24T01:13:55Z",
+  "updated_at": "2018-07-29T22:14:01Z",
+  "pushed_at": "2012-08-24T02:06:28Z",
+  "homepage": null,
+  "size": 116,
+  "stargazers_count": 1,
+  "language": "VimL",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Vim script": {
+      "bytes": 60,
+      "color": "#199f4b"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:45.713Z"
+}

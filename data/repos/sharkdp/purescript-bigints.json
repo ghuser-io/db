@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "purescript-bigints",
+  "full_name": "sharkdp/purescript-bigints",
+  "owner": "sharkdp",
+  "private": false,
+  "html_url": "https://github.com/sharkdp/purescript-bigints",
+  "description": "Arbitrary length integers for PureScript",
+  "fork": false,
+  "url": "https://api.github.com/repos/sharkdp/purescript-bigints",
+  "languages_url": "https://api.github.com/repos/sharkdp/purescript-bigints/languages",
+  "pulls_url": "https://api.github.com/repos/sharkdp/purescript-bigints/pulls{/number}",
+  "created_at": "2015-07-30T20:56:06Z",
+  "updated_at": "2018-06-13T05:30:46Z",
+  "pushed_at": "2018-06-13T05:30:44Z",
+  "homepage": "",
+  "size": 73,
+  "stargazers_count": 16,
+  "language": "PureScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "paulyoung": 1,
+    "XertroV": 1,
+    "Unisay": 1,
+    "jacereda": 1,
+    "Proclivis": 1,
+    "matthewleon": 2,
+    "spicydonuts": 5,
+    "sharkdp": 28
+  },
+  "pulls_authors": [
+    "spicydonuts",
+    "paulyoung",
+    "matthewleon",
+    "sharkdp",
+    "XertroV",
+    "Unisay",
+    "jacereda",
+    "Proclivis"
+  ],
+  "languages": {
+    "PureScript": {
+      "bytes": 11655,
+      "color": "#1D222D"
+    },
+    "JavaScript": {
+      "bytes": 2359,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:51.043Z"
+}

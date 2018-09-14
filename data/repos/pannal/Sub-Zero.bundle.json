@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Sub-Zero.bundle",
+  "full_name": "pannal/Sub-Zero.bundle",
+  "owner": "pannal",
+  "private": false,
+  "html_url": "https://github.com/pannal/Sub-Zero.bundle",
+  "description": "Subtitles for Plex, as good you would expect them to be.",
+  "fork": true,
+  "url": "https://api.github.com/repos/pannal/Sub-Zero.bundle",
+  "languages_url": "https://api.github.com/repos/pannal/Sub-Zero.bundle/languages",
+  "pulls_url": "https://api.github.com/repos/pannal/Sub-Zero.bundle/pulls{/number}",
+  "created_at": "2014-07-17T22:19:13Z",
+  "updated_at": "2018-09-11T14:49:32Z",
+  "pushed_at": "2018-09-08T02:55:01Z",
+  "homepage": "",
+  "size": 47382,
+  "stargazers_count": 616,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "doopler": 1,
+    "Ineluctable": 1,
+    "andreashoyer": 1,
+    "raduc": 1,
+    "viking1304": 1,
+    "infernix": 1,
+    "Erliz": 1,
+    "mmgoodnow": 2,
+    "hamiltont": 2,
+    "sander1": 2,
+    "dimotsai": 3,
+    "morpheus133": 8,
+    "bramwalet": 28,
+    "ukdtom": 66,
+    "pannal": 2431
+  },
+  "pulls_authors": [
+    "doopler",
+    "viking1304",
+    "morpheus133",
+    "dimotsai",
+    "Ineluctable",
+    "mmgoodnow",
+    "gsteward",
+    "andreashoyer",
+    "raduc",
+    "ukdtom",
+    "danielsnipher",
+    "paceto256",
+    "hamiltont",
+    "sander1",
+    "pannal",
+    "infernix"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 6992246,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 53422,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 9249,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T15:15:59.157Z"
+}

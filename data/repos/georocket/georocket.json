@@ -1,0 +1,97 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "georocket",
+  "full_name": "georocket/georocket",
+  "owner": "georocket",
+  "private": false,
+  "html_url": "https://github.com/georocket/georocket",
+  "description": "🚀 GeoRocket - A high-performance data store for geospatial files.",
+  "fork": false,
+  "url": "https://api.github.com/repos/georocket/georocket",
+  "languages_url": "https://api.github.com/repos/georocket/georocket/languages",
+  "pulls_url": "https://api.github.com/repos/georocket/georocket/pulls{/number}",
+  "created_at": "2016-05-06T11:34:34Z",
+  "updated_at": "2018-09-13T12:37:57Z",
+  "pushed_at": "2018-09-13T12:37:55Z",
+  "homepage": "https://georocket.io",
+  "size": 1909,
+  "stargazers_count": 29,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "georocket",
+    "id": 19225503,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5MjI1NTAz",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/19225503?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/georocket",
+    "html_url": "https://github.com/georocket",
+    "followers_url": "https://api.github.com/users/georocket/followers",
+    "following_url": "https://api.github.com/users/georocket/following{/other_user}",
+    "gists_url": "https://api.github.com/users/georocket/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/georocket/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/georocket/subscriptions",
+    "organizations_url": "https://api.github.com/users/georocket/orgs",
+    "repos_url": "https://api.github.com/users/georocket/repos",
+    "events_url": "https://api.github.com/users/georocket/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/georocket/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "isenner": 1,
+    "davidgengenbach": 1,
+    "cotsog": 1,
+    "Fl317": 1,
+    "f7o": 5,
+    "ykammeyer": 5,
+    "tim-hellhake": 59,
+    "bhiemenz": 79,
+    "andrej-sajenko": 103,
+    "michel-kraemer": 654
+  },
+  "pulls_authors": [
+    "s0x",
+    "f7o",
+    "andrej-sajenko",
+    "tim-hellhake",
+    "davidgengenbach",
+    "bhiemenz",
+    "michel-kraemer",
+    "ykammeyer",
+    "cotsog",
+    "Fl317"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 897797,
+      "color": "#b07219"
+    },
+    "Groovy": {
+      "bytes": 30713,
+      "color": "#e69f56"
+    },
+    "Dockerfile": {
+      "bytes": 2656,
+      "color": "#0db7ed"
+    },
+    "Shell": {
+      "bytes": 2572,
+      "color": "#89e051"
+    },
+    "ANTLR": {
+      "bytes": 939,
+      "color": "#9DC3FF"
+    }
+  },
+  "fetched_at": "2018-09-13T16:28:27.392Z"
+}

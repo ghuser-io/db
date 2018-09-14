@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vote-knope",
+  "full_name": "keith/vote-knope",
+  "owner": "keith",
+  "private": false,
+  "html_url": "https://github.com/keith/vote-knope",
+  "description": "Automatically delete +1 comments on GitHub issues",
+  "fork": false,
+  "url": "https://api.github.com/repos/keith/vote-knope",
+  "languages_url": "https://api.github.com/repos/keith/vote-knope/languages",
+  "pulls_url": "https://api.github.com/repos/keith/vote-knope/pulls{/number}",
+  "created_at": "2016-02-04T06:43:04Z",
+  "updated_at": "2018-05-01T05:02:47Z",
+  "pushed_at": "2016-02-06T02:20:00Z",
+  "homepage": "",
+  "size": 67,
+  "stargazers_count": 62,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "paulyoung": 1,
+    "keith": 1
+  },
+  "pulls_authors": [
+    "paulyoung"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 2022,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 362,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:53.826Z"
+}

@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gss2css",
+  "full_name": "gss/gss2css",
+  "owner": "gss",
+  "private": false,
+  "html_url": "https://github.com/gss/gss2css",
+  "description": "GSS to CSS precompiler",
+  "fork": false,
+  "url": "https://api.github.com/repos/gss/gss2css",
+  "languages_url": "https://api.github.com/repos/gss/gss2css/languages",
+  "pulls_url": "https://api.github.com/repos/gss/gss2css/pulls{/number}",
+  "created_at": "2014-06-02T22:05:35Z",
+  "updated_at": "2017-10-25T15:05:54Z",
+  "pushed_at": "2014-06-05T01:29:11Z",
+  "homepage": null,
+  "size": 844,
+  "stargazers_count": 21,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "gss",
+    "id": 4575574,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ1NzU1NzQ=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/4575574?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/gss",
+    "html_url": "https://github.com/gss",
+    "followers_url": "https://api.github.com/users/gss/followers",
+    "following_url": "https://api.github.com/users/gss/following{/other_user}",
+    "gists_url": "https://api.github.com/users/gss/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/gss/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/gss/subscriptions",
+    "organizations_url": "https://api.github.com/users/gss/orgs",
+    "repos_url": "https://api.github.com/users/gss/repos",
+    "events_url": "https://api.github.com/users/gss/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/gss/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "bergie": 34
+  },
+  "pulls_authors": [
+    "paulyoung"
+  ],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 8647,
+      "color": "#244776"
+    },
+    "JavaScript": {
+      "bytes": 7374,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 2024,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:59.747Z"
+}

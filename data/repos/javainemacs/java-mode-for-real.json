@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "java-mode-for-real",
+  "full_name": "javainemacs/java-mode-for-real",
+  "owner": "javainemacs",
+  "private": false,
+  "html_url": "https://github.com/javainemacs/java-mode-for-real",
+  "description": "Coding to make Java and Emacs friends at last",
+  "fork": false,
+  "url": "https://api.github.com/repos/javainemacs/java-mode-for-real",
+  "languages_url": "https://api.github.com/repos/javainemacs/java-mode-for-real/languages",
+  "pulls_url": "https://api.github.com/repos/javainemacs/java-mode-for-real/pulls{/number}",
+  "created_at": "2016-06-01T21:51:00Z",
+  "updated_at": "2016-06-07T06:48:49Z",
+  "pushed_at": "2016-09-20T13:03:45Z",
+  "homepage": null,
+  "size": 37,
+  "stargazers_count": 3,
+  "language": "Emacs Lisp",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "javainemacs",
+    "id": 19697410,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5Njk3NDEw",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/19697410?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/javainemacs",
+    "html_url": "https://github.com/javainemacs",
+    "followers_url": "https://api.github.com/users/javainemacs/followers",
+    "following_url": "https://api.github.com/users/javainemacs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/javainemacs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/javainemacs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/javainemacs/subscriptions",
+    "organizations_url": "https://api.github.com/users/javainemacs/orgs",
+    "repos_url": "https://api.github.com/users/javainemacs/repos",
+    "events_url": "https://api.github.com/users/javainemacs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/javainemacs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "edububa": 2,
+    "Ironjanowar": 2,
+    "samgh96": 7,
+    "rockneurotiko": 26
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Emacs Lisp": {
+      "bytes": 50901,
+      "color": "#c065db"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:44.734Z"
+}

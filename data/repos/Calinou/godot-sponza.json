@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "akien-mga": 1,
+    "Calinou": 24
+  },
+  "name": "godot-sponza",
+  "full_name": "Calinou/godot-sponza",
+  "owner": "Calinou",
+  "private": false,
+  "html_url": "https://github.com/Calinou/godot-sponza",
+  "description": "Sponza demo for Godot 3",
+  "fork": false,
+  "url": "https://api.github.com/repos/Calinou/godot-sponza",
+  "languages_url": "https://api.github.com/repos/Calinou/godot-sponza/languages",
+  "created_at": "2017-11-27T00:01:52Z",
+  "updated_at": "2018-09-07T10:35:51Z",
+  "pushed_at": "2018-07-08T13:23:24Z",
+  "homepage": null,
+  "size": 120303,
+  "stargazers_count": 49,
+  "language": "GDScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "GDScript": {
+      "bytes": 13435,
+      "color": "#355570"
+    },
+    "Makefile": {
+      "bytes": 1185,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-07T11:20:33.072Z",
+  "pulls_url": "https://api.github.com/repos/Calinou/godot-sponza/pulls{/number}",
+  "pulls_authors": [
+    "akien-mga"
+  ]
+}

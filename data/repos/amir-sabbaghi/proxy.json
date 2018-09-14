@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "proxy",
+  "full_name": "amir-sabbaghi/proxy",
+  "owner": "amir-sabbaghi",
+  "private": false,
+  "html_url": "https://github.com/amir-sabbaghi/proxy",
+  "description": "A simple http proxy server in haskell",
+  "fork": false,
+  "url": "https://api.github.com/repos/amir-sabbaghi/proxy",
+  "languages_url": "https://api.github.com/repos/amir-sabbaghi/proxy/languages",
+  "pulls_url": "https://api.github.com/repos/amir-sabbaghi/proxy/pulls{/number}",
+  "created_at": "2016-08-29T06:02:54Z",
+  "updated_at": "2017-12-27T10:26:16Z",
+  "pushed_at": "2016-09-10T09:43:51Z",
+  "homepage": null,
+  "size": 39,
+  "stargazers_count": 5,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mdibaiee": 10,
+    "amir-sabbaghi": 23
+  },
+  "pulls_authors": [
+    "mdibaiee"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 15423,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:40.734Z"
+}

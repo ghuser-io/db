@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docker-ducky2spark",
+  "full_name": "NurdTurd/docker-ducky2spark",
+  "owner": "NurdTurd",
+  "private": false,
+  "html_url": "https://github.com/NurdTurd/docker-ducky2spark",
+  "description": "Convert ducky script to uploadable Arduino sketch code for the Digispark development board.",
+  "fork": false,
+  "url": "https://api.github.com/repos/NurdTurd/docker-ducky2spark",
+  "languages_url": "https://api.github.com/repos/NurdTurd/docker-ducky2spark/languages",
+  "pulls_url": "https://api.github.com/repos/NurdTurd/docker-ducky2spark/pulls{/number}",
+  "created_at": "2018-06-13T21:02:06Z",
+  "updated_at": "2018-08-14T19:05:54Z",
+  "pushed_at": "2018-06-16T21:36:57Z",
+  "homepage": null,
+  "size": 21,
+  "stargazers_count": 3,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "NurdTurd": 22
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-08-15T05:34:53.840Z"
+}

@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "volvox-hapi",
+  "full_name": "ziyasal/volvox-hapi",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/volvox-hapi",
+  "description": "Hapi.js provider for volvox.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal/volvox-hapi",
+  "languages_url": "https://api.github.com/repos/ziyasal/volvox-hapi/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/volvox-hapi/pulls{/number}",
+  "created_at": "2016-08-06T15:24:38Z",
+  "updated_at": "2017-01-31T11:01:28Z",
+  "pushed_at": "2016-08-07T13:47:04Z",
+  "homepage": null,
+  "size": 64,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ziyasal": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 8991,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:12.398Z"
+}

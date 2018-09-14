@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ninja-envir",
+  "full_name": "DotNetDann/ninja-envir",
+  "owner": "DotNetDann",
+  "private": false,
+  "html_url": "https://github.com/DotNetDann/ninja-envir",
+  "description": "Sends Current Cost EnviR power usage to the NinjaBlocks cloud",
+  "fork": false,
+  "url": "https://api.github.com/repos/DotNetDann/ninja-envir",
+  "languages_url": "https://api.github.com/repos/DotNetDann/ninja-envir/languages",
+  "pulls_url": "https://api.github.com/repos/DotNetDann/ninja-envir/pulls{/number}",
+  "created_at": "2013-02-28T07:11:36Z",
+  "updated_at": "2014-12-07T23:39:31Z",
+  "pushed_at": "2014-10-26T07:46:24Z",
+  "homepage": null,
+  "size": 149,
+  "stargazers_count": 8,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "elliots": 1,
+    "DotNetDann": 7
+  },
+  "pulls_authors": [
+    "elliots"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 11658,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T13:45:59.844Z"
+}

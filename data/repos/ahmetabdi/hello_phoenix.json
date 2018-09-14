@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hello_phoenix",
+  "full_name": "ahmetabdi/hello_phoenix",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/hello_phoenix",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/ahmetabdi/hello_phoenix",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/hello_phoenix/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/hello_phoenix/pulls{/number}",
+  "created_at": "2015-05-11T12:24:54Z",
+  "updated_at": "2015-11-03T15:21:10Z",
+  "pushed_at": "2015-05-11T12:25:35Z",
+  "homepage": null,
+  "size": 144,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CSS": {
+      "bytes": 92015,
+      "color": "#563d7c"
+    },
+    "Elixir": {
+      "bytes": 13657,
+      "color": "#6e4a7e"
+    },
+    "JavaScript": {
+      "bytes": 1096,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:01.740Z"
+}

@@ -1,0 +1,88 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "debugger-ruby_core_source",
+  "full_name": "cldwalker/debugger-ruby_core_source",
+  "owner": "cldwalker",
+  "private": false,
+  "html_url": "https://github.com/cldwalker/debugger-ruby_core_source",
+  "description": "Retrieve ruby core source files",
+  "fork": true,
+  "url": "https://api.github.com/repos/cldwalker/debugger-ruby_core_source",
+  "languages_url": "https://api.github.com/repos/cldwalker/debugger-ruby_core_source/languages",
+  "pulls_url": "https://api.github.com/repos/cldwalker/debugger-ruby_core_source/pulls{/number}",
+  "created_at": "2012-04-02T06:27:21Z",
+  "updated_at": "2017-08-03T13:35:33Z",
+  "pushed_at": "2015-12-09T04:59:53Z",
+  "homepage": "",
+  "size": 754,
+  "stargazers_count": 21,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "formigarafa": 1,
+    "styx": 1,
+    "willian": 1,
+    "stepheneb": 1,
+    "bmorton": 2,
+    "moneill": 2,
+    "andremedeiros": 2,
+    "jeremy": 2,
+    "mark-moseley": 12,
+    "eiel": 28,
+    "cldwalker": 39
+  },
+  "pulls_authors": [
+    "khall",
+    "manzhikov",
+    "jeffb-stell",
+    "ukoloff",
+    "calavera",
+    "cfurrow",
+    "moneill",
+    "kybu",
+    "os97673",
+    "mennopruijssers",
+    "karlwilbur",
+    "reedloden",
+    "rubyisbeautiful",
+    "andremedeiros",
+    "formigarafa",
+    "alwold",
+    "antifuchs",
+    "dgolombek",
+    "denofevil",
+    "styx",
+    "eiel",
+    "willian",
+    "statik",
+    "hosamaly",
+    "skaes",
+    "KellyLSB",
+    "jeremy",
+    "stepheneb"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 5186798,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 68583,
+      "color": "#f34b7d"
+    },
+    "Ruby": {
+      "bytes": 4036,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T10:32:19.188Z"
+}

@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Open-Include",
+  "full_name": "titoBouzout/Open-Include",
+  "owner": "titoBouzout",
+  "private": false,
+  "html_url": "https://github.com/titoBouzout/Open-Include",
+  "description": "Will open file paths found under the cursor with ALT+D",
+  "fork": false,
+  "url": "https://api.github.com/repos/titoBouzout/Open-Include",
+  "languages_url": "https://api.github.com/repos/titoBouzout/Open-Include/languages",
+  "pulls_url": "https://api.github.com/repos/titoBouzout/Open-Include/pulls{/number}",
+  "created_at": "2011-07-08T08:34:24Z",
+  "updated_at": "2018-09-06T19:09:08Z",
+  "pushed_at": "2018-09-06T19:09:06Z",
+  "homepage": "",
+  "size": 132,
+  "stargazers_count": 133,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "i-akhmadullin": 1,
+    "kizu": 1,
+    "i8degrees": 2,
+    "jacobo-diaz": 2,
+    "hoest": 2,
+    "xhn35rq": 3,
+    "jbrooksuk": 4,
+    "Starli0n": 5,
+    "vip32": 5,
+    "iamntz": 7,
+    "FichteFoll": 12,
+    "titoBouzout": 79
+  },
+  "pulls_authors": [
+    "i8degrees",
+    "iamntz",
+    "santi-h",
+    "Kristinita",
+    "Starli0n",
+    "ghost",
+    "devgoeson",
+    "jacobo-diaz",
+    "hoest",
+    "i-akhmadullin",
+    "kizu",
+    "FichteFoll",
+    "vip32",
+    "titoBouzout"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 63659,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:51.276Z"
+}

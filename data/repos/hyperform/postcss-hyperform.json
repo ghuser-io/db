@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "postcss-hyperform",
+  "full_name": "hyperform/postcss-hyperform",
+  "owner": "hyperform",
+  "private": false,
+  "html_url": "https://github.com/hyperform/postcss-hyperform",
+  "description": "Rewrite CSS pseudo-classes into Hyperform classes",
+  "fork": false,
+  "url": "https://api.github.com/repos/hyperform/postcss-hyperform",
+  "languages_url": "https://api.github.com/repos/hyperform/postcss-hyperform/languages",
+  "pulls_url": "https://api.github.com/repos/hyperform/postcss-hyperform/pulls{/number}",
+  "created_at": "2016-10-18T12:38:18Z",
+  "updated_at": "2018-08-29T12:43:50Z",
+  "pushed_at": "2018-03-26T11:21:42Z",
+  "homepage": null,
+  "size": 9,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "hyperform",
+    "id": 18470642,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4NDcwNjQy",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/18470642?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hyperform",
+    "html_url": "https://github.com/hyperform",
+    "followers_url": "https://api.github.com/users/hyperform/followers",
+    "following_url": "https://api.github.com/users/hyperform/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hyperform/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hyperform/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hyperform/subscriptions",
+    "organizations_url": "https://api.github.com/users/hyperform/orgs",
+    "repos_url": "https://api.github.com/users/hyperform/repos",
+    "events_url": "https://api.github.com/users/hyperform/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hyperform/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Boldewyn": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 3489,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:57:51.707Z"
+}

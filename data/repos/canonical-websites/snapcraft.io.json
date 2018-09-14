@@ -1,0 +1,111 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "snapcraft.io",
+  "full_name": "canonical-websites/snapcraft.io",
+  "owner": "canonical-websites",
+  "private": false,
+  "html_url": "https://github.com/canonical-websites/snapcraft.io",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/canonical-websites/snapcraft.io",
+  "languages_url": "https://api.github.com/repos/canonical-websites/snapcraft.io/languages",
+  "pulls_url": "https://api.github.com/repos/canonical-websites/snapcraft.io/pulls{/number}",
+  "created_at": "2017-08-16T21:29:29Z",
+  "updated_at": "2018-09-13T15:04:20Z",
+  "pushed_at": "2018-09-13T15:48:57Z",
+  "homepage": null,
+  "size": 1908,
+  "stargazers_count": 17,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "canonical-websites",
+    "id": 26072773,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI2MDcyNzcz",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/26072773?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/canonical-websites",
+    "html_url": "https://github.com/canonical-websites",
+    "followers_url": "https://api.github.com/users/canonical-websites/followers",
+    "following_url": "https://api.github.com/users/canonical-websites/following{/other_user}",
+    "gists_url": "https://api.github.com/users/canonical-websites/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/canonical-websites/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/canonical-websites/subscriptions",
+    "organizations_url": "https://api.github.com/users/canonical-websites/orgs",
+    "repos_url": "https://api.github.com/users/canonical-websites/repos",
+    "events_url": "https://api.github.com/users/canonical-websites/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/canonical-websites/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "flexiondotorg": 1,
+    "shivjoshi1996": 1,
+    "Lin-Buo-Ren": 1,
+    "popey": 1,
+    "anthonydillon": 2,
+    "sparkiegeek": 5,
+    "caldav": 8,
+    "cprov": 9,
+    "matthewpaulthomas": 10,
+    "evandandrea": 12,
+    "WillMoggridge": 20,
+    "Greggless": 23,
+    "therealjuan": 36,
+    "nottrobin": 132,
+    "tbille": 205,
+    "Lukewh": 219,
+    "bartaz": 310
+  },
+  "pulls_authors": [
+    "therealjuan",
+    "tbille",
+    "Lukewh",
+    "bartaz",
+    "nottrobin",
+    "caldav",
+    "cprov",
+    "Greggless",
+    "sparkiegeek",
+    "WillMoggridge",
+    "matthewpaulthomas",
+    "flexiondotorg",
+    "evandandrea",
+    "shivjoshi1996",
+    "Lin-Buo-Ren",
+    "BlueT",
+    "felicianotech",
+    "popey",
+    "anthonydillon"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 227622,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 136234,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 110222,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 46686,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 20356,
+      "color": "#89e051"
+    },
+    "Dockerfile": {
+      "bytes": 551,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-13T17:02:52.166Z"
+}

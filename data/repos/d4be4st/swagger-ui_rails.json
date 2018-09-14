@@ -1,0 +1,62 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "swagger-ui_rails",
+  "full_name": "d4be4st/swagger-ui_rails",
+  "owner": "d4be4st",
+  "private": false,
+  "html_url": "https://github.com/d4be4st/swagger-ui_rails",
+  "description": "Swagger-ui asset gem",
+  "fork": false,
+  "url": "https://api.github.com/repos/d4be4st/swagger-ui_rails",
+  "languages_url": "https://api.github.com/repos/d4be4st/swagger-ui_rails/languages",
+  "pulls_url": "https://api.github.com/repos/d4be4st/swagger-ui_rails/pulls{/number}",
+  "created_at": "2013-07-29T11:28:04Z",
+  "updated_at": "2018-08-13T00:23:16Z",
+  "pushed_at": "2016-01-14T20:24:00Z",
+  "homepage": null,
+  "size": 818,
+  "stargazers_count": 52,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "vidurapparao": 1,
+    "sco11morgan": 1,
+    "aurelian": 1,
+    "smortex": 1,
+    "d4be4st": 21
+  },
+  "pulls_authors": [
+    "pkarman",
+    "audionerd",
+    "ssunagari",
+    "sco11morgan",
+    "aurelian",
+    "stastivodar",
+    "ankur-ag",
+    "smortex"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 274480,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 43300,
+      "color": "#563d7c"
+    },
+    "Ruby": {
+      "bytes": 3144,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-08-17T16:21:33.382Z"
+}

@@ -1,0 +1,62 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "maptools",
+  "full_name": "Code4Nepal/maptools",
+  "owner": "Code4Nepal",
+  "private": false,
+  "html_url": "https://github.com/Code4Nepal/maptools",
+  "description": "Utilities and tools for working with NepalMap",
+  "fork": false,
+  "url": "https://api.github.com/repos/Code4Nepal/maptools",
+  "languages_url": "https://api.github.com/repos/Code4Nepal/maptools/languages",
+  "pulls_url": "https://api.github.com/repos/Code4Nepal/maptools/pulls{/number}",
+  "created_at": "2016-09-25T14:56:17Z",
+  "updated_at": "2018-08-06T01:58:35Z",
+  "pushed_at": "2018-08-06T01:58:24Z",
+  "homepage": "https://nepalmap.org",
+  "size": 71834,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "Code4Nepal",
+    "id": 6979330,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY5NzkzMzA=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/6979330?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Code4Nepal",
+    "html_url": "https://github.com/Code4Nepal",
+    "followers_url": "https://api.github.com/users/Code4Nepal/followers",
+    "following_url": "https://api.github.com/users/Code4Nepal/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Code4Nepal/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Code4Nepal/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Code4Nepal/subscriptions",
+    "organizations_url": "https://api.github.com/users/Code4Nepal/orgs",
+    "repos_url": "https://api.github.com/users/Code4Nepal/repos",
+    "events_url": "https://api.github.com/users/Code4Nepal/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Code4Nepal/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "crackjack": 13,
+    "Bezzy1999": 18,
+    "cliftonmcintosh": 60
+  },
+  "pulls_authors": [
+    "crackjack",
+    "cliftonmcintosh",
+    "Bezzy1999",
+    "amitness"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 145793,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:32.928Z"
+}

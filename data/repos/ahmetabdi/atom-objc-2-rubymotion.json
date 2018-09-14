@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "atom-objc-2-rubymotion",
+  "full_name": "ahmetabdi/atom-objc-2-rubymotion",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/atom-objc-2-rubymotion",
+  "description": "Objective-C to RubyMotion converter for atom the hackable text editor",
+  "fork": false,
+  "url": "https://api.github.com/repos/ahmetabdi/atom-objc-2-rubymotion",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/atom-objc-2-rubymotion/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/atom-objc-2-rubymotion/pulls{/number}",
+  "created_at": "2014-03-03T17:17:54Z",
+  "updated_at": "2017-12-24T04:49:57Z",
+  "pushed_at": "2015-05-20T14:46:07Z",
+  "homepage": "",
+  "size": 244,
+  "stargazers_count": 5,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "markrickert": 2,
+    "ahmetabdi": 12
+  },
+  "pulls_authors": [
+    "markrickert"
+  ],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 2927,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:02.102Z"
+}

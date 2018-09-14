@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wikiView",
+  "full_name": "debck/wikiView",
+  "owner": "debck",
+  "private": false,
+  "html_url": "https://github.com/debck/wikiView",
+  "description": "wikipedia article  viewer. 🖥️📄 Try it live here : https://debck-wikiview.glitch.me/",
+  "fork": false,
+  "url": "https://api.github.com/repos/debck/wikiView",
+  "languages_url": "https://api.github.com/repos/debck/wikiView/languages",
+  "created_at": "2018-03-16T13:40:27Z",
+  "updated_at": "2018-08-25T19:19:43Z",
+  "pushed_at": "2018-06-21T14:42:11Z",
+  "homepage": "",
+  "size": 17,
+  "stargazers_count": 3,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "debck": 20
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 921,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 776,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 163,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-25T19:33:19.205Z",
+  "pulls_url": "https://api.github.com/repos/debck/wikiView/pulls{/number}",
+  "pulls_authors": []
+}

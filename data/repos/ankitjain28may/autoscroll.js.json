@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "autoscroll.js",
+  "full_name": "ankitjain28may/autoscroll.js",
+  "owner": "ankitjain28may",
+  "private": false,
+  "html_url": "https://github.com/ankitjain28may/autoscroll.js",
+  "description": "autoscroll.js is a 1 KB Javascript file based on Jquery which is used to scroll your content smoothly and automatically.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ankitjain28may/autoscroll.js",
+  "languages_url": "https://api.github.com/repos/ankitjain28may/autoscroll.js/languages",
+  "created_at": "2016-09-10T10:35:41Z",
+  "updated_at": "2017-02-06T14:48:37Z",
+  "pushed_at": "2017-10-01T08:22:55Z",
+  "homepage": "http://autoscroll.surge.sh/",
+  "size": 20,
+  "stargazers_count": 5,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Jason9199": 1,
+    "itaditya": 3,
+    "ankitjain28may": 23
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 8655,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 1858,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/ankitjain28may/autoscroll.js/pulls{/number}",
+  "pulls_authors": [
+    "Jason9199",
+    "ankitjain28may",
+    "ctoicqtao",
+    "AlexTruba",
+    "itaditya"
+  ]
+}

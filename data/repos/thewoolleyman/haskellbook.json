@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "haskellbook",
+  "full_name": "thewoolleyman/haskellbook",
+  "owner": "thewoolleyman",
+  "private": false,
+  "html_url": "https://github.com/thewoolleyman/haskellbook",
+  "description": "Exercises from The Haskell Book: http://haskellbook.com/",
+  "fork": false,
+  "url": "https://api.github.com/repos/thewoolleyman/haskellbook",
+  "languages_url": "https://api.github.com/repos/thewoolleyman/haskellbook/languages",
+  "pulls_url": "https://api.github.com/repos/thewoolleyman/haskellbook/pulls{/number}",
+  "created_at": "2016-06-06T04:23:53Z",
+  "updated_at": "2018-04-02T06:02:01Z",
+  "pushed_at": "2018-04-02T06:01:59Z",
+  "homepage": null,
+  "size": 2264,
+  "stargazers_count": 1,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "thewoolleyman": 21,
+    "ELD": 38,
+    "maorleger": 109
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Haskell": {
+      "bytes": 142467,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-11T10:35:57.039Z"
+}

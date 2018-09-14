@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SuperTeamChatApp",
+  "full_name": "oonasal/SuperTeamChatApp",
+  "owner": "oonasal",
+  "private": false,
+  "html_url": "https://github.com/oonasal/SuperTeamChatApp",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/oonasal/SuperTeamChatApp",
+  "languages_url": "https://api.github.com/repos/oonasal/SuperTeamChatApp/languages",
+  "pulls_url": "https://api.github.com/repos/oonasal/SuperTeamChatApp/pulls{/number}",
+  "created_at": "2016-03-10T22:33:59Z",
+  "updated_at": "2016-04-27T13:58:16Z",
+  "pushed_at": "2016-05-04T08:10:16Z",
+  "homepage": null,
+  "size": 16843,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "nmt1994": 1,
+    "oonasal": 11
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 126974,
+      "color": "#b07219"
+    },
+    "JavaScript": {
+      "bytes": 26144,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 17676,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 4728,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T07:38:36.916Z"
+}

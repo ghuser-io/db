@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hem-less",
+  "full_name": "AbleCoder/hem-less",
+  "owner": "AbleCoder",
+  "private": false,
+  "html_url": "https://github.com/AbleCoder/hem-less",
+  "description": "This npm module adds LESS (The Dynamic Stylesheet language) support to hem (Bundler for Node/CommonJS/Web Apps)",
+  "fork": false,
+  "url": "https://api.github.com/repos/AbleCoder/hem-less",
+  "languages_url": "https://api.github.com/repos/AbleCoder/hem-less/languages",
+  "pulls_url": "https://api.github.com/repos/AbleCoder/hem-less/pulls{/number}",
+  "created_at": "2012-03-31T05:24:57Z",
+  "updated_at": "2013-12-04T20:09:51Z",
+  "pushed_at": "2013-12-04T20:09:49Z",
+  "homepage": "",
+  "size": 132,
+  "stargazers_count": 6,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "paulyoung": 1,
+    "pdxwebdev": 2
+  },
+  "pulls_authors": [
+    "pdxwebdev",
+    "jico",
+    "paulyoung"
+  ],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 2633,
+      "color": "#244776"
+    },
+    "JavaScript": {
+      "bytes": 177,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 136,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-08T12:41:04.823Z"
+}

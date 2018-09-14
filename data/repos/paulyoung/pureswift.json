@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pureswift",
+  "full_name": "paulyoung/pureswift",
+  "owner": "paulyoung",
+  "private": false,
+  "html_url": "https://github.com/paulyoung/pureswift",
+  "description": "Swift backend for PureScript.",
+  "fork": false,
+  "url": "https://api.github.com/repos/paulyoung/pureswift",
+  "languages_url": "https://api.github.com/repos/paulyoung/pureswift/languages",
+  "pulls_url": "https://api.github.com/repos/paulyoung/pureswift/pulls{/number}",
+  "created_at": "2016-12-19T13:45:41Z",
+  "updated_at": "2018-08-29T18:53:36Z",
+  "pushed_at": "2018-06-28T07:24:44Z",
+  "homepage": "",
+  "size": 105,
+  "stargazers_count": 45,
+  "language": "PureScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "paulyoung/psw",
+  "contributors": {
+    "paulyoung": 65
+  },
+  "pulls_authors": [
+    "paulyoung"
+  ],
+  "languages": {
+    "PureScript": {
+      "bytes": 87447,
+      "color": "#1D222D"
+    },
+    "JavaScript": {
+      "bytes": 88,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:50.434Z"
+}

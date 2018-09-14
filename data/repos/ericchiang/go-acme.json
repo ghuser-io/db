@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-acme",
+  "full_name": "ericchiang/go-acme",
+  "owner": "ericchiang",
+  "private": false,
+  "html_url": "https://github.com/ericchiang/go-acme",
+  "description": "A Let's Encrypt client for Go",
+  "fork": false,
+  "url": "https://api.github.com/repos/ericchiang/go-acme",
+  "languages_url": "https://api.github.com/repos/ericchiang/go-acme/languages",
+  "pulls_url": "https://api.github.com/repos/ericchiang/go-acme/pulls{/number}",
+  "created_at": "2015-11-13T16:45:43Z",
+  "updated_at": "2018-06-21T09:10:53Z",
+  "pushed_at": "2018-02-12T19:54:01Z",
+  "homepage": null,
+  "size": 100,
+  "stargazers_count": 222,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schmich": 1,
+    "ayunyan": 1,
+    "alexzorin": 1,
+    "c4milo": 2,
+    "fastest963": 5,
+    "cristiangraz": 5,
+    "ericchiang": 15
+  },
+  "pulls_authors": [
+    "mingshun",
+    "schmich",
+    "ayunyan",
+    "fastest963",
+    "ericchiang",
+    "c4milo",
+    "cristiangraz",
+    "alexzorin"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 61194,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:20.515Z"
+}

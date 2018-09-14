@@ -1,0 +1,90 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "lab.codingblocks.com",
+  "full_name": "coding-blocks/lab.codingblocks.com",
+  "owner": "coding-blocks",
+  "private": false,
+  "html_url": "https://github.com/coding-blocks/lab.codingblocks.com",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/coding-blocks/lab.codingblocks.com",
+  "languages_url": "https://api.github.com/repos/coding-blocks/lab.codingblocks.com/languages",
+  "created_at": "2016-11-23T05:37:04Z",
+  "updated_at": "2018-06-24T19:20:08Z",
+  "pushed_at": "2018-06-24T19:20:06Z",
+  "homepage": null,
+  "size": 1026,
+  "stargazers_count": 4,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "gh-pages",
+  "organization": {
+    "login": "coding-blocks",
+    "id": 19412721,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5NDEyNzIx",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/19412721?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/coding-blocks",
+    "html_url": "https://github.com/coding-blocks",
+    "followers_url": "https://api.github.com/users/coding-blocks/followers",
+    "following_url": "https://api.github.com/users/coding-blocks/following{/other_user}",
+    "gists_url": "https://api.github.com/users/coding-blocks/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/coding-blocks/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/coding-blocks/subscriptions",
+    "organizations_url": "https://api.github.com/users/coding-blocks/orgs",
+    "repos_url": "https://api.github.com/users/coding-blocks/repos",
+    "events_url": "https://api.github.com/users/coding-blocks/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/coding-blocks/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "rishabh-bansal": 1,
+    "architkshk": 1,
+    "championswimmer": 25
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 16039,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 8753,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 3791,
+      "color": "#f1e05a"
+    },
+    "Ruby": {
+      "bytes": 880,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/coding-blocks/lab.codingblocks.com/pulls{/number}",
+  "pulls_authors": [
+    "rishabh-bansal",
+    "frunkad",
+    "debck",
+    "hereisnaman",
+    "architkshk",
+    "prateekiiest",
+    "abishekvashok",
+    "nikhilkumarsingh",
+    "piyush0",
+    "learneradarsh",
+    "anu0012",
+    "bhavyaagg",
+    "ghoomtaaaina",
+    "saurabhshri"
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Arqui-2011",
+  "full_name": "kshmir/Arqui-2011",
+  "owner": "kshmir",
+  "private": false,
+  "html_url": "https://github.com/kshmir/Arqui-2011",
+  "description": "Arquitectura de computadoras 2011",
+  "fork": false,
+  "url": "https://api.github.com/repos/kshmir/Arqui-2011",
+  "languages_url": "https://api.github.com/repos/kshmir/Arqui-2011/languages",
+  "pulls_url": "https://api.github.com/repos/kshmir/Arqui-2011/pulls{/number}",
+  "created_at": "2011-05-04T19:57:35Z",
+  "updated_at": "2014-04-22T11:27:33Z",
+  "pushed_at": "2011-11-16T14:43:13Z",
+  "homepage": "",
+  "size": 3864,
+  "stargazers_count": 3,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "maximovs": 25,
+    "kshmir": 58,
+    "ezeortiz": 69
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 444238,
+      "color": "#555555"
+    },
+    "Assembly": {
+      "bytes": 29498,
+      "color": "#6E4C13"
+    },
+    "Ruby": {
+      "bytes": 2132,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T10:37:59.733Z"
+}

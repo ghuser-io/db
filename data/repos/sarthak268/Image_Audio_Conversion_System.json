@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Image_Audio_Conversion_System",
+  "full_name": "sarthak268/Image_Audio_Conversion_System",
+  "owner": "sarthak268",
+  "private": false,
+  "html_url": "https://github.com/sarthak268/Image_Audio_Conversion_System",
+  "description": "Image-Audio Encryption-Decryption System created as a part of course project for Signals and Systems under Dr. Anubha Gupta",
+  "fork": false,
+  "url": "https://api.github.com/repos/sarthak268/Image_Audio_Conversion_System",
+  "languages_url": "https://api.github.com/repos/sarthak268/Image_Audio_Conversion_System/languages",
+  "pulls_url": "https://api.github.com/repos/sarthak268/Image_Audio_Conversion_System/pulls{/number}",
+  "created_at": "2017-10-15T19:13:32Z",
+  "updated_at": "2018-08-10T19:40:48Z",
+  "pushed_at": "2018-06-10T10:17:03Z",
+  "homepage": "",
+  "size": 106333,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sarthak268": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 4313,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-03T15:17:28.636Z"
+}

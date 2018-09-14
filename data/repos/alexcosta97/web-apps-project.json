@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "web-apps-project",
+  "full_name": "alexcosta97/web-apps-project",
+  "owner": "alexcosta97",
+  "private": false,
+  "html_url": "https://github.com/alexcosta97/web-apps-project",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/alexcosta97/web-apps-project",
+  "languages_url": "https://api.github.com/repos/alexcosta97/web-apps-project/languages",
+  "pulls_url": "https://api.github.com/repos/alexcosta97/web-apps-project/pulls{/number}",
+  "created_at": "2017-10-17T12:06:42Z",
+  "updated_at": "2018-01-19T23:47:16Z",
+  "pushed_at": "2018-01-19T23:46:09Z",
+  "homepage": null,
+  "size": 39272,
+  "stargazers_count": 2,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "wopian": 49,
+    "alexcosta97": 82
+  },
+  "pulls_authors": [
+    "alexcosta97"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 206765,
+      "color": "#178600"
+    },
+    "TeX": {
+      "bytes": 11716,
+      "color": "#3D6117"
+    },
+    "CSS": {
+      "bytes": 709,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 34,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:34.895Z"
+}

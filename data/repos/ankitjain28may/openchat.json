@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "openchat",
+  "full_name": "ankitjain28may/openchat",
+  "owner": "ankitjain28may",
+  "private": false,
+  "html_url": "https://github.com/ankitjain28may/openchat",
+  "description": "Chatting Platform",
+  "fork": false,
+  "url": "https://api.github.com/repos/ankitjain28may/openchat",
+  "languages_url": "https://api.github.com/repos/ankitjain28may/openchat/languages",
+  "created_at": "2016-06-18T07:45:24Z",
+  "updated_at": "2018-09-02T10:11:12Z",
+  "pushed_at": "2018-02-21T19:19:50Z",
+  "homepage": "",
+  "size": 4268,
+  "stargazers_count": 19,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "techiadarsh": 1,
+    "alicetragedy": 1,
+    "gitter-badger": 1,
+    "hiteshpr": 2,
+    "ankitjain28may": 147
+  },
+  "languages": {
+    "PHP": {
+      "bytes": 89948,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 20173,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 17242,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 10060,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-02T14:30:54.085Z",
+  "pulls_url": "https://api.github.com/repos/ankitjain28may/openchat/pulls{/number}",
+  "pulls_authors": [
+    "codetriage-readme-bot",
+    "hiteshpr",
+    "agarwalprashasti",
+    "ankitjain28may",
+    "techiadarsh",
+    "sky1911",
+    "riseofme",
+    "osandadeshan",
+    "alemc28",
+    "forsd",
+    "alicetragedy",
+    "gitter-badger"
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mwparserfromhell",
+  "full_name": "earwig/mwparserfromhell",
+  "owner": "earwig",
+  "private": false,
+  "html_url": "https://github.com/earwig/mwparserfromhell",
+  "description": "A Python parser for MediaWiki wikicode",
+  "fork": false,
+  "url": "https://api.github.com/repos/earwig/mwparserfromhell",
+  "languages_url": "https://api.github.com/repos/earwig/mwparserfromhell/languages",
+  "pulls_url": "https://api.github.com/repos/earwig/mwparserfromhell/pulls{/number}",
+  "created_at": "2012-05-20T18:45:54Z",
+  "updated_at": "2018-08-31T20:22:06Z",
+  "pushed_at": "2018-08-29T01:42:35Z",
+  "homepage": "https://mwparserfromhell.readthedocs.io/",
+  "size": 1705,
+  "stargazers_count": 268,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "develop",
+  "contributors": {
+    "reinerh": 1,
+    "ricordisamoa": 2,
+    "yuvipanda": 3,
+    "Larivact": 4,
+    "Riamse": 4,
+    "jayvdb": 5,
+    "legoktm": 6,
+    "valhallasw": 7,
+    "davidswinegar": 26,
+    "earwig": 702
+  },
+  "pulls_authors": [
+    "Mottl",
+    "Larivact",
+    "legoktm",
+    "jayvdb",
+    "yuvipanda",
+    "ricordisamoa",
+    "davidswinegar",
+    "valhallasw",
+    "marciof",
+    "notconfusing",
+    "ghost"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 415024,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 175510,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 5898,
+      "color": "#f34b7d"
+    },
+    "Shell": {
+      "bytes": 4933,
+      "color": "#89e051"
+    },
+    "Batchfile": {
+      "bytes": 1976,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-01T02:48:31.454Z"
+}

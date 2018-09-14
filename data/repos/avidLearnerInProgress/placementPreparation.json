@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "placementPreparation",
+  "full_name": "avidLearnerInProgress/placementPreparation",
+  "owner": "avidLearnerInProgress",
+  "private": false,
+  "html_url": "https://github.com/avidLearnerInProgress/placementPreparation",
+  "description": "Collection of  programs implemented by me from geeksforgeeks.com",
+  "fork": false,
+  "url": "https://api.github.com/repos/avidLearnerInProgress/placementPreparation",
+  "languages_url": "https://api.github.com/repos/avidLearnerInProgress/placementPreparation/languages",
+  "created_at": "2017-05-12T03:18:10Z",
+  "updated_at": "2018-06-28T03:26:17Z",
+  "pushed_at": "2017-07-09T15:49:50Z",
+  "homepage": "",
+  "size": 627,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "avidLearnerInProgress": 3
+  },
+  "languages": {
+    "C++": {
+      "bytes": 449307,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/avidLearnerInProgress/placementPreparation/pulls{/number}",
+  "pulls_authors": []
+}

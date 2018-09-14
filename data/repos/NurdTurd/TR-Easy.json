@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "TR-Easy",
+  "full_name": "NurdTurd/TR-Easy",
+  "owner": "NurdTurd",
+  "private": false,
+  "html_url": "https://github.com/NurdTurd/TR-Easy",
+  "description": "One liner install for the Transmission BitTorrent client as well as the web UI addon and a few helpful functions.",
+  "fork": false,
+  "url": "https://api.github.com/repos/NurdTurd/TR-Easy",
+  "languages_url": "https://api.github.com/repos/NurdTurd/TR-Easy/languages",
+  "pulls_url": "https://api.github.com/repos/NurdTurd/TR-Easy/pulls{/number}",
+  "created_at": "2015-05-09T02:09:06Z",
+  "updated_at": "2017-07-30T20:54:24Z",
+  "pushed_at": "2017-07-30T20:56:58Z",
+  "homepage": "",
+  "size": 7,
+  "stargazers_count": 1,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "NurdTurd": 15
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 8546,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-11T14:32:15.121Z"
+}

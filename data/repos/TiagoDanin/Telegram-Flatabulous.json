@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Telegram-Flatabulous",
+  "full_name": "TiagoDanin/Telegram-Flatabulous",
+  "owner": "TiagoDanin",
+  "private": false,
+  "html_url": "https://github.com/TiagoDanin/Telegram-Flatabulous",
+  "description": "A Telgram Desktop theme based on Flatabulous",
+  "fork": false,
+  "url": "https://api.github.com/repos/TiagoDanin/Telegram-Flatabulous",
+  "languages_url": "https://api.github.com/repos/TiagoDanin/Telegram-Flatabulous/languages",
+  "pulls_url": "https://api.github.com/repos/TiagoDanin/Telegram-Flatabulous/pulls{/number}",
+  "created_at": "2017-01-28T15:41:11Z",
+  "updated_at": "2018-08-26T16:55:51Z",
+  "pushed_at": "2018-08-26T16:55:50Z",
+  "homepage": "https://TiagoDanin.github.io/Telegram-Flatabulous/",
+  "size": 1002,
+  "stargazers_count": 2,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "TiagoDanin": 6,
+    "ImgBotApp": 1
+  },
+  "pulls_authors": [
+    "imgbot[bot]"
+  ],
+  "languages": {},
+  "fetched_at": "2018-08-27T06:21:22.705Z"
+}

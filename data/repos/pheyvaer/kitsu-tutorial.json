@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "kitsu-tutorial",
+  "full_name": "pheyvaer/kitsu-tutorial",
+  "owner": "pheyvaer",
+  "private": false,
+  "html_url": "https://github.com/pheyvaer/kitsu-tutorial",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/pheyvaer/kitsu-tutorial",
+  "languages_url": "https://api.github.com/repos/pheyvaer/kitsu-tutorial/languages",
+  "pulls_url": "https://api.github.com/repos/pheyvaer/kitsu-tutorial/pulls{/number}",
+  "created_at": "2017-06-30T11:50:28Z",
+  "updated_at": "2018-09-13T02:10:09Z",
+  "pushed_at": "2017-07-10T07:52:46Z",
+  "homepage": null,
+  "size": 18,
+  "stargazers_count": 10,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "wopian": 2,
+    "pheyvaer": 23
+  },
+  "pulls_authors": [
+    "wopian"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-14T00:19:36.198Z"
+}

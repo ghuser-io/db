@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "beat",
+  "full_name": "edinella/beat",
+  "owner": "edinella",
+  "private": false,
+  "html_url": "https://github.com/edinella/beat",
+  "description": "Simple dependency injection for node",
+  "fork": false,
+  "url": "https://api.github.com/repos/edinella/beat",
+  "languages_url": "https://api.github.com/repos/edinella/beat/languages",
+  "pulls_url": "https://api.github.com/repos/edinella/beat/pulls{/number}",
+  "created_at": "2013-08-29T02:58:15Z",
+  "updated_at": "2016-12-14T14:47:30Z",
+  "pushed_at": "2015-02-06T13:29:01Z",
+  "homepage": "https://npmjs.org/package/beat",
+  "size": 626,
+  "stargazers_count": 12,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "seanhussey": 1,
+    "maximeaubaret": 1,
+    "bitdeli-chef": 1,
+    "edinella": 56
+  },
+  "pulls_authors": [
+    "seanhussey",
+    "acconrad",
+    "johnmarkos",
+    "therealnicksaunders",
+    "maximeaubaret",
+    "edinella",
+    "bitdeli-chef"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 19993,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:55:42.168Z"
+}

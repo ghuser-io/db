@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vim-plugin-random-colorscheme-picker",
+  "full_name": "sunuslee/vim-plugin-random-colorscheme-picker",
+  "owner": "sunuslee",
+  "private": false,
+  "html_url": "https://github.com/sunuslee/vim-plugin-random-colorscheme-picker",
+  "description": "Pick the VIM colorscheme that you are destined to be with.:)",
+  "fork": false,
+  "url": "https://api.github.com/repos/sunuslee/vim-plugin-random-colorscheme-picker",
+  "languages_url": "https://api.github.com/repos/sunuslee/vim-plugin-random-colorscheme-picker/languages",
+  "pulls_url": "https://api.github.com/repos/sunuslee/vim-plugin-random-colorscheme-picker/pulls{/number}",
+  "created_at": "2012-11-21T12:14:24Z",
+  "updated_at": "2018-06-06T07:15:18Z",
+  "pushed_at": "2017-01-03T10:53:42Z",
+  "homepage": "",
+  "size": 19,
+  "stargazers_count": 23,
+  "language": "VimL",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 1,
+    "heyalexej": 2,
+    "bkbncn": 4,
+    "tjcertified": 5,
+    "sunuslee": 12
+  },
+  "pulls_authors": [
+    "tjcertified",
+    "captbaritone",
+    "pokowaka",
+    "heyalexej",
+    "bkbncn"
+  ],
+  "languages": {
+    "Vim script": {
+      "bytes": 8052,
+      "color": "#199f4b"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:41.065Z"
+}

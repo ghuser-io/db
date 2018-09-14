@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-tgbot",
+  "full_name": "rockneurotiko/go-tgbot",
+  "owner": "rockneurotiko",
+  "private": false,
+  "html_url": "https://github.com/rockneurotiko/go-tgbot",
+  "description": "Telegram API bot wrapper for Go (golang) Language! <3",
+  "fork": false,
+  "url": "https://api.github.com/repos/rockneurotiko/go-tgbot",
+  "languages_url": "https://api.github.com/repos/rockneurotiko/go-tgbot/languages",
+  "pulls_url": "https://api.github.com/repos/rockneurotiko/go-tgbot/pulls{/number}",
+  "created_at": "2015-06-27T22:45:27Z",
+  "updated_at": "2018-07-28T18:02:36Z",
+  "pushed_at": "2016-04-12T11:41:12Z",
+  "homepage": "",
+  "size": 10552,
+  "stargazers_count": 73,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bitdeli-chef": 1,
+    "rockneurotiko": 48
+  },
+  "pulls_authors": [
+    "bitdeli-chef"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 110698,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 2038,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:46.696Z"
+}

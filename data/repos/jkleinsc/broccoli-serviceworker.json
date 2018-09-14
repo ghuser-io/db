@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "broccoli-serviceworker",
+  "full_name": "jkleinsc/broccoli-serviceworker",
+  "owner": "jkleinsc",
+  "private": false,
+  "html_url": "https://github.com/jkleinsc/broccoli-serviceworker",
+  "description": "ServiceWorker generator for Broccoli and Ember.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/jkleinsc/broccoli-serviceworker",
+  "languages_url": "https://api.github.com/repos/jkleinsc/broccoli-serviceworker/languages",
+  "created_at": "2015-06-13T00:07:59Z",
+  "updated_at": "2018-04-11T13:22:17Z",
+  "pushed_at": "2017-11-14T11:54:56Z",
+  "homepage": null,
+  "size": 56,
+  "stargazers_count": 95,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "asakusuma": 1,
+    "cyk": 1,
+    "urbany": 1,
+    "gr2m": 1,
+    "jessedijkstra": 1,
+    "rmehner": 1,
+    "tsubik": 1,
+    "acorncom": 1,
+    "yaymukund": 1,
+    "zzarcon": 1,
+    "bourquep": 3,
+    "miguelcobain": 4,
+    "jkleinsc": 36
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 13965,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-28T01:44:43.412Z",
+  "pulls_url": "https://api.github.com/repos/jkleinsc/broccoli-serviceworker/pulls{/number}",
+  "pulls_authors": [
+    "urbany",
+    "asakusuma",
+    "cyk",
+    "bourquep",
+    "gnowoel",
+    "miguelcobain",
+    "dkhgh",
+    "gr2m",
+    "jessedijkstra",
+    "rmehner",
+    "andrei-zhidkov",
+    "tsubik",
+    "beatrizdemiguelperez",
+    "acorncom",
+    "appleton",
+    "yaymukund",
+    "marco-c",
+    "zzarcon"
+  ]
+}

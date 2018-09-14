@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dufferzafar.github.com",
+  "full_name": "dufferzafar/dufferzafar.github.com",
+  "owner": "dufferzafar",
+  "private": false,
+  "html_url": "https://github.com/dufferzafar/dufferzafar.github.com",
+  "description": "My Jekyll based blog. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/dufferzafar/dufferzafar.github.com",
+  "languages_url": "https://api.github.com/repos/dufferzafar/dufferzafar.github.com/languages",
+  "pulls_url": "https://api.github.com/repos/dufferzafar/dufferzafar.github.com/pulls{/number}",
+  "created_at": "2014-07-01T10:59:07Z",
+  "updated_at": "2018-08-17T06:16:35Z",
+  "pushed_at": "2018-08-17T06:16:34Z",
+  "homepage": "http://dufferzafar.github.com",
+  "size": 1057,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "dufferzafar": 31
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 1991,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 1080,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-03T12:56:52.558Z"
+}

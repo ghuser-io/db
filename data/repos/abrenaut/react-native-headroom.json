@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "react-native-headroom",
+  "full_name": "abrenaut/react-native-headroom",
+  "owner": "abrenaut",
+  "private": false,
+  "html_url": "https://github.com/abrenaut/react-native-headroom",
+  "description": "A React Native Scrollview with a header which hides when user scrolls down and reappears when user scrolls up",
+  "fork": false,
+  "url": "https://api.github.com/repos/abrenaut/react-native-headroom",
+  "languages_url": "https://api.github.com/repos/abrenaut/react-native-headroom/languages",
+  "pulls_url": "https://api.github.com/repos/abrenaut/react-native-headroom/pulls{/number}",
+  "created_at": "2017-02-03T10:49:49Z",
+  "updated_at": "2018-09-12T06:33:23Z",
+  "pushed_at": "2017-06-05T15:13:57Z",
+  "homepage": null,
+  "size": 7834,
+  "stargazers_count": 39,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "abrenaut": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 5512,
+      "color": "#f1e05a"
+    },
+    "Objective-C": {
+      "bytes": 4443,
+      "color": "#438eff"
+    },
+    "Python": {
+      "bytes": 1655,
+      "color": "#3572A5"
+    },
+    "Java": {
+      "bytes": 1411,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-12T15:30:40.066Z"
+}

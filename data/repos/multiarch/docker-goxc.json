@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docker-goxc",
+  "full_name": "multiarch/docker-goxc",
+  "owner": "multiarch",
+  "private": false,
+  "html_url": "https://github.com/multiarch/docker-goxc",
+  "description": ":earth_africa: `goxc` Docker image",
+  "fork": false,
+  "url": "https://api.github.com/repos/multiarch/docker-goxc",
+  "languages_url": "https://api.github.com/repos/multiarch/docker-goxc/languages",
+  "pulls_url": "https://api.github.com/repos/multiarch/docker-goxc/pulls{/number}",
+  "created_at": "2016-01-08T15:22:04Z",
+  "updated_at": "2016-01-11T12:14:12Z",
+  "pushed_at": "2016-01-27T23:35:51Z",
+  "homepage": "https://hub.docker.com/r/multiarch/goxc/",
+  "size": 7,
+  "stargazers_count": 1,
+  "language": "Makefile",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "multiarch",
+    "id": 16105548,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2MTA1NTQ4",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/16105548?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/multiarch",
+    "html_url": "https://github.com/multiarch",
+    "followers_url": "https://api.github.com/users/multiarch/followers",
+    "following_url": "https://api.github.com/users/multiarch/following{/other_user}",
+    "gists_url": "https://api.github.com/users/multiarch/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/multiarch/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/multiarch/subscriptions",
+    "organizations_url": "https://api.github.com/users/multiarch/orgs",
+    "repos_url": "https://api.github.com/users/multiarch/repos",
+    "events_url": "https://api.github.com/users/multiarch/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/multiarch/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "moul": 10
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Makefile": {
+      "bytes": 75,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:09.602Z"
+}

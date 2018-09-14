@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "twitter-redis",
+  "full_name": "anjunabeats/twitter-redis",
+  "owner": "anjunabeats",
+  "private": false,
+  "html_url": "https://github.com/anjunabeats/twitter-redis",
+  "description": ":wrench: Twitter stream + Redis",
+  "fork": false,
+  "url": "https://api.github.com/repos/anjunabeats/twitter-redis",
+  "languages_url": "https://api.github.com/repos/anjunabeats/twitter-redis/languages",
+  "pulls_url": "https://api.github.com/repos/anjunabeats/twitter-redis/pulls{/number}",
+  "created_at": "2015-08-25T13:37:16Z",
+  "updated_at": "2015-09-29T21:11:31Z",
+  "pushed_at": "2015-08-25T23:37:32Z",
+  "homepage": null,
+  "size": 136,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "anjunabeats",
+    "id": 3419124,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM0MTkxMjQ=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/3419124?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/anjunabeats",
+    "html_url": "https://github.com/anjunabeats",
+    "followers_url": "https://api.github.com/users/anjunabeats/followers",
+    "following_url": "https://api.github.com/users/anjunabeats/following{/other_user}",
+    "gists_url": "https://api.github.com/users/anjunabeats/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/anjunabeats/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/anjunabeats/subscriptions",
+    "organizations_url": "https://api.github.com/users/anjunabeats/orgs",
+    "repos_url": "https://api.github.com/users/anjunabeats/repos",
+    "events_url": "https://api.github.com/users/anjunabeats/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/anjunabeats/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "moul": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 3327,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:27.277Z"
+}

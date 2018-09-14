@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cesi-mobile-001",
+  "full_name": "Romz/cesi-mobile-001",
+  "owner": "Romz",
+  "private": false,
+  "html_url": "https://github.com/Romz/cesi-mobile-001",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/Romz/cesi-mobile-001",
+  "languages_url": "https://api.github.com/repos/Romz/cesi-mobile-001/languages",
+  "pulls_url": "https://api.github.com/repos/Romz/cesi-mobile-001/pulls{/number}",
+  "created_at": "2013-05-12T16:56:56Z",
+  "updated_at": "2016-05-24T11:10:14Z",
+  "pushed_at": "2016-06-07T13:45:21Z",
+  "homepage": null,
+  "size": 136,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 3,
+    "Brydjy": 5,
+    "Romz": 94
+  },
+  "pulls_authors": [
+    "Brydjy"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 34321,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 11410,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 2250,
+      "color": "#563d7c"
+    },
+    "CoffeeScript": {
+      "bytes": 1122,
+      "color": "#244776"
+    },
+    "JavaScript": {
+      "bytes": 661,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:50.332Z"
+}

@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "scaleway-botnet-agent",
+  "full_name": "moul/scaleway-botnet-agent",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/scaleway-botnet-agent",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/scaleway-botnet-agent",
+  "languages_url": "https://api.github.com/repos/moul/scaleway-botnet-agent/languages",
+  "pulls_url": "https://api.github.com/repos/moul/scaleway-botnet-agent/pulls{/number}",
+  "created_at": "2014-11-07T16:50:53Z",
+  "updated_at": "2017-03-14T19:34:19Z",
+  "pushed_at": "2018-08-18T16:10:35Z",
+  "homepage": null,
+  "size": 3804,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 11
+  },
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 2369,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 773,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:44.144Z"
+}

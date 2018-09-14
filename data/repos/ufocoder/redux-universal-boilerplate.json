@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "redux-universal-boilerplate",
+  "full_name": "ufocoder/redux-universal-boilerplate",
+  "owner": "ufocoder",
+  "private": false,
+  "html_url": "https://github.com/ufocoder/redux-universal-boilerplate",
+  "description": "Boilerplate for react universal (isomorphic) application based on flux architecture (redux implementation)",
+  "fork": false,
+  "url": "https://api.github.com/repos/ufocoder/redux-universal-boilerplate",
+  "languages_url": "https://api.github.com/repos/ufocoder/redux-universal-boilerplate/languages",
+  "pulls_url": "https://api.github.com/repos/ufocoder/redux-universal-boilerplate/pulls{/number}",
+  "created_at": "2016-03-15T12:35:17Z",
+  "updated_at": "2018-09-02T01:32:46Z",
+  "pushed_at": "2017-10-14T11:07:13Z",
+  "homepage": "",
+  "size": 4260,
+  "stargazers_count": 78,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "neruchev": 1,
+    "greybutton": 2,
+    "tehspede": 2,
+    "Velveeta": 2,
+    "quickshiftin": 2,
+    "RIP21": 3,
+    "anishkny": 8,
+    "ufocoder": 280
+  },
+  "pulls_authors": [
+    "greybutton",
+    "pdhg",
+    "tehspede",
+    "credocleo",
+    "Velveeta",
+    "anishkny",
+    "quickshiftin",
+    "RIP21",
+    "neruchev",
+    "dokenzy",
+    "ufocoder"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 39304,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 623,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-02T09:36:02.545Z"
+}

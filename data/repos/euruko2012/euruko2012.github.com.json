@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "euruko2012.github.com",
+  "full_name": "euruko2012/euruko2012.github.com",
+  "owner": "euruko2012",
+  "private": false,
+  "html_url": "https://github.com/euruko2012/euruko2012.github.com",
+  "description": "The main website",
+  "fork": false,
+  "url": "https://api.github.com/repos/euruko2012/euruko2012.github.com",
+  "languages_url": "https://api.github.com/repos/euruko2012/euruko2012.github.com/languages",
+  "pulls_url": "https://api.github.com/repos/euruko2012/euruko2012.github.com/pulls{/number}",
+  "created_at": "2012-01-05T11:38:24Z",
+  "updated_at": "2017-04-27T03:17:54Z",
+  "pushed_at": "2012-06-02T14:38:49Z",
+  "homepage": "euruko2012.org",
+  "size": 3612,
+  "stargazers_count": 8,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "euruko2012",
+    "id": 1304723,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzMDQ3MjM=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/1304723?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/euruko2012",
+    "html_url": "https://github.com/euruko2012",
+    "followers_url": "https://api.github.com/users/euruko2012/followers",
+    "following_url": "https://api.github.com/users/euruko2012/following{/other_user}",
+    "gists_url": "https://api.github.com/users/euruko2012/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/euruko2012/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/euruko2012/subscriptions",
+    "organizations_url": "https://api.github.com/users/euruko2012/orgs",
+    "repos_url": "https://api.github.com/users/euruko2012/repos",
+    "events_url": "https://api.github.com/users/euruko2012/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/euruko2012/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "barttenbrinke": 1,
+    "phuesler": 2,
+    "dschneider": 2,
+    "tomash": 2,
+    "timonv": 4,
+    "DouweM": 5,
+    "Juice10": 5,
+    "thijsc": 8,
+    "koos": 12,
+    "joshk": 20,
+    "dhiemstra": 107
+  },
+  "pulls_authors": [
+    "DouweM",
+    "filiptepper",
+    "phuesler",
+    "martinrehfeld",
+    "dschneider",
+    "barttenbrinke",
+    "tomash",
+    "dhiemstra"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 947,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 32,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T16:53:07.746Z"
+}

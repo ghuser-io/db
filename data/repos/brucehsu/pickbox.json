@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pickbox",
+  "full_name": "brucehsu/pickbox",
+  "owner": "brucehsu",
+  "private": false,
+  "html_url": "https://github.com/brucehsu/pickbox",
+  "description": "Yet another Dropbox copycat utilizing convergent encryption",
+  "fork": false,
+  "url": "https://api.github.com/repos/brucehsu/pickbox",
+  "languages_url": "https://api.github.com/repos/brucehsu/pickbox/languages",
+  "pulls_url": "https://api.github.com/repos/brucehsu/pickbox/pulls{/number}",
+  "created_at": "2013-01-18T17:27:04Z",
+  "updated_at": "2016-03-29T21:05:32Z",
+  "pushed_at": "2013-02-03T11:46:07Z",
+  "homepage": null,
+  "size": 164,
+  "stargazers_count": 15,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "brucehsu": 16
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 11265,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:07.473Z"
+}

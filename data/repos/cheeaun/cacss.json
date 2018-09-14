@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cacss",
+  "full_name": "cheeaun/cacss",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/cacss",
+  "description": "CSS in its simplest form.",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/cacss",
+  "languages_url": "https://api.github.com/repos/cheeaun/cacss/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/cacss/pulls{/number}",
+  "created_at": "2009-03-17T15:20:17Z",
+  "updated_at": "2016-09-22T18:46:33Z",
+  "pushed_at": "2017-04-29T19:16:57Z",
+  "homepage": "http://cheeaun.github.com/cacss/",
+  "size": 506,
+  "stargazers_count": 10,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 15
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 510,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T19:00:08.044Z"
+}

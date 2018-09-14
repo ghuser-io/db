@@ -1,0 +1,68 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "orgafoo",
+  "full_name": "openlab-aux/orgafoo",
+  "owner": "openlab-aux",
+  "private": false,
+  "html_url": "https://github.com/openlab-aux/orgafoo",
+  "description": "Organisationelles des OpenLab Augsburg",
+  "fork": false,
+  "url": "https://api.github.com/repos/openlab-aux/orgafoo",
+  "languages_url": "https://api.github.com/repos/openlab-aux/orgafoo/languages",
+  "pulls_url": "https://api.github.com/repos/openlab-aux/orgafoo/pulls{/number}",
+  "created_at": "2013-05-09T20:17:46Z",
+  "updated_at": "2018-05-17T16:08:01Z",
+  "pushed_at": "2018-05-17T16:08:00Z",
+  "homepage": "",
+  "size": 2758,
+  "stargazers_count": 12,
+  "language": "Tcl",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "openlab-aux",
+    "id": 3979750,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM5Nzk3NTA=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/3979750?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/openlab-aux",
+    "html_url": "https://github.com/openlab-aux",
+    "followers_url": "https://api.github.com/users/openlab-aux/followers",
+    "following_url": "https://api.github.com/users/openlab-aux/following{/other_user}",
+    "gists_url": "https://api.github.com/users/openlab-aux/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/openlab-aux/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/openlab-aux/subscriptions",
+    "organizations_url": "https://api.github.com/users/openlab-aux/orgs",
+    "repos_url": "https://api.github.com/users/openlab-aux/repos",
+    "events_url": "https://api.github.com/users/openlab-aux/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/openlab-aux/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "muesli": 1,
+    "midzer": 1,
+    "michiwend": 1,
+    "grindhold": 1,
+    "aszlig": 2,
+    "moba": 5,
+    "waaaaargh": 7,
+    "Profpatsch": 18
+  },
+  "pulls_authors": [
+    "Profpatsch"
+  ],
+  "languages": {
+    "Tcl": {
+      "bytes": 5372,
+      "color": "#e4cc98"
+    },
+    "TeX": {
+      "bytes": 4444,
+      "color": "#3D6117"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:42.654Z"
+}

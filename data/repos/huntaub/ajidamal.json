@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ajidamal",
+  "full_name": "huntaub/ajidamal",
+  "owner": "huntaub",
+  "private": false,
+  "html_url": "https://github.com/huntaub/ajidamal",
+  "description": "Yum.",
+  "fork": false,
+  "url": "https://api.github.com/repos/huntaub/ajidamal",
+  "languages_url": "https://api.github.com/repos/huntaub/ajidamal/languages",
+  "pulls_url": "https://api.github.com/repos/huntaub/ajidamal/pulls{/number}",
+  "created_at": "2015-06-20T00:18:55Z",
+  "updated_at": "2017-09-27T15:32:19Z",
+  "pushed_at": "2017-11-25T21:51:53Z",
+  "homepage": null,
+  "size": 98,
+  "stargazers_count": 2,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "huntaub": 48
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Rust": {
+      "bytes": 89347,
+      "color": "#dea584"
+    },
+    "Shell": {
+      "bytes": 522,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:44:37.974Z"
+}

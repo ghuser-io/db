@@ -1,0 +1,28 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "anthonycicc",
+  "ghuser_created_at": "2018-07-22T08:34:55.260Z",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/22349605?v=4",
+  "html_url": "https://github.com/anthonycicc",
+  "organizations_url": "https://api.github.com/users/anthonycicc/orgs",
+  "repos_url": "https://api.github.com/users/anthonycicc/repos",
+  "type": "User",
+  "name": "Anthony Cicchetti",
+  "company": null,
+  "blog": "",
+  "location": null,
+  "email": null,
+  "bio": null,
+  "created_at": "2016-09-21T15:22:36Z",
+  "updated_at": "2018-09-06T13:39:35Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:09:35.749Z",
+    "repos": [
+      "anthonycicc/no-more-zero-days",
+      "anthonycicc/DailyProgrammer",
+      "anthonycicc/capstone-nao"
+    ]
+  },
+  "public_gists": 1
+}

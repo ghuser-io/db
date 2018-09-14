@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hot-module-replacement",
+  "full_name": "sidorares/hot-module-replacement",
+  "owner": "sidorares",
+  "private": false,
+  "html_url": "https://github.com/sidorares/hot-module-replacement",
+  "description": "Hot module replacement for node.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/sidorares/hot-module-replacement",
+  "languages_url": "https://api.github.com/repos/sidorares/hot-module-replacement/languages",
+  "pulls_url": "https://api.github.com/repos/sidorares/hot-module-replacement/pulls{/number}",
+  "created_at": "2017-06-20T00:09:47Z",
+  "updated_at": "2018-07-12T00:07:46Z",
+  "pushed_at": "2018-07-12T00:08:00Z",
+  "homepage": null,
+  "size": 15,
+  "stargazers_count": 8,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sidorares": 13
+  },
+  "pulls_authors": [
+    "dezmou"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 11529,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:27.957Z"
+}

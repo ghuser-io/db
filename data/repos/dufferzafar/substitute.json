@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "substitute",
+  "full_name": "dufferzafar/substitute",
+  "owner": "dufferzafar",
+  "private": false,
+  "html_url": "https://github.com/dufferzafar/substitute",
+  "description": "Generate and analyse Substitution Boxes in Python.",
+  "fork": false,
+  "url": "https://api.github.com/repos/dufferzafar/substitute",
+  "languages_url": "https://api.github.com/repos/dufferzafar/substitute/languages",
+  "pulls_url": "https://api.github.com/repos/dufferzafar/substitute/pulls{/number}",
+  "created_at": "2015-01-07T08:45:47Z",
+  "updated_at": "2016-05-31T18:52:34Z",
+  "pushed_at": "2016-01-30T11:59:15Z",
+  "homepage": null,
+  "size": 16,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "dufferzafar": 20
+  },
+  "pulls_authors": [
+    "manishmalik"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 8255,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-03T12:56:59.849Z"
+}

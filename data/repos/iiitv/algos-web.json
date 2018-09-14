@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "algos-web",
+  "full_name": "iiitv/algos-web",
+  "owner": "iiitv",
+  "private": false,
+  "html_url": "https://github.com/iiitv/algos-web",
+  "description": "Website for algos.",
+  "fork": false,
+  "url": "https://api.github.com/repos/iiitv/algos-web",
+  "languages_url": "https://api.github.com/repos/iiitv/algos-web/languages",
+  "pulls_url": "https://api.github.com/repos/iiitv/algos-web/pulls{/number}",
+  "created_at": "2018-09-09T15:04:36Z",
+  "updated_at": "2018-09-13T08:22:29Z",
+  "pushed_at": "2018-09-10T11:58:55Z",
+  "homepage": "https://iiitv.github.io/algos-web/",
+  "size": 385,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "iiitv",
+    "id": 9347727,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjkzNDc3Mjc=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/9347727?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/iiitv",
+    "html_url": "https://github.com/iiitv",
+    "followers_url": "https://api.github.com/users/iiitv/followers",
+    "following_url": "https://api.github.com/users/iiitv/following{/other_user}",
+    "gists_url": "https://api.github.com/users/iiitv/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/iiitv/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/iiitv/subscriptions",
+    "organizations_url": "https://api.github.com/users/iiitv/orgs",
+    "repos_url": "https://api.github.com/users/iiitv/repos",
+    "events_url": "https://api.github.com/users/iiitv/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/iiitv/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "aashutoshrathi": 1,
+    "mohitkyadav": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 5311,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1582,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 472,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-13T16:21:48.876Z"
+}

@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pear2.php.net",
+  "full_name": "pear2/pear2.php.net",
+  "owner": "pear2",
+  "private": false,
+  "html_url": "https://github.com/pear2/pear2.php.net",
+  "description": "PEAR2 website",
+  "fork": false,
+  "url": "https://api.github.com/repos/pear2/pear2.php.net",
+  "languages_url": "https://api.github.com/repos/pear2/pear2.php.net/languages",
+  "pulls_url": "https://api.github.com/repos/pear2/pear2.php.net/pulls{/number}",
+  "created_at": "2011-03-04T02:16:35Z",
+  "updated_at": "2017-10-25T00:43:23Z",
+  "pushed_at": "2017-05-22T15:53:26Z",
+  "homepage": "http://pear2.php.net/",
+  "size": 23527,
+  "stargazers_count": 18,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pear2",
+    "id": 98180,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjk4MTgw",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/98180?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pear2",
+    "html_url": "https://github.com/pear2",
+    "followers_url": "https://api.github.com/users/pear2/followers",
+    "following_url": "https://api.github.com/users/pear2/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pear2/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pear2/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pear2/subscriptions",
+    "organizations_url": "https://api.github.com/users/pear2/orgs",
+    "repos_url": "https://api.github.com/users/pear2/repos",
+    "events_url": "https://api.github.com/users/pear2/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pear2/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "till": 1,
+    "cellog": 7,
+    "amir": 10,
+    "cweiske": 12,
+    "gauthierm": 14,
+    "boenrobot": 22,
+    "saltybeagle": 161
+  },
+  "pulls_authors": [
+    "boenrobot",
+    "GunioRobot",
+    "saltybeagle",
+    "iannsp"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 40357,
+      "color": "#4F5D95"
+    },
+    "CSS": {
+      "bytes": 22977,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 2199,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T22:27:05.065Z"
+}

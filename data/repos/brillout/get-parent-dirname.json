@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "get-parent-dirname",
+  "full_name": "brillout/get-parent-dirname",
+  "owner": "brillout",
+  "private": false,
+  "html_url": "https://github.com/brillout/get-parent-dirname",
+  "description": "Get the path of the directory of the parent module.",
+  "fork": false,
+  "url": "https://api.github.com/repos/brillout/get-parent-dirname",
+  "languages_url": "https://api.github.com/repos/brillout/get-parent-dirname/languages",
+  "created_at": "2018-03-02T19:26:07Z",
+  "updated_at": "2018-03-13T12:55:04Z",
+  "pushed_at": "2018-03-02T19:26:14Z",
+  "homepage": null,
+  "size": 2,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "brillout": 2
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 1239,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/brillout/get-parent-dirname/pulls{/number}",
+  "pulls_authors": []
+}

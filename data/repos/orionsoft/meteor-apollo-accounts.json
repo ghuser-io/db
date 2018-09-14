@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "meteor-apollo-accounts",
+  "full_name": "orionsoft/meteor-apollo-accounts",
+  "owner": "orionsoft",
+  "private": false,
+  "html_url": "https://github.com/orionsoft/meteor-apollo-accounts",
+  "description": "Meteor accounts in GraphQL",
+  "fork": false,
+  "url": "https://api.github.com/repos/orionsoft/meteor-apollo-accounts",
+  "languages_url": "https://api.github.com/repos/orionsoft/meteor-apollo-accounts/languages",
+  "pulls_url": "https://api.github.com/repos/orionsoft/meteor-apollo-accounts/pulls{/number}",
+  "created_at": "2016-10-17T19:01:54Z",
+  "updated_at": "2018-09-12T00:38:28Z",
+  "pushed_at": "2017-12-13T23:28:21Z",
+  "homepage": null,
+  "size": 1340,
+  "stargazers_count": 136,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "orionsoft",
+    "id": 15381655,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1MzgxNjU1",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/15381655?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/orionsoft",
+    "html_url": "https://github.com/orionsoft",
+    "followers_url": "https://api.github.com/users/orionsoft/followers",
+    "following_url": "https://api.github.com/users/orionsoft/following{/other_user}",
+    "gists_url": "https://api.github.com/users/orionsoft/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/orionsoft/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/orionsoft/subscriptions",
+    "organizations_url": "https://api.github.com/users/orionsoft/orgs",
+    "repos_url": "https://api.github.com/users/orionsoft/repos",
+    "events_url": "https://api.github.com/users/orionsoft/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/orionsoft/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "hammadj": 1,
+    "HERRKIN": 1,
+    "zvictor": 3,
+    "dbrrt": 7,
+    "janikvonrotz": 7,
+    "nicolaslopezj": 89
+  },
+  "pulls_authors": [
+    "Lucidpaper",
+    "joncursi",
+    "redspear",
+    "appigram",
+    "jsbranco",
+    "dbrrt",
+    "hammadj",
+    "HERRKIN",
+    "nicolaslopezj",
+    "zvictor",
+    "janikvonrotz"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 33320,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:58.631Z"
+}

@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "abc",
+  "full_name": "appbaseio/abc",
+  "owner": "appbaseio",
+  "private": false,
+  "html_url": "https://github.com/appbaseio/abc",
+  "description": "Power of appbase.io via CLI, with nifty imports from your favorite data sources",
+  "fork": false,
+  "url": "https://api.github.com/repos/appbaseio/abc",
+  "languages_url": "https://api.github.com/repos/appbaseio/abc/languages",
+  "pulls_url": "https://api.github.com/repos/appbaseio/abc/pulls{/number}",
+  "created_at": "2017-05-26T06:22:41Z",
+  "updated_at": "2018-09-13T19:28:10Z",
+  "pushed_at": "2018-09-13T19:44:14Z",
+  "homepage": "https://medium.appbase.io/abc-import-import-your-mongodb-sql-json-csv-data-into-elasticsearch-a202cafafc0d",
+  "size": 27494,
+  "stargazers_count": 125,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "dev",
+  "organization": {
+    "login": "appbaseio",
+    "id": 8524145,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjg1MjQxNDU=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/8524145?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/appbaseio",
+    "html_url": "https://github.com/appbaseio",
+    "followers_url": "https://api.github.com/users/appbaseio/followers",
+    "following_url": "https://api.github.com/users/appbaseio/following{/other_user}",
+    "gists_url": "https://api.github.com/users/appbaseio/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/appbaseio/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/appbaseio/subscriptions",
+    "organizations_url": "https://api.github.com/users/appbaseio/orgs",
+    "repos_url": "https://api.github.com/users/appbaseio/repos",
+    "events_url": "https://api.github.com/users/appbaseio/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/appbaseio/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "slobo": 1,
+    "utsavoza": 12,
+    "siddharthlatest": 38,
+    "aviaryan": 210,
+    "blissini": 1
+  },
+  "pulls_authors": [
+    "palash25",
+    "slobo",
+    "utsavoza",
+    "aviaryan",
+    "blissini"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 61926,
+      "color": "#375eab"
+    },
+    "Dockerfile": {
+      "bytes": 1071,
+      "color": "#0db7ed"
+    },
+    "Shell": {
+      "bytes": 553,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T23:56:37.615Z"
+}

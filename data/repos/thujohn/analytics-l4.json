@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "analytics-l4",
+  "full_name": "thujohn/analytics-l4",
+  "owner": "thujohn",
+  "private": false,
+  "html_url": "https://github.com/thujohn/analytics-l4",
+  "description": "Google Analytics for Laravel 4",
+  "fork": false,
+  "url": "https://api.github.com/repos/thujohn/analytics-l4",
+  "languages_url": "https://api.github.com/repos/thujohn/analytics-l4/languages",
+  "pulls_url": "https://api.github.com/repos/thujohn/analytics-l4/pulls{/number}",
+  "created_at": "2013-06-20T20:53:32Z",
+  "updated_at": "2018-08-24T11:26:12Z",
+  "pushed_at": "2015-09-11T10:14:38Z",
+  "homepage": null,
+  "size": 267,
+  "stargazers_count": 118,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "BasMulders": 1,
+    "bramdevries": 1,
+    "morsdyce": 1,
+    "thomaswelton": 1,
+    "mjaschen": 2,
+    "thujohn": 16
+  },
+  "pulls_authors": [
+    "ghost",
+    "zygimantaskazlauskas",
+    "jbrooksuk",
+    "enesk",
+    "BasMulders",
+    "bramdevries",
+    "morsdyce",
+    "denyo",
+    "andheiberg",
+    "mjaschen",
+    "thomaswelton"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 7233,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:51.938Z"
+}

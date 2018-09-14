@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ios-3.5-howtos",
+  "full_name": "facebookarchive/ios-3.5-howtos",
+  "owner": "facebookarchive",
+  "private": false,
+  "html_url": "https://github.com/facebookarchive/ios-3.5-howtos",
+  "description": "Samples supporting How To documentation for Facebook SDK 3.5 for iOS.",
+  "fork": false,
+  "url": "https://api.github.com/repos/facebookarchive/ios-3.5-howtos",
+  "languages_url": "https://api.github.com/repos/facebookarchive/ios-3.5-howtos/languages",
+  "pulls_url": "https://api.github.com/repos/facebookarchive/ios-3.5-howtos/pulls{/number}",
+  "created_at": "2013-04-18T13:08:22Z",
+  "updated_at": "2018-05-28T00:47:03Z",
+  "pushed_at": "2013-09-11T20:12:41Z",
+  "homepage": null,
+  "size": 1017,
+  "stargazers_count": 66,
+  "language": "Objective-C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "facebookarchive",
+    "id": 7560860,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc1NjA4NjA=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/7560860?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/facebookarchive",
+    "html_url": "https://github.com/facebookarchive",
+    "followers_url": "https://api.github.com/users/facebookarchive/followers",
+    "following_url": "https://api.github.com/users/facebookarchive/following{/other_user}",
+    "gists_url": "https://api.github.com/users/facebookarchive/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/facebookarchive/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/facebookarchive/subscriptions",
+    "organizations_url": "https://api.github.com/users/facebookarchive/orgs",
+    "repos_url": "https://api.github.com/users/facebookarchive/repos",
+    "events_url": "https://api.github.com/users/facebookarchive/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/facebookarchive/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "paulyoung": 1,
+    "caabernathy": 23
+  },
+  "pulls_authors": [
+    "aubakirova",
+    "paulyoung"
+  ],
+  "languages": {
+    "Objective-C": {
+      "bytes": 295035,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-08T12:41:03.896Z"
+}

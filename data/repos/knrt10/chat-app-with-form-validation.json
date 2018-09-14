@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "chat-app-with-form-validation",
+  "full_name": "knrt10/chat-app-with-form-validation",
+  "owner": "knrt10",
+  "private": false,
+  "html_url": "https://github.com/knrt10/chat-app-with-form-validation",
+  "description": "Chat APP using socket.io and AngularJS",
+  "fork": false,
+  "url": "https://api.github.com/repos/knrt10/chat-app-with-form-validation",
+  "languages_url": "https://api.github.com/repos/knrt10/chat-app-with-form-validation/languages",
+  "created_at": "2017-06-27T07:40:35Z",
+  "updated_at": "2018-04-13T15:11:09Z",
+  "pushed_at": "2018-04-21T09:34:23Z",
+  "homepage": "https://chat-application-2-knrt97.c9users.io",
+  "size": 8,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "knrt10": 8
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 8359,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 7694,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-07-24T14:33:12.483Z",
+  "pulls_url": "https://api.github.com/repos/knrt10/chat-app-with-form-validation/pulls{/number}",
+  "pulls_authors": [
+    "testingappprobot[bot]"
+  ]
+}

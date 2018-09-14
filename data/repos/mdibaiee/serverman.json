@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "serverman",
+  "full_name": "mdibaiee/serverman",
+  "owner": "mdibaiee",
+  "private": false,
+  "html_url": "https://github.com/mdibaiee/serverman",
+  "description": "simple service installation, configuration and monitoring of linux servers",
+  "fork": false,
+  "url": "https://api.github.com/repos/mdibaiee/serverman",
+  "languages_url": "https://api.github.com/repos/mdibaiee/serverman/languages",
+  "pulls_url": "https://api.github.com/repos/mdibaiee/serverman/pulls{/number}",
+  "created_at": "2017-02-18T19:23:41Z",
+  "updated_at": "2018-03-02T19:44:41Z",
+  "pushed_at": "2017-06-07T08:44:48Z",
+  "homepage": "",
+  "size": 91,
+  "stargazers_count": 5,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mdibaiee": 45
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Haskell": {
+      "bytes": 52463,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:38.305Z"
+}

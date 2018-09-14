@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "osquery-node",
+  "full_name": "sidorares/osquery-node",
+  "owner": "sidorares",
+  "private": false,
+  "html_url": "https://github.com/sidorares/osquery-node",
+  "description": "node.js client for osquery",
+  "fork": false,
+  "url": "https://api.github.com/repos/sidorares/osquery-node",
+  "languages_url": "https://api.github.com/repos/sidorares/osquery-node/languages",
+  "pulls_url": "https://api.github.com/repos/sidorares/osquery-node/pulls{/number}",
+  "created_at": "2015-04-30T10:52:56Z",
+  "updated_at": "2018-09-09T16:53:29Z",
+  "pushed_at": "2018-01-16T04:14:27Z",
+  "homepage": null,
+  "size": 11,
+  "stargazers_count": 23,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "datesss": 1,
+    "sidorares": 2
+  },
+  "pulls_authors": [
+    "snyk-bot",
+    "datesss"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2880,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:29.077Z"
+}

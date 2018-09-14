@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ArgueJS",
+  "full_name": "zvictor/ArgueJS",
+  "owner": "zvictor",
+  "private": false,
+  "html_url": "https://github.com/zvictor/ArgueJS",
+  "description": "optional parameters, default values and type-checking for your JavaScript method signatures",
+  "fork": false,
+  "url": "https://api.github.com/repos/zvictor/ArgueJS",
+  "languages_url": "https://api.github.com/repos/zvictor/ArgueJS/languages",
+  "pulls_url": "https://api.github.com/repos/zvictor/ArgueJS/pulls{/number}",
+  "created_at": "2013-04-09T01:24:39Z",
+  "updated_at": "2018-04-14T02:55:01Z",
+  "pushed_at": "2017-04-19T13:38:00Z",
+  "homepage": "",
+  "size": 246,
+  "stargazers_count": 141,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "bryant1410": 1,
+    "kimptoc": 1,
+    "tia-isa": 1,
+    "maxdesiatov": 1,
+    "kimjoar": 4,
+    "zvictor": 40
+  },
+  "pulls_authors": [
+    "bryant1410",
+    "johmoh",
+    "kimptoc",
+    "tia-isa",
+    "maxdesiatov"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 250345,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:22.845Z"
+}

@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Notes",
+  "full_name": "palash25/Notes",
+  "owner": "palash25",
+  "private": false,
+  "html_url": "https://github.com/palash25/Notes",
+  "description": "My notes on software :computer: engineering and programming languages",
+  "fork": false,
+  "url": "https://api.github.com/repos/palash25/Notes",
+  "languages_url": "https://api.github.com/repos/palash25/Notes/languages",
+  "created_at": "2017-09-18T13:24:33Z",
+  "updated_at": "2018-09-10T22:08:09Z",
+  "pushed_at": "2018-09-10T22:08:07Z",
+  "homepage": "",
+  "size": 23322,
+  "stargazers_count": 6,
+  "language": "Jupyter Notebook",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "palash25": 25
+  },
+  "languages": {
+    "Jupyter Notebook": {
+      "bytes": 16770631,
+      "color": "#DA5B0B"
+    }
+  },
+  "fetched_at": "2018-09-11T00:07:18.691Z",
+  "pulls_url": "https://api.github.com/repos/palash25/Notes/pulls{/number}",
+  "pulls_authors": [
+    "palash25"
+  ]
+}

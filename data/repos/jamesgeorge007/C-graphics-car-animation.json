@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "C-graphics-car-animation",
+  "full_name": "jamesgeorge007/C-graphics-car-animation",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/C-graphics-car-animation",
+  "description": "This is an example to show the various methods available in the C graphics library",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/C-graphics-car-animation",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/C-graphics-car-animation/languages",
+  "created_at": "2017-06-14T05:29:49Z",
+  "updated_at": "2018-07-03T04:18:41Z",
+  "pushed_at": "2018-03-29T07:26:42Z",
+  "homepage": null,
+  "size": 4,
+  "stargazers_count": 4,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jamesgeorge007": 6
+  },
+  "languages": {
+    "C++": {
+      "bytes": 2760,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/C-graphics-car-animation/pulls{/number}",
+  "pulls_authors": []
+}

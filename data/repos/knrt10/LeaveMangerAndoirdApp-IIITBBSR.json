@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "LeaveMangerAndoirdApp-IIITBBSR",
+  "full_name": "knrt10/LeaveMangerAndoirdApp-IIITBBSR",
+  "owner": "knrt10",
+  "private": false,
+  "html_url": "https://github.com/knrt10/LeaveMangerAndoirdApp-IIITBBSR",
+  "description": "Leave Manager App (Official ) For IIIT-BBSR.",
+  "fork": false,
+  "url": "https://api.github.com/repos/knrt10/LeaveMangerAndoirdApp-IIITBBSR",
+  "languages_url": "https://api.github.com/repos/knrt10/LeaveMangerAndoirdApp-IIITBBSR/languages",
+  "created_at": "2018-03-05T09:25:24Z",
+  "updated_at": "2018-03-08T12:18:35Z",
+  "pushed_at": "2018-03-05T10:35:20Z",
+  "homepage": null,
+  "size": 6,
+  "stargazers_count": 2,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "knrt10": 5
+  },
+  "languages": {},
+  "fetched_at": "2018-07-24T14:33:12.483Z",
+  "pulls_url": "https://api.github.com/repos/knrt10/LeaveMangerAndoirdApp-IIITBBSR/pulls{/number}",
+  "pulls_authors": []
+}

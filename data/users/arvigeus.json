@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "arvigeus",
+  "ghuser_created_at": "2018-09-11T15:02:00.099Z",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/4872470?v=4",
+  "html_url": "https://github.com/arvigeus",
+  "organizations_url": "https://api.github.com/users/arvigeus/orgs",
+  "repos_url": "https://api.github.com/users/arvigeus/repos",
+  "type": "User",
+  "name": "Nikolay Stoynov",
+  "company": "Moon and Moon",
+  "blog": "http://arvigeus.github.com",
+  "location": "Varna, Bulgaria",
+  "email": "arvigeus@gmail.com",
+  "bio": null,
+  "public_gists": 3,
+  "created_at": "2013-06-28T19:35:55Z",
+  "updated_at": "2018-09-13T06:54:08Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:09:37.278Z",
+    "repos": [
+      "arvigeus/monorepository",
+      "arvigeus/didique-client",
+      "arvigeus/didique-server",
+      "arvigeus/arvigeus.github.io",
+      "apollographql/apollo-link",
+      "arvigeus/simple-redux-demo",
+      "arvigeus/okcupid-notifier",
+      "arvigeus/shopmetrics-code-guideline",
+      "arvigeus/studentlife",
+      "date-fns/date-fns"
+    ]
+  }
+}

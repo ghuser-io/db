@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SwiftChat",
+  "full_name": "xyclos/SwiftChat",
+  "owner": "xyclos",
+  "private": false,
+  "html_url": "https://github.com/xyclos/SwiftChat",
+  "description": "chat app written in Swift with Firebase",
+  "fork": false,
+  "url": "https://api.github.com/repos/xyclos/SwiftChat",
+  "languages_url": "https://api.github.com/repos/xyclos/SwiftChat/languages",
+  "pulls_url": "https://api.github.com/repos/xyclos/SwiftChat/pulls{/number}",
+  "created_at": "2014-06-07T18:46:55Z",
+  "updated_at": "2017-03-16T10:54:34Z",
+  "pushed_at": "2016-02-18T20:44:16Z",
+  "homepage": null,
+  "size": 23016,
+  "stargazers_count": 23,
+  "language": "Objective-C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "xyclos": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Objective-C": {
+      "bytes": 90139,
+      "color": "#438eff"
+    },
+    "Swift": {
+      "bytes": 7314,
+      "color": "#ffac45"
+    },
+    "C++": {
+      "bytes": 2031,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-10T21:40:21.427Z"
+}

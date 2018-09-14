@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wcktm-Infographics",
+  "full_name": "WordCampKathmandu/wcktm-Infographics",
+  "owner": "WordCampKathmandu",
+  "private": false,
+  "html_url": "https://github.com/WordCampKathmandu/wcktm-Infographics",
+  "description": "This Repository contains list of speakers of WordCamp Nepal and WordCamp Kathmandu and their presentations & workshop titles, Number of attendee registered for the event in xlsx format  ",
+  "fork": false,
+  "url": "https://api.github.com/repos/WordCampKathmandu/wcktm-Infographics",
+  "languages_url": "https://api.github.com/repos/WordCampKathmandu/wcktm-Infographics/languages",
+  "pulls_url": "https://api.github.com/repos/WordCampKathmandu/wcktm-Infographics/pulls{/number}",
+  "created_at": "2017-09-10T03:57:22Z",
+  "updated_at": "2017-10-17T10:57:16Z",
+  "pushed_at": "2017-09-10T14:05:52Z",
+  "homepage": null,
+  "size": 1299,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "WordCampKathmandu",
+    "id": 31812679,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMxODEyNjc5",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/31812679?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/WordCampKathmandu",
+    "html_url": "https://github.com/WordCampKathmandu",
+    "followers_url": "https://api.github.com/users/WordCampKathmandu/followers",
+    "following_url": "https://api.github.com/users/WordCampKathmandu/following{/other_user}",
+    "gists_url": "https://api.github.com/users/WordCampKathmandu/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/WordCampKathmandu/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/WordCampKathmandu/subscriptions",
+    "organizations_url": "https://api.github.com/users/WordCampKathmandu/orgs",
+    "repos_url": "https://api.github.com/users/WordCampKathmandu/repos",
+    "events_url": "https://api.github.com/users/WordCampKathmandu/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/WordCampKathmandu/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "rabirajkhadka": 4,
+    "amitness": 5
+  },
+  "pulls_authors": [
+    "rabirajkhadka"
+  ],
+  "languages": {},
+  "fetched_at": "2018-08-18T09:17:26.883Z"
+}

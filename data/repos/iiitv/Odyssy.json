@@ -1,0 +1,107 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Odyssy",
+  "full_name": "iiitv/Odyssy",
+  "owner": "iiitv",
+  "private": false,
+  "html_url": "https://github.com/iiitv/Odyssy",
+  "description": "Django based dynamic next generation website for IIITV",
+  "fork": false,
+  "url": "https://api.github.com/repos/iiitv/Odyssy",
+  "languages_url": "https://api.github.com/repos/iiitv/Odyssy/languages",
+  "pulls_url": "https://api.github.com/repos/iiitv/Odyssy/pulls{/number}",
+  "created_at": "2017-05-13T17:49:22Z",
+  "updated_at": "2018-08-07T10:17:04Z",
+  "pushed_at": "2018-07-14T09:09:53Z",
+  "homepage": "",
+  "size": 12940,
+  "stargazers_count": 18,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "iiitv",
+    "id": 9347727,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjkzNDc3Mjc=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/9347727?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/iiitv",
+    "html_url": "https://github.com/iiitv",
+    "followers_url": "https://api.github.com/users/iiitv/followers",
+    "following_url": "https://api.github.com/users/iiitv/following{/other_user}",
+    "gists_url": "https://api.github.com/users/iiitv/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/iiitv/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/iiitv/subscriptions",
+    "organizations_url": "https://api.github.com/users/iiitv/orgs",
+    "repos_url": "https://api.github.com/users/iiitv/repos",
+    "events_url": "https://api.github.com/users/iiitv/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/iiitv/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "codacy-badger": 1,
+    "kamarkiewicz": 1,
+    "9034725985": 1,
+    "jay-johnson": 1,
+    "dveeden": 1,
+    "thesteve0": 1,
+    "marcogario": 1,
+    "lmacken": 1,
+    "zemanel": 1,
+    "mfojtik": 2,
+    "mrunalp": 2,
+    "iepathos": 2,
+    "pengfei-xue": 2,
+    "BanzaiMan": 4,
+    "gshipley": 4,
+    "bparees": 6,
+    "nhr": 6,
+    "yashLadha": 7,
+    "Prakash2403": 9,
+    "singhpratyush": 9,
+    "andrejtokarcik": 10,
+    "dblado": 11,
+    "danmcp": 12,
+    "geekyJock8": 24,
+    "aashutoshrathi": 32,
+    "Monal5031": 60,
+    "mohitkyadav": 149
+  },
+  "pulls_authors": [
+    "Monal5031",
+    "mohitkyadav",
+    "aashutoshrathi",
+    "geekyJock8",
+    "Prakash2403",
+    "yashLadha",
+    "singhpratyush",
+    "codacy-badger",
+    "gitter-badger"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 706993,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 304112,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 199649,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 134098,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 1764,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T16:59:34.719Z"
+}

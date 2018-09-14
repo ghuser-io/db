@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "popit.poplus.org",
+  "full_name": "mysociety/popit.poplus.org",
+  "owner": "mysociety",
+  "private": false,
+  "html_url": "https://github.com/mysociety/popit.poplus.org",
+  "description": "DEPRECATED - PopIt Poplus homepage",
+  "fork": false,
+  "url": "https://api.github.com/repos/mysociety/popit.poplus.org",
+  "languages_url": "https://api.github.com/repos/mysociety/popit.poplus.org/languages",
+  "pulls_url": "https://api.github.com/repos/mysociety/popit.poplus.org/pulls{/number}",
+  "created_at": "2014-04-17T14:52:48Z",
+  "updated_at": "2017-07-06T04:15:13Z",
+  "pushed_at": "2015-11-16T18:50:23Z",
+  "homepage": "https://goo.gl/Vvej4Q",
+  "size": 827,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "gh-pages",
+  "organization": {
+    "login": "mysociety",
+    "id": 141338,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/141338?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mysociety",
+    "html_url": "https://github.com/mysociety",
+    "followers_url": "https://api.github.com/users/mysociety/followers",
+    "following_url": "https://api.github.com/users/mysociety/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mysociety/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mysociety/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mysociety/subscriptions",
+    "organizations_url": "https://api.github.com/users/mysociety/orgs",
+    "repos_url": "https://api.github.com/users/mysociety/repos",
+    "events_url": "https://api.github.com/users/mysociety/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mysociety/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "davewhiteland": 1,
+    "henare": 1,
+    "bcampbell": 1,
+    "tmtmtmtm": 3,
+    "struan": 11,
+    "wrightmartin": 42,
+    "chrismytton": 66
+  },
+  "pulls_authors": [
+    "kaerumy",
+    "chrismytton",
+    "tmtmtmtm",
+    "struan",
+    "davewhiteland",
+    "jpmckinney",
+    "henare",
+    "wrightmartin"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 62447,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 24578,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:44.879Z"
+}

@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sibe",
+  "full_name": "mdibaiee/sibe",
+  "owner": "mdibaiee",
+  "private": false,
+  "html_url": "https://github.com/mdibaiee/sibe",
+  "description": "Experimental Haskell machine learning library",
+  "fork": false,
+  "url": "https://api.github.com/repos/mdibaiee/sibe",
+  "languages_url": "https://api.github.com/repos/mdibaiee/sibe/languages",
+  "pulls_url": "https://api.github.com/repos/mdibaiee/sibe/pulls{/number}",
+  "created_at": "2016-07-17T12:22:15Z",
+  "updated_at": "2018-07-16T13:22:56Z",
+  "pushed_at": "2017-05-25T07:35:47Z",
+  "homepage": "",
+  "size": 16067,
+  "stargazers_count": 30,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "peti": 1,
+    "mdibaiee": 52
+  },
+  "pulls_authors": [
+    "peti"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 28062,
+      "color": "#5e5086"
+    },
+    "Shell": {
+      "bytes": 181,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:38.406Z"
+}

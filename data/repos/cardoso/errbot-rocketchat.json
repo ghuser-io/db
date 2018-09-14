@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "errbot-rocketchat",
+  "full_name": "cardoso/errbot-rocketchat",
+  "owner": "cardoso",
+  "private": false,
+  "html_url": "https://github.com/cardoso/errbot-rocketchat",
+  "description": "Errbot for Rocket.Chat",
+  "fork": false,
+  "url": "https://api.github.com/repos/cardoso/errbot-rocketchat",
+  "languages_url": "https://api.github.com/repos/cardoso/errbot-rocketchat/languages",
+  "pulls_url": "https://api.github.com/repos/cardoso/errbot-rocketchat/pulls{/number}",
+  "created_at": "2017-09-29T03:00:47Z",
+  "updated_at": "2018-07-20T22:05:26Z",
+  "pushed_at": "2018-07-20T22:05:24Z",
+  "homepage": null,
+  "size": 1337,
+  "stargazers_count": 4,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "torgeirl": 1,
+    "nicoddemus": 1,
+    "AoiKuiyuyou": 1,
+    "cardoso": 2,
+    "HackyPenguin": 7
+  },
+  "pulls_authors": [
+    "HackyPenguin",
+    "torgeirl",
+    "nicoddemus",
+    "cardoso"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 1761791,
+      "color": "#3572A5"
+    },
+    "Dockerfile": {
+      "bytes": 585,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-03T21:47:32.298Z"
+}

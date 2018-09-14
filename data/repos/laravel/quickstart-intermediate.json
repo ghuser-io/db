@@ -1,0 +1,102 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "quickstart-intermediate",
+  "full_name": "laravel/quickstart-intermediate",
+  "owner": "laravel",
+  "private": false,
+  "html_url": "https://github.com/laravel/quickstart-intermediate",
+  "description": "A sample task list application with authentication.",
+  "fork": false,
+  "url": "https://api.github.com/repos/laravel/quickstart-intermediate",
+  "languages_url": "https://api.github.com/repos/laravel/quickstart-intermediate/languages",
+  "pulls_url": "https://api.github.com/repos/laravel/quickstart-intermediate/pulls{/number}",
+  "created_at": "2015-10-28T18:02:10Z",
+  "updated_at": "2018-08-30T05:37:55Z",
+  "pushed_at": "2017-05-04T10:09:23Z",
+  "homepage": "http://laravel.com/docs/quickstart-intermediate",
+  "size": 174,
+  "stargazers_count": 243,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "laravel",
+    "id": 958072,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjk1ODA3Mg==",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/958072?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/laravel",
+    "html_url": "https://github.com/laravel",
+    "followers_url": "https://api.github.com/users/laravel/followers",
+    "following_url": "https://api.github.com/users/laravel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/laravel/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/laravel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/laravel/subscriptions",
+    "organizations_url": "https://api.github.com/users/laravel/orgs",
+    "repos_url": "https://api.github.com/users/laravel/repos",
+    "events_url": "https://api.github.com/users/laravel/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/laravel/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jerguslejko": 1,
+    "AmmuJose": 1,
+    "bikalbasnet": 1,
+    "kelvinj": 1,
+    "zOxta": 1,
+    "Francismori7": 1,
+    "jbrooksuk": 2,
+    "taylorotwell": 3,
+    "petermichaux": 6
+  },
+  "pulls_authors": [
+    "kideny",
+    "jerguslejko",
+    "Werewolflsp",
+    "ridwannaibi",
+    "AmmuJose",
+    "bikalbasnet",
+    "aadityanj",
+    "kelvinj",
+    "MeiRct",
+    "petermichaux",
+    "evertramos",
+    "vitorfleite",
+    "zOxta",
+    "jbrooksuk",
+    "Dawlatzai",
+    "Francismori7"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 74114,
+      "color": "#4F5D95"
+    },
+    "HTML": {
+      "bytes": 20202,
+      "color": "#e34c26"
+    },
+    "ApacheConf": {
+      "bytes": 553,
+      "color": "#ccc"
+    },
+    "JavaScript": {
+      "bytes": 503,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 72,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:49.503Z"
+}

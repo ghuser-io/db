@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "NwSMTP",
+  "full_name": "yandex/NwSMTP",
+  "owner": "yandex",
+  "private": false,
+  "html_url": "https://github.com/yandex/NwSMTP",
+  "description": "Asynchronous SMTP proxy server",
+  "fork": false,
+  "url": "https://api.github.com/repos/yandex/NwSMTP",
+  "languages_url": "https://api.github.com/repos/yandex/NwSMTP/languages",
+  "pulls_url": "https://api.github.com/repos/yandex/NwSMTP/pulls{/number}",
+  "created_at": "2010-10-22T11:24:26Z",
+  "updated_at": "2018-04-07T13:02:58Z",
+  "pushed_at": "2012-04-22T12:23:49Z",
+  "homepage": "http://www.yandex.ru",
+  "size": 999,
+  "stargazers_count": 63,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "yandex",
+    "id": 7409213,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc0MDkyMTM=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/7409213?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/yandex",
+    "html_url": "https://github.com/yandex",
+    "followers_url": "https://api.github.com/users/yandex/followers",
+    "following_url": "https://api.github.com/users/yandex/following{/other_user}",
+    "gists_url": "https://api.github.com/users/yandex/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/yandex/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/yandex/subscriptions",
+    "organizations_url": "https://api.github.com/users/yandex/orgs",
+    "repos_url": "https://api.github.com/users/yandex/repos",
+    "events_url": "https://api.github.com/users/yandex/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/yandex/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "sidorares": 1,
+    "alexeimoisseev": 9,
+    "khanton": 10
+  },
+  "pulls_authors": [
+    "alexeimoisseev"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 1121704,
+      "color": "#89e051"
+    },
+    "C++": {
+      "bytes": 618705,
+      "color": "#f34b7d"
+    },
+    "Elixir": {
+      "bytes": 29211,
+      "color": "#6e4a7e"
+    },
+    "C": {
+      "bytes": 15644,
+      "color": "#555555"
+    },
+    "D": {
+      "bytes": 275,
+      "color": "#ba595e"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:47.461Z"
+}

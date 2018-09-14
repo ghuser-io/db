@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "yocingo",
+  "full_name": "Yawolf/yocingo",
+  "owner": "Yawolf",
+  "private": false,
+  "html_url": "https://github.com/Yawolf/yocingo",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/Yawolf/yocingo",
+  "languages_url": "https://api.github.com/repos/Yawolf/yocingo/languages",
+  "pulls_url": "https://api.github.com/repos/Yawolf/yocingo/pulls{/number}",
+  "created_at": "2015-07-30T10:06:41Z",
+  "updated_at": "2018-09-14T04:39:20Z",
+  "pushed_at": "2017-03-26T10:58:32Z",
+  "homepage": null,
+  "size": 69,
+  "stargazers_count": 38,
+  "language": "Elixir",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "apoq": 1,
+    "praisegeek": 5,
+    "rockneurotiko": 6,
+    "Yawolf": 32
+  },
+  "pulls_authors": [
+    "praisegeek",
+    "apoq",
+    "rockneurotiko"
+  ],
+  "languages": {
+    "Elixir": {
+      "bytes": 17469,
+      "color": "#6e4a7e"
+    }
+  },
+  "fetched_at": "2018-09-14T08:40:09.498Z"
+}

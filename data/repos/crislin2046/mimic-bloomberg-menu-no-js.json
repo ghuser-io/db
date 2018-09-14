@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mimic-bloomberg-menu-no-js",
+  "full_name": "crislin2046/mimic-bloomberg-menu-no-js",
+  "owner": "crislin2046",
+  "private": false,
+  "html_url": "https://github.com/crislin2046/mimic-bloomberg-menu-no-js",
+  "description": ":ring: A mimic of the Bloomberg dropdown menu widget without JavaScript",
+  "fork": false,
+  "url": "https://api.github.com/repos/crislin2046/mimic-bloomberg-menu-no-js",
+  "languages_url": "https://api.github.com/repos/crislin2046/mimic-bloomberg-menu-no-js/languages",
+  "pulls_url": "https://api.github.com/repos/crislin2046/mimic-bloomberg-menu-no-js/pulls{/number}",
+  "created_at": "2018-06-26T11:58:00Z",
+  "updated_at": "2018-09-09T05:23:56Z",
+  "pushed_at": "2018-08-18T05:30:31Z",
+  "homepage": "https://thiscris.com/mimic-bloomberg-menu-no-js/",
+  "size": 50,
+  "stargazers_count": 119,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "shinobu-chan": 1,
+    "franciscop": 1,
+    "crislin2046": 26
+  },
+  "pulls_authors": [
+    "shinobu-chan",
+    "franciscop"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 14181,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 11424,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T00:04:56.503Z"
+}

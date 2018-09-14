@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "brusher",
+  "full_name": "kamranahmedse/brusher",
+  "owner": "kamranahmedse",
+  "private": false,
+  "html_url": "https://github.com/kamranahmedse/brusher",
+  "description": "Create beautiful webpage backgrounds",
+  "fork": false,
+  "url": "https://api.github.com/repos/kamranahmedse/brusher",
+  "languages_url": "https://api.github.com/repos/kamranahmedse/brusher/languages",
+  "pulls_url": "https://api.github.com/repos/kamranahmedse/brusher/pulls{/number}",
+  "created_at": "2018-05-06T19:44:30Z",
+  "updated_at": "2018-09-05T05:45:52Z",
+  "pushed_at": "2018-07-21T07:06:12Z",
+  "homepage": "http://kamranahmed.info/brusher",
+  "size": 21522,
+  "stargazers_count": 583,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "anton2mihail": 1,
+    "ztickm": 1,
+    "kamranahmedse": 51
+  },
+  "pulls_authors": [
+    "anton2mihail",
+    "ztickm"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 12233,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:37.936Z"
+}

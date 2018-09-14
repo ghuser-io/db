@@ -1,0 +1,106 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Praktomat",
+  "full_name": "KITPraktomatTeam/Praktomat",
+  "owner": "KITPraktomatTeam",
+  "private": false,
+  "html_url": "https://github.com/KITPraktomatTeam/Praktomat",
+  "description": "quality control for programming assignments",
+  "fork": false,
+  "url": "https://api.github.com/repos/KITPraktomatTeam/Praktomat",
+  "languages_url": "https://api.github.com/repos/KITPraktomatTeam/Praktomat/languages",
+  "pulls_url": "https://api.github.com/repos/KITPraktomatTeam/Praktomat/pulls{/number}",
+  "created_at": "2010-04-23T13:51:11Z",
+  "updated_at": "2018-07-11T14:13:03Z",
+  "pushed_at": "2018-07-12T14:59:11Z",
+  "homepage": "http://pp.ipd.kit.edu/projects/praktomat/praktomat.php",
+  "size": 8685,
+  "stargazers_count": 28,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "KITPraktomatTeam",
+    "id": 4998546,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ5OTg1NDY=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/4998546?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/KITPraktomatTeam",
+    "html_url": "https://github.com/KITPraktomatTeam",
+    "followers_url": "https://api.github.com/users/KITPraktomatTeam/followers",
+    "following_url": "https://api.github.com/users/KITPraktomatTeam/following{/other_user}",
+    "gists_url": "https://api.github.com/users/KITPraktomatTeam/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/KITPraktomatTeam/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/KITPraktomatTeam/subscriptions",
+    "organizations_url": "https://api.github.com/users/KITPraktomatTeam/orgs",
+    "repos_url": "https://api.github.com/users/KITPraktomatTeam/repos",
+    "events_url": "https://api.github.com/users/KITPraktomatTeam/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/KITPraktomatTeam/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "upsj": 1,
+    "physikerwelt": 2,
+    "apm1467": 4,
+    "andromeda979": 4,
+    "martinmo": 7,
+    "jkrinke": 8,
+    "lohner": 17,
+    "ratefuchs": 54,
+    "mhecker": 201,
+    "danielkleinert": 205,
+    "nomeata": 266
+  },
+  "pulls_authors": [
+    "lohner",
+    "freundTech",
+    "ratefuchs",
+    "physikerwelt",
+    "ifrh",
+    "jkrinke",
+    "andromeda979",
+    "Drake81",
+    "upsj",
+    "nomeata"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 1664814,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 440122,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 45532,
+      "color": "#f1e05a"
+    },
+    "PHP": {
+      "bytes": 33862,
+      "color": "#4F5D95"
+    },
+    "CSS": {
+      "bytes": 18604,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 1894,
+      "color": "#89e051"
+    },
+    "Java": {
+      "bytes": 214,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:09.727Z"
+}

@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "zigbee-zstack-gateway-snappy",
+  "full_name": "ninjasphere/zigbee-zstack-gateway-snappy",
+  "owner": "ninjasphere",
+  "private": false,
+  "html_url": "https://github.com/ninjasphere/zigbee-zstack-gateway-snappy",
+  "description": "ZigBee gateway snappy package",
+  "fork": false,
+  "url": "https://api.github.com/repos/ninjasphere/zigbee-zstack-gateway-snappy",
+  "languages_url": "https://api.github.com/repos/ninjasphere/zigbee-zstack-gateway-snappy/languages",
+  "pulls_url": "https://api.github.com/repos/ninjasphere/zigbee-zstack-gateway-snappy/pulls{/number}",
+  "created_at": "2015-03-02T22:32:13Z",
+  "updated_at": "2017-01-14T15:41:22Z",
+  "pushed_at": "2015-03-02T22:48:44Z",
+  "homepage": null,
+  "size": 1592,
+  "stargazers_count": 2,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "ninjasphere",
+    "id": 6147637,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxNDc2Mzc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/6147637?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ninjasphere",
+    "html_url": "https://github.com/ninjasphere",
+    "followers_url": "https://api.github.com/users/ninjasphere/followers",
+    "following_url": "https://api.github.com/users/ninjasphere/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ninjasphere/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ninjasphere/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ninjasphere/subscriptions",
+    "organizations_url": "https://api.github.com/users/ninjasphere/orgs",
+    "repos_url": "https://api.github.com/users/ninjasphere/repos",
+    "events_url": "https://api.github.com/users/ninjasphere/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ninjasphere/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "elliots": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 25997,
+      "color": "#89e051"
+    },
+    "Go": {
+      "bytes": 3980,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 406,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T13:45:54.042Z"
+}

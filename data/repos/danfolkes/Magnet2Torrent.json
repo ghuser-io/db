@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Magnet2Torrent",
+  "full_name": "danfolkes/Magnet2Torrent",
+  "owner": "danfolkes",
+  "private": false,
+  "html_url": "https://github.com/danfolkes/Magnet2Torrent",
+  "description": "This will convert a magnet link into a .torrent file",
+  "fork": false,
+  "url": "https://api.github.com/repos/danfolkes/Magnet2Torrent",
+  "languages_url": "https://api.github.com/repos/danfolkes/Magnet2Torrent/languages",
+  "pulls_url": "https://api.github.com/repos/danfolkes/Magnet2Torrent/pulls{/number}",
+  "created_at": "2012-04-19T14:31:02Z",
+  "updated_at": "2018-09-11T20:57:09Z",
+  "pushed_at": "2018-09-11T15:04:57Z",
+  "homepage": null,
+  "size": 38,
+  "stargazers_count": 422,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "valentt": 1,
+    "Jarvvski": 1,
+    "michael-borisov": 1,
+    "makefu": 1,
+    "aberaud": 1,
+    "schleumer": 1,
+    "parnmatt": 2,
+    "AdeebNqo": 2,
+    "Faless": 2,
+    "chelmi98": 3,
+    "hackergaucho": 4,
+    "danfolkes": 4,
+    "scommab": 5,
+    "NurdTurd": 1
+  },
+  "pulls_authors": [
+    "NurdTurd",
+    "valentt",
+    "Jarvvski",
+    "ghost",
+    "LordAro",
+    "abreksa4",
+    "parnmatt",
+    "michael-borisov",
+    "AdeebNqo",
+    "makefu",
+    "chelmi98",
+    "aberaud",
+    "schleumer",
+    "scommab",
+    "Faless"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 4829,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T22:34:38.176Z"
+}

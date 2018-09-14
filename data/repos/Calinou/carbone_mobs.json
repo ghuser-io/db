@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "tverrbjelke": 1,
+    "Calinou": 3
+  },
+  "name": "carbone_mobs",
+  "full_name": "Calinou/carbone_mobs",
+  "owner": "Calinou",
+  "private": false,
+  "html_url": "https://github.com/Calinou/carbone_mobs",
+  "description": "Carbone Mobs",
+  "fork": false,
+  "url": "https://api.github.com/repos/Calinou/carbone_mobs",
+  "languages_url": "https://api.github.com/repos/Calinou/carbone_mobs/languages",
+  "created_at": "2015-06-04T18:16:49Z",
+  "updated_at": "2016-12-12T19:01:36Z",
+  "pushed_at": "2016-12-12T19:01:35Z",
+  "homepage": null,
+  "size": 245,
+  "stargazers_count": 1,
+  "language": "Logos",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "languages": {
+    "Logos": {
+      "bytes": 1387413,
+      "color": "#ccc"
+    },
+    "Lua": {
+      "bytes": 40829,
+      "color": "#000080"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/Calinou/carbone_mobs/pulls{/number}",
+  "pulls_authors": [
+    "tverrbjelke"
+  ]
+}

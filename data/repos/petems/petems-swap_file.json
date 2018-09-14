@@ -1,0 +1,68 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "petems-swap_file",
+  "full_name": "petems/petems-swap_file",
+  "owner": "petems",
+  "private": false,
+  "html_url": "https://github.com/petems/petems-swap_file",
+  "description": "A Puppet module to manage swapfiles for Linux Environments",
+  "fork": false,
+  "url": "https://api.github.com/repos/petems/petems-swap_file",
+  "languages_url": "https://api.github.com/repos/petems/petems-swap_file/languages",
+  "pulls_url": "https://api.github.com/repos/petems/petems-swap_file/pulls{/number}",
+  "created_at": "2014-02-26T19:26:54Z",
+  "updated_at": "2017-03-05T15:07:42Z",
+  "pushed_at": "2018-01-13T03:37:40Z",
+  "homepage": "",
+  "size": 192,
+  "stargazers_count": 9,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "gitmagic-bot": 1,
+    "juame": 1,
+    "yalcinsurkultay": 1,
+    "mattock": 2,
+    "ozbillwang": 2,
+    "BIAndrews": 3,
+    "bodgit": 3,
+    "Phil-Friderici": 4,
+    "petems": 138
+  },
+  "pulls_authors": [
+    "jtreminio",
+    "petems",
+    "ytra",
+    "antyale",
+    "greglint",
+    "gitmagic-bot",
+    "acjohnson",
+    "Phil-Friderici",
+    "BIAndrews",
+    "juame",
+    "mattock",
+    "yalcinsurkultay",
+    "ozbillwang",
+    "bodgit"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 51837,
+      "color": "#701516"
+    },
+    "Puppet": {
+      "bytes": 8141,
+      "color": "#302B6D"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:27.105Z"
+}

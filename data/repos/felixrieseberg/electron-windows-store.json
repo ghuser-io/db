@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "electron-windows-store",
+  "full_name": "felixrieseberg/electron-windows-store",
+  "owner": "felixrieseberg",
+  "private": false,
+  "html_url": "https://github.com/felixrieseberg/electron-windows-store",
+  "description": ":package: Turn Electron Apps into Windows AppX Packages",
+  "fork": false,
+  "url": "https://api.github.com/repos/felixrieseberg/electron-windows-store",
+  "languages_url": "https://api.github.com/repos/felixrieseberg/electron-windows-store/languages",
+  "pulls_url": "https://api.github.com/repos/felixrieseberg/electron-windows-store/pulls{/number}",
+  "created_at": "2016-04-15T17:35:50Z",
+  "updated_at": "2018-09-12T12:12:01Z",
+  "pushed_at": "2018-09-11T13:09:39Z",
+  "homepage": "",
+  "size": 418,
+  "stargazers_count": 350,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mnquintana": 1,
+    "michaelenger": 1,
+    "gerges": 1,
+    "malept": 1,
+    "joeadcock": 1,
+    "EragonJ": 1,
+    "eladams": 1,
+    "quentint": 3,
+    "bostondv": 3,
+    "kevinsawicki": 3,
+    "sedouard": 3,
+    "black-snow": 4,
+    "jacobq": 5,
+    "ritazh": 7,
+    "felixrieseberg": 129,
+    "netop": 1
+  },
+  "pulls_authors": [
+    "netop",
+    "MikeKovarik",
+    "mnquintana",
+    "gerges",
+    "michaelenger",
+    "malept",
+    "quentint",
+    "joeadcock",
+    "jacobq",
+    "EragonJ",
+    "bostondv",
+    "eladams",
+    "black-snow",
+    "kevinsawicki",
+    "ritazh",
+    "sedouard"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 75052,
+      "color": "#f1e05a"
+    },
+    "C#": {
+      "bytes": 3618,
+      "color": "#178600"
+    },
+    "PowerShell": {
+      "bytes": 2453,
+      "color": "#012456"
+    }
+  },
+  "fetched_at": "2018-09-12T15:51:09.654Z"
+}

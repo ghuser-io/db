@@ -1,0 +1,125 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "NeuroVault",
+  "full_name": "NeuroVault/NeuroVault",
+  "owner": "NeuroVault",
+  "private": false,
+  "html_url": "https://github.com/NeuroVault/NeuroVault",
+  "description": "Easy to use web database for statistical maps.",
+  "fork": false,
+  "url": "https://api.github.com/repos/NeuroVault/NeuroVault",
+  "languages_url": "https://api.github.com/repos/NeuroVault/NeuroVault/languages",
+  "pulls_url": "https://api.github.com/repos/NeuroVault/NeuroVault/pulls{/number}",
+  "created_at": "2013-02-01T18:25:43Z",
+  "updated_at": "2018-09-05T11:31:51Z",
+  "pushed_at": "2018-08-30T19:20:15Z",
+  "homepage": "https://www.neurovault.org",
+  "size": 193418,
+  "stargazers_count": 56,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "NeuroVault",
+    "id": 9168649,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjkxNjg2NDk=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/9168649?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/NeuroVault",
+    "html_url": "https://github.com/NeuroVault",
+    "followers_url": "https://api.github.com/users/NeuroVault/followers",
+    "following_url": "https://api.github.com/users/NeuroVault/following{/other_user}",
+    "gists_url": "https://api.github.com/users/NeuroVault/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/NeuroVault/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/NeuroVault/subscriptions",
+    "organizations_url": "https://api.github.com/users/NeuroVault/orgs",
+    "repos_url": "https://api.github.com/users/NeuroVault/repos",
+    "events_url": "https://api.github.com/users/NeuroVault/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/NeuroVault/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "dankessler": 1,
+    "gitter-badger": 1,
+    "iCHAIT": 1,
+    "asfox": 3,
+    "cmaumet": 3,
+    "rwblair": 3,
+    "margulies": 5,
+    "jadecci": 6,
+    "jokedurnez": 7,
+    "abitrolly": 11,
+    "tyarkoni": 31,
+    "jbwexler": 57,
+    "infocortex": 144,
+    "erramuzpe": 149,
+    "burnash": 205,
+    "vsoch": 208,
+    "chrisfilo": 1028
+  },
+  "pulls_authors": [
+    "effigies",
+    "chrisfilo",
+    "eayoungs",
+    "abitrolly",
+    "jadecci",
+    "dankessler",
+    "cmaumet",
+    "erramuzpe",
+    "vsoch",
+    "burnash",
+    "tyarkoni",
+    "jokedurnez",
+    "gitter-badger",
+    "harshjv",
+    "Zzoey",
+    "iCHAIT",
+    "bcipolli",
+    "rwblair",
+    "mting780",
+    "jbwexler",
+    "infocortex",
+    "schwarty",
+    "margulies"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 564733,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 184138,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 37250,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 26595,
+      "color": "#f1e05a"
+    },
+    "Dockerfile": {
+      "bytes": 5294,
+      "color": "#0db7ed"
+    },
+    "Shell": {
+      "bytes": 4437,
+      "color": "#89e051"
+    },
+    "Perl": {
+      "bytes": 1374,
+      "color": "#0298c3"
+    }
+  },
+  "fetched_at": "2018-09-05T13:04:07.857Z"
+}

@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "acl",
+  "full_name": "moul/acl",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/acl",
+  "description": ":cop: ACL micro-service (gRPC/protobuf + http/json)",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/acl",
+  "languages_url": "https://api.github.com/repos/moul/acl/languages",
+  "pulls_url": "https://api.github.com/repos/moul/acl/pulls{/number}",
+  "created_at": "2016-12-21T08:57:22Z",
+  "updated_at": "2018-06-19T23:13:20Z",
+  "pushed_at": "2018-08-18T16:14:15Z",
+  "homepage": null,
+  "size": 5616,
+  "stargazers_count": 6,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 12
+  },
+  "pulls_authors": [
+    "renovate[bot]",
+    "imgbot[bot]",
+    "moul"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 14755,
+      "color": "#375eab"
+    },
+    "Protocol Buffer": {
+      "bytes": 1014,
+      "color": "#ccc"
+    },
+    "Makefile": {
+      "bytes": 888,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:49.252Z"
+}

@@ -1,0 +1,32 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tapestry-service-cache",
+  "full_name": "ciaranw/tapestry-service-cache",
+  "owner": "ciaranw",
+  "private": false,
+  "html_url": "https://github.com/ciaranw/tapestry-service-cache",
+  "description": "Easy, annotation-based caching for Tapestry 5 services",
+  "fork": false,
+  "url": "https://api.github.com/repos/ciaranw/tapestry-service-cache",
+  "languages_url": "https://api.github.com/repos/ciaranw/tapestry-service-cache/languages",
+  "pulls_url": "https://api.github.com/repos/ciaranw/tapestry-service-cache/pulls{/number}",
+  "created_at": "2010-09-18T17:27:19Z",
+  "updated_at": "2016-01-16T00:49:09Z",
+  "pushed_at": "2012-09-12T20:21:47Z",
+  "homepage": "",
+  "size": 498,
+  "stargazers_count": 8,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ciaranw": 40
+  },
+  "pulls_authors": [
+    "SeriousSem"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-12T04:59:52.841Z"
+}

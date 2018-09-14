@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gizmo-boilerplate",
+  "full_name": "securingsincity/gizmo-boilerplate",
+  "owner": "securingsincity",
+  "private": false,
+  "html_url": "https://github.com/securingsincity/gizmo-boilerplate",
+  "description": "NYTimes Gizmo Boilerplate",
+  "fork": false,
+  "url": "https://api.github.com/repos/securingsincity/gizmo-boilerplate",
+  "languages_url": "https://api.github.com/repos/securingsincity/gizmo-boilerplate/languages",
+  "pulls_url": "https://api.github.com/repos/securingsincity/gizmo-boilerplate/pulls{/number}",
+  "created_at": "2016-01-03T03:26:49Z",
+  "updated_at": "2018-05-02T08:50:38Z",
+  "pushed_at": "2016-01-03T04:08:13Z",
+  "homepage": null,
+  "size": 6,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "securingsincity": 4
+  },
+  "pulls_authors": [
+    "securingsincity"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 5556,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T00:33:41.318Z"
+}

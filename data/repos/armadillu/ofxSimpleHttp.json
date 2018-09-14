@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ofxSimpleHttp",
+  "full_name": "armadillu/ofxSimpleHttp",
+  "owner": "armadillu",
+  "private": false,
+  "html_url": "https://github.com/armadillu/ofxSimpleHttp",
+  "description": "OpenFrameworks add-on to make http and https downloads easy",
+  "fork": false,
+  "url": "https://api.github.com/repos/armadillu/ofxSimpleHttp",
+  "languages_url": "https://api.github.com/repos/armadillu/ofxSimpleHttp/languages",
+  "pulls_url": "https://api.github.com/repos/armadillu/ofxSimpleHttp/pulls{/number}",
+  "created_at": "2014-03-14T18:59:47Z",
+  "updated_at": "2018-06-07T22:38:12Z",
+  "pushed_at": "2018-06-07T22:38:10Z",
+  "homepage": "",
+  "size": 480,
+  "stargazers_count": 25,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "borg": 1,
+    "jmarsico": 1,
+    "btparker": 1,
+    "markkorput": 6,
+    "armadillu": 187
+  },
+  "pulls_authors": [
+    "markkorput",
+    "jmarsico",
+    "btparker"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 95727,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 49418,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 1747,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:36:20.145Z"
+}

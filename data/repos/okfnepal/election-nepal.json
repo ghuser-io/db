@@ -1,0 +1,86 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "election-nepal",
+  "full_name": "okfnepal/election-nepal",
+  "owner": "okfnepal",
+  "private": false,
+  "html_url": "https://github.com/okfnepal/election-nepal",
+  "description": "A crowdsourced open portal that brings all kind of Data related to Nepal's Local Election.",
+  "fork": false,
+  "url": "https://api.github.com/repos/okfnepal/election-nepal",
+  "languages_url": "https://api.github.com/repos/okfnepal/election-nepal/languages",
+  "pulls_url": "https://api.github.com/repos/okfnepal/election-nepal/pulls{/number}",
+  "created_at": "2017-04-04T14:23:19Z",
+  "updated_at": "2018-05-03T13:38:06Z",
+  "pushed_at": "2017-05-23T03:16:53Z",
+  "homepage": "http://electionnepal.org",
+  "size": 2349,
+  "stargazers_count": 20,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "okfnepal",
+    "id": 6027878,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYwMjc4Nzg=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/6027878?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/okfnepal",
+    "html_url": "https://github.com/okfnepal",
+    "followers_url": "https://api.github.com/users/okfnepal/followers",
+    "following_url": "https://api.github.com/users/okfnepal/following{/other_user}",
+    "gists_url": "https://api.github.com/users/okfnepal/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/okfnepal/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/okfnepal/subscriptions",
+    "organizations_url": "https://api.github.com/users/okfnepal/orgs",
+    "repos_url": "https://api.github.com/users/okfnepal/repos",
+    "events_url": "https://api.github.com/users/okfnepal/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/okfnepal/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "nikeshbalami": 2,
+    "aatishnn": 4,
+    "techgaun": 4,
+    "amitness": 8,
+    "msucil": 14,
+    "sagargg": 71
+  },
+  "pulls_authors": [
+    "meadhikari",
+    "msucil",
+    "shubhajeet",
+    "aatishnn",
+    "techgaun",
+    "sagargg",
+    "amitness"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 179758,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 52319,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 25127,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 22325,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:30.619Z"
+}

@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pypi-classifiers",
+  "full_name": "mbr/pypi-classifiers",
+  "owner": "mbr",
+  "private": false,
+  "html_url": "https://github.com/mbr/pypi-classifiers",
+  "description": "A gui tool to select PyPI-classifiers for inclusion in a setup.py.",
+  "fork": false,
+  "url": "https://api.github.com/repos/mbr/pypi-classifiers",
+  "languages_url": "https://api.github.com/repos/mbr/pypi-classifiers/languages",
+  "pulls_url": "https://api.github.com/repos/mbr/pypi-classifiers/pulls{/number}",
+  "created_at": "2011-06-30T08:58:02Z",
+  "updated_at": "2017-01-21T12:46:42Z",
+  "pushed_at": "2018-04-06T08:03:18Z",
+  "homepage": "",
+  "size": 49,
+  "stargazers_count": 7,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mbr": 17
+  },
+  "pulls_authors": [
+    "jayvdb"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 6365,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

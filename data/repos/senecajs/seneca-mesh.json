@@ -1,0 +1,86 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "seneca-mesh",
+  "full_name": "senecajs/seneca-mesh",
+  "owner": "senecajs",
+  "private": false,
+  "html_url": "https://github.com/senecajs/seneca-mesh",
+  "description": "Mesh your Seneca.js microservices together - no more service discovery!",
+  "fork": false,
+  "url": "https://api.github.com/repos/senecajs/seneca-mesh",
+  "languages_url": "https://api.github.com/repos/senecajs/seneca-mesh/languages",
+  "pulls_url": "https://api.github.com/repos/senecajs/seneca-mesh/pulls{/number}",
+  "created_at": "2015-12-01T01:25:32Z",
+  "updated_at": "2018-08-21T01:07:55Z",
+  "pushed_at": "2018-07-18T16:46:50Z",
+  "homepage": "",
+  "size": 572,
+  "stargazers_count": 134,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "senecajs",
+    "id": 10085488,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwMDg1NDg4",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/10085488?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/senecajs",
+    "html_url": "https://github.com/senecajs",
+    "followers_url": "https://api.github.com/users/senecajs/followers",
+    "following_url": "https://api.github.com/users/senecajs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/senecajs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/senecajs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/senecajs/subscriptions",
+    "organizations_url": "https://api.github.com/users/senecajs/orgs",
+    "repos_url": "https://api.github.com/users/senecajs/repos",
+    "events_url": "https://api.github.com/users/senecajs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/senecajs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "dikarel": 1,
+    "mihaidma": 2,
+    "mcdonnelldean": 3,
+    "rjrodger": 92
+  },
+  "pulls_authors": [
+    "wzrdtales",
+    "amencionna",
+    "tswaters",
+    "jorgecuesta",
+    "dikarel",
+    "eeswr",
+    "shanel262",
+    "mihaidma",
+    "mcdonnelldean",
+    "jaamison",
+    "shaunwarman",
+    "pdspicer",
+    "mirceaalexandru",
+    "matt-oc",
+    "feugy",
+    "AdrianRossouw",
+    "AdrieanKhisbe"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 42355,
+      "color": "#f1e05a"
+    },
+    "Makefile": {
+      "bytes": 1869,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:26.272Z"
+}

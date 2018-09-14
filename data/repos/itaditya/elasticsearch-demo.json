@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "elasticsearch-demo",
+  "full_name": "itaditya/elasticsearch-demo",
+  "owner": "itaditya",
+  "private": false,
+  "html_url": "https://github.com/itaditya/elasticsearch-demo",
+  "description": "Scripts to demonstrate use of elasticsearch with nodejs",
+  "fork": false,
+  "url": "https://api.github.com/repos/itaditya/elasticsearch-demo",
+  "languages_url": "https://api.github.com/repos/itaditya/elasticsearch-demo/languages",
+  "created_at": "2017-09-30T03:25:20Z",
+  "updated_at": "2018-03-04T17:13:06Z",
+  "pushed_at": "2017-09-30T03:25:50Z",
+  "homepage": null,
+  "size": 21,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "itaditya": 1
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 4172,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/itaditya/elasticsearch-demo/pulls{/number}",
+  "pulls_authors": []
+}

@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "WaniKaniTools",
+  "full_name": "patarapolw/WaniKaniTools",
+  "owner": "patarapolw",
+  "private": false,
+  "html_url": "https://github.com/patarapolw/WaniKaniTools",
+  "description": "Working with WaniKani API, login, and Community.",
+  "fork": false,
+  "url": "https://api.github.com/repos/patarapolw/WaniKaniTools",
+  "languages_url": "https://api.github.com/repos/patarapolw/WaniKaniTools/languages",
+  "pulls_url": "https://api.github.com/repos/patarapolw/WaniKaniTools/pulls{/number}",
+  "created_at": "2018-02-01T20:52:20Z",
+  "updated_at": "2018-08-25T23:19:11Z",
+  "pushed_at": "2018-05-08T01:35:09Z",
+  "homepage": "http://polvcode.wordpress.com",
+  "size": 418,
+  "stargazers_count": 6,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "patarapolw": 38
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 14348,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-26T05:52:10.766Z"
+}

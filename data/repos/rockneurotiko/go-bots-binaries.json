@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-bots-binaries",
+  "full_name": "rockneurotiko/go-bots-binaries",
+  "owner": "rockneurotiko",
+  "private": false,
+  "html_url": "https://github.com/rockneurotiko/go-bots-binaries",
+  "description": "This is the binaries for the go-bots repository :-)",
+  "fork": false,
+  "url": "https://api.github.com/repos/rockneurotiko/go-bots-binaries",
+  "languages_url": "https://api.github.com/repos/rockneurotiko/go-bots-binaries/languages",
+  "pulls_url": "https://api.github.com/repos/rockneurotiko/go-bots-binaries/pulls{/number}",
+  "created_at": "2015-07-07T23:55:56Z",
+  "updated_at": "2016-03-22T15:24:16Z",
+  "pushed_at": "2016-03-22T15:24:09Z",
+  "homepage": null,
+  "size": 180597,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "rockneurotiko": 5
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-08-18T09:21:47.223Z"
+}

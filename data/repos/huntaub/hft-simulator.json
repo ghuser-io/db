@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hft-simulator",
+  "full_name": "huntaub/hft-simulator",
+  "owner": "huntaub",
+  "private": false,
+  "html_url": "https://github.com/huntaub/hft-simulator",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/huntaub/hft-simulator",
+  "languages_url": "https://api.github.com/repos/huntaub/hft-simulator/languages",
+  "pulls_url": "https://api.github.com/repos/huntaub/hft-simulator/pulls{/number}",
+  "created_at": "2015-03-03T04:09:31Z",
+  "updated_at": "2015-11-21T09:30:29Z",
+  "pushed_at": "2015-04-03T17:35:05Z",
+  "homepage": null,
+  "size": 192,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "huntaub": 23
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 19518,
+      "color": "#375eab"
+    },
+    "JavaScript": {
+      "bytes": 13356,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 10615,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 354,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:44:39.227Z"
+}

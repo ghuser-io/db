@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "KPTI-PoC-Collection",
+  "full_name": "turbo/KPTI-PoC-Collection",
+  "owner": "turbo",
+  "private": false,
+  "html_url": "https://github.com/turbo/KPTI-PoC-Collection",
+  "description": "Meltdown/Spectre PoC src collection.",
+  "fork": false,
+  "url": "https://api.github.com/repos/turbo/KPTI-PoC-Collection",
+  "languages_url": "https://api.github.com/repos/turbo/KPTI-PoC-Collection/languages",
+  "pulls_url": "https://api.github.com/repos/turbo/KPTI-PoC-Collection/pulls{/number}",
+  "created_at": "2018-01-03T23:52:37Z",
+  "updated_at": "2018-08-08T11:52:22Z",
+  "pushed_at": "2018-01-04T00:19:09Z",
+  "homepage": null,
+  "size": 7,
+  "stargazers_count": 479,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "turbo": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 3493,
+      "color": "#f34b7d"
+    },
+    "Assembly": {
+      "bytes": 1953,
+      "color": "#6E4C13"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:08.516Z"
+}

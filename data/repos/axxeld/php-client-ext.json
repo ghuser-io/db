@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "php-client-ext",
+  "full_name": "axxeld/php-client-ext",
+  "owner": "axxeld",
+  "private": false,
+  "html_url": "https://github.com/axxeld/php-client-ext",
+  "description": "PHP Extension to access Axxel servers",
+  "fork": false,
+  "url": "https://api.github.com/repos/axxeld/php-client-ext",
+  "languages_url": "https://api.github.com/repos/axxeld/php-client-ext/languages",
+  "pulls_url": "https://api.github.com/repos/axxeld/php-client-ext/pulls{/number}",
+  "created_at": "2013-10-29T04:09:33Z",
+  "updated_at": "2014-12-08T15:22:21Z",
+  "pushed_at": "2014-02-16T01:46:16Z",
+  "homepage": null,
+  "size": 252,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "andresgutierrez": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 476836,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 1747,
+      "color": "#f34b7d"
+    },
+    "Shell": {
+      "bytes": 357,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:52.625Z"
+}

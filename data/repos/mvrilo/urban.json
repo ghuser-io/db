@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "urban",
+  "full_name": "mvrilo/urban",
+  "owner": "mvrilo",
+  "private": false,
+  "html_url": "https://github.com/mvrilo/urban",
+  "description": "Command line tool and API for the Urban Dictionary",
+  "fork": false,
+  "url": "https://api.github.com/repos/mvrilo/urban",
+  "languages_url": "https://api.github.com/repos/mvrilo/urban/languages",
+  "pulls_url": "https://api.github.com/repos/mvrilo/urban/pulls{/number}",
+  "created_at": "2011-11-09T02:06:51Z",
+  "updated_at": "2018-09-12T12:18:39Z",
+  "pushed_at": "2018-07-28T22:06:43Z",
+  "homepage": "https://mvrilo.github.io/urban/",
+  "size": 455,
+  "stargazers_count": 119,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "JPinkney": 1,
+    "LinuxMercedes": 1,
+    "markzalar": 1,
+    "euank": 2,
+    "rgroli": 2,
+    "mvrilo": 25
+  },
+  "pulls_authors": [
+    "euank",
+    "JPinkney",
+    "rgroli",
+    "rmorrin",
+    "LinuxMercedes",
+    "markzalar"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 5201,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:33.442Z"
+}

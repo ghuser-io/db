@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "goPlay",
+  "full_name": "sr6033/goPlay",
+  "owner": "sr6033",
+  "private": false,
+  "html_url": "https://github.com/sr6033/goPlay",
+  "description": "A web app built on Node.js express framework and rendered using React.js. Part of Summer Internship project at HASURA.",
+  "fork": false,
+  "url": "https://api.github.com/repos/sr6033/goPlay",
+  "languages_url": "https://api.github.com/repos/sr6033/goPlay/languages",
+  "created_at": "2017-06-02T09:14:18Z",
+  "updated_at": "2018-07-25T07:22:09Z",
+  "pushed_at": "2017-07-05T11:07:31Z",
+  "homepage": "https://goplay.nonstop61.hasura-app.io/",
+  "size": 428,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sr6033": 9
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 71893,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 937,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 321,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/sr6033/goPlay/pulls{/number}",
+  "pulls_authors": []
+}

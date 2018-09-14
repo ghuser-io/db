@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "FbPostUsingPython",
+  "full_name": "ankitjain28may/FbPostUsingPython",
+  "owner": "ankitjain28may",
+  "private": false,
+  "html_url": "https://github.com/ankitjain28may/FbPostUsingPython",
+  "description": "It is a small script to post status on your wall using python..!",
+  "fork": false,
+  "url": "https://api.github.com/repos/ankitjain28may/FbPostUsingPython",
+  "languages_url": "https://api.github.com/repos/ankitjain28may/FbPostUsingPython/languages",
+  "created_at": "2016-10-18T12:37:19Z",
+  "updated_at": "2018-05-08T18:34:13Z",
+  "pushed_at": "2017-10-26T20:42:37Z",
+  "homepage": null,
+  "size": 9,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ankitjain28may": 5
+  },
+  "languages": {
+    "Python": {
+      "bytes": 2303,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/ankitjain28may/FbPostUsingPython/pulls{/number}",
+  "pulls_authors": [
+    "dibyasonu",
+    "suryatejreddy"
+  ]
+}

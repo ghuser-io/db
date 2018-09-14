@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "floppybird",
+  "full_name": "nebez/floppybird",
+  "owner": "nebez",
+  "private": false,
+  "html_url": "https://github.com/nebez/floppybird",
+  "description": "flappy bird, using html5!",
+  "fork": false,
+  "url": "https://api.github.com/repos/nebez/floppybird",
+  "languages_url": "https://api.github.com/repos/nebez/floppybird/languages",
+  "pulls_url": "https://api.github.com/repos/nebez/floppybird/pulls{/number}",
+  "created_at": "2014-02-10T21:26:37Z",
+  "updated_at": "2018-09-09T07:45:41Z",
+  "pushed_at": "2017-10-23T23:43:29Z",
+  "homepage": "",
+  "size": 298,
+  "stargazers_count": 391,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "gh-pages",
+  "contributors": {
+    "DesWurstes": 1,
+    "mdibaiee": 1,
+    "zvedenyuk": 1,
+    "joeybab3": 1,
+    "kaiinui": 2,
+    "nebez": 64
+  },
+  "pulls_authors": [
+    "DesWurstes",
+    "mdibaiee",
+    "zvedenyuk",
+    "markusgiesen",
+    "mohamedpsx",
+    "joeybab3",
+    "ghost",
+    "kaiinui",
+    "flipio",
+    "chadrickman"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 12962,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 7142,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 3474,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:38.785Z"
+}

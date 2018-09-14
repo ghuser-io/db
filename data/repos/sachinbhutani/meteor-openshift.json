@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "meteor-openshift",
+  "full_name": "sachinbhutani/meteor-openshift",
+  "owner": "sachinbhutani",
+  "private": false,
+  "html_url": "https://github.com/sachinbhutani/meteor-openshift",
+  "description": "Meteor 1.2 cartridge to run meteor applications on OpenShift",
+  "fork": true,
+  "url": "https://api.github.com/repos/sachinbhutani/meteor-openshift",
+  "languages_url": "https://api.github.com/repos/sachinbhutani/meteor-openshift/languages",
+  "pulls_url": "https://api.github.com/repos/sachinbhutani/meteor-openshift/pulls{/number}",
+  "created_at": "2015-09-04T04:56:16Z",
+  "updated_at": "2018-01-02T20:02:14Z",
+  "pushed_at": "2016-06-10T20:54:17Z",
+  "homepage": "",
+  "size": 44,
+  "stargazers_count": 31,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "RyanHeung": 1,
+    "Paku-": 1,
+    "ekuiter": 1,
+    "kanakiyajay": 1,
+    "araczkowski": 3,
+    "ramr": 17,
+    "sachinbhutani": 25
+  },
+  "pulls_authors": [
+    "RyanHeung",
+    "Paku-",
+    "araczkowski",
+    "ekuiter"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 12349,
+      "color": "#89e051"
+    },
+    "JavaScript": {
+      "bytes": 6837,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 5483,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T17:09:25.630Z"
+}

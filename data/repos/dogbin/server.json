@@ -1,0 +1,96 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "server",
+  "full_name": "dogbin/server",
+  "owner": "dogbin",
+  "private": false,
+  "html_url": "https://github.com/dogbin/server",
+  "description": "The pastebin with just the right amount of doggo",
+  "fork": false,
+  "url": "https://api.github.com/repos/dogbin/server",
+  "languages_url": "https://api.github.com/repos/dogbin/server/languages",
+  "pulls_url": "https://api.github.com/repos/dogbin/server/pulls{/number}",
+  "created_at": "2018-01-11T21:09:38Z",
+  "updated_at": "2018-08-21T22:18:37Z",
+  "pushed_at": "2018-07-24T13:42:43Z",
+  "homepage": "https://del.dog",
+  "size": 2177,
+  "stargazers_count": 13,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "dogbin-py",
+  "organization": {
+    "login": "dogbin",
+    "id": 37849205,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM3ODQ5MjA1",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/37849205?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/dogbin",
+    "html_url": "https://github.com/dogbin",
+    "followers_url": "https://api.github.com/users/dogbin/followers",
+    "following_url": "https://api.github.com/users/dogbin/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dogbin/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/dogbin/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dogbin/subscriptions",
+    "organizations_url": "https://api.github.com/users/dogbin/orgs",
+    "repos_url": "https://api.github.com/users/dogbin/repos",
+    "events_url": "https://api.github.com/users/dogbin/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/dogbin/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "kdrag0n": 1,
+    "divadsn": 1,
+    "szepeviktor": 1,
+    "abn": 1,
+    "lidl": 1,
+    "joeykrim": 1,
+    "naftis": 1,
+    "tfausak": 1,
+    "nshontz": 1,
+    "muloka": 1,
+    "C0rn3j": 2,
+    "Gwemox": 2,
+    "zaeleus": 2,
+    "bridawson": 2,
+    "Wohlstand": 3,
+    "grampajoe": 3,
+    "pangeacake": 4,
+    "PassTheMayo": 6,
+    "KlasafGeijerstam": 6,
+    "deletescape": 63,
+    "seejohnrun": 213
+  },
+  "pulls_authors": [
+    "kdrag0n",
+    "divadsn"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 21537,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 16920,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 8149,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 5084,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-22T06:53:40.331Z"
+}

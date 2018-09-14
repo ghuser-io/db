@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bhttpd",
+  "full_name": "brucehsu/bhttpd",
+  "owner": "brucehsu",
+  "private": false,
+  "html_url": "https://github.com/brucehsu/bhttpd",
+  "description": "Simple HTTP server with CGI support",
+  "fork": false,
+  "url": "https://api.github.com/repos/brucehsu/bhttpd",
+  "languages_url": "https://api.github.com/repos/brucehsu/bhttpd/languages",
+  "pulls_url": "https://api.github.com/repos/brucehsu/bhttpd/pulls{/number}",
+  "created_at": "2013-04-09T07:45:00Z",
+  "updated_at": "2015-09-05T16:07:38Z",
+  "pushed_at": "2013-05-02T18:11:15Z",
+  "homepage": "",
+  "size": 321,
+  "stargazers_count": 6,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "brucehsu": 37
+  },
+  "pulls_authors": [
+    "tolerious",
+    "brucehsu"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 18965,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:07.387Z"
+}

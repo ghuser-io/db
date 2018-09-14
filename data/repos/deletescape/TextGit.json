@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "TextGit",
+  "full_name": "deletescape/TextGit",
+  "owner": "deletescape",
+  "private": false,
+  "html_url": "https://github.com/deletescape/TextGit",
+  "description": "ASPX/MSSQL school project",
+  "fork": false,
+  "url": "https://api.github.com/repos/deletescape/TextGit",
+  "languages_url": "https://api.github.com/repos/deletescape/TextGit/languages",
+  "pulls_url": "https://api.github.com/repos/deletescape/TextGit/pulls{/number}",
+  "created_at": "2018-03-27T06:23:53Z",
+  "updated_at": "2018-05-17T07:11:25Z",
+  "pushed_at": "2018-05-01T06:25:43Z",
+  "homepage": "",
+  "size": 1548,
+  "stargazers_count": 2,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": true,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "deletescape": 15
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 21709,
+      "color": "#178600"
+    },
+    "JavaScript": {
+      "bytes": 10318,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 513,
+      "color": "#563d7c"
+    },
+    "ASP": {
+      "bytes": 98,
+      "color": "#6a40fd"
+    }
+  },
+  "fetched_at": "2018-08-20T12:16:20.019Z"
+}

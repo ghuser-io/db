@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "recettator",
+  "full_name": "camembertaulaitcrew/recettator",
+  "owner": "camembertaulaitcrew",
+  "private": false,
+  "html_url": "https://github.com/camembertaulaitcrew/recettator",
+  "description": "Générateur de recettes de cuisine",
+  "fork": false,
+  "url": "https://api.github.com/repos/camembertaulaitcrew/recettator",
+  "languages_url": "https://api.github.com/repos/camembertaulaitcrew/recettator/languages",
+  "pulls_url": "https://api.github.com/repos/camembertaulaitcrew/recettator/pulls{/number}",
+  "created_at": "2014-08-05T07:39:55Z",
+  "updated_at": "2016-10-27T19:08:19Z",
+  "pushed_at": "2017-01-11T19:14:02Z",
+  "homepage": "http://www.camembertaulaitcrew.biz/hackz/recettator",
+  "size": 123,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "camembertaulaitcrew",
+    "id": 7717490,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc3MTc0OTA=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/7717490?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/camembertaulaitcrew",
+    "html_url": "https://github.com/camembertaulaitcrew",
+    "followers_url": "https://api.github.com/users/camembertaulaitcrew/followers",
+    "following_url": "https://api.github.com/users/camembertaulaitcrew/following{/other_user}",
+    "gists_url": "https://api.github.com/users/camembertaulaitcrew/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/camembertaulaitcrew/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/camembertaulaitcrew/subscriptions",
+    "organizations_url": "https://api.github.com/users/camembertaulaitcrew/orgs",
+    "repos_url": "https://api.github.com/users/camembertaulaitcrew/repos",
+    "events_url": "https://api.github.com/users/camembertaulaitcrew/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/camembertaulaitcrew/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "aimxhaisse": 1,
+    "moul": 126
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 38604,
+      "color": "#3572A5"
+    },
+    "Go": {
+      "bytes": 33315,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 309,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:49.062Z"
+}

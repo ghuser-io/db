@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ksm",
+  "full_name": "asamy/ksm",
+  "owner": "asamy",
+  "private": false,
+  "html_url": "https://github.com/asamy/ksm",
+  "description": "A fast, hackable and simple x64 VT-x hypervisor for Windows and Linux.  Builtin userspace sandbox and introspection engine.",
+  "fork": false,
+  "url": "https://api.github.com/repos/asamy/ksm",
+  "languages_url": "https://api.github.com/repos/asamy/ksm/languages",
+  "pulls_url": "https://api.github.com/repos/asamy/ksm/pulls{/number}",
+  "created_at": "2016-07-13T20:15:04Z",
+  "updated_at": "2018-09-12T03:51:46Z",
+  "pushed_at": "2018-07-24T17:34:28Z",
+  "homepage": "https://asamy.github.io/ksm/",
+  "size": 1229,
+  "stargazers_count": 424,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "marksamman": 2,
+    "wbenny": 5,
+    "asamy": 556
+  },
+  "pulls_authors": [
+    "marksamman"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 298118,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 32851,
+      "color": "#f34b7d"
+    },
+    "Assembly": {
+      "bytes": 16669,
+      "color": "#6E4C13"
+    },
+    "Makefile": {
+      "bytes": 1623,
+      "color": "#427819"
+    },
+    "Python": {
+      "bytes": 484,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:17.551Z"
+}

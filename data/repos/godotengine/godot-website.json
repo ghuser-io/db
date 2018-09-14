@@ -1,0 +1,92 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "evanandrewrose": 1,
+    "Luraktinus": 1,
+    "timoschwarzer": 1,
+    "brainsick": 1,
+    "Calinou": 2,
+    "TheSpydog": 2,
+    "hpvb": 3,
+    "Noshyaar": 3,
+    "jcs224": 5,
+    "djrm": 17,
+    "pcvonz": 20,
+    "akien-mga": 30
+  },
+  "name": "godot-website",
+  "full_name": "godotengine/godot-website",
+  "owner": "godotengine",
+  "private": false,
+  "html_url": "https://github.com/godotengine/godot-website",
+  "description": "Theme and plugins used in Godot Engine's OctoberCMS instance",
+  "fork": false,
+  "url": "https://api.github.com/repos/godotengine/godot-website",
+  "languages_url": "https://api.github.com/repos/godotengine/godot-website/languages",
+  "created_at": "2017-09-05T16:18:42Z",
+  "updated_at": "2018-08-28T15:41:30Z",
+  "pushed_at": "2018-08-28T15:41:28Z",
+  "homepage": null,
+  "size": 13479,
+  "stargazers_count": 22,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "godotengine",
+    "id": 6318500,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYzMTg1MDA=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/6318500?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/godotengine",
+    "html_url": "https://github.com/godotengine",
+    "followers_url": "https://api.github.com/users/godotengine/followers",
+    "following_url": "https://api.github.com/users/godotengine/following{/other_user}",
+    "gists_url": "https://api.github.com/users/godotengine/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/godotengine/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/godotengine/subscriptions",
+    "organizations_url": "https://api.github.com/users/godotengine/orgs",
+    "repos_url": "https://api.github.com/users/godotengine/repos",
+    "events_url": "https://api.github.com/users/godotengine/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/godotengine/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 1452260,
+      "color": "#f1e05a"
+    },
+    "PHP": {
+      "bytes": 240043,
+      "color": "#4F5D95"
+    },
+    "HTML": {
+      "bytes": 110690,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 49294,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-28T16:02:44.202Z",
+  "pulls_url": "https://api.github.com/repos/godotengine/godot-website/pulls{/number}",
+  "pulls_authors": [
+    "Soluss",
+    "murt",
+    "Calinou",
+    "jcs224",
+    "levrik",
+    "evanandrewrose",
+    "Noshyaar",
+    "djrm",
+    "TheSpydog",
+    "Luraktinus",
+    "timoschwarzer",
+    "brainsick",
+    "ajack764"
+  ]
+}

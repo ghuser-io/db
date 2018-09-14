@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "puppet-resource_api",
+  "full_name": "puppetlabs/puppet-resource_api",
+  "owner": "puppetlabs",
+  "private": false,
+  "html_url": "https://github.com/puppetlabs/puppet-resource_api",
+  "description": "This library provides a simple way to write new native resources for https://puppet.com.",
+  "fork": false,
+  "url": "https://api.github.com/repos/puppetlabs/puppet-resource_api",
+  "languages_url": "https://api.github.com/repos/puppetlabs/puppet-resource_api/languages",
+  "pulls_url": "https://api.github.com/repos/puppetlabs/puppet-resource_api/pulls{/number}",
+  "created_at": "2017-08-31T12:11:51Z",
+  "updated_at": "2018-09-12T16:37:41Z",
+  "pushed_at": "2018-09-12T17:08:11Z",
+  "homepage": "",
+  "size": 510,
+  "stargazers_count": 14,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "puppetlabs",
+    "id": 234268,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzNDI2OA==",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/234268?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/puppetlabs",
+    "html_url": "https://github.com/puppetlabs",
+    "followers_url": "https://api.github.com/users/puppetlabs/followers",
+    "following_url": "https://api.github.com/users/puppetlabs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/puppetlabs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/puppetlabs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/puppetlabs/subscriptions",
+    "organizations_url": "https://api.github.com/users/puppetlabs/orgs",
+    "repos_url": "https://api.github.com/users/puppetlabs/repos",
+    "events_url": "https://api.github.com/users/puppetlabs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/puppetlabs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "cotsog": 1,
+    "tphoney": 1,
+    "clairecadman": 3,
+    "shermdog": 3,
+    "da-ar": 35,
+    "DavidS": 245
+  },
+  "pulls_authors": [
+    "DavidS",
+    "seanmil",
+    "da-ar",
+    "clairecadman",
+    "tphoney",
+    "cotsog",
+    "shermdog",
+    "james-stocks"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 198553,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 131,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T23:48:42.364Z"
+}

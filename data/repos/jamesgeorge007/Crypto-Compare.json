@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Crypto-Compare",
+  "full_name": "jamesgeorge007/Crypto-Compare",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/Crypto-Compare",
+  "description": "Comparison chart between popular cryptocurrencies.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/Crypto-Compare",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/Crypto-Compare/languages",
+  "created_at": "2018-07-18T10:28:14Z",
+  "updated_at": "2018-07-26T11:09:21Z",
+  "pushed_at": "2018-07-26T11:09:19Z",
+  "homepage": null,
+  "size": 697,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jamesgeorge007": 18
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 8634,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1685,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 111,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-07-26T20:38:34.539Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/Crypto-Compare/pulls{/number}",
+  "pulls_authors": []
+}

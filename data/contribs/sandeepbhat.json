@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "sandeepbhat/Red-Pill": {
+      "full_name": "sandeepbhat/Red-Pill",
+      "name": "Red-Pill",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 18.181818181818183,
+      "maturity": 0,
+      "total_commits_count": 11,
+      "activity": 0.14986746951413288,
+      "total_score": 0.14986746951413288,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sandeepbhat/multwiple": {
+      "full_name": "sandeepbhat/multwiple",
+      "name": "multwiple",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 75,
+      "maturity": 0,
+      "total_commits_count": 12,
+      "activity": 0.1431557805743573,
+      "total_score": 0.1431557805743573,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "triffid/ATmega-Skeleton": {
+      "full_name": "triffid/ATmega-Skeleton",
+      "name": "ATmega-Skeleton",
+      "stargazers_count": 21,
+      "popularity": 2.3032349516115587,
+      "percentage": 2.197802197802198,
+      "maturity": 2.710153827630827,
+      "total_commits_count": 91,
+      "activity": 0.1425238743148718,
+      "total_score": 13.130603513443075,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sandeepbhat/cforus": {
+      "full_name": "sandeepbhat/cforus",
+      "name": "cforus",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 0.14238769605962265,
+      "total_score": 0.14238769605962265,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

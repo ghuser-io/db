@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "RoR-Newsletter",
+  "full_name": "jbrooksuk/RoR-Newsletter",
+  "owner": "jbrooksuk",
+  "private": false,
+  "html_url": "https://github.com/jbrooksuk/RoR-Newsletter",
+  "description": "Newsletter signup built in Ruby on Rails (as a test)",
+  "fork": false,
+  "url": "https://api.github.com/repos/jbrooksuk/RoR-Newsletter",
+  "languages_url": "https://api.github.com/repos/jbrooksuk/RoR-Newsletter/languages",
+  "pulls_url": "https://api.github.com/repos/jbrooksuk/RoR-Newsletter/pulls{/number}",
+  "created_at": "2012-12-11T21:50:07Z",
+  "updated_at": "2018-05-15T13:45:56Z",
+  "pushed_at": "2012-12-12T17:08:01Z",
+  "homepage": null,
+  "size": 212,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": true,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jbrooksuk": 10
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 16265,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 641,
+      "color": "#f1e05a"
+    },
+    "CoffeeScript": {
+      "bytes": 229,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:03.812Z"
+}

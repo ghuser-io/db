@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "alfred-workflow-pingport",
+  "full_name": "moul/alfred-workflow-pingport",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/alfred-workflow-pingport",
+  "description": ":man: Ping TCP ports from Alfred",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/alfred-workflow-pingport",
+  "languages_url": "https://api.github.com/repos/moul/alfred-workflow-pingport/languages",
+  "pulls_url": "https://api.github.com/repos/moul/alfred-workflow-pingport/pulls{/number}",
+  "created_at": "2014-03-31T08:49:14Z",
+  "updated_at": "2018-04-07T18:02:44Z",
+  "pushed_at": "2018-08-18T16:15:43Z",
+  "homepage": "",
+  "size": 141,
+  "stargazers_count": 5,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 6
+  },
+  "pulls_authors": [
+    "imgbot[bot]"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 9007,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 786,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:46.801Z"
+}

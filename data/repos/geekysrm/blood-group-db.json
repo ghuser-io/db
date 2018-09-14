@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "blood-group-db",
+  "full_name": "geekysrm/blood-group-db",
+  "owner": "geekysrm",
+  "private": false,
+  "html_url": "https://github.com/geekysrm/blood-group-db",
+  "description": "Created a blood group database for the state of Odisha using C++ Object Oriented Programming. Added positions of users as admins, staffs and donors. Provided methods to add citizen details like full name, age, gender, communication address, telephone number and blood group. Added login functionality for admin and staff. Provided search functions to search donors by blood group and city. Users could login and interact via console.",
+  "fork": false,
+  "url": "https://api.github.com/repos/geekysrm/blood-group-db",
+  "languages_url": "https://api.github.com/repos/geekysrm/blood-group-db/languages",
+  "created_at": "2017-10-29T22:20:46Z",
+  "updated_at": "2018-01-31T18:06:28Z",
+  "pushed_at": "2018-01-15T17:48:05Z",
+  "homepage": "",
+  "size": 5,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "geekysrm": 2
+  },
+  "languages": {
+    "C++": {
+      "bytes": 37968,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-08-05T13:20:52.832Z",
+  "pulls_url": "https://api.github.com/repos/geekysrm/blood-group-db/pulls{/number}",
+  "pulls_authors": [
+    "Mandeepsahoo"
+  ]
+}

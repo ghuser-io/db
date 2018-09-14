@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "AttachTo",
+  "full_name": "ziyasal/AttachTo",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/AttachTo",
+  "description": "Extension to Visual Studio adding \"Attach to IIS\" and \"Attach to NUnit\" Tools menu commands.",
+  "fork": true,
+  "url": "https://api.github.com/repos/ziyasal/AttachTo",
+  "languages_url": "https://api.github.com/repos/ziyasal/AttachTo/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/AttachTo/pulls{/number}",
+  "created_at": "2015-06-02T07:59:00Z",
+  "updated_at": "2018-03-08T10:56:43Z",
+  "pushed_at": "2017-01-17T22:11:25Z",
+  "homepage": "",
+  "size": 62,
+  "stargazers_count": 4,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Shazwazza": 2,
+    "ziyasal": 3,
+    "whut": 13
+  },
+  "pulls_authors": [
+    "Shazwazza"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 5723,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:20.207Z"
+}

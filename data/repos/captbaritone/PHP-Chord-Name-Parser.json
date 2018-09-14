@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PHP-Chord-Name-Parser",
+  "full_name": "captbaritone/PHP-Chord-Name-Parser",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/PHP-Chord-Name-Parser",
+  "description": "A class that parses musical chord names into their component notes",
+  "fork": false,
+  "url": "https://api.github.com/repos/captbaritone/PHP-Chord-Name-Parser",
+  "languages_url": "https://api.github.com/repos/captbaritone/PHP-Chord-Name-Parser/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/PHP-Chord-Name-Parser/pulls{/number}",
+  "created_at": "2009-12-05T09:19:23Z",
+  "updated_at": "2018-07-29T22:11:06Z",
+  "pushed_at": "2009-12-05T09:48:42Z",
+  "homepage": "http://blog.classicalcode.com/2009/11/twitter-bot-ukechord/",
+  "size": 76,
+  "stargazers_count": 2,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 7156,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:46.032Z"
+}

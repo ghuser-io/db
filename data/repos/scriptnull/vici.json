@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vici",
+  "full_name": "scriptnull/vici",
+  "owner": "scriptnull",
+  "private": false,
+  "html_url": "https://github.com/scriptnull/vici",
+  "description": "Your webhook robot :ribbon:",
+  "fork": false,
+  "url": "https://api.github.com/repos/scriptnull/vici",
+  "languages_url": "https://api.github.com/repos/scriptnull/vici/languages",
+  "pulls_url": "https://api.github.com/repos/scriptnull/vici/pulls{/number}",
+  "created_at": "2016-08-28T20:25:15Z",
+  "updated_at": "2017-03-11T15:33:12Z",
+  "pushed_at": "2016-09-28T06:35:08Z",
+  "homepage": "",
+  "size": 1360,
+  "stargazers_count": 13,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "gitter-badger": 1,
+    "scriptnull": 31
+  },
+  "pulls_authors": [
+    "scriptnull",
+    "gitter-badger"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 12338,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 120,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:02.143Z"
+}

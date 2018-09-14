@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "AutoScreenshotUploader",
+  "full_name": "yask123/AutoScreenshotUploader",
+  "owner": "yask123",
+  "private": false,
+  "html_url": "https://github.com/yask123/AutoScreenshotUploader",
+  "description": "Automagically captures the screenshot of the screen , uploads in imgurl , copies the url into clipboard , deletes the created image file from your desktop",
+  "fork": false,
+  "url": "https://api.github.com/repos/yask123/AutoScreenshotUploader",
+  "languages_url": "https://api.github.com/repos/yask123/AutoScreenshotUploader/languages",
+  "pulls_url": "https://api.github.com/repos/yask123/AutoScreenshotUploader/pulls{/number}",
+  "created_at": "2015-03-28T18:23:19Z",
+  "updated_at": "2018-06-29T04:49:03Z",
+  "pushed_at": "2017-05-18T05:46:51Z",
+  "homepage": null,
+  "size": 789,
+  "stargazers_count": 17,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "bitdeli-chef": 1,
+    "yask123": 6
+  },
+  "pulls_authors": [
+    "ralic",
+    "amitness",
+    "bitdeli-chef"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 648,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:33.966Z"
+}

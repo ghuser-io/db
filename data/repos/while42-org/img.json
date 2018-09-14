@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "img",
+  "full_name": "while42-org/img",
+  "owner": "while42-org",
+  "private": false,
+  "html_url": "https://github.com/while42-org/img",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/while42-org/img",
+  "languages_url": "https://api.github.com/repos/while42-org/img/languages",
+  "pulls_url": "https://api.github.com/repos/while42-org/img/pulls{/number}",
+  "created_at": "2013-10-04T00:10:05Z",
+  "updated_at": "2015-02-14T21:50:41Z",
+  "pushed_at": "2015-10-10T17:29:59Z",
+  "homepage": null,
+  "size": 240,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "while42-org",
+    "id": 5606671,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjU2MDY2NzE=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/5606671?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/while42-org",
+    "html_url": "https://github.com/while42-org",
+    "followers_url": "https://api.github.com/users/while42-org/followers",
+    "following_url": "https://api.github.com/users/while42-org/following{/other_user}",
+    "gists_url": "https://api.github.com/users/while42-org/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/while42-org/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/while42-org/subscriptions",
+    "organizations_url": "https://api.github.com/users/while42-org/orgs",
+    "repos_url": "https://api.github.com/users/while42-org/repos",
+    "events_url": "https://api.github.com/users/while42-org/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/while42-org/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "sylvainkalache": 1,
+    "moul": 5
+  },
+  "pulls_authors": [
+    "moul"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-05T13:07:23.036Z"
+}

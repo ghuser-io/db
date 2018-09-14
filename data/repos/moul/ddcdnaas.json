@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ddcdnaas",
+  "full_name": "moul/ddcdnaas",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/ddcdnaas",
+  "description": "Distribution-de-cadeaux-de-Noël As A Service",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/ddcdnaas",
+  "languages_url": "https://api.github.com/repos/moul/ddcdnaas/languages",
+  "pulls_url": "https://api.github.com/repos/moul/ddcdnaas/pulls{/number}",
+  "created_at": "2013-12-12T10:43:12Z",
+  "updated_at": "2015-12-17T08:11:25Z",
+  "pushed_at": "2013-12-12T13:36:25Z",
+  "homepage": null,
+  "size": 123,
+  "stargazers_count": 3,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "achamo": 1,
+    "moul": 2
+  },
+  "pulls_authors": [
+    "Evelf",
+    "achamo"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-05T13:07:48.853Z"
+}

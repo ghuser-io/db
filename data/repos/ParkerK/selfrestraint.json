@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "selfrestraint",
+  "full_name": "ParkerK/selfrestraint",
+  "owner": "ParkerK",
+  "private": false,
+  "html_url": "https://github.com/ParkerK/selfrestraint",
+  "description": "Are certain websites a distraction? SelfRestraint is a cross platform application which blocks access to websites for a predetermined period of time. It can not be undone by the app or by a restart – you must wait for the timer to run out.",
+  "fork": true,
+  "url": "https://api.github.com/repos/ParkerK/selfrestraint",
+  "languages_url": "https://api.github.com/repos/ParkerK/selfrestraint/languages",
+  "pulls_url": "https://api.github.com/repos/ParkerK/selfrestraint/pulls{/number}",
+  "created_at": "2011-09-26T22:32:31Z",
+  "updated_at": "2018-09-06T17:16:41Z",
+  "pushed_at": "2014-07-25T21:08:37Z",
+  "homepage": "",
+  "size": 45081,
+  "stargazers_count": 118,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "toyg": 1,
+    "dflock": 4,
+    "slambert": 4,
+    "cstigler": 30,
+    "ParkerK": 52
+  },
+  "pulls_authors": [
+    "dflock",
+    "toyg"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 14337,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:05.547Z"
+}

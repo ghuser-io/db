@@ -1,0 +1,97 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "phpcheckstyle",
+  "full_name": "PHPCheckstyle/phpcheckstyle",
+  "owner": "PHPCheckstyle",
+  "private": false,
+  "html_url": "https://github.com/PHPCheckstyle/phpcheckstyle",
+  "description": "PHPCheckstyle is an open-source tool that helps PHP programmers adhere to certain coding conventions.",
+  "fork": false,
+  "url": "https://api.github.com/repos/PHPCheckstyle/phpcheckstyle",
+  "languages_url": "https://api.github.com/repos/PHPCheckstyle/phpcheckstyle/languages",
+  "pulls_url": "https://api.github.com/repos/PHPCheckstyle/phpcheckstyle/pulls{/number}",
+  "created_at": "2014-08-19T12:39:34Z",
+  "updated_at": "2018-09-07T08:31:48Z",
+  "pushed_at": "2018-09-07T07:14:35Z",
+  "homepage": "https://github.com/PHPCheckstyle/phpcheckstyle",
+  "size": 1018,
+  "stargazers_count": 124,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx_id": "LGPL-3.0",
+    "url": "https://api.github.com/licenses/lgpl-3.0",
+    "node_id": "MDc6TGljZW5zZTEy"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "PHPCheckstyle",
+    "id": 8709693,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjg3MDk2OTM=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/8709693?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/PHPCheckstyle",
+    "html_url": "https://github.com/PHPCheckstyle",
+    "followers_url": "https://api.github.com/users/PHPCheckstyle/followers",
+    "following_url": "https://api.github.com/users/PHPCheckstyle/following{/other_user}",
+    "gists_url": "https://api.github.com/users/PHPCheckstyle/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/PHPCheckstyle/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/PHPCheckstyle/subscriptions",
+    "organizations_url": "https://api.github.com/users/PHPCheckstyle/orgs",
+    "repos_url": "https://api.github.com/users/PHPCheckstyle/repos",
+    "events_url": "https://api.github.com/users/PHPCheckstyle/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/PHPCheckstyle/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "JohnnyQQQQ": 1,
+    "hueypark": 1,
+    "popojargo": 1,
+    "royopa": 1,
+    "rightshift-juantaylor": 1,
+    "hafah": 2,
+    "GuillermoMI": 2,
+    "jbrooksuk": 61,
+    "IGNBPesty": 71,
+    "tchule": 184
+  },
+  "pulls_authors": [
+    "hafah",
+    "hc42",
+    "GuillermoMI",
+    "JohnnyQQQQ",
+    "hueypark",
+    "popojargo",
+    "royopa",
+    "heruka",
+    "jbrooksuk",
+    "rr-"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 244199,
+      "color": "#4F5D95"
+    },
+    "Shell": {
+      "bytes": 1731,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 1500,
+      "color": "#563d7c"
+    },
+    "Hack": {
+      "bytes": 1454,
+      "color": "#878787"
+    },
+    "Batchfile": {
+      "bytes": 173,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:56.595Z"
+}

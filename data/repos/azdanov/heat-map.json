@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "heat-map",
+  "full_name": "azdanov/heat-map",
+  "owner": "azdanov",
+  "private": false,
+  "html_url": "https://github.com/azdanov/heat-map",
+  "description": "D3.js heat map for global surface temperature change.",
+  "fork": false,
+  "url": "https://api.github.com/repos/azdanov/heat-map",
+  "languages_url": "https://api.github.com/repos/azdanov/heat-map/languages",
+  "pulls_url": "https://api.github.com/repos/azdanov/heat-map/pulls{/number}",
+  "created_at": "2017-12-05T18:10:58Z",
+  "updated_at": "2018-08-09T04:46:53Z",
+  "pushed_at": "2018-08-08T18:07:54Z",
+  "homepage": "https://azdanov.github.io/heat-map/",
+  "size": 611,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "azdanov": 12
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6762,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 918,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 751,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-17T12:34:59.207Z"
+}

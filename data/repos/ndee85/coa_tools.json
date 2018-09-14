@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "ndee85": 189
+  },
+  "name": "coa_tools",
+  "full_name": "ndee85/coa_tools",
+  "owner": "ndee85",
+  "private": false,
+  "html_url": "https://github.com/ndee85/coa_tools",
+  "description": "COA Tools is a 2D Animation Suite for blender. It offsers a 2D cutout animation workflow similar to programs like spine or spriter.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ndee85/coa_tools",
+  "languages_url": "https://api.github.com/repos/ndee85/coa_tools/languages",
+  "created_at": "2016-03-06T20:22:49Z",
+  "updated_at": "2018-09-13T14:49:03Z",
+  "pushed_at": "2018-09-13T14:49:01Z",
+  "homepage": "",
+  "size": 2189,
+  "stargazers_count": 476,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "languages": {
+    "Python": {
+      "bytes": 580827,
+      "color": "#3572A5"
+    },
+    "GDScript": {
+      "bytes": 15374,
+      "color": "#355570"
+    },
+    "JavaScript": {
+      "bytes": 15253,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-13T16:25:42.889Z",
+  "pulls_url": "https://api.github.com/repos/ndee85/coa_tools/pulls{/number}",
+  "pulls_authors": [
+    "dddjef",
+    "morevnaproject",
+    "muart",
+    "Calinou",
+    "ndee85",
+    "Banbury",
+    "ragtag"
+  ]
+}

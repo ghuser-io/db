@@ -1,0 +1,112 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "turtlecoin.lol",
+  "full_name": "turtlecoin/turtlecoin.lol",
+  "owner": "turtlecoin",
+  "private": false,
+  "html_url": "https://github.com/turtlecoin/turtlecoin.lol",
+  "description": "Website for TurtleCoin - http://turtlecoin.lol",
+  "fork": false,
+  "url": "https://api.github.com/repos/turtlecoin/turtlecoin.lol",
+  "languages_url": "https://api.github.com/repos/turtlecoin/turtlecoin.lol/languages",
+  "pulls_url": "https://api.github.com/repos/turtlecoin/turtlecoin.lol/pulls{/number}",
+  "created_at": "2018-01-05T23:34:42Z",
+  "updated_at": "2018-09-14T00:23:09Z",
+  "pushed_at": "2018-09-14T07:41:31Z",
+  "homepage": null,
+  "size": 14795,
+  "stargazers_count": 6,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "turtlecoin",
+    "id": 34389551,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM0Mzg5NTUx",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/34389551?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/turtlecoin",
+    "html_url": "https://github.com/turtlecoin",
+    "followers_url": "https://api.github.com/users/turtlecoin/followers",
+    "following_url": "https://api.github.com/users/turtlecoin/following{/other_user}",
+    "gists_url": "https://api.github.com/users/turtlecoin/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/turtlecoin/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/turtlecoin/subscriptions",
+    "organizations_url": "https://api.github.com/users/turtlecoin/orgs",
+    "repos_url": "https://api.github.com/users/turtlecoin/repos",
+    "events_url": "https://api.github.com/users/turtlecoin/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/turtlecoin/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "pavelprudnikov": 1,
+    "xkasl": 1,
+    "cpuguru": 1,
+    "Gelesztaa": 2,
+    "SrWhiteRD": 2,
+    "Swardu": 2,
+    "drezie": 2,
+    "Thidjs": 4,
+    "D4rkGh05t": 7,
+    "Jihadist": 9,
+    "sbc-trtl": 10,
+    "jerme404": 15,
+    "RocksteadyTC": 21,
+    "adj-gh": 21,
+    "ar-x": 92,
+    "brandonlehmann": 2
+  },
+  "pulls_authors": [
+    "Thidjs",
+    "seocal",
+    "Gelesztaa",
+    "pavelprudnikov",
+    "D4rkGh05t",
+    "mrrovot",
+    "datoldminer",
+    "stripalov",
+    "Jihadist",
+    "ar-x",
+    "SrWhiteRD",
+    "armitage0",
+    "sbc-trtl",
+    "Sajo8",
+    "xkasl",
+    "jerme404",
+    "RocksteadyTC",
+    "Swardu",
+    "adj-gh",
+    "cpuguru",
+    "LAMike310",
+    "ghost",
+    "ereptor81",
+    "drezie",
+    "brandonlehmann"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 140204,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 64149,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 37447,
+      "color": "#e34c26"
+    },
+    "Ruby": {
+      "bytes": 3194,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 790,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T09:07:16.448Z"
+}

@@ -1,0 +1,118 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "write-it",
+  "full_name": "ciudadanointeligente/write-it",
+  "owner": "ciudadanointeligente",
+  "private": false,
+  "html_url": "https://github.com/ciudadanointeligente/write-it",
+  "description": "App to create and send messages to public persons. It's a component of POPLUS project.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ciudadanointeligente/write-it",
+  "languages_url": "https://api.github.com/repos/ciudadanointeligente/write-it/languages",
+  "pulls_url": "https://api.github.com/repos/ciudadanointeligente/write-it/pulls{/number}",
+  "created_at": "2013-03-26T18:38:59Z",
+  "updated_at": "2018-01-15T12:36:29Z",
+  "pushed_at": "2017-09-07T11:40:36Z",
+  "homepage": "poplus.org",
+  "size": 7423,
+  "stargazers_count": 30,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ciudadanointeligente",
+    "id": 631035,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYzMTAzNQ==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/631035?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ciudadanointeligente",
+    "html_url": "https://github.com/ciudadanointeligente",
+    "followers_url": "https://api.github.com/users/ciudadanointeligente/followers",
+    "following_url": "https://api.github.com/users/ciudadanointeligente/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ciudadanointeligente/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ciudadanointeligente/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ciudadanointeligente/subscriptions",
+    "organizations_url": "https://api.github.com/users/ciudadanointeligente/orgs",
+    "repos_url": "https://api.github.com/users/ciudadanointeligente/repos",
+    "events_url": "https://api.github.com/users/ciudadanointeligente/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ciudadanointeligente/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "michalskop": 1,
+    "demianfe": 1,
+    "garethrees": 1,
+    "maugsbur": 2,
+    "schlos": 3,
+    "struan": 5,
+    "JenMysoc": 5,
+    "damian-garrido": 7,
+    "davea": 10,
+    "dracos": 11,
+    "henare": 18,
+    "davewhiteland": 19,
+    "mhl": 24,
+    "pdaire": 25,
+    "wrightmartin": 62,
+    "zarino": 68,
+    "tmtmtmtm": 145,
+    "chrismytton": 201,
+    "lfalvarez": 1020
+  },
+  "pulls_authors": [
+    "mhl",
+    "chrismytton",
+    "struan",
+    "JenMysoc",
+    "zarino",
+    "lfalvarez",
+    "patcon",
+    "henare",
+    "michalskop",
+    "dracos",
+    "demianfe",
+    "tmtmtmtm",
+    "davea",
+    "schlos",
+    "duncanparkes",
+    "wrightmartin",
+    "davewhiteland",
+    "gitter-badger",
+    "garethrees",
+    "jdgarrido",
+    "pdaire",
+    "maugsbur"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 653760,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 143471,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 92060,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 22340,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 5975,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:28.565Z"
+}

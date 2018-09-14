@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "flat",
+  "full_name": "jcelerier/flat",
+  "owner": "jcelerier",
+  "private": false,
+  "html_url": "https://github.com/jcelerier/flat",
+  "description": "Flat containers for C++",
+  "fork": true,
+  "url": "https://api.github.com/repos/jcelerier/flat",
+  "languages_url": "https://api.github.com/repos/jcelerier/flat/languages",
+  "pulls_url": "https://api.github.com/repos/jcelerier/flat/pulls{/number}",
+  "created_at": "2018-06-09T12:16:08Z",
+  "updated_at": "2018-07-28T16:08:21Z",
+  "pushed_at": "2018-06-26T19:38:36Z",
+  "homepage": null,
+  "size": 18,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsl-1.0",
+    "name": "Boost Software License 1.0",
+    "spdx_id": "BSL-1.0",
+    "url": "https://api.github.com/licenses/bsl-1.0",
+    "node_id": "MDc6TGljZW5zZTI4"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 5,
+    "pubby": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 35620,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:00.470Z"
+}

@@ -1,0 +1,34 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "adamlaz",
+  "ghuser_created_at": "2018-09-11T17:53:08.112Z",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/2012381?v=4",
+  "html_url": "https://github.com/adamlaz",
+  "organizations_url": "https://api.github.com/users/adamlaz/orgs",
+  "repos_url": "https://api.github.com/users/adamlaz/repos",
+  "type": "User",
+  "name": "Adam Lazarus",
+  "company": "@BuoyVentures ",
+  "blog": "http://adamlaz.com/",
+  "location": "The Internet + Los Angeles, CA ",
+  "email": "adam@buoy.ventures",
+  "bio": "I architect, plan, & build things with technology. I'm incredibly lucky to work w/ amazing teams around the globe to support innovative products and companies.",
+  "public_gists": 8,
+  "created_at": "2012-07-20T14:16:52Z",
+  "updated_at": "2018-09-06T16:26:36Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:08:48.765Z",
+    "repos": [
+      "adamlaz/ngfire-quick-chat",
+      "adamlaz/animated-AdamLaz.com",
+      "BuoyVentures/Example-Studio-Artist-Portfolio",
+      "BuoyVentures/Chrome-Theme_BV1",
+      "BuoyVentures/cust-mobileNotary",
+      "adamlaz/SFS_Landing-Page",
+      "adamlaz/hello-world",
+      "adamlaz/bootstrap",
+      "adamlaz/loltinder"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "seneca-card",
+  "full_name": "rjrodger/seneca-card",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/seneca-card",
+  "description": "Seneca card plugin.",
+  "fork": false,
+  "url": "https://api.github.com/repos/rjrodger/seneca-card",
+  "languages_url": "https://api.github.com/repos/rjrodger/seneca-card/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/seneca-card/pulls{/number}",
+  "created_at": "2014-07-24T23:43:43Z",
+  "updated_at": "2017-01-08T08:48:45Z",
+  "pushed_at": "2014-09-24T20:21:28Z",
+  "homepage": null,
+  "size": 241,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "alexanderpa": 1,
+    "iantocristian": 5,
+    "rjrodger": 7
+  },
+  "pulls_authors": [
+    "jakepruitt",
+    "iantocristian"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 9524,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:35.823Z"
+}

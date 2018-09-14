@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "winamp-eqf",
+  "full_name": "captbaritone/winamp-eqf",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/winamp-eqf",
+  "description": "JavaScript library to parse Winamp equalizer files",
+  "fork": false,
+  "url": "https://api.github.com/repos/captbaritone/winamp-eqf",
+  "languages_url": "https://api.github.com/repos/captbaritone/winamp-eqf/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/winamp-eqf/pulls{/number}",
+  "created_at": "2017-05-15T04:31:21Z",
+  "updated_at": "2018-07-29T22:19:15Z",
+  "pushed_at": "2017-06-10T00:51:48Z",
+  "homepage": null,
+  "size": 12,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 13
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 4866,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:36.589Z"
+}

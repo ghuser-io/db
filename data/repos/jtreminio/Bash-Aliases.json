@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Bash-Aliases",
+  "full_name": "jtreminio/Bash-Aliases",
+  "owner": "jtreminio",
+  "private": false,
+  "html_url": "https://github.com/jtreminio/Bash-Aliases",
+  "description": "My .bash_aliases file",
+  "fork": false,
+  "url": "https://api.github.com/repos/jtreminio/Bash-Aliases",
+  "languages_url": "https://api.github.com/repos/jtreminio/Bash-Aliases/languages",
+  "pulls_url": "https://api.github.com/repos/jtreminio/Bash-Aliases/pulls{/number}",
+  "created_at": "2012-10-24T16:03:54Z",
+  "updated_at": "2016-02-17T16:26:08Z",
+  "pushed_at": "2016-04-23T02:25:30Z",
+  "homepage": null,
+  "size": 37,
+  "stargazers_count": 1,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jtreminio": 14
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 70708,
+      "color": "#89e051"
+    },
+    "Vim script": {
+      "bytes": 10383,
+      "color": "#199f4b"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:27.674Z"
+}

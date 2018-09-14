@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SharedDesk",
+  "full_name": "kanekin/SharedDesk",
+  "owner": "kanekin",
+  "private": false,
+  "html_url": "https://github.com/kanekin/SharedDesk",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/kanekin/SharedDesk",
+  "languages_url": "https://api.github.com/repos/kanekin/SharedDesk/languages",
+  "pulls_url": "https://api.github.com/repos/kanekin/SharedDesk/pulls{/number}",
+  "created_at": "2014-09-18T09:44:31Z",
+  "updated_at": "2015-09-03T20:37:52Z",
+  "pushed_at": "2015-05-20T19:20:26Z",
+  "homepage": null,
+  "size": 9005,
+  "stargazers_count": 2,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "rob-etienne": 14,
+    "kanekin": 26,
+    "maximizeIT": 33,
+    "hakonamatata": 216
+  },
+  "pulls_authors": [
+    "ollandos",
+    "kanekin",
+    "hakonamatata",
+    "maximizeIT"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 531031,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-11T20:47:41.152Z"
+}

@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Sublime-Text-Packages",
+  "full_name": "dufferzafar/Sublime-Text-Packages",
+  "owner": "dufferzafar",
+  "private": false,
+  "html_url": "https://github.com/dufferzafar/Sublime-Text-Packages",
+  "description": "Added comment character for Batch Files",
+  "fork": true,
+  "url": "https://api.github.com/repos/dufferzafar/Sublime-Text-Packages",
+  "languages_url": "https://api.github.com/repos/dufferzafar/Sublime-Text-Packages/languages",
+  "pulls_url": "https://api.github.com/repos/dufferzafar/Sublime-Text-Packages/pulls{/number}",
+  "created_at": "2015-07-01T15:32:41Z",
+  "updated_at": "2016-06-15T21:37:59Z",
+  "pushed_at": "2015-07-02T06:14:07Z",
+  "homepage": "",
+  "size": 717,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jrappen": 1,
+    "shuax": 1,
+    "guillermooo": 2,
+    "henriquemoody": 2,
+    "jbrooksuk": 2,
+    "jfcherng": 3,
+    "aziz": 4,
+    "djspiewak": 6,
+    "kleinfreund": 7,
+    "Clamsax": 9,
+    "jskinner": 13
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 379672,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 42062,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 1805,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-03T12:57:07.472Z"
+}

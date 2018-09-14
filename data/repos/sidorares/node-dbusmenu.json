@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-dbusmenu",
+  "full_name": "sidorares/node-dbusmenu",
+  "owner": "sidorares",
+  "private": false,
+  "html_url": "https://github.com/sidorares/node-dbusmenu",
+  "description": "node.js dbusmenu client",
+  "fork": false,
+  "url": "https://api.github.com/repos/sidorares/node-dbusmenu",
+  "languages_url": "https://api.github.com/repos/sidorares/node-dbusmenu/languages",
+  "pulls_url": "https://api.github.com/repos/sidorares/node-dbusmenu/pulls{/number}",
+  "created_at": "2013-01-05T01:20:44Z",
+  "updated_at": "2017-08-21T06:59:41Z",
+  "pushed_at": "2017-05-01T05:48:16Z",
+  "homepage": null,
+  "size": 68,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sidorares": 7
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 9942,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:42.833Z"
+}

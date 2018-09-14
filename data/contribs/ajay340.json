@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "ajay340/Web-Database-Management": {
+      "full_name": "ajay340/Web-Database-Management",
+      "name": "Web-Database-Management",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 19,
+      "activity": 2.0338547861813763,
+      "total_score": 2.0338547861813763,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ajay340/P2P-Leak-Detection": {
+      "full_name": "ajay340/P2P-Leak-Detection",
+      "name": "P2P-Leak-Detection",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 7,
+      "activity": 1.9948923251690434,
+      "total_score": 1.9948923251690434,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ajay340/USB-Connection-Logger": {
+      "full_name": "ajay340/USB-Connection-Logger",
+      "name": "USB-Connection-Logger",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 1.9873914104860981,
+      "total_score": 1.9873914104860981,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sea-shell",
+  "full_name": "anshumanv/sea-shell",
+  "owner": "anshumanv",
+  "private": false,
+  "html_url": "https://github.com/anshumanv/sea-shell",
+  "description": "Terminal with basic operations and features implemented in sea.",
+  "fork": false,
+  "url": "https://api.github.com/repos/anshumanv/sea-shell",
+  "languages_url": "https://api.github.com/repos/anshumanv/sea-shell/languages",
+  "pulls_url": "https://api.github.com/repos/anshumanv/sea-shell/pulls{/number}",
+  "created_at": "2017-08-30T12:27:00Z",
+  "updated_at": "2017-10-14T22:20:47Z",
+  "pushed_at": "2017-10-14T18:27:21Z",
+  "homepage": "",
+  "size": 93,
+  "stargazers_count": 5,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "starkblaze01": 1,
+    "PiyushPawar17": 3,
+    "nikhilsachan007": 5,
+    "amany9000": 6,
+    "khilanravani": 11,
+    "shivamsaboo17": 16,
+    "anshumanv": 25
+  },
+  "pulls_authors": [
+    "nikhilsachan007",
+    "khilanravani",
+    "shivamsaboo17",
+    "anshumanv",
+    "amany9000",
+    "PiyushPawar17"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 20413,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-04T12:17:57.073Z"
+}

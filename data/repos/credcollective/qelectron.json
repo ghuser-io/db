@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "qelectron",
+  "full_name": "credcollective/qelectron",
+  "owner": "credcollective",
+  "private": false,
+  "html_url": "https://github.com/credcollective/qelectron",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/credcollective/qelectron",
+  "languages_url": "https://api.github.com/repos/credcollective/qelectron/languages",
+  "pulls_url": "https://api.github.com/repos/credcollective/qelectron/pulls{/number}",
+  "created_at": "2016-11-22T16:11:49Z",
+  "updated_at": "2017-09-26T14:04:10Z",
+  "pushed_at": "2017-11-02T16:38:15Z",
+  "homepage": null,
+  "size": 91,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "credcollective",
+    "id": 15685116,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1Njg1MTE2",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/15685116?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/credcollective",
+    "html_url": "https://github.com/credcollective",
+    "followers_url": "https://api.github.com/users/credcollective/followers",
+    "following_url": "https://api.github.com/users/credcollective/following{/other_user}",
+    "gists_url": "https://api.github.com/users/credcollective/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/credcollective/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/credcollective/subscriptions",
+    "organizations_url": "https://api.github.com/users/credcollective/orgs",
+    "repos_url": "https://api.github.com/users/credcollective/repos",
+    "events_url": "https://api.github.com/users/credcollective/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/credcollective/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "a-magdy": 8,
+    "zvictor": 12,
+    "carlopascual": 16
+  },
+  "pulls_authors": [
+    "a-magdy",
+    "carlopascual"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6635,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 4579,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:21.383Z"
+}

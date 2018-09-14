@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Reddunt",
+  "full_name": "vitorgrs/Reddunt",
+  "owner": "vitorgrs",
+  "private": false,
+  "html_url": "https://github.com/vitorgrs/Reddunt",
+  "description": "A beatiful, powerful, reddit client for Windows 10.",
+  "fork": true,
+  "url": "https://api.github.com/repos/vitorgrs/Reddunt",
+  "languages_url": "https://api.github.com/repos/vitorgrs/Reddunt/languages",
+  "pulls_url": "https://api.github.com/repos/vitorgrs/Reddunt/pulls{/number}",
+  "created_at": "2016-07-08T04:04:45Z",
+  "updated_at": "2018-07-22T05:51:39Z",
+  "pushed_at": "2018-07-22T05:51:37Z",
+  "homepage": "https://www.reddit.com/r/BaconitDev/",
+  "size": 70465,
+  "stargazers_count": 11,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "rs2_release_svc",
+  "contributors": {
+    "xkre": 1,
+    "impmihai": 1,
+    "capaci": 1,
+    "LauraLaureus": 1,
+    "yangm97": 1,
+    "mconnew": 1,
+    "dreamlayers": 1,
+    "NiekPas": 1,
+    "AndrewGaspar": 1,
+    "TiagoDanin": 2,
+    "Yikal": 2,
+    "ben-zen": 2,
+    "nayanshah": 2,
+    "eugeniopacceli": 4,
+    "kRkk": 5,
+    "QuinnDamerell-MS": 13,
+    "vitorgrs": 87,
+    "QuinnDamerell": 145
+  },
+  "pulls_authors": [
+    "jaredparkinson",
+    "xkre",
+    "capaci",
+    "LauraLaureus",
+    "ertugrulk",
+    "feeeper",
+    "impmihai",
+    "HizkiFW",
+    "Yikal",
+    "kRkk",
+    "TiagoDanin"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 1185510,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-08-12T17:48:20.581Z"
+}

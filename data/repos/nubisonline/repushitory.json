@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "repushitory",
+  "full_name": "nubisonline/repushitory",
+  "owner": "nubisonline",
+  "private": false,
+  "html_url": "https://github.com/nubisonline/repushitory",
+  "description": "A Ruby script that deploys the latest version of your code to your production server.",
+  "fork": false,
+  "url": "https://api.github.com/repos/nubisonline/repushitory",
+  "languages_url": "https://api.github.com/repos/nubisonline/repushitory/languages",
+  "pulls_url": "https://api.github.com/repos/nubisonline/repushitory/pulls{/number}",
+  "created_at": "2012-06-29T22:44:42Z",
+  "updated_at": "2013-10-05T22:27:03Z",
+  "pushed_at": "2012-10-11T18:59:00Z",
+  "homepage": null,
+  "size": 122,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "nubisonline",
+    "id": 1186695,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExODY2OTU=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/1186695?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/nubisonline",
+    "html_url": "https://github.com/nubisonline",
+    "followers_url": "https://api.github.com/users/nubisonline/followers",
+    "following_url": "https://api.github.com/users/nubisonline/following{/other_user}",
+    "gists_url": "https://api.github.com/users/nubisonline/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/nubisonline/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/nubisonline/subscriptions",
+    "organizations_url": "https://api.github.com/users/nubisonline/orgs",
+    "repos_url": "https://api.github.com/users/nubisonline/repos",
+    "events_url": "https://api.github.com/users/nubisonline/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/nubisonline/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "timvdalen": 34
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 6794,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:59.061Z"
+}

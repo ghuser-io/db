@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ioe-oop",
+  "full_name": "amitness/ioe-oop",
+  "owner": "amitness",
+  "private": false,
+  "html_url": "https://github.com/amitness/ioe-oop",
+  "description": "Lab & Past Paper Solutions for Object Oriented Programming in C++",
+  "fork": false,
+  "url": "https://api.github.com/repos/amitness/ioe-oop",
+  "languages_url": "https://api.github.com/repos/amitness/ioe-oop/languages",
+  "pulls_url": "https://api.github.com/repos/amitness/ioe-oop/pulls{/number}",
+  "created_at": "2016-03-06T16:24:09Z",
+  "updated_at": "2017-04-29T11:33:46Z",
+  "pushed_at": "2017-08-25T17:32:55Z",
+  "homepage": "",
+  "size": 50,
+  "stargazers_count": 2,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "amitness": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 73766,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:27.459Z"
+}

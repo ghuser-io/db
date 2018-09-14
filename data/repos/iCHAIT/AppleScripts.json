@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "AppleScripts",
+  "full_name": "iCHAIT/AppleScripts",
+  "owner": "iCHAIT",
+  "private": false,
+  "html_url": "https://github.com/iCHAIT/AppleScripts",
+  "description": ":speech_balloon: A collection of useful AppleScripts I've discovered or written.",
+  "fork": false,
+  "url": "https://api.github.com/repos/iCHAIT/AppleScripts",
+  "languages_url": "https://api.github.com/repos/iCHAIT/AppleScripts/languages",
+  "pulls_url": "https://api.github.com/repos/iCHAIT/AppleScripts/pulls{/number}",
+  "created_at": "2014-11-25T13:55:30Z",
+  "updated_at": "2018-05-13T05:02:44Z",
+  "pushed_at": "2015-08-02T16:33:57Z",
+  "homepage": "",
+  "size": 228,
+  "stargazers_count": 8,
+  "language": "AppleScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "iCHAIT": 27
+  },
+  "pulls_authors": [],
+  "languages": {
+    "AppleScript": {
+      "bytes": 1417,
+      "color": "#101F1F"
+    }
+  },
+  "fetched_at": "2018-09-03T17:15:08.089Z"
+}

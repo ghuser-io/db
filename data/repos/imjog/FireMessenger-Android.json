@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "FireMessenger-Android",
+  "full_name": "jogendra/FireMessenger-Android",
+  "owner": "jogendra",
+  "private": false,
+  "html_url": "https://github.com/jogendra/FireMessenger-Android",
+  "description": "Real time chat app for Android, developed in Kotlin. Used Google Firebase for Auth and Database.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jogendra/FireMessenger-Android",
+  "languages_url": "https://api.github.com/repos/jogendra/FireMessenger-Android/languages",
+  "pulls_url": "https://api.github.com/repos/jogendra/FireMessenger-Android/pulls{/number}",
+  "created_at": "2018-08-23T17:33:51Z",
+  "updated_at": "2018-09-05T05:27:13Z",
+  "pushed_at": "2018-08-31T08:03:08Z",
+  "homepage": "",
+  "size": 387,
+  "stargazers_count": 3,
+  "language": "Kotlin",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "imjog": 19
+  },
+  "pulls_authors": [
+    "imjog"
+  ],
+  "languages": {
+    "Kotlin": {
+      "bytes": 5680,
+      "color": "#F18E33"
+    }
+  },
+  "fetched_at": "2018-09-05T13:04:10.754Z"
+}

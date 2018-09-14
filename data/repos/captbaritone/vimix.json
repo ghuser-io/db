@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vimix",
+  "full_name": "captbaritone/vimix",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/vimix",
+  "description": "Vimux with Elixir Mix Integration",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/vimix",
+  "languages_url": "https://api.github.com/repos/captbaritone/vimix/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/vimix/pulls{/number}",
+  "created_at": "2014-09-03T22:10:24Z",
+  "updated_at": "2018-07-29T22:17:31Z",
+  "pushed_at": "2014-09-03T22:11:23Z",
+  "homepage": null,
+  "size": 104,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "spiegela": 2
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T04:58:55.920Z"
+}

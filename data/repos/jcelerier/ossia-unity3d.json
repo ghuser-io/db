@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ossia-unity3d",
+  "full_name": "jcelerier/ossia-unity3d",
+  "owner": "jcelerier",
+  "private": false,
+  "html_url": "https://github.com/jcelerier/ossia-unity3d",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/jcelerier/ossia-unity3d",
+  "languages_url": "https://api.github.com/repos/jcelerier/ossia-unity3d/languages",
+  "pulls_url": "https://api.github.com/repos/jcelerier/ossia-unity3d/pulls{/number}",
+  "created_at": "2016-08-17T23:43:19Z",
+  "updated_at": "2018-09-06T10:05:33Z",
+  "pushed_at": "2018-09-06T10:05:24Z",
+  "homepage": null,
+  "size": 5768,
+  "stargazers_count": 2,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": true,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 7
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 49804,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:42.831Z"
+}

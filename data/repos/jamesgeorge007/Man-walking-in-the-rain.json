@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Man-walking-in-the-rain",
+  "full_name": "jamesgeorge007/Man-walking-in-the-rain",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/Man-walking-in-the-rain",
+  "description": "This is a project I did so as to familiarise my self with the various functions available in the C graphics library. :walking:",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/Man-walking-in-the-rain",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/Man-walking-in-the-rain/languages",
+  "created_at": "2017-07-13T14:57:35Z",
+  "updated_at": "2018-06-18T13:33:50Z",
+  "pushed_at": "2018-05-28T17:50:16Z",
+  "homepage": "",
+  "size": 11,
+  "stargazers_count": 7,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jamesgeorge007": 14
+  },
+  "languages": {
+    "C": {
+      "bytes": 11214,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/Man-walking-in-the-rain/pulls{/number}",
+  "pulls_authors": []
+}

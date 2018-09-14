@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "De-Googler",
+  "full_name": "coppolaemilio/De-Googler",
+  "owner": "coppolaemilio",
+  "private": false,
+  "html_url": "https://github.com/coppolaemilio/De-Googler",
+  "description": "With De-Googler, you get the \"I'm Feeling Lucky\" result of google search, but you don't get tracked or registered on their servers.",
+  "fork": false,
+  "url": "https://api.github.com/repos/coppolaemilio/De-Googler",
+  "languages_url": "https://api.github.com/repos/coppolaemilio/De-Googler/languages",
+  "pulls_url": "https://api.github.com/repos/coppolaemilio/De-Googler/pulls{/number}",
+  "created_at": "2013-03-01T17:18:54Z",
+  "updated_at": "2013-10-29T17:10:07Z",
+  "pushed_at": "2013-03-03T09:47:37Z",
+  "homepage": null,
+  "size": 160,
+  "stargazers_count": 1,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "coppolaemilio": 6
+  },
+  "pulls_authors": [
+    "franciscop"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 4107,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-11T00:05:04.404Z"
+}

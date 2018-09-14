@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "red-jedi",
+  "full_name": "itaditya/red-jedi",
+  "owner": "itaditya",
+  "private": false,
+  "html_url": "https://github.com/itaditya/red-jedi",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/itaditya/red-jedi",
+  "languages_url": "https://api.github.com/repos/itaditya/red-jedi/languages",
+  "created_at": "2017-02-05T06:00:51Z",
+  "updated_at": "2017-02-06T15:25:54Z",
+  "pushed_at": "2017-02-06T20:10:24Z",
+  "homepage": null,
+  "size": 3224,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ankitjain28may": 1,
+    "itaditya": 8
+  },
+  "languages": {
+    "CSS": {
+      "bytes": 75190,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 48456,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 37530,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/itaditya/red-jedi/pulls{/number}",
+  "pulls_authors": []
+}

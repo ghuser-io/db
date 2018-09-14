@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ghcjs2gh-pages",
+  "full_name": "nomeata/ghcjs2gh-pages",
+  "owner": "nomeata",
+  "private": false,
+  "html_url": "https://github.com/nomeata/ghcjs2gh-pages",
+  "description": "Example repository setup that deploys GHCJS programs to GitHub Pages",
+  "fork": false,
+  "url": "https://api.github.com/repos/nomeata/ghcjs2gh-pages",
+  "languages_url": "https://api.github.com/repos/nomeata/ghcjs2gh-pages/languages",
+  "pulls_url": "https://api.github.com/repos/nomeata/ghcjs2gh-pages/pulls{/number}",
+  "created_at": "2018-06-24T18:11:54Z",
+  "updated_at": "2018-07-27T18:53:17Z",
+  "pushed_at": "2018-07-26T18:24:49Z",
+  "homepage": null,
+  "size": 574,
+  "stargazers_count": 15,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "nomeata": 78
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Haskell": {
+      "bytes": 3421,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:02.065Z"
+}

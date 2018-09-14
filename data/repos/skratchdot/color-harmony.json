@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "color-harmony",
+  "full_name": "skratchdot/color-harmony",
+  "owner": "skratchdot",
+  "private": false,
+  "html_url": "https://github.com/skratchdot/color-harmony",
+  "description": "Create color scales by rotating hue",
+  "fork": false,
+  "url": "https://api.github.com/repos/skratchdot/color-harmony",
+  "languages_url": "https://api.github.com/repos/skratchdot/color-harmony/languages",
+  "pulls_url": "https://api.github.com/repos/skratchdot/color-harmony/pulls{/number}",
+  "created_at": "2014-06-21T23:54:33Z",
+  "updated_at": "2018-09-09T22:44:53Z",
+  "pushed_at": "2016-08-28T10:49:29Z",
+  "homepage": null,
+  "size": 11,
+  "stargazers_count": 53,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "aloisdg": 1,
+    "michaelrhodes": 1,
+    "skratchdot": 5
+  },
+  "pulls_authors": [
+    "greenkeeperio-bot",
+    "aloisdg",
+    "michaelrhodes"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6423,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:14.026Z"
+}

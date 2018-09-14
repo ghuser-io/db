@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rfeed",
+  "full_name": "svpino/rfeed",
+  "owner": "svpino",
+  "private": false,
+  "html_url": "https://github.com/svpino/rfeed",
+  "description": "Extensible RSS 2.0 Feed Generator written in Python ",
+  "fork": false,
+  "url": "https://api.github.com/repos/svpino/rfeed",
+  "languages_url": "https://api.github.com/repos/svpino/rfeed/languages",
+  "pulls_url": "https://api.github.com/repos/svpino/rfeed/pulls{/number}",
+  "created_at": "2014-11-12T14:27:03Z",
+  "updated_at": "2018-09-05T04:01:56Z",
+  "pushed_at": "2018-08-27T03:22:18Z",
+  "homepage": "",
+  "size": 52,
+  "stargazers_count": 56,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "tbowers": 1,
+    "chrisle": 1,
+    "teunvink": 1,
+    "DBeath": 1,
+    "mahdisarikhani": 2,
+    "philippmayrth": 2,
+    "egorsmkv": 3,
+    "svpino": 47
+  },
+  "pulls_authors": [
+    "mahdisarikhani",
+    "PhilipTrauner",
+    "tbowers",
+    "peketamin",
+    "philippmayrth",
+    "chrisle",
+    "ghost",
+    "teunvink",
+    "nathangrigg",
+    "egorsmkv",
+    "DBeath"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 56482,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:05.393Z"
+}

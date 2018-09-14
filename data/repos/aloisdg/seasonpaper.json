@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "seasonpaper",
+  "full_name": "aloisdg/seasonpaper",
+  "owner": "aloisdg",
+  "private": false,
+  "html_url": "https://github.com/aloisdg/seasonpaper",
+  "description": "Change your wallpaper by season",
+  "fork": false,
+  "url": "https://api.github.com/repos/aloisdg/seasonpaper",
+  "languages_url": "https://api.github.com/repos/aloisdg/seasonpaper/languages",
+  "pulls_url": "https://api.github.com/repos/aloisdg/seasonpaper/pulls{/number}",
+  "created_at": "2016-01-29T14:36:19Z",
+  "updated_at": "2016-05-02T15:49:48Z",
+  "pushed_at": "2016-02-07T17:31:52Z",
+  "homepage": null,
+  "size": 12,
+  "stargazers_count": 2,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mpl-2.0",
+    "name": "Mozilla Public License 2.0",
+    "spdx_id": "MPL-2.0",
+    "url": "https://api.github.com/licenses/mpl-2.0",
+    "node_id": "MDc6TGljZW5zZTE0"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "aloisdg": 14
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 1260,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:15.932Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "NUS-Courses-pdf",
+  "full_name": "iCHAIT/NUS-Courses-pdf",
+  "owner": "iCHAIT",
+  "private": false,
+  "html_url": "https://github.com/iCHAIT/NUS-Courses-pdf",
+  "description": "A project to export information for all courses offered in NUS (MComp) to PDF.",
+  "fork": false,
+  "url": "https://api.github.com/repos/iCHAIT/NUS-Courses-pdf",
+  "languages_url": "https://api.github.com/repos/iCHAIT/NUS-Courses-pdf/languages",
+  "pulls_url": "https://api.github.com/repos/iCHAIT/NUS-Courses-pdf/pulls{/number}",
+  "created_at": "2017-07-21T19:25:18Z",
+  "updated_at": "2018-05-07T14:32:24Z",
+  "pushed_at": "2018-05-07T13:03:27Z",
+  "homepage": "",
+  "size": 670,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "iCHAIT": 18
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 6982,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-03T17:15:05.703Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ninja-pi",
+  "full_name": "elliots/ninja-pi",
+  "owner": "elliots",
+  "private": false,
+  "html_url": "https://github.com/elliots/ninja-pi",
+  "description": "NinjaBlocks driver for the sensors on RaspberryPi (rPi, Linux)",
+  "fork": false,
+  "url": "https://api.github.com/repos/elliots/ninja-pi",
+  "languages_url": "https://api.github.com/repos/elliots/ninja-pi/languages",
+  "pulls_url": "https://api.github.com/repos/elliots/ninja-pi/pulls{/number}",
+  "created_at": "2013-08-06T07:05:26Z",
+  "updated_at": "2013-11-27T17:31:51Z",
+  "pushed_at": "2013-11-18T22:54:26Z",
+  "homepage": "",
+  "size": 139,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "elliots": 15
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 4307,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T13:45:58.947Z"
+}

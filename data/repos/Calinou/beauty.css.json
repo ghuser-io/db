@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 2
+  },
+  "name": "beauty.css",
+  "full_name": "Calinou/beauty.css",
+  "owner": "Calinou",
+  "private": false,
+  "html_url": "https://github.com/Calinou/beauty.css",
+  "description": "Turns your plain HTML pages into something pretty and responsive.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Calinou/beauty.css",
+  "languages_url": "https://api.github.com/repos/Calinou/beauty.css/languages",
+  "created_at": "2016-02-19T19:02:42Z",
+  "updated_at": "2018-02-12T04:24:53Z",
+  "pushed_at": "2016-02-19T19:53:25Z",
+  "homepage": "http://calinou.github.io/beauty.css/",
+  "size": 5,
+  "stargazers_count": 9,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "gh-pages",
+  "languages": {
+    "HTML": {
+      "bytes": 3241,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 2895,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 465,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/Calinou/beauty.css/pulls{/number}",
+  "pulls_authors": []
+}

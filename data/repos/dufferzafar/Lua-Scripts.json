@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Lua-Scripts",
+  "full_name": "dufferzafar/Lua-Scripts",
+  "owner": "dufferzafar",
+  "private": false,
+  "html_url": "https://github.com/dufferzafar/Lua-Scripts",
+  "description": "A collection of libraries and functions for Lua.",
+  "fork": false,
+  "url": "https://api.github.com/repos/dufferzafar/Lua-Scripts",
+  "languages_url": "https://api.github.com/repos/dufferzafar/Lua-Scripts/languages",
+  "pulls_url": "https://api.github.com/repos/dufferzafar/Lua-Scripts/pulls{/number}",
+  "created_at": "2013-01-25T14:20:38Z",
+  "updated_at": "2018-09-08T21:51:59Z",
+  "pushed_at": "2014-09-19T19:10:33Z",
+  "homepage": "",
+  "size": 1364,
+  "stargazers_count": 7,
+  "language": "Lua",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "bitdeli-chef": 1,
+    "dufferzafar": 11
+  },
+  "pulls_authors": [
+    "bitdeli-chef"
+  ],
+  "languages": {
+    "Lua": {
+      "bytes": 44729,
+      "color": "#000080"
+    }
+  },
+  "fetched_at": "2018-09-09T03:08:24.188Z"
+}

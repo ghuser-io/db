@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rust-mcp3008",
+  "full_name": "PhilipTrauner/rust-mcp3008",
+  "owner": "PhilipTrauner",
+  "private": false,
+  "html_url": "https://github.com/PhilipTrauner/rust-mcp3008",
+  "description": "A MCP3008 sensor driver for Rust.",
+  "fork": false,
+  "url": "https://api.github.com/repos/PhilipTrauner/rust-mcp3008",
+  "languages_url": "https://api.github.com/repos/PhilipTrauner/rust-mcp3008/languages",
+  "pulls_url": "https://api.github.com/repos/PhilipTrauner/rust-mcp3008/pulls{/number}",
+  "created_at": "2018-01-31T10:49:18Z",
+  "updated_at": "2018-02-09T23:32:09Z",
+  "pushed_at": "2018-02-08T21:52:24Z",
+  "homepage": "",
+  "size": 4,
+  "stargazers_count": 3,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "PhilipTrauner": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Rust": {
+      "bytes": 5000,
+      "color": "#dea584"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:07.985Z"
+}

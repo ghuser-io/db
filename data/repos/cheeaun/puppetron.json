@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "puppetron",
+  "full_name": "cheeaun/puppetron",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/puppetron",
+  "description": "Puppeteer (Headless Chrome Node API)-based rendering solution.",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/puppetron",
+  "languages_url": "https://api.github.com/repos/cheeaun/puppetron/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/puppetron/pulls{/number}",
+  "created_at": "2017-08-22T08:48:50Z",
+  "updated_at": "2018-09-10T02:31:15Z",
+  "pushed_at": "2018-08-24T13:24:40Z",
+  "homepage": "https://puppetron.now.sh/",
+  "size": 108,
+  "stargazers_count": 233,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 100
+  },
+  "pulls_authors": [
+    "siong1987"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 11017,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 3550,
+      "color": "#e34c26"
+    },
+    "Dockerfile": {
+      "bytes": 1415,
+      "color": "#0db7ed"
+    },
+    "Shell": {
+      "bytes": 234,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:52.326Z"
+}

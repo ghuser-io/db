@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bowcat",
+  "full_name": "AjayMT/bowcat",
+  "owner": "AjayMT",
+  "private": false,
+  "html_url": "https://github.com/AjayMT/bowcat",
+  "description": "Quickly concat bower dependencies",
+  "fork": false,
+  "url": "https://api.github.com/repos/AjayMT/bowcat",
+  "languages_url": "https://api.github.com/repos/AjayMT/bowcat/languages",
+  "pulls_url": "https://api.github.com/repos/AjayMT/bowcat/pulls{/number}",
+  "created_at": "2014-10-08T15:30:05Z",
+  "updated_at": "2017-02-16T15:38:45Z",
+  "pushed_at": "2016-05-15T06:52:42Z",
+  "homepage": "http://npmjs.org/bowcat",
+  "size": 178,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Profpatsch": 1,
+    "roccivic": 1,
+    "johnwquarles": 1,
+    "logankoester": 1,
+    "AjayMT": 28
+  },
+  "pulls_authors": [
+    "Profpatsch",
+    "roccivic",
+    "johnwquarles",
+    "logankoester"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 8125,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 28,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:46.844Z"
+}

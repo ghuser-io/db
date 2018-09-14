@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "op5",
+  "full_name": "TheDroidHub/op5",
+  "owner": "TheDroidHub",
+  "private": false,
+  "html_url": "https://github.com/TheDroidHub/op5",
+  "description": "TDH for OnePlus 5 ",
+  "fork": false,
+  "url": "https://api.github.com/repos/TheDroidHub/op5",
+  "languages_url": "https://api.github.com/repos/TheDroidHub/op5/languages",
+  "pulls_url": "https://api.github.com/repos/TheDroidHub/op5/pulls{/number}",
+  "created_at": "2017-06-23T14:34:43Z",
+  "updated_at": "2018-09-06T22:18:23Z",
+  "pushed_at": "2017-11-22T11:16:03Z",
+  "homepage": "https://thedroidhub.github.io/op5",
+  "size": 1338,
+  "stargazers_count": 5,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "TheDroidHub",
+    "id": 29660611,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI5NjYwNjEx",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/29660611?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/TheDroidHub",
+    "html_url": "https://github.com/TheDroidHub",
+    "followers_url": "https://api.github.com/users/TheDroidHub/followers",
+    "following_url": "https://api.github.com/users/TheDroidHub/following{/other_user}",
+    "gists_url": "https://api.github.com/users/TheDroidHub/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/TheDroidHub/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/TheDroidHub/subscriptions",
+    "organizations_url": "https://api.github.com/users/TheDroidHub/orgs",
+    "repos_url": "https://api.github.com/users/TheDroidHub/repos",
+    "events_url": "https://api.github.com/users/TheDroidHub/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/TheDroidHub/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "deletescape": 1,
+    "OskuJohansson": 1,
+    "ZerNico": 1,
+    "jeje47": 4,
+    "cooldroid7": 6,
+    "Mipirakas": 6,
+    "locxFIN": 8,
+    "Shabier": 11,
+    "Dinjesk": 11,
+    "jocxfin": 13,
+    "itssandeepd": 14,
+    "DevanshBajaj": 23,
+    "rushilandrews": 29
+  },
+  "pulls_authors": [
+    "Mipirakas",
+    "DevanshBajaj"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 153328,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 80835,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 19120,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-07T03:31:37.641Z"
+}

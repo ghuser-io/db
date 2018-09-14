@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pack",
+  "full_name": "mdibaiee/pack",
+  "owner": "mdibaiee",
+  "private": false,
+  "html_url": "https://github.com/mdibaiee/pack",
+  "description": "Dead-simple self-hosted cloud storage",
+  "fork": false,
+  "url": "https://api.github.com/repos/mdibaiee/pack",
+  "languages_url": "https://api.github.com/repos/mdibaiee/pack/languages",
+  "pulls_url": "https://api.github.com/repos/mdibaiee/pack/pulls{/number}",
+  "created_at": "2015-09-17T10:58:28Z",
+  "updated_at": "2016-06-08T12:57:34Z",
+  "pushed_at": "2015-09-30T14:49:24Z",
+  "homepage": "",
+  "size": 1808,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mdibaiee": 22
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 46365,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 13977,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 3583,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 988,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:43.646Z"
+}

@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pipar",
+  "full_name": "imdario/pipar",
+  "owner": "imdario",
+  "private": false,
+  "html_url": "https://github.com/imdario/pipar",
+  "description": "Open Data scrapper of political parties registries. Currently only for Ministry of Interior of Spain registry. Open to other countries!",
+  "fork": false,
+  "url": "https://api.github.com/repos/imdario/pipar",
+  "languages_url": "https://api.github.com/repos/imdario/pipar/languages",
+  "pulls_url": "https://api.github.com/repos/imdario/pipar/pulls{/number}",
+  "created_at": "2012-08-06T17:45:37Z",
+  "updated_at": "2015-05-01T14:09:46Z",
+  "pushed_at": "2015-09-30T20:40:39Z",
+  "homepage": null,
+  "size": 235843,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "imdario": 16
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 7242,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T20:48:05.223Z"
+}

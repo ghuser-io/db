@@ -1,0 +1,85 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "protoc-gen-twirp_swagger",
+  "full_name": "elliots/protoc-gen-twirp_swagger",
+  "owner": "elliots",
+  "private": false,
+  "html_url": "https://github.com/elliots/protoc-gen-twirp_swagger",
+  "description": "Swagger generator for twirp",
+  "fork": false,
+  "url": "https://api.github.com/repos/elliots/protoc-gen-twirp_swagger",
+  "languages_url": "https://api.github.com/repos/elliots/protoc-gen-twirp_swagger/languages",
+  "pulls_url": "https://api.github.com/repos/elliots/protoc-gen-twirp_swagger/pulls{/number}",
+  "created_at": "2018-01-26T02:31:00Z",
+  "updated_at": "2018-09-04T14:29:41Z",
+  "pushed_at": "2018-08-02T10:21:31Z",
+  "homepage": "",
+  "size": 681,
+  "stargazers_count": 14,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "tiramiseb": 1,
+    "elliots": 5
+  },
+  "pulls_authors": [
+    "RyogaK",
+    "tiramiseb"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 93780,
+      "color": "#375eab"
+    },
+    "Java": {
+      "bytes": 90603,
+      "color": "#b07219"
+    },
+    "C#": {
+      "bytes": 76891,
+      "color": "#178600"
+    },
+    "Python": {
+      "bytes": 63264,
+      "color": "#3572A5"
+    },
+    "Ruby": {
+      "bytes": 55440,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 41590,
+      "color": "#f1e05a"
+    },
+    "Rust": {
+      "bytes": 25798,
+      "color": "#dea584"
+    },
+    "Shell": {
+      "bytes": 15480,
+      "color": "#89e051"
+    },
+    "Lua": {
+      "bytes": 3893,
+      "color": "#000080"
+    },
+    "Batchfile": {
+      "bytes": 886,
+      "color": "#C1F12E"
+    },
+    "Scala": {
+      "bytes": 844,
+      "color": "#c22d40"
+    }
+  },
+  "fetched_at": "2018-09-11T13:45:49.021Z"
+}

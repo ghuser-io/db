@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "string-format",
+  "full_name": "kronos/string-format",
+  "owner": "kronos",
+  "private": false,
+  "html_url": "https://github.com/kronos/string-format",
+  "description": "Implementation String#% for rubinius via ragel",
+  "fork": false,
+  "url": "https://api.github.com/repos/kronos/string-format",
+  "languages_url": "https://api.github.com/repos/kronos/string-format/languages",
+  "pulls_url": "https://api.github.com/repos/kronos/string-format/pulls{/number}",
+  "created_at": "2010-08-09T19:31:16Z",
+  "updated_at": "2014-04-04T17:02:16Z",
+  "pushed_at": "2010-08-11T00:38:09Z",
+  "homepage": "",
+  "size": 100,
+  "stargazers_count": 2,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "kronos": 2
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T15:49:32.113Z"
+}

@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "image-service-rescue",
+  "full_name": "scaleway/image-service-rescue",
+  "owner": "scaleway",
+  "private": false,
+  "html_url": "https://github.com/scaleway/image-service-rescue",
+  "description": ":minidisc: Official Rescue images on Online Labs",
+  "fork": false,
+  "url": "https://api.github.com/repos/scaleway/image-service-rescue",
+  "languages_url": "https://api.github.com/repos/scaleway/image-service-rescue/languages",
+  "pulls_url": "https://api.github.com/repos/scaleway/image-service-rescue/pulls{/number}",
+  "created_at": "2014-12-04T08:43:01Z",
+  "updated_at": "2018-04-27T13:19:14Z",
+  "pushed_at": "2018-04-27T13:19:13Z",
+  "homepage": "https://doc.cloud.online.net",
+  "size": 45,
+  "stargazers_count": 4,
+  "language": "Makefile",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "scaleway",
+    "id": 5185491,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjUxODU0OTE=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/5185491?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/scaleway",
+    "html_url": "https://github.com/scaleway",
+    "followers_url": "https://api.github.com/users/scaleway/followers",
+    "following_url": "https://api.github.com/users/scaleway/following{/other_user}",
+    "gists_url": "https://api.github.com/users/scaleway/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/scaleway/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/scaleway/subscriptions",
+    "organizations_url": "https://api.github.com/users/scaleway/orgs",
+    "repos_url": "https://api.github.com/users/scaleway/repos",
+    "events_url": "https://api.github.com/users/scaleway/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/scaleway/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "superseed": 1,
+    "aimxhaisse": 1,
+    "Hatrix42": 3,
+    "moul": 59
+  },
+  "pulls_authors": [
+    "Hatrix42",
+    "superseed",
+    "moul",
+    "aimxhaisse"
+  ],
+  "languages": {
+    "Makefile": {
+      "bytes": 189,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:00.297Z"
+}

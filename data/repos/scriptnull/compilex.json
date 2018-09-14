@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "compilex",
+  "full_name": "scriptnull/compilex",
+  "owner": "scriptnull",
+  "private": false,
+  "html_url": "https://github.com/scriptnull/compilex",
+  "description": "[DEPRECATED] compilex is a node.js library which is used to build online code compiler/interpreter websites and webservices.",
+  "fork": false,
+  "url": "https://api.github.com/repos/scriptnull/compilex",
+  "languages_url": "https://api.github.com/repos/scriptnull/compilex/languages",
+  "pulls_url": "https://api.github.com/repos/scriptnull/compilex/pulls{/number}",
+  "created_at": "2014-05-26T20:36:11Z",
+  "updated_at": "2018-05-29T14:01:26Z",
+  "pushed_at": "2017-03-18T11:48:03Z",
+  "homepage": "https://www.npmjs.com/package/compilex",
+  "size": 372,
+  "stargazers_count": 45,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "xnio94": 2,
+    "scriptnull": 80
+  },
+  "pulls_authors": [
+    "xnio94",
+    "gitter-badger"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 29379,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:00.465Z"
+}

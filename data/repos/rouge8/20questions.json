@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "20questions",
+  "full_name": "rouge8/20questions",
+  "owner": "rouge8",
+  "private": false,
+  "html_url": "https://github.com/rouge8/20questions",
+  "description": "Artificial Intelligence final project. 20 questions player/simple webapp.",
+  "fork": false,
+  "url": "https://api.github.com/repos/rouge8/20questions",
+  "languages_url": "https://api.github.com/repos/rouge8/20questions/languages",
+  "pulls_url": "https://api.github.com/repos/rouge8/20questions/pulls{/number}",
+  "created_at": "2011-06-30T00:54:26Z",
+  "updated_at": "2018-07-04T17:10:19Z",
+  "pushed_at": "2016-10-18T19:09:32Z",
+  "homepage": "",
+  "size": 1336,
+  "stargazers_count": 46,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rouge8": 85
+  },
+  "pulls_authors": [
+    "superMDguy"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 337625,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 3745,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T22:37:10.255Z"
+}

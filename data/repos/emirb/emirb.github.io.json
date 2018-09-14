@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "emirb.github.io",
+  "full_name": "emirb/emirb.github.io",
+  "owner": "emirb",
+  "private": false,
+  "html_url": "https://github.com/emirb/emirb.github.io",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/emirb/emirb.github.io",
+  "languages_url": "https://api.github.com/repos/emirb/emirb.github.io/languages",
+  "pulls_url": "https://api.github.com/repos/emirb/emirb.github.io/pulls{/number}",
+  "created_at": "2018-05-03T12:31:18Z",
+  "updated_at": "2018-09-10T07:57:15Z",
+  "pushed_at": "2018-09-10T07:53:12Z",
+  "homepage": null,
+  "size": 10205,
+  "stargazers_count": 2,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "emirb": 10
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-11T20:47:11.061Z"
+}

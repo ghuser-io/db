@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "learn-devops",
+  "full_name": "dwyl/learn-devops",
+  "owner": "dwyl",
+  "private": false,
+  "html_url": "https://github.com/dwyl/learn-devops",
+  "description": ":construction: Learn the craft of \"DevOps\" (Developer Operations) to Deploy your App and Monitor it so it stays \"Up\"! ",
+  "fork": false,
+  "url": "https://api.github.com/repos/dwyl/learn-devops",
+  "languages_url": "https://api.github.com/repos/dwyl/learn-devops/languages",
+  "created_at": "2017-05-15T09:40:01Z",
+  "updated_at": "2018-08-24T18:17:58Z",
+  "pushed_at": "2018-07-03T22:31:25Z",
+  "homepage": "",
+  "size": 151,
+  "stargazers_count": 29,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "dwyl",
+    "id": 11708465,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExNzA4NDY1",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/11708465?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/dwyl",
+    "html_url": "https://github.com/dwyl",
+    "followers_url": "https://api.github.com/users/dwyl/followers",
+    "following_url": "https://api.github.com/users/dwyl/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dwyl/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/dwyl/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dwyl/subscriptions",
+    "organizations_url": "https://api.github.com/users/dwyl/orgs",
+    "repos_url": "https://api.github.com/users/dwyl/repos",
+    "events_url": "https://api.github.com/users/dwyl/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/dwyl/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "debck": 1,
+    "nelsonic": 46
+  },
+  "languages": {
+    "Ruby": {
+      "bytes": 3387,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 466,
+      "color": "#89e051"
+    },
+    "HTML": {
+      "bytes": 378,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-24T22:58:11.980Z",
+  "pulls_url": "https://api.github.com/repos/dwyl/learn-devops/pulls{/number}",
+  "pulls_authors": [
+    "debck",
+    "nelsonic"
+  ]
+}

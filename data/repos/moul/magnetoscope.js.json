@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "magnetoscope.js",
+  "full_name": "moul/magnetoscope.js",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/magnetoscope.js",
+  "description": "Browser event record & replay library",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/magnetoscope.js",
+  "languages_url": "https://api.github.com/repos/moul/magnetoscope.js/languages",
+  "pulls_url": "https://api.github.com/repos/moul/magnetoscope.js/pulls{/number}",
+  "created_at": "2013-10-04T19:44:46Z",
+  "updated_at": "2013-10-05T15:44:45Z",
+  "pushed_at": "2018-08-18T16:09:19Z",
+  "homepage": null,
+  "size": 24,
+  "stargazers_count": 3,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 27
+  },
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 9915,
+      "color": "#244776"
+    },
+    "JavaScript": {
+      "bytes": 34,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:52.834Z"
+}

@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "crossbuild",
+  "full_name": "multiarch/crossbuild",
+  "owner": "multiarch",
+  "private": false,
+  "html_url": "https://github.com/multiarch/crossbuild",
+  "description": ":earth_africa: multiarch cross compiling environments",
+  "fork": false,
+  "url": "https://api.github.com/repos/multiarch/crossbuild",
+  "languages_url": "https://api.github.com/repos/multiarch/crossbuild/languages",
+  "pulls_url": "https://api.github.com/repos/multiarch/crossbuild/pulls{/number}",
+  "created_at": "2015-12-14T11:04:41Z",
+  "updated_at": "2018-09-12T09:00:17Z",
+  "pushed_at": "2017-09-06T18:19:33Z",
+  "homepage": null,
+  "size": 25809,
+  "stargazers_count": 273,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "multiarch",
+    "id": 16105548,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2MTA1NTQ4",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/16105548?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/multiarch",
+    "html_url": "https://github.com/multiarch",
+    "followers_url": "https://api.github.com/users/multiarch/followers",
+    "following_url": "https://api.github.com/users/multiarch/following{/other_user}",
+    "gists_url": "https://api.github.com/users/multiarch/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/multiarch/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/multiarch/subscriptions",
+    "organizations_url": "https://api.github.com/users/multiarch/orgs",
+    "repos_url": "https://api.github.com/users/multiarch/repos",
+    "events_url": "https://api.github.com/users/multiarch/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/multiarch/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "nlm": 2,
+    "neurocis": 2,
+    "QuentinPerez": 2,
+    "moul": 47
+  },
+  "pulls_authors": [
+    "Jimbly",
+    "nlm",
+    "moul",
+    "mateusz-juda",
+    "Atch0um",
+    "QuentinPerez"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 2214,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 2019,
+      "color": "#427819"
+    },
+    "C": {
+      "bytes": 120,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T15:51:42.706Z"
+}

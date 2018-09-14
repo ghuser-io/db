@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "css-variables",
+  "full_name": "jamesgeorge007/css-variables",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/css-variables",
+  "description": "Demonstrates the use-cases of css variables in a real project.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/css-variables",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/css-variables/languages",
+  "created_at": "2018-06-29T16:38:32Z",
+  "updated_at": "2018-06-30T04:42:02Z",
+  "pushed_at": "2018-06-30T04:42:00Z",
+  "homepage": "https://jamesgeorge007.github.io/css-variables/",
+  "size": 20,
+  "stargazers_count": 2,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jamesgeorge007": 9
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 969,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 411,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 394,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-22T16:49:45.098Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/css-variables/pulls{/number}",
+  "pulls_authors": []
+}

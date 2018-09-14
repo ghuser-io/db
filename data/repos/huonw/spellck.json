@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "spellck",
+  "full_name": "huonw/spellck",
+  "owner": "huonw",
+  "private": false,
+  "html_url": "https://github.com/huonw/spellck",
+  "description": "A spell-checker for Rust code.",
+  "fork": false,
+  "url": "https://api.github.com/repos/huonw/spellck",
+  "languages_url": "https://api.github.com/repos/huonw/spellck/languages",
+  "pulls_url": "https://api.github.com/repos/huonw/spellck/pulls{/number}",
+  "created_at": "2013-08-16T14:26:39Z",
+  "updated_at": "2017-11-08T22:42:57Z",
+  "pushed_at": "2015-04-24T05:37:54Z",
+  "homepage": null,
+  "size": 1134,
+  "stargazers_count": 13,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sinistersnare": 3,
+    "huonw": 76
+  },
+  "pulls_authors": [
+    "sinistersnare",
+    "Geal"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 21704,
+      "color": "#dea584"
+    },
+    "Shell": {
+      "bytes": 401,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:37.973Z"
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "einstein-riddle-generator",
+  "full_name": "moul/einstein-riddle-generator",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/einstein-riddle-generator",
+  "description": ":game_die: Einstein Riddle Generator",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/einstein-riddle-generator",
+  "languages_url": "https://api.github.com/repos/moul/einstein-riddle-generator/languages",
+  "pulls_url": "https://api.github.com/repos/moul/einstein-riddle-generator/pulls{/number}",
+  "created_at": "2015-09-11T22:58:23Z",
+  "updated_at": "2016-03-10T18:20:03Z",
+  "pushed_at": "2015-09-13T18:11:46Z",
+  "homepage": "http://einsteins-riddle.appspot.com",
+  "size": 184,
+  "stargazers_count": 4,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 17
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 11427,
+      "color": "#375eab"
+    },
+    "HTML": {
+      "bytes": 3403,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:24.325Z"
+}

@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mosaiq",
+  "full_name": "NasdaqDesign/mosaiq",
+  "owner": "NasdaqDesign",
+  "private": false,
+  "html_url": "https://github.com/NasdaqDesign/mosaiq",
+  "description": "ALPHA - Mosaiq",
+  "fork": false,
+  "url": "https://api.github.com/repos/NasdaqDesign/mosaiq",
+  "languages_url": "https://api.github.com/repos/NasdaqDesign/mosaiq/languages",
+  "pulls_url": "https://api.github.com/repos/NasdaqDesign/mosaiq/pulls{/number}",
+  "created_at": "2016-04-14T15:38:49Z",
+  "updated_at": "2018-08-05T17:50:17Z",
+  "pushed_at": "2018-02-27T16:44:53Z",
+  "homepage": "http://nasdaqdesign.com/mosaiq/",
+  "size": 50022,
+  "stargazers_count": 40,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "NasdaqDesign",
+    "id": 19353862,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5MzUzODYy",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/19353862?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/NasdaqDesign",
+    "html_url": "https://github.com/NasdaqDesign",
+    "followers_url": "https://api.github.com/users/NasdaqDesign/followers",
+    "following_url": "https://api.github.com/users/NasdaqDesign/following{/other_user}",
+    "gists_url": "https://api.github.com/users/NasdaqDesign/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/NasdaqDesign/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/NasdaqDesign/subscriptions",
+    "organizations_url": "https://api.github.com/users/NasdaqDesign/orgs",
+    "repos_url": "https://api.github.com/users/NasdaqDesign/repos",
+    "events_url": "https://api.github.com/users/NasdaqDesign/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/NasdaqDesign/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "chadlavi": 1,
+    "jasonadelia": 1,
+    "caseyhald": 5
+  },
+  "pulls_authors": [
+    "caseyhald",
+    "chadlavi",
+    "Idealien",
+    "danselden",
+    "jasonadelia"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 1057198,
+      "color": "#4F5D95"
+    },
+    "CSS": {
+      "bytes": 708795,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 213899,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 74906,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:07.982Z"
+}

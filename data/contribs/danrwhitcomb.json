@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "danrwhitcomb/animonds": {
+      "full_name": "danrwhitcomb/animonds",
+      "name": "animonds",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 8,
+      "activity": 1.0144759540777732,
+      "total_score": 1.0144759540777732,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "danrwhitcomb/Monarch": {
+      "full_name": "danrwhitcomb/Monarch",
+      "name": "Monarch",
+      "stargazers_count": 4,
+      "popularity": 1.49139952161816,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 40,
+      "activity": 0.8547085187866301,
+      "total_score": 24.71710086467719,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "danrwhitcomb/Lisnin": {
+      "full_name": "danrwhitcomb/Lisnin",
+      "name": "Lisnin",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 0.4380915696209726,
+      "total_score": 0.4380915696209726,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

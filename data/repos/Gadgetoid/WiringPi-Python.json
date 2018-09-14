@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "WiringPi-Python",
+  "full_name": "Gadgetoid/WiringPi-Python",
+  "owner": "Gadgetoid",
+  "private": false,
+  "html_url": "https://github.com/Gadgetoid/WiringPi-Python",
+  "description": "Python wrapped version of Gordon's Arduino-like WiringPi for the Raspberry Pi",
+  "fork": true,
+  "url": "https://api.github.com/repos/Gadgetoid/WiringPi-Python",
+  "languages_url": "https://api.github.com/repos/Gadgetoid/WiringPi-Python/languages",
+  "pulls_url": "https://api.github.com/repos/Gadgetoid/WiringPi-Python/pulls{/number}",
+  "created_at": "2012-07-11T13:45:32Z",
+  "updated_at": "2013-05-19T23:58:14Z",
+  "pushed_at": "2012-10-28T20:48:21Z",
+  "homepage": null,
+  "size": 354,
+  "stargazers_count": 4,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx_id": "LGPL-3.0",
+    "url": "https://api.github.com/licenses/lgpl-3.0",
+    "node_id": "MDc6TGljZW5zZTEy"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "duncanj": 1,
+    "daha": 1,
+    "lrvick": 1,
+    "dmcg": 1,
+    "Gadgetoid": 29
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 146212,
+      "color": "#555555"
+    },
+    "Python": {
+      "bytes": 13863,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:16.934Z"
+}

@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ghuser.io.settings",
+  "full_name": "TiagoDanin/ghuser.io.settings",
+  "owner": "TiagoDanin",
+  "private": false,
+  "html_url": "https://github.com/TiagoDanin/ghuser.io.settings",
+  "description": "User metadata for my https://ghuser.io/TiagoDanin",
+  "fork": false,
+  "url": "https://api.github.com/repos/TiagoDanin/ghuser.io.settings",
+  "languages_url": "https://api.github.com/repos/TiagoDanin/ghuser.io.settings/languages",
+  "pulls_url": "https://api.github.com/repos/TiagoDanin/ghuser.io.settings/pulls{/number}",
+  "created_at": "2018-09-11T13:23:23Z",
+  "updated_at": "2018-09-11T13:26:00Z",
+  "pushed_at": "2018-09-11T13:24:42Z",
+  "homepage": null,
+  "size": 1,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "TiagoDanin": 2
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-13T00:28:17.283Z"
+}

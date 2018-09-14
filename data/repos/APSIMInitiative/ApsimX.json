@@ -1,0 +1,168 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ApsimX",
+  "full_name": "APSIMInitiative/ApsimX",
+  "owner": "APSIMInitiative",
+  "private": false,
+  "html_url": "https://github.com/APSIMInitiative/ApsimX",
+  "description": "ApsimX is the next generation of APSIM",
+  "fork": false,
+  "url": "https://api.github.com/repos/APSIMInitiative/ApsimX",
+  "languages_url": "https://api.github.com/repos/APSIMInitiative/ApsimX/languages",
+  "pulls_url": "https://api.github.com/repos/APSIMInitiative/ApsimX/pulls{/number}",
+  "created_at": "2015-04-08T22:05:54Z",
+  "updated_at": "2018-09-13T22:30:17Z",
+  "pushed_at": "2018-09-13T22:30:14Z",
+  "homepage": "http://www.apsim.info",
+  "size": 427747,
+  "stargazers_count": 27,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "APSIMInitiative",
+    "id": 11878941,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExODc4OTQx",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/11878941?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/APSIMInitiative",
+    "html_url": "https://github.com/APSIMInitiative",
+    "followers_url": "https://api.github.com/users/APSIMInitiative/followers",
+    "following_url": "https://api.github.com/users/APSIMInitiative/following{/other_user}",
+    "gists_url": "https://api.github.com/users/APSIMInitiative/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/APSIMInitiative/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/APSIMInitiative/subscriptions",
+    "organizations_url": "https://api.github.com/users/APSIMInitiative/orgs",
+    "repos_url": "https://api.github.com/users/APSIMInitiative/repos",
+    "events_url": "https://api.github.com/users/APSIMInitiative/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/APSIMInitiative/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "philderbeast": 1,
+    "pre078": 2,
+    "oseledets": 2,
+    "EnliWang": 2,
+    "kiwiroy": 2,
+    "lie112": 5,
+    "josharp22": 9,
+    "cla473": 13,
+    "ed2014": 14,
+    "jbrider": 15,
+    "aldoherty": 36,
+    "holzworthd-agr": 43,
+    "junqi108": 51,
+    "Xiumei2017": 60,
+    "sno036": 66,
+    "RobZys": 113,
+    "her123": 125,
+    "byzheng": 140,
+    "ekhaembah": 141,
+    "ver078": 239,
+    "hol430": 440,
+    "fainges": 462,
+    "HamishBrownPFR": 469,
+    "zur003": 474,
+    "hut104": 807,
+    "hol353": 1071,
+    "behnamxa": 1
+  },
+  "pulls_authors": [
+    "hol430",
+    "zur003",
+    "HamishBrownPFR",
+    "jbrider",
+    "her123",
+    "byzheng",
+    "hol353",
+    "hut104",
+    "junqi108",
+    "rcichota",
+    "ilhuber",
+    "RobZys",
+    "ekhaembah",
+    "Xiumei2017",
+    "mcauliffer",
+    "aldoherty",
+    "ver078",
+    "holzworthd-agr",
+    "sno036",
+    "fainges",
+    "philderbeast",
+    "EnliWang",
+    "oseledets",
+    "lie112",
+    "ed2014",
+    "josharp22",
+    "cla473",
+    "behnamxa"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 9024292,
+      "color": "#178600"
+    },
+    "TeX": {
+      "bytes": 1981377,
+      "color": "#3D6117"
+    },
+    "Jupyter Notebook": {
+      "bytes": 817310,
+      "color": "#DA5B0B"
+    },
+    "Fortran": {
+      "bytes": 144978,
+      "color": "#4d41b1"
+    },
+    "Batchfile": {
+      "bytes": 28954,
+      "color": "#C1F12E"
+    },
+    "Groovy": {
+      "bytes": 11516,
+      "color": "#e69f56"
+    },
+    "R": {
+      "bytes": 7780,
+      "color": "#198CE7"
+    },
+    "Inno Setup": {
+      "bytes": 7709,
+      "color": "#ccc"
+    },
+    "Dockerfile": {
+      "bytes": 5755,
+      "color": "#0db7ed"
+    },
+    "Shell": {
+      "bytes": 5660,
+      "color": "#89e051"
+    },
+    "XSLT": {
+      "bytes": 3385,
+      "color": "#EB8CEB"
+    },
+    "CSS": {
+      "bytes": 596,
+      "color": "#563d7c"
+    },
+    "ASP": {
+      "bytes": 349,
+      "color": "#6a40fd"
+    },
+    "Smalltalk": {
+      "bytes": 3,
+      "color": "#596706"
+    }
+  },
+  "fetched_at": "2018-09-13T23:57:14.153Z"
+}

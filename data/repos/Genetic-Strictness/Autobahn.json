@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Autobahn",
+  "full_name": "Genetic-Strictness/Autobahn",
+  "owner": "Genetic-Strictness",
+  "private": false,
+  "html_url": "https://github.com/Genetic-Strictness/Autobahn",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/Genetic-Strictness/Autobahn",
+  "languages_url": "https://api.github.com/repos/Genetic-Strictness/Autobahn/languages",
+  "pulls_url": "https://api.github.com/repos/Genetic-Strictness/Autobahn/pulls{/number}",
+  "created_at": "2016-07-28T02:14:10Z",
+  "updated_at": "2018-01-05T20:16:08Z",
+  "pushed_at": "2017-06-10T00:15:50Z",
+  "homepage": null,
+  "size": 3074,
+  "stargazers_count": 12,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "Genetic-Strictness",
+    "id": 20693934,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIwNjkzOTM0",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/20693934?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Genetic-Strictness",
+    "html_url": "https://github.com/Genetic-Strictness",
+    "followers_url": "https://api.github.com/users/Genetic-Strictness/followers",
+    "following_url": "https://api.github.com/users/Genetic-Strictness/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Genetic-Strictness/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Genetic-Strictness/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Genetic-Strictness/subscriptions",
+    "organizations_url": "https://api.github.com/users/Genetic-Strictness/orgs",
+    "repos_url": "https://api.github.com/users/Genetic-Strictness/repos",
+    "events_url": "https://api.github.com/users/Genetic-Strictness/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Genetic-Strictness/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "nomeata": 1,
+    "remysucre": 1,
+    "cronburg": 5,
+    "dnunez02": 20
+  },
+  "pulls_authors": [
+    "cronburg",
+    "nomeata"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 32598,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:08.880Z"
+}

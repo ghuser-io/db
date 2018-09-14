@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "TwitchTurtle",
+  "full_name": "Watt3r/TwitchTurtle",
+  "owner": "Watt3r",
+  "private": false,
+  "html_url": "https://github.com/Watt3r/TwitchTurtle",
+  "description": "Streamlabs Integration with twitch",
+  "fork": false,
+  "url": "https://api.github.com/repos/Watt3r/TwitchTurtle",
+  "languages_url": "https://api.github.com/repos/Watt3r/TwitchTurtle/languages",
+  "pulls_url": "https://api.github.com/repos/Watt3r/TwitchTurtle/pulls{/number}",
+  "created_at": "2018-08-03T15:56:59Z",
+  "updated_at": "2018-09-09T06:39:25Z",
+  "pushed_at": "2018-08-25T01:03:15Z",
+  "homepage": "https://twitchturtle.com/",
+  "size": 7410,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "dev",
+  "contributors": {
+    "Watt3r": 32
+  },
+  "pulls_authors": [
+    "Watt3r"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 55188,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 9477,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 8193,
+      "color": "#e34c26"
+    },
+    "Batchfile": {
+      "bytes": 83,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-09T13:14:26.766Z"
+}

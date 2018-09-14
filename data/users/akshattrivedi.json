@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "akshattrivedi",
+  "ghuser_created_at": "2018-08-18T01:11:21.371Z",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/14280517?v=4",
+  "html_url": "https://github.com/akshattrivedi",
+  "organizations_url": "https://api.github.com/users/akshattrivedi/orgs",
+  "repos_url": "https://api.github.com/users/akshattrivedi/repos",
+  "type": "User",
+  "name": "Akshat Trivedi",
+  "company": null,
+  "blog": "",
+  "location": "Bengaluru",
+  "email": "akshat.trivedi08@gmail.com",
+  "bio": "Tech Geek",
+  "public_gists": 0,
+  "created_at": "2015-09-14T18:21:35Z",
+  "updated_at": "2018-08-17T19:36:59Z",
+  "organizations": [
+    "Sokoban-OpenGL-CPP"
+  ],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:08:58.713Z",
+    "repos": [
+      "akshattrivedi/CountDown-Timer",
+      "akshattrivedi/akshattrivedi.github.io",
+      "Sokoban-OpenGL-CPP/Sokoban-OpenGL-cpp",
+      "raspberry-pi-weather-station/weather-station-1",
+      "akshattrivedi/DBMS-Project-Movie-Ticket-Booking-System-Desk-Clerk-With-SMS-Feature",
+      "akshattrivedi/TCL_Scripts_5_Sem",
+      "akshattrivedi/Data-Structures-Using-C",
+      "akshattrivedi/Connect-Four-JAVA-Project",
+      "akshattrivedi/Design_And_Analysis_Of_Algorithms_JAVA_4th_Sem",
+      "akshattrivedi/git-tutorial"
+    ]
+  }
+}

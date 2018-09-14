@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Core-Data-Tutorial-for-iOS",
+  "full_name": "paulyoung/Core-Data-Tutorial-for-iOS",
+  "owner": "paulyoung",
+  "private": false,
+  "html_url": "https://github.com/paulyoung/Core-Data-Tutorial-for-iOS",
+  "description": "Core Data Tutorial for iOS",
+  "fork": false,
+  "url": "https://api.github.com/repos/paulyoung/Core-Data-Tutorial-for-iOS",
+  "languages_url": "https://api.github.com/repos/paulyoung/Core-Data-Tutorial-for-iOS/languages",
+  "pulls_url": "https://api.github.com/repos/paulyoung/Core-Data-Tutorial-for-iOS/pulls{/number}",
+  "created_at": "2013-08-16T00:01:09Z",
+  "updated_at": "2017-04-22T20:16:01Z",
+  "pushed_at": "2013-08-16T02:45:13Z",
+  "homepage": "https://developer.apple.com/library/ios/documentation/DataManagement/Conceptual/iPhoneCoreData01/Introduction/Introduction.html#//apple_ref/doc/uid/TP40008305",
+  "size": 98,
+  "stargazers_count": 2,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "paulyoung": 16
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-08T12:41:03.501Z"
+}

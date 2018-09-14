@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "seneca-vcache",
+  "full_name": "rjrodger/seneca-vcache",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/seneca-vcache",
+  "description": "seneca-vcache",
+  "fork": false,
+  "url": "https://api.github.com/repos/rjrodger/seneca-vcache",
+  "languages_url": "https://api.github.com/repos/rjrodger/seneca-vcache/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/seneca-vcache/pulls{/number}",
+  "created_at": "2012-09-17T09:54:42Z",
+  "updated_at": "2016-09-26T02:37:23Z",
+  "pushed_at": "2015-12-27T16:23:57Z",
+  "homepage": null,
+  "size": 52,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "allain": 1,
+    "bamse16": 1,
+    "iantocristian": 2,
+    "darsee": 3,
+    "hueniverse": 13,
+    "rjrodger": 18
+  },
+  "pulls_authors": [
+    "hueniverse",
+    "nherment",
+    "iantocristian",
+    "allain",
+    "bamse16"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 41569,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:32.538Z"
+}

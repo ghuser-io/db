@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "mikekutzma",
+  "ghuser_created_at": "2018-07-17T05:59:59.347Z",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/14300020?v=4",
+  "html_url": "https://github.com/mikekutzma",
+  "organizations_url": "https://api.github.com/users/mikekutzma/orgs",
+  "repos_url": "https://api.github.com/users/mikekutzma/repos",
+  "type": "User",
+  "name": "Mike Kutzma",
+  "company": null,
+  "blog": "",
+  "location": "New York",
+  "email": "michaelkutzma@gmail.com",
+  "bio": null,
+  "created_at": "2015-09-15T19:15:43Z",
+  "updated_at": "2018-09-04T02:09:14Z",
+  "contribs": {
+    "fetched_at": "2018-09-14T08:15:49.107Z",
+    "repos": [
+      "mikekutzma/mnist-torch",
+      "mikekutzma/nosleep",
+      "mikekutzma/quant",
+      "pandas-dev/pandas",
+      "mikekutzma/mercari",
+      "mikekutzma/kivyapps",
+      "mikekutzma/kwabsim",
+      "mikekutzma/pygame_games",
+      "mikekutzma/cifar-torch",
+      "mikekutzma/compPhys",
+      "mikekutzma/numerai",
+      "mikekutzma/titanic",
+      "mikekutzma/mikekutzma.github.io",
+      "mikekutzma/totempole",
+      "mikekutzma/matfin",
+      "mikekutzma/pe",
+      "mikekutzma/rsna"
+    ]
+  },
+  "organizations": [],
+  "public_gists": 0
+}

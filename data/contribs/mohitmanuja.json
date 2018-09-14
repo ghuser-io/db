@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "fossasia/phimpme-android": {
+      "full_name": "fossasia/phimpme-android",
+      "name": "phimpme-android",
+      "stargazers_count": 864,
+      "popularity": 3.9361002007345984,
+      "percentage": 9.108341323106425,
+      "maturity": 4.003080376271627,
+      "total_commits_count": 1043,
+      "activity": 5,
+      "total_score": 29.47513608907805,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "fossasia/codeheat.org": {
+      "full_name": "fossasia/codeheat.org",
+      "name": "codeheat.org",
+      "stargazers_count": 480,
+      "popularity": 3.680465251353019,
+      "percentage": 0,
+      "maturity": 3.342377905274129,
+      "total_commits_count": 259,
+      "activity": 5,
+      "total_score": 22.726151564607314,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "anantprsd5/Udacity_Nano": {
+      "full_name": "anantprsd5/Udacity_Nano",
+      "name": "Udacity_Nano",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 17.391304347826086,
+      "maturity": 0,
+      "total_commits_count": 23,
+      "activity": 1.1126857032076973,
+      "total_score": 1.1126857032076973,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "fossasia/phimpme-artwork": {
+      "full_name": "fossasia/phimpme-artwork",
+      "name": "phimpme-artwork",
+      "stargazers_count": 381,
+      "popularity": 3.5799369479730587,
+      "percentage": 33.333333333333336,
+      "maturity": 0,
+      "total_commits_count": 9,
+      "activity": 1.2600484681272146,
+      "total_score": 27.512919419929645,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "fossasia/open-event-droidgen": {
+      "full_name": "fossasia/open-event-droidgen",
+      "name": "open-event-droidgen",
+      "stargazers_count": 945,
+      "popularity": 3.975057082146034,
+      "percentage": 0.07225433526011561,
+      "maturity": 4.130167770780123,
+      "total_commits_count": 1384,
+      "activity": 5,
+      "total_score": 25.222844751920242,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "fossasia"
+  ]
+}

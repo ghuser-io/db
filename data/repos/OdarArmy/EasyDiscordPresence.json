@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "EasyDiscordPresence",
+  "full_name": "OdarArmy/EasyDiscordPresence",
+  "owner": "OdarArmy",
+  "private": false,
+  "html_url": "https://github.com/OdarArmy/EasyDiscordPresence",
+  "description": "Easy Discord Rich Rpesence for everyone!",
+  "fork": false,
+  "url": "https://api.github.com/repos/OdarArmy/EasyDiscordPresence",
+  "languages_url": "https://api.github.com/repos/OdarArmy/EasyDiscordPresence/languages",
+  "pulls_url": "https://api.github.com/repos/OdarArmy/EasyDiscordPresence/pulls{/number}",
+  "created_at": "2018-06-29T19:00:43Z",
+  "updated_at": "2018-09-03T14:28:36Z",
+  "pushed_at": "2018-07-27T10:58:06Z",
+  "homepage": "https://odararmy.js.org/projects/easydiscordrpc",
+  "size": 39,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "OdarArmy",
+    "id": 39522325,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM5NTIyMzI1",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/39522325?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/OdarArmy",
+    "html_url": "https://github.com/OdarArmy",
+    "followers_url": "https://api.github.com/users/OdarArmy/followers",
+    "following_url": "https://api.github.com/users/OdarArmy/following{/other_user}",
+    "gists_url": "https://api.github.com/users/OdarArmy/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/OdarArmy/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/OdarArmy/subscriptions",
+    "organizations_url": "https://api.github.com/users/OdarArmy/orgs",
+    "repos_url": "https://api.github.com/users/OdarArmy/repos",
+    "events_url": "https://api.github.com/users/OdarArmy/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/OdarArmy/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "OdarGM": 11
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1259,
+      "color": "#f1e05a"
+    },
+    "Batchfile": {
+      "bytes": 32,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-03T15:16:50.585Z"
+}

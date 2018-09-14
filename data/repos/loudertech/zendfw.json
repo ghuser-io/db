@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "zendfw",
+  "full_name": "loudertech/zendfw",
+  "owner": "loudertech",
+  "private": false,
+  "html_url": "https://github.com/loudertech/zendfw",
+  "description": "Zend Framework in Zephir",
+  "fork": false,
+  "url": "https://api.github.com/repos/loudertech/zendfw",
+  "languages_url": "https://api.github.com/repos/loudertech/zendfw/languages",
+  "pulls_url": "https://api.github.com/repos/loudertech/zendfw/pulls{/number}",
+  "created_at": "2014-09-10T20:51:15Z",
+  "updated_at": "2016-07-05T17:00:41Z",
+  "pushed_at": "2014-09-10T21:01:04Z",
+  "homepage": null,
+  "size": 196,
+  "stargazers_count": 4,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "andresgutierrez": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 407960,
+      "color": "#555555"
+    },
+    "Zephir": {
+      "bytes": 10886,
+      "color": "#118f9e"
+    },
+    "C++": {
+      "bytes": 4291,
+      "color": "#f34b7d"
+    },
+    "Shell": {
+      "bytes": 383,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:52.229Z"
+}

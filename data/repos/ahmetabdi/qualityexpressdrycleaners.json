@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "qualityexpressdrycleaners",
+  "full_name": "ahmetabdi/qualityexpressdrycleaners",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/qualityexpressdrycleaners",
+  "description": "qualityexpressdrycleaners.co.uk",
+  "fork": false,
+  "url": "https://api.github.com/repos/ahmetabdi/qualityexpressdrycleaners",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/qualityexpressdrycleaners/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/qualityexpressdrycleaners/pulls{/number}",
+  "created_at": "2014-08-04T21:08:48Z",
+  "updated_at": "2016-02-12T20:15:46Z",
+  "pushed_at": "2016-02-07T23:15:16Z",
+  "homepage": null,
+  "size": 19901,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 12
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 208272,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 70966,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 22958,
+      "color": "#f1e05a"
+    },
+    "Ruby": {
+      "bytes": 18086,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:30:59.224Z"
+}

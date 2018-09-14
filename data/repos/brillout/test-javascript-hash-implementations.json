@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "test-javascript-hash-implementations",
+  "full_name": "brillout/test-javascript-hash-implementations",
+  "owner": "brillout",
+  "private": false,
+  "html_url": "https://github.com/brillout/test-javascript-hash-implementations",
+  "description": "Javascript hash implementations tested for speed. Including SHA-256, MD5, CRC32, SHA3, BLAKE2S",
+  "fork": false,
+  "url": "https://api.github.com/repos/brillout/test-javascript-hash-implementations",
+  "languages_url": "https://api.github.com/repos/brillout/test-javascript-hash-implementations/languages",
+  "created_at": "2015-07-04T08:27:27Z",
+  "updated_at": "2017-05-27T23:11:52Z",
+  "pushed_at": "2015-07-23T10:13:09Z",
+  "homepage": "",
+  "size": 1700,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "brillout": 20
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 1874591,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 15702,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 166,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/brillout/test-javascript-hash-implementations/pulls{/number}",
+  "pulls_authors": []
+}

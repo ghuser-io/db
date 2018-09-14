@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "git-stalk-cli",
+  "full_name": "aashutoshrathi/git-stalk-cli",
+  "owner": "aashutoshrathi",
+  "private": false,
+  "html_url": "https://github.com/aashutoshrathi/git-stalk-cli",
+  "description": "A CLI tool for keeping an eye on contributions of peers (Python Package)",
+  "fork": false,
+  "url": "https://api.github.com/repos/aashutoshrathi/git-stalk-cli",
+  "languages_url": "https://api.github.com/repos/aashutoshrathi/git-stalk-cli/languages",
+  "pulls_url": "https://api.github.com/repos/aashutoshrathi/git-stalk-cli/pulls{/number}",
+  "created_at": "2018-05-25T11:57:14Z",
+  "updated_at": "2018-09-07T01:18:02Z",
+  "pushed_at": "2018-08-18T07:20:17Z",
+  "homepage": "https://pypi.org/project/git-stalk/",
+  "size": 60,
+  "stargazers_count": 20,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "fossabot": 1,
+    "aashutoshrathi": 31
+  },
+  "pulls_authors": [
+    "fossabot"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 7515,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-07T03:28:58.923Z"
+}

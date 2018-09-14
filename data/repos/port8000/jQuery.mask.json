@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jQuery.mask",
+  "full_name": "port8000/jQuery.mask",
+  "owner": "port8000",
+  "private": false,
+  "html_url": "https://github.com/port8000/jQuery.mask",
+  "description": "Mask any element or the complete page",
+  "fork": false,
+  "url": "https://api.github.com/repos/port8000/jQuery.mask",
+  "languages_url": "https://api.github.com/repos/port8000/jQuery.mask/languages",
+  "pulls_url": "https://api.github.com/repos/port8000/jQuery.mask/pulls{/number}",
+  "created_at": "2012-06-14T16:40:24Z",
+  "updated_at": "2018-06-08T14:13:54Z",
+  "pushed_at": "2013-03-07T11:25:26Z",
+  "homepage": "http://port8000.github.com/jQuery.mask/",
+  "size": 232,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "port8000",
+    "id": 467044,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ2NzA0NA==",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/467044?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/port8000",
+    "html_url": "https://github.com/port8000",
+    "followers_url": "https://api.github.com/users/port8000/followers",
+    "following_url": "https://api.github.com/users/port8000/following{/other_user}",
+    "gists_url": "https://api.github.com/users/port8000/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/port8000/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/port8000/subscriptions",
+    "organizations_url": "https://api.github.com/users/port8000/orgs",
+    "repos_url": "https://api.github.com/users/port8000/repos",
+    "events_url": "https://api.github.com/users/port8000/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/port8000/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "cartmanez": 4,
+    "Boldewyn": 22
+  },
+  "pulls_authors": [
+    "cartmanez"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 106347,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:57:55.584Z"
+}

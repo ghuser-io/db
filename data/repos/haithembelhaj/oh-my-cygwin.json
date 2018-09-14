@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "oh-my-cygwin",
+  "full_name": "haithembelhaj/oh-my-cygwin",
+  "owner": "haithembelhaj",
+  "private": false,
+  "html_url": "https://github.com/haithembelhaj/oh-my-cygwin",
+  "description": "Setup a functioning terminal for Windows",
+  "fork": false,
+  "url": "https://api.github.com/repos/haithembelhaj/oh-my-cygwin",
+  "languages_url": "https://api.github.com/repos/haithembelhaj/oh-my-cygwin/languages",
+  "pulls_url": "https://api.github.com/repos/haithembelhaj/oh-my-cygwin/pulls{/number}",
+  "created_at": "2013-02-21T10:39:36Z",
+  "updated_at": "2018-09-13T06:58:21Z",
+  "pushed_at": "2016-08-23T15:47:32Z",
+  "homepage": null,
+  "size": 291,
+  "stargazers_count": 396,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "DmitrySandalov": 1,
+    "shaxbee": 1,
+    "rolodato": 1,
+    "T-Mac": 1,
+    "haithembelhaj": 3
+  },
+  "pulls_authors": [
+    "clarkzjw",
+    "comtev",
+    "hsalinas-comscore",
+    "sru",
+    "DmitrySandalov",
+    "shaxbee",
+    "rolodato",
+    "T-Mac"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 996,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T16:28:14.000Z"
+}

@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "product-showcase-template",
+  "full_name": "azdanov/product-showcase-template",
+  "owner": "azdanov",
+  "private": false,
+  "html_url": "https://github.com/azdanov/product-showcase-template",
+  "description": "Product showcase template demo made in Bootstrap.",
+  "fork": false,
+  "url": "https://api.github.com/repos/azdanov/product-showcase-template",
+  "languages_url": "https://api.github.com/repos/azdanov/product-showcase-template/languages",
+  "pulls_url": "https://api.github.com/repos/azdanov/product-showcase-template/pulls{/number}",
+  "created_at": "2018-01-27T17:11:49Z",
+  "updated_at": "2018-08-08T06:29:39Z",
+  "pushed_at": "2018-08-08T06:08:42Z",
+  "homepage": "https://azdanov.github.io/product-showcase-template/",
+  "size": 5470,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "azdanov": 20
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 17129,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 3333,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 169,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-17T12:34:59.122Z"
+}

@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Thinktecture.IdentityModel.40",
+  "full_name": "IdentityModel/Thinktecture.IdentityModel.40",
+  "owner": "IdentityModel",
+  "private": false,
+  "html_url": "https://github.com/IdentityModel/Thinktecture.IdentityModel.40",
+  "description": "[deprecated] Helper library for identity & access control in .NET 4.0/WIF and MVC4/Web API.",
+  "fork": false,
+  "url": "https://api.github.com/repos/IdentityModel/Thinktecture.IdentityModel.40",
+  "languages_url": "https://api.github.com/repos/IdentityModel/Thinktecture.IdentityModel.40/languages",
+  "pulls_url": "https://api.github.com/repos/IdentityModel/Thinktecture.IdentityModel.40/pulls{/number}",
+  "created_at": "2012-06-16T08:36:43Z",
+  "updated_at": "2017-11-18T16:30:00Z",
+  "pushed_at": "2016-01-07T18:51:26Z",
+  "homepage": "",
+  "size": 2517,
+  "stargazers_count": 50,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "IdentityModel",
+    "id": 10657636,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNjU3NjM2",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/10657636?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/IdentityModel",
+    "html_url": "https://github.com/IdentityModel",
+    "followers_url": "https://api.github.com/users/IdentityModel/followers",
+    "following_url": "https://api.github.com/users/IdentityModel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/IdentityModel/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/IdentityModel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/IdentityModel/subscriptions",
+    "organizations_url": "https://api.github.com/users/IdentityModel/orgs",
+    "repos_url": "https://api.github.com/users/IdentityModel/repos",
+    "events_url": "https://api.github.com/users/IdentityModel/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/IdentityModel/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "bencoveney": 1,
+    "GaryMcAllister": 2,
+    "chrisbednarski": 2,
+    "leastprivilege": 18,
+    "brockallen": 102
+  },
+  "pulls_authors": [
+    "bencoveney",
+    "GaryMcAllister",
+    "chrisbednarski",
+    "pgatilov",
+    "michaelkc",
+    "michaelaird"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 466490,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-08-17T11:57:04.598Z"
+}

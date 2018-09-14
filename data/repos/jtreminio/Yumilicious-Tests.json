@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Yumilicious-Tests",
+  "full_name": "jtreminio/Yumilicious-Tests",
+  "owner": "jtreminio",
+  "private": false,
+  "html_url": "https://github.com/jtreminio/Yumilicious-Tests",
+  "description": "Unit and integration tests for my Yumilicious contract project",
+  "fork": false,
+  "url": "https://api.github.com/repos/jtreminio/Yumilicious-Tests",
+  "languages_url": "https://api.github.com/repos/jtreminio/Yumilicious-Tests/languages",
+  "pulls_url": "https://api.github.com/repos/jtreminio/Yumilicious-Tests/pulls{/number}",
+  "created_at": "2012-09-14T03:50:46Z",
+  "updated_at": "2013-10-09T21:24:19Z",
+  "pushed_at": "2012-11-18T23:22:36Z",
+  "homepage": null,
+  "size": 516,
+  "stargazers_count": 2,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jtreminio": 130
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 167580,
+      "color": "#4F5D95"
+    },
+    "Perl": {
+      "bytes": 153,
+      "color": "#0298c3"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:30.319Z"
+}

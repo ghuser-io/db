@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fake-google-search",
+  "full_name": "itaditya/fake-google-search",
+  "owner": "itaditya",
+  "private": false,
+  "html_url": "https://github.com/itaditya/fake-google-search",
+  "description": "Fool your friends with screenshots of google search suggestion which looks just like actual but are made by you",
+  "fork": false,
+  "url": "https://api.github.com/repos/itaditya/fake-google-search",
+  "languages_url": "https://api.github.com/repos/itaditya/fake-google-search/languages",
+  "created_at": "2018-08-05T14:16:23Z",
+  "updated_at": "2018-08-05T19:05:20Z",
+  "pushed_at": "2018-08-05T14:30:52Z",
+  "homepage": "http://foogle.surge.sh",
+  "size": 27,
+  "stargazers_count": 2,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "itaditya": 2
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 3292,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 2621,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 99,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-06T06:12:02.455Z",
+  "pulls_url": "https://api.github.com/repos/itaditya/fake-google-search/pulls{/number}",
+  "pulls_authors": []
+}

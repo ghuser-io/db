@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "MEANboilerplate",
+  "full_name": "Small-Start/MEANboilerplate",
+  "owner": "Small-Start",
+  "private": false,
+  "html_url": "https://github.com/Small-Start/MEANboilerplate",
+  "description": "A ready to use boilerplate for your next MEAN project .",
+  "fork": false,
+  "url": "https://api.github.com/repos/Small-Start/MEANboilerplate",
+  "languages_url": "https://api.github.com/repos/Small-Start/MEANboilerplate/languages",
+  "created_at": "2016-10-15T17:05:35Z",
+  "updated_at": "2016-10-15T18:35:46Z",
+  "pushed_at": "2016-10-15T17:33:03Z",
+  "homepage": null,
+  "size": 5,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "Small-Start",
+    "id": 17977081,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3OTc3MDgx",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/17977081?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Small-Start",
+    "html_url": "https://github.com/Small-Start",
+    "followers_url": "https://api.github.com/users/Small-Start/followers",
+    "following_url": "https://api.github.com/users/Small-Start/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Small-Start/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Small-Start/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Small-Start/subscriptions",
+    "organizations_url": "https://api.github.com/users/Small-Start/orgs",
+    "repos_url": "https://api.github.com/users/Small-Start/repos",
+    "events_url": "https://api.github.com/users/Small-Start/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Small-Start/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "itaditya": 2
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 5638,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 2677,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/Small-Start/MEANboilerplate/pulls{/number}",
+  "pulls_authors": []
+}

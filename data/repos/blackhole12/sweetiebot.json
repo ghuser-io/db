@@ -1,0 +1,83 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 1,
+    "codeHusky": 2,
+    "ShadowJonathan": 3,
+    "thomcuddihy": 6,
+    "TallonRain": 8,
+    "blackhole12": 410
+  },
+  "name": "sweetiebot",
+  "full_name": "blackhole12/sweetiebot",
+  "owner": "blackhole12",
+  "private": false,
+  "html_url": "https://github.com/blackhole12/sweetiebot",
+  "description": "Anti-Spam bot for Discord",
+  "fork": false,
+  "url": "https://api.github.com/repos/blackhole12/sweetiebot",
+  "languages_url": "https://api.github.com/repos/blackhole12/sweetiebot/languages",
+  "created_at": "2016-01-25T03:51:52Z",
+  "updated_at": "2018-09-04T12:20:00Z",
+  "pushed_at": "2018-07-21T06:25:42Z",
+  "homepage": "",
+  "size": 1106,
+  "stargazers_count": 39,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "Go": {
+      "bytes": 592080,
+      "color": "#375eab"
+    },
+    "HTML": {
+      "bytes": 36742,
+      "color": "#e34c26"
+    },
+    "PLpgSQL": {
+      "bytes": 26171,
+      "color": "#ccc"
+    },
+    "CSS": {
+      "bytes": 4824,
+      "color": "#563d7c"
+    },
+    "SQLPL": {
+      "bytes": 3022,
+      "color": "#ccc"
+    },
+    "Dockerfile": {
+      "bytes": 764,
+      "color": "#0db7ed"
+    },
+    "Makefile": {
+      "bytes": 86,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 30,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-04T15:58:36.787Z",
+  "pulls_url": "https://api.github.com/repos/blackhole12/sweetiebot/pulls{/number}",
+  "pulls_authors": [
+    "blackhole12",
+    "thomcuddihy",
+    "Calinou",
+    "Moonwolf287",
+    "codeHusky",
+    "hithroc",
+    "ShadowJonathan",
+    "TallonRain"
+  ]
+}

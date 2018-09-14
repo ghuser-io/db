@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ion",
+  "full_name": "Mattias-/ion",
+  "owner": "Mattias-",
+  "private": false,
+  "html_url": "https://github.com/Mattias-/ion",
+  "description": "ion, the programming language",
+  "fork": false,
+  "url": "https://api.github.com/repos/Mattias-/ion",
+  "languages_url": "https://api.github.com/repos/Mattias-/ion/languages",
+  "pulls_url": "https://api.github.com/repos/Mattias-/ion/pulls{/number}",
+  "created_at": "2014-12-30T12:14:35Z",
+  "updated_at": "2018-08-07T18:57:21Z",
+  "pushed_at": "2016-10-01T14:39:50Z",
+  "homepage": null,
+  "size": 18,
+  "stargazers_count": 47,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "adolfosilva": 1,
+    "ELD": 1,
+    "Mattias-": 16
+  },
+  "pulls_authors": [
+    "adolfosilva",
+    "SomeRandom4ChanGuy",
+    "ELD",
+    "cmr"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 6692,
+      "color": "#dea584"
+    },
+    "Python": {
+      "bytes": 1767,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 206,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T10:35:59.210Z"
+}

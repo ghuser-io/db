@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Time-saver",
+  "full_name": "aayush1408/Time-saver",
+  "owner": "aayush1408",
+  "private": false,
+  "html_url": "https://github.com/aayush1408/Time-saver",
+  "description": "Wasting too much time on social networking websites?? Then this chrome extension is for you.",
+  "fork": false,
+  "url": "https://api.github.com/repos/aayush1408/Time-saver",
+  "languages_url": "https://api.github.com/repos/aayush1408/Time-saver/languages",
+  "created_at": "2018-04-14T10:05:40Z",
+  "updated_at": "2018-08-23T13:40:49Z",
+  "pushed_at": "2018-07-31T15:27:14Z",
+  "homepage": null,
+  "size": 86,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "aayush1408": 3,
+    "itaditya": 1
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 1286,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-23T16:10:13.376Z",
+  "pulls_url": "https://api.github.com/repos/aayush1408/Time-saver/pulls{/number}",
+  "pulls_authors": [
+    "itaditya"
+  ]
+}

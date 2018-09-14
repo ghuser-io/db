@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SLAM",
+  "full_name": "saipothanjanjanam/SLAM",
+  "owner": "saipothanjanjanam",
+  "private": false,
+  "html_url": "https://github.com/saipothanjanjanam/SLAM",
+  "description": "This project is on learning different SLAM(Simultaneous Localisation and Mapping) techniques and simulating in the Ros & Gazebo or MATLAB & VRep environment for any robot.",
+  "fork": false,
+  "url": "https://api.github.com/repos/saipothanjanjanam/SLAM",
+  "languages_url": "https://api.github.com/repos/saipothanjanjanam/SLAM/languages",
+  "pulls_url": "https://api.github.com/repos/saipothanjanjanam/SLAM/pulls{/number}",
+  "created_at": "2018-05-27T17:13:35Z",
+  "updated_at": "2018-05-27T17:32:10Z",
+  "pushed_at": "2018-05-27T17:31:50Z",
+  "homepage": null,
+  "size": 1,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sarthak268": 2
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-03T15:17:29.424Z"
+}

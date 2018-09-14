@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tic-tac-toe",
+  "full_name": "sr6033/tic-tac-toe",
+  "owner": "sr6033",
+  "private": false,
+  "html_url": "https://github.com/sr6033/tic-tac-toe",
+  "description": "A simple 1 player tic-tac-toe game developed on C language",
+  "fork": false,
+  "url": "https://api.github.com/repos/sr6033/tic-tac-toe",
+  "languages_url": "https://api.github.com/repos/sr6033/tic-tac-toe/languages",
+  "created_at": "2015-12-30T22:36:32Z",
+  "updated_at": "2016-10-21T22:06:56Z",
+  "pushed_at": "2016-01-04T12:14:31Z",
+  "homepage": "",
+  "size": 5,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sr6033": 6
+  },
+  "languages": {
+    "C": {
+      "bytes": 1637,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-07-25T00:05:30.322Z",
+  "pulls_url": "https://api.github.com/repos/sr6033/tic-tac-toe/pulls{/number}",
+  "pulls_authors": []
+}

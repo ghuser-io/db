@@ -1,0 +1,118 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "popit",
+  "full_name": "mysociety/popit",
+  "owner": "mysociety",
+  "private": false,
+  "html_url": "https://github.com/mysociety/popit",
+  "description": "DEPRECATED - Development on PopIt has stopped and it is no longer being maintained",
+  "fork": false,
+  "url": "https://api.github.com/repos/mysociety/popit",
+  "languages_url": "https://api.github.com/repos/mysociety/popit/languages",
+  "pulls_url": "https://api.github.com/repos/mysociety/popit/pulls{/number}",
+  "created_at": "2011-11-23T12:44:54Z",
+  "updated_at": "2018-03-08T15:48:24Z",
+  "pushed_at": "2017-08-24T12:30:12Z",
+  "homepage": "https://goo.gl/Vvej4Q",
+  "size": 6641,
+  "stargazers_count": 74,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "mysociety",
+    "id": 141338,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/141338?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mysociety",
+    "html_url": "https://github.com/mysociety",
+    "followers_url": "https://api.github.com/users/mysociety/followers",
+    "following_url": "https://api.github.com/users/mysociety/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mysociety/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mysociety/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mysociety/subscriptions",
+    "organizations_url": "https://api.github.com/users/mysociety/orgs",
+    "repos_url": "https://api.github.com/users/mysociety/repos",
+    "events_url": "https://api.github.com/users/mysociety/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mysociety/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "lizconlan": 1,
+    "henare": 1,
+    "TomSteinberg": 1,
+    "guglielmo": 1,
+    "maxogden": 1,
+    "rubenarakelyan": 2,
+    "tmtmtmtm": 6,
+    "wrightmartin": 15,
+    "Jedidiah": 17,
+    "mhl": 25,
+    "chetan1": 30,
+    "domoritz": 97,
+    "dracos": 98,
+    "zarino": 107,
+    "struan": 170,
+    "chrismytton": 483,
+    "evdb": 917
+  },
+  "pulls_authors": [
+    "mhl",
+    "chrismytton",
+    "wrightmartin",
+    "lizconlan",
+    "dracos",
+    "rubenarakelyan",
+    "struan",
+    "zarino",
+    "henare",
+    "bcampbell",
+    "tmtmtmtm",
+    "guglielmo",
+    "puneet0191",
+    "domoritz",
+    "chetan1",
+    "maxogden"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1235173,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 149994,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 144005,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 15522,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 3810,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 1381,
+      "color": "#427819"
+    },
+    "Ruby": {
+      "bytes": 698,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:28.133Z"
+}

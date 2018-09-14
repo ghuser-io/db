@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "reddit-parser",
+  "full_name": "jamesgeorge007/reddit-parser",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/reddit-parser",
+  "description": "A web app which parses ( using reddit API) relevant posts from a given subreddit that the user has ultimate right to choose from. :tada: :smiley:",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/reddit-parser",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/reddit-parser/languages",
+  "created_at": "2018-07-12T12:47:06Z",
+  "updated_at": "2018-07-25T07:54:36Z",
+  "pushed_at": "2018-07-22T05:27:05Z",
+  "homepage": "https://reddit-parser.herokuapp.com/",
+  "size": 260,
+  "stargazers_count": 2,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jamesgeorge007": 20
+  },
+  "languages": {
+    "TypeScript": {
+      "bytes": 8029,
+      "color": "#2b7489"
+    },
+    "CSS": {
+      "bytes": 2246,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1594,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/reddit-parser/pulls{/number}",
+  "pulls_authors": []
+}

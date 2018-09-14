@@ -1,0 +1,112 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "jdelman/qqdb": {
+      "full_name": "jdelman/qqdb",
+      "name": "qqdb",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 1.5332812722128493,
+      "total_score": 1.5332812722128493,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jdelman/weatherprompt": {
+      "full_name": "jdelman/weatherprompt",
+      "name": "weatherprompt",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 9,
+      "activity": 1.2149448393850721,
+      "total_score": 17.877796366472115,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jdelman/proxy-lens": {
+      "full_name": "jdelman/proxy-lens",
+      "name": "proxy-lens",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 1.1356762530005229,
+      "total_score": 1.1356762530005229,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "evgenyrodionov/redux-logger": {
+      "full_name": "evgenyrodionov/redux-logger",
+      "name": "redux-logger",
+      "stargazers_count": 3910,
+      "popularity": 4.592115868060733,
+      "percentage": 0.5128205128205128,
+      "maturity": 3.1923469991735076,
+      "total_commits_count": 195,
+      "activity": 1.7623879026169655,
+      "total_score": 22.229570563016896,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "TomThorpe/UIScrollSlidingPages": {
+      "full_name": "TomThorpe/UIScrollSlidingPages",
+      "name": "UIScrollSlidingPages",
+      "stargazers_count": 949,
+      "popularity": 3.9768932311068372,
+      "percentage": 4.3478260869565215,
+      "maturity": 0,
+      "total_commits_count": 23,
+      "activity": 0.9860517171673067,
+      "total_score": 15.164540628069943,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "git/git": {
+      "full_name": "git/git",
+      "name": "git",
+      "stargazers_count": 24073,
+      "popularity": 5,
+      "percentage": 0,
+      "maturity": 5,
+      "total_commits_count": 48183,
+      "activity": 5,
+      "total_score": 30,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Zulko/moviepy": {
+      "full_name": "Zulko/moviepy",
+      "name": "moviepy",
+      "stargazers_count": 5188,
+      "popularity": 4.714963708561442,
+      "percentage": 0.42643923240938164,
+      "maturity": 3.6342944293081074,
+      "total_commits_count": 469,
+      "activity": 5,
+      "total_score": 26.674863899913756,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jdelman/BrightnessTheme": {
+      "full_name": "jdelman/BrightnessTheme",
+      "name": "BrightnessTheme",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 0.3723986183317214,
+      "total_score": 0.3723986183317214,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "git"
+  ]
+}

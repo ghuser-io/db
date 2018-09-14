@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "term.js-cli",
+  "full_name": "moul/term.js-cli",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/term.js-cli",
+  "description": ":wrench: A command line interface client for term.js / tty.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/term.js-cli",
+  "languages_url": "https://api.github.com/repos/moul/term.js-cli/languages",
+  "pulls_url": "https://api.github.com/repos/moul/term.js-cli/pulls{/number}",
+  "created_at": "2015-01-12T11:24:08Z",
+  "updated_at": "2017-09-15T02:11:04Z",
+  "pushed_at": "2018-08-18T16:11:02Z",
+  "homepage": "https://www.npmjs.com/package/term.js-cli",
+  "size": 34,
+  "stargazers_count": 6,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 27
+  },
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 1215,
+      "color": "#244776"
+    },
+    "JavaScript": {
+      "bytes": 1059,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:35.920Z"
+}

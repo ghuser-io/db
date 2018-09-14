@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "simple-ios-version-hack",
+  "full_name": "joshstrange/simple-ios-version-hack",
+  "owner": "joshstrange",
+  "private": false,
+  "html_url": "https://github.com/joshstrange/simple-ios-version-hack",
+  "description": "A simple way to \"switch\" your iOS version from 7.0.4 to 7.0.6 to fix the SSL Patch / Simple Bank App issues",
+  "fork": false,
+  "url": "https://api.github.com/repos/joshstrange/simple-ios-version-hack",
+  "languages_url": "https://api.github.com/repos/joshstrange/simple-ios-version-hack/languages",
+  "pulls_url": "https://api.github.com/repos/joshstrange/simple-ios-version-hack/pulls{/number}",
+  "created_at": "2014-03-15T22:20:00Z",
+  "updated_at": "2014-10-17T19:50:57Z",
+  "pushed_at": "2015-07-04T15:47:18Z",
+  "homepage": null,
+  "size": 177,
+  "stargazers_count": 3,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "wongjustin99": 2,
+    "joshstrange": 8
+  },
+  "pulls_authors": [
+    "wongjustin99"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 1574,
+      "color": "#89e051"
+    },
+    "Groff": {
+      "bytes": 831,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-11T13:47:47.195Z"
+}

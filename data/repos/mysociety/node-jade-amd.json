@@ -1,0 +1,85 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-jade-amd",
+  "full_name": "mysociety/node-jade-amd",
+  "owner": "mysociety",
+  "private": false,
+  "html_url": "https://github.com/mysociety/node-jade-amd",
+  "description": "Helpers for working with Jade templates in an AMD setting",
+  "fork": false,
+  "url": "https://api.github.com/repos/mysociety/node-jade-amd",
+  "languages_url": "https://api.github.com/repos/mysociety/node-jade-amd/languages",
+  "pulls_url": "https://api.github.com/repos/mysociety/node-jade-amd/pulls{/number}",
+  "created_at": "2012-05-23T15:41:34Z",
+  "updated_at": "2017-02-28T17:32:48Z",
+  "pushed_at": "2017-06-28T07:33:06Z",
+  "homepage": null,
+  "size": 83,
+  "stargazers_count": 24,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "mysociety",
+    "id": 141338,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0MTMzOA==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/141338?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mysociety",
+    "html_url": "https://github.com/mysociety",
+    "followers_url": "https://api.github.com/users/mysociety/followers",
+    "following_url": "https://api.github.com/users/mysociety/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mysociety/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mysociety/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mysociety/subscriptions",
+    "organizations_url": "https://api.github.com/users/mysociety/orgs",
+    "repos_url": "https://api.github.com/users/mysociety/repos",
+    "events_url": "https://api.github.com/users/mysociety/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mysociety/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "fabslab": 1,
+    "okv": 1,
+    "borrey": 1,
+    "Sharian": 2,
+    "niftylettuce": 4,
+    "cqql": 11,
+    "evdb": 26
+  },
+  "pulls_authors": [
+    "mborman",
+    "PsiXdev",
+    "Sharian",
+    "fabslab",
+    "emiguelt",
+    "okv",
+    "cqql",
+    "borrey",
+    "jfromaniello"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 19595,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1027,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 419,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:47.181Z"
+}

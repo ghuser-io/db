@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "schm",
+  "full_name": "diegohaz/schm",
+  "owner": "diegohaz",
+  "private": false,
+  "html_url": "https://github.com/diegohaz/schm",
+  "description": "Composable schemas for JavaScript and Node.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/diegohaz/schm",
+  "languages_url": "https://api.github.com/repos/diegohaz/schm/languages",
+  "created_at": "2017-06-08T21:49:44Z",
+  "updated_at": "2018-09-11T14:45:34Z",
+  "pushed_at": "2018-09-10T20:20:36Z",
+  "homepage": "https://git.io/schm",
+  "size": 536,
+  "stargazers_count": 360,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "J-F-Liu": 1,
+    "itaditya": 1,
+    "diegohaz": 72,
+    "Mikou": 1
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 81892,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T20:48:30.012Z",
+  "pulls_url": "https://api.github.com/repos/diegohaz/schm/pulls{/number}",
+  "pulls_authors": [
+    "diegohaz",
+    "J-F-Liu",
+    "itaditya",
+    "Mikou"
+  ]
+}

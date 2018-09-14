@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "EquationalReasoningInLiquidHaskell",
+  "full_name": "nikivazou/EquationalReasoningInLiquidHaskell",
+  "owner": "nikivazou",
+  "private": false,
+  "html_url": "https://github.com/nikivazou/EquationalReasoningInLiquidHaskell",
+  "description": "Derivation of Optimized Definitions Based on Specs",
+  "fork": false,
+  "url": "https://api.github.com/repos/nikivazou/EquationalReasoningInLiquidHaskell",
+  "languages_url": "https://api.github.com/repos/nikivazou/EquationalReasoningInLiquidHaskell/languages",
+  "pulls_url": "https://api.github.com/repos/nikivazou/EquationalReasoningInLiquidHaskell/pulls{/number}",
+  "created_at": "2018-01-19T13:06:14Z",
+  "updated_at": "2018-07-03T15:42:15Z",
+  "pushed_at": "2018-07-03T15:42:13Z",
+  "homepage": null,
+  "size": 703,
+  "stargazers_count": 8,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bafain": 1,
+    "wkunkel": 1,
+    "nomeata": 3,
+    "nikivazou": 27
+  },
+  "pulls_authors": [
+    "bafain"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 863552,
+      "color": "#f1e05a"
+    },
+    "TeX": {
+      "bytes": 423745,
+      "color": "#3D6117"
+    },
+    "CSS": {
+      "bytes": 155712,
+      "color": "#563d7c"
+    },
+    "Haskell": {
+      "bytes": 99148,
+      "color": "#5e5086"
+    },
+    "HTML": {
+      "bytes": 48362,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 3092,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:05.283Z"
+}

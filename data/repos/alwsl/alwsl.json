@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "alwsl",
+  "full_name": "alwsl/alwsl",
+  "owner": "alwsl",
+  "private": false,
+  "html_url": "https://github.com/alwsl/alwsl",
+  "description": "Install archlinux as the WSL (Windows Subsystem for Linux) host.",
+  "fork": false,
+  "url": "https://api.github.com/repos/alwsl/alwsl",
+  "languages_url": "https://api.github.com/repos/alwsl/alwsl/languages",
+  "pulls_url": "https://api.github.com/repos/alwsl/alwsl/pulls{/number}",
+  "created_at": "2016-08-23T14:16:50Z",
+  "updated_at": "2018-09-12T06:54:43Z",
+  "pushed_at": "2017-11-21T22:53:34Z",
+  "homepage": "",
+  "size": 24,
+  "stargazers_count": 1366,
+  "language": "Batchfile",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "alwsl",
+    "id": 22596566,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIyNTk2NTY2",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/22596566?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/alwsl",
+    "html_url": "https://github.com/alwsl",
+    "followers_url": "https://api.github.com/users/alwsl/followers",
+    "following_url": "https://api.github.com/users/alwsl/following{/other_user}",
+    "gists_url": "https://api.github.com/users/alwsl/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/alwsl/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/alwsl/subscriptions",
+    "organizations_url": "https://api.github.com/users/alwsl/orgs",
+    "repos_url": "https://api.github.com/users/alwsl/repos",
+    "events_url": "https://api.github.com/users/alwsl/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/alwsl/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "zameran": 1,
+    "KyleOndy": 1,
+    "jsmcconn": 1,
+    "fizyk20": 1,
+    "toXel": 1,
+    "turbo": 12
+  },
+  "pulls_authors": [
+    "Krutonium",
+    "zameran",
+    "patrickelectric",
+    "KyleOndy",
+    "jsmcconn",
+    "fizyk20",
+    "toXel",
+    "turbo"
+  ],
+  "languages": {
+    "Batchfile": {
+      "bytes": 12630,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:08.609Z"
+}

@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "CS100GRP3",
+  "full_name": "philiphossu/CS100GRP3",
+  "owner": "philiphossu",
+  "private": false,
+  "html_url": "https://github.com/philiphossu/CS100GRP3",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/philiphossu/CS100GRP3",
+  "languages_url": "https://api.github.com/repos/philiphossu/CS100GRP3/languages",
+  "pulls_url": "https://api.github.com/repos/philiphossu/CS100GRP3/pulls{/number}",
+  "created_at": "2017-10-16T14:56:13Z",
+  "updated_at": "2017-11-06T16:35:34Z",
+  "pushed_at": "2017-11-20T16:58:22Z",
+  "homepage": null,
+  "size": 3499,
+  "stargazers_count": 1,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "vingkan": 2,
+    "SammySash": 9,
+    "nickwanninger": 17
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CSS": {
+      "bytes": 20477,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 17967,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 11047,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 1649,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 99,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T13:49:33.785Z"
+}

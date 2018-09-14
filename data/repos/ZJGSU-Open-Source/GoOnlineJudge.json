@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "GoOnlineJudge",
+  "full_name": "ZJGSU-Open-Source/GoOnlineJudge",
+  "owner": "ZJGSU-Open-Source",
+  "private": false,
+  "html_url": "https://github.com/ZJGSU-Open-Source/GoOnlineJudge",
+  "description": "GoOnlineJudge",
+  "fork": false,
+  "url": "https://api.github.com/repos/ZJGSU-Open-Source/GoOnlineJudge",
+  "languages_url": "https://api.github.com/repos/ZJGSU-Open-Source/GoOnlineJudge/languages",
+  "pulls_url": "https://api.github.com/repos/ZJGSU-Open-Source/GoOnlineJudge/pulls{/number}",
+  "created_at": "2014-07-28T13:12:22Z",
+  "updated_at": "2018-09-11T15:45:39Z",
+  "pushed_at": "2017-07-17T07:15:16Z",
+  "homepage": "http://acm.zjgsu.edu.cn",
+  "size": 10074,
+  "stargazers_count": 89,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ZJGSU-Open-Source",
+    "id": 8272869,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjgyNzI4Njk=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/8272869?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ZJGSU-Open-Source",
+    "html_url": "https://github.com/ZJGSU-Open-Source",
+    "followers_url": "https://api.github.com/users/ZJGSU-Open-Source/followers",
+    "following_url": "https://api.github.com/users/ZJGSU-Open-Source/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ZJGSU-Open-Source/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ZJGSU-Open-Source/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ZJGSU-Open-Source/subscriptions",
+    "organizations_url": "https://api.github.com/users/ZJGSU-Open-Source/orgs",
+    "repos_url": "https://api.github.com/users/ZJGSU-Open-Source/repos",
+    "events_url": "https://api.github.com/users/ZJGSU-Open-Source/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ZJGSU-Open-Source/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "bitdeli-chef": 1,
+    "micln": 3,
+    "memelee": 33,
+    "clarkzjw": 143,
+    "sakeven": 251
+  },
+  "pulls_authors": [
+    "sakeven",
+    "clarkzjw",
+    "bitdeli-chef"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 1079059,
+      "color": "#375eab"
+    },
+    "Smarty": {
+      "bytes": 112118,
+      "color": "#ccc"
+    },
+    "HTML": {
+      "bytes": 7381,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 2719,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T17:08:18.647Z"
+}

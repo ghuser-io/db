@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "googledriveannex",
+  "full_name": "giomasce/googledriveannex",
+  "owner": "giomasce",
+  "private": false,
+  "html_url": "https://github.com/giomasce/googledriveannex",
+  "description": null,
+  "fork": true,
+  "url": "https://api.github.com/repos/giomasce/googledriveannex",
+  "languages_url": "https://api.github.com/repos/giomasce/googledriveannex/languages",
+  "pulls_url": "https://api.github.com/repos/giomasce/googledriveannex/pulls{/number}",
+  "created_at": "2014-12-10T21:07:54Z",
+  "updated_at": "2016-10-25T12:30:13Z",
+  "pushed_at": "2016-10-25T13:45:56Z",
+  "homepage": null,
+  "size": 8033,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "yarikoptic": 1,
+    "chrisglass": 1,
+    "marek-j": 9,
+    "giomasce": 13,
+    "TobiasTheViking": 15
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 306794,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:27.325Z"
+}

@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "repo-vimrc",
+  "full_name": "captbaritone/repo-vimrc",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/repo-vimrc",
+  "description": "Keep per-repository .vimrc files in your .vim directory",
+  "fork": false,
+  "url": "https://api.github.com/repos/captbaritone/repo-vimrc",
+  "languages_url": "https://api.github.com/repos/captbaritone/repo-vimrc/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/repo-vimrc/pulls{/number}",
+  "created_at": "2013-08-17T06:22:39Z",
+  "updated_at": "2018-07-29T22:13:31Z",
+  "pushed_at": "2017-06-28T00:30:29Z",
+  "homepage": null,
+  "size": 108,
+  "stargazers_count": 1,
+  "language": "VimL",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 2
+  },
+  "pulls_authors": [
+    "k"
+  ],
+  "languages": {
+    "Vim script": {
+      "bytes": 2344,
+      "color": "#199f4b"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:44.715Z"
+}

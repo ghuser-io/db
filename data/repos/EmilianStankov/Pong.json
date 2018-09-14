@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Pong",
+  "full_name": "EmilianStankov/Pong",
+  "owner": "EmilianStankov",
+  "private": false,
+  "html_url": "https://github.com/EmilianStankov/Pong",
+  "description": "The thrilling game of pong.",
+  "fork": false,
+  "url": "https://api.github.com/repos/EmilianStankov/Pong",
+  "languages_url": "https://api.github.com/repos/EmilianStankov/Pong/languages",
+  "pulls_url": "https://api.github.com/repos/EmilianStankov/Pong/pulls{/number}",
+  "created_at": "2013-12-16T18:22:44Z",
+  "updated_at": "2017-06-06T01:10:19Z",
+  "pushed_at": "2014-01-20T19:26:19Z",
+  "homepage": null,
+  "size": 9959,
+  "stargazers_count": 2,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "kalodsun": 17,
+    "EmilianStankov": 27
+  },
+  "pulls_authors": [
+    "kalodsun"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 13594,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 8826,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T15:42:52.319Z"
+}

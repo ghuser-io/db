@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hatayama",
+  "full_name": "wopian/hatayama",
+  "owner": "wopian",
+  "private": false,
+  "html_url": "https://github.com/wopian/hatayama",
+  "description": "🎌 Flag database",
+  "fork": false,
+  "url": "https://api.github.com/repos/wopian/hatayama",
+  "languages_url": "https://api.github.com/repos/wopian/hatayama/languages",
+  "pulls_url": "https://api.github.com/repos/wopian/hatayama/pulls{/number}",
+  "created_at": "2016-03-01T19:04:54Z",
+  "updated_at": "2017-11-19T02:45:15Z",
+  "pushed_at": "2017-11-09T02:46:57Z",
+  "homepage": "https://hatayama.wopian.me",
+  "size": 43053,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "pazjacket": 1,
+    "deppbot": 2,
+    "greenkeeper[bot]": 44,
+    "wopian": 459
+  },
+  "pulls_authors": [
+    "snyk-bot",
+    "greenkeeper[bot]",
+    "deppbot",
+    "wopian",
+    "pazjacket"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 31933,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 15764,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 12634,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 8837,
+      "color": "#89e051"
+    },
+    "Ruby": {
+      "bytes": 335,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:36.279Z"
+}

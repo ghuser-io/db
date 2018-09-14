@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "notes-app",
+  "full_name": "avidLearnerInProgress/notes-app",
+  "owner": "avidLearnerInProgress",
+  "private": false,
+  "html_url": "https://github.com/avidLearnerInProgress/notes-app",
+  "description": "Minimal Command Line Notes Application written in Node.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/avidLearnerInProgress/notes-app",
+  "languages_url": "https://api.github.com/repos/avidLearnerInProgress/notes-app/languages",
+  "created_at": "2018-01-26T16:12:31Z",
+  "updated_at": "2018-03-30T01:50:03Z",
+  "pushed_at": "2018-01-26T16:21:24Z",
+  "homepage": null,
+  "size": 51,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "avidLearnerInProgress": 3
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 6456,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/avidLearnerInProgress/notes-app/pulls{/number}",
+  "pulls_authors": []
+}

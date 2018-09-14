@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Statusfy",
+  "full_name": "paulyoung/Statusfy",
+  "owner": "paulyoung",
+  "private": false,
+  "html_url": "https://github.com/paulyoung/Statusfy",
+  "description": "Spotify in your status bar.",
+  "fork": false,
+  "url": "https://api.github.com/repos/paulyoung/Statusfy",
+  "languages_url": "https://api.github.com/repos/paulyoung/Statusfy/languages",
+  "pulls_url": "https://api.github.com/repos/paulyoung/Statusfy/pulls{/number}",
+  "created_at": "2014-04-18T05:28:04Z",
+  "updated_at": "2018-09-04T00:56:35Z",
+  "pushed_at": "2018-09-05T06:00:42Z",
+  "homepage": null,
+  "size": 987,
+  "stargazers_count": 508,
+  "language": "Objective-C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "LarsStegman": 1,
+    "sidewinder12s": 2,
+    "paulyoung": 33
+  },
+  "pulls_authors": [
+    "Blobtoe",
+    "jrfernandes",
+    "colm2",
+    "makiftutuncu",
+    "derekjobst",
+    "gatopan",
+    "mattsson",
+    "kgupta99",
+    "Naoto-Ida",
+    "sidewinder12s",
+    "LarsStegman",
+    "sandermak"
+  ],
+  "languages": {
+    "Objective-C": {
+      "bytes": 6579,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:54.391Z"
+}

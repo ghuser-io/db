@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "typescript-talk-demo",
+  "full_name": "securingsincity/typescript-talk-demo",
+  "owner": "securingsincity",
+  "private": false,
+  "html_url": "https://github.com/securingsincity/typescript-talk-demo",
+  "description": "Demo repo for my typescript talk",
+  "fork": false,
+  "url": "https://api.github.com/repos/securingsincity/typescript-talk-demo",
+  "languages_url": "https://api.github.com/repos/securingsincity/typescript-talk-demo/languages",
+  "pulls_url": "https://api.github.com/repos/securingsincity/typescript-talk-demo/pulls{/number}",
+  "created_at": "2017-08-22T03:04:13Z",
+  "updated_at": "2017-09-12T13:57:00Z",
+  "pushed_at": "2017-08-22T03:17:46Z",
+  "homepage": null,
+  "size": 6,
+  "stargazers_count": 1,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "securingsincity": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "TypeScript": {
+      "bytes": 3065,
+      "color": "#2b7489"
+    },
+    "JavaScript": {
+      "bytes": 697,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T00:33:37.734Z"
+}

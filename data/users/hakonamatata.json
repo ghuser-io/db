@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "hakonamatata",
+  "ghuser_created_at": "2018-09-11T08:21:17.655Z",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/4003969?v=4",
+  "html_url": "https://github.com/hakonamatata",
+  "organizations_url": "https://api.github.com/users/hakonamatata/orgs",
+  "repos_url": "https://api.github.com/users/hakonamatata/repos",
+  "type": "User",
+  "name": "Jan Sviland",
+  "company": null,
+  "blog": "https://www.funnybit.org/",
+  "location": "Norway",
+  "email": null,
+  "bio": null,
+  "public_gists": 0,
+  "created_at": "2013-03-29T08:50:53Z",
+  "updated_at": "2018-09-06T12:54:21Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:13:55.853Z",
+    "repos": [
+      "hakonamatata/anchorme-angular-pipe",
+      "MarkPieszak/aspnetcore-angular2-universal",
+      "sindresorhus/screenfull.js",
+      "Isdas/Space-Cowboys",
+      "hakonamatata/convert-swagger-json-to-typescript-class-for-angular2",
+      "hakonamatata/focus-beskrivelse-translation",
+      "hakonamatata/Genetic-Algorithm",
+      "TwanoO67/bootstraping-ngx-admin-lte",
+      "kanekin/SharedDesk",
+      "hakonamatata/ImageProcessing",
+      "ollandos/SharedDesk",
+      "hakonamatata/WCF-Risk-Game",
+      "hakonamatata/simplified-DES-16-bit-encryption-decryption",
+      "hakonamatata/QuasarRAT"
+    ]
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "book-bucket",
+  "full_name": "dufferzafar/book-bucket",
+  "owner": "dufferzafar",
+  "private": false,
+  "html_url": "https://github.com/dufferzafar/book-bucket",
+  "description": "Find pairs of books that usually occur together in a person's favorite list.",
+  "fork": false,
+  "url": "https://api.github.com/repos/dufferzafar/book-bucket",
+  "languages_url": "https://api.github.com/repos/dufferzafar/book-bucket/languages",
+  "pulls_url": "https://api.github.com/repos/dufferzafar/book-bucket/pulls{/number}",
+  "created_at": "2014-09-05T11:50:40Z",
+  "updated_at": "2016-07-10T22:15:09Z",
+  "pushed_at": "2014-09-19T21:44:47Z",
+  "homepage": null,
+  "size": 596,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dufferzafar": 7
+  },
+  "pulls_authors": [
+    "agr-shrn"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 794725,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-03T12:57:04.467Z"
+}

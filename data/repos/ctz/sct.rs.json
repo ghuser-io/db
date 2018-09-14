@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sct.rs",
+  "full_name": "ctz/sct.rs",
+  "owner": "ctz",
+  "private": false,
+  "html_url": "https://github.com/ctz/sct.rs",
+  "description": "Certificate transparency SCT verification library in rust",
+  "fork": false,
+  "url": "https://api.github.com/repos/ctz/sct.rs",
+  "languages_url": "https://api.github.com/repos/ctz/sct.rs/languages",
+  "pulls_url": "https://api.github.com/repos/ctz/sct.rs/pulls{/number}",
+  "created_at": "2017-07-09T19:46:25Z",
+  "updated_at": "2018-07-15T11:00:59Z",
+  "pushed_at": "2018-07-17T00:35:26Z",
+  "homepage": null,
+  "size": 52,
+  "stargazers_count": 18,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "briansmith": 1,
+    "ctz": 32
+  },
+  "pulls_authors": [
+    "kpcyrd",
+    "briansmith"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 18456,
+      "color": "#dea584"
+    },
+    "Python": {
+      "bytes": 9075,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 453,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:15.591Z"
+}

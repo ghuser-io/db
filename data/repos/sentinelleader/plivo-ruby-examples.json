@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "plivo-ruby-examples",
+  "full_name": "sentinelleader/plivo-ruby-examples",
+  "owner": "sentinelleader",
+  "private": false,
+  "html_url": "https://github.com/sentinelleader/plivo-ruby-examples",
+  "description": "Plivo Ruby examples",
+  "fork": false,
+  "url": "https://api.github.com/repos/sentinelleader/plivo-ruby-examples",
+  "languages_url": "https://api.github.com/repos/sentinelleader/plivo-ruby-examples/languages",
+  "pulls_url": "https://api.github.com/repos/sentinelleader/plivo-ruby-examples/pulls{/number}",
+  "created_at": "2014-01-05T19:18:51Z",
+  "updated_at": "2015-02-24T00:54:02Z",
+  "pushed_at": "2014-01-13T14:47:10Z",
+  "homepage": null,
+  "size": 160,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sentinelleader": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 19831,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-10T15:12:15.171Z"
+}

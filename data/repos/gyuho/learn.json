@@ -1,0 +1,95 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "flowchartsman": 1,
+    "Calinou": 1,
+    "gyuho": 720
+  },
+  "name": "learn",
+  "full_name": "gyuho/learn",
+  "owner": "gyuho",
+  "private": false,
+  "html_url": "https://github.com/gyuho/learn",
+  "description": "learn",
+  "fork": false,
+  "url": "https://api.github.com/repos/gyuho/learn",
+  "languages_url": "https://api.github.com/repos/gyuho/learn/languages",
+  "created_at": "2015-09-08T13:36:08Z",
+  "updated_at": "2018-09-13T08:44:53Z",
+  "pushed_at": "2017-01-11T01:42:40Z",
+  "homepage": "https://github.com/gyuho/learn#contents",
+  "size": 63194,
+  "stargazers_count": 673,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "languages": {
+    "Go": {
+      "bytes": 787803,
+      "color": "#375eab"
+    },
+    "C++": {
+      "bytes": 67439,
+      "color": "#f34b7d"
+    },
+    "Shell": {
+      "bytes": 28898,
+      "color": "#89e051"
+    },
+    "C": {
+      "bytes": 12644,
+      "color": "#555555"
+    },
+    "Python": {
+      "bytes": 11948,
+      "color": "#3572A5"
+    },
+    "Vim script": {
+      "bytes": 5577,
+      "color": "#199f4b"
+    },
+    "HTML": {
+      "bytes": 3136,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 2677,
+      "color": "#f1e05a"
+    },
+    "Protocol Buffer": {
+      "bytes": 2308,
+      "color": "#ccc"
+    },
+    "Assembly": {
+      "bytes": 2124,
+      "color": "#6E4C13"
+    },
+    "TypeScript": {
+      "bytes": 1505,
+      "color": "#2b7489"
+    },
+    "Nginx": {
+      "bytes": 819,
+      "color": "#ccc"
+    },
+    "Java": {
+      "bytes": 305,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-13T16:25:52.665Z",
+  "pulls_url": "https://api.github.com/repos/gyuho/learn/pulls{/number}",
+  "pulls_authors": [
+    "gyuho",
+    "flowchartsman",
+    "Calinou"
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 1,
+    "fb39ca4": 2,
+    "abandoned-cocoon": 3,
+    "plankatron": 10,
+    "lsalzman": 10,
+    "q66": 2634
+  },
+  "name": "OF-Engine",
+  "full_name": "OctaForge/OF-Engine",
+  "owner": "OctaForge",
+  "private": false,
+  "html_url": "https://github.com/OctaForge/OF-Engine",
+  "description": "A mirror of the OctaForge engine repository",
+  "fork": false,
+  "url": "https://api.github.com/repos/OctaForge/OF-Engine",
+  "languages_url": "https://api.github.com/repos/OctaForge/OF-Engine/languages",
+  "created_at": "2011-04-12T22:51:25Z",
+  "updated_at": "2018-07-24T13:32:03Z",
+  "pushed_at": "2016-01-05T16:29:34Z",
+  "homepage": "https://git.octaforge.org/engine/octaforge.git",
+  "size": 69892,
+  "stargazers_count": 54,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "OctaForge",
+    "id": 723473,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjcyMzQ3Mw==",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/723473?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/OctaForge",
+    "html_url": "https://github.com/OctaForge",
+    "followers_url": "https://api.github.com/users/OctaForge/followers",
+    "following_url": "https://api.github.com/users/OctaForge/following{/other_user}",
+    "gists_url": "https://api.github.com/users/OctaForge/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/OctaForge/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/OctaForge/subscriptions",
+    "organizations_url": "https://api.github.com/users/OctaForge/orgs",
+    "repos_url": "https://api.github.com/users/OctaForge/repos",
+    "events_url": "https://api.github.com/users/OctaForge/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/OctaForge/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "C++": {
+      "bytes": 3025820,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 243196,
+      "color": "#555555"
+    },
+    "Lua": {
+      "bytes": 193386,
+      "color": "#000080"
+    },
+    "Makefile": {
+      "bytes": 57592,
+      "color": "#427819"
+    },
+    "Vim script": {
+      "bytes": 6455,
+      "color": "#199f4b"
+    },
+    "TeX": {
+      "bytes": 2507,
+      "color": "#3D6117"
+    },
+    "Shell": {
+      "bytes": 2137,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 1866,
+      "color": "#3572A5"
+    },
+    "Objective-C": {
+      "bytes": 1747,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-07-24T14:33:12.483Z",
+  "pulls_url": "https://api.github.com/repos/OctaForge/OF-Engine/pulls{/number}",
+  "pulls_authors": [
+    "fb39ca4",
+    "Calinou",
+    "usure"
+  ]
+}

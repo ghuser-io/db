@@ -1,0 +1,339 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "FizzBuzz",
+  "full_name": "zenware/FizzBuzz",
+  "owner": "zenware",
+  "private": false,
+  "html_url": "https://github.com/zenware/FizzBuzz",
+  "description": "FizzBuzz in every programming language, inspired by https://github.com/leachim6/hello-world",
+  "fork": false,
+  "url": "https://api.github.com/repos/zenware/FizzBuzz",
+  "languages_url": "https://api.github.com/repos/zenware/FizzBuzz/languages",
+  "pulls_url": "https://api.github.com/repos/zenware/FizzBuzz/pulls{/number}",
+  "created_at": "2015-04-06T21:20:57Z",
+  "updated_at": "2018-09-10T20:21:31Z",
+  "pushed_at": "2018-09-10T20:21:29Z",
+  "homepage": null,
+  "size": 97,
+  "stargazers_count": 89,
+  "language": "Brainfuck",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "shlomif": 1,
+    "snood1205": 1,
+    "lynn": 1,
+    "RyanMalaspina": 1,
+    "lrlucena": 1,
+    "sergey-lagutin": 1,
+    "jswrenn": 1,
+    "14mRh4X0r": 1,
+    "gkamita": 1,
+    "YC": 1,
+    "vekat": 1,
+    "YoniKF": 1,
+    "gdetrez": 1,
+    "clarkzjw": 1,
+    "mohamed-aziz": 2,
+    "the-kid89": 2,
+    "havanagrawal": 2,
+    "crhenr": 2,
+    "yous": 2,
+    "chc4": 2,
+    "Denton-L": 2,
+    "Xdminsy": 3,
+    "l0stfake7": 3,
+    "rhedshi": 3,
+    "sunnypatel165": 4,
+    "mikasjp": 5,
+    "Noy": 5,
+    "alpha123": 5,
+    "me-and": 7,
+    "NicholasFeldman": 10,
+    "zenware": 10,
+    "project-delphi": 13,
+    "nloveladyallen": 24,
+    "joergen7": 1,
+    "x-t": 1
+  },
+  "pulls_authors": [
+    "joergen7",
+    "nickwanninger",
+    "mohamed-aziz",
+    "shlomif",
+    "Odd1In",
+    "mikasjp",
+    "Noy",
+    "snood1205",
+    "the-kid89",
+    "olegispe",
+    "NicholasFeldman",
+    "lynn",
+    "winters-brown",
+    "RyanMalaspina",
+    "nurlansu",
+    "kolybasov",
+    "sunnypatel165",
+    "havanagrawal",
+    "Xdminsy",
+    "lrlucena",
+    "crhenr",
+    "sergey-lagutin",
+    "ghost",
+    "alpha123",
+    "nloveladyallen",
+    "project-delphi",
+    "yous",
+    "jswrenn",
+    "lapanti",
+    "mydzor",
+    "14mRh4X0r",
+    "me-and",
+    "gkamita",
+    "l0stfake7",
+    "YC",
+    "vekat",
+    "rhedshi",
+    "chc4",
+    "YoniKF",
+    "SivanMehta",
+    "Denton-L",
+    "gdetrez",
+    "cquinn",
+    "clarkzjw",
+    "x-t"
+  ],
+  "languages": {
+    "Brainfuck": {
+      "bytes": 4425,
+      "color": "#2F2530"
+    },
+    "Assembly": {
+      "bytes": 3643,
+      "color": "#6E4C13"
+    },
+    "COBOL": {
+      "bytes": 1404,
+      "color": "#ccc"
+    },
+    "Mercury": {
+      "bytes": 1083,
+      "color": "#ff2b2b"
+    },
+    "LOLCODE": {
+      "bytes": 1071,
+      "color": "#cc9900"
+    },
+    "Shell": {
+      "bytes": 947,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 904,
+      "color": "#3572A5"
+    },
+    "Jasmin": {
+      "bytes": 810,
+      "color": "#ccc"
+    },
+    "C#": {
+      "bytes": 740,
+      "color": "#178600"
+    },
+    "Ada": {
+      "bytes": 664,
+      "color": "#02f88c"
+    },
+    "OpenEdge ABL": {
+      "bytes": 613,
+      "color": "#ccc"
+    },
+    "Matlab": {
+      "bytes": 598,
+      "color": "#e16737"
+    },
+    "Objective-C": {
+      "bytes": 592,
+      "color": "#438eff"
+    },
+    "Visual Basic": {
+      "bytes": 591,
+      "color": "#945db7"
+    },
+    "Elm": {
+      "bytes": 571,
+      "color": "#60B5CC"
+    },
+    "AppleScript": {
+      "bytes": 496,
+      "color": "#101F1F"
+    },
+    "Java": {
+      "bytes": 491,
+      "color": "#b07219"
+    },
+    "Fortran": {
+      "bytes": 449,
+      "color": "#4d41b1"
+    },
+    "Erlang": {
+      "bytes": 436,
+      "color": "#B83998"
+    },
+    "CSS": {
+      "bytes": 433,
+      "color": "#563d7c"
+    },
+    "C++": {
+      "bytes": 428,
+      "color": "#f34b7d"
+    },
+    "Racket": {
+      "bytes": 406,
+      "color": "#22228f"
+    },
+    "C": {
+      "bytes": 383,
+      "color": "#555555"
+    },
+    "Emacs Lisp": {
+      "bytes": 374,
+      "color": "#c065db"
+    },
+    "Go": {
+      "bytes": 345,
+      "color": "#375eab"
+    },
+    "PHP": {
+      "bytes": 330,
+      "color": "#4F5D95"
+    },
+    "Pony": {
+      "bytes": 328,
+      "color": "#ccc"
+    },
+    "Forth": {
+      "bytes": 315,
+      "color": "#341708"
+    },
+    "JavaScript": {
+      "bytes": 305,
+      "color": "#f1e05a"
+    },
+    "Clojure": {
+      "bytes": 301,
+      "color": "#db5855"
+    },
+    "R": {
+      "bytes": 295,
+      "color": "#198CE7"
+    },
+    "Kotlin": {
+      "bytes": 283,
+      "color": "#F18E33"
+    },
+    "OCaml": {
+      "bytes": 278,
+      "color": "#3be133"
+    },
+    "Swift": {
+      "bytes": 278,
+      "color": "#ffac45"
+    },
+    "Dart": {
+      "bytes": 273,
+      "color": "#00B4AB"
+    },
+    "Scilab": {
+      "bytes": 271,
+      "color": "#ccc"
+    },
+    "D": {
+      "bytes": 269,
+      "color": "#ba595e"
+    },
+    "Rust": {
+      "bytes": 268,
+      "color": "#dea584"
+    },
+    "Lua": {
+      "bytes": 268,
+      "color": "#000080"
+    },
+    "Scala": {
+      "bytes": 265,
+      "color": "#c22d40"
+    },
+    "Tcl": {
+      "bytes": 257,
+      "color": "#e4cc98"
+    },
+    "Chapel": {
+      "bytes": 247,
+      "color": "#8dc63f"
+    },
+    "Io": {
+      "bytes": 245,
+      "color": "#a9188d"
+    },
+    "TypeScript": {
+      "bytes": 245,
+      "color": "#2b7489"
+    },
+    "Nim": {
+      "bytes": 245,
+      "color": "#37775b"
+    },
+    "Batchfile": {
+      "bytes": 240,
+      "color": "#C1F12E"
+    },
+    "Haskell": {
+      "bytes": 228,
+      "color": "#5e5086"
+    },
+    "CoffeeScript": {
+      "bytes": 227,
+      "color": "#244776"
+    },
+    "Julia": {
+      "bytes": 217,
+      "color": "#a270ba"
+    },
+    "Groovy": {
+      "bytes": 215,
+      "color": "#e69f56"
+    },
+    "Perl": {
+      "bytes": 214,
+      "color": "#0298c3"
+    },
+    "Crystal": {
+      "bytes": 209,
+      "color": "#776791"
+    },
+    "Elixir": {
+      "bytes": 207,
+      "color": "#6e4a7e"
+    },
+    "Ruby": {
+      "bytes": 205,
+      "color": "#701516"
+    },
+    "Common Lisp": {
+      "bytes": 200,
+      "color": "#3fb68b"
+    },
+    "F#": {
+      "bytes": 192,
+      "color": "#b845fc"
+    },
+    "Perl 6": {
+      "bytes": 178,
+      "color": "#0000fb"
+    }
+  },
+  "fetched_at": "2018-09-10T21:32:57.490Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "id115-firmware-dump",
+  "full_name": "ctz/id115-firmware-dump",
+  "owner": "ctz",
+  "private": false,
+  "html_url": "https://github.com/ctz/id115-firmware-dump",
+  "description": "Dumping firmware from an ID115 fitness band",
+  "fork": false,
+  "url": "https://api.github.com/repos/ctz/id115-firmware-dump",
+  "languages_url": "https://api.github.com/repos/ctz/id115-firmware-dump/languages",
+  "pulls_url": "https://api.github.com/repos/ctz/id115-firmware-dump/pulls{/number}",
+  "created_at": "2018-06-16T09:27:40Z",
+  "updated_at": "2018-09-07T12:51:30Z",
+  "pushed_at": "2018-06-16T12:17:38Z",
+  "homepage": null,
+  "size": 335,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ctz": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 559,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:15.857Z"
+}

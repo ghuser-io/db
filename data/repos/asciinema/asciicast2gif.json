@@ -1,0 +1,89 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "asciicast2gif",
+  "full_name": "asciinema/asciicast2gif",
+  "owner": "asciinema",
+  "private": false,
+  "html_url": "https://github.com/asciinema/asciicast2gif",
+  "description": "Generate GIF animations from asciicasts (asciinema recordings)",
+  "fork": false,
+  "url": "https://api.github.com/repos/asciinema/asciicast2gif",
+  "languages_url": "https://api.github.com/repos/asciinema/asciicast2gif/languages",
+  "pulls_url": "https://api.github.com/repos/asciinema/asciicast2gif/pulls{/number}",
+  "created_at": "2017-04-26T14:35:24Z",
+  "updated_at": "2018-09-12T09:07:54Z",
+  "pushed_at": "2018-05-14T07:04:25Z",
+  "homepage": "",
+  "size": 1489,
+  "stargazers_count": 334,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "asciinema",
+    "id": 6506055,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY1MDYwNTU=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/6506055?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/asciinema",
+    "html_url": "https://github.com/asciinema",
+    "followers_url": "https://api.github.com/users/asciinema/followers",
+    "following_url": "https://api.github.com/users/asciinema/following{/other_user}",
+    "gists_url": "https://api.github.com/users/asciinema/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/asciinema/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/asciinema/subscriptions",
+    "organizations_url": "https://api.github.com/users/asciinema/orgs",
+    "repos_url": "https://api.github.com/users/asciinema/repos",
+    "events_url": "https://api.github.com/users/asciinema/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/asciinema/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "CJHackerz": 1,
+    "anishkny": 3,
+    "publicarray": 4,
+    "sickill": 97
+  },
+  "pulls_authors": [
+    "CJHackerz",
+    "anishkny",
+    "publicarray",
+    "sickill"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 51303,
+      "color": "#563d7c"
+    },
+    "Clojure": {
+      "bytes": 9723,
+      "color": "#db5855"
+    },
+    "JavaScript": {
+      "bytes": 8404,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 3706,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 2965,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 273,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:33:33.800Z"
+}

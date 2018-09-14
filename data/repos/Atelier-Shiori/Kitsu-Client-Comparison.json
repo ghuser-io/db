@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Kitsu-Client-Comparison",
+  "full_name": "Atelier-Shiori/Kitsu-Client-Comparison",
+  "owner": "Atelier-Shiori",
+  "private": false,
+  "html_url": "https://github.com/Atelier-Shiori/Kitsu-Client-Comparison",
+  "description": "Comparison of Kitsu Clients",
+  "fork": false,
+  "url": "https://api.github.com/repos/Atelier-Shiori/Kitsu-Client-Comparison",
+  "languages_url": "https://api.github.com/repos/Atelier-Shiori/Kitsu-Client-Comparison/languages",
+  "pulls_url": "https://api.github.com/repos/Atelier-Shiori/Kitsu-Client-Comparison/pulls{/number}",
+  "created_at": "2017-03-17T02:51:59Z",
+  "updated_at": "2018-07-02T03:02:13Z",
+  "pushed_at": "2018-07-02T03:02:12Z",
+  "homepage": "https://atelier-shiori.github.io/Kitsu-Client-Comparison/",
+  "size": 5932,
+  "stargazers_count": 3,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "cc0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "spdx_id": "CC0-1.0",
+    "url": "https://api.github.com/licenses/cc0-1.0",
+    "node_id": "MDc6TGljZW5zZTY="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "Atelier-Shiori",
+    "id": 10914575,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwOTE0NTc1",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/10914575?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Atelier-Shiori",
+    "html_url": "https://github.com/Atelier-Shiori",
+    "followers_url": "https://api.github.com/users/Atelier-Shiori/followers",
+    "following_url": "https://api.github.com/users/Atelier-Shiori/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Atelier-Shiori/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Atelier-Shiori/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Atelier-Shiori/subscriptions",
+    "organizations_url": "https://api.github.com/users/Atelier-Shiori/orgs",
+    "repos_url": "https://api.github.com/users/Atelier-Shiori/repos",
+    "events_url": "https://api.github.com/users/Atelier-Shiori/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Atelier-Shiori/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "matthewdias": 1,
+    "wopian": 2,
+    "moyitpro": 12
+  },
+  "pulls_authors": [
+    "wopian",
+    "matthewdias"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 12630,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 10977,
+      "color": "#e34c26"
+    },
+    "Ruby": {
+      "bytes": 1200,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 384,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:34.058Z"
+}

@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 1,
+    "joelperry93": 1,
+    "eliotfallon213": 1
+  },
+  "name": "snowfallcanvas",
+  "full_name": "bjldigital/snowfallcanvas",
+  "owner": "bjldigital",
+  "private": false,
+  "html_url": "https://github.com/bjldigital/snowfallcanvas",
+  "description": "Adds snowfall to any HTML element",
+  "fork": false,
+  "url": "https://api.github.com/repos/bjldigital/snowfallcanvas",
+  "languages_url": "https://api.github.com/repos/bjldigital/snowfallcanvas/languages",
+  "created_at": "2015-11-30T12:00:30Z",
+  "updated_at": "2016-12-15T15:21:47Z",
+  "pushed_at": "2015-12-11T14:59:36Z",
+  "homepage": null,
+  "size": 4113,
+  "stargazers_count": 27,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "bjldigital",
+    "id": 15048288,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1MDQ4Mjg4",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/15048288?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/bjldigital",
+    "html_url": "https://github.com/bjldigital",
+    "followers_url": "https://api.github.com/users/bjldigital/followers",
+    "following_url": "https://api.github.com/users/bjldigital/following{/other_user}",
+    "gists_url": "https://api.github.com/users/bjldigital/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/bjldigital/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/bjldigital/subscriptions",
+    "organizations_url": "https://api.github.com/users/bjldigital/orgs",
+    "repos_url": "https://api.github.com/users/bjldigital/repos",
+    "events_url": "https://api.github.com/users/bjldigital/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/bjldigital/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "CSS": {
+      "bytes": 45112,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 18862,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 4468,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/bjldigital/snowfallcanvas/pulls{/number}",
+  "pulls_authors": [
+    "Calinou",
+    "b-",
+    "joelperry93"
+  ]
+}

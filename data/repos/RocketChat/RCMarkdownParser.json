@@ -1,0 +1,74 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "RCMarkdownParser",
+  "full_name": "RocketChat/RCMarkdownParser",
+  "owner": "RocketChat",
+  "private": false,
+  "html_url": "https://github.com/RocketChat/RCMarkdownParser",
+  "description": "Markdown parser for Rocket.Chat.iOS (a modified version of @LyokoTech/LTMarkdownParser)",
+  "fork": false,
+  "url": "https://api.github.com/repos/RocketChat/RCMarkdownParser",
+  "languages_url": "https://api.github.com/repos/RocketChat/RCMarkdownParser/languages",
+  "pulls_url": "https://api.github.com/repos/RocketChat/RCMarkdownParser/pulls{/number}",
+  "created_at": "2017-09-11T01:46:49Z",
+  "updated_at": "2018-07-25T22:46:01Z",
+  "pushed_at": "2018-07-25T22:46:00Z",
+  "homepage": null,
+  "size": 382,
+  "stargazers_count": 4,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "RocketChat",
+    "id": 12508788,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyNTA4Nzg4",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/12508788?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/RocketChat",
+    "html_url": "https://github.com/RocketChat",
+    "followers_url": "https://api.github.com/users/RocketChat/followers",
+    "following_url": "https://api.github.com/users/RocketChat/following{/other_user}",
+    "gists_url": "https://api.github.com/users/RocketChat/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/RocketChat/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/RocketChat/subscriptions",
+    "organizations_url": "https://api.github.com/users/RocketChat/orgs",
+    "repos_url": "https://api.github.com/users/RocketChat/repos",
+    "events_url": "https://api.github.com/users/RocketChat/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/RocketChat/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "rafaelks": 1,
+    "gitmagic-bot": 1,
+    "nickmshelley": 5,
+    "brandenr": 6,
+    "SerenadeX": 21,
+    "cardoso": 27
+  },
+  "pulls_authors": [
+    "cardoso",
+    "artrmz",
+    "rafaelks"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 86886,
+      "color": "#ffac45"
+    },
+    "Ruby": {
+      "bytes": 1969,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-03T21:47:33.009Z"
+}

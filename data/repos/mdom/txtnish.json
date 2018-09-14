@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "txtnish",
+  "full_name": "mdom/txtnish",
+  "owner": "mdom",
+  "private": false,
+  "html_url": "https://github.com/mdom/txtnish",
+  "description": "A twtxt client with minimal dependencies",
+  "fork": false,
+  "url": "https://api.github.com/repos/mdom/txtnish",
+  "languages_url": "https://api.github.com/repos/mdom/txtnish/languages",
+  "pulls_url": "https://api.github.com/repos/mdom/txtnish/pulls{/number}",
+  "created_at": "2017-02-11T23:13:53Z",
+  "updated_at": "2018-09-11T07:43:31Z",
+  "pushed_at": "2018-09-11T07:43:29Z",
+  "homepage": "",
+  "size": 165,
+  "stargazers_count": 74,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ckeen": 1,
+    "trqx": 1,
+    "aloisdg": 1,
+    "tdemin": 18,
+    "mdom": 245
+  },
+  "pulls_authors": [
+    "ckeen",
+    "tdemin",
+    "ghost",
+    "aloisdg"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 38371,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 214,
+      "color": "#427819"
+    },
+    "Perl": {
+      "bytes": 91,
+      "color": "#0298c3"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:10.391Z"
+}

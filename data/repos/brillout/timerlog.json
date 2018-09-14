@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "timerlog",
+  "full_name": "brillout/timerlog",
+  "owner": "brillout",
+  "private": false,
+  "html_url": "https://github.com/brillout/timerlog",
+  "description": "A small utility to measure and log time",
+  "fork": false,
+  "url": "https://api.github.com/repos/brillout/timerlog",
+  "languages_url": "https://api.github.com/repos/brillout/timerlog/languages",
+  "created_at": "2016-08-01T12:16:48Z",
+  "updated_at": "2016-11-15T18:30:57Z",
+  "pushed_at": "2017-09-30T21:01:02Z",
+  "homepage": "",
+  "size": 41,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "cc0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "spdx_id": "CC0-1.0",
+    "url": "https://api.github.com/licenses/cc0-1.0",
+    "node_id": "MDc6TGljZW5zZTY="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "AurelienLourot": 1,
+    "brillout": 26
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 10445,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/brillout/timerlog/pulls{/number}",
+  "pulls_authors": [
+    "AurelienLourot"
+  ]
+}

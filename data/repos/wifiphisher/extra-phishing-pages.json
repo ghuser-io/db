@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "extra-phishing-pages",
+  "full_name": "wifiphisher/extra-phishing-pages",
+  "owner": "wifiphisher",
+  "private": false,
+  "html_url": "https://github.com/wifiphisher/extra-phishing-pages",
+  "description": "Community-built scenarios for Wifiphisher",
+  "fork": false,
+  "url": "https://api.github.com/repos/wifiphisher/extra-phishing-pages",
+  "languages_url": "https://api.github.com/repos/wifiphisher/extra-phishing-pages/languages",
+  "pulls_url": "https://api.github.com/repos/wifiphisher/extra-phishing-pages/pulls{/number}",
+  "created_at": "2017-02-26T18:36:17Z",
+  "updated_at": "2018-09-08T18:09:44Z",
+  "pushed_at": "2018-01-27T15:10:41Z",
+  "homepage": "",
+  "size": 2382,
+  "stargazers_count": 59,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "wifiphisher",
+    "id": 25661467,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1NjYxNDY3",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/25661467?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/wifiphisher",
+    "html_url": "https://github.com/wifiphisher",
+    "followers_url": "https://api.github.com/users/wifiphisher/followers",
+    "following_url": "https://api.github.com/users/wifiphisher/following{/other_user}",
+    "gists_url": "https://api.github.com/users/wifiphisher/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/wifiphisher/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/wifiphisher/subscriptions",
+    "organizations_url": "https://api.github.com/users/wifiphisher/orgs",
+    "repos_url": "https://api.github.com/users/wifiphisher/repos",
+    "events_url": "https://api.github.com/users/wifiphisher/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/wifiphisher/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "anakin1028": 1,
+    "kbeflo": 4,
+    "sophron": 7,
+    "laozi999": 9,
+    "Splinter0": 16
+  },
+  "pulls_authors": [
+    "anakin1028",
+    "kbeflo",
+    "thehappydinoa",
+    "stefjoe12",
+    "Splinter0",
+    "laozi999"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 54192,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 15693,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 294,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-09T03:13:18.488Z"
+}

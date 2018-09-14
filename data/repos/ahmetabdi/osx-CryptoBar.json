@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "osx-CryptoBar",
+  "full_name": "ahmetabdi/osx-CryptoBar",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/osx-CryptoBar",
+  "description": ":dollar: MenuBar OS X App to constantly get the latest selling price for cryptocurrencys, written in RubyMotion.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ahmetabdi/osx-CryptoBar",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/osx-CryptoBar/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/osx-CryptoBar/pulls{/number}",
+  "created_at": "2014-01-15T09:05:45Z",
+  "updated_at": "2017-08-14T11:19:15Z",
+  "pushed_at": "2014-01-31T13:05:15Z",
+  "homepage": "",
+  "size": 5460,
+  "stargazers_count": 3,
+  "language": "Objective-C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 9
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Objective-C": {
+      "bytes": 2950,
+      "color": "#438eff"
+    },
+    "Ruby": {
+      "bytes": 2949,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:05.935Z"
+}

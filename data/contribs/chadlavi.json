@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "chadlavi/chadlavimoniere.com": {
+      "full_name": "chadlavi/chadlavimoniere.com",
+      "name": "chadlavimoniere.com",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 3.0812778831690517,
+      "total_commits_count": 160,
+      "activity": 5,
+      "total_score": 11.162555766338103,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "chadlavi/recipes": {
+      "full_name": "chadlavi/recipes",
+      "name": "recipes",
+      "stargazers_count": 4,
+      "popularity": 1.49139952161816,
+      "percentage": 100,
+      "maturity": 2.547038498146359,
+      "total_commits_count": 75,
+      "activity": 2.6297030562876507,
+      "total_score": 31.586172398470925,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "NasdaqDesign/mosaiq": {
+      "full_name": "NasdaqDesign/mosaiq",
+      "name": "mosaiq",
+      "stargazers_count": 40,
+      "popularity": 2.5922157460826476,
+      "percentage": 14.285714285714286,
+      "maturity": 0,
+      "total_commits_count": 7,
+      "activity": 1.3371784566656801,
+      "total_score": 13.927940651924256,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "chadlavi/new-mac": {
+      "full_name": "chadlavi/new-mac",
+      "name": "new-mac",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 37,
+      "activity": 0.8613728885312888,
+      "total_score": 17.52422441561833,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "heyitsolivia/secretpuppies": {
+      "full_name": "heyitsolivia/secretpuppies",
+      "name": "secretpuppies",
+      "stargazers_count": 61,
+      "popularity": 2.7789134956195785,
+      "percentage": 1.1363636363636365,
+      "maturity": 2.6838777923650987,
+      "total_commits_count": 88,
+      "activity": 1.3369230635689466,
+      "total_score": 15.451940447010772,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "NasdaqDesign"
+  ]
+}

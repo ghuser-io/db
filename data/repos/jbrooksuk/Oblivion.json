@@ -1,0 +1,33 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Oblivion",
+  "full_name": "jbrooksuk/Oblivion",
+  "owner": "jbrooksuk",
+  "private": false,
+  "html_url": "https://github.com/jbrooksuk/Oblivion",
+  "description": "A customized Oblivion theme for Sublime Text, originally created by Paolo Borelli.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jbrooksuk/Oblivion",
+  "languages_url": "https://api.github.com/repos/jbrooksuk/Oblivion/languages",
+  "pulls_url": "https://api.github.com/repos/jbrooksuk/Oblivion/pulls{/number}",
+  "created_at": "2011-10-25T10:23:38Z",
+  "updated_at": "2017-09-06T17:08:00Z",
+  "pushed_at": "2014-03-19T21:38:50Z",
+  "homepage": "https://james-brooks.uk",
+  "size": 318,
+  "stargazers_count": 11,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "KatieK2": 1,
+    "jbrooksuk": 19
+  },
+  "pulls_authors": [
+    "KatieK2"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-12T07:34:58.253Z"
+}

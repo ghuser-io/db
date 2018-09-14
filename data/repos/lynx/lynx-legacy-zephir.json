@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "lynx-legacy-zephir",
+  "full_name": "lynx/lynx-legacy-zephir",
+  "owner": "lynx",
+  "private": false,
+  "html_url": "https://github.com/lynx/lynx-legacy-zephir",
+  "description": "Lynx",
+  "fork": false,
+  "url": "https://api.github.com/repos/lynx/lynx-legacy-zephir",
+  "languages_url": "https://api.github.com/repos/lynx/lynx-legacy-zephir/languages",
+  "pulls_url": "https://api.github.com/repos/lynx/lynx-legacy-zephir/pulls{/number}",
+  "created_at": "2014-01-27T06:27:22Z",
+  "updated_at": "2018-06-11T01:29:19Z",
+  "pushed_at": "2015-05-10T11:22:21Z",
+  "homepage": "http://lynx.github.io/lynx",
+  "size": 3968,
+  "stargazers_count": 28,
+  "language": "Zephir",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "lynx",
+    "id": 7085871,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjcwODU4NzE=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/7085871?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/lynx",
+    "html_url": "https://github.com/lynx",
+    "followers_url": "https://api.github.com/users/lynx/followers",
+    "following_url": "https://api.github.com/users/lynx/following{/other_user}",
+    "gists_url": "https://api.github.com/users/lynx/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/lynx/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/lynx/subscriptions",
+    "organizations_url": "https://api.github.com/users/lynx/orgs",
+    "repos_url": "https://api.github.com/users/lynx/repos",
+    "events_url": "https://api.github.com/users/lynx/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/lynx/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "andresgutierrez": 1,
+    "Green-Cat": 2,
+    "tmihalik": 2,
+    "ovr": 341
+  },
+  "pulls_authors": [
+    "Green-Cat",
+    "tmihalik",
+    "andresgutierrez"
+  ],
+  "languages": {
+    "Zephir": {
+      "bytes": 66704,
+      "color": "#118f9e"
+    },
+    "C": {
+      "bytes": 38630,
+      "color": "#555555"
+    },
+    "PHP": {
+      "bytes": 20971,
+      "color": "#4F5D95"
+    },
+    "Shell": {
+      "bytes": 1024,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:51.812Z"
+}

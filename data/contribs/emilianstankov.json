@@ -1,0 +1,126 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "antoan-angelov/Smartnik": {
+      "full_name": "antoan-angelov/Smartnik",
+      "name": "Smartnik",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 26.865671641791046,
+      "maturity": 2.4346992151481284,
+      "total_commits_count": 67,
+      "activity": 0.7929941738336748,
+      "total_score": 5.6623926041299315,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "fmi/go-lectures": {
+      "full_name": "fmi/go-lectures",
+      "name": "go-lectures",
+      "stargazers_count": 14,
+      "popularity": 2.117310085935697,
+      "percentage": 0.9523809523809523,
+      "maturity": 2.8153146453382947,
+      "total_commits_count": 105,
+      "activity": 1.9218555929407648,
+      "total_score": 14.166558294921245,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "EmilianStankov/MongoDBPractice": {
+      "full_name": "EmilianStankov/MongoDBPractice",
+      "name": "MongoDBPractice",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 36,
+      "activity": 0.5152294974457909,
+      "total_score": 0.5152294974457909,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "nikoladimitroff/DSA-Demo-Library": {
+      "full_name": "nikoladimitroff/DSA-Demo-Library",
+      "name": "DSA-Demo-Library",
+      "stargazers_count": 6,
+      "popularity": 1.7076084983408428,
+      "percentage": 0,
+      "maturity": 2.3653407969119673,
+      "total_commits_count": 63,
+      "activity": 0.5945356847950176,
+      "total_score": 10.44804277364148,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "fmi/ruby-lectures": {
+      "full_name": "fmi/ruby-lectures",
+      "name": "ruby-lectures",
+      "stargazers_count": 16,
+      "popularity": 2.179015777092762,
+      "percentage": 0.6896551724137931,
+      "maturity": 3.399849317475938,
+      "total_commits_count": 290,
+      "activity": 0.8014332897179468,
+      "total_score": 14.333539291135734,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "EmilianStankov/emilianstankov.github.io": {
+      "full_name": "EmilianStankov/emilianstankov.github.io",
+      "name": "emilianstankov.github.io",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 20,
+      "activity": 0.4173431228294531,
+      "total_score": 17.080194649916496,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "fmi/python-homework": {
+      "full_name": "fmi/python-homework",
+      "name": "python-homework",
+      "stargazers_count": 6,
+      "popularity": 1.7076084983408428,
+      "percentage": 0,
+      "maturity": 2.979915013406333,
+      "total_commits_count": 135,
+      "activity": 1.4854363807582662,
+      "total_score": 12.56809190259346,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "HackBulgaria/Programming101": {
+      "full_name": "HackBulgaria/Programming101",
+      "name": "Programming101",
+      "stargazers_count": 19,
+      "popularity": 2.2577174475727126,
+      "percentage": 1.680672268907563,
+      "maturity": 2.899910611391032,
+      "total_commits_count": 119,
+      "activity": 0.3946072007702579,
+      "total_score": 13.460863569941809,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "EmilianStankov/Pong": {
+      "full_name": "EmilianStankov/Pong",
+      "name": "Pong",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 61.36363636363637,
+      "maturity": 1.614477908582291,
+      "total_commits_count": 44,
+      "activity": 0.3370689306348167,
+      "total_score": 14.998066349479856,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "fmi",
+    "HackBulgaria"
+  ]
+}

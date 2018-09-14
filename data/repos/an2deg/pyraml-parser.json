@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pyraml-parser",
+  "full_name": "an2deg/pyraml-parser",
+  "owner": "an2deg",
+  "private": false,
+  "html_url": "https://github.com/an2deg/pyraml-parser",
+  "description": "pyraml-parser - Python parser to RAML, the RESTful API Modeling Language.",
+  "fork": false,
+  "url": "https://api.github.com/repos/an2deg/pyraml-parser",
+  "languages_url": "https://api.github.com/repos/an2deg/pyraml-parser/languages",
+  "pulls_url": "https://api.github.com/repos/an2deg/pyraml-parser/pulls{/number}",
+  "created_at": "2014-03-01T08:51:27Z",
+  "updated_at": "2018-03-25T05:58:04Z",
+  "pushed_at": "2017-10-07T10:20:09Z",
+  "homepage": null,
+  "size": 283,
+  "stargazers_count": 80,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "aspear": 1,
+    "Moraga": 1,
+    "Deadleg": 1,
+    "vlcinsky": 1,
+    "jayvdb": 2,
+    "elifiner": 2,
+    "blindscreen": 2,
+    "relaxdiego": 2,
+    "an2deg": 20,
+    "postatum": 35
+  },
+  "pulls_authors": [
+    "ntoofu",
+    "aspear",
+    "thomasmorin92",
+    "an2deg",
+    "jayvdb",
+    "Moraga",
+    "Deadleg",
+    "vlcinsky",
+    "pipermerriam",
+    "elifiner",
+    "postatum",
+    "blindscreen",
+    "relaxdiego"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 79235,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

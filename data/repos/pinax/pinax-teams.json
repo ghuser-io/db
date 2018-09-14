@@ -1,0 +1,97 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pinax-teams",
+  "full_name": "pinax/pinax-teams",
+  "owner": "pinax",
+  "private": false,
+  "html_url": "https://github.com/pinax/pinax-teams",
+  "description": "an app for Django sites that supports open, by invitation, and by application teams",
+  "fork": false,
+  "url": "https://api.github.com/repos/pinax/pinax-teams",
+  "languages_url": "https://api.github.com/repos/pinax/pinax-teams/languages",
+  "pulls_url": "https://api.github.com/repos/pinax/pinax-teams/pulls{/number}",
+  "created_at": "2014-07-04T18:28:54Z",
+  "updated_at": "2018-06-05T09:47:32Z",
+  "pushed_at": "2018-01-31T06:49:21Z",
+  "homepage": null,
+  "size": 242,
+  "stargazers_count": 35,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pinax",
+    "id": 26053,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI2MDUz",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/26053?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pinax",
+    "html_url": "https://github.com/pinax",
+    "followers_url": "https://api.github.com/users/pinax/followers",
+    "following_url": "https://api.github.com/users/pinax/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pinax/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pinax/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pinax/subscriptions",
+    "organizations_url": "https://api.github.com/users/pinax/orgs",
+    "repos_url": "https://api.github.com/users/pinax/repos",
+    "events_url": "https://api.github.com/users/pinax/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pinax/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mikefranklin": 1,
+    "mikeemoo": 1,
+    "darylyu": 1,
+    "ShaunGuarini": 1,
+    "gitter-badger": 1,
+    "lowks": 1,
+    "miurahr": 2,
+    "jsalva": 5,
+    "KatherineMichel": 7,
+    "rizumu": 7,
+    "jtauber": 14,
+    "grahamu": 20,
+    "jacobwegner": 31,
+    "paltman": 113
+  },
+  "pulls_authors": [
+    "grahamu",
+    "extant1",
+    "mikefranklin",
+    "adamfeldman",
+    "jacobwegner",
+    "arthur-wsw",
+    "jsalva",
+    "rizumu",
+    "darylyu",
+    "miurahr",
+    "ntoll",
+    "ShaunGuarini",
+    "gitter-badger",
+    "lowks"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 75910,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 90,
+      "color": "#427819"
+    },
+    "HTML": {
+      "bytes": 74,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:33.730Z"
+}

@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mybgg",
+  "full_name": "EmilStenstrom/mybgg",
+  "owner": "EmilStenstrom",
+  "private": false,
+  "html_url": "https://github.com/EmilStenstrom/mybgg",
+  "description": "A template that lets you quickly set up a site for searching and filtering your boardgames.",
+  "fork": false,
+  "url": "https://api.github.com/repos/EmilStenstrom/mybgg",
+  "languages_url": "https://api.github.com/repos/EmilStenstrom/mybgg/languages",
+  "pulls_url": "https://api.github.com/repos/EmilStenstrom/mybgg/pulls{/number}",
+  "created_at": "2018-05-10T20:11:08Z",
+  "updated_at": "2018-08-31T08:29:48Z",
+  "pushed_at": "2018-08-31T08:29:47Z",
+  "homepage": "https://games.emilstenstrom.se",
+  "size": 83,
+  "stargazers_count": 21,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "JSund": 1,
+    "kelleyaj": 1,
+    "aloisdg": 1,
+    "EmilStenstrom": 91
+  },
+  "pulls_authors": [
+    "cmason1985",
+    "JSund",
+    "kelleyaj",
+    "aloisdg"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 19040,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 5845,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 3031,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 3000,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:06.230Z"
+}

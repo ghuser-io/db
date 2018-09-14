@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ratchet-angular-seed",
+  "full_name": "ziyasal-archive/ratchet-angular-seed",
+  "owner": "ziyasal-archive",
+  "private": false,
+  "html_url": "https://github.com/ziyasal-archive/ratchet-angular-seed",
+  "description": "Seed project for Angular & Ratchet apps. http://goratchet.com/",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal-archive/ratchet-angular-seed",
+  "languages_url": "https://api.github.com/repos/ziyasal-archive/ratchet-angular-seed/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal-archive/ratchet-angular-seed/pulls{/number}",
+  "created_at": "2014-04-17T22:17:17Z",
+  "updated_at": "2018-06-24T21:44:09Z",
+  "pushed_at": "2014-06-13T08:29:15Z",
+  "homepage": "",
+  "size": 204,
+  "stargazers_count": 9,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ziyasal-archive",
+    "id": 28785172,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI4Nzg1MTcy",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/28785172?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ziyasal-archive",
+    "html_url": "https://github.com/ziyasal-archive",
+    "followers_url": "https://api.github.com/users/ziyasal-archive/followers",
+    "following_url": "https://api.github.com/users/ziyasal-archive/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ziyasal-archive/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ziyasal-archive/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ziyasal-archive/subscriptions",
+    "organizations_url": "https://api.github.com/users/ziyasal-archive/orgs",
+    "repos_url": "https://api.github.com/users/ziyasal-archive/repos",
+    "events_url": "https://api.github.com/users/ziyasal-archive/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ziyasal-archive/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ziyasal": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 4829,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 366,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:20.059Z"
+}

@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "FluxBB_finnish",
+  "full_name": "MarkoKaartinen/FluxBB_finnish",
+  "owner": "MarkoKaartinen",
+  "private": false,
+  "html_url": "https://github.com/MarkoKaartinen/FluxBB_finnish",
+  "description": "FluxBB finnish translation",
+  "fork": false,
+  "url": "https://api.github.com/repos/MarkoKaartinen/FluxBB_finnish",
+  "languages_url": "https://api.github.com/repos/MarkoKaartinen/FluxBB_finnish/languages",
+  "pulls_url": "https://api.github.com/repos/MarkoKaartinen/FluxBB_finnish/pulls{/number}",
+  "created_at": "2011-03-26T14:18:55Z",
+  "updated_at": "2014-06-22T19:16:13Z",
+  "pushed_at": "2011-09-07T11:17:01Z",
+  "homepage": "www.fluxbb.fi",
+  "size": 204,
+  "stargazers_count": 2,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "FluxBB",
+  "contributors": {
+    "LauriM": 2,
+    "skvark": 9,
+    "Mrkus": 9,
+    "MarkoKaartinen": 59
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 154981,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-11T01:16:36.382Z"
+}

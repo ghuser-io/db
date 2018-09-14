@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cmsbooklet",
+  "full_name": "algorithm-ninja/cmsbooklet",
+  "owner": "algorithm-ninja",
+  "private": false,
+  "html_url": "https://github.com/algorithm-ninja/cmsbooklet",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/algorithm-ninja/cmsbooklet",
+  "languages_url": "https://api.github.com/repos/algorithm-ninja/cmsbooklet/languages",
+  "pulls_url": "https://api.github.com/repos/algorithm-ninja/cmsbooklet/pulls{/number}",
+  "created_at": "2014-06-15T16:52:44Z",
+  "updated_at": "2018-09-09T19:08:10Z",
+  "pushed_at": "2018-09-09T19:08:08Z",
+  "homepage": null,
+  "size": 84,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "algorithm-ninja",
+    "id": 12009481,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMDA5NDgx",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/12009481?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/algorithm-ninja",
+    "html_url": "https://github.com/algorithm-ninja",
+    "followers_url": "https://api.github.com/users/algorithm-ninja/followers",
+    "following_url": "https://api.github.com/users/algorithm-ninja/following{/other_user}",
+    "gists_url": "https://api.github.com/users/algorithm-ninja/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/algorithm-ninja/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/algorithm-ninja/subscriptions",
+    "organizations_url": "https://api.github.com/users/algorithm-ninja/orgs",
+    "repos_url": "https://api.github.com/users/algorithm-ninja/repos",
+    "events_url": "https://api.github.com/users/algorithm-ninja/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/algorithm-ninja/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mark03": 1,
+    "giomasce": 3,
+    "lucach": 4,
+    "gabrfarina": 27,
+    "wil93": 36
+  },
+  "pulls_authors": [
+    "lucach",
+    "mark03",
+    "giomasce"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 22678,
+      "color": "#3572A5"
+    },
+    "TeX": {
+      "bytes": 19704,
+      "color": "#3D6117"
+    },
+    "Smarty": {
+      "bytes": 754,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 358,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:25.564Z"
+}

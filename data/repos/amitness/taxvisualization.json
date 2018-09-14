@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "taxvisualization",
+  "full_name": "amitness/taxvisualization",
+  "owner": "amitness",
+  "private": false,
+  "html_url": "https://github.com/amitness/taxvisualization",
+  "description": "Web app that visualizes tax in Nepal. Winner at Open Data Day 2015.",
+  "fork": false,
+  "url": "https://api.github.com/repos/amitness/taxvisualization",
+  "languages_url": "https://api.github.com/repos/amitness/taxvisualization/languages",
+  "pulls_url": "https://api.github.com/repos/amitness/taxvisualization/pulls{/number}",
+  "created_at": "2015-02-22T02:51:15Z",
+  "updated_at": "2017-03-05T15:09:15Z",
+  "pushed_at": "2017-09-27T16:37:05Z",
+  "homepage": "http://taxv.16mb.com/",
+  "size": 24,
+  "stargazers_count": 7,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "deAshish": 1,
+    "amitness": 2
+  },
+  "pulls_authors": [
+    "deAshish"
+  ],
+  "languages": {},
+  "fetched_at": "2018-08-18T09:17:26.378Z"
+}

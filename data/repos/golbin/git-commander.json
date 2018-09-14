@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "IonicaBizau": 1,
+    "Calinou": 1,
+    "hueypark": 1,
+    "matt-coles": 1,
+    "Jiwoong": 1,
+    "krazyeom": 2,
+    "jzsfkzm": 11,
+    "golbin": 50
+  },
+  "name": "git-commander",
+  "full_name": "golbin/git-commander",
+  "owner": "golbin",
+  "private": false,
+  "html_url": "https://github.com/golbin/git-commander",
+  "description": "A git tool with an easy terminal interface.",
+  "fork": false,
+  "url": "https://api.github.com/repos/golbin/git-commander",
+  "languages_url": "https://api.github.com/repos/golbin/git-commander/languages",
+  "created_at": "2015-07-05T18:29:29Z",
+  "updated_at": "2018-09-11T11:45:46Z",
+  "pushed_at": "2015-08-13T05:23:21Z",
+  "homepage": "",
+  "size": 3104,
+  "stargazers_count": 1030,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "JavaScript": {
+      "bytes": 35533,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T12:36:49.775Z",
+  "pulls_url": "https://api.github.com/repos/golbin/git-commander/pulls{/number}",
+  "pulls_authors": [
+    "jzsfkzm",
+    "krazyeom",
+    "IonicaBizau",
+    "Calinou",
+    "hueypark",
+    "matt-coles",
+    "Jiwoong"
+  ]
+}

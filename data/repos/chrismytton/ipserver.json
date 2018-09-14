@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ipserver",
+  "full_name": "chrismytton/ipserver",
+  "owner": "chrismytton",
+  "private": false,
+  "html_url": "https://github.com/chrismytton/ipserver",
+  "description": "current ip address in plaintext or json",
+  "fork": false,
+  "url": "https://api.github.com/repos/chrismytton/ipserver",
+  "languages_url": "https://api.github.com/repos/chrismytton/ipserver/languages",
+  "pulls_url": "https://api.github.com/repos/chrismytton/ipserver/pulls{/number}",
+  "created_at": "2011-03-28T00:52:31Z",
+  "updated_at": "2014-12-19T17:57:26Z",
+  "pushed_at": "2013-12-15T13:38:58Z",
+  "homepage": "",
+  "size": 144,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "chrismytton": 46
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1806,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 371,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:47.710Z"
+}

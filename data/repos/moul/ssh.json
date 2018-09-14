@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ssh",
+  "full_name": "moul/ssh",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/ssh",
+  "description": "Easy SSH servers in Golang",
+  "fork": true,
+  "url": "https://api.github.com/repos/moul/ssh",
+  "languages_url": "https://api.github.com/repos/moul/ssh/languages",
+  "pulls_url": "https://api.github.com/repos/moul/ssh/pulls{/number}",
+  "created_at": "2017-12-28T08:36:42Z",
+  "updated_at": "2018-07-03T19:35:17Z",
+  "pushed_at": "2018-01-09T19:13:49Z",
+  "homepage": "https://godoc.org/github.com/gliderlabs/ssh",
+  "size": 82,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "frozzare": 1,
+    "nhooyr": 1,
+    "tsl0922": 1,
+    "dgrr": 1,
+    "aerth": 1,
+    "piamancini": 1,
+    "yanc0": 1,
+    "mvrilo": 1,
+    "stevemurr": 2,
+    "mattatcha": 2,
+    "notnoopci": 2,
+    "belak": 6,
+    "hloeffler": 9,
+    "progrium": 18
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 56415,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:57.733Z"
+}

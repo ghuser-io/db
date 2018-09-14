@@ -1,0 +1,100 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "coala/coala-quickstart": {
+      "full_name": "coala/coala-quickstart",
+      "name": "coala-quickstart",
+      "stargazers_count": 37,
+      "popularity": 2.5575461822849728,
+      "percentage": 17.142857142857142,
+      "maturity": 3.132390384985706,
+      "total_commits_count": 175,
+      "activity": 5,
+      "total_score": 24.637093665918556,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "coala/cEPs": {
+      "full_name": "coala/cEPs",
+      "name": "cEPs",
+      "stargazers_count": 25,
+      "popularity": 2.3820559690418284,
+      "percentage": 4.3478260869565215,
+      "maturity": 2.718570715884442,
+      "total_commits_count": 92,
+      "activity": 5,
+      "total_score": 18.929688799657143,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "coala/devops": {
+      "full_name": "coala/devops",
+      "name": "devops",
+      "stargazers_count": 8,
+      "popularity": 1.8512968868523627,
+      "percentage": 0.7633587786259542,
+      "maturity": 2.961252793435558,
+      "total_commits_count": 131,
+      "activity": 2.472036560867766,
+      "total_score": 14.132149293250786,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "coala/projects": {
+      "full_name": "coala/projects",
+      "name": "projects",
+      "stargazers_count": 68,
+      "popularity": 2.8267615505705566,
+      "percentage": 0.954653937947494,
+      "maturity": 3.5804896459395987,
+      "total_commits_count": 419,
+      "activity": 5,
+      "total_score": 20.992079219556665,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "pmd/pmd": {
+      "full_name": "pmd/pmd",
+      "name": "pmd",
+      "stargazers_count": 1781,
+      "popularity": 4.25048348664747,
+      "percentage": 0.015003750937734433,
+      "maturity": 4.822928730401678,
+      "total_commits_count": 6665,
+      "activity": 5,
+      "total_score": 27.405598436173584,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "coala/coala": {
+      "full_name": "coala/coala",
+      "name": "coala",
+      "stargazers_count": 2507,
+      "popularity": 4.399037483592798,
+      "percentage": 0.07338551859099804,
+      "maturity": 4.608987508121058,
+      "total_commits_count": 4088,
+      "activity": 5,
+      "total_score": 27.457054801135023,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ishanSrt/coala": {
+      "full_name": "ishanSrt/coala",
+      "name": "coala",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 0.076103500761035,
+      "maturity": 4.593034669165678,
+      "total_commits_count": 3942,
+      "activity": 2.720743125440734,
+      "total_score": 11.90681246377209,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "coala",
+    "pmd"
+  ]
+}

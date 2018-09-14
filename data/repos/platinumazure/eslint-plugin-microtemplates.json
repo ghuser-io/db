@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "eslint-plugin-microtemplates",
+  "full_name": "platinumazure/eslint-plugin-microtemplates",
+  "owner": "platinumazure",
+  "private": false,
+  "html_url": "https://github.com/platinumazure/eslint-plugin-microtemplates",
+  "description": "ESLint plugin for processing files that use Resig-style microtemplates (including Underscore.js and Lodash).",
+  "fork": false,
+  "url": "https://api.github.com/repos/platinumazure/eslint-plugin-microtemplates",
+  "languages_url": "https://api.github.com/repos/platinumazure/eslint-plugin-microtemplates/languages",
+  "pulls_url": "https://api.github.com/repos/platinumazure/eslint-plugin-microtemplates/pulls{/number}",
+  "created_at": "2015-12-26T19:12:41Z",
+  "updated_at": "2016-02-02T19:57:43Z",
+  "pushed_at": "2016-03-05T21:31:22Z",
+  "homepage": null,
+  "size": 32,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 1,
+    "gitter-badger": 1,
+    "platinumazure": 31
+  },
+  "pulls_authors": [
+    "captbaritone",
+    "platinumazure",
+    "gitter-badger"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 30694,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:40.173Z"
+}

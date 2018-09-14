@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tab-switcher",
+  "full_name": "kamranahmedse/tab-switcher",
+  "owner": "kamranahmedse",
+  "private": false,
+  "html_url": "https://github.com/kamranahmedse/tab-switcher",
+  "description": "Chrome Extension - Switch between the opened tabs in the blink of an eye",
+  "fork": false,
+  "url": "https://api.github.com/repos/kamranahmedse/tab-switcher",
+  "languages_url": "https://api.github.com/repos/kamranahmedse/tab-switcher/languages",
+  "pulls_url": "https://api.github.com/repos/kamranahmedse/tab-switcher/pulls{/number}",
+  "created_at": "2016-09-24T12:49:51Z",
+  "updated_at": "2018-09-12T08:01:53Z",
+  "pushed_at": "2018-08-01T07:25:32Z",
+  "homepage": "https://goo.gl/8IN6Z3",
+  "size": 188,
+  "stargazers_count": 427,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "whitecrownclown": 1,
+    "wachunei": 2,
+    "kamranahmedse": 28
+  },
+  "pulls_authors": [
+    "leonklingele",
+    "pedrocatre",
+    "whitecrownclown",
+    "koglerch13",
+    "wachunei"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 300099,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 2149,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:53.388Z"
+}

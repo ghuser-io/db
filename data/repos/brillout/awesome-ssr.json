@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "awesome-ssr",
+  "full_name": "brillout/awesome-ssr",
+  "owner": "brillout",
+  "private": false,
+  "html_url": "https://github.com/brillout/awesome-ssr",
+  "description": "Resources for rendering JavaScript-generated-content to HTML.",
+  "fork": false,
+  "url": "https://api.github.com/repos/brillout/awesome-ssr",
+  "languages_url": "https://api.github.com/repos/brillout/awesome-ssr/languages",
+  "created_at": "2018-07-09T12:37:27Z",
+  "updated_at": "2018-08-27T18:44:29Z",
+  "pushed_at": "2018-08-18T11:47:54Z",
+  "homepage": "",
+  "size": 49,
+  "stargazers_count": 18,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "cc0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "spdx_id": "CC0-1.0",
+    "url": "https://api.github.com/licenses/cc0-1.0",
+    "node_id": "MDc6TGljZW5zZTY="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "brillout": 19
+  },
+  "languages": {},
+  "fetched_at": "2018-08-27T19:17:11.125Z",
+  "pulls_url": "https://api.github.com/repos/brillout/awesome-ssr/pulls{/number}",
+  "pulls_authors": []
+}

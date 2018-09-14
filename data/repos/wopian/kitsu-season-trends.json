@@ -1,0 +1,62 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "kitsu-season-trends",
+  "full_name": "wopian/kitsu-season-trends",
+  "owner": "wopian",
+  "private": false,
+  "html_url": "https://github.com/wopian/kitsu-season-trends",
+  "description": "🦊 Kitsu seasonal anime trends",
+  "fork": false,
+  "url": "https://api.github.com/repos/wopian/kitsu-season-trends",
+  "languages_url": "https://api.github.com/repos/wopian/kitsu-season-trends/languages",
+  "pulls_url": "https://api.github.com/repos/wopian/kitsu-season-trends/pulls{/number}",
+  "created_at": "2017-06-13T03:10:15Z",
+  "updated_at": "2018-09-14T02:15:31Z",
+  "pushed_at": "2018-09-14T02:15:29Z",
+  "homepage": "https://season.moe",
+  "size": 5190,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "renovate-bot": 1,
+    "snyk-bot": 1,
+    "renovate[bot]": 107,
+    "wopian": 741
+  },
+  "pulls_authors": [
+    "renovate[bot]",
+    "wopian",
+    "fossabot",
+    "greenkeeper[bot]",
+    "snyk-bot"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 43766,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 6333,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 2576,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 488,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T09:11:47.058Z"
+}

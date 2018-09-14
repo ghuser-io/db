@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tobj_viewer",
+  "full_name": "Twinklebear/tobj_viewer",
+  "owner": "Twinklebear",
+  "private": false,
+  "html_url": "https://github.com/Twinklebear/tobj_viewer",
+  "description": "A very simple Wavefront OBJ viewer using tobj and glium",
+  "fork": false,
+  "url": "https://api.github.com/repos/Twinklebear/tobj_viewer",
+  "languages_url": "https://api.github.com/repos/Twinklebear/tobj_viewer/languages",
+  "pulls_url": "https://api.github.com/repos/Twinklebear/tobj_viewer/pulls{/number}",
+  "created_at": "2015-05-01T00:24:32Z",
+  "updated_at": "2017-12-17T06:39:46Z",
+  "pushed_at": "2017-12-18T18:21:32Z",
+  "homepage": null,
+  "size": 60,
+  "stargazers_count": 8,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "paulirotta": 2,
+    "bwasty": 2,
+    "Twinklebear": 19
+  },
+  "pulls_authors": [
+    "paulirotta",
+    "bwasty"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 31478,
+      "color": "#dea584"
+    }
+  },
+  "fetched_at": "2018-09-11T00:29:55.061Z"
+}

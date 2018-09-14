@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gobenchmarkservice",
+  "full_name": "schollz/gobenchmarkservice",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/gobenchmarkservice",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/gobenchmarkservice",
+  "languages_url": "https://api.github.com/repos/schollz/gobenchmarkservice/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/gobenchmarkservice/pulls{/number}",
+  "created_at": "2018-05-01T04:46:48Z",
+  "updated_at": "2018-05-06T11:32:12Z",
+  "pushed_at": "2018-05-06T11:32:10Z",
+  "homepage": null,
+  "size": 50,
+  "stargazers_count": 3,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "tscholl2": 2,
+    "schollz": 20
+  },
+  "pulls_authors": [
+    "tscholl2"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 15803,
+      "color": "#375eab"
+    },
+    "HTML": {
+      "bytes": 4512,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 121,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:32.678Z"
+}

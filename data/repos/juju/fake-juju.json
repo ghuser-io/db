@@ -1,0 +1,86 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fake-juju",
+  "full_name": "juju/fake-juju",
+  "owner": "juju",
+  "private": false,
+  "html_url": "https://github.com/juju/fake-juju",
+  "description": "A juju binary using the dummy provider for integration test purposes.",
+  "fork": false,
+  "url": "https://api.github.com/repos/juju/fake-juju",
+  "languages_url": "https://api.github.com/repos/juju/fake-juju/languages",
+  "pulls_url": "https://api.github.com/repos/juju/fake-juju/pulls{/number}",
+  "created_at": "2016-12-01T16:48:27Z",
+  "updated_at": "2017-02-09T21:23:21Z",
+  "pushed_at": "2017-02-23T16:10:47Z",
+  "homepage": null,
+  "size": 1026,
+  "stargazers_count": 2,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "juju",
+    "id": 4604548,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ2MDQ1NDg=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/4604548?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/juju",
+    "html_url": "https://github.com/juju",
+    "followers_url": "https://api.github.com/users/juju/followers",
+    "following_url": "https://api.github.com/users/juju/following{/other_user}",
+    "gists_url": "https://api.github.com/users/juju/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/juju/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/juju/subscriptions",
+    "organizations_url": "https://api.github.com/users/juju/orgs",
+    "repos_url": "https://api.github.com/users/juju/repos",
+    "events_url": "https://api.github.com/users/juju/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/juju/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "nskaggs": 1,
+    "benji-york": 1,
+    "bjornt": 1,
+    "albertodonato": 2,
+    "panlinux": 2,
+    "simpoir": 5,
+    "fginther": 5,
+    "sparkiegeek": 13,
+    "blackboxsw": 34,
+    "freeekanayaka": 60,
+    "ericsnowcurrently": 122
+  },
+  "pulls_authors": [
+    "simpoir",
+    "freeekanayaka",
+    "sparkiegeek",
+    "nskaggs"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 89950,
+      "color": "#375eab"
+    },
+    "Python": {
+      "bytes": 46814,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 4358,
+      "color": "#427819"
+    },
+    "Roff": {
+      "bytes": 2644,
+      "color": "#ecdebe"
+    },
+    "Shell": {
+      "bytes": 1378,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T17:15:39.000Z"
+}

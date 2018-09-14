@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "austria-parlament",
+  "full_name": "everypolitician-scrapers/austria-parlament",
+  "owner": "everypolitician-scrapers",
+  "private": false,
+  "html_url": "https://github.com/everypolitician-scrapers/austria-parlament",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/everypolitician-scrapers/austria-parlament",
+  "languages_url": "https://api.github.com/repos/everypolitician-scrapers/austria-parlament/languages",
+  "pulls_url": "https://api.github.com/repos/everypolitician-scrapers/austria-parlament/pulls{/number}",
+  "created_at": "2016-08-10T05:38:13Z",
+  "updated_at": "2016-10-26T10:21:16Z",
+  "pushed_at": "2017-03-21T15:50:48Z",
+  "homepage": "https://morph.io/everypolitician-scrapers/austria-parlament",
+  "size": 23741,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "everypolitician-scrapers",
+    "id": 18443033,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4NDQzMDMz",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/18443033?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/everypolitician-scrapers",
+    "html_url": "https://github.com/everypolitician-scrapers",
+    "followers_url": "https://api.github.com/users/everypolitician-scrapers/followers",
+    "following_url": "https://api.github.com/users/everypolitician-scrapers/following{/other_user}",
+    "gists_url": "https://api.github.com/users/everypolitician-scrapers/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/everypolitician-scrapers/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/everypolitician-scrapers/subscriptions",
+    "organizations_url": "https://api.github.com/users/everypolitician-scrapers/orgs",
+    "repos_url": "https://api.github.com/users/everypolitician-scrapers/repos",
+    "events_url": "https://api.github.com/users/everypolitician-scrapers/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/everypolitician-scrapers/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "chrismytton": 2,
+    "tmtmtmtm": 12
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 4400,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:34.767Z"
+}

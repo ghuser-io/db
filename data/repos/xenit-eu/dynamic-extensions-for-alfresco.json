@@ -1,0 +1,111 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dynamic-extensions-for-alfresco",
+  "full_name": "xenit-eu/dynamic-extensions-for-alfresco",
+  "owner": "xenit-eu",
+  "private": false,
+  "html_url": "https://github.com/xenit-eu/dynamic-extensions-for-alfresco",
+  "description": "Rapid development of Alfresco repository extensions in Java. Deploy your code in seconds, not minutes. Life is too short for endless server restarts.",
+  "fork": false,
+  "url": "https://api.github.com/repos/xenit-eu/dynamic-extensions-for-alfresco",
+  "languages_url": "https://api.github.com/repos/xenit-eu/dynamic-extensions-for-alfresco/languages",
+  "pulls_url": "https://api.github.com/repos/xenit-eu/dynamic-extensions-for-alfresco/pulls{/number}",
+  "created_at": "2012-10-12T08:23:17Z",
+  "updated_at": "2018-09-05T15:13:45Z",
+  "pushed_at": "2018-09-05T15:13:43Z",
+  "homepage": null,
+  "size": 32562,
+  "stargazers_count": 62,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "xenit-eu",
+    "id": 18679781,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4Njc5Nzgx",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/18679781?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/xenit-eu",
+    "html_url": "https://github.com/xenit-eu",
+    "followers_url": "https://api.github.com/users/xenit-eu/followers",
+    "following_url": "https://api.github.com/users/xenit-eu/following{/other_user}",
+    "gists_url": "https://api.github.com/users/xenit-eu/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/xenit-eu/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/xenit-eu/subscriptions",
+    "organizations_url": "https://api.github.com/users/xenit-eu/orgs",
+    "repos_url": "https://api.github.com/users/xenit-eu/repos",
+    "events_url": "https://api.github.com/users/xenit-eu/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/xenit-eu/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "todorinskiz": 1,
+    "rschev": 1,
+    "jaspervdb": 1,
+    "thijslemmens": 1,
+    "MartinBaptiste": 1,
+    "vierbergenlars": 2,
+    "Jasper-Hilven": 3,
+    "JonasHeylen": 3,
+    "vdewillem": 6,
+    "kerkhofsd": 14,
+    "yregaieg": 22,
+    "stanmine": 33,
+    "lfridael": 147,
+    "laurentvdl": 191
+  },
+  "pulls_authors": [
+    "kerkhofsd",
+    "todorinskiz",
+    "stanmine",
+    "vierbergenlars",
+    "rschev",
+    "vdewillem",
+    "Jasper-Hilven",
+    "yregaieg",
+    "lfridael",
+    "karyochi",
+    "thijslemmens",
+    "JonasHeylen",
+    "MartinBaptiste",
+    "meiko",
+    "wingyplus",
+    "laurentvdl"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 550008,
+      "color": "#b07219"
+    },
+    "Kotlin": {
+      "bytes": 122981,
+      "color": "#F18E33"
+    },
+    "FreeMarker": {
+      "bytes": 22656,
+      "color": "#0050b2"
+    },
+    "Groovy": {
+      "bytes": 12627,
+      "color": "#e69f56"
+    },
+    "JavaScript": {
+      "bytes": 3167,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 1733,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T17:16:16.723Z"
+}

@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nodebotsau.github.io",
+  "full_name": "nodebotsau/nodebotsau.github.io",
+  "owner": "nodebotsau",
+  "private": false,
+  "html_url": "https://github.com/nodebotsau/nodebotsau.github.io",
+  "description": "NodebotsAU website",
+  "fork": false,
+  "url": "https://api.github.com/repos/nodebotsau/nodebotsau.github.io",
+  "languages_url": "https://api.github.com/repos/nodebotsau/nodebotsau.github.io/languages",
+  "pulls_url": "https://api.github.com/repos/nodebotsau/nodebotsau.github.io/pulls{/number}",
+  "created_at": "2014-05-27T05:03:43Z",
+  "updated_at": "2017-05-24T07:11:53Z",
+  "pushed_at": "2017-07-21T08:13:24Z",
+  "homepage": null,
+  "size": 11049,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "nodebotsau",
+    "id": 7710040,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc3MTAwNDA=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/7710040?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/nodebotsau",
+    "html_url": "https://github.com/nodebotsau",
+    "followers_url": "https://api.github.com/users/nodebotsau/followers",
+    "following_url": "https://api.github.com/users/nodebotsau/following{/other_user}",
+    "gists_url": "https://api.github.com/users/nodebotsau/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/nodebotsau/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/nodebotsau/subscriptions",
+    "organizations_url": "https://api.github.com/users/nodebotsau/orgs",
+    "repos_url": "https://api.github.com/users/nodebotsau/repos",
+    "events_url": "https://api.github.com/users/nodebotsau/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/nodebotsau/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "skwashd": 1,
+    "callumsmits": 1,
+    "sidorares": 1,
+    "DamonOehlman": 1,
+    "AnnaGerber": 2,
+    "alecthegeek": 2,
+    "sdesalas": 8,
+    "ajfisher": 17,
+    "garrows": 25
+  },
+  "pulls_authors": [
+    "skwashd",
+    "sdesalas",
+    "callumsmits",
+    "sidorares",
+    "DamonOehlman",
+    "garrows",
+    "alecthegeek"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 213646,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 145042,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 88582,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:30.128Z"
+}

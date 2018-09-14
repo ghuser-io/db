@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fnv.ex",
+  "full_name": "andresgutierrez/fnv.ex",
+  "owner": "andresgutierrez",
+  "private": false,
+  "html_url": "https://github.com/andresgutierrez/fnv.ex",
+  "description": "Pure Elixir implementation of Fowler–Noll–Vo hash functions",
+  "fork": true,
+  "url": "https://api.github.com/repos/andresgutierrez/fnv.ex",
+  "languages_url": "https://api.github.com/repos/andresgutierrez/fnv.ex/languages",
+  "pulls_url": "https://api.github.com/repos/andresgutierrez/fnv.ex/pulls{/number}",
+  "created_at": "2017-06-29T19:27:05Z",
+  "updated_at": "2017-07-04T09:39:20Z",
+  "pushed_at": "2017-06-29T19:29:16Z",
+  "homepage": "https://hex.pm/packages/fnv",
+  "size": 27,
+  "stargazers_count": 1,
+  "language": "Elixir",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "andresgutierrez": 1,
+    "lowks": 1,
+    "asaaki": 34
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Elixir": {
+      "bytes": 23597,
+      "color": "#6e4a7e"
+    },
+    "Makefile": {
+      "bytes": 253,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:53.375Z"
+}

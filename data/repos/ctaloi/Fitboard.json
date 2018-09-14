@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Fitboard",
+  "full_name": "ctaloi/Fitboard",
+  "owner": "ctaloi",
+  "private": false,
+  "html_url": "https://github.com/ctaloi/Fitboard",
+  "description": "Connecting Fitbit to Status Board",
+  "fork": false,
+  "url": "https://api.github.com/repos/ctaloi/Fitboard",
+  "languages_url": "https://api.github.com/repos/ctaloi/Fitboard/languages",
+  "pulls_url": "https://api.github.com/repos/ctaloi/Fitboard/pulls{/number}",
+  "created_at": "2013-06-19T18:40:32Z",
+  "updated_at": "2017-11-18T15:39:06Z",
+  "pushed_at": "2014-06-11T17:27:40Z",
+  "homepage": "http://fitboard.me",
+  "size": 1845,
+  "stargazers_count": 21,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sweenzor": 1,
+    "ctaloi": 45
+  },
+  "pulls_authors": [
+    "sweenzor"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 15530,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T23:04:44.775Z"
+}

@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "js-libp2p-circuit",
+  "full_name": "libp2p/js-libp2p-circuit",
+  "owner": "libp2p",
+  "private": false,
+  "html_url": "https://github.com/libp2p/js-libp2p-circuit",
+  "description": "implements the circuit-relay mechanism that allows nodes to communicate using a third relay node",
+  "fork": false,
+  "url": "https://api.github.com/repos/libp2p/js-libp2p-circuit",
+  "languages_url": "https://api.github.com/repos/libp2p/js-libp2p-circuit/languages",
+  "pulls_url": "https://api.github.com/repos/libp2p/js-libp2p-circuit/pulls{/number}",
+  "created_at": "2017-02-21T17:04:27Z",
+  "updated_at": "2018-08-15T12:46:04Z",
+  "pushed_at": "2018-08-15T12:49:32Z",
+  "homepage": "https://libp2p.io",
+  "size": 104,
+  "stargazers_count": 9,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "libp2p",
+    "id": 14838238,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0ODM4MjM4",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/14838238?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/libp2p",
+    "html_url": "https://github.com/libp2p",
+    "followers_url": "https://api.github.com/users/libp2p/followers",
+    "following_url": "https://api.github.com/users/libp2p/following{/other_user}",
+    "gists_url": "https://api.github.com/users/libp2p/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/libp2p/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/libp2p/subscriptions",
+    "organizations_url": "https://api.github.com/users/libp2p/orgs",
+    "repos_url": "https://api.github.com/users/libp2p/repos",
+    "events_url": "https://api.github.com/users/libp2p/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/libp2p/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "VictorBjelkholm": 1,
+    "dignifiedquire": 1,
+    "mkg20001": 2,
+    "jacobheun": 3,
+    "dryajov": 11,
+    "diasdavid": 18
+  },
+  "pulls_authors": [
+    "jacobheun",
+    "dryajov",
+    "mkg20001",
+    "pgte",
+    "VictorBjelkholm",
+    "diasdavid"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 66876,
+      "color": "#f1e05a"
+    },
+    "Groovy": {
+      "bytes": 190,
+      "color": "#e69f56"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:24.074Z"
+}

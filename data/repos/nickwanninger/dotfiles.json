@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dotfiles",
+  "full_name": "nickwanninger/dotfiles",
+  "owner": "nickwanninger",
+  "private": false,
+  "html_url": "https://github.com/nickwanninger/dotfiles",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/nickwanninger/dotfiles",
+  "languages_url": "https://api.github.com/repos/nickwanninger/dotfiles/languages",
+  "pulls_url": "https://api.github.com/repos/nickwanninger/dotfiles/pulls{/number}",
+  "created_at": "2017-12-11T19:16:14Z",
+  "updated_at": "2018-09-04T03:29:59Z",
+  "pushed_at": "2018-09-04T03:29:58Z",
+  "homepage": null,
+  "size": 133,
+  "stargazers_count": 1,
+  "language": "Vim script",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "nickwanninger": 41
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Vim script": {
+      "bytes": 149874,
+      "color": "#199f4b"
+    },
+    "Shell": {
+      "bytes": 66881,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 1744,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 88,
+      "color": "#555555"
+    },
+    "CSS": {
+      "bytes": 6,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T13:49:30.722Z"
+}

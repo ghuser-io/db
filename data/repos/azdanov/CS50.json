@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "CS50",
+  "full_name": "azdanov/CS50",
+  "owner": "azdanov",
+  "private": false,
+  "html_url": "https://github.com/azdanov/CS50",
+  "description": "Problem sets from MOOC CS50",
+  "fork": false,
+  "url": "https://api.github.com/repos/azdanov/CS50",
+  "languages_url": "https://api.github.com/repos/azdanov/CS50/languages",
+  "pulls_url": "https://api.github.com/repos/azdanov/CS50/pulls{/number}",
+  "created_at": "2017-02-11T12:06:34Z",
+  "updated_at": "2018-08-13T02:46:35Z",
+  "pushed_at": "2018-08-13T02:46:33Z",
+  "homepage": "",
+  "size": 36382,
+  "stargazers_count": 2,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "azdanov": 58
+  },
+  "pulls_authors": [
+    "azdanov"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 51813,
+      "color": "#555555"
+    },
+    "Python": {
+      "bytes": 34895,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 13558,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 6138,
+      "color": "#f1e05a"
+    },
+    "CMake": {
+      "bytes": 2093,
+      "color": "#ccc"
+    },
+    "CSS": {
+      "bytes": 2091,
+      "color": "#563d7c"
+    },
+    "Makefile": {
+      "bytes": 1510,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-08-17T12:34:58.643Z"
+}

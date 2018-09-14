@@ -1,0 +1,68 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ioscomicviewer",
+  "full_name": "tomash/ioscomicviewer",
+  "owner": "tomash",
+  "private": false,
+  "html_url": "https://github.com/tomash/ioscomicviewer",
+  "description": "iOS Comic Viewer - reader for CBZ and ACV formats",
+  "fork": false,
+  "url": "https://api.github.com/repos/tomash/ioscomicviewer",
+  "languages_url": "https://api.github.com/repos/tomash/ioscomicviewer/languages",
+  "pulls_url": "https://api.github.com/repos/tomash/ioscomicviewer/pulls{/number}",
+  "created_at": "2013-06-06T14:15:20Z",
+  "updated_at": "2015-01-11T10:38:30Z",
+  "pushed_at": "2013-10-09T08:31:27Z",
+  "homepage": null,
+  "size": 644,
+  "stargazers_count": 3,
+  "language": "Objective-C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "tomash": 1,
+    "czak": 45
+  },
+  "pulls_authors": [
+    "sziwan"
+  ],
+  "languages": {
+    "Objective-C": {
+      "bytes": 527762,
+      "color": "#438eff"
+    },
+    "C": {
+      "bytes": 328556,
+      "color": "#555555"
+    },
+    "Assembly": {
+      "bytes": 162490,
+      "color": "#6E4C13"
+    },
+    "Shell": {
+      "bytes": 2006,
+      "color": "#89e051"
+    },
+    "Erlang": {
+      "bytes": 1084,
+      "color": "#B83998"
+    },
+    "C++": {
+      "bytes": 153,
+      "color": "#f34b7d"
+    },
+    "Ruby": {
+      "bytes": 85,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T16:53:07.090Z"
+}

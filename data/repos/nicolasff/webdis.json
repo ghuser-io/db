@@ -1,0 +1,103 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "webdis",
+  "full_name": "nicolasff/webdis",
+  "owner": "nicolasff",
+  "private": false,
+  "html_url": "https://github.com/nicolasff/webdis",
+  "description": "A Redis HTTP interface with JSON output",
+  "fork": false,
+  "url": "https://api.github.com/repos/nicolasff/webdis",
+  "languages_url": "https://api.github.com/repos/nicolasff/webdis/languages",
+  "pulls_url": "https://api.github.com/repos/nicolasff/webdis/pulls{/number}",
+  "created_at": "2010-12-20T16:17:29Z",
+  "updated_at": "2018-09-11T17:35:50Z",
+  "pushed_at": "2018-08-27T20:25:36Z",
+  "homepage": "http://webd.is/",
+  "size": 756,
+  "stargazers_count": 2047,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-2-clause",
+    "name": "BSD 2-Clause \"Simplified\" License",
+    "spdx_id": "BSD-2-Clause",
+    "url": "https://api.github.com/licenses/bsd-2-clause",
+    "node_id": "MDc6TGljZW5zZTQ="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "littlefrog": 1,
+    "andrebraga": 1,
+    "jmorse": 1,
+    "bmatheny": 1,
+    "amir": 1,
+    "davidk": 1,
+    "nrk": 1,
+    "wasade": 2,
+    "lucap": 2,
+    "boothj5": 3,
+    "chx": 3,
+    "mrb": 4,
+    "jollyroger": 6,
+    "nicolasff": 313
+  },
+  "pulls_authors": [
+    "jollyroger",
+    "blackjack",
+    "wasade",
+    "mdmoss",
+    "danweller18",
+    "jamessan",
+    "Akagi201",
+    "boothj5",
+    "ngoyal",
+    "jplevyak",
+    "cd34",
+    "kaytwo",
+    "lucap",
+    "dcosta72",
+    "littlefrog",
+    "andrebraga",
+    "jmorse",
+    "ghost",
+    "chx",
+    "bmatheny",
+    "amir",
+    "davidk",
+    "nrk",
+    "mrb"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 501362,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 9236,
+      "color": "#427819"
+    },
+    "Python": {
+      "bytes": 8998,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 2860,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 1136,
+      "color": "#89e051"
+    },
+    "M4": {
+      "bytes": 990,
+      "color": "#ccc"
+    },
+    "Dockerfile": {
+      "bytes": 576,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-11T22:27:02.590Z"
+}

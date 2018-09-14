@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "lterm",
+  "full_name": "sr6033/lterm",
+  "owner": "sr6033",
+  "private": false,
+  "html_url": "https://github.com/sr6033/lterm",
+  "description": "Online bash terminal(emulator) tutorial. A step by step tutorial for the bash shell.",
+  "fork": false,
+  "url": "https://api.github.com/repos/sr6033/lterm",
+  "languages_url": "https://api.github.com/repos/sr6033/lterm/languages",
+  "created_at": "2017-07-23T04:13:45Z",
+  "updated_at": "2018-09-12T13:49:11Z",
+  "pushed_at": "2018-09-12T13:49:09Z",
+  "homepage": "https://sr6033.github.io/lterm/",
+  "size": 227,
+  "stargazers_count": 19,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Logan1x": 1,
+    "shivhek25": 1,
+    "VitorDiass": 1,
+    "Swaraj1998": 2,
+    "rupesh1310": 3,
+    "nvinayvarma189": 4,
+    "agarwalprashasti": 4,
+    "lokesh1197": 11,
+    "sr6033": 41
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 756845,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 23672,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1600,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T16:51:38.321Z",
+  "pulls_url": "https://api.github.com/repos/sr6033/lterm/pulls{/number}",
+  "pulls_authors": [
+    "Swaraj1998",
+    "Logan1x",
+    "lokesh1197",
+    "nvinayvarma189",
+    "sr6033",
+    "shivhek25",
+    "sud0m0nk",
+    "rupesh1310",
+    "agarwalprashasti",
+    "denisenricohasyim93",
+    "VitorDiass"
+  ]
+}

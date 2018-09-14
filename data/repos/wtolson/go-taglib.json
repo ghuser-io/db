@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-taglib",
+  "full_name": "wtolson/go-taglib",
+  "owner": "wtolson",
+  "private": false,
+  "html_url": "https://github.com/wtolson/go-taglib",
+  "description": "Go wrapper for taglib",
+  "fork": false,
+  "url": "https://api.github.com/repos/wtolson/go-taglib",
+  "languages_url": "https://api.github.com/repos/wtolson/go-taglib/languages",
+  "pulls_url": "https://api.github.com/repos/wtolson/go-taglib/pulls{/number}",
+  "created_at": "2012-11-20T01:03:40Z",
+  "updated_at": "2018-09-06T15:21:40Z",
+  "pushed_at": "2018-07-18T00:00:47Z",
+  "homepage": "http://godoc.org/github.com/wtolson/go-taglib",
+  "size": 674,
+  "stargazers_count": 63,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 1,
+    "popu125": 3,
+    "jcnoir": 5,
+    "wtolson": 12
+  },
+  "pulls_authors": [
+    "popu125",
+    "whilei",
+    "moul",
+    "jcnoir"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 13573,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-06T17:09:32.321Z"
+}

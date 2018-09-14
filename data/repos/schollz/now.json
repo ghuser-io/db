@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "now",
+  "full_name": "schollz/now",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/now",
+  "description": "Now is a time toolkit for golang",
+  "fork": true,
+  "url": "https://api.github.com/repos/schollz/now",
+  "languages_url": "https://api.github.com/repos/schollz/now/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/now/pulls{/number}",
+  "created_at": "2018-03-14T06:54:38Z",
+  "updated_at": "2018-06-25T14:41:43Z",
+  "pushed_at": "2018-03-14T03:34:14Z",
+  "homepage": null,
+  "size": 61,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dataBaseError": 1,
+    "ThatEric": 1,
+    "distrill": 1,
+    "ezeql": 1,
+    "zhuharev": 1,
+    "nkovacs": 2,
+    "saromanov": 2,
+    "mdwhatcott": 3,
+    "jinzhu": 33
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 22232,
+      "color": "#375eab"
+    },
+    "Ruby": {
+      "bytes": 41,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:54.794Z"
+}

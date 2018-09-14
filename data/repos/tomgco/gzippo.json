@@ -1,0 +1,62 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gzippo",
+  "full_name": "tomgco/gzippo",
+  "owner": "tomgco",
+  "private": false,
+  "html_url": "https://github.com/tomgco/gzippo",
+  "description": "gzippo pronounced `g-zippo` is a nodejs gzip middleware for Connect and express js using the new native node zlib api",
+  "fork": false,
+  "url": "https://api.github.com/repos/tomgco/gzippo",
+  "languages_url": "https://api.github.com/repos/tomgco/gzippo/languages",
+  "pulls_url": "https://api.github.com/repos/tomgco/gzippo/pulls{/number}",
+  "created_at": "2011-05-18T01:05:08Z",
+  "updated_at": "2018-09-06T12:14:00Z",
+  "pushed_at": "2014-09-11T16:11:28Z",
+  "homepage": "http://www.tomg.co/gzippo",
+  "size": 633,
+  "stargazers_count": 217,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "evlun": 1,
+    "gilad61": 1,
+    "dontcallmedom": 1,
+    "rjrodger": 1,
+    "serby": 1,
+    "mdrcode": 1,
+    "jhuckabee": 1,
+    "tomgco": 78
+  },
+  "pulls_authors": [
+    "vitaliel",
+    "sdarnell",
+    "adrianheine",
+    "mitar",
+    "awwx",
+    "underbluewaters",
+    "Reregistered",
+    "Almad",
+    "evlun",
+    "aaronmccall",
+    "domudall",
+    "gilad61",
+    "domharrington",
+    "dontcallmedom",
+    "rjrodger",
+    "serby",
+    "mdrcode",
+    "jhuckabee",
+    "dfellis"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 16650,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:41.021Z"
+}

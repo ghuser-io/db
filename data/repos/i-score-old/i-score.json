@@ -1,0 +1,83 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "i-score",
+  "full_name": "i-score-old/i-score",
+  "owner": "i-score-old",
+  "private": false,
+  "html_url": "https://github.com/i-score-old/i-score",
+  "description": "an interactive intermedia sequencer",
+  "fork": false,
+  "url": "https://api.github.com/repos/i-score-old/i-score",
+  "languages_url": "https://api.github.com/repos/i-score-old/i-score/languages",
+  "pulls_url": "https://api.github.com/repos/i-score-old/i-score/pulls{/number}",
+  "created_at": "2012-04-06T07:49:00Z",
+  "updated_at": "2017-11-22T22:55:43Z",
+  "pushed_at": "2016-02-18T23:19:19Z",
+  "homepage": "www.i-score.org",
+  "size": 612757,
+  "stargazers_count": 24,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "i-score-old",
+    "id": 6952670,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY5NTI2NzA=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/6952670?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/i-score-old",
+    "html_url": "https://github.com/i-score-old",
+    "followers_url": "https://api.github.com/users/i-score-old/followers",
+    "following_url": "https://api.github.com/users/i-score-old/following{/other_user}",
+    "gists_url": "https://api.github.com/users/i-score-old/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/i-score-old/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/i-score-old/subscriptions",
+    "organizations_url": "https://api.github.com/users/i-score-old/orgs",
+    "repos_url": "https://api.github.com/users/i-score-old/repos",
+    "events_url": "https://api.github.com/users/i-score-old/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/i-score-old/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "reno-": 1,
+    "ChristianFrisson": 2,
+    "BorisMansencal": 3,
+    "avilleret": 5,
+    "jln-": 7,
+    "cbossut": 9,
+    "jaimechao": 39,
+    "nvuaille": 55,
+    "bltzr": 153,
+    "jcelerier": 192,
+    "nicolashincker": 613
+  },
+  "pulls_authors": [
+    "avilleret"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 970856,
+      "color": "#f34b7d"
+    },
+    "CMake": {
+      "bytes": 15384,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 12941,
+      "color": "#89e051"
+    },
+    "QMake": {
+      "bytes": 8009,
+      "color": "#ccc"
+    },
+    "Pure Data": {
+      "bytes": 746,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:57.926Z"
+}

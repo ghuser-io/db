@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "FrameExtract",
+  "full_name": "SeinopSys/FrameExtract",
+  "owner": "SeinopSys",
+  "private": false,
+  "html_url": "https://github.com/SeinopSys/FrameExtract",
+  "description": "A simple GUI to extract specific frames from video files using FFmpeg",
+  "fork": false,
+  "url": "https://api.github.com/repos/SeinopSys/FrameExtract",
+  "languages_url": "https://api.github.com/repos/SeinopSys/FrameExtract/languages",
+  "pulls_url": "https://api.github.com/repos/SeinopSys/FrameExtract/pulls{/number}",
+  "created_at": "2017-06-01T05:55:40Z",
+  "updated_at": "2018-03-14T21:15:59Z",
+  "pushed_at": "2017-06-01T06:42:36Z",
+  "homepage": null,
+  "size": 189,
+  "stargazers_count": 1,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "SeinopSys": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C#": {
+      "bytes": 13638,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-08-18T09:22:03.263Z"
+}

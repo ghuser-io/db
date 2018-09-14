@@ -1,0 +1,139 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "gablau/node-red-contrib-blynk-ws": {
+      "full_name": "gablau/node-red-contrib-blynk-ws",
+      "name": "node-red-contrib-blynk-ws",
+      "stargazers_count": 13,
+      "popularity": 2.0828241359374196,
+      "percentage": 93.75,
+      "maturity": 0,
+      "total_commits_count": 32,
+      "activity": 2.5136440664892796,
+      "total_score": 34.14653563103884,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "emoncms/emoncms": {
+      "full_name": "emoncms/emoncms",
+      "name": "emoncms",
+      "stargazers_count": 714,
+      "popularity": 3.853189519619852,
+      "percentage": 1.0479041916167664,
+      "maturity": 4.114374695530815,
+      "total_commits_count": 1336,
+      "activity": 5,
+      "total_score": 25.313228498252634,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "oliexdev/openScale": {
+      "full_name": "oliexdev/openScale",
+      "name": "openScale",
+      "stargazers_count": 280,
+      "popularity": 3.4457989111372846,
+      "percentage": 0.1926782273603083,
+      "maturity": 4.000910200583117,
+      "total_commits_count": 1038,
+      "activity": 5,
+      "total_score": 23.42552808996303,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "vshymanskyy/blynk-library-js": {
+      "full_name": "vshymanskyy/blynk-library-js",
+      "name": "blynk-library-js",
+      "stargazers_count": 108,
+      "popularity": 3.029828522989428,
+      "percentage": 0,
+      "maturity": 3.0776466251343466,
+      "total_commits_count": 159,
+      "activity": 2.3632827914767205,
+      "total_score": 17.608061610713698,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "tzapu/node-red-contrib-blynk-websockets": {
+      "full_name": "tzapu/node-red-contrib-blynk-websockets",
+      "name": "node-red-contrib-blynk-websockets",
+      "stargazers_count": 30,
+      "popularity": 2.463931943319936,
+      "percentage": 5.2631578947368425,
+      "maturity": 0,
+      "total_commits_count": 19,
+      "activity": 0.8878966436413851,
+      "total_score": 9.965540645346412,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "emoncms/AndroidApp": {
+      "full_name": "emoncms/AndroidApp",
+      "name": "AndroidApp",
+      "stargazers_count": 19,
+      "popularity": 2.2577174475727126,
+      "percentage": 3.7037037037037037,
+      "maturity": 3.088450563344869,
+      "total_commits_count": 162,
+      "activity": 2.8440883140802766,
+      "total_score": 16.88119092491205,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "petermolnar/wp-ffpc": {
+      "full_name": "petermolnar/wp-ffpc",
+      "name": "wp-ffpc",
+      "stargazers_count": 56,
+      "popularity": 2.741190616566951,
+      "percentage": 11.11111111111111,
+      "maturity": 0,
+      "total_commits_count": 36,
+      "activity": 0.8197440543270034,
+      "total_score": 13.00281346129123,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "lukasjuhas/lj-maintenance-mode": {
+      "full_name": "lukasjuhas/lj-maintenance-mode",
+      "name": "lj-maintenance-mode",
+      "stargazers_count": 18,
+      "popularity": 2.2330349704670382,
+      "percentage": 0.8849557522123894,
+      "maturity": 2.8656513250381606,
+      "total_commits_count": 113,
+      "activity": 1.4387633900413195,
+      "total_score": 14.126068779979565,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "katzwebservices/Wunderground": {
+      "full_name": "katzwebservices/Wunderground",
+      "name": "Wunderground",
+      "stargazers_count": 22,
+      "popularity": 2.3243213587049825,
+      "percentage": 0.8695652173913043,
+      "maturity": 2.877373948214582,
+      "total_commits_count": 115,
+      "activity": 0.7197359732899802,
+      "total_score": 13.710197316818133,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "emoncms/event": {
+      "full_name": "emoncms/event",
+      "name": "event",
+      "stargazers_count": 8,
+      "popularity": 1.8512968868523627,
+      "percentage": 1.2048192771084338,
+      "maturity": 2.636209568212883,
+      "total_commits_count": 83,
+      "activity": 2.7255483290986775,
+      "total_score": 13.841820289082504,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "emoncms",
+    "katzwebservices"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "soup",
+  "full_name": "anaskhan96/soup",
+  "owner": "anaskhan96",
+  "private": false,
+  "html_url": "https://github.com/anaskhan96/soup",
+  "description": "Web Scraper in Go, similar to BeautifulSoup",
+  "fork": false,
+  "url": "https://api.github.com/repos/anaskhan96/soup",
+  "languages_url": "https://api.github.com/repos/anaskhan96/soup/languages",
+  "pulls_url": "https://api.github.com/repos/anaskhan96/soup/pulls{/number}",
+  "created_at": "2017-02-23T19:28:58Z",
+  "updated_at": "2018-09-14T07:36:41Z",
+  "pushed_at": "2018-08-16T04:30:12Z",
+  "homepage": "",
+  "size": 57,
+  "stargazers_count": 841,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "aykevl": 1,
+    "bigzhu": 1,
+    "imdario": 1,
+    "insp3ctre": 1,
+    "Gyga8K": 2,
+    "danilopolani": 4,
+    "Salmondx": 5,
+    "anaskhan96": 82
+  },
+  "pulls_authors": [
+    "splinet",
+    "aykevl",
+    "bigzhu",
+    "Salmondx",
+    "imdario",
+    "danilopolani",
+    "insp3ctre",
+    "Gyga8K"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 15557,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-14T08:29:07.121Z"
+}

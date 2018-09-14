@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-for-javascript-developers",
+  "full_name": "pazams/go-for-javascript-developers",
+  "owner": "pazams",
+  "private": false,
+  "html_url": "https://github.com/pazams/go-for-javascript-developers",
+  "description": "A comparison between Go and Javascript",
+  "fork": false,
+  "url": "https://api.github.com/repos/pazams/go-for-javascript-developers",
+  "languages_url": "https://api.github.com/repos/pazams/go-for-javascript-developers/languages",
+  "created_at": "2016-09-03T00:07:15Z",
+  "updated_at": "2018-09-12T15:54:21Z",
+  "pushed_at": "2018-08-22T08:22:29Z",
+  "homepage": "http://www.pazams.com/Go-for-Javascript-Developers/",
+  "size": 200,
+  "stargazers_count": 658,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "fytriht": 1,
+    "techmexdev": 1,
+    "ryanguest": 1,
+    "chasestarr": 1,
+    "wwwillchen": 1,
+    "zigius": 1,
+    "appleboy": 2,
+    "itaditya": 5,
+    "pazams": 37
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 3044,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 276,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T16:41:24.618Z",
+  "pulls_url": "https://api.github.com/repos/pazams/go-for-javascript-developers/pulls{/number}",
+  "pulls_authors": [
+    "fytriht",
+    "itaditya",
+    "pazams",
+    "techmexdev",
+    "appleboy",
+    "ryanguest",
+    "rhinodavid",
+    "chasestarr",
+    "wwwillchen",
+    "zigius"
+  ]
+}

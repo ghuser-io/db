@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "algorithms_and_data_structures",
+  "full_name": "avidLearnerInProgress/algorithms_and_data_structures",
+  "owner": "avidLearnerInProgress",
+  "private": false,
+  "html_url": "https://github.com/avidLearnerInProgress/algorithms_and_data_structures",
+  "description": "160+ Algorithm & Data Structure Problems using C++",
+  "fork": true,
+  "url": "https://api.github.com/repos/avidLearnerInProgress/algorithms_and_data_structures",
+  "languages_url": "https://api.github.com/repos/avidLearnerInProgress/algorithms_and_data_structures/languages",
+  "created_at": "2018-01-13T11:13:40Z",
+  "updated_at": "2018-03-30T01:50:16Z",
+  "pushed_at": "2018-01-13T09:27:19Z",
+  "homepage": "",
+  "size": 767,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ss18": 1,
+    "aratic": 1,
+    "mandliya": 307
+  },
+  "languages": {
+    "C++": {
+      "bytes": 359277,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 9683,
+      "color": "#555555"
+    },
+    "CMake": {
+      "bytes": 803,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/avidLearnerInProgress/algorithms_and_data_structures/pulls{/number}",
+  "pulls_authors": []
+}

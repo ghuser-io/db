@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "CanvasKeyboard",
+  "full_name": "Outpox/CanvasKeyboard",
+  "owner": "Outpox",
+  "private": false,
+  "html_url": "https://github.com/Outpox/CanvasKeyboard",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/Outpox/CanvasKeyboard",
+  "languages_url": "https://api.github.com/repos/Outpox/CanvasKeyboard/languages",
+  "pulls_url": "https://api.github.com/repos/Outpox/CanvasKeyboard/pulls{/number}",
+  "created_at": "2015-10-19T12:38:13Z",
+  "updated_at": "2018-07-13T15:34:33Z",
+  "pushed_at": "2016-03-11T07:31:29Z",
+  "homepage": null,
+  "size": 41,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Outpox": 56
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 29808,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1504,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T00:07:15.767Z"
+}

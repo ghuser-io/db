@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "web-to-feed",
+  "full_name": "snipem/web-to-feed",
+  "owner": "snipem",
+  "private": false,
+  "html_url": "https://github.com/snipem/web-to-feed",
+  "description": "Transforms a standard web site to a subscribable feed like RSS",
+  "fork": false,
+  "url": "https://api.github.com/repos/snipem/web-to-feed",
+  "languages_url": "https://api.github.com/repos/snipem/web-to-feed/languages",
+  "pulls_url": "https://api.github.com/repos/snipem/web-to-feed/pulls{/number}",
+  "created_at": "2014-05-07T19:54:30Z",
+  "updated_at": "2014-09-21T04:43:33Z",
+  "pushed_at": "2014-05-11T18:15:31Z",
+  "homepage": null,
+  "size": 176,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "snipem": 11
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 3576,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 173,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T02:29:37.963Z"
+}

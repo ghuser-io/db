@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Camouflage-Shader",
+  "full_name": "JPBotelho/Camouflage-Shader",
+  "owner": "JPBotelho",
+  "private": false,
+  "html_url": "https://github.com/JPBotelho/Camouflage-Shader",
+  "description": "Camo surface shader made in unity with support for camo map. Inspired in WoT",
+  "fork": false,
+  "url": "https://api.github.com/repos/JPBotelho/Camouflage-Shader",
+  "languages_url": "https://api.github.com/repos/JPBotelho/Camouflage-Shader/languages",
+  "pulls_url": "https://api.github.com/repos/JPBotelho/Camouflage-Shader/pulls{/number}",
+  "created_at": "2018-02-23T09:02:41Z",
+  "updated_at": "2018-09-02T13:34:48Z",
+  "pushed_at": "2018-09-02T13:36:06Z",
+  "homepage": null,
+  "size": 34925,
+  "stargazers_count": 7,
+  "language": "ShaderLab",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "JPBotelho": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "ShaderLab": {
+      "bytes": 5855,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-02T14:34:31.762Z"
+}

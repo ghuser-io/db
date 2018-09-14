@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wptr",
+  "full_name": "Boldewyn/wptr",
+  "owner": "Boldewyn",
+  "private": false,
+  "html_url": "https://github.com/Boldewyn/wptr",
+  "description": "Translate a term by looking it up in the Wikipedia",
+  "fork": false,
+  "url": "https://api.github.com/repos/Boldewyn/wptr",
+  "languages_url": "https://api.github.com/repos/Boldewyn/wptr/languages",
+  "pulls_url": "https://api.github.com/repos/Boldewyn/wptr/pulls{/number}",
+  "created_at": "2013-08-29T19:57:04Z",
+  "updated_at": "2016-03-16T15:20:59Z",
+  "pushed_at": "2016-03-16T15:20:58Z",
+  "homepage": null,
+  "size": 13,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Boldewyn": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 8198,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T04:57:53.164Z"
+}

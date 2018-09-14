@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "imagenie",
+  "full_name": "saniyusuf/imagenie",
+  "owner": "saniyusuf",
+  "private": false,
+  "html_url": "https://github.com/saniyusuf/imagenie",
+  "description": "A repository for Angular JS component designed to used with Ionic mobile applications to automatically handle the offline caching of images.",
+  "fork": false,
+  "url": "https://api.github.com/repos/saniyusuf/imagenie",
+  "languages_url": "https://api.github.com/repos/saniyusuf/imagenie/languages",
+  "created_at": "2015-01-26T18:33:34Z",
+  "updated_at": "2018-09-09T18:54:38Z",
+  "pushed_at": "2016-09-16T00:47:39Z",
+  "homepage": null,
+  "size": 20,
+  "stargazers_count": 50,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "soupman99": 1,
+    "wei": 2,
+    "saniyusuf": 23
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 17768,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-09T19:10:29.761Z",
+  "pulls_url": "https://api.github.com/repos/saniyusuf/imagenie/pulls{/number}",
+  "pulls_authors": [
+    "soupman99",
+    "wei",
+    "jlsuarezs",
+    "arjunmat"
+  ]
+}

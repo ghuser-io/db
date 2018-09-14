@@ -1,0 +1,26 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "akshaygulhane",
+  "ghuser_created_at": "2018-07-25T06:53:05.522Z",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/37315251?v=4",
+  "html_url": "https://github.com/akshaygulhane",
+  "organizations_url": "https://api.github.com/users/akshaygulhane/orgs",
+  "repos_url": "https://api.github.com/users/akshaygulhane/repos",
+  "type": "User",
+  "name": "Akshay Gulhane",
+  "company": "@Proxce ",
+  "blog": "",
+  "location": "Bangalore India",
+  "email": null,
+  "bio": null,
+  "created_at": "2018-03-12T23:58:35Z",
+  "updated_at": "2018-09-14T06:47:35Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:08:59.985Z",
+    "repos": [
+      "akshaygulhane/documentation-demo"
+    ]
+  },
+  "public_gists": 0
+}

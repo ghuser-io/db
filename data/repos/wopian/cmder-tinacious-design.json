@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cmder-tinacious-design",
+  "full_name": "wopian/cmder-tinacious-design",
+  "owner": "wopian",
+  "private": false,
+  "html_url": "https://github.com/wopian/cmder-tinacious-design",
+  "description": "🚥 Tinacious Design theme for Cmder",
+  "fork": false,
+  "url": "https://api.github.com/repos/wopian/cmder-tinacious-design",
+  "languages_url": "https://api.github.com/repos/wopian/cmder-tinacious-design/languages",
+  "pulls_url": "https://api.github.com/repos/wopian/cmder-tinacious-design/pulls{/number}",
+  "created_at": "2017-04-06T10:23:23Z",
+  "updated_at": "2018-09-11T09:19:38Z",
+  "pushed_at": "2017-04-06T10:33:55Z",
+  "homepage": null,
+  "size": 10,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "wopian": 4
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-14T00:19:37.051Z"
+}

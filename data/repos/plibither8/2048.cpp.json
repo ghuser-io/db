@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "2048.cpp",
+  "full_name": "plibither8/2048.cpp",
+  "owner": "plibither8",
+  "private": false,
+  "html_url": "https://github.com/plibither8/2048.cpp",
+  "description": "🎮 Terminal version of the game \"2048\" written in C++ 11",
+  "fork": false,
+  "url": "https://api.github.com/repos/plibither8/2048.cpp",
+  "languages_url": "https://api.github.com/repos/plibither8/2048.cpp/languages",
+  "pulls_url": "https://api.github.com/repos/plibither8/2048.cpp/pulls{/number}",
+  "created_at": "2018-04-02T07:14:05Z",
+  "updated_at": "2018-09-14T08:16:14Z",
+  "pushed_at": "2018-09-04T17:05:35Z",
+  "homepage": "",
+  "size": 619,
+  "stargazers_count": 755,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "stripedpajamas": 1,
+    "comwrg": 1,
+    "christianbundy": 1,
+    "hagemt": 1,
+    "jcelerier": 1,
+    "zestze": 1,
+    "pokgak": 1,
+    "patrikhuber": 1,
+    "informatimago": 3,
+    "scivision": 12,
+    "plibither8": 67
+  },
+  "pulls_authors": [
+    "stripedpajamas",
+    "informatimago",
+    "comwrg",
+    "christianbundy",
+    "hagemt",
+    "jcelerier",
+    "zestze",
+    "pokgak",
+    "patrikhuber",
+    "scivision"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 38744,
+      "color": "#f34b7d"
+    },
+    "Makefile": {
+      "bytes": 812,
+      "color": "#427819"
+    },
+    "CMake": {
+      "bytes": 230,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-14T08:31:14.956Z"
+}

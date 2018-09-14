@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fourcircle",
+  "full_name": "cheeaun/fourcircle",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/fourcircle",
+  "description": "Your Foursquare to-do venues plotted on a map",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/fourcircle",
+  "languages_url": "https://api.github.com/repos/cheeaun/fourcircle/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/fourcircle/pulls{/number}",
+  "created_at": "2014-10-30T21:12:41Z",
+  "updated_at": "2017-06-03T16:15:27Z",
+  "pushed_at": "2017-08-09T05:26:51Z",
+  "homepage": "https://cheeaun.github.io/fourcircle/",
+  "size": 75,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 56
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 8818,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 3231,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:55.435Z"
+}

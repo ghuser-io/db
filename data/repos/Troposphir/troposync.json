@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "troposync",
+  "full_name": "Troposphir/troposync",
+  "owner": "Troposphir",
+  "private": false,
+  "html_url": "https://github.com/Troposphir/troposync",
+  "description": "The new-new-new (is that enough news?) -new launcher and updater for Atmosphir",
+  "fork": false,
+  "url": "https://api.github.com/repos/Troposphir/troposync",
+  "languages_url": "https://api.github.com/repos/Troposphir/troposync/languages",
+  "pulls_url": "https://api.github.com/repos/Troposphir/troposync/pulls{/number}",
+  "created_at": "2017-02-19T19:31:08Z",
+  "updated_at": "2017-07-29T19:16:01Z",
+  "pushed_at": "2017-03-20T00:58:18Z",
+  "homepage": null,
+  "size": 3289,
+  "stargazers_count": 2,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "Troposphir",
+    "id": 16614540,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2NjE0NTQw",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/16614540?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Troposphir",
+    "html_url": "https://github.com/Troposphir",
+    "followers_url": "https://api.github.com/users/Troposphir/followers",
+    "following_url": "https://api.github.com/users/Troposphir/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Troposphir/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Troposphir/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Troposphir/subscriptions",
+    "organizations_url": "https://api.github.com/users/Troposphir/orgs",
+    "repos_url": "https://api.github.com/users/Troposphir/repos",
+    "events_url": "https://api.github.com/users/Troposphir/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Troposphir/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "pedroslopez": 6,
+    "kroltan": 31
+  },
+  "pulls_authors": [
+    "pedroslopez"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 38581,
+      "color": "#2b7489"
+    },
+    "HTML": {
+      "bytes": 8136,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 3292,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:27.048Z"
+}

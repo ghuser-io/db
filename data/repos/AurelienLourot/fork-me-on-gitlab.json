@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fork-me-on-gitlab",
+  "full_name": "AurelienLourot/fork-me-on-gitlab",
+  "owner": "AurelienLourot",
+  "private": false,
+  "html_url": "https://github.com/AurelienLourot/fork-me-on-gitlab",
+  "description": "A simple HTML \"Fork me on GitLab\" button.",
+  "fork": false,
+  "url": "https://api.github.com/repos/AurelienLourot/fork-me-on-gitlab",
+  "languages_url": "https://api.github.com/repos/AurelienLourot/fork-me-on-gitlab/languages",
+  "created_at": "2015-07-22T13:41:36Z",
+  "updated_at": "2018-09-13T14:59:24Z",
+  "pushed_at": "2018-09-13T14:59:22Z",
+  "homepage": null,
+  "size": 25,
+  "stargazers_count": 2,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "AurelienLourot": 20
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 5149,
+      "color": "#e34c26"
+    }
+  },
+  "settings": {
+    "_comment": "Repo metadata for ghuser.io. See https://github.com/ghuser-io/ghuser.io/blob/master/docs/repo-settings.md",
+    "avatar_url": "https://rawgit.com/AurelienLourot/fork-me-on-gitlab/master/thirdparty/gitlab-logo-32b7918bff8d2654-512x512.png",
+    "techs": [
+      "Bootstrap"
+    ]
+  },
+  "fetched_at": "2018-09-13T16:24:13.046Z",
+  "pulls_url": "https://api.github.com/repos/AurelienLourot/fork-me-on-gitlab/pulls{/number}",
+  "pulls_authors": []
+}

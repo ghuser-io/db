@@ -1,0 +1,222 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "omegaup",
+  "full_name": "omegaup/omegaup",
+  "owner": "omegaup",
+  "private": false,
+  "html_url": "https://github.com/omegaup/omegaup",
+  "description": "omegaUp automatic programming contest evaluator & arena",
+  "fork": false,
+  "url": "https://api.github.com/repos/omegaup/omegaup",
+  "languages_url": "https://api.github.com/repos/omegaup/omegaup/languages",
+  "created_at": "2011-01-12T00:11:21Z",
+  "updated_at": "2018-09-13T03:48:21Z",
+  "pushed_at": "2018-09-13T13:16:22Z",
+  "homepage": "https://omegaup.com",
+  "size": 227414,
+  "stargazers_count": 64,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "omegaup",
+    "id": 558429,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjU1ODQyOQ==",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/558429?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/omegaup",
+    "html_url": "https://github.com/omegaup",
+    "followers_url": "https://api.github.com/users/omegaup/followers",
+    "following_url": "https://api.github.com/users/omegaup/following{/other_user}",
+    "gists_url": "https://api.github.com/users/omegaup/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/omegaup/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/omegaup/subscriptions",
+    "organizations_url": "https://api.github.com/users/omegaup/orgs",
+    "repos_url": "https://api.github.com/users/omegaup/repos",
+    "events_url": "https://api.github.com/users/omegaup/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/omegaup/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "rsolisuaz": 1,
+    "princepurohit153": 1,
+    "tahirs95": 1,
+    "prondubuisi": 1,
+    "HorsemanJnr": 1,
+    "darkmx": 1,
+    "miguelomega": 1,
+    "nichirosales": 1,
+    "Gooseheaded": 1,
+    "Briaares": 1,
+    "elendil326": 1,
+    "dventura11": 1,
+    "MiguelRomero": 1,
+    "rodrifb": 1,
+    "jcperez": 1,
+    "reyes811": 1,
+    "fjml1983": 1,
+    "gitmagic-bot": 1,
+    "juniocarl": 1,
+    "omarocegueda": 1,
+    "munguial": 1,
+    "Mart-97": 2,
+    "alirizwi": 2,
+    "spd123": 2,
+    "Sugirjan": 2,
+    "rpjayasekara": 2,
+    "AtharvaKhare": 2,
+    "cope-quintana": 2,
+    "pablobatun": 3,
+    "tvanessa": 3,
+    "mikebsg01": 3,
+    "edhzsz": 3,
+    "galloska": 4,
+    "EfrenGonzalez": 4,
+    "sarvesh211999": 7,
+    "yoniihdc": 6,
+    "rcxr": 6,
+    "dgarvit": 8,
+    "andreasantillana": 8,
+    "frcepeda": 9,
+    "samdsmx": 10,
+    "CarlosCordova18": 14,
+    "npave": 19,
+    "SpaceWhite": 25,
+    "rendon": 31,
+    "heduenas": 35,
+    "limitedmage": 52,
+    "pabo99": 148,
+    "pabloaguilar": 138,
+    "alanboy": 363,
+    "joemmanuel": 980,
+    "lhchavez": 1756,
+    "DiegoBriaares": 1
+  },
+  "languages": {
+    "PHP": {
+      "bytes": 2683875,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 643462,
+      "color": "#f1e05a"
+    },
+    "Vue": {
+      "bytes": 206795,
+      "color": "#2c3e50"
+    },
+    "HTML": {
+      "bytes": 181208,
+      "color": "#e34c26"
+    },
+    "Smarty": {
+      "bytes": 153771,
+      "color": "#ccc"
+    },
+    "Python": {
+      "bytes": 141968,
+      "color": "#3572A5"
+    },
+    "PLpgSQL": {
+      "bytes": 42648,
+      "color": "#ccc"
+    },
+    "CSS": {
+      "bytes": 35439,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 17958,
+      "color": "#89e051"
+    },
+    "Scala": {
+      "bytes": 8918,
+      "color": "#c22d40"
+    },
+    "SQLPL": {
+      "bytes": 5768,
+      "color": "#ccc"
+    },
+    "C++": {
+      "bytes": 3412,
+      "color": "#f34b7d"
+    },
+    "Java": {
+      "bytes": 246,
+      "color": "#b07219"
+    },
+    "PLSQL": {
+      "bytes": 152,
+      "color": "#dad8d8"
+    },
+    "Makefile": {
+      "bytes": 133,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-13T16:40:22.108Z",
+  "pulls_url": "https://api.github.com/repos/omegaup/omegaup/pulls{/number}",
+  "pulls_authors": [
+    "pabo99",
+    "lhchavez",
+    "sarvesh211999",
+    "SpaceWhite",
+    "yoniihdc",
+    "AtharvaKhare",
+    "pabloaguilar",
+    "Mart-97",
+    "CarlosCordova18",
+    "heduenas",
+    "galloska",
+    "dgarvit",
+    "rsolisuaz",
+    "alirizwi",
+    "nvzard",
+    "tahirs95",
+    "princepurohit153",
+    "spd123",
+    "Sugirjan",
+    "prondubuisi",
+    "pj1527",
+    "joemmanuel",
+    "EfrenGonzalez",
+    "rpjayasekara",
+    "HorsemanJnr",
+    "darkmx",
+    "andreasantillana",
+    "npave",
+    "pablobatun",
+    "miguelomega",
+    "rcxr",
+    "frcepeda",
+    "nichirosales",
+    "Gooseheaded",
+    "samdsmx",
+    "tvanessa",
+    "alanboy",
+    "tiqtok",
+    "Briaares",
+    "elendil326",
+    "dventura11",
+    "MiguelRomero",
+    "rodrifb",
+    "jcperez",
+    "reyes811",
+    "edhzsz",
+    "fjml1983",
+    "gitmagic-bot",
+    "mikebsg01",
+    "cope-quintana",
+    "juniocarl",
+    "rendon"
+  ]
+}

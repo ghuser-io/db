@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pentagoo-wave",
+  "full_name": "cheeaun/pentagoo-wave",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/pentagoo-wave",
+  "description": "Pentagoo on Wave",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/pentagoo-wave",
+  "languages_url": "https://api.github.com/repos/cheeaun/pentagoo-wave/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/pentagoo-wave/pulls{/number}",
+  "created_at": "2009-08-17T06:42:07Z",
+  "updated_at": "2015-04-13T05:19:56Z",
+  "pushed_at": "2009-11-15T01:44:25Z",
+  "homepage": "",
+  "size": 148,
+  "stargazers_count": 3,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cheeaun": 42
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-10T19:00:09.291Z"
+}

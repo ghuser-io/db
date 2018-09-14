@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "brewerydb-node",
+  "full_name": "ronandi/brewerydb-node",
+  "owner": "ronandi",
+  "private": false,
+  "html_url": "https://github.com/ronandi/brewerydb-node",
+  "description": "A wrapper for BreweryDb's REST api",
+  "fork": false,
+  "url": "https://api.github.com/repos/ronandi/brewerydb-node",
+  "languages_url": "https://api.github.com/repos/ronandi/brewerydb-node/languages",
+  "pulls_url": "https://api.github.com/repos/ronandi/brewerydb-node/pulls{/number}",
+  "created_at": "2013-03-31T08:30:32Z",
+  "updated_at": "2018-02-26T20:14:51Z",
+  "pushed_at": "2017-08-11T20:12:38Z",
+  "homepage": "",
+  "size": 38,
+  "stargazers_count": 22,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "securingsincity": 1,
+    "ferrantejake": 4,
+    "JScearcy": 9,
+    "ronandi": 34
+  },
+  "pulls_authors": [
+    "erin-commarato",
+    "ferrantejake",
+    "kmiyashiro",
+    "JScearcy",
+    "securingsincity"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 17793,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T00:33:43.106Z"
+}

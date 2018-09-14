@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "twiki2markdown",
+  "full_name": "jcodagnone/twiki2markdown",
+  "owner": "jcodagnone",
+  "private": false,
+  "html_url": "https://github.com/jcodagnone/twiki2markdown",
+  "description": "Converts a twiki formatted file to a markdown formatted one",
+  "fork": false,
+  "url": "https://api.github.com/repos/jcodagnone/twiki2markdown",
+  "languages_url": "https://api.github.com/repos/jcodagnone/twiki2markdown/languages",
+  "pulls_url": "https://api.github.com/repos/jcodagnone/twiki2markdown/pulls{/number}",
+  "created_at": "2011-12-30T14:41:54Z",
+  "updated_at": "2018-03-15T03:23:08Z",
+  "pushed_at": "2014-05-05T15:31:05Z",
+  "homepage": "",
+  "size": 3592,
+  "stargazers_count": 3,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "kshmir": 2,
+    "jcodagnone": 3
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 14536,
+      "color": "#701516"
+    },
+    "Java": {
+      "bytes": 14004,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-11T10:37:59.040Z"
+}

@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "garethr-erlang",
+  "full_name": "garethr/garethr-erlang",
+  "owner": "garethr",
+  "private": false,
+  "html_url": "https://github.com/garethr/garethr-erlang",
+  "description": "Puppet module for managing erlang from official package repository",
+  "fork": false,
+  "url": "https://api.github.com/repos/garethr/garethr-erlang",
+  "languages_url": "https://api.github.com/repos/garethr/garethr-erlang/languages",
+  "pulls_url": "https://api.github.com/repos/garethr/garethr-erlang/pulls{/number}",
+  "created_at": "2013-04-02T15:56:55Z",
+  "updated_at": "2018-07-11T20:49:51Z",
+  "pushed_at": "2018-08-27T11:09:59Z",
+  "homepage": null,
+  "size": 55,
+  "stargazers_count": 7,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "adamgibbins": 1,
+    "eoly": 1,
+    "nibalizer": 1,
+    "rrehbein": 1,
+    "aboe76": 1,
+    "jaxxstorm": 5,
+    "garethr": 28
+  },
+  "pulls_authors": [
+    "kali-brandwatch",
+    "jtreminio",
+    "smbambling",
+    "jaxxstorm",
+    "Vincent--",
+    "vorlock",
+    "adamgibbins",
+    "eoly",
+    "nibalizer",
+    "rrehbein",
+    "damjanek",
+    "aboe76",
+    "apenney",
+    "twissmueller"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 10790,
+      "color": "#701516"
+    },
+    "Puppet": {
+      "bytes": 4671,
+      "color": "#302B6D"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:26.581Z"
+}

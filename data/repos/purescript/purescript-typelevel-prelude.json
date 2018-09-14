@@ -1,0 +1,82 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "purescript-typelevel-prelude",
+  "full_name": "purescript/purescript-typelevel-prelude",
+  "owner": "purescript",
+  "private": false,
+  "html_url": "https://github.com/purescript/purescript-typelevel-prelude",
+  "description": "Types and kinds for basic type-level programming ",
+  "fork": false,
+  "url": "https://api.github.com/repos/purescript/purescript-typelevel-prelude",
+  "languages_url": "https://api.github.com/repos/purescript/purescript-typelevel-prelude/languages",
+  "pulls_url": "https://api.github.com/repos/purescript/purescript-typelevel-prelude/pulls{/number}",
+  "created_at": "2016-12-22T16:28:46Z",
+  "updated_at": "2018-07-17T08:24:21Z",
+  "pushed_at": "2018-05-22T23:37:17Z",
+  "homepage": null,
+  "size": 29,
+  "stargazers_count": 31,
+  "language": "PureScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "purescript",
+    "id": 6556677,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY1NTY2Nzc=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/6556677?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/purescript",
+    "html_url": "https://github.com/purescript",
+    "followers_url": "https://api.github.com/users/purescript/followers",
+    "following_url": "https://api.github.com/users/purescript/following{/other_user}",
+    "gists_url": "https://api.github.com/users/purescript/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/purescript/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/purescript/subscriptions",
+    "organizations_url": "https://api.github.com/users/purescript/orgs",
+    "repos_url": "https://api.github.com/users/purescript/repos",
+    "events_url": "https://api.github.com/users/purescript/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/purescript/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "parsonsmatt": 1,
+    "matthewleon": 1,
+    "safareli": 1,
+    "natefaubion": 1,
+    "paulyoung": 1,
+    "kcsongor": 2,
+    "garyb": 4,
+    "paf31": 5,
+    "LiamGoodacre": 15
+  },
+  "pulls_authors": [
+    "garyb",
+    "LiamGoodacre",
+    "safareli",
+    "natefaubion",
+    "parsonsmatt",
+    "matthewleon",
+    "coot",
+    "kcsongor",
+    "paulyoung",
+    "paf31",
+    "MonoidMusician",
+    "bodil"
+  ],
+  "languages": {
+    "PureScript": {
+      "bytes": 10736,
+      "color": "#1D222D"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:51.847Z"
+}

@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rust-fastpbkdf2",
+  "full_name": "ctz/rust-fastpbkdf2",
+  "owner": "ctz",
+  "private": false,
+  "html_url": "https://github.com/ctz/rust-fastpbkdf2",
+  "description": "Rust binding for fastpbkdf2",
+  "fork": false,
+  "url": "https://api.github.com/repos/ctz/rust-fastpbkdf2",
+  "languages_url": "https://api.github.com/repos/ctz/rust-fastpbkdf2/languages",
+  "pulls_url": "https://api.github.com/repos/ctz/rust-fastpbkdf2/pulls{/number}",
+  "created_at": "2015-10-11T12:50:22Z",
+  "updated_at": "2017-12-27T17:41:11Z",
+  "pushed_at": "2017-08-18T01:50:53Z",
+  "homepage": null,
+  "size": 148,
+  "stargazers_count": 5,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "cc0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "spdx_id": "CC0-1.0",
+    "url": "https://api.github.com/licenses/cc0-1.0",
+    "node_id": "MDc6TGljZW5zZTY="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ctz": 14
+  },
+  "pulls_authors": [
+    "newpavlov"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 10338,
+      "color": "#dea584"
+    },
+    "Python": {
+      "bytes": 1695,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 70,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:18.094Z"
+}

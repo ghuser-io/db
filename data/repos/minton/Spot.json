@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Spot",
+  "full_name": "minton/Spot",
+  "owner": "minton",
+  "private": false,
+  "html_url": "https://github.com/minton/Spot",
+  "description": "Simple Spotify-powered tunes for your office.",
+  "fork": false,
+  "url": "https://api.github.com/repos/minton/Spot",
+  "languages_url": "https://api.github.com/repos/minton/Spot/languages",
+  "pulls_url": "https://api.github.com/repos/minton/Spot/pulls{/number}",
+  "created_at": "2012-12-14T12:28:25Z",
+  "updated_at": "2018-08-15T17:54:34Z",
+  "pushed_at": "2017-11-21T21:01:14Z",
+  "homepage": "",
+  "size": 2816,
+  "stargazers_count": 75,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jonathanstegall": 1,
+    "jcf": 1,
+    "cmckendry": 2,
+    "otternq": 5,
+    "estiens": 11,
+    "andromedado": 15,
+    "minton": 56
+  },
+  "pulls_authors": [
+    "jonathanstegall",
+    "estiens",
+    "minton",
+    "otternq",
+    "jcf",
+    "andromedado"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 13539,
+      "color": "#701516"
+    },
+    "CoffeeScript": {
+      "bytes": 12551,
+      "color": "#244776"
+    },
+    "HTML": {
+      "bytes": 5223,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 4718,
+      "color": "#89e051"
+    },
+    "JavaScript": {
+      "bytes": 3080,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:37:16.826Z"
+}

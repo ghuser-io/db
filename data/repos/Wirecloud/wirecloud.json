@@ -1,0 +1,109 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "wirecloud",
+  "full_name": "Wirecloud/wirecloud",
+  "owner": "Wirecloud",
+  "private": false,
+  "html_url": "https://github.com/Wirecloud/wirecloud",
+  "description": "Widgets Container and Mashup edition tools. Reference implementation of the FIWARE Application Mashup GE",
+  "fork": false,
+  "url": "https://api.github.com/repos/Wirecloud/wirecloud",
+  "languages_url": "https://api.github.com/repos/Wirecloud/wirecloud/languages",
+  "pulls_url": "https://api.github.com/repos/Wirecloud/wirecloud/pulls{/number}",
+  "created_at": "2011-07-22T06:19:08Z",
+  "updated_at": "2018-07-29T14:05:51Z",
+  "pushed_at": "2018-08-17T10:47:28Z",
+  "homepage": "",
+  "size": 126642,
+  "stargazers_count": 37,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "develop",
+  "organization": {
+    "login": "Wirecloud",
+    "id": 931848,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjkzMTg0OA==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/931848?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Wirecloud",
+    "html_url": "https://github.com/Wirecloud",
+    "followers_url": "https://api.github.com/users/Wirecloud/followers",
+    "following_url": "https://api.github.com/users/Wirecloud/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Wirecloud/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Wirecloud/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Wirecloud/subscriptions",
+    "organizations_url": "https://api.github.com/users/Wirecloud/orgs",
+    "repos_url": "https://api.github.com/users/Wirecloud/repos",
+    "events_url": "https://api.github.com/users/Wirecloud/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Wirecloud/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "juliozinga": 1,
+    "sblancov": 1,
+    "irismdelalamo": 1,
+    "brylie": 2,
+    "pcaro": 2,
+    "javier-soriano": 14,
+    "rockneurotiko": 17,
+    "bgrana": 17,
+    "jorgecorrea": 17,
+    "fdelavega": 80,
+    "lorenzogil": 112,
+    "ablanco": 124,
+    "Mognom": 165,
+    "cblanco": 193,
+    "jpajuelo": 496,
+    "aarranz": 4964
+  },
+  "pulls_authors": [
+    "aarranz",
+    "flopezag",
+    "Mognom",
+    "juliozinga",
+    "brylie",
+    "netzahdzc",
+    "jpajuelo",
+    "bgrana",
+    "rockneurotiko",
+    "sblancov",
+    "cblanco",
+    "javier-soriano"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2614462,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 1924969,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 292940,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 59244,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 7195,
+      "color": "#89e051"
+    },
+    "Dockerfile": {
+      "bytes": 844,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:44.814Z"
+}

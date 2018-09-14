@@ -1,0 +1,74 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sphere-ui",
+  "full_name": "ninjasphere/sphere-ui",
+  "owner": "ninjasphere",
+  "private": false,
+  "html_url": "https://github.com/ninjasphere/sphere-ui",
+  "description": "Ninja Sphere - HTML renderer for Sphere Configuration UI",
+  "fork": false,
+  "url": "https://api.github.com/repos/ninjasphere/sphere-ui",
+  "languages_url": "https://api.github.com/repos/ninjasphere/sphere-ui/languages",
+  "pulls_url": "https://api.github.com/repos/ninjasphere/sphere-ui/pulls{/number}",
+  "created_at": "2015-02-20T01:26:12Z",
+  "updated_at": "2018-01-30T22:59:16Z",
+  "pushed_at": "2016-11-10T02:31:35Z",
+  "homepage": null,
+  "size": 830,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "ninjasphere",
+    "id": 6147637,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYxNDc2Mzc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/6147637?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ninjasphere",
+    "html_url": "https://github.com/ninjasphere",
+    "followers_url": "https://api.github.com/users/ninjasphere/followers",
+    "following_url": "https://api.github.com/users/ninjasphere/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ninjasphere/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ninjasphere/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ninjasphere/subscriptions",
+    "organizations_url": "https://api.github.com/users/ninjasphere/orgs",
+    "repos_url": "https://api.github.com/users/ninjasphere/repos",
+    "events_url": "https://api.github.com/users/ninjasphere/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ninjasphere/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "wolfeidau": 1,
+    "jmanoto": 1,
+    "elliots": 25,
+    "jonseymour": 36
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 35871,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 22445,
+      "color": "#e34c26"
+    },
+    "Go": {
+      "bytes": 5365,
+      "color": "#375eab"
+    },
+    "Shell": {
+      "bytes": 1112,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 359,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T13:45:51.207Z"
+}

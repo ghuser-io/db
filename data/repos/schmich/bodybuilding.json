@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bodybuilding",
+  "full_name": "schmich/bodybuilding",
+  "owner": "schmich",
+  "private": false,
+  "html_url": "https://github.com/schmich/bodybuilding",
+  "description": "Notes on bodybuilding and weightlifting",
+  "fork": false,
+  "url": "https://api.github.com/repos/schmich/bodybuilding",
+  "languages_url": "https://api.github.com/repos/schmich/bodybuilding/languages",
+  "pulls_url": "https://api.github.com/repos/schmich/bodybuilding/pulls{/number}",
+  "created_at": "2017-08-26T07:23:08Z",
+  "updated_at": "2017-10-15T14:30:34Z",
+  "pushed_at": "2017-12-27T06:42:08Z",
+  "homepage": null,
+  "size": 1,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "schmich": 2
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T07:41:18.661Z"
+}

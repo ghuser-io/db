@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "kincomi",
+  "full_name": "brucehsu/kincomi",
+  "owner": "brucehsu",
+  "private": false,
+  "html_url": "https://github.com/brucehsu/kincomi",
+  "description": "Kindle Paperwhite .mobi generator for Comic/Manga",
+  "fork": false,
+  "url": "https://api.github.com/repos/brucehsu/kincomi",
+  "languages_url": "https://api.github.com/repos/brucehsu/kincomi/languages",
+  "pulls_url": "https://api.github.com/repos/brucehsu/kincomi/pulls{/number}",
+  "created_at": "2015-02-17T15:40:04Z",
+  "updated_at": "2017-08-06T04:02:11Z",
+  "pushed_at": "2015-02-21T17:41:07Z",
+  "homepage": null,
+  "size": 160,
+  "stargazers_count": 8,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "brucehsu": 24
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 5087,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:05.999Z"
+}

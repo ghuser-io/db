@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 1,
+    "amfournda": 30
+  },
+  "name": "erdp",
+  "full_name": "amfournda/erdp",
+  "owner": "amfournda",
+  "private": false,
+  "html_url": "https://github.com/amfournda/erdp",
+  "description": "Simple GTK+ based xfreerdp caller",
+  "fork": false,
+  "url": "https://api.github.com/repos/amfournda/erdp",
+  "languages_url": "https://api.github.com/repos/amfournda/erdp/languages",
+  "created_at": "2015-04-23T16:28:57Z",
+  "updated_at": "2017-01-11T21:14:33Z",
+  "pushed_at": "2016-08-22T15:09:23Z",
+  "homepage": null,
+  "size": 131,
+  "stargazers_count": 3,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "C": {
+      "bytes": 10259,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 6873,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/amfournda/erdp/pulls{/number}",
+  "pulls_authors": [
+    "Calinou"
+  ]
+}

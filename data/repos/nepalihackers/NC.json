@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "NC",
+  "full_name": "nepalihackers/NC",
+  "owner": "nepalihackers",
+  "private": false,
+  "html_url": "https://github.com/nepalihackers/NC",
+  "description": "Automatically convert prices on websites to Nepalese Currency.",
+  "fork": true,
+  "url": "https://api.github.com/repos/nepalihackers/NC",
+  "languages_url": "https://api.github.com/repos/nepalihackers/NC/languages",
+  "pulls_url": "https://api.github.com/repos/nepalihackers/NC/pulls{/number}",
+  "created_at": "2017-07-22T11:08:56Z",
+  "updated_at": "2017-09-10T07:11:07Z",
+  "pushed_at": "2017-09-10T07:11:04Z",
+  "homepage": null,
+  "size": 180,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "nepalihackers",
+    "id": 22285724,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIyMjg1NzI0",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/22285724?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/nepalihackers",
+    "html_url": "https://github.com/nepalihackers",
+    "followers_url": "https://api.github.com/users/nepalihackers/followers",
+    "following_url": "https://api.github.com/users/nepalihackers/following{/other_user}",
+    "gists_url": "https://api.github.com/users/nepalihackers/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/nepalihackers/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/nepalihackers/subscriptions",
+    "organizations_url": "https://api.github.com/users/nepalihackers/orgs",
+    "repos_url": "https://api.github.com/users/nepalihackers/repos",
+    "events_url": "https://api.github.com/users/nepalihackers/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/nepalihackers/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "amitness": 4,
+    "prabinzz": 18
+  },
+  "pulls_authors": [
+    "amitness"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 8216,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 3536,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 638,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:26.991Z"
+}

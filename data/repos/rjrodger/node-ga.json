@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-ga",
+  "full_name": "rjrodger/node-ga",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/node-ga",
+  "description": "Node module for server-side mobile web Google Analytics",
+  "fork": false,
+  "url": "https://api.github.com/repos/rjrodger/node-ga",
+  "languages_url": "https://api.github.com/repos/rjrodger/node-ga/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/node-ga/pulls{/number}",
+  "created_at": "2012-02-20T15:19:28Z",
+  "updated_at": "2013-11-02T18:49:11Z",
+  "pushed_at": "2012-02-20T15:19:54Z",
+  "homepage": "",
+  "size": 92,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "rjrodger": 1
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T07:40:40.880Z"
+}

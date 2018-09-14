@@ -1,0 +1,102 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "releaseses/releases": {
+      "full_name": "releaseses/releases",
+      "name": "releases",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 91.66666666666667,
+      "maturity": 0,
+      "total_commits_count": 12,
+      "activity": 5,
+      "total_score": 5,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "usernam3/meta_commit": {
+      "full_name": "usernam3/meta_commit",
+      "name": "meta_commit",
+      "stargazers_count": 5,
+      "popularity": 1.6128219920330789,
+      "percentage": 100,
+      "maturity": 2.234722295244445,
+      "total_commits_count": 57,
+      "activity": 1.5927762727290742,
+      "total_score": 31.867372735747228,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "meta-commit/contracts": {
+      "full_name": "meta-commit/contracts",
+      "name": "contracts",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 9,
+      "activity": 1.3072720253111765,
+      "total_score": 17.97012355239822,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "cronboy/cronboy": {
+      "full_name": "cronboy/cronboy",
+      "name": "cronboy",
+      "stargazers_count": 8,
+      "popularity": 1.8512968868523627,
+      "percentage": 83.33333333333333,
+      "maturity": 0,
+      "total_commits_count": 12,
+      "activity": 0.7746199112903911,
+      "total_score": 26.384226846081404,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Intervention/image": {
+      "full_name": "Intervention/image",
+      "name": "image",
+      "stargazers_count": 7838,
+      "popularity": 4.894194476478038,
+      "percentage": 0.2070393374741201,
+      "maturity": 3.648237677566432,
+      "total_commits_count": 483,
+      "activity": 5,
+      "total_score": 27.110786586211315,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "danielstjules/Stringy": {
+      "full_name": "danielstjules/Stringy",
+      "name": "Stringy",
+      "stargazers_count": 2198,
+      "popularity": 4.341888910959004,
+      "percentage": 0.31645569620253167,
+      "maturity": 3.4428020976309344,
+      "total_commits_count": 316,
+      "activity": 5,
+      "total_score": 25.089892940298586,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "NeonXP/Stemmer": {
+      "full_name": "NeonXP/Stemmer",
+      "name": "Stemmer",
+      "stargazers_count": 35,
+      "popularity": 2.532793353021433,
+      "percentage": 5.882352941176471,
+      "maturity": 0,
+      "total_commits_count": 17,
+      "activity": 1.2334738836995087,
+      "total_score": 10.768695918603726,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "releaseses",
+    "meta-commit",
+    "cronboy",
+    "Intervention"
+  ]
+}

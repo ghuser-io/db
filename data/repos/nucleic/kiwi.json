@@ -1,0 +1,88 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "kiwi",
+  "full_name": "nucleic/kiwi",
+  "owner": "nucleic",
+  "private": false,
+  "html_url": "https://github.com/nucleic/kiwi",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/nucleic/kiwi",
+  "languages_url": "https://api.github.com/repos/nucleic/kiwi/languages",
+  "pulls_url": "https://api.github.com/repos/nucleic/kiwi/pulls{/number}",
+  "created_at": "2013-12-04T00:21:26Z",
+  "updated_at": "2018-09-11T21:21:22Z",
+  "pushed_at": "2018-08-06T02:45:56Z",
+  "homepage": null,
+  "size": 273,
+  "stargazers_count": 247,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "nucleic",
+    "id": 3782951,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM3ODI5NTE=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/3782951?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/nucleic",
+    "html_url": "https://github.com/nucleic",
+    "followers_url": "https://api.github.com/users/nucleic/followers",
+    "following_url": "https://api.github.com/users/nucleic/following{/other_user}",
+    "gists_url": "https://api.github.com/users/nucleic/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/nucleic/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/nucleic/subscriptions",
+    "organizations_url": "https://api.github.com/users/nucleic/orgs",
+    "repos_url": "https://api.github.com/users/nucleic/repos",
+    "events_url": "https://api.github.com/users/nucleic/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/nucleic/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "hugovk": 1,
+    "felipealmeida": 1,
+    "Qix-": 1,
+    "jklymak": 2,
+    "dwillmer": 2,
+    "jwiggins": 18,
+    "MatthieuDartiailh": 34,
+    "sccolbert": 101
+  },
+  "pulls_authors": [
+    "MatthieuDartiailh",
+    "hugovk",
+    "jyaif",
+    "jklymak",
+    "Qix-",
+    "hfossli",
+    "jcelerier",
+    "jwiggins",
+    "IjzerenHein",
+    "felipealmeida",
+    "dwillmer"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 171919,
+      "color": "#f34b7d"
+    },
+    "Python": {
+      "bytes": 20683,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 3036,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:57.057Z"
+}

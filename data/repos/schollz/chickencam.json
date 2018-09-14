@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "chickencam",
+  "full_name": "schollz/chickencam",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/chickencam",
+  "description": "Build a Raspberry Pi ChickenCam in 10 easy steps",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/chickencam",
+  "languages_url": "https://api.github.com/repos/schollz/chickencam/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/chickencam/pulls{/number}",
+  "created_at": "2016-08-29T16:40:25Z",
+  "updated_at": "2018-05-02T08:51:48Z",
+  "pushed_at": "2017-10-12T19:51:39Z",
+  "homepage": "https://chickencam.schollz.com/",
+  "size": 18175,
+  "stargazers_count": 30,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 138
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 11527,
+      "color": "#375eab"
+    },
+    "Python": {
+      "bytes": 3484,
+      "color": "#3572A5"
+    },
+    "Arduino": {
+      "bytes": 2751,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:36.987Z"
+}

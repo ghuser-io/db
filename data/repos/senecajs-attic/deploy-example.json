@@ -1,0 +1,68 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "deploy-example",
+  "full_name": "senecajs-attic/deploy-example",
+  "owner": "senecajs-attic",
+  "private": false,
+  "html_url": "https://github.com/senecajs-attic/deploy-example",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/senecajs-attic/deploy-example",
+  "languages_url": "https://api.github.com/repos/senecajs-attic/deploy-example/languages",
+  "pulls_url": "https://api.github.com/repos/senecajs-attic/deploy-example/pulls{/number}",
+  "created_at": "2015-02-10T10:16:34Z",
+  "updated_at": "2018-02-06T00:45:42Z",
+  "pushed_at": "2016-05-04T08:29:36Z",
+  "homepage": null,
+  "size": 18,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "senecajs-attic",
+    "id": 18685160,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4Njg1MTYw",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/18685160?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/senecajs-attic",
+    "html_url": "https://github.com/senecajs-attic",
+    "followers_url": "https://api.github.com/users/senecajs-attic/followers",
+    "following_url": "https://api.github.com/users/senecajs-attic/following{/other_user}",
+    "gists_url": "https://api.github.com/users/senecajs-attic/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/senecajs-attic/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/senecajs-attic/subscriptions",
+    "organizations_url": "https://api.github.com/users/senecajs-attic/orgs",
+    "repos_url": "https://api.github.com/users/senecajs-attic/repos",
+    "events_url": "https://api.github.com/users/senecajs-attic/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/senecajs-attic/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "code-jace": 1,
+    "rjrodger": 4
+  },
+  "pulls_authors": [
+    "code-jace"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 5224,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 1117,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:34.273Z"
+}

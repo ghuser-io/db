@@ -1,0 +1,32 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "AlexanderOnbysh/course-on-computer-networks": {
+      "full_name": "AlexanderOnbysh/course-on-computer-networks",
+      "name": "course-on-computer-networks",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 2.0751595795068063,
+      "total_score": 2.0751595795068063,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "AlexanderOnbysh/algorithmic-toolbox": {
+      "full_name": "AlexanderOnbysh/algorithmic-toolbox",
+      "name": "algorithmic-toolbox",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 6,
+      "activity": 1.8665338900394515,
+      "total_score": 1.8665338900394515,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

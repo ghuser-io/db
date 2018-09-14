@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "HAP-python",
+  "full_name": "ikalchev/HAP-python",
+  "owner": "ikalchev",
+  "private": false,
+  "html_url": "https://github.com/ikalchev/HAP-python",
+  "description": "A python implementation of the HomeKit Accessory Protocol (HAP)",
+  "fork": false,
+  "url": "https://api.github.com/repos/ikalchev/HAP-python",
+  "languages_url": "https://api.github.com/repos/ikalchev/HAP-python/languages",
+  "pulls_url": "https://api.github.com/repos/ikalchev/HAP-python/pulls{/number}",
+  "created_at": "2017-10-14T13:21:38Z",
+  "updated_at": "2018-09-11T20:44:30Z",
+  "pushed_at": "2018-09-09T12:54:28Z",
+  "homepage": null,
+  "size": 371,
+  "stargazers_count": 133,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "dev",
+  "contributors": {
+    "thehappydinoa": 1,
+    "lmarlow": 1,
+    "mkudrnac": 2,
+    "schinckel": 8,
+    "jslay88": 38,
+    "cdce8p": 51,
+    "ikalchev": 65,
+    "LasCabos": 1
+  },
+  "pulls_authors": [
+    "ikalchev",
+    "lobeck",
+    "thehappydinoa",
+    "cdce8p",
+    "lmarlow",
+    "jslay88",
+    "thomaspurchas",
+    "schinckel",
+    "xtqxk",
+    "mkudrnac",
+    "LasCabos"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 165225,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 1069,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T20:54:35.429Z"
+}

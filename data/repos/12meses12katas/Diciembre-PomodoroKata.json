@@ -1,0 +1,86 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Diciembre-PomodoroKata",
+  "full_name": "12meses12katas/Diciembre-PomodoroKata",
+  "owner": "12meses12katas",
+  "private": false,
+  "html_url": "https://github.com/12meses12katas/Diciembre-PomodoroKata",
+  "description": "Kata del mes de Diciembre del 2011: PomodoroKata",
+  "fork": false,
+  "url": "https://api.github.com/repos/12meses12katas/Diciembre-PomodoroKata",
+  "languages_url": "https://api.github.com/repos/12meses12katas/Diciembre-PomodoroKata/languages",
+  "pulls_url": "https://api.github.com/repos/12meses12katas/Diciembre-PomodoroKata/pulls{/number}",
+  "created_at": "2011-12-01T08:43:19Z",
+  "updated_at": "2018-07-27T23:02:53Z",
+  "pushed_at": "2012-04-09T06:30:24Z",
+  "homepage": "www.12meses12katas.com",
+  "size": 191,
+  "stargazers_count": 35,
+  "language": "Groovy",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "screaber": 1,
+    "jrufasto5": 1,
+    "mmomiy": 1,
+    "rockneurotiko": 1,
+    "rmhdev": 1,
+    "gonzalo123": 1,
+    "kinisoftware": 1,
+    "gcaceres": 2,
+    "justkoki": 2,
+    "caperaltasanchez": 2,
+    "raquelVP": 3,
+    "oscarramosp": 3,
+    "kujulius": 3,
+    "ericminio": 5,
+    "rchavarria": 14
+  },
+  "pulls_authors": [
+    "yamitcar",
+    "raquelVP",
+    "screaber",
+    "gcaceres",
+    "jrufasto5",
+    "mcalagua",
+    "paulgutierrez",
+    "oscarramosp",
+    "caperaltasanchez",
+    "berczeck",
+    "mmomiy",
+    "justkoki",
+    "kujulius",
+    "rockneurotiko",
+    "ericminio",
+    "rchavarria",
+    "rmhdev",
+    "regiluze",
+    "cibernox",
+    "gonzalo123"
+  ],
+  "languages": {
+    "Groovy": {
+      "bytes": 12776,
+      "color": "#e69f56"
+    },
+    "Ruby": {
+      "bytes": 6436,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 3262,
+      "color": "#f1e05a"
+    },
+    "CoffeeScript": {
+      "bytes": 1885,
+      "color": "#244776"
+    },
+    "Java": {
+      "bytes": 70,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:51.885Z"
+}

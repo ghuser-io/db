@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tmdb",
+  "full_name": "ahmetabdi/tmdb",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/tmdb",
+  "description": ":crystal_ball: Crystal wrapper for TMDB Api",
+  "fork": false,
+  "url": "https://api.github.com/repos/ahmetabdi/tmdb",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/tmdb/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/tmdb/pulls{/number}",
+  "created_at": "2015-09-22T15:46:19Z",
+  "updated_at": "2017-08-14T11:19:20Z",
+  "pushed_at": "2015-09-24T14:17:47Z",
+  "homepage": "",
+  "size": 128,
+  "stargazers_count": 6,
+  "language": "Crystal",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 17
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Crystal": {
+      "bytes": 26211,
+      "color": "#776791"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:00.451Z"
+}

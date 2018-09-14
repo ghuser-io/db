@@ -1,0 +1,33 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "JSONHire",
+  "full_name": "aloisdg/JSONHire",
+  "owner": "aloisdg",
+  "private": false,
+  "html_url": "https://github.com/aloisdg/JSONHire",
+  "description": "Enhance hiring post with a standard.",
+  "fork": false,
+  "url": "https://api.github.com/repos/aloisdg/JSONHire",
+  "languages_url": "https://api.github.com/repos/aloisdg/JSONHire/languages",
+  "pulls_url": "https://api.github.com/repos/aloisdg/JSONHire/pulls{/number}",
+  "created_at": "2015-09-02T14:04:12Z",
+  "updated_at": "2017-04-11T00:18:13Z",
+  "pushed_at": "2016-05-01T17:56:36Z",
+  "homepage": "",
+  "size": 4,
+  "stargazers_count": 5,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "gitter-badger": 1,
+    "aloisdg": 8
+  },
+  "pulls_authors": [
+    "gitter-badger"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-12T04:56:14.872Z"
+}

@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cheeaun.com",
+  "full_name": "cheeaun/cheeaun.com",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/cheeaun.com",
+  "description": "cheeaun's web site",
+  "fork": false,
+  "url": "https://api.github.com/repos/cheeaun/cheeaun.com",
+  "languages_url": "https://api.github.com/repos/cheeaun/cheeaun.com/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/cheeaun.com/pulls{/number}",
+  "created_at": "2015-09-07T01:13:22Z",
+  "updated_at": "2018-09-10T14:54:42Z",
+  "pushed_at": "2018-09-10T14:55:55Z",
+  "homepage": "http://cheeaun.com/",
+  "size": 49734,
+  "stargazers_count": 2,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "spinningarrow": 1,
+    "cheeaun": 110
+  },
+  "pulls_authors": [
+    "spinningarrow"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 81198,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 6299,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 5361,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:51.783Z"
+}

@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "RecipeFinder",
+  "full_name": "owenlejeune/RecipeFinder",
+  "owner": "owenlejeune",
+  "private": false,
+  "html_url": "https://github.com/owenlejeune/RecipeFinder",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/owenlejeune/RecipeFinder",
+  "languages_url": "https://api.github.com/repos/owenlejeune/RecipeFinder/languages",
+  "pulls_url": "https://api.github.com/repos/owenlejeune/RecipeFinder/pulls{/number}",
+  "created_at": "2018-03-24T00:57:57Z",
+  "updated_at": "2018-08-18T02:00:35Z",
+  "pushed_at": "2018-08-08T01:42:33Z",
+  "homepage": null,
+  "size": 693,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "owenlejeune": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 7354,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1362,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1129,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:27.631Z"
+}

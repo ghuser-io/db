@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "website",
+  "full_name": "devarchy/website",
+  "owner": "devarchy",
+  "private": false,
+  "html_url": "https://github.com/devarchy/website",
+  "description": "Source code of devarchy.com",
+  "fork": false,
+  "url": "https://api.github.com/repos/devarchy/website",
+  "languages_url": "https://api.github.com/repos/devarchy/website/languages",
+  "created_at": "2016-08-10T21:07:45Z",
+  "updated_at": "2018-09-05T09:14:07Z",
+  "pushed_at": "2017-06-13T21:58:26Z",
+  "homepage": "http://devarchy.com",
+  "size": 567,
+  "stargazers_count": 43,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "cc0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "spdx_id": "CC0-1.0",
+    "url": "https://api.github.com/licenses/cc0-1.0",
+    "node_id": "MDc6TGljZW5zZTY="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "devarchy",
+    "id": 17671799,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3NjcxNzk5",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/17671799?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/devarchy",
+    "html_url": "https://github.com/devarchy",
+    "followers_url": "https://api.github.com/users/devarchy/followers",
+    "following_url": "https://api.github.com/users/devarchy/following{/other_user}",
+    "gists_url": "https://api.github.com/users/devarchy/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/devarchy/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/devarchy/subscriptions",
+    "organizations_url": "https://api.github.com/users/devarchy/orgs",
+    "repos_url": "https://api.github.com/users/devarchy/repos",
+    "events_url": "https://api.github.com/users/devarchy/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/devarchy/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "brillout": 6
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 1069240,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 39121,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 2796,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 563,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T13:01:59.357Z",
+  "pulls_url": "https://api.github.com/repos/devarchy/website/pulls{/number}",
+  "pulls_authors": []
+}

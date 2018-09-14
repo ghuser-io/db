@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "username-availability-checker",
+  "full_name": "manu-chroma/username-availability-checker",
+  "owner": "manu-chroma",
+  "private": false,
+  "html_url": "https://github.com/manu-chroma/username-availability-checker",
+  "description": "Live at  : https://username-check.herokuapp.com/",
+  "fork": false,
+  "url": "https://api.github.com/repos/manu-chroma/username-availability-checker",
+  "languages_url": "https://api.github.com/repos/manu-chroma/username-availability-checker/languages",
+  "pulls_url": "https://api.github.com/repos/manu-chroma/username-availability-checker/pulls{/number}",
+  "created_at": "2015-12-27T19:48:41Z",
+  "updated_at": "2018-09-12T22:15:16Z",
+  "pushed_at": "2018-06-11T06:22:44Z",
+  "homepage": "",
+  "size": 3089,
+  "stargazers_count": 27,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "gitter-badger": 1,
+    "pavi2410": 1,
+    "margobra8": 1,
+    "ashwini0529": 1,
+    "waldyrious": 2,
+    "biscuitsnake": 2,
+    "nalinbhardwaj": 2,
+    "Asuza": 2,
+    "rhnvrm": 2,
+    "andrewda": 4,
+    "cclauss": 4,
+    "seeeturtle": 30,
+    "gyanl": 39,
+    "manu-chroma": 104
+  },
+  "pulls_authors": [
+    "seeeturtle",
+    "waldyrious",
+    "manu-chroma",
+    "gitter-badger",
+    "pavi2410",
+    "margobra8",
+    "andrewda",
+    "biscuitsnake",
+    "nalinbhardwaj",
+    "ashwini0529",
+    "Asuza",
+    "gyanl",
+    "cclauss",
+    "rhnvrm"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 16308,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 8543,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 5294,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-13T00:01:35.372Z"
+}

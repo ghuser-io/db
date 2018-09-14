@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "use-plugin",
+  "full_name": "rjrodger/use-plugin",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/use-plugin",
+  "description": "Use plugin",
+  "fork": false,
+  "url": "https://api.github.com/repos/rjrodger/use-plugin",
+  "languages_url": "https://api.github.com/repos/rjrodger/use-plugin/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/use-plugin/pulls{/number}",
+  "created_at": "2014-04-18T11:22:30Z",
+  "updated_at": "2018-09-02T11:11:45Z",
+  "pushed_at": "2018-09-02T11:11:44Z",
+  "homepage": null,
+  "size": 395,
+  "stargazers_count": 8,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rjrodger": 50
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 26988,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:25.460Z"
+}

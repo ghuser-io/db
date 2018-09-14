@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "seneca-zmq-transport",
+  "full_name": "rjrodger/seneca-zmq-transport",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/seneca-zmq-transport",
+  "description": "Seneca ZeroMQ transport",
+  "fork": false,
+  "url": "https://api.github.com/repos/rjrodger/seneca-zmq-transport",
+  "languages_url": "https://api.github.com/repos/rjrodger/seneca-zmq-transport/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/seneca-zmq-transport/pulls{/number}",
+  "created_at": "2014-02-26T11:32:19Z",
+  "updated_at": "2015-10-13T17:53:07Z",
+  "pushed_at": "2015-10-16T12:58:40Z",
+  "homepage": null,
+  "size": 164,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rjrodger": 1
+  },
+  "pulls_authors": [
+    "vtardia",
+    "stowywowy",
+    "chico",
+    "mmalecki"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6351,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:37.972Z"
+}

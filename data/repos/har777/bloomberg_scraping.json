@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bloomberg_scraping",
+  "full_name": "har777/bloomberg_scraping",
+  "owner": "har777",
+  "private": false,
+  "html_url": "https://github.com/har777/bloomberg_scraping",
+  "description": "Scraping bloomberg.com to extract article text and save it to a mongodb collection.",
+  "fork": false,
+  "url": "https://api.github.com/repos/har777/bloomberg_scraping",
+  "languages_url": "https://api.github.com/repos/har777/bloomberg_scraping/languages",
+  "pulls_url": "https://api.github.com/repos/har777/bloomberg_scraping/pulls{/number}",
+  "created_at": "2014-04-07T07:59:05Z",
+  "updated_at": "2018-02-07T13:55:20Z",
+  "pushed_at": "2014-04-12T15:21:39Z",
+  "homepage": null,
+  "size": 240,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "har777": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 250561,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T22:30:25.546Z"
+}

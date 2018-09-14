@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "jus",
+  "full_name": "jus/jus",
+  "owner": "jus",
+  "private": false,
+  "html_url": "https://github.com/jus/jus",
+  "description": ":watermelon: An opinionated tool for making static websites with browserify",
+  "fork": false,
+  "url": "https://api.github.com/repos/jus/jus",
+  "languages_url": "https://api.github.com/repos/jus/jus/languages",
+  "pulls_url": "https://api.github.com/repos/jus/jus/pulls{/number}",
+  "created_at": "2015-08-05T05:36:16Z",
+  "updated_at": "2018-08-12T21:29:42Z",
+  "pushed_at": "2018-08-12T14:51:01Z",
+  "homepage": "http://jus.js.org",
+  "size": 5327,
+  "stargazers_count": 99,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "jus",
+    "id": 25749135,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI1NzQ5MTM1",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/25749135?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jus",
+    "html_url": "https://github.com/jus",
+    "followers_url": "https://api.github.com/users/jus/followers",
+    "following_url": "https://api.github.com/users/jus/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jus/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jus/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jus/subscriptions",
+    "organizations_url": "https://api.github.com/users/jus/orgs",
+    "repos_url": "https://api.github.com/users/jus/repos",
+    "events_url": "https://api.github.com/users/jus/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jus/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "payofdz": 1,
+    "djfdev": 3,
+    "jdormit": 4,
+    "wmhilton": 10,
+    "elingerojo": 14,
+    "zeke": 229
+  },
+  "pulls_authors": [
+    "TiagoDanin",
+    "payofdz",
+    "zeke",
+    "djfdev",
+    "elingerojo",
+    "wmhilton",
+    "jdormit",
+    "motleydev"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 56560,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 29385,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-13T04:49:08.507Z"
+}

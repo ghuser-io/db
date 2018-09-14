@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pycodec",
+  "full_name": "moul/pycodec",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/pycodec",
+  "description": "Python repr encoding in Golang",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/pycodec",
+  "languages_url": "https://api.github.com/repos/moul/pycodec/languages",
+  "pulls_url": "https://api.github.com/repos/moul/pycodec/pulls{/number}",
+  "created_at": "2017-11-28T10:25:45Z",
+  "updated_at": "2017-12-15T00:01:48Z",
+  "pushed_at": "2017-11-28T12:12:22Z",
+  "homepage": "https://godoc.org/github.com/moul/pycodec",
+  "size": 47,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 112603,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:44.585Z"
+}

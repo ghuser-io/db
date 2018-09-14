@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gpm",
+  "full_name": "amir/gpm",
+  "owner": "amir",
+  "private": false,
+  "html_url": "https://github.com/amir/gpm",
+  "description": "Unofficial Google Play Music API client library ",
+  "fork": false,
+  "url": "https://api.github.com/repos/amir/gpm",
+  "languages_url": "https://api.github.com/repos/amir/gpm/languages",
+  "pulls_url": "https://api.github.com/repos/amir/gpm/pulls{/number}",
+  "created_at": "2013-11-03T00:42:37Z",
+  "updated_at": "2018-01-15T16:19:21Z",
+  "pushed_at": "2015-07-31T04:54:08Z",
+  "homepage": null,
+  "size": 175,
+  "stargazers_count": 9,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "amir": 7
+  },
+  "pulls_authors": [
+    "abourget"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 10692,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T22:27:01.566Z"
+}

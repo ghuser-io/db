@@ -1,0 +1,113 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "har777/tsuki": {
+      "full_name": "har777/tsuki",
+      "name": "tsuki",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 2.1059946969245003,
+      "total_score": 2.1059946969245003,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "inuits/storm-el7-rpm": {
+      "full_name": "inuits/storm-el7-rpm",
+      "name": "storm-el7-rpm",
+      "stargazers_count": 5,
+      "popularity": 1.6128219920330789,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 1.0651042613545698,
+      "total_score": 5.903570237453806,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "antirez/redis": {
+      "full_name": "antirez/redis",
+      "name": "redis",
+      "stargazers_count": 31549,
+      "popularity": 5,
+      "percentage": 0,
+      "maturity": 4.8575037204817315,
+      "total_commits_count": 7214,
+      "activity": 5,
+      "total_score": 29.71500744096346,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "har777/play_store_scraper": {
+      "full_name": "har777/play_store_scraper",
+      "name": "play_store_scraper",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 0.3778964495029511,
+      "total_score": 0.3778964495029511,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "har777/bloomberg_scraping": {
+      "full_name": "har777/bloomberg_scraping",
+      "name": "bloomberg_scraping",
+      "stargazers_count": 3,
+      "popularity": 1.3222565221025262,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 0.35914038634572787,
+      "total_score": 21.515244739986148,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "har777/Todo-App": {
+      "full_name": "har777/Todo-App",
+      "name": "Todo-App",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 0.31900318206979694,
+      "total_score": 0.31900318206979694,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "scikit-learn/scikit-learn": {
+      "full_name": "scikit-learn/scikit-learn",
+      "name": "scikit-learn",
+      "stargazers_count": 30518,
+      "popularity": 5,
+      "percentage": 0,
+      "maturity": 5,
+      "total_commits_count": 21360,
+      "activity": 5,
+      "total_score": 30,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "har777/RAGEWOLF": {
+      "full_name": "har777/RAGEWOLF",
+      "name": "RAGEWOLF",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 0.28964663010804337,
+      "total_score": 0.28964663010804337,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "inuits",
+    "scikit-learn"
+  ]
+}

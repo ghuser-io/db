@@ -1,0 +1,36 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pyyaml",
+  "full_name": "cuu508/pyyaml",
+  "owner": "cuu508",
+  "private": false,
+  "html_url": "https://github.com/cuu508/pyyaml",
+  "description": "Mirror of http://svn.pyyaml.org/pyyaml/",
+  "fork": true,
+  "url": "https://api.github.com/repos/cuu508/pyyaml",
+  "languages_url": "https://api.github.com/repos/cuu508/pyyaml/languages",
+  "pulls_url": "https://api.github.com/repos/cuu508/pyyaml/pulls{/number}",
+  "created_at": "2012-05-11T10:48:07Z",
+  "updated_at": "2013-01-09T03:33:22Z",
+  "pushed_at": "2011-11-03T05:14:17Z",
+  "homepage": "http://svn.pyyaml.org/pyyaml/",
+  "size": 510,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "xitology": 174
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T05:00:24.065Z"
+}

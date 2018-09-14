@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mc-launch",
+  "full_name": "mkg20001/mc-launch",
+  "owner": "mkg20001",
+  "private": false,
+  "html_url": "https://github.com/mkg20001/mc-launch",
+  "description": "A minecraft launcher based on nodeJS",
+  "fork": false,
+  "url": "https://api.github.com/repos/mkg20001/mc-launch",
+  "languages_url": "https://api.github.com/repos/mkg20001/mc-launch/languages",
+  "pulls_url": "https://api.github.com/repos/mkg20001/mc-launch/pulls{/number}",
+  "created_at": "2016-02-20T17:13:26Z",
+  "updated_at": "2016-11-03T09:51:39Z",
+  "pushed_at": "2018-02-15T00:41:13Z",
+  "homepage": null,
+  "size": 30,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mkg20001": 12
+  },
+  "pulls_authors": [
+    "snyk-bot"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 25143,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 18001,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 251,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 120,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:35.329Z"
+}

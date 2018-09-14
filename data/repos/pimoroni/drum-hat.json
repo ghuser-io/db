@@ -1,0 +1,85 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "drum-hat",
+  "full_name": "pimoroni/drum-hat",
+  "owner": "pimoroni",
+  "private": false,
+  "html_url": "https://github.com/pimoroni/drum-hat",
+  "description": "Python library for the Pimoroni Drum HAT Raspberry Pi Add-on board.",
+  "fork": false,
+  "url": "https://api.github.com/repos/pimoroni/drum-hat",
+  "languages_url": "https://api.github.com/repos/pimoroni/drum-hat/languages",
+  "pulls_url": "https://api.github.com/repos/pimoroni/drum-hat/pulls{/number}",
+  "created_at": "2015-12-11T11:55:07Z",
+  "updated_at": "2018-04-14T20:58:48Z",
+  "pushed_at": "2018-02-20T12:57:24Z",
+  "homepage": "https://shop.pimoroni.com/products/drum-hat",
+  "size": 1258,
+  "stargazers_count": 23,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pimoroni",
+    "id": 2399917,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzOTk5MTc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2399917?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pimoroni",
+    "html_url": "https://github.com/pimoroni",
+    "followers_url": "https://api.github.com/users/pimoroni/followers",
+    "following_url": "https://api.github.com/users/pimoroni/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pimoroni/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pimoroni/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pimoroni/subscriptions",
+    "organizations_url": "https://api.github.com/users/pimoroni/orgs",
+    "repos_url": "https://api.github.com/users/pimoroni/repos",
+    "events_url": "https://api.github.com/users/pimoroni/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pimoroni/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "sandyjmacdonald": 1,
+    "lurch": 3,
+    "RogueM": 27,
+    "Gadgetoid": 38
+  },
+  "pulls_authors": [
+    "Gadgetoid",
+    "RogueM",
+    "lurch",
+    "sandyjmacdonald"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 17344,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 7017,
+      "color": "#89e051"
+    },
+    "HTML": {
+      "bytes": 1098,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 983,
+      "color": "#563d7c"
+    },
+    "Makefile": {
+      "bytes": 322,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:09.079Z"
+}

@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "emojiui",
+  "full_name": "aviaryan/emojiui",
+  "owner": "aviaryan",
+  "private": false,
+  "html_url": "https://github.com/aviaryan/emojiui",
+  "description": "Offline Emoji searcher app",
+  "fork": false,
+  "url": "https://api.github.com/repos/aviaryan/emojiui",
+  "languages_url": "https://api.github.com/repos/aviaryan/emojiui/languages",
+  "pulls_url": "https://api.github.com/repos/aviaryan/emojiui/pulls{/number}",
+  "created_at": "2016-05-20T15:23:02Z",
+  "updated_at": "2017-10-01T01:11:12Z",
+  "pushed_at": "2017-08-08T18:51:28Z",
+  "homepage": null,
+  "size": 18,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "anshumanv": 1,
+    "boddumanohar": 1,
+    "aviaryan": 21
+  },
+  "pulls_authors": [
+    "anshumanv",
+    "boddumanohar"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2997,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 220,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-04T12:17:58.431Z"
+}

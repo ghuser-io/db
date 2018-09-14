@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ExtractSublimePackage",
+  "full_name": "SublimeText/ExtractSublimePackage",
+  "owner": "SublimeText",
+  "private": false,
+  "html_url": "https://github.com/SublimeText/ExtractSublimePackage",
+  "description": "Extract .sublime-package files to the Sublime Text Packages folder.",
+  "fork": false,
+  "url": "https://api.github.com/repos/SublimeText/ExtractSublimePackage",
+  "languages_url": "https://api.github.com/repos/SublimeText/ExtractSublimePackage/languages",
+  "pulls_url": "https://api.github.com/repos/SublimeText/ExtractSublimePackage/pulls{/number}",
+  "created_at": "2013-10-23T14:12:20Z",
+  "updated_at": "2018-06-10T08:24:58Z",
+  "pushed_at": "2018-08-23T13:56:57Z",
+  "homepage": "",
+  "size": 108,
+  "stargazers_count": 15,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "SublimeText",
+    "id": 684879,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY4NDg3OQ==",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/684879?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/SublimeText",
+    "html_url": "https://github.com/SublimeText",
+    "followers_url": "https://api.github.com/users/SublimeText/followers",
+    "following_url": "https://api.github.com/users/SublimeText/following{/other_user}",
+    "gists_url": "https://api.github.com/users/SublimeText/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/SublimeText/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/SublimeText/subscriptions",
+    "organizations_url": "https://api.github.com/users/SublimeText/orgs",
+    "repos_url": "https://api.github.com/users/SublimeText/repos",
+    "events_url": "https://api.github.com/users/SublimeText/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/SublimeText/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "twolfson": 1,
+    "fkrull": 1
+  },
+  "pulls_authors": [
+    "budRich",
+    "twolfson"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 5257,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 570,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:50.696Z"
+}

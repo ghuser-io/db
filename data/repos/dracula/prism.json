@@ -1,0 +1,74 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "prism",
+  "full_name": "dracula/prism",
+  "owner": "dracula",
+  "private": false,
+  "html_url": "https://github.com/dracula/prism",
+  "description": ":scream: A dark theme for Prism.js",
+  "fork": false,
+  "url": "https://api.github.com/repos/dracula/prism",
+  "languages_url": "https://api.github.com/repos/dracula/prism/languages",
+  "created_at": "2018-04-17T21:32:19Z",
+  "updated_at": "2018-05-30T20:48:09Z",
+  "pushed_at": "2018-05-30T20:48:08Z",
+  "homepage": null,
+  "size": 1058,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "dracula",
+    "id": 19436447,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5NDM2NDQ3",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/19436447?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/dracula",
+    "html_url": "https://github.com/dracula",
+    "followers_url": "https://api.github.com/users/dracula/followers",
+    "following_url": "https://api.github.com/users/dracula/following{/other_user}",
+    "gists_url": "https://api.github.com/users/dracula/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/dracula/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/dracula/subscriptions",
+    "organizations_url": "https://api.github.com/users/dracula/orgs",
+    "repos_url": "https://api.github.com/users/dracula/repos",
+    "events_url": "https://api.github.com/users/dracula/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/dracula/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jonleopard": 3,
+    "AurelienLourot": 12,
+    "gusbemacbe": 30
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 366014,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 17120,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 10735,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/dracula/prism/pulls{/number}",
+  "pulls_authors": [
+    "AurelienLourot",
+    "jonleopard"
+  ]
+}

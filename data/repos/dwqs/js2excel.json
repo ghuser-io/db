@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "js2excel",
+  "full_name": "dwqs/js2excel",
+  "owner": "dwqs",
+  "private": false,
+  "html_url": "https://github.com/dwqs/js2excel",
+  "description": ":relieved: :smiley: :imp: A simple module for excel and json converts each other, which works in the browser.",
+  "fork": false,
+  "url": "https://api.github.com/repos/dwqs/js2excel",
+  "languages_url": "https://api.github.com/repos/dwqs/js2excel/languages",
+  "pulls_url": "https://api.github.com/repos/dwqs/js2excel/pulls{/number}",
+  "created_at": "2017-07-01T03:19:42Z",
+  "updated_at": "2018-09-12T20:28:26Z",
+  "pushed_at": "2018-08-24T11:16:14Z",
+  "homepage": "",
+  "size": 1666,
+  "stargazers_count": 33,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dwqs": 89
+  },
+  "pulls_authors": [
+    "dariobanfi",
+    "stackola",
+    "InsomniumBR"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 4072,
+      "color": "#2b7489"
+    },
+    "JavaScript": {
+      "bytes": 1292,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T23:49:24.797Z"
+}

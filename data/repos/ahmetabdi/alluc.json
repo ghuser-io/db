@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "alluc",
+  "full_name": "ahmetabdi/alluc",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/alluc",
+  "description": ":star2: Wrapper for the alluc.com API",
+  "fork": false,
+  "url": "https://api.github.com/repos/ahmetabdi/alluc",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/alluc/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/alluc/pulls{/number}",
+  "created_at": "2015-03-19T10:32:40Z",
+  "updated_at": "2017-09-25T15:28:55Z",
+  "pushed_at": "2015-05-10T23:20:43Z",
+  "homepage": "http://api.alluc.com/",
+  "size": 172,
+  "stargazers_count": 6,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 11
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 5030,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 115,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:01.598Z"
+}

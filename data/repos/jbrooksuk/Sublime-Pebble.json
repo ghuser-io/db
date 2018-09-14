@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Sublime-Pebble",
+  "full_name": "jbrooksuk/Sublime-Pebble",
+  "owner": "jbrooksuk",
+  "private": false,
+  "html_url": "https://github.com/jbrooksuk/Sublime-Pebble",
+  "description": "Pebble Package for Sublime Text",
+  "fork": false,
+  "url": "https://api.github.com/repos/jbrooksuk/Sublime-Pebble",
+  "languages_url": "https://api.github.com/repos/jbrooksuk/Sublime-Pebble/languages",
+  "pulls_url": "https://api.github.com/repos/jbrooksuk/Sublime-Pebble/pulls{/number}",
+  "created_at": "2014-02-02T15:03:10Z",
+  "updated_at": "2017-01-04T04:44:14Z",
+  "pushed_at": "2015-12-20T13:02:47Z",
+  "homepage": "http://james-brooks.uk",
+  "size": 36,
+  "stargazers_count": 22,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "grimborg": 1,
+    "tyhoff": 2,
+    "gregoiresage": 5,
+    "jbrooksuk": 18
+  },
+  "pulls_authors": [
+    "csperle",
+    "gregoiresage",
+    "grimborg",
+    "davidstosik",
+    "tyhoff"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 55234,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 4089,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:48.938Z"
+}

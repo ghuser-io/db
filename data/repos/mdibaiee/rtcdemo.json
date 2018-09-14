@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rtcdemo",
+  "full_name": "mdibaiee/rtcdemo",
+  "owner": "mdibaiee",
+  "private": false,
+  "html_url": "https://github.com/mdibaiee/rtcdemo",
+  "description": "A simple WebRTC Demo which allows you to have a video + voice + text chat with your friends, without a backend",
+  "fork": false,
+  "url": "https://api.github.com/repos/mdibaiee/rtcdemo",
+  "languages_url": "https://api.github.com/repos/mdibaiee/rtcdemo/languages",
+  "pulls_url": "https://api.github.com/repos/mdibaiee/rtcdemo/pulls{/number}",
+  "created_at": "2014-09-10T17:04:36Z",
+  "updated_at": "2015-04-05T18:29:17Z",
+  "pushed_at": "2014-09-15T18:28:09Z",
+  "homepage": null,
+  "size": 228,
+  "stargazers_count": 2,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "mdibaiee": 17
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CSS": {
+      "bytes": 9787,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 5032,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:46.888Z"
+}

@@ -1,0 +1,98 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fleece",
+  "full_name": "couchbaselabs/fleece",
+  "owner": "couchbaselabs",
+  "private": false,
+  "html_url": "https://github.com/couchbaselabs/fleece",
+  "description": "A fast, compact, JSON-equivalent binary data format",
+  "fork": false,
+  "url": "https://api.github.com/repos/couchbaselabs/fleece",
+  "languages_url": "https://api.github.com/repos/couchbaselabs/fleece/languages",
+  "pulls_url": "https://api.github.com/repos/couchbaselabs/fleece/pulls{/number}",
+  "created_at": "2015-11-17T21:32:57Z",
+  "updated_at": "2018-09-11T02:39:39Z",
+  "pushed_at": "2018-09-06T23:19:29Z",
+  "homepage": null,
+  "size": 1795,
+  "stargazers_count": 54,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "couchbaselabs",
+    "id": 636956,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYzNjk1Ng==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/636956?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/couchbaselabs",
+    "html_url": "https://github.com/couchbaselabs",
+    "followers_url": "https://api.github.com/users/couchbaselabs/followers",
+    "following_url": "https://api.github.com/users/couchbaselabs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/couchbaselabs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/couchbaselabs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/couchbaselabs/subscriptions",
+    "organizations_url": "https://api.github.com/users/couchbaselabs/orgs",
+    "repos_url": "https://api.github.com/users/couchbaselabs/repos",
+    "events_url": "https://api.github.com/users/couchbaselabs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/couchbaselabs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "bbrks": 1,
+    "d122y": 1,
+    "mz2": 1,
+    "pasin": 1,
+    "avsej": 2,
+    "borrrden": 73,
+    "snej": 397
+  },
+  "pulls_authors": [
+    "bbrks",
+    "borrrden",
+    "d122y",
+    "hideki",
+    "avsej",
+    "mz2",
+    "daverigby",
+    "pasin"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 717030,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 155887,
+      "color": "#555555"
+    },
+    "Objective-C++": {
+      "bytes": 44618,
+      "color": "#6866fb"
+    },
+    "Objective-C": {
+      "bytes": 5601,
+      "color": "#438eff"
+    },
+    "CMake": {
+      "bytes": 3212,
+      "color": "#ccc"
+    },
+    "PowerShell": {
+      "bytes": 2037,
+      "color": "#012456"
+    },
+    "Makefile": {
+      "bytes": 1759,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 137,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:57:36.927Z"
+}

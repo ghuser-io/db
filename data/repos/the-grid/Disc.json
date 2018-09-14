@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Disc",
+  "full_name": "the-grid/Disc",
+  "owner": "the-grid",
+  "private": false,
+  "html_url": "https://github.com/the-grid/Disc",
+  "description": "An API client for Passport",
+  "fork": false,
+  "url": "https://api.github.com/repos/the-grid/Disc",
+  "languages_url": "https://api.github.com/repos/the-grid/Disc/languages",
+  "pulls_url": "https://api.github.com/repos/the-grid/Disc/pulls{/number}",
+  "created_at": "2015-10-18T03:56:49Z",
+  "updated_at": "2017-11-02T17:41:54Z",
+  "pushed_at": "2016-12-27T23:11:19Z",
+  "homepage": null,
+  "size": 397,
+  "stargazers_count": 1,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "the-grid",
+    "id": 2418158,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI0MTgxNTg=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/2418158?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/the-grid",
+    "html_url": "https://github.com/the-grid",
+    "followers_url": "https://api.github.com/users/the-grid/followers",
+    "following_url": "https://api.github.com/users/the-grid/following{/other_user}",
+    "gists_url": "https://api.github.com/users/the-grid/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/the-grid/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/the-grid/subscriptions",
+    "organizations_url": "https://api.github.com/users/the-grid/orgs",
+    "repos_url": "https://api.github.com/users/the-grid/repos",
+    "events_url": "https://api.github.com/users/the-grid/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/the-grid/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Eke": 15,
+    "nickvelloff": 31,
+    "paulyoung": 77
+  },
+  "pulls_authors": [
+    "nickvelloff",
+    "paulyoung"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 83729,
+      "color": "#ffac45"
+    },
+    "Ruby": {
+      "bytes": 1879,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 733,
+      "color": "#89e051"
+    },
+    "Objective-C": {
+      "bytes": 346,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:54.460Z"
+}

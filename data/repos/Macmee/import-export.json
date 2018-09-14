@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "import-export",
+  "full_name": "Macmee/import-export",
+  "owner": "Macmee",
+  "private": false,
+  "html_url": "https://github.com/Macmee/import-export",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/Macmee/import-export",
+  "languages_url": "https://api.github.com/repos/Macmee/import-export/languages",
+  "pulls_url": "https://api.github.com/repos/Macmee/import-export/pulls{/number}",
+  "created_at": "2016-06-06T20:12:44Z",
+  "updated_at": "2018-06-16T04:50:00Z",
+  "pushed_at": "2018-03-31T11:49:37Z",
+  "homepage": null,
+  "size": 3,
+  "stargazers_count": 18,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Macmee": 4
+  },
+  "pulls_authors": [
+    "vpotseluyko",
+    "FND",
+    "trufae",
+    "jj101k",
+    "sirJeo",
+    "MikeKovarik",
+    "niklabh"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 726,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-09T22:43:12.648Z"
+}

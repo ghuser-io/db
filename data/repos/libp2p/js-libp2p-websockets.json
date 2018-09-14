@@ -1,0 +1,90 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "js-libp2p-websockets",
+  "full_name": "libp2p/js-libp2p-websockets",
+  "owner": "libp2p",
+  "private": false,
+  "html_url": "https://github.com/libp2p/js-libp2p-websockets",
+  "description": "WebSockets module that libp2p uses and that implements the interface-transport spec ",
+  "fork": false,
+  "url": "https://api.github.com/repos/libp2p/js-libp2p-websockets",
+  "languages_url": "https://api.github.com/repos/libp2p/js-libp2p-websockets/languages",
+  "pulls_url": "https://api.github.com/repos/libp2p/js-libp2p-websockets/pulls{/number}",
+  "created_at": "2016-02-25T12:21:14Z",
+  "updated_at": "2018-09-13T09:35:46Z",
+  "pushed_at": "2018-07-19T16:26:56Z",
+  "homepage": "https://libp2p.io",
+  "size": 98,
+  "stargazers_count": 16,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "libp2p",
+    "id": 14838238,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0ODM4MjM4",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/14838238?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/libp2p",
+    "html_url": "https://github.com/libp2p",
+    "followers_url": "https://api.github.com/users/libp2p/followers",
+    "following_url": "https://api.github.com/users/libp2p/following{/other_user}",
+    "gists_url": "https://api.github.com/users/libp2p/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/libp2p/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/libp2p/subscriptions",
+    "organizations_url": "https://api.github.com/users/libp2p/orgs",
+    "repos_url": "https://api.github.com/users/libp2p/repos",
+    "events_url": "https://api.github.com/users/libp2p/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/libp2p/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jacobheun": 1,
+    "fsdiogo": 1,
+    "VictorBjelkholm": 1,
+    "jackkleeman": 1,
+    "quaelin": 1,
+    "RichardLitt": 1,
+    "mkg20001": 2,
+    "dryajov": 3,
+    "greenkeeperio-bot": 3,
+    "fbaiodias": 6,
+    "dignifiedquire": 8,
+    "diasdavid": 92
+  },
+  "pulls_authors": [
+    "jacobheun",
+    "mkg20001",
+    "fsdiogo",
+    "VictorBjelkholm",
+    "dryajov",
+    "diasdavid",
+    "jackkleeman",
+    "greenkeeperio-bot",
+    "greenkeeper[bot]",
+    "quaelin",
+    "dignifiedquire",
+    "RichardLitt",
+    "fbaiodias"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 20960,
+      "color": "#f1e05a"
+    },
+    "Groovy": {
+      "bytes": 190,
+      "color": "#e69f56"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:24.829Z"
+}

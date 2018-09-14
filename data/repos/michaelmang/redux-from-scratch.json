@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "redux-from-scratch",
+  "full_name": "michaelmang/redux-from-scratch",
+  "owner": "michaelmang",
+  "private": false,
+  "html_url": "https://github.com/michaelmang/redux-from-scratch",
+  "description": "Official code for my ebook, Redux From Scratch",
+  "fork": false,
+  "url": "https://api.github.com/repos/michaelmang/redux-from-scratch",
+  "languages_url": "https://api.github.com/repos/michaelmang/redux-from-scratch/languages",
+  "pulls_url": "https://api.github.com/repos/michaelmang/redux-from-scratch/pulls{/number}",
+  "created_at": "2017-07-04T19:39:41Z",
+  "updated_at": "2018-07-28T20:49:12Z",
+  "pushed_at": "2017-07-13T15:08:35Z",
+  "homepage": "https://leanpub.com/reduxfromscratch",
+  "size": 294,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "michaelmang": 53
+  },
+  "pulls_authors": [
+    "captbaritone"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2686622,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 16690,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 2472,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:36.360Z"
+}

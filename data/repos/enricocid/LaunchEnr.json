@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "LaunchEnr",
+  "full_name": "enricocid/LaunchEnr",
+  "owner": "enricocid",
+  "private": false,
+  "html_url": "https://github.com/enricocid/LaunchEnr",
+  "description": "Simple Launcher made in Italy",
+  "fork": false,
+  "url": "https://api.github.com/repos/enricocid/LaunchEnr",
+  "languages_url": "https://api.github.com/repos/enricocid/LaunchEnr/languages",
+  "pulls_url": "https://api.github.com/repos/enricocid/LaunchEnr/pulls{/number}",
+  "created_at": "2017-08-07T15:27:36Z",
+  "updated_at": "2018-09-10T10:10:42Z",
+  "pushed_at": "2017-11-16T19:00:02Z",
+  "homepage": "",
+  "size": 10466,
+  "stargazers_count": 98,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "deletescape": 1,
+    "Enrico204": 2,
+    "enricocid": 30
+  },
+  "pulls_authors": [
+    "deletescape",
+    "Enrico204"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 2713836,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-10T15:05:51.566Z"
+}

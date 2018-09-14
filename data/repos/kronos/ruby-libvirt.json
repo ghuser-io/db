@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ruby-libvirt",
+  "full_name": "kronos/ruby-libvirt",
+  "owner": "kronos",
+  "private": false,
+  "html_url": "https://github.com/kronos/ruby-libvirt",
+  "description": "Ruby bindings to libvirt",
+  "fork": false,
+  "url": "https://api.github.com/repos/kronos/ruby-libvirt",
+  "languages_url": "https://api.github.com/repos/kronos/ruby-libvirt/languages",
+  "pulls_url": "https://api.github.com/repos/kronos/ruby-libvirt/pulls{/number}",
+  "created_at": "2010-05-13T15:42:20Z",
+  "updated_at": "2016-02-18T22:43:41Z",
+  "pushed_at": "2010-07-05T14:23:38Z",
+  "homepage": "",
+  "size": 170,
+  "stargazers_count": 10,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "kronos": 48
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 42359,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:32.236Z"
+}

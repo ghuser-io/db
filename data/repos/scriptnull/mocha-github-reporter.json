@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mocha-github-reporter",
+  "full_name": "scriptnull/mocha-github-reporter",
+  "owner": "scriptnull",
+  "private": false,
+  "html_url": "https://github.com/scriptnull/mocha-github-reporter",
+  "description": "Delivering mocha results from CI to Github. 📋",
+  "fork": false,
+  "url": "https://api.github.com/repos/scriptnull/mocha-github-reporter",
+  "languages_url": "https://api.github.com/repos/scriptnull/mocha-github-reporter/languages",
+  "pulls_url": "https://api.github.com/repos/scriptnull/mocha-github-reporter/pulls{/number}",
+  "created_at": "2017-02-25T18:48:53Z",
+  "updated_at": "2017-09-06T09:27:35Z",
+  "pushed_at": "2017-02-28T21:37:37Z",
+  "homepage": null,
+  "size": 625,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "scriptnull": 41
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 8855,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:00.636Z"
+}

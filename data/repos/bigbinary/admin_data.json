@@ -1,0 +1,93 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "admin_data",
+  "full_name": "bigbinary/admin_data",
+  "owner": "bigbinary",
+  "private": false,
+  "html_url": "https://github.com/bigbinary/admin_data",
+  "description": "A non instrusive gem which helps you browse, search and manage your data using browser",
+  "fork": false,
+  "url": "https://api.github.com/repos/bigbinary/admin_data",
+  "languages_url": "https://api.github.com/repos/bigbinary/admin_data/languages",
+  "pulls_url": "https://api.github.com/repos/bigbinary/admin_data/pulls{/number}",
+  "created_at": "2009-04-30T12:36:03Z",
+  "updated_at": "2018-06-03T13:42:27Z",
+  "pushed_at": "2013-03-14T00:32:46Z",
+  "homepage": "http://admin-data-demo.heroku.com/admin_data",
+  "size": 5512,
+  "stargazers_count": 384,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "bigbinary",
+    "id": 780670,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc4MDY3MA==",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/780670?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/bigbinary",
+    "html_url": "https://github.com/bigbinary",
+    "followers_url": "https://api.github.com/users/bigbinary/followers",
+    "following_url": "https://api.github.com/users/bigbinary/following{/other_user}",
+    "gists_url": "https://api.github.com/users/bigbinary/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/bigbinary/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/bigbinary/subscriptions",
+    "organizations_url": "https://api.github.com/users/bigbinary/orgs",
+    "repos_url": "https://api.github.com/users/bigbinary/repos",
+    "events_url": "https://api.github.com/users/bigbinary/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/bigbinary/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "axs89": 1,
+    "jpshackelford": 1,
+    "snaury": 1,
+    "jgeiger": 2,
+    "pacoguzman": 2,
+    "adamcrown": 3,
+    "chrismccord": 3,
+    "comboy": 3,
+    "mperham": 3,
+    "chrisvariety": 3,
+    "chetan": 12,
+    "subbarao": 15,
+    "alexrothenberg": 16
+  },
+  "pulls_authors": [
+    "htcl",
+    "megpha",
+    "stevef",
+    "ralph",
+    "nathanlrivera",
+    "frahugo",
+    "halloffame",
+    "adamcrown",
+    "chrismccord",
+    "capotej",
+    "axs89",
+    "jpshackelford",
+    "anibali",
+    "chetan",
+    "jgeiger"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 101063,
+      "color": "#701516"
+    },
+    "JavaScript": {
+      "bytes": 12146,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T10:41:34.802Z"
+}

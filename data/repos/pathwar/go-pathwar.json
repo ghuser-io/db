@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "go-pathwar",
+  "full_name": "pathwar/go-pathwar",
+  "owner": "pathwar",
+  "private": false,
+  "html_url": "https://github.com/pathwar/go-pathwar",
+  "description": ":wrench: Golang client for the Pathwar API",
+  "fork": false,
+  "url": "https://api.github.com/repos/pathwar/go-pathwar",
+  "languages_url": "https://api.github.com/repos/pathwar/go-pathwar/languages",
+  "pulls_url": "https://api.github.com/repos/pathwar/go-pathwar/pulls{/number}",
+  "created_at": "2015-09-21T08:42:32Z",
+  "updated_at": "2015-10-02T10:12:41Z",
+  "pushed_at": "2015-10-15T12:49:56Z",
+  "homepage": null,
+  "size": 306,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pathwar",
+    "id": 2904560,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI5MDQ1NjA=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/2904560?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pathwar",
+    "html_url": "https://github.com/pathwar",
+    "followers_url": "https://api.github.com/users/pathwar/followers",
+    "following_url": "https://api.github.com/users/pathwar/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pathwar/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pathwar/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pathwar/subscriptions",
+    "organizations_url": "https://api.github.com/users/pathwar/orgs",
+    "repos_url": "https://api.github.com/users/pathwar/repos",
+    "events_url": "https://api.github.com/users/pathwar/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pathwar/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "QuentinPerez": 5,
+    "moul": 13
+  },
+  "pulls_authors": [
+    "QuentinPerez",
+    "moul"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 13932,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 1267,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:21.907Z"
+}

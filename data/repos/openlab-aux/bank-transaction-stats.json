@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bank-transaction-stats",
+  "full_name": "openlab-aux/bank-transaction-stats",
+  "owner": "openlab-aux",
+  "private": false,
+  "html_url": "https://github.com/openlab-aux/bank-transaction-stats",
+  "description": "pull monthly transaction data from bank via HBCI; do some small stats over the CSV",
+  "fork": false,
+  "url": "https://api.github.com/repos/openlab-aux/bank-transaction-stats",
+  "languages_url": "https://api.github.com/repos/openlab-aux/bank-transaction-stats/languages",
+  "pulls_url": "https://api.github.com/repos/openlab-aux/bank-transaction-stats/pulls{/number}",
+  "created_at": "2016-06-06T16:25:25Z",
+  "updated_at": "2018-02-25T09:43:42Z",
+  "pushed_at": "2017-08-10T00:10:19Z",
+  "homepage": "",
+  "size": 17,
+  "stargazers_count": 5,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "openlab-aux",
+    "id": 3979750,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM5Nzk3NTA=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/3979750?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/openlab-aux",
+    "html_url": "https://github.com/openlab-aux",
+    "followers_url": "https://api.github.com/users/openlab-aux/followers",
+    "following_url": "https://api.github.com/users/openlab-aux/following{/other_user}",
+    "gists_url": "https://api.github.com/users/openlab-aux/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/openlab-aux/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/openlab-aux/subscriptions",
+    "organizations_url": "https://api.github.com/users/openlab-aux/orgs",
+    "repos_url": "https://api.github.com/users/openlab-aux/repos",
+    "events_url": "https://api.github.com/users/openlab-aux/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/openlab-aux/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "moba": 1,
+    "midzer": 3,
+    "Profpatsch": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 2651,
+      "color": "#3572A5"
+    },
+    "Julia": {
+      "bytes": 1193,
+      "color": "#a270ba"
+    },
+    "Shell": {
+      "bytes": 966,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:44.079Z"
+}

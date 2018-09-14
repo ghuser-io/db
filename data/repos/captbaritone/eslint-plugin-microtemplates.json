@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "eslint-plugin-microtemplates",
+  "full_name": "captbaritone/eslint-plugin-microtemplates",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/eslint-plugin-microtemplates",
+  "description": "ESLint plugin for processing files that use Resig-style microtemplates (including Underscore.js and Lodash).",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/eslint-plugin-microtemplates",
+  "languages_url": "https://api.github.com/repos/captbaritone/eslint-plugin-microtemplates/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/eslint-plugin-microtemplates/pulls{/number}",
+  "created_at": "2016-02-06T22:08:23Z",
+  "updated_at": "2018-07-29T22:04:09Z",
+  "pushed_at": "2016-02-07T07:48:23Z",
+  "homepage": null,
+  "size": 24,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "gitter-badger": 1,
+    "platinumazure": 24
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 30278,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:49.097Z"
+}

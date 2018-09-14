@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "purescript-decimals",
+  "full_name": "sharkdp/purescript-decimals",
+  "owner": "sharkdp",
+  "private": false,
+  "html_url": "https://github.com/sharkdp/purescript-decimals",
+  "description": "Arbitrary precision numbers for PureScript",
+  "fork": false,
+  "url": "https://api.github.com/repos/sharkdp/purescript-decimals",
+  "languages_url": "https://api.github.com/repos/sharkdp/purescript-decimals/languages",
+  "pulls_url": "https://api.github.com/repos/sharkdp/purescript-decimals/pulls{/number}",
+  "created_at": "2017-03-17T17:35:30Z",
+  "updated_at": "2018-06-23T10:39:53Z",
+  "pushed_at": "2018-06-20T19:17:09Z",
+  "homepage": null,
+  "size": 18,
+  "stargazers_count": 7,
+  "language": "PureScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "themattchan": 1,
+    "mjhoy": 1,
+    "XertroV": 1,
+    "sharkdp": 13
+  },
+  "pulls_authors": [
+    "paulyoung",
+    "themattchan",
+    "mjhoy",
+    "sharkdp",
+    "XertroV"
+  ],
+  "languages": {
+    "PureScript": {
+      "bytes": 12110,
+      "color": "#1D222D"
+    },
+    "JavaScript": {
+      "bytes": 4321,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:50.687Z"
+}

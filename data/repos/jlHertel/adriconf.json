@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "adriconf",
+  "full_name": "jlHertel/adriconf",
+  "owner": "jlHertel",
+  "private": false,
+  "html_url": "https://github.com/jlHertel/adriconf",
+  "description": "Advanced DRI Configurator",
+  "fork": false,
+  "url": "https://api.github.com/repos/jlHertel/adriconf",
+  "languages_url": "https://api.github.com/repos/jlHertel/adriconf/languages",
+  "created_at": "2018-01-04T14:20:51Z",
+  "updated_at": "2018-09-07T07:48:05Z",
+  "pushed_at": "2018-09-06T05:53:54Z",
+  "homepage": null,
+  "size": 2680,
+  "stargazers_count": 51,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Calinou": 1,
+    "muzena": 1,
+    "ChristophHaag": 1,
+    "gerddie": 1,
+    "velurimithun": 25,
+    "jlHertel": 97
+  },
+  "languages": {
+    "C++": {
+      "bytes": 119912,
+      "color": "#f34b7d"
+    },
+    "CMake": {
+      "bytes": 3776,
+      "color": "#ccc"
+    },
+    "C": {
+      "bytes": 199,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-07T11:20:57.175Z",
+  "pulls_url": "https://api.github.com/repos/jlHertel/adriconf/pulls{/number}",
+  "pulls_authors": [
+    "Calinou",
+    "velurimithun",
+    "jlHertel",
+    "muzena",
+    "ChristophHaag",
+    "gerddie"
+  ]
+}

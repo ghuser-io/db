@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "patrun",
+  "full_name": "rjrodger/patrun",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/patrun",
+  "description": "A fast pattern matcher on JavaScript object properties.",
+  "fork": false,
+  "url": "https://api.github.com/repos/rjrodger/patrun",
+  "languages_url": "https://api.github.com/repos/rjrodger/patrun/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/patrun/pulls{/number}",
+  "created_at": "2013-09-25T16:07:19Z",
+  "updated_at": "2018-08-09T08:16:09Z",
+  "pushed_at": "2018-05-14T12:54:45Z",
+  "homepage": null,
+  "size": 519,
+  "stargazers_count": 126,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "colmharte": 1,
+    "gitter-badger": 1,
+    "mrwillihog": 1,
+    "AdrieanKhisbe": 8,
+    "rjrodger": 49
+  },
+  "pulls_authors": [
+    "AdrieanKhisbe",
+    "colmharte",
+    "gitter-badger",
+    "mrwillihog",
+    "bitdeli-chef"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 37702,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 264,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:27.906Z"
+}

@@ -1,0 +1,94 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ant-ivy",
+  "full_name": "tt-gf/ant-ivy",
+  "owner": "tt-gf",
+  "private": false,
+  "html_url": "https://github.com/tt-gf/ant-ivy",
+  "description": "Mirror of Apache Ant Ivy",
+  "fork": true,
+  "url": "https://api.github.com/repos/tt-gf/ant-ivy",
+  "languages_url": "https://api.github.com/repos/tt-gf/ant-ivy/languages",
+  "created_at": "2016-12-02T13:59:15Z",
+  "updated_at": "2017-07-20T07:12:10Z",
+  "pushed_at": "2017-08-29T07:06:00Z",
+  "homepage": null,
+  "size": 10773,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "2.5.1/preempt-auth",
+  "organization": {
+    "login": "tt-gf",
+    "id": 14891304,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0ODkxMzA0",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/14891304?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/tt-gf",
+    "html_url": "https://github.com/tt-gf",
+    "followers_url": "https://api.github.com/users/tt-gf/followers",
+    "following_url": "https://api.github.com/users/tt-gf/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tt-gf/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/tt-gf/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tt-gf/subscriptions",
+    "organizations_url": "https://api.github.com/users/tt-gf/orgs",
+    "repos_url": "https://api.github.com/users/tt-gf/repos",
+    "events_url": "https://api.github.com/users/tt-gf/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/tt-gf/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "chinhodado": 1,
+    "qxo": 1,
+    "ernisv": 1,
+    "jbaruch": 1,
+    "cpfeiffer": 1,
+    "AurelienLourot": 2,
+    "cstanfill": 2,
+    "martinm82": 3,
+    "maikelvdh": 3,
+    "bodewig": 5,
+    "jeanlouisboudart": 5,
+    "mbenson": 22,
+    "twogee": 39,
+    "jaikiran": 58,
+    "nlalevee": 98
+  },
+  "languages": {
+    "Java": {
+      "bytes": 1647640,
+      "color": "#b07219"
+    },
+    "HTML": {
+      "bytes": 71858,
+      "color": "#e34c26"
+    },
+    "XSLT": {
+      "bytes": 28774,
+      "color": "#EB8CEB"
+    },
+    "Ruby": {
+      "bytes": 6313,
+      "color": "#701516"
+    },
+    "CSS": {
+      "bytes": 3813,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/tt-gf/ant-ivy/pulls{/number}",
+  "pulls_authors": [
+    "AurelienLourot",
+    "martinm82"
+  ]
+}

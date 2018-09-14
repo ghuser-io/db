@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "imedic",
+  "ghuser_created_at": "2018-09-11T20:42:34.609Z",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/13078968?v=4",
+  "html_url": "https://github.com/imedic",
+  "organizations_url": "https://api.github.com/users/imedic/orgs",
+  "repos_url": "https://api.github.com/users/imedic/repos",
+  "type": "User",
+  "name": "Ivan Medić",
+  "company": null,
+  "blog": "",
+  "location": "Split, Croatia",
+  "email": null,
+  "bio": null,
+  "public_gists": 0,
+  "created_at": "2015-06-27T16:56:07Z",
+  "updated_at": "2018-08-24T15:16:19Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:14:15.183Z",
+    "repos": [
+      "imedic/Vinitore",
+      "imedic/PMRIL-android",
+      "aplavsa/PMRIL_repo",
+      "imedic/Alice",
+      "hackathonovo/kalvarija",
+      "imedic/caesar",
+      "imedic/fswdbc-css",
+      "imedic/Algorithms-and-Data-Structures",
+      "imedic/Hacker-News-WPF",
+      "josiplabrovic/pzw16",
+      "mbrizic/funny-coso-memes",
+      "imedic/heatmap",
+      "shift-hackathon-2016/1-IAappBuilder",
+      "imedic/dictionary",
+      "imedic/NoName"
+    ]
+  }
+}

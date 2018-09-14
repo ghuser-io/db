@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "autolabeler",
+  "full_name": "probot/autolabeler",
+  "owner": "probot",
+  "private": false,
+  "html_url": "https://github.com/probot/autolabeler",
+  "description": "Add labels to Pull Requests based on matched file patterns",
+  "fork": false,
+  "url": "https://api.github.com/repos/probot/autolabeler",
+  "languages_url": "https://api.github.com/repos/probot/autolabeler/languages",
+  "pulls_url": "https://api.github.com/repos/probot/autolabeler/pulls{/number}",
+  "created_at": "2017-07-20T22:37:34Z",
+  "updated_at": "2018-09-05T17:08:09Z",
+  "pushed_at": "2018-08-30T08:02:57Z",
+  "homepage": null,
+  "size": 82,
+  "stargazers_count": 34,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "isc",
+    "name": "ISC License",
+    "spdx_id": "ISC",
+    "url": "https://api.github.com/licenses/isc",
+    "node_id": "MDc6TGljZW5zZTEw"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "probot",
+    "id": 26350515,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI2MzUwNTE1",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/26350515?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/probot",
+    "html_url": "https://github.com/probot",
+    "followers_url": "https://api.github.com/users/probot/followers",
+    "following_url": "https://api.github.com/users/probot/following{/other_user}",
+    "gists_url": "https://api.github.com/users/probot/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/probot/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/probot/subscriptions",
+    "organizations_url": "https://api.github.com/users/probot/orgs",
+    "repos_url": "https://api.github.com/users/probot/repos",
+    "events_url": "https://api.github.com/users/probot/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/probot/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "anshumanv": 1,
+    "tcbyrd": 1,
+    "dnldsht": 1,
+    "greenkeeperio-bot": 1,
+    "hiimbex": 1,
+    "mithro": 4,
+    "bkeepers": 7,
+    "greenkeeper[bot]": 7
+  },
+  "pulls_authors": [
+    "greenkeeper[bot]",
+    "pepibumur",
+    "mithro",
+    "anshumanv",
+    "bkeepers",
+    "dnldsht",
+    "hiimbex",
+    "luisschubert"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2720,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-05T20:15:50.094Z"
+}

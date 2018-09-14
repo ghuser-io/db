@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "RailsPipedriveGem",
+  "full_name": "jakepens71/RailsPipedriveGem",
+  "owner": "jakepens71",
+  "private": false,
+  "html_url": "https://github.com/jakepens71/RailsPipedriveGem",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/jakepens71/RailsPipedriveGem",
+  "languages_url": "https://api.github.com/repos/jakepens71/RailsPipedriveGem/languages",
+  "pulls_url": "https://api.github.com/repos/jakepens71/RailsPipedriveGem/pulls{/number}",
+  "created_at": "2015-05-18T11:46:29Z",
+  "updated_at": "2016-11-07T22:50:34Z",
+  "pushed_at": "2016-11-07T22:50:33Z",
+  "homepage": null,
+  "size": 168,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "emoreth": 1,
+    "tomchinery": 1,
+    "Jrsnow8921": 21,
+    "kevTheDev": 27,
+    "jakepens71": 114
+  },
+  "pulls_authors": [
+    "emoreth",
+    "tomchinery",
+    "kevTheDev",
+    "Jrsnow8921"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 28263,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 38,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T13:47:56.026Z"
+}

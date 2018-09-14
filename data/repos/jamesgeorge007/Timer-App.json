@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Timer-App",
+  "full_name": "jamesgeorge007/Timer-App",
+  "owner": "jamesgeorge007",
+  "private": false,
+  "html_url": "https://github.com/jamesgeorge007/Timer-App",
+  "description": "A timer built following the modularity concepts in React.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamesgeorge007/Timer-App",
+  "languages_url": "https://api.github.com/repos/jamesgeorge007/Timer-App/languages",
+  "created_at": "2018-05-11T02:57:02Z",
+  "updated_at": "2018-07-25T13:57:33Z",
+  "pushed_at": "2018-07-25T13:57:32Z",
+  "homepage": null,
+  "size": 117,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jamesgeorge007": 10
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 7578,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1590,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 119,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/jamesgeorge007/Timer-App/pulls{/number}",
+  "pulls_authors": []
+}

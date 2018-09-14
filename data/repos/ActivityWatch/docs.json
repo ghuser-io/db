@@ -1,0 +1,76 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docs",
+  "full_name": "ActivityWatch/docs",
+  "owner": "ActivityWatch",
+  "private": false,
+  "html_url": "https://github.com/ActivityWatch/docs",
+  "description": "Documentation for ActivityWatch",
+  "fork": false,
+  "url": "https://api.github.com/repos/ActivityWatch/docs",
+  "languages_url": "https://api.github.com/repos/ActivityWatch/docs/languages",
+  "pulls_url": "https://api.github.com/repos/ActivityWatch/docs/pulls{/number}",
+  "created_at": "2017-10-31T17:21:48Z",
+  "updated_at": "2018-09-12T10:45:34Z",
+  "pushed_at": "2018-09-12T10:45:33Z",
+  "homepage": null,
+  "size": 314,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "ActivityWatch",
+    "id": 18249061,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE4MjQ5MDYx",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/18249061?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ActivityWatch",
+    "html_url": "https://github.com/ActivityWatch",
+    "followers_url": "https://api.github.com/users/ActivityWatch/followers",
+    "following_url": "https://api.github.com/users/ActivityWatch/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ActivityWatch/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ActivityWatch/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ActivityWatch/subscriptions",
+    "organizations_url": "https://api.github.com/users/ActivityWatch/orgs",
+    "repos_url": "https://api.github.com/users/ActivityWatch/repos",
+    "events_url": "https://api.github.com/users/ActivityWatch/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ActivityWatch/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "dufferzafar": 1,
+    "sacline": 1,
+    "nenadstojanovikj": 1,
+    "ahnlabb": 1,
+    "nicolae-stroncea": 2,
+    "nikanar": 2,
+    "johan-bjareholt": 14,
+    "ErikBjare": 49,
+    "VirenMohindra": 1
+  },
+  "pulls_authors": [
+    "nicolae-stroncea",
+    "johan-bjareholt",
+    "dufferzafar",
+    "sacline",
+    "nenadstojanovikj",
+    "ahnlabb",
+    "nikanar",
+    "VirenMohindra"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 9900,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 7861,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:41:58.049Z"
+}

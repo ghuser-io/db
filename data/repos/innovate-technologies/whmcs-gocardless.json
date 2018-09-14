@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "whmcs-gocardless",
+  "full_name": "innovate-technologies/whmcs-gocardless",
+  "owner": "innovate-technologies",
+  "private": false,
+  "html_url": "https://github.com/innovate-technologies/whmcs-gocardless",
+  "description": "A GoCardless Payment Gateway For WHMCS",
+  "fork": false,
+  "url": "https://api.github.com/repos/innovate-technologies/whmcs-gocardless",
+  "languages_url": "https://api.github.com/repos/innovate-technologies/whmcs-gocardless/languages",
+  "pulls_url": "https://api.github.com/repos/innovate-technologies/whmcs-gocardless/pulls{/number}",
+  "created_at": "2017-06-23T15:09:05Z",
+  "updated_at": "2018-07-30T07:49:32Z",
+  "pushed_at": "2018-07-30T07:49:31Z",
+  "homepage": null,
+  "size": 36,
+  "stargazers_count": 2,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "innovate-technologies",
+    "id": 11369360,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExMzY5MzYw",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/11369360?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/innovate-technologies",
+    "html_url": "https://github.com/innovate-technologies",
+    "followers_url": "https://api.github.com/users/innovate-technologies/followers",
+    "following_url": "https://api.github.com/users/innovate-technologies/following{/other_user}",
+    "gists_url": "https://api.github.com/users/innovate-technologies/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/innovate-technologies/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/innovate-technologies/subscriptions",
+    "organizations_url": "https://api.github.com/users/innovate-technologies/orgs",
+    "repos_url": "https://api.github.com/users/innovate-technologies/repos",
+    "events_url": "https://api.github.com/users/innovate-technologies/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/innovate-technologies/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "meyskens": 19
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 13624,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-11T20:50:13.548Z"
+}

@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "E-Puck-Algorithms-Library",
+  "full_name": "davidmarek/E-Puck-Algorithms-Library",
+  "owner": "davidmarek",
+  "private": false,
+  "html_url": "https://github.com/davidmarek/E-Puck-Algorithms-Library",
+  "description": "Python library for communicating with e-puck robot and algorithms showing the advantages of this library.",
+  "fork": false,
+  "url": "https://api.github.com/repos/davidmarek/E-Puck-Algorithms-Library",
+  "languages_url": "https://api.github.com/repos/davidmarek/E-Puck-Algorithms-Library/languages",
+  "pulls_url": "https://api.github.com/repos/davidmarek/E-Puck-Algorithms-Library/pulls{/number}",
+  "created_at": "2010-03-15T01:09:05Z",
+  "updated_at": "2013-12-28T14:16:23Z",
+  "pushed_at": "2012-03-28T12:41:33Z",
+  "homepage": "http://e-puck.davidmarek.cz",
+  "size": 680,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx_id": "LGPL-3.0",
+    "url": "https://api.github.com/licenses/lgpl-3.0",
+    "node_id": "MDc6TGljZW5zZTEy"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "davidmarek": 129
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 50283,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 35119,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T15:41:13.989Z"
+}

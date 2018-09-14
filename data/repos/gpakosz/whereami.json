@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "whereami",
+  "full_name": "gpakosz/whereami",
+  "owner": "gpakosz",
+  "private": false,
+  "html_url": "https://github.com/gpakosz/whereami",
+  "description": "Locate the current executable and the current module/library on the file system",
+  "fork": false,
+  "url": "https://api.github.com/repos/gpakosz/whereami",
+  "languages_url": "https://api.github.com/repos/gpakosz/whereami/languages",
+  "pulls_url": "https://api.github.com/repos/gpakosz/whereami/pulls{/number}",
+  "created_at": "2014-12-19T21:16:27Z",
+  "updated_at": "2018-09-10T05:26:01Z",
+  "pushed_at": "2018-09-07T09:46:23Z",
+  "homepage": "",
+  "size": 43,
+  "stargazers_count": 130,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 1,
+    "willtho89": 1,
+    "jbeich": 1,
+    "gpakosz": 24
+  },
+  "pulls_authors": [
+    "jcelerier",
+    "willtho89",
+    "jbeich",
+    "ericcurtin"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 19313,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 3327,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:43.107Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "WeatherTeller",
+  "full_name": "manankalra/WeatherTeller",
+  "owner": "manankalra",
+  "private": false,
+  "html_url": "https://github.com/manankalra/WeatherTeller",
+  "description": "A Tkinter application which tells the current weather in the <input> city.",
+  "fork": false,
+  "url": "https://api.github.com/repos/manankalra/WeatherTeller",
+  "languages_url": "https://api.github.com/repos/manankalra/WeatherTeller/languages",
+  "pulls_url": "https://api.github.com/repos/manankalra/WeatherTeller/pulls{/number}",
+  "created_at": "2016-12-22T18:59:21Z",
+  "updated_at": "2017-05-25T05:06:05Z",
+  "pushed_at": "2017-05-25T10:45:09Z",
+  "homepage": null,
+  "size": 2,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "manankalra": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 1138,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-15T16:07:35.463Z"
+}

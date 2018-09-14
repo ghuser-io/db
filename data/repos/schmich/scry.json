@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "scry",
+  "full_name": "schmich/scry",
+  "owner": "schmich",
+  "private": false,
+  "html_url": "https://github.com/schmich/scry",
+  "description": "Track Twitch global stream stats.",
+  "fork": false,
+  "url": "https://api.github.com/repos/schmich/scry",
+  "languages_url": "https://api.github.com/repos/schmich/scry/languages",
+  "pulls_url": "https://api.github.com/repos/schmich/scry/pulls{/number}",
+  "created_at": "2016-09-13T09:49:34Z",
+  "updated_at": "2017-03-02T07:33:53Z",
+  "pushed_at": "2017-11-28T05:15:01Z",
+  "homepage": "",
+  "size": 29,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schmich": 30
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 12189,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 798,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:19.055Z"
+}

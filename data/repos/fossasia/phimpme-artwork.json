@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "phimpme-artwork",
+  "full_name": "fossasia/phimpme-artwork",
+  "owner": "fossasia",
+  "private": false,
+  "html_url": "https://github.com/fossasia/phimpme-artwork",
+  "description": "Phimpme Artwork",
+  "fork": false,
+  "url": "https://api.github.com/repos/fossasia/phimpme-artwork",
+  "languages_url": "https://api.github.com/repos/fossasia/phimpme-artwork/languages",
+  "pulls_url": "https://api.github.com/repos/fossasia/phimpme-artwork/pulls{/number}",
+  "created_at": "2017-08-16T14:53:56Z",
+  "updated_at": "2018-09-14T06:29:54Z",
+  "pushed_at": "2018-01-28T11:31:30Z",
+  "homepage": null,
+  "size": 26104,
+  "stargazers_count": 381,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "fossasia",
+    "id": 6295529,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYyOTU1Mjk=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/6295529?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/fossasia",
+    "html_url": "https://github.com/fossasia",
+    "followers_url": "https://api.github.com/users/fossasia/followers",
+    "following_url": "https://api.github.com/users/fossasia/following{/other_user}",
+    "gists_url": "https://api.github.com/users/fossasia/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/fossasia/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/fossasia/subscriptions",
+    "organizations_url": "https://api.github.com/users/fossasia/orgs",
+    "repos_url": "https://api.github.com/users/fossasia/repos",
+    "events_url": "https://api.github.com/users/fossasia/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/fossasia/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Ananthusubramanian": 1,
+    "pa1pal": 1,
+    "mariobehling": 1,
+    "mohitmanuja": 3,
+    "vinaysajjanapu": 3
+  },
+  "pulls_authors": [
+    "Ananthusubramanian",
+    "girijamanojkumarreddy"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-14T08:34:56.059Z"
+}

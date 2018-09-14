@@ -1,0 +1,109 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "shortlr",
+  "full_name": "coding-blocks/shortlr",
+  "owner": "coding-blocks",
+  "private": false,
+  "html_url": "https://github.com/coding-blocks/shortlr",
+  "description": "An url shortner written in nodejs using PostgreSQL",
+  "fork": false,
+  "url": "https://api.github.com/repos/coding-blocks/shortlr",
+  "languages_url": "https://api.github.com/repos/coding-blocks/shortlr/languages",
+  "created_at": "2016-11-24T13:02:46Z",
+  "updated_at": "2018-08-22T22:52:30Z",
+  "pushed_at": "2018-08-22T22:52:29Z",
+  "homepage": "",
+  "size": 723,
+  "stargazers_count": 27,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "coding-blocks",
+    "id": 19412721,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5NDEyNzIx",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/19412721?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/coding-blocks",
+    "html_url": "https://github.com/coding-blocks",
+    "followers_url": "https://api.github.com/users/coding-blocks/followers",
+    "following_url": "https://api.github.com/users/coding-blocks/following{/other_user}",
+    "gists_url": "https://api.github.com/users/coding-blocks/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/coding-blocks/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/coding-blocks/subscriptions",
+    "organizations_url": "https://api.github.com/users/coding-blocks/orgs",
+    "repos_url": "https://api.github.com/users/coding-blocks/repos",
+    "events_url": "https://api.github.com/users/coding-blocks/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/coding-blocks/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Rishabh570": 1,
+    "pg07codes": 1,
+    "Dhroov7": 1,
+    "bajajerk": 1,
+    "rahulyadav170923": 1,
+    "ghoomtaaaina": 1,
+    "ananay": 2,
+    "shuboy2014": 2,
+    "tech4GT": 3,
+    "abhishek97": 6,
+    "apoorvaagupta": 7,
+    "hereisnaman": 10,
+    "roh777": 11,
+    "bhavyaagg": 13,
+    "championswimmer": 45,
+    "ReplayCoding": 1
+  },
+  "languages": {
+    "CSS": {
+      "bytes": 654635,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 28532,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 21287,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 3658,
+      "color": "#89e051"
+    },
+    "Dockerfile": {
+      "bytes": 212,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-08-23T03:30:38.351Z",
+  "pulls_url": "https://api.github.com/repos/coding-blocks/shortlr/pulls{/number}",
+  "pulls_authors": [
+    "kapillamba4",
+    "Rishabh570",
+    "pg07codes",
+    "frunkad",
+    "Dhroov7",
+    "debck",
+    "arvindkalra",
+    "akshat14714",
+    "bajajerk",
+    "bhavyaagg",
+    "apoorvaagupta",
+    "ananay",
+    "tech4GT",
+    "hereisnaman",
+    "abhishek97",
+    "anu0012",
+    "rahulyadav170923",
+    "shuboy2014",
+    "roh777",
+    "ghoomtaaaina",
+    "TdevM",
+    "ReplayCoding"
+  ]
+}

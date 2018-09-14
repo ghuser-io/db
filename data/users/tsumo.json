@@ -1,0 +1,32 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "tsumo",
+  "ghuser_created_at": "2018-09-11T06:45:13.747Z",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/4553070?v=4",
+  "html_url": "https://github.com/tsumo",
+  "organizations_url": "https://api.github.com/users/tsumo/orgs",
+  "repos_url": "https://api.github.com/users/tsumo/repos",
+  "type": "User",
+  "name": null,
+  "company": null,
+  "blog": "https://tsumo.org/",
+  "location": null,
+  "email": null,
+  "bio": null,
+  "public_gists": 0,
+  "created_at": "2013-05-28T20:26:08Z",
+  "updated_at": "2018-06-13T12:37:34Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:18:24.771Z",
+    "repos": [
+      "tsumo/dotfiles",
+      "tsumo/solutions",
+      "tsumo/build-your-own-lisp",
+      "tsumo/space-shooter-godot",
+      "AlexMubarakshin/wtplay",
+      "tsumo/tf2configs",
+      "tsumo/checkers-godot"
+    ]
+  }
+}

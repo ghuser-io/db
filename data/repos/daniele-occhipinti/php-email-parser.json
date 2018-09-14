@@ -1,0 +1,58 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "php-email-parser",
+  "full_name": "daniele-occhipinti/php-email-parser",
+  "owner": "daniele-occhipinti",
+  "private": false,
+  "html_url": "https://github.com/daniele-occhipinti/php-email-parser",
+  "description": "PHP Raw Email Parser",
+  "fork": false,
+  "url": "https://api.github.com/repos/daniele-occhipinti/php-email-parser",
+  "languages_url": "https://api.github.com/repos/daniele-occhipinti/php-email-parser/languages",
+  "pulls_url": "https://api.github.com/repos/daniele-occhipinti/php-email-parser/pulls{/number}",
+  "created_at": "2011-05-01T23:52:06Z",
+  "updated_at": "2018-07-04T07:56:06Z",
+  "pushed_at": "2016-02-28T21:09:12Z",
+  "homepage": "",
+  "size": 263,
+  "stargazers_count": 144,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx_id": "LGPL-3.0",
+    "url": "https://api.github.com/licenses/lgpl-3.0",
+    "node_id": "MDc6TGljZW5zZTEy"
+  },
+  "default_branch": "master",
+  "contributors": {},
+  "pulls_authors": [
+    "ibrahimlawal",
+    "sergeypayu",
+    "timination",
+    "abrookbanks",
+    "CaMer0n",
+    "lbadger",
+    "hitapia",
+    "sourjatilak",
+    "synox",
+    "reedy",
+    "macdabby",
+    "franciscop",
+    "mhoffmann",
+    "Hiving",
+    "tolgamorf",
+    "MyHammerOpenSource",
+    "alaindenzler",
+    "kimhemsoe"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 11522,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-11T00:05:03.720Z"
+}

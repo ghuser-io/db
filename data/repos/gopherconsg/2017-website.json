@@ -1,0 +1,85 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "2017-website",
+  "full_name": "gopherconsg/2017-website",
+  "owner": "gopherconsg",
+  "private": false,
+  "html_url": "https://github.com/gopherconsg/2017-website",
+  "description": "GopherCon Singapore 2017's website.",
+  "fork": false,
+  "url": "https://api.github.com/repos/gopherconsg/2017-website",
+  "languages_url": "https://api.github.com/repos/gopherconsg/2017-website/languages",
+  "pulls_url": "https://api.github.com/repos/gopherconsg/2017-website/pulls{/number}",
+  "created_at": "2016-11-20T17:45:16Z",
+  "updated_at": "2018-03-30T14:04:13Z",
+  "pushed_at": "2018-03-30T14:04:12Z",
+  "homepage": "https://gophercon.sg",
+  "size": 6562,
+  "stargazers_count": 4,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "gopherconsg",
+    "id": 23528801,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzNTI4ODAx",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/23528801?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/gopherconsg",
+    "html_url": "https://github.com/gopherconsg",
+    "followers_url": "https://api.github.com/users/gopherconsg/followers",
+    "following_url": "https://api.github.com/users/gopherconsg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/gopherconsg/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/gopherconsg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/gopherconsg/subscriptions",
+    "organizations_url": "https://api.github.com/users/gopherconsg/orgs",
+    "repos_url": "https://api.github.com/users/gopherconsg/repos",
+    "events_url": "https://api.github.com/users/gopherconsg/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/gopherconsg/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "huydx": 1,
+    "abeltay": 2,
+    "exklamationmark": 3,
+    "vinamelody": 4,
+    "fonglh": 5,
+    "cheeaun": 9,
+    "aladine": 10,
+    "valentine": 14,
+    "elfgoh": 21,
+    "hongkheng": 32,
+    "audreylim": 66
+  },
+  "pulls_authors": [
+    "hongkheng",
+    "vinamelody",
+    "audreylim",
+    "elfgoh",
+    "huydx",
+    "aladine",
+    "abeltay",
+    "cheeaun",
+    "fonglh",
+    "exklamationmark",
+    "exklm"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 29523,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 18778,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 5054,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:55.785Z"
+}

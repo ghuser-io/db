@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "elateXam",
+  "full_name": "smee/elateXam",
+  "owner": "smee",
+  "private": false,
+  "html_url": "https://github.com/smee/elateXam",
+  "description": "E-Assessment as practiced at the University of Leipzig, Germany",
+  "fork": false,
+  "url": "https://api.github.com/repos/smee/elateXam",
+  "languages_url": "https://api.github.com/repos/smee/elateXam/languages",
+  "pulls_url": "https://api.github.com/repos/smee/elateXam/pulls{/number}",
+  "created_at": "2010-06-22T13:35:51Z",
+  "updated_at": "2017-11-09T07:46:36Z",
+  "pushed_at": "2016-03-10T00:19:17Z",
+  "homepage": "http://elatexam-preview.appspot.com/preview?id=2711830731051520",
+  "size": 4843,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "smee": 320
+  },
+  "pulls_authors": [
+    "gmlewis",
+    "smee"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2861609,
+      "color": "#f1e05a"
+    },
+    "Java": {
+      "bytes": 1428736,
+      "color": "#b07219"
+    },
+    "ActionScript": {
+      "bytes": 23646,
+      "color": "#882B0F"
+    },
+    "Shell": {
+      "bytes": 2547,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T13:51:49.924Z"
+}

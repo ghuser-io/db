@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "droitatedDB",
+  "full_name": "arconsis/droitatedDB",
+  "owner": "arconsis",
+  "private": false,
+  "html_url": "https://github.com/arconsis/droitatedDB",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/arconsis/droitatedDB",
+  "languages_url": "https://api.github.com/repos/arconsis/droitatedDB/languages",
+  "pulls_url": "https://api.github.com/repos/arconsis/droitatedDB/pulls{/number}",
+  "created_at": "2014-04-15T13:24:38Z",
+  "updated_at": "2017-10-20T09:10:03Z",
+  "pushed_at": "2017-04-24T15:12:05Z",
+  "homepage": null,
+  "size": 3140,
+  "stargazers_count": 28,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "arconsis",
+    "id": 1540782,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1NDA3ODI=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/1540782?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/arconsis",
+    "html_url": "https://github.com/arconsis",
+    "followers_url": "https://api.github.com/users/arconsis/followers",
+    "following_url": "https://api.github.com/users/arconsis/following{/other_user}",
+    "gists_url": "https://api.github.com/users/arconsis/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/arconsis/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/arconsis/subscriptions",
+    "organizations_url": "https://api.github.com/users/arconsis/orgs",
+    "repos_url": "https://api.github.com/users/arconsis/repos",
+    "events_url": "https://api.github.com/users/arconsis/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/arconsis/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "peterArconsis": 2,
+    "pvegh": 2,
+    "BenedictP": 3,
+    "wfrank2509": 4,
+    "falkappel": 41,
+    "a-frank": 70
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 369797,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-11T22:28:05.460Z"
+}

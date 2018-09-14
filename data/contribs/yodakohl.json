@@ -1,0 +1,139 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "nyumaya/nyumaya_audio_recognition": {
+      "full_name": "nyumaya/nyumaya_audio_recognition",
+      "name": "nyumaya_audio_recognition",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 2.6928142814876193,
+      "total_commits_count": 89,
+      "activity": 5,
+      "total_score": 10.385628562975239,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "castorini/honk": {
+      "full_name": "castorini/honk",
+      "name": "honk",
+      "stargazers_count": 152,
+      "popularity": 3.1793035271240693,
+      "percentage": 1.9607843137254901,
+      "maturity": 2.04704368583375,
+      "total_commits_count": 51,
+      "activity": 2.1502952115016214,
+      "total_score": 16.59270386753374,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "nyumaya/PorcupineZero": {
+      "full_name": "nyumaya/PorcupineZero",
+      "name": "PorcupineZero",
+      "stargazers_count": 3,
+      "popularity": 1.3222565221025262,
+      "percentage": 92.85714285714286,
+      "maturity": 0,
+      "total_commits_count": 14,
+      "activity": 2.1952718600903744,
+      "total_score": 22.123566586064165,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "yodakohl/toxpython": {
+      "full_name": "yodakohl/toxpython",
+      "name": "toxpython",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 55.55555555555556,
+      "maturity": 0,
+      "total_commits_count": 18,
+      "activity": 0.9848274113731694,
+      "total_score": 11.630538109234337,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "yodakohl/c-toxecho": {
+      "full_name": "yodakohl/c-toxecho",
+      "name": "c-toxecho",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 6,
+      "activity": 0.9859768036505354,
+      "total_score": 0.9859768036505354,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "yodakohl/PiZeroSpeaker": {
+      "full_name": "yodakohl/PiZeroSpeaker",
+      "name": "PiZeroSpeaker",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 5,
+      "activity": 0.9192329206857517,
+      "total_score": 0.9192329206857517,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "yodakohl/DeclarationInspector": {
+      "full_name": "yodakohl/DeclarationInspector",
+      "name": "DeclarationInspector",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 0.4073703761655869,
+      "total_score": 17.07022190325263,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "yodakohl/wx-Runtime-logging-device": {
+      "full_name": "yodakohl/wx-Runtime-logging-device",
+      "name": "wx-Runtime-logging-device",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 0.13896361437195992,
+      "total_score": 0.13896361437195992,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "yodakohl/Quart": {
+      "full_name": "yodakohl/Quart",
+      "name": "Quart",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 0.13897267969148164,
+      "total_score": 0.13897267969148164,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "yodakohl/wxGraphWidget": {
+      "full_name": "yodakohl/wxGraphWidget",
+      "name": "wxGraphWidget",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 0.13897072321893145,
+      "total_score": 0.13897072321893145,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "nyumaya",
+    "castorini"
+  ]
+}

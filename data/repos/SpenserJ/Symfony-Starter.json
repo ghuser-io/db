@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Symfony-Starter",
+  "full_name": "SpenserJ/Symfony-Starter",
+  "owner": "SpenserJ",
+  "private": false,
+  "html_url": "https://github.com/SpenserJ/Symfony-Starter",
+  "description": "Just a basic starter app for Symfony with a landing page, bootstrap, and FOSUserBundle",
+  "fork": false,
+  "url": "https://api.github.com/repos/SpenserJ/Symfony-Starter",
+  "languages_url": "https://api.github.com/repos/SpenserJ/Symfony-Starter/languages",
+  "pulls_url": "https://api.github.com/repos/SpenserJ/Symfony-Starter/pulls{/number}",
+  "created_at": "2012-04-27T01:45:36Z",
+  "updated_at": "2015-01-04T10:56:20Z",
+  "pushed_at": "2012-04-27T03:10:37Z",
+  "homepage": null,
+  "size": 276,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "SpenserJ": 10
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 96687,
+      "color": "#f1e05a"
+    },
+    "PHP": {
+      "bytes": 26234,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-11T15:20:10.559Z"
+}

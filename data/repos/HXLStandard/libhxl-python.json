@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "libhxl-python",
+  "full_name": "HXLStandard/libhxl-python",
+  "owner": "HXLStandard",
+  "private": false,
+  "html_url": "https://github.com/HXLStandard/libhxl-python",
+  "description": "Python support library for the Humanitarian Exchange Language (HXL) data standard.",
+  "fork": false,
+  "url": "https://api.github.com/repos/HXLStandard/libhxl-python",
+  "languages_url": "https://api.github.com/repos/HXLStandard/libhxl-python/languages",
+  "pulls_url": "https://api.github.com/repos/HXLStandard/libhxl-python/pulls{/number}",
+  "created_at": "2014-08-12T21:27:43Z",
+  "updated_at": "2018-08-29T19:02:13Z",
+  "pushed_at": "2018-08-29T19:03:45Z",
+  "homepage": null,
+  "size": 4358,
+  "stargazers_count": 29,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "HXLStandard",
+    "id": 8421027,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjg0MjEwMjc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/8421027?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/HXLStandard",
+    "html_url": "https://github.com/HXLStandard",
+    "followers_url": "https://api.github.com/users/HXLStandard/followers",
+    "following_url": "https://api.github.com/users/HXLStandard/following{/other_user}",
+    "gists_url": "https://api.github.com/users/HXLStandard/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/HXLStandard/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/HXLStandard/subscriptions",
+    "organizations_url": "https://api.github.com/users/HXLStandard/orgs",
+    "repos_url": "https://api.github.com/users/HXLStandard/repos",
+    "events_url": "https://api.github.com/users/HXLStandard/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/HXLStandard/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jayvdb": 4,
+    "davidmegginson": 1006
+  },
+  "pulls_authors": [
+    "davidmegginson",
+    "jayvdb"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 416125,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-29T23:07:54.100Z"
+}

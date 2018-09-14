@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "libnix-haskell",
+  "full_name": "Profpatsch/libnix-haskell",
+  "owner": "Profpatsch",
+  "private": false,
+  "html_url": "https://github.com/Profpatsch/libnix-haskell",
+  "description": "Haskell library to interface with the nix package manager",
+  "fork": false,
+  "url": "https://api.github.com/repos/Profpatsch/libnix-haskell",
+  "languages_url": "https://api.github.com/repos/Profpatsch/libnix-haskell/languages",
+  "pulls_url": "https://api.github.com/repos/Profpatsch/libnix-haskell/pulls{/number}",
+  "created_at": "2016-07-13T01:21:41Z",
+  "updated_at": "2018-08-23T12:54:11Z",
+  "pushed_at": "2018-08-16T22:28:19Z",
+  "homepage": null,
+  "size": 46,
+  "stargazers_count": 11,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Profpatsch": 25
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Haskell": {
+      "bytes": 20590,
+      "color": "#5e5086"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:40.639Z"
+}

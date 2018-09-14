@@ -1,0 +1,126 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "critiquebrainz",
+  "full_name": "metabrainz/critiquebrainz",
+  "owner": "metabrainz",
+  "private": false,
+  "html_url": "https://github.com/metabrainz/critiquebrainz",
+  "description": "Repository for Creative Commons licensed reviews",
+  "fork": false,
+  "url": "https://api.github.com/repos/metabrainz/critiquebrainz",
+  "languages_url": "https://api.github.com/repos/metabrainz/critiquebrainz/languages",
+  "pulls_url": "https://api.github.com/repos/metabrainz/critiquebrainz/pulls{/number}",
+  "created_at": "2014-02-08T18:41:37Z",
+  "updated_at": "2018-08-21T16:17:32Z",
+  "pushed_at": "2018-06-28T12:06:12Z",
+  "homepage": "https://critiquebrainz.org",
+  "size": 4852,
+  "stargazers_count": 40,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "metabrainz",
+    "id": 293421,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI5MzQyMQ==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/293421?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/metabrainz",
+    "html_url": "https://github.com/metabrainz",
+    "followers_url": "https://api.github.com/users/metabrainz/followers",
+    "following_url": "https://api.github.com/users/metabrainz/following{/other_user}",
+    "gists_url": "https://api.github.com/users/metabrainz/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/metabrainz/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/metabrainz/subscriptions",
+    "organizations_url": "https://api.github.com/users/metabrainz/orgs",
+    "repos_url": "https://api.github.com/users/metabrainz/repos",
+    "events_url": "https://api.github.com/users/metabrainz/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/metabrainz/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jwflory": 1,
+    "grassknoted": 1,
+    "tigranl": 1,
+    "caroline-gschwend": 1,
+    "PriyankBhatt": 2,
+    "mwiencek": 3,
+    "Prakriti-nith": 4,
+    "Debeet": 4,
+    "dpmittal": 7,
+    "naiveai": 9,
+    "adeshp96": 9,
+    "opatel99": 10,
+    "ps2611": 11,
+    "anshuman73": 11,
+    "IsaacZanoria": 12,
+    "s17k": 16,
+    "paramsingh": 38,
+    "yatharth": 48,
+    "ferbncode": 65,
+    "dufferzafar": 261,
+    "gentlecat": 1085
+  },
+  "pulls_authors": [
+    "paramsingh",
+    "ferbncode",
+    "dpmittal",
+    "man-of-code",
+    "Prakriti-nith",
+    "IsaacZanoria",
+    "ghost",
+    "TheJYKoder",
+    "saidsellai",
+    "jwflory",
+    "ps2611",
+    "gentlecat",
+    "grassknoted",
+    "mwiencek",
+    "anshuman73",
+    "tigranl",
+    "caroline-gschwend",
+    "dufferzafar",
+    "s17k",
+    "opatel99",
+    "Debeet",
+    "yatharth",
+    "adeshp96",
+    "esraltintas"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 370218,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 243633,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 139183,
+      "color": "#e34c26"
+    },
+    "PLpgSQL": {
+      "bytes": 12277,
+      "color": "#ccc"
+    },
+    "JavaScript": {
+      "bytes": 3959,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 2477,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-03T12:56:59.496Z"
+}

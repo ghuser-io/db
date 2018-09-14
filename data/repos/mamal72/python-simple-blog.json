@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "python-simple-blog",
+  "full_name": "mamal72/python-simple-blog",
+  "owner": "mamal72",
+  "private": false,
+  "html_url": "https://github.com/mamal72/python-simple-blog",
+  "description": ":pencil: A simple flask blog system based on markdown files. Can be used both as an app or a static site builder.",
+  "fork": false,
+  "url": "https://api.github.com/repos/mamal72/python-simple-blog",
+  "languages_url": "https://api.github.com/repos/mamal72/python-simple-blog/languages",
+  "pulls_url": "https://api.github.com/repos/mamal72/python-simple-blog/pulls{/number}",
+  "created_at": "2015-08-04T14:52:00Z",
+  "updated_at": "2018-09-05T11:27:25Z",
+  "pushed_at": "2015-08-05T05:49:18Z",
+  "homepage": "",
+  "size": 1145,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mdibaiee": 1,
+    "mamal72": 6
+  },
+  "pulls_authors": [
+    "mdibaiee"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 41032,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 16668,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 12096,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 4706,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:44.685Z"
+}

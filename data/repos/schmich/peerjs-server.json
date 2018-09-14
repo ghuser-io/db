@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "peerjs-server",
+  "full_name": "schmich/peerjs-server",
+  "owner": "schmich",
+  "private": false,
+  "html_url": "https://github.com/schmich/peerjs-server",
+  "description": "Server for PeerJS",
+  "fork": true,
+  "url": "https://api.github.com/repos/schmich/peerjs-server",
+  "languages_url": "https://api.github.com/repos/schmich/peerjs-server/languages",
+  "pulls_url": "https://api.github.com/repos/schmich/peerjs-server/pulls{/number}",
+  "created_at": "2013-10-01T06:41:34Z",
+  "updated_at": "2015-03-24T11:58:16Z",
+  "pushed_at": "2013-10-09T01:26:50Z",
+  "homepage": "http://peerjs.com",
+  "size": 128,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "feature/events",
+  "contributors": {
+    "whytheplatypus": 1,
+    "schmich": 2,
+    "igrigorik": 5,
+    "ericz": 26,
+    "michelle": 36
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 16006,
+      "color": "#f1e05a"
+    },
+    "PHP": {
+      "bytes": 1622,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:28.485Z"
+}

@@ -1,0 +1,70 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rpi-docker-builder",
+  "full_name": "hypriot/rpi-docker-builder",
+  "owner": "hypriot",
+  "private": false,
+  "html_url": "https://github.com/hypriot/rpi-docker-builder",
+  "description": "Build steps to build hypriot-docker for Raspberry Pi",
+  "fork": false,
+  "url": "https://api.github.com/repos/hypriot/rpi-docker-builder",
+  "languages_url": "https://api.github.com/repos/hypriot/rpi-docker-builder/languages",
+  "pulls_url": "https://api.github.com/repos/hypriot/rpi-docker-builder/pulls{/number}",
+  "created_at": "2015-02-19T15:05:12Z",
+  "updated_at": "2018-05-31T14:09:06Z",
+  "pushed_at": "2018-05-29T21:29:53Z",
+  "homepage": "",
+  "size": 5314,
+  "stargazers_count": 62,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "hypriot",
+    "id": 10440767,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwNDQwNzY3",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/10440767?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hypriot",
+    "html_url": "https://github.com/hypriot",
+    "followers_url": "https://api.github.com/users/hypriot/followers",
+    "following_url": "https://api.github.com/users/hypriot/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hypriot/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hypriot/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hypriot/subscriptions",
+    "organizations_url": "https://api.github.com/users/hypriot/orgs",
+    "repos_url": "https://api.github.com/users/hypriot/repos",
+    "events_url": "https://api.github.com/users/hypriot/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hypriot/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "firecyberice": 1,
+    "MathiasRenner": 2,
+    "moul": 3,
+    "StefanScherer": 7,
+    "DieterReuter": 86
+  },
+  "pulls_authors": [
+    "The-Alchemist",
+    "DieterReuter",
+    "StefanScherer",
+    "moul"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 8968,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:30.615Z"
+}

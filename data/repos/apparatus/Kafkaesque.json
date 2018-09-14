@@ -1,0 +1,75 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Kafkaesque",
+  "full_name": "apparatus/Kafkaesque",
+  "owner": "apparatus",
+  "private": false,
+  "html_url": "https://github.com/apparatus/Kafkaesque",
+  "description": "node Kafka client",
+  "fork": false,
+  "url": "https://api.github.com/repos/apparatus/Kafkaesque",
+  "languages_url": "https://api.github.com/repos/apparatus/Kafkaesque/languages",
+  "pulls_url": "https://api.github.com/repos/apparatus/Kafkaesque/pulls{/number}",
+  "created_at": "2013-10-30T17:41:51Z",
+  "updated_at": "2018-07-02T05:56:55Z",
+  "pushed_at": "2016-09-26T19:49:08Z",
+  "homepage": null,
+  "size": 152,
+  "stargazers_count": 47,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "apparatus",
+    "id": 15034360,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1MDM0MzYw",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/15034360?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/apparatus",
+    "html_url": "https://github.com/apparatus",
+    "followers_url": "https://api.github.com/users/apparatus/followers",
+    "following_url": "https://api.github.com/users/apparatus/following{/other_user}",
+    "gists_url": "https://api.github.com/users/apparatus/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/apparatus/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/apparatus/subscriptions",
+    "organizations_url": "https://api.github.com/users/apparatus/orgs",
+    "repos_url": "https://api.github.com/users/apparatus/repos",
+    "events_url": "https://api.github.com/users/apparatus/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/apparatus/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Yermouth": 1,
+    "mihaidma": 1,
+    "fatelei": 1,
+    "lancespeelmon": 1,
+    "rjrodger": 1,
+    "darsee": 1,
+    "pelger": 24,
+    "thekemkid": 33
+  },
+  "pulls_authors": [
+    "Yermouth",
+    "thekemkid",
+    "mihaidma",
+    "fatelei",
+    "lancespeelmon",
+    "rjrodger"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 133066,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:37.872Z"
+}

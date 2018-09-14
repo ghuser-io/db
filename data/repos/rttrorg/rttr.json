@@ -1,0 +1,92 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rttr",
+  "full_name": "rttrorg/rttr",
+  "owner": "rttrorg",
+  "private": false,
+  "html_url": "https://github.com/rttrorg/rttr",
+  "description": "C++ Reflection Library",
+  "fork": false,
+  "url": "https://api.github.com/repos/rttrorg/rttr",
+  "languages_url": "https://api.github.com/repos/rttrorg/rttr/languages",
+  "pulls_url": "https://api.github.com/repos/rttrorg/rttr/pulls{/number}",
+  "created_at": "2015-12-15T18:52:32Z",
+  "updated_at": "2018-09-14T06:50:03Z",
+  "pushed_at": "2018-09-14T06:50:01Z",
+  "homepage": "http://www.rttr.org",
+  "size": 6592,
+  "stargazers_count": 652,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "rttrorg",
+    "id": 12040328,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMDQwMzI4",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/12040328?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/rttrorg",
+    "html_url": "https://github.com/rttrorg",
+    "followers_url": "https://api.github.com/users/rttrorg/followers",
+    "following_url": "https://api.github.com/users/rttrorg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/rttrorg/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/rttrorg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/rttrorg/subscriptions",
+    "organizations_url": "https://api.github.com/users/rttrorg/orgs",
+    "repos_url": "https://api.github.com/users/rttrorg/repos",
+    "events_url": "https://api.github.com/users/rttrorg/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/rttrorg/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "dand-oss": 1,
+    "georgemp": 1,
+    "gouletr": 1,
+    "cotsog": 1,
+    "weatherhead99": 1,
+    "engelmarkus": 1,
+    "sbalogh": 1,
+    "mrtrizer": 2,
+    "mgee": 2,
+    "gabyx": 3,
+    "taketwo": 5,
+    "acki-m": 586
+  },
+  "pulls_authors": [
+    "dand-oss",
+    "acki-m",
+    "georgemp",
+    "gouletr",
+    "mrtrizer",
+    "weatherhead99",
+    "cotsog",
+    "gabyx",
+    "Warchant",
+    "RMuskovets",
+    "bryant1410",
+    "taketwo",
+    "engelmarkus",
+    "sbalogh",
+    "mgee"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 2671119,
+      "color": "#f34b7d"
+    },
+    "CMake": {
+      "bytes": 158854,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-14T08:25:17.842Z"
+}

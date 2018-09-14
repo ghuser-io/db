@@ -1,0 +1,91 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "business-ecosystem-logic-proxy",
+  "full_name": "FIWARE-TMForum/business-ecosystem-logic-proxy",
+  "owner": "FIWARE-TMForum",
+  "private": false,
+  "html_url": "https://github.com/FIWARE-TMForum/business-ecosystem-logic-proxy",
+  "description": "Business Logic Layer for the TMForum Frameworx APIs + Portal to access them in an easy way",
+  "fork": false,
+  "url": "https://api.github.com/repos/FIWARE-TMForum/business-ecosystem-logic-proxy",
+  "languages_url": "https://api.github.com/repos/FIWARE-TMForum/business-ecosystem-logic-proxy/languages",
+  "pulls_url": "https://api.github.com/repos/FIWARE-TMForum/business-ecosystem-logic-proxy/pulls{/number}",
+  "created_at": "2015-10-09T10:53:07Z",
+  "updated_at": "2017-10-13T14:17:14Z",
+  "pushed_at": "2018-07-31T11:15:41Z",
+  "homepage": "",
+  "size": 4269,
+  "stargazers_count": 4,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "FIWARE-TMForum",
+    "id": 15013013,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1MDEzMDEz",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/15013013?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/FIWARE-TMForum",
+    "html_url": "https://github.com/FIWARE-TMForum",
+    "followers_url": "https://api.github.com/users/FIWARE-TMForum/followers",
+    "following_url": "https://api.github.com/users/FIWARE-TMForum/following{/other_user}",
+    "gists_url": "https://api.github.com/users/FIWARE-TMForum/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/FIWARE-TMForum/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/FIWARE-TMForum/subscriptions",
+    "organizations_url": "https://api.github.com/users/FIWARE-TMForum/orgs",
+    "repos_url": "https://api.github.com/users/FIWARE-TMForum/repos",
+    "events_url": "https://api.github.com/users/FIWARE-TMForum/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/FIWARE-TMForum/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "pmverdugo": 2,
+    "Ironjanowar": 6,
+    "jcague": 10,
+    "rockneurotiko": 12,
+    "vramperez": 30,
+    "Cazaril": 51,
+    "aalonsog": 56,
+    "aitormagan": 221,
+    "jpajuelo": 271,
+    "fdelavega": 354
+  },
+  "pulls_authors": [
+    "samgh96",
+    "fdelavega",
+    "jpajuelo",
+    "Cazaril",
+    "Ironjanowar",
+    "rockneurotiko",
+    "vramperez",
+    "aitormagan"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1370237,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 247042,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 48817,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 3107,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:43.165Z"
+}

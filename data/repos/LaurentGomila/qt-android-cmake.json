@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "qt-android-cmake",
+  "full_name": "LaurentGomila/qt-android-cmake",
+  "owner": "LaurentGomila",
+  "private": false,
+  "html_url": "https://github.com/LaurentGomila/qt-android-cmake",
+  "description": "A simple CMake utility for building and deploying Qt based applications on Android without QtCreator",
+  "fork": false,
+  "url": "https://api.github.com/repos/LaurentGomila/qt-android-cmake",
+  "languages_url": "https://api.github.com/repos/LaurentGomila/qt-android-cmake/languages",
+  "pulls_url": "https://api.github.com/repos/LaurentGomila/qt-android-cmake/pulls{/number}",
+  "created_at": "2015-02-12T12:51:45Z",
+  "updated_at": "2018-08-27T14:59:44Z",
+  "pushed_at": "2018-08-06T04:31:01Z",
+  "homepage": null,
+  "size": 36,
+  "stargazers_count": 95,
+  "language": "CMake",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dirkhh": 1,
+    "Kakadu": 1,
+    "LaurentGomila": 1,
+    "jcelerier": 1,
+    "LaurentGomilaPlexant": 6
+  },
+  "pulls_authors": [
+    "dirkhh",
+    "Kakadu",
+    "bergstr11",
+    "notmart",
+    "klaussnd",
+    "Earthwings",
+    "Garrappachc",
+    "jcelerier"
+  ],
+  "languages": {
+    "CMake": {
+      "bytes": 89447,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:58.026Z"
+}

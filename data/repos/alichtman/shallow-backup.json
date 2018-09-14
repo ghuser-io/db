@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "shallow-backup",
+  "full_name": "alichtman/shallow-backup",
+  "owner": "alichtman",
+  "private": false,
+  "html_url": "https://github.com/alichtman/shallow-backup",
+  "description": "Minimal developer backup for macOS. Easily create lightweight documentation of installed packages, dotfiles, and more.",
+  "fork": false,
+  "url": "https://api.github.com/repos/alichtman/shallow-backup",
+  "languages_url": "https://api.github.com/repos/alichtman/shallow-backup/languages",
+  "created_at": "2018-03-25T07:59:19Z",
+  "updated_at": "2018-09-09T13:14:31Z",
+  "pushed_at": "2018-07-21T07:25:43Z",
+  "homepage": "",
+  "size": 3283,
+  "stargazers_count": 147,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "alichtman": 72
+  },
+  "languages": {
+    "Python": {
+      "bytes": 39587,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-09T17:58:21.094Z",
+  "pulls_url": "https://api.github.com/repos/alichtman/shallow-backup/pulls{/number}",
+  "pulls_authors": [
+    "alichtman"
+  ]
+}

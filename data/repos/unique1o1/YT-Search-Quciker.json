@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "YT-Search-Quciker",
+  "full_name": "unique1o1/YT-Search-Quciker",
+  "owner": "unique1o1",
+  "private": false,
+  "html_url": "https://github.com/unique1o1/YT-Search-Quciker",
+  "description": "Play Youtube videos with a Quick Search Only",
+  "fork": false,
+  "url": "https://api.github.com/repos/unique1o1/YT-Search-Quciker",
+  "languages_url": "https://api.github.com/repos/unique1o1/YT-Search-Quciker/languages",
+  "pulls_url": "https://api.github.com/repos/unique1o1/YT-Search-Quciker/pulls{/number}",
+  "created_at": "2017-07-22T17:55:42Z",
+  "updated_at": "2018-01-20T15:46:14Z",
+  "pushed_at": "2018-01-20T15:46:13Z",
+  "homepage": "http://yunik.com.np/youtube",
+  "size": 7,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "amitness": 7,
+    "unique1o1": 11
+  },
+  "pulls_authors": [
+    "amitness"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 468,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 467,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:27.817Z"
+}

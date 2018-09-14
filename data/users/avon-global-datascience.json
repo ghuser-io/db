@@ -1,0 +1,24 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "avon-global-datascience",
+  "ghuser_created_at": "2018-09-11T04:18:18.588Z",
+  "avatar_url": "https://avatars1.githubusercontent.com/u/25031051?v=4",
+  "html_url": "https://github.com/avon-global-datascience",
+  "organizations_url": "https://api.github.com/users/avon-global-datascience/orgs",
+  "repos_url": "https://api.github.com/users/avon-global-datascience/repos",
+  "type": "User",
+  "name": "Simon Stearn",
+  "company": "Avon Products inc",
+  "blog": "",
+  "location": "Chiswick, London",
+  "email": "simon.stearn@avon.com",
+  "bio": "Big Data bloke from Avon",
+  "public_gists": 0,
+  "created_at": "2017-01-10T11:33:34Z",
+  "updated_at": "2018-09-06T07:10:48Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:09:44.550Z",
+    "repos": []
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PiratePython",
+  "full_name": "pimoroni/PiratePython",
+  "owner": "pimoroni",
+  "private": false,
+  "html_url": "https://github.com/pimoroni/PiratePython",
+  "description": "PiratePython: a minimal Raspbian for Python programmers",
+  "fork": false,
+  "url": "https://api.github.com/repos/pimoroni/PiratePython",
+  "languages_url": "https://api.github.com/repos/pimoroni/PiratePython/languages",
+  "pulls_url": "https://api.github.com/repos/pimoroni/PiratePython/pulls{/number}",
+  "created_at": "2017-10-31T10:02:36Z",
+  "updated_at": "2018-07-19T14:49:59Z",
+  "pushed_at": "2018-02-01T15:45:21Z",
+  "homepage": "https://discord.gg/hr93ByC",
+  "size": 384027,
+  "stargazers_count": 23,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "pimoroni",
+    "id": 2399917,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzOTk5MTc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2399917?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pimoroni",
+    "html_url": "https://github.com/pimoroni",
+    "followers_url": "https://api.github.com/users/pimoroni/followers",
+    "following_url": "https://api.github.com/users/pimoroni/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pimoroni/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pimoroni/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pimoroni/subscriptions",
+    "organizations_url": "https://api.github.com/users/pimoroni/orgs",
+    "repos_url": "https://api.github.com/users/pimoroni/repos",
+    "events_url": "https://api.github.com/users/pimoroni/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pimoroni/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Gadgetoid": 12
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 98825,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 23240,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 6055,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:09.861Z"
+}

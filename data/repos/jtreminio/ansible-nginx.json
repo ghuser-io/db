@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ansible-nginx",
+  "full_name": "jtreminio/ansible-nginx",
+  "owner": "jtreminio",
+  "private": false,
+  "html_url": "https://github.com/jtreminio/ansible-nginx",
+  "description": "Nginx Role for Ansible",
+  "fork": false,
+  "url": "https://api.github.com/repos/jtreminio/ansible-nginx",
+  "languages_url": "https://api.github.com/repos/jtreminio/ansible-nginx/languages",
+  "pulls_url": "https://api.github.com/repos/jtreminio/ansible-nginx/pulls{/number}",
+  "created_at": "2017-08-17T20:01:03Z",
+  "updated_at": "2017-10-20T12:45:20Z",
+  "pushed_at": "2018-01-03T07:13:20Z",
+  "homepage": null,
+  "size": 44,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jtreminio": 33
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 3672,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:27.033Z"
+}

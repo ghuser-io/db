@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "playground",
+  "full_name": "abhijeetps/playground",
+  "owner": "abhijeetps",
+  "private": false,
+  "html_url": "https://github.com/abhijeetps/playground",
+  "description": "That's how I play on GitHub! :D",
+  "fork": false,
+  "url": "https://api.github.com/repos/abhijeetps/playground",
+  "languages_url": "https://api.github.com/repos/abhijeetps/playground/languages",
+  "created_at": "2018-04-03T07:48:39Z",
+  "updated_at": "2018-09-13T13:01:22Z",
+  "pushed_at": "2018-09-13T13:01:19Z",
+  "homepage": null,
+  "size": 48,
+  "stargazers_count": 2,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "weekly-digest[bot]": 5,
+    "aps120797": 19,
+    "abhijeetps": 1,
+    "chaos-monkey-app[bot]": 80
+  },
+  "languages": {},
+  "fetched_at": "2018-09-13T16:33:37.489Z",
+  "pulls_url": "https://api.github.com/repos/abhijeetps/playground/pulls{/number}",
+  "pulls_authors": [
+    "chaos-monkey-app[bot]",
+    "abhijeetps",
+    "itaditya",
+    "Anubhav-Bhargava"
+  ]
+}

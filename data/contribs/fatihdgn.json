@@ -1,0 +1,19 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "fatihdgn/IoTHubSimulatedDevice": {
+      "full_name": "fatihdgn/IoTHubSimulatedDevice",
+      "name": "IoTHubSimulatedDevice",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 0.9905428278230719,
+      "total_score": 0.9905428278230719,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

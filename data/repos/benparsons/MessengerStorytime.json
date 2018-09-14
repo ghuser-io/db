@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "MessengerStorytime",
+  "full_name": "benparsons/MessengerStorytime",
+  "owner": "benparsons",
+  "private": false,
+  "html_url": "https://github.com/benparsons/MessengerStorytime",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/benparsons/MessengerStorytime",
+  "languages_url": "https://api.github.com/repos/benparsons/MessengerStorytime/languages",
+  "pulls_url": "https://api.github.com/repos/benparsons/MessengerStorytime/pulls{/number}",
+  "created_at": "2017-04-06T17:19:44Z",
+  "updated_at": "2017-12-20T16:23:40Z",
+  "pushed_at": "2017-05-19T22:12:11Z",
+  "homepage": null,
+  "size": 1881,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "benparsons": 44
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 22854,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 15534,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-11T17:06:54.334Z"
+}

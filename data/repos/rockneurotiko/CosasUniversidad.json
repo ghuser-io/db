@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "CosasUniversidad",
+  "full_name": "rockneurotiko/CosasUniversidad",
+  "owner": "rockneurotiko",
+  "private": false,
+  "html_url": "https://github.com/rockneurotiko/CosasUniversidad",
+  "description": "Cositas de la uni",
+  "fork": false,
+  "url": "https://api.github.com/repos/rockneurotiko/CosasUniversidad",
+  "languages_url": "https://api.github.com/repos/rockneurotiko/CosasUniversidad/languages",
+  "pulls_url": "https://api.github.com/repos/rockneurotiko/CosasUniversidad/pulls{/number}",
+  "created_at": "2013-05-22T06:42:40Z",
+  "updated_at": "2014-07-07T08:54:15Z",
+  "pushed_at": "2014-07-07T08:54:13Z",
+  "homepage": null,
+  "size": 34537,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "rockneurotiko": 13
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 3366952,
+      "color": "#3572A5"
+    },
+    "Nu": {
+      "bytes": 9826,
+      "color": "#c9df40"
+    },
+    "JavaScript": {
+      "bytes": 6345,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 6111,
+      "color": "#563d7c"
+    },
+    "C": {
+      "bytes": 5939,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 4354,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:51.003Z"
+}

@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "GetOldTweets-python",
+  "full_name": "schollz/GetOldTweets-python",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/GetOldTweets-python",
+  "description": "A project written in Python to get old tweets, it bypass some limitations of Twitter Official API.",
+  "fork": true,
+  "url": "https://api.github.com/repos/schollz/GetOldTweets-python",
+  "languages_url": "https://api.github.com/repos/schollz/GetOldTweets-python/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/GetOldTweets-python/pulls{/number}",
+  "created_at": "2016-10-31T15:41:30Z",
+  "updated_at": "2018-04-23T05:25:07Z",
+  "pushed_at": "2016-09-11T01:33:41Z",
+  "homepage": "",
+  "size": 25,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "BubaVV": 1,
+    "RolandColored": 1,
+    "Jefferson-Henrique": 15
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 13783,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:53.328Z"
+}

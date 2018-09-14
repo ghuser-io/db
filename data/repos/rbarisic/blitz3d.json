@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "blitz3d",
+  "full_name": "rbarisic/blitz3d",
+  "owner": "rbarisic",
+  "private": false,
+  "html_url": "https://github.com/rbarisic/blitz3d",
+  "description": null,
+  "fork": true,
+  "url": "https://api.github.com/repos/rbarisic/blitz3d",
+  "languages_url": "https://api.github.com/repos/rbarisic/blitz3d/languages",
+  "pulls_url": "https://api.github.com/repos/rbarisic/blitz3d/pulls{/number}",
+  "created_at": "2015-04-14T22:15:40Z",
+  "updated_at": "2017-05-22T10:54:46Z",
+  "pushed_at": "2014-12-08T01:50:10Z",
+  "homepage": null,
+  "size": 19618,
+  "stargazers_count": 1,
+  "language": "Logos",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {},
+  "pulls_authors": [],
+  "languages": {
+    "Logos": {
+      "bytes": 5226969,
+      "color": "#ccc"
+    },
+    "HTML": {
+      "bytes": 1237845,
+      "color": "#e34c26"
+    },
+    "C++": {
+      "bytes": 917454,
+      "color": "#f34b7d"
+    },
+    "BlitzBasic": {
+      "bytes": 631376,
+      "color": "#ccc"
+    },
+    "C": {
+      "bytes": 15045,
+      "color": "#555555"
+    },
+    "Inno Setup": {
+      "bytes": 1957,
+      "color": "#ccc"
+    },
+    "CSS": {
+      "bytes": 1716,
+      "color": "#563d7c"
+    },
+    "Prolog": {
+      "bytes": 1468,
+      "color": "#74283c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:56:09.310Z"
+}

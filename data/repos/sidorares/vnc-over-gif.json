@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vnc-over-gif",
+  "full_name": "sidorares/vnc-over-gif",
+  "owner": "sidorares",
+  "private": false,
+  "html_url": "https://github.com/sidorares/vnc-over-gif",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/sidorares/vnc-over-gif",
+  "languages_url": "https://api.github.com/repos/sidorares/vnc-over-gif/languages",
+  "pulls_url": "https://api.github.com/repos/sidorares/vnc-over-gif/pulls{/number}",
+  "created_at": "2013-05-24T05:10:33Z",
+  "updated_at": "2018-09-13T17:28:04Z",
+  "pushed_at": "2017-05-01T05:53:29Z",
+  "homepage": null,
+  "size": 65,
+  "stargazers_count": 522,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Floby": 1,
+    "mlilley": 5,
+    "sidorares": 16
+  },
+  "pulls_authors": [
+    "sidorares",
+    "mlilley",
+    "Floby",
+    "TkTech"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 4940,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-14T00:00:01.800Z"
+}

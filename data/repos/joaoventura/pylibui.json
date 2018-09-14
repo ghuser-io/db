@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pylibui",
+  "full_name": "joaoventura/pylibui",
+  "owner": "joaoventura",
+  "private": false,
+  "html_url": "https://github.com/joaoventura/pylibui",
+  "description": "Pylibui is a Python 3 wrapper for the libui library.",
+  "fork": false,
+  "url": "https://api.github.com/repos/joaoventura/pylibui",
+  "languages_url": "https://api.github.com/repos/joaoventura/pylibui/languages",
+  "pulls_url": "https://api.github.com/repos/joaoventura/pylibui/pulls{/number}",
+  "created_at": "2016-05-20T13:40:57Z",
+  "updated_at": "2018-09-14T06:08:12Z",
+  "pushed_at": "2018-09-12T15:20:34Z",
+  "homepage": "",
+  "size": 135,
+  "stargazers_count": 159,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Ditti4": 1,
+    "TiagoDanin": 2,
+    "waghanza": 4,
+    "mark-summerfield": 4,
+    "superzazu": 37,
+    "joaoventura": 49
+  },
+  "pulls_authors": [
+    "pazjacket",
+    "waghanza",
+    "stonewell",
+    "ghost",
+    "superzazu",
+    "TiagoDanin",
+    "Ditti4",
+    "joaoventura",
+    "mark-summerfield"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 91394,
+      "color": "#3572A5"
+    },
+    "C": {
+      "bytes": 25426,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-14T09:10:44.516Z"
+}

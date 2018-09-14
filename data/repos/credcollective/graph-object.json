@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "graph-object",
+  "full_name": "credcollective/graph-object",
+  "owner": "credcollective",
+  "private": false,
+  "html_url": "https://github.com/credcollective/graph-object",
+  "description": "An Object Graph Mapper for GraphQL",
+  "fork": false,
+  "url": "https://api.github.com/repos/credcollective/graph-object",
+  "languages_url": "https://api.github.com/repos/credcollective/graph-object/languages",
+  "pulls_url": "https://api.github.com/repos/credcollective/graph-object/pulls{/number}",
+  "created_at": "2016-09-08T07:41:19Z",
+  "updated_at": "2017-06-12T06:34:19Z",
+  "pushed_at": "2016-09-18T17:21:28Z",
+  "homepage": "",
+  "size": 11,
+  "stargazers_count": 7,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "credcollective",
+    "id": 15685116,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1Njg1MTE2",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/15685116?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/credcollective",
+    "html_url": "https://github.com/credcollective",
+    "followers_url": "https://api.github.com/users/credcollective/followers",
+    "following_url": "https://api.github.com/users/credcollective/following{/other_user}",
+    "gists_url": "https://api.github.com/users/credcollective/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/credcollective/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/credcollective/subscriptions",
+    "organizations_url": "https://api.github.com/users/credcollective/orgs",
+    "repos_url": "https://api.github.com/users/credcollective/repos",
+    "events_url": "https://api.github.com/users/credcollective/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/credcollective/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "zvictor": 12
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 7844,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:23.978Z"
+}

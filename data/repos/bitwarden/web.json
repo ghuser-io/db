@@ -1,0 +1,107 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "web",
+  "full_name": "bitwarden/web",
+  "owner": "bitwarden",
+  "private": false,
+  "html_url": "https://github.com/bitwarden/web",
+  "description": "The website vault (vault.bitwarden.com).",
+  "fork": false,
+  "url": "https://api.github.com/repos/bitwarden/web",
+  "languages_url": "https://api.github.com/repos/bitwarden/web/languages",
+  "pulls_url": "https://api.github.com/repos/bitwarden/web/pulls{/number}",
+  "created_at": "2015-11-23T23:44:23Z",
+  "updated_at": "2018-09-13T20:24:13Z",
+  "pushed_at": "2018-09-13T20:24:11Z",
+  "homepage": "https://vault.bitwarden.com",
+  "size": 35233,
+  "stargazers_count": 442,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "bitwarden",
+    "id": 15990069,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1OTkwMDY5",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/15990069?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/bitwarden",
+    "html_url": "https://github.com/bitwarden",
+    "followers_url": "https://api.github.com/users/bitwarden/followers",
+    "following_url": "https://api.github.com/users/bitwarden/following{/other_user}",
+    "gists_url": "https://api.github.com/users/bitwarden/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/bitwarden/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/bitwarden/subscriptions",
+    "organizations_url": "https://api.github.com/users/bitwarden/orgs",
+    "repos_url": "https://api.github.com/users/bitwarden/repos",
+    "events_url": "https://api.github.com/users/bitwarden/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/bitwarden/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "lightswitch05": 1,
+    "Jacalz": 1,
+    "neilsb": 1,
+    "cskwrd": 1,
+    "philhug": 1,
+    "bfabio": 1,
+    "ysshah": 1,
+    "bbrks": 1,
+    "Mart124": 3,
+    "kspearrin": 1342
+  },
+  "pulls_authors": [
+    "lightswitch05",
+    "kspearrin",
+    "Jacalz",
+    "neilsb",
+    "Mart124",
+    "nblackburn",
+    "cskwrd",
+    "Traur",
+    "philhug",
+    "chipitsine",
+    "bfabio",
+    "ysshah",
+    "bbrks",
+    "jcgillespie",
+    "vueu",
+    "blindly"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 362114,
+      "color": "#2b7489"
+    },
+    "HTML": {
+      "bytes": 268844,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 35501,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 16193,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 1530,
+      "color": "#89e051"
+    },
+    "Dockerfile": {
+      "bytes": 338,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-13T23:42:40.838Z"
+}

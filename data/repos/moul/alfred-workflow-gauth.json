@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "alfred-workflow-gauth",
+  "full_name": "moul/alfred-workflow-gauth",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/alfred-workflow-gauth",
+  "description": ":key: TOTP - Google Authenticator Workflow for Alfred2 (Two-Factor authentication)",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/alfred-workflow-gauth",
+  "languages_url": "https://api.github.com/repos/moul/alfred-workflow-gauth/languages",
+  "pulls_url": "https://api.github.com/repos/moul/alfred-workflow-gauth/pulls{/number}",
+  "created_at": "2014-02-27T13:23:46Z",
+  "updated_at": "2018-09-14T08:12:15Z",
+  "pushed_at": "2018-09-03T08:55:38Z",
+  "homepage": "http://www.alfredforum.com/topic/4062-gauth-google-authenticator-time-based-two-factor-authentication/",
+  "size": 929,
+  "stargazers_count": 89,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "develop",
+  "contributors": {
+    "htr3n": 1,
+    "opatut": 1,
+    "golimpio": 9,
+    "moul": 52
+  },
+  "pulls_authors": [
+    "imgbot[bot]",
+    "htr3n",
+    "moul",
+    "opatut",
+    "golimpio"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 11510,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 811,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T08:35:02.069Z"
+}

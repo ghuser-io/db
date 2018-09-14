@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "feathers-objection",
+  "full_name": "mcchrish/feathers-objection",
+  "owner": "mcchrish",
+  "private": false,
+  "html_url": "https://github.com/mcchrish/feathers-objection",
+  "description": "Objection.js feathers adapter. Forked from feathers-knex",
+  "fork": false,
+  "url": "https://api.github.com/repos/mcchrish/feathers-objection",
+  "languages_url": "https://api.github.com/repos/mcchrish/feathers-objection/languages",
+  "pulls_url": "https://api.github.com/repos/mcchrish/feathers-objection/pulls{/number}",
+  "created_at": "2016-06-01T05:58:00Z",
+  "updated_at": "2018-09-10T19:01:12Z",
+  "pushed_at": "2018-09-10T19:01:10Z",
+  "homepage": "",
+  "size": 430,
+  "stargazers_count": 27,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "cpsubrian": 1,
+    "cdelaorden": 2,
+    "idandagan1": 3,
+    "vonagam": 3,
+    "NotAmaan": 10,
+    "dekelev": 22,
+    "mcchrish": 37
+  },
+  "pulls_authors": [
+    "NotAmaan",
+    "dekelev",
+    "vonagam",
+    "cdelaorden",
+    "cpsubrian"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 39163,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:34.561Z"
+}

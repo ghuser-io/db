@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "referendumrealya",
+  "full_name": "edulix/referendumrealya",
+  "owner": "edulix",
+  "private": false,
+  "html_url": "https://github.com/edulix/referendumrealya",
+  "description": "Web of renferendumrealya.com",
+  "fork": false,
+  "url": "https://api.github.com/repos/edulix/referendumrealya",
+  "languages_url": "https://api.github.com/repos/edulix/referendumrealya/languages",
+  "pulls_url": "https://api.github.com/repos/edulix/referendumrealya/pulls{/number}",
+  "created_at": "2014-06-06T16:05:27Z",
+  "updated_at": "2014-06-23T15:28:44Z",
+  "pushed_at": "2014-06-19T18:27:33Z",
+  "homepage": null,
+  "size": 13365,
+  "stargazers_count": 2,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "tetioth": 3,
+    "imdario": 5,
+    "edulix": 6,
+    "verdor": 28,
+    "sinestesia": 80
+  },
+  "pulls_authors": [
+    "imdario",
+    "sinestesia"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 121845,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 84506,
+      "color": "#f1e05a"
+    },
+    "PHP": {
+      "bytes": 680,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-11T20:48:11.499Z"
+}

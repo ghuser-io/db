@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Sketch-Title-Case",
+  "full_name": "Hemmingsson/Sketch-Title-Case",
+  "owner": "Hemmingsson",
+  "private": false,
+  "html_url": "https://github.com/Hemmingsson/Sketch-Title-Case",
+  "description": "Sketch Plugin to make text Title Case",
+  "fork": false,
+  "url": "https://api.github.com/repos/Hemmingsson/Sketch-Title-Case",
+  "languages_url": "https://api.github.com/repos/Hemmingsson/Sketch-Title-Case/languages",
+  "pulls_url": "https://api.github.com/repos/Hemmingsson/Sketch-Title-Case/pulls{/number}",
+  "created_at": "2017-08-31T16:22:09Z",
+  "updated_at": "2018-08-15T20:50:32Z",
+  "pushed_at": "2018-01-08T15:58:32Z",
+  "homepage": "https://sketchpacks.com/Hemmingsson/Sketch-Title-Case/",
+  "size": 43,
+  "stargazers_count": 10,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Hemmingsson": 29
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2515,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T17:10:04.954Z"
+}

@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "language-python",
+  "full_name": "bjpop/language-python",
+  "owner": "bjpop",
+  "private": false,
+  "html_url": "https://github.com/bjpop/language-python",
+  "description": "A parser for Python 2.x and 3.x written in Haskell",
+  "fork": false,
+  "url": "https://api.github.com/repos/bjpop/language-python",
+  "languages_url": "https://api.github.com/repos/bjpop/language-python/languages",
+  "pulls_url": "https://api.github.com/repos/bjpop/language-python/pulls{/number}",
+  "created_at": "2010-04-02T07:35:45Z",
+  "updated_at": "2018-09-07T00:11:32Z",
+  "pushed_at": "2018-06-10T08:41:07Z",
+  "homepage": "",
+  "size": 246,
+  "stargazers_count": 118,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "truls": 1,
+    "sergv": 1,
+    "yiding": 1,
+    "nomeata": 1,
+    "Gabriel439": 1,
+    "yihuang": 1,
+    "mkovacs": 2,
+    "jml": 2,
+    "garetht": 9,
+    "bjpop": 52
+  },
+  "pulls_authors": [
+    "truls",
+    "garetht",
+    "sergv",
+    "mkovacs",
+    "jml",
+    "yiding",
+    "muscar",
+    "nomeata",
+    "Gabriel439",
+    "alexbiehl",
+    "travitch",
+    "yihuang"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 125523,
+      "color": "#5e5086"
+    },
+    "Yacc": {
+      "bytes": 62847,
+      "color": "#4B6C4B"
+    },
+    "Logos": {
+      "bytes": 24152,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:16.025Z"
+}

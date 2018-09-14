@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "crazy-canvas",
+  "full_name": "anshumanv/crazy-canvas",
+  "owner": "anshumanv",
+  "private": false,
+  "html_url": "https://github.com/anshumanv/crazy-canvas",
+  "description": "Simple canvas playground",
+  "fork": false,
+  "url": "https://api.github.com/repos/anshumanv/crazy-canvas",
+  "languages_url": "https://api.github.com/repos/anshumanv/crazy-canvas/languages",
+  "pulls_url": "https://api.github.com/repos/anshumanv/crazy-canvas/pulls{/number}",
+  "created_at": "2017-07-03T06:57:57Z",
+  "updated_at": "2018-02-06T05:26:31Z",
+  "pushed_at": "2018-02-07T17:15:26Z",
+  "homepage": "https://canvas.js.org",
+  "size": 321,
+  "stargazers_count": 11,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "yoksanherlie": 2,
+    "anshumanv": 25
+  },
+  "pulls_authors": [
+    "yoksanherlie",
+    "aman-mi",
+    "Monal5031",
+    "anshumanv"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1696,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 747,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 711,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-04T12:17:55.574Z"
+}

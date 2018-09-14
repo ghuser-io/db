@@ -1,0 +1,116 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "shacknetisp": 1,
+    "acerspyro": 1,
+    "Calinou": 1,
+    "shirepirate": 9,
+    "qreeves": 137
+  },
+  "name": "site",
+  "full_name": "red-eclipse/site",
+  "owner": "red-eclipse",
+  "private": false,
+  "html_url": "https://github.com/red-eclipse/site",
+  "description": "Files associated with the Red Eclipse web direction endpoint.",
+  "fork": false,
+  "url": "https://api.github.com/repos/red-eclipse/site",
+  "languages_url": "https://api.github.com/repos/red-eclipse/site/languages",
+  "created_at": "2015-02-04T08:26:06Z",
+  "updated_at": "2018-05-11T00:25:15Z",
+  "pushed_at": "2018-05-02T05:53:46Z",
+  "homepage": "https://redeclipse.net/",
+  "size": 128445,
+  "stargazers_count": 6,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "red-eclipse",
+    "id": 10807478,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEwODA3NDc4",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/10807478?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/red-eclipse",
+    "html_url": "https://github.com/red-eclipse",
+    "followers_url": "https://api.github.com/users/red-eclipse/followers",
+    "following_url": "https://api.github.com/users/red-eclipse/following{/other_user}",
+    "gists_url": "https://api.github.com/users/red-eclipse/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/red-eclipse/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/red-eclipse/subscriptions",
+    "organizations_url": "https://api.github.com/users/red-eclipse/orgs",
+    "repos_url": "https://api.github.com/users/red-eclipse/repos",
+    "events_url": "https://api.github.com/users/red-eclipse/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/red-eclipse/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "languages": {
+    "PHP": {
+      "bytes": 83561300,
+      "color": "#4F5D95"
+    },
+    "HTML": {
+      "bytes": 3662439,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 1858021,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 422576,
+      "color": "#563d7c"
+    },
+    "XSLT": {
+      "bytes": 101529,
+      "color": "#EB8CEB"
+    },
+    "PLSQL": {
+      "bytes": 52452,
+      "color": "#dad8d8"
+    },
+    "Python": {
+      "bytes": 47400,
+      "color": "#3572A5"
+    },
+    "PLpgSQL": {
+      "bytes": 35449,
+      "color": "#ccc"
+    },
+    "Perl": {
+      "bytes": 28087,
+      "color": "#0298c3"
+    },
+    "SQLPL": {
+      "bytes": 13440,
+      "color": "#ccc"
+    },
+    "Makefile": {
+      "bytes": 7564,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 7499,
+      "color": "#89e051"
+    },
+    "Ruby": {
+      "bytes": 2511,
+      "color": "#701516"
+    },
+    "Batchfile": {
+      "bytes": 45,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/red-eclipse/site/pulls{/number}",
+  "pulls_authors": [
+    "ghost",
+    "acerspyro",
+    "RemiClouet",
+    "Calinou"
+  ]
+}

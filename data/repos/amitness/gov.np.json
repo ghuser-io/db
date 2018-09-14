@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gov.np",
+  "full_name": "amitness/gov.np",
+  "owner": "amitness",
+  "private": false,
+  "html_url": "https://github.com/amitness/gov.np",
+  "description": "List of government sites of Nepal",
+  "fork": false,
+  "url": "https://api.github.com/repos/amitness/gov.np",
+  "languages_url": "https://api.github.com/repos/amitness/gov.np/languages",
+  "pulls_url": "https://api.github.com/repos/amitness/gov.np/pulls{/number}",
+  "created_at": "2017-04-25T15:32:07Z",
+  "updated_at": "2018-02-25T17:53:45Z",
+  "pushed_at": "2017-10-06T16:51:37Z",
+  "homepage": "",
+  "size": 27,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rabirajkhadka": 3,
+    "amitness": 9
+  },
+  "pulls_authors": [
+    "rabirajkhadka"
+  ],
+  "languages": {},
+  "fetched_at": "2018-08-18T09:17:26.084Z"
+}

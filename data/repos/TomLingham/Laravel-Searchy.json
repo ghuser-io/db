@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Laravel-Searchy",
+  "full_name": "TomLingham/Laravel-Searchy",
+  "owner": "TomLingham",
+  "private": false,
+  "html_url": "https://github.com/TomLingham/Laravel-Searchy",
+  "description": "Laravel Searchy makes user driven searching easy with fuzzy search, basic string matching and more to come!",
+  "fork": false,
+  "url": "https://api.github.com/repos/TomLingham/Laravel-Searchy",
+  "languages_url": "https://api.github.com/repos/TomLingham/Laravel-Searchy/languages",
+  "pulls_url": "https://api.github.com/repos/TomLingham/Laravel-Searchy/pulls{/number}",
+  "created_at": "2014-07-13T11:07:53Z",
+  "updated_at": "2018-09-04T10:55:50Z",
+  "pushed_at": "2018-03-23T23:08:23Z",
+  "homepage": "",
+  "size": 87,
+  "stargazers_count": 409,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "dciancu": 1,
+    "fede91it": 2,
+    "S3D-Jake": 2,
+    "jbrooksuk": 8,
+    "vinkla": 11,
+    "TomLingham": 53
+  },
+  "pulls_authors": [
+    "ffgalvao",
+    "vinkla",
+    "irwanlimantauw",
+    "mbdwey",
+    "MartinVandersteen",
+    "ModernArtisan",
+    "fede91it",
+    "krisscox",
+    "dciancu",
+    "jakeboyles",
+    "FrostyX",
+    "ibexcore",
+    "jbrooksuk",
+    "akondas",
+    "jamesbrauman",
+    "TomLingham"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 24819,
+      "color": "#4F5D95"
+    },
+    "SQLPL": {
+      "bytes": 1198,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:48.384Z"
+}

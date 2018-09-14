@@ -1,0 +1,33 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "awesome-campus-ambassadors",
+  "full_name": "palash25/awesome-campus-ambassadors",
+  "owner": "palash25",
+  "private": false,
+  "html_url": "https://github.com/palash25/awesome-campus-ambassadors",
+  "description": "Curated list of campus ambassador programs offered by various organizations.",
+  "fork": false,
+  "url": "https://api.github.com/repos/palash25/awesome-campus-ambassadors",
+  "languages_url": "https://api.github.com/repos/palash25/awesome-campus-ambassadors/languages",
+  "created_at": "2018-01-27T05:05:47Z",
+  "updated_at": "2018-08-07T16:42:26Z",
+  "pushed_at": "2018-06-28T08:36:09Z",
+  "homepage": "https://palash25.github.io/awesome-campus-ambassadors/",
+  "size": 168,
+  "stargazers_count": 20,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "msumeet": 1,
+    "palash25": 16
+  },
+  "languages": {},
+  "fetched_at": "2018-08-07T18:46:12.707Z",
+  "pulls_url": "https://api.github.com/repos/palash25/awesome-campus-ambassadors/pulls{/number}",
+  "pulls_authors": [
+    "msumeet"
+  ]
+}

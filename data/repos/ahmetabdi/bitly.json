@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bitly",
+  "full_name": "ahmetabdi/bitly",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/bitly",
+  "description": "A ruby wrapper for the bit.ly API",
+  "fork": true,
+  "url": "https://api.github.com/repos/ahmetabdi/bitly",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/bitly/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/bitly/pulls{/number}",
+  "created_at": "2014-08-04T14:57:13Z",
+  "updated_at": "2017-11-11T04:55:13Z",
+  "pushed_at": "2014-08-04T14:58:24Z",
+  "homepage": "http://github.com/philnash/bitly",
+  "size": 289,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 1,
+    "fzagarzazu": 1,
+    "stouset": 1,
+    "p": 1,
+    "waynn": 1,
+    "tiegz": 1,
+    "pedrocarrico": 1,
+    "sguha00": 1,
+    "jmonteiro": 1,
+    "alanho": 1,
+    "smtlaissezfaire": 1,
+    "coryosborn": 2,
+    "maddox": 2,
+    "philnash": 75
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 53473,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:07.922Z"
+}

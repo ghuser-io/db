@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cforus",
+  "full_name": "sandeepbhat/cforus",
+  "owner": "sandeepbhat",
+  "private": false,
+  "html_url": "https://github.com/sandeepbhat/cforus",
+  "description": "C programming language code snippets with documentation to help people learn.",
+  "fork": false,
+  "url": "https://api.github.com/repos/sandeepbhat/cforus",
+  "languages_url": "https://api.github.com/repos/sandeepbhat/cforus/languages",
+  "pulls_url": "https://api.github.com/repos/sandeepbhat/cforus/pulls{/number}",
+  "created_at": "2011-06-04T11:18:00Z",
+  "updated_at": "2013-10-06T10:33:27Z",
+  "pushed_at": "2011-06-22T15:34:51Z",
+  "homepage": "http://sandeepbhat.github.com/cforus",
+  "size": 120,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sandeepbhat": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 1424,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-11T17:15:10.896Z"
+}

@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "titanium-picture-gallery",
+  "full_name": "novelys/titanium-picture-gallery",
+  "owner": "novelys",
+  "private": false,
+  "html_url": "https://github.com/novelys/titanium-picture-gallery",
+  "description": "Pure javascript picture gallery for Appcelerator Titanium",
+  "fork": false,
+  "url": "https://api.github.com/repos/novelys/titanium-picture-gallery",
+  "languages_url": "https://api.github.com/repos/novelys/titanium-picture-gallery/languages",
+  "pulls_url": "https://api.github.com/repos/novelys/titanium-picture-gallery/pulls{/number}",
+  "created_at": "2011-08-30T14:29:57Z",
+  "updated_at": "2018-08-31T09:19:16Z",
+  "pushed_at": "2011-11-13T13:34:49Z",
+  "homepage": "",
+  "size": 190,
+  "stargazers_count": 99,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "novelys",
+    "id": 66419,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY2NDE5",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/66419?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/novelys",
+    "html_url": "https://github.com/novelys",
+    "followers_url": "https://api.github.com/users/novelys/followers",
+    "following_url": "https://api.github.com/users/novelys/following{/other_user}",
+    "gists_url": "https://api.github.com/users/novelys/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/novelys/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/novelys/subscriptions",
+    "organizations_url": "https://api.github.com/users/novelys/orgs",
+    "repos_url": "https://api.github.com/users/novelys/repos",
+    "events_url": "https://api.github.com/users/novelys/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/novelys/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ephread": 2
+  },
+  "pulls_authors": [
+    "manumaticx"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 23043,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T17:09:40.550Z"
+}

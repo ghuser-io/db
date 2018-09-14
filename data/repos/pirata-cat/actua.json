@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "actua",
+  "full_name": "pirata-cat/actua",
+  "owner": "pirata-cat",
+  "private": false,
+  "html_url": "https://github.com/pirata-cat/actua",
+  "description": "Actua! - Pirates de Catalunya",
+  "fork": false,
+  "url": "https://api.github.com/repos/pirata-cat/actua",
+  "languages_url": "https://api.github.com/repos/pirata-cat/actua/languages",
+  "pulls_url": "https://api.github.com/repos/pirata-cat/actua/pulls{/number}",
+  "created_at": "2010-12-05T23:00:11Z",
+  "updated_at": "2014-06-26T16:00:03Z",
+  "pushed_at": "2010-12-05T23:01:08Z",
+  "homepage": "http://actua.pirata.cat",
+  "size": 184,
+  "stargazers_count": 2,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "pirata-cat",
+    "id": 1370211,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzNzAyMTE=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1370211?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pirata-cat",
+    "html_url": "https://github.com/pirata-cat",
+    "followers_url": "https://api.github.com/users/pirata-cat/followers",
+    "following_url": "https://api.github.com/users/pirata-cat/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pirata-cat/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pirata-cat/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pirata-cat/subscriptions",
+    "organizations_url": "https://api.github.com/users/pirata-cat/orgs",
+    "repos_url": "https://api.github.com/users/pirata-cat/repos",
+    "events_url": "https://api.github.com/users/pirata-cat/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pirata-cat/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "imdario": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 10378,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 6677,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T20:48:12.748Z"
+}

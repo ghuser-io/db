@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "spyglass",
+  "full_name": "andremedeiros/spyglass",
+  "owner": "andremedeiros",
+  "private": false,
+  "html_url": "https://github.com/andremedeiros/spyglass",
+  "description": "OpenCV in Ruby, made simple.",
+  "fork": false,
+  "url": "https://api.github.com/repos/andremedeiros/spyglass",
+  "languages_url": "https://api.github.com/repos/andremedeiros/spyglass/languages",
+  "pulls_url": "https://api.github.com/repos/andremedeiros/spyglass/pulls{/number}",
+  "created_at": "2013-08-21T15:35:54Z",
+  "updated_at": "2016-06-21T07:26:42Z",
+  "pushed_at": "2014-09-12T07:38:16Z",
+  "homepage": "",
+  "size": 1041,
+  "stargazers_count": 20,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "crusherio": 1,
+    "andremedeiros": 80
+  },
+  "pulls_authors": [
+    "GantMan",
+    "andremedeiros"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 80555,
+      "color": "#f34b7d"
+    },
+    "Ruby": {
+      "bytes": 20330,
+      "color": "#701516"
+    },
+    "C": {
+      "bytes": 9223,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-11T10:32:18.252Z"
+}

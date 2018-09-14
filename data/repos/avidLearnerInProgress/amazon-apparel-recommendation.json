@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "amazon-apparel-recommendation",
+  "full_name": "avidLearnerInProgress/amazon-apparel-recommendation",
+  "owner": "avidLearnerInProgress",
+  "private": false,
+  "html_url": "https://github.com/avidLearnerInProgress/amazon-apparel-recommendation",
+  "description": "Recommendation Engine",
+  "fork": false,
+  "url": "https://api.github.com/repos/avidLearnerInProgress/amazon-apparel-recommendation",
+  "languages_url": "https://api.github.com/repos/avidLearnerInProgress/amazon-apparel-recommendation/languages",
+  "created_at": "2018-02-24T12:37:02Z",
+  "updated_at": "2018-03-30T01:49:35Z",
+  "pushed_at": "2018-02-24T12:39:26Z",
+  "homepage": null,
+  "size": 2,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "avidLearnerInProgress": 1
+  },
+  "languages": {
+    "Python": {
+      "bytes": 4969,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/avidLearnerInProgress/amazon-apparel-recommendation/pulls{/number}",
+  "pulls_authors": []
+}

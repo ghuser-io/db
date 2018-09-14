@@ -1,0 +1,68 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cjdns-installer",
+  "full_name": "interfect/cjdns-installer",
+  "owner": "interfect",
+  "private": false,
+  "html_url": "https://github.com/interfect/cjdns-installer",
+  "description": "Installer for cjdns on Windows",
+  "fork": false,
+  "url": "https://api.github.com/repos/interfect/cjdns-installer",
+  "languages_url": "https://api.github.com/repos/interfect/cjdns-installer/languages",
+  "pulls_url": "https://api.github.com/repos/interfect/cjdns-installer/pulls{/number}",
+  "created_at": "2014-09-19T03:05:55Z",
+  "updated_at": "2018-08-10T01:47:55Z",
+  "pushed_at": "2018-06-19T02:23:02Z",
+  "homepage": null,
+  "size": 19605,
+  "stargazers_count": 42,
+  "language": "NSIS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Danielv123": 1,
+    "Speed7811": 1,
+    "kpcyrd": 1,
+    "mkg20001": 4,
+    "adamnovak": 9,
+    "interfect": 31
+  },
+  "pulls_authors": [
+    "mkg20001",
+    "kaotisk-hund",
+    "Danielv123",
+    "tigusoft-vm",
+    "kpcyrd"
+  ],
+  "languages": {
+    "NSIS": {
+      "bytes": 10396,
+      "color": "#ccc"
+    },
+    "C#": {
+      "bytes": 2374,
+      "color": "#178600"
+    },
+    "Batchfile": {
+      "bytes": 1751,
+      "color": "#C1F12E"
+    },
+    "Visual Basic": {
+      "bytes": 1601,
+      "color": "#945db7"
+    },
+    "Shell": {
+      "bytes": 926,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T23:54:24.344Z"
+}

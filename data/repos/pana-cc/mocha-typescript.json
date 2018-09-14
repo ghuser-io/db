@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mocha-typescript",
+  "full_name": "pana-cc/mocha-typescript",
+  "owner": "pana-cc",
+  "private": false,
+  "html_url": "https://github.com/pana-cc/mocha-typescript",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/pana-cc/mocha-typescript",
+  "languages_url": "https://api.github.com/repos/pana-cc/mocha-typescript/languages",
+  "pulls_url": "https://api.github.com/repos/pana-cc/mocha-typescript/pulls{/number}",
+  "created_at": "2016-04-05T09:38:18Z",
+  "updated_at": "2018-09-09T12:27:51Z",
+  "pushed_at": "2018-07-25T17:35:23Z",
+  "homepage": null,
+  "size": 245,
+  "stargazers_count": 139,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "richardspence": 1,
+    "Eronana": 1,
+    "sergebat": 1,
+    "cexoso": 1,
+    "dcharbonnier": 1,
+    "FabianLauer": 1,
+    "gallayl": 1,
+    "stanhuff": 1,
+    "JoshuaKGoldberg": 1,
+    "godart": 1,
+    "itaysabato": 1,
+    "Haringat": 2,
+    "dimastark": 3,
+    "FireSt-dead": 6,
+    "pana-cc": 12,
+    "silkentrance": 18,
+    "PanayotCankov": 91
+  },
+  "pulls_authors": [
+    "silkentrance",
+    "pana-cc",
+    "Eronana",
+    "dimastark",
+    "richardspence",
+    "sergebat",
+    "gekowa",
+    "cexoso",
+    "dcharbonnier",
+    "FabianLauer",
+    "datatypevoid",
+    "gallayl",
+    "stanhuff",
+    "JoshuaKGoldberg",
+    "godart",
+    "itaysabato",
+    "PanayotCankov",
+    "Haringat"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 71368,
+      "color": "#2b7489"
+    },
+    "JavaScript": {
+      "bytes": 4054,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T17:09:41.565Z"
+}

@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Ruby-RPi-Binary-Clock",
+  "full_name": "Gadgetoid/Ruby-RPi-Binary-Clock",
+  "owner": "Gadgetoid",
+  "private": false,
+  "html_url": "https://github.com/Gadgetoid/Ruby-RPi-Binary-Clock",
+  "description": "A binary clock for the Raspberry Pi, written in Ruby and designed to drive 14 LEDs to indicate day of week, hours and minutes.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Gadgetoid/Ruby-RPi-Binary-Clock",
+  "languages_url": "https://api.github.com/repos/Gadgetoid/Ruby-RPi-Binary-Clock/languages",
+  "pulls_url": "https://api.github.com/repos/Gadgetoid/Ruby-RPi-Binary-Clock/pulls{/number}",
+  "created_at": "2012-05-16T20:18:34Z",
+  "updated_at": "2013-10-28T22:01:08Z",
+  "pushed_at": "2012-05-16T20:30:44Z",
+  "homepage": null,
+  "size": 100,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Gadgetoid": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 6881,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:16.490Z"
+}

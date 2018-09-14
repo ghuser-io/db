@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "no-dice",
+  "full_name": "schollz/no-dice",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/no-dice",
+  "description": "Using a pen and paper to generate random numbers, in cases you don't have dice",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/no-dice",
+  "languages_url": "https://api.github.com/repos/schollz/no-dice/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/no-dice/pulls{/number}",
+  "created_at": "2017-08-08T21:27:15Z",
+  "updated_at": "2018-06-24T00:32:32Z",
+  "pushed_at": "2017-08-12T19:18:52Z",
+  "homepage": null,
+  "size": 5,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "unlicense",
+    "name": "The Unlicense",
+    "spdx_id": "Unlicense",
+    "url": "https://api.github.com/licenses/unlicense",
+    "node_id": "MDc6TGljZW5zZTE1"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 4685,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:38.850Z"
+}

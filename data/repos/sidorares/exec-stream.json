@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "exec-stream",
+  "full_name": "sidorares/exec-stream",
+  "owner": "sidorares",
+  "private": false,
+  "html_url": "https://github.com/sidorares/exec-stream",
+  "description": "create read-write stream from child process stdin/stdout",
+  "fork": false,
+  "url": "https://api.github.com/repos/sidorares/exec-stream",
+  "languages_url": "https://api.github.com/repos/sidorares/exec-stream/languages",
+  "pulls_url": "https://api.github.com/repos/sidorares/exec-stream/pulls{/number}",
+  "created_at": "2012-08-15T01:08:09Z",
+  "updated_at": "2016-11-20T15:44:35Z",
+  "pushed_at": "2017-05-01T05:45:50Z",
+  "homepage": null,
+  "size": 6,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "canndrew": 2,
+    "sidorares": 9
+  },
+  "pulls_authors": [
+    "canndrew"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2520,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:44.479Z"
+}

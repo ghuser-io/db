@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "kdaoudieh/Bella": {
+      "full_name": "kdaoudieh/Bella",
+      "name": "Bella",
+      "stargazers_count": 20,
+      "popularity": 2.2810722512575277,
+      "percentage": 83.33333333333333,
+      "maturity": 0,
+      "total_commits_count": 6,
+      "activity": 5,
+      "total_score": 36.55483280906246,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jordanopensource/awesome-jordan": {
+      "full_name": "jordanopensource/awesome-jordan",
+      "name": "awesome-jordan",
+      "stargazers_count": 21,
+      "popularity": 2.3032349516115587,
+      "percentage": 3.508771929824561,
+      "maturity": 2.234722295244445,
+      "total_commits_count": 57,
+      "activity": 2.8338155422828106,
+      "total_score": 15.263563386587087,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "pkwiecien/tumitfahrer": {
+      "full_name": "pkwiecien/tumitfahrer",
+      "name": "tumitfahrer",
+      "stargazers_count": 6,
+      "popularity": 1.7076084983408428,
+      "percentage": 0,
+      "maturity": 3.1722902070738215,
+      "total_commits_count": 188,
+      "activity": 0.6239991789702435,
+      "total_score": 12.091405088140416,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "jordanopensource"
+  ]
+}

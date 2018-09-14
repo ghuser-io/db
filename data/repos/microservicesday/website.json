@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "website",
+  "full_name": "microservicesday/website",
+  "owner": "microservicesday",
+  "private": false,
+  "html_url": "https://github.com/microservicesday/website",
+  "description": "The public website for the Microservices day event",
+  "fork": false,
+  "url": "https://api.github.com/repos/microservicesday/website",
+  "languages_url": "https://api.github.com/repos/microservicesday/website/languages",
+  "pulls_url": "https://api.github.com/repos/microservicesday/website/pulls{/number}",
+  "created_at": "2015-06-09T17:05:31Z",
+  "updated_at": "2017-04-11T13:01:48Z",
+  "pushed_at": "2017-05-23T16:14:12Z",
+  "homepage": "",
+  "size": 42192,
+  "stargazers_count": 3,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "microservicesday",
+    "id": 12844657,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyODQ0NjU3",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/12844657?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/microservicesday",
+    "html_url": "https://github.com/microservicesday",
+    "followers_url": "https://api.github.com/users/microservicesday/followers",
+    "following_url": "https://api.github.com/users/microservicesday/following{/other_user}",
+    "gists_url": "https://api.github.com/users/microservicesday/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/microservicesday/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/microservicesday/subscriptions",
+    "organizations_url": "https://api.github.com/users/microservicesday/orgs",
+    "repos_url": "https://api.github.com/users/microservicesday/repos",
+    "events_url": "https://api.github.com/users/microservicesday/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/microservicesday/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "varjmes": 1,
+    "rjrodger": 1,
+    "steve384": 1,
+    "matt-oc": 54,
+    "Joe8Bit": 65
+  },
+  "pulls_authors": [
+    "varjmes",
+    "MikeZTaylor",
+    "Joe8Bit",
+    "rjrodger"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 44421,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 9533,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 5296,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:33.811Z"
+}

@@ -1,0 +1,93 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "graphene",
+  "full_name": "jondot/graphene",
+  "owner": "jondot",
+  "private": false,
+  "html_url": "https://github.com/jondot/graphene",
+  "description": "Graphene is a realtime dashboard & graphing toolkit based on D3 and Backbone.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jondot/graphene",
+  "languages_url": "https://api.github.com/repos/jondot/graphene/languages",
+  "pulls_url": "https://api.github.com/repos/jondot/graphene/pulls{/number}",
+  "created_at": "2012-02-20T21:03:01Z",
+  "updated_at": "2018-08-29T13:16:16Z",
+  "pushed_at": "2014-02-08T13:54:10Z",
+  "homepage": "http://jondot.github.com/graphene",
+  "size": 1007,
+  "stargazers_count": 2919,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "wndhydrnt": 1,
+    "austingulati": 1,
+    "adamzap": 1,
+    "trbs": 1,
+    "jtolds": 1,
+    "phlipper": 1,
+    "vrish88": 1,
+    "logikal": 1,
+    "yjpa7145": 2,
+    "EButlerIV": 2,
+    "Jell": 2,
+    "mgarski": 2,
+    "chrismytton": 2,
+    "drspin": 3,
+    "dennisvdvliet": 5,
+    "mchandramouli": 10,
+    "jondot": 23
+  },
+  "pulls_authors": [
+    "gardster",
+    "wndhydrnt",
+    "bbonf",
+    "mchandramouli",
+    "ericachelis",
+    "austingulati",
+    "ghost",
+    "adamzap",
+    "drspin",
+    "trbs",
+    "jtolds",
+    "boopathi",
+    "phlipper",
+    "davidchau",
+    "EButlerIV",
+    "vrish88",
+    "Jell",
+    "cognusion",
+    "tibbon",
+    "dennisvdvliet",
+    "arctanb",
+    "logikal",
+    "dcartoon",
+    "mgarski",
+    "chrismytton"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 173504,
+      "color": "#563d7c"
+    },
+    "CoffeeScript": {
+      "bytes": 23009,
+      "color": "#244776"
+    },
+    "JavaScript": {
+      "bytes": 11034,
+      "color": "#f1e05a"
+    },
+    "Ruby": {
+      "bytes": 455,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 83,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:49.750Z"
+}

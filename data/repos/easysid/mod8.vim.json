@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mod8.vim",
+  "full_name": "easysid/mod8.vim",
+  "owner": "easysid",
+  "private": false,
+  "html_url": "https://github.com/easysid/mod8.vim",
+  "description": "A dark theme only modification of base16 vim themes to use fewer colors.",
+  "fork": false,
+  "url": "https://api.github.com/repos/easysid/mod8.vim",
+  "languages_url": "https://api.github.com/repos/easysid/mod8.vim/languages",
+  "pulls_url": "https://api.github.com/repos/easysid/mod8.vim/pulls{/number}",
+  "created_at": "2016-02-05T15:01:27Z",
+  "updated_at": "2018-08-19T08:54:51Z",
+  "pushed_at": "2016-02-05T17:02:51Z",
+  "homepage": null,
+  "size": 121,
+  "stargazers_count": 51,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "aloisdg": 1,
+    "easysid": 6
+  },
+  "pulls_authors": [
+    "aloisdg"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 13102,
+      "color": "#89e051"
+    },
+    "Vim script": {
+      "bytes": 10939,
+      "color": "#199f4b"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:16.579Z"
+}

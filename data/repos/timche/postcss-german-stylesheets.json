@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "postcss-german-stylesheets",
+  "full_name": "timche/postcss-german-stylesheets",
+  "owner": "timche",
+  "private": false,
+  "html_url": "https://github.com/timche/postcss-german-stylesheets",
+  "description": ":de: PostCSS plugin for writing German Style Sheets",
+  "fork": false,
+  "url": "https://api.github.com/repos/timche/postcss-german-stylesheets",
+  "languages_url": "https://api.github.com/repos/timche/postcss-german-stylesheets/languages",
+  "pulls_url": "https://api.github.com/repos/timche/postcss-german-stylesheets/pulls{/number}",
+  "created_at": "2015-08-22T21:57:11Z",
+  "updated_at": "2018-08-15T17:42:39Z",
+  "pushed_at": "2017-02-08T15:48:05Z",
+  "homepage": "http://timche.github.io/postcss-german-stylesheets",
+  "size": 71,
+  "stargazers_count": 38,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "Xiphe": 1,
+    "sokki": 1,
+    "danielhusar": 1,
+    "Boldewyn": 3,
+    "ntwcklng": 4,
+    "timche": 63
+  },
+  "pulls_authors": [
+    "greenkeeper[bot]",
+    "Xiphe",
+    "mbaumgart",
+    "sokki",
+    "Boldewyn",
+    "ntwcklng",
+    "danielhusar",
+    "timche"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 13134,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:57:53.783Z"
+}

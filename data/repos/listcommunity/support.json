@@ -1,0 +1,85 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "support",
+  "full_name": "listcommunity/support",
+  "owner": "listcommunity",
+  "private": false,
+  "html_url": "https://github.com/listcommunity/support",
+  "description": "List.community is an easy way to  browse curated lists on GitHub",
+  "fork": false,
+  "url": "https://api.github.com/repos/listcommunity/support",
+  "languages_url": "https://api.github.com/repos/listcommunity/support/languages",
+  "pulls_url": "https://api.github.com/repos/listcommunity/support/pulls{/number}",
+  "created_at": "2017-12-26T13:12:27Z",
+  "updated_at": "2018-08-30T16:06:20Z",
+  "pushed_at": "2018-05-06T18:28:55Z",
+  "homepage": "https://list.community",
+  "size": 16174,
+  "stargazers_count": 52,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "listcommunity",
+    "id": 34860800,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM0ODYwODAw",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/34860800?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/listcommunity",
+    "html_url": "https://github.com/listcommunity",
+    "followers_url": "https://api.github.com/users/listcommunity/followers",
+    "following_url": "https://api.github.com/users/listcommunity/following{/other_user}",
+    "gists_url": "https://api.github.com/users/listcommunity/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/listcommunity/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/listcommunity/subscriptions",
+    "organizations_url": "https://api.github.com/users/listcommunity/orgs",
+    "repos_url": "https://api.github.com/users/listcommunity/repos",
+    "events_url": "https://api.github.com/users/listcommunity/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/listcommunity/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "SourcingDenis": 1,
+    "tcelestino": 1,
+    "voronoipotato": 1,
+    "alekratz": 1,
+    "fmind": 1,
+    "cristianoliveira": 1,
+    "mislavcimpersak": 3,
+    "dmfrancisco": 211
+  },
+  "pulls_authors": [
+    "SourcingDenis",
+    "tcelestino",
+    "mislavcimpersak",
+    "voronoipotato",
+    "alekratz",
+    "fmind",
+    "cristianoliveira",
+    "sotayamashita"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 135388,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 5727,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 3716,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-08-30T19:50:42.281Z"
+}

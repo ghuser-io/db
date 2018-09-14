@@ -1,0 +1,100 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "agora-ciudadana",
+  "full_name": "agoravoting/agora-ciudadana",
+  "owner": "agoravoting",
+  "private": false,
+  "html_url": "https://github.com/agoravoting/agora-ciudadana",
+  "description": "Liquid Voting system made with python and django",
+  "fork": false,
+  "url": "https://api.github.com/repos/agoravoting/agora-ciudadana",
+  "languages_url": "https://api.github.com/repos/agoravoting/agora-ciudadana/languages",
+  "pulls_url": "https://api.github.com/repos/agoravoting/agora-ciudadana/pulls{/number}",
+  "created_at": "2012-04-02T15:09:58Z",
+  "updated_at": "2018-06-11T04:47:28Z",
+  "pushed_at": "2015-09-30T21:51:23Z",
+  "homepage": "https://www.agoravoting.com",
+  "size": 17745,
+  "stargazers_count": 129,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "agoravoting",
+    "id": 890375,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjg5MDM3NQ==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/890375?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/agoravoting",
+    "html_url": "https://github.com/agoravoting",
+    "followers_url": "https://api.github.com/users/agoravoting/followers",
+    "following_url": "https://api.github.com/users/agoravoting/following{/other_user}",
+    "gists_url": "https://api.github.com/users/agoravoting/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/agoravoting/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/agoravoting/subscriptions",
+    "organizations_url": "https://api.github.com/users/agoravoting/orgs",
+    "repos_url": "https://api.github.com/users/agoravoting/repos",
+    "events_url": "https://api.github.com/users/agoravoting/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/agoravoting/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "voodoorai2000": 1,
+    "patcon": 1,
+    "ablanco": 2,
+    "lcabrera": 6,
+    "javaguirre": 11,
+    "hirunatan": 15,
+    "ruescasd": 23,
+    "niwinz": 28,
+    "Findeton": 29,
+    "danigm": 90,
+    "edulix": 726
+  },
+  "pulls_authors": [
+    "orthographic-pedant",
+    "imdario",
+    "Virako",
+    "javierllorente",
+    "abeaumont",
+    "patcon",
+    "Gallaecio",
+    "Findeton",
+    "lcabrera",
+    "javaguirre",
+    "ablanco",
+    "danigm"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1539526,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 1432360,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 238918,
+      "color": "#563d7c"
+    },
+    "Makefile": {
+      "bytes": 9625,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 82,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T20:48:09.904Z"
+}

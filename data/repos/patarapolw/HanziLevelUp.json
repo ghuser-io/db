@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "HanziLevelUp",
+  "full_name": "patarapolw/HanziLevelUp",
+  "owner": "patarapolw",
+  "private": false,
+  "html_url": "https://github.com/patarapolw/HanziLevelUp",
+  "description": "A Hanzi learning suite, with levels based on Hanzi Level Project, aka. another attempt to clone WaniKani.com for Chinese.",
+  "fork": false,
+  "url": "https://api.github.com/repos/patarapolw/HanziLevelUp",
+  "languages_url": "https://api.github.com/repos/patarapolw/HanziLevelUp/languages",
+  "pulls_url": "https://api.github.com/repos/patarapolw/HanziLevelUp/pulls{/number}",
+  "created_at": "2018-05-16T09:05:18Z",
+  "updated_at": "2018-08-29T04:17:21Z",
+  "pushed_at": "2018-08-29T04:17:19Z",
+  "homepage": "",
+  "size": 16144,
+  "stargazers_count": 7,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "patarapolw": 86
+  },
+  "pulls_authors": [
+    "patarapolw"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 51440,
+      "color": "#3572A5"
+    },
+    "JavaScript": {
+      "bytes": 40017,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 17527,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 5500,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-29T12:50:39.459Z"
+}

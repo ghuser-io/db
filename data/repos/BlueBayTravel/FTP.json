@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "FTP",
+  "full_name": "BlueBayTravel/FTP",
+  "owner": "BlueBayTravel",
+  "private": false,
+  "html_url": "https://github.com/BlueBayTravel/FTP",
+  "description": "Laravel FTP.",
+  "fork": false,
+  "url": "https://api.github.com/repos/BlueBayTravel/FTP",
+  "languages_url": "https://api.github.com/repos/BlueBayTravel/FTP/languages",
+  "pulls_url": "https://api.github.com/repos/BlueBayTravel/FTP/pulls{/number}",
+  "created_at": "2014-10-13T13:34:48Z",
+  "updated_at": "2018-04-04T16:34:59Z",
+  "pushed_at": "2018-01-02T08:56:16Z",
+  "homepage": "http://bluebaytravel.co.uk",
+  "size": 297,
+  "stargazers_count": 3,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "BlueBayTravel",
+    "id": 3775282,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM3NzUyODI=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/3775282?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/BlueBayTravel",
+    "html_url": "https://github.com/BlueBayTravel",
+    "followers_url": "https://api.github.com/users/BlueBayTravel/followers",
+    "following_url": "https://api.github.com/users/BlueBayTravel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/BlueBayTravel/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/BlueBayTravel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/BlueBayTravel/subscriptions",
+    "organizations_url": "https://api.github.com/users/BlueBayTravel/orgs",
+    "repos_url": "https://api.github.com/users/BlueBayTravel/repos",
+    "events_url": "https://api.github.com/users/BlueBayTravel/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/BlueBayTravel/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "alexroden": 1,
+    "jbrooksuk": 27
+  },
+  "pulls_authors": [
+    "jbrooksuk"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 14134,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:48.558Z"
+}

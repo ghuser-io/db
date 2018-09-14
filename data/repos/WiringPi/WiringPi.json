@@ -1,0 +1,120 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "WiringPi",
+  "full_name": "WiringPi/WiringPi",
+  "owner": "WiringPi",
+  "private": false,
+  "html_url": "https://github.com/WiringPi/WiringPi",
+  "description": "Gordon's Arduino wiring-like WiringPi Library for the Raspberry Pi (Unofficial Mirror for WiringPi bindings)",
+  "fork": false,
+  "url": "https://api.github.com/repos/WiringPi/WiringPi",
+  "languages_url": "https://api.github.com/repos/WiringPi/WiringPi/languages",
+  "pulls_url": "https://api.github.com/repos/WiringPi/WiringPi/pulls{/number}",
+  "created_at": "2012-06-29T08:40:10Z",
+  "updated_at": "2018-09-13T13:39:23Z",
+  "pushed_at": "2018-08-23T10:33:22Z",
+  "homepage": "",
+  "size": 692,
+  "stargazers_count": 875,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx_id": "LGPL-3.0",
+    "url": "https://api.github.com/licenses/lgpl-3.0",
+    "node_id": "MDc6TGljZW5zZTEy"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "WiringPi",
+    "id": 1950827,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5NTA4Mjc=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/1950827?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/WiringPi",
+    "html_url": "https://github.com/WiringPi",
+    "followers_url": "https://api.github.com/users/WiringPi/followers",
+    "following_url": "https://api.github.com/users/WiringPi/following{/other_user}",
+    "gists_url": "https://api.github.com/users/WiringPi/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/WiringPi/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/WiringPi/subscriptions",
+    "organizations_url": "https://api.github.com/users/WiringPi/orgs",
+    "repos_url": "https://api.github.com/users/WiringPi/repos",
+    "events_url": "https://api.github.com/users/WiringPi/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/WiringPi/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "IsaoNakamura": 1,
+    "lolsborn": 1,
+    "tomwardill": 1,
+    "Gadgetoid": 9,
+    "gordonDrogon": 64
+  },
+  "pulls_authors": [
+    "JontyC",
+    "TranPhucVinh",
+    "devbharat",
+    "Minipada",
+    "blecher-at",
+    "cail",
+    "electronicayciencia",
+    "zxmarcos",
+    "battesonb",
+    "rdagher",
+    "rzr",
+    "sndnvaps",
+    "ermaker",
+    "sashpro",
+    "thiti-y",
+    "DSchana",
+    "IsaoNakamura",
+    "chrillomat",
+    "mathvav",
+    "SamuelDeal",
+    "mbbee",
+    "Firobe",
+    "ghost",
+    "SnakeDoc",
+    "kamaaina",
+    "killyox",
+    "chaosblog",
+    "computerlyrik",
+    "CromFr",
+    "shamiao",
+    "nneves",
+    "lolsborn",
+    "tijntje",
+    "tomwardill"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 489396,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 15650,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 12563,
+      "color": "#89e051"
+    },
+    "Roff": {
+      "bytes": 9414,
+      "color": "#ecdebe"
+    },
+    "TeX": {
+      "bytes": 4317,
+      "color": "#3D6117"
+    },
+    "C++": {
+      "bytes": 1326,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-09-13T16:31:58.980Z"
+}

@@ -1,0 +1,101 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "CodeNinjaUK/youtube-subs-grid": {
+      "full_name": "CodeNinjaUK/youtube-subs-grid",
+      "name": "youtube-subs-grid",
+      "stargazers_count": 50,
+      "popularity": 2.6911205011695256,
+      "percentage": 100,
+      "maturity": 2.877373948214582,
+      "total_commits_count": 115,
+      "activity": 0.6787514519097444,
+      "total_score": 49.49142736705132,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "fideloper/Vaprobash": {
+      "full_name": "fideloper/Vaprobash",
+      "name": "Vaprobash",
+      "stargazers_count": 1911,
+      "popularity": 4.281095191190451,
+      "percentage": 0,
+      "maturity": 3.6664719121332205,
+      "total_commits_count": 502,
+      "activity": 1.3336515457068403,
+      "total_score": 21.509880943544633,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "laravel/framework": {
+      "full_name": "laravel/framework",
+      "name": "framework",
+      "stargazers_count": 13837,
+      "popularity": 5,
+      "percentage": 0.020405040044891087,
+      "maturity": 5,
+      "total_commits_count": 19603,
+      "activity": 5,
+      "total_score": 30.01326327602918,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sparksp/laravel-ircbot": {
+      "full_name": "sparksp/laravel-ircbot",
+      "name": "laravel-ircbot",
+      "stargazers_count": 41,
+      "popularity": 2.6031833637998933,
+      "percentage": 4.054054054054054,
+      "maturity": 2.5344856158942024,
+      "total_commits_count": 74,
+      "activity": 0.48196552193267106,
+      "total_score": 14.732434834150428,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "makeusabrew/bootbox": {
+      "full_name": "makeusabrew/bootbox",
+      "name": "bootbox",
+      "stargazers_count": 4463,
+      "popularity": 4.6495783867958345,
+      "percentage": 0.21739130434782608,
+      "maturity": 3.6250885876618906,
+      "total_commits_count": 460,
+      "activity": 5,
+      "total_score": 26.33031346403378,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "yeoman/yeoman": {
+      "full_name": "yeoman/yeoman",
+      "name": "yeoman",
+      "stargazers_count": 9050,
+      "popularity": 4.95664447577236,
+      "percentage": 0.1148105625717566,
+      "maturity": 3.9213893924190213,
+      "total_commits_count": 871,
+      "activity": 1.092939650917773,
+      "total_score": 23.879631631368007,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "chriskacerguis/codeigniter-restserver": {
+      "full_name": "chriskacerguis/codeigniter-restserver",
+      "name": "codeigniter-restserver",
+      "stargazers_count": 4049,
+      "popularity": 4.607290320005563,
+      "percentage": 0.1597444089456869,
+      "maturity": 3.7697077443331537,
+      "total_commits_count": 626,
+      "activity": 5,
+      "total_score": 26.45696500165436,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "CodeNinjaUK",
+    "laravel",
+    "yeoman"
+  ]
+}

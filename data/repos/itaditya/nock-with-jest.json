@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "nock-with-jest",
+  "full_name": "itaditya/nock-with-jest",
+  "owner": "itaditya",
+  "private": false,
+  "html_url": "https://github.com/itaditya/nock-with-jest",
+  "description": "A simple demo to showoff Nock usage with Jest",
+  "fork": false,
+  "url": "https://api.github.com/repos/itaditya/nock-with-jest",
+  "languages_url": "https://api.github.com/repos/itaditya/nock-with-jest/languages",
+  "created_at": "2018-05-27T16:21:06Z",
+  "updated_at": "2018-05-28T14:52:47Z",
+  "pushed_at": "2018-05-27T16:25:52Z",
+  "homepage": null,
+  "size": 38,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "itaditya": 2
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 1237,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/itaditya/nock-with-jest/pulls{/number}",
+  "pulls_authors": []
+}

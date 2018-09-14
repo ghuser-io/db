@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Knowledgebase",
+  "full_name": "radekstepan/Knowledgebase",
+  "owner": "radekstepan",
+  "private": false,
+  "html_url": "https://github.com/radekstepan/Knowledgebase",
+  "description": "Because Interspire Knowledge Manager costs at least $495 per year",
+  "fork": false,
+  "url": "https://api.github.com/repos/radekstepan/Knowledgebase",
+  "languages_url": "https://api.github.com/repos/radekstepan/Knowledgebase/languages",
+  "pulls_url": "https://api.github.com/repos/radekstepan/Knowledgebase/pulls{/number}",
+  "created_at": "2011-03-17T19:53:09Z",
+  "updated_at": "2014-11-17T15:20:38Z",
+  "pushed_at": "2012-08-29T11:27:11Z",
+  "homepage": "",
+  "size": 376,
+  "stargazers_count": 5,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "radekstepan": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "PHP": {
+      "bytes": 219365,
+      "color": "#4F5D95"
+    },
+    "JavaScript": {
+      "bytes": 3130,
+      "color": "#f1e05a"
+    },
+    "Perl": {
+      "bytes": 573,
+      "color": "#0298c3"
+    }
+  },
+  "fetched_at": "2018-09-11T13:51:03.114Z"
+}

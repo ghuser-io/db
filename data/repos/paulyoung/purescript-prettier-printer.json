@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "purescript-prettier-printer",
+  "full_name": "paulyoung/purescript-prettier-printer",
+  "owner": "paulyoung",
+  "private": false,
+  "html_url": "https://github.com/paulyoung/purescript-prettier-printer",
+  "description": "An implementation of A prettier printer (Wadler 2003) in PureScript.",
+  "fork": false,
+  "url": "https://api.github.com/repos/paulyoung/purescript-prettier-printer",
+  "languages_url": "https://api.github.com/repos/paulyoung/purescript-prettier-printer/languages",
+  "pulls_url": "https://api.github.com/repos/paulyoung/purescript-prettier-printer/pulls{/number}",
+  "created_at": "2017-12-09T00:12:56Z",
+  "updated_at": "2018-06-20T20:44:38Z",
+  "pushed_at": "2018-06-20T18:44:52Z",
+  "homepage": "",
+  "size": 23,
+  "stargazers_count": 20,
+  "language": "PureScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "natefaubion": 1,
+    "paulyoung": 12
+  },
+  "pulls_authors": [
+    "paulyoung",
+    "natefaubion",
+    "eric-corumdigital"
+  ],
+  "languages": {
+    "PureScript": {
+      "bytes": 5221,
+      "color": "#1D222D"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:51.212Z"
+}

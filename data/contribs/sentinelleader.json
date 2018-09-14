@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "bazelbuild/rules_scala": {
+      "full_name": "bazelbuild/rules_scala",
+      "name": "rules_scala",
+      "stargazers_count": 146,
+      "popularity": 3.1617064741531076,
+      "percentage": 0.5361930294906166,
+      "maturity": 3.524310431080785,
+      "total_commits_count": 373,
+      "activity": 5,
+      "total_score": 21.754127331076607,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "markwalkom/kibana-dashboards": {
+      "full_name": "markwalkom/kibana-dashboards",
+      "name": "kibana-dashboards",
+      "stargazers_count": 188,
+      "popularity": 3.272112855262372,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 12,
+      "activity": 0.6160713292168394,
+      "total_score": 10.432409895003957,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sentinelleader/plivo-ruby-examples": {
+      "full_name": "sentinelleader/plivo-ruby-examples",
+      "name": "plivo-ruby-examples",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 0.33572252759738674,
+      "total_score": 0.33572252759738674,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sensu/sensu-community-plugins": {
+      "full_name": "sensu/sensu-community-plugins",
+      "name": "sensu-community-plugins",
+      "stargazers_count": 497,
+      "popularity": 3.6956083078106254,
+      "percentage": 0,
+      "maturity": 4.38771767509748,
+      "total_commits_count": 2472,
+      "activity": 0.59498308077875,
+      "total_score": 20.457243354405588,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "bazelbuild",
+    "sensu"
+  ]
+}

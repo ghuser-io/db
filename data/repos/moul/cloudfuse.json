@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cloudfuse",
+  "full_name": "moul/cloudfuse",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/cloudfuse",
+  "description": "Filesystem (fuse) implemented on Mosso's Cloud Files",
+  "fork": true,
+  "url": "https://api.github.com/repos/moul/cloudfuse",
+  "languages_url": "https://api.github.com/repos/moul/cloudfuse/languages",
+  "pulls_url": "https://api.github.com/repos/moul/cloudfuse/pulls{/number}",
+  "created_at": "2012-03-27T22:47:01Z",
+  "updated_at": "2013-01-08T10:40:47Z",
+  "pushed_at": "2012-03-27T23:07:20Z",
+  "homepage": "http://redbo.github.com/cloudfuse/",
+  "size": 906,
+  "stargazers_count": 1,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 1,
+    "abs0": 1,
+    "ncw": 1,
+    "dillona": 1,
+    "cwedgwood": 1,
+    "dysinger": 1,
+    "novas0x2a": 4,
+    "redbo": 72
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Shell": {
+      "bytes": 192962,
+      "color": "#89e051"
+    },
+    "C": {
+      "bytes": 27141,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:55.089Z"
+}

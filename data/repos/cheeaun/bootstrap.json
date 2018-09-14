@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bootstrap",
+  "full_name": "cheeaun/bootstrap",
+  "owner": "cheeaun",
+  "private": false,
+  "html_url": "https://github.com/cheeaun/bootstrap",
+  "description": "CSS toolkit from Twitter",
+  "fork": true,
+  "url": "https://api.github.com/repos/cheeaun/bootstrap",
+  "languages_url": "https://api.github.com/repos/cheeaun/bootstrap/languages",
+  "pulls_url": "https://api.github.com/repos/cheeaun/bootstrap/pulls{/number}",
+  "created_at": "2011-09-18T00:32:04Z",
+  "updated_at": "2015-04-13T05:16:57Z",
+  "pushed_at": "2011-09-18T00:35:34Z",
+  "homepage": "http://twitter.github.com/bootstrap",
+  "size": 1126,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "nickveys": 1,
+    "soffes": 1,
+    "yury": 1,
+    "weslly": 1,
+    "karthikv": 1,
+    "igorbozato": 1,
+    "Tigraine": 1,
+    "dliuzzi": 1,
+    "rafbm": 1,
+    "matthewpennell": 2,
+    "DHS": 3,
+    "caniszczyk": 4,
+    "pthrasher": 4,
+    "sankage": 4,
+    "fat": 199,
+    "mdo": 200
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 81392,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T19:00:11.868Z"
+}

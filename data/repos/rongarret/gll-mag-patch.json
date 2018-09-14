@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "gll-mag-patch",
+  "full_name": "rongarret/gll-mag-patch",
+  "owner": "rongarret",
+  "private": false,
+  "html_url": "https://github.com/rongarret/gll-mag-patch",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/rongarret/gll-mag-patch",
+  "languages_url": "https://api.github.com/repos/rongarret/gll-mag-patch/languages",
+  "pulls_url": "https://api.github.com/repos/rongarret/gll-mag-patch/pulls{/number}",
+  "created_at": "2017-11-12T02:06:29Z",
+  "updated_at": "2017-12-05T04:12:47Z",
+  "pushed_at": "2017-11-12T16:31:02Z",
+  "homepage": null,
+  "size": 81,
+  "stargazers_count": 24,
+  "language": "Forth",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {},
+  "pulls_authors": [
+    "anishkny"
+  ],
+  "languages": {
+    "Forth": {
+      "bytes": 249181,
+      "color": "#341708"
+    },
+    "Common Lisp": {
+      "bytes": 16247,
+      "color": "#3fb68b"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:40.146Z"
+}

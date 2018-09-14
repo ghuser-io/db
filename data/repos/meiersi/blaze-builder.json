@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "blaze-builder",
+  "full_name": "meiersi/blaze-builder",
+  "owner": "meiersi",
+  "private": false,
+  "html_url": "https://github.com/meiersi/blaze-builder",
+  "description": "Efficient serialization of Haskell values to lazy bytestrings with a large average chunk size.",
+  "fork": false,
+  "url": "https://api.github.com/repos/meiersi/blaze-builder",
+  "languages_url": "https://api.github.com/repos/meiersi/blaze-builder/languages",
+  "pulls_url": "https://api.github.com/repos/meiersi/blaze-builder/pulls{/number}",
+  "created_at": "2010-09-18T23:00:57Z",
+  "updated_at": "2018-03-14T20:53:54Z",
+  "pushed_at": "2015-01-30T19:43:26Z",
+  "homepage": "http://jaspervdj.be/blaze",
+  "size": 1896,
+  "stargazers_count": 20,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "mightybyte": 1,
+    "RyanGlScott": 1,
+    "kini": 1,
+    "snoyberg": 1,
+    "ggreif": 1,
+    "gregwebs": 1,
+    "nomeata": 1,
+    "juhp": 2,
+    "jaspervdj": 23,
+    "meiersi": 207
+  },
+  "pulls_authors": [
+    "lpsmith",
+    "mightybyte",
+    "RyanGlScott",
+    "kini",
+    "snoyberg",
+    "takano-akio",
+    "juhp",
+    "ggreif",
+    "gregwebs",
+    "nomeata",
+    "jaspervdj"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 358563,
+      "color": "#5e5086"
+    },
+    "C": {
+      "bytes": 945,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-07T11:26:21.211Z"
+}

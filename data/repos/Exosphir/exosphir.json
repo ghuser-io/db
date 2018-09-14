@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "exosphir",
+  "full_name": "Exosphir/exosphir",
+  "owner": "Exosphir",
+  "private": false,
+  "html_url": "https://github.com/Exosphir/exosphir",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/Exosphir/exosphir",
+  "languages_url": "https://api.github.com/repos/Exosphir/exosphir/languages",
+  "pulls_url": "https://api.github.com/repos/Exosphir/exosphir/pulls{/number}",
+  "created_at": "2016-01-08T04:00:00Z",
+  "updated_at": "2017-03-01T18:49:17Z",
+  "pushed_at": "2016-01-30T04:29:15Z",
+  "homepage": null,
+  "size": 8117,
+  "stargazers_count": 1,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "Exosphir",
+    "id": 16603856,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2NjAzODU2",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/16603856?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Exosphir",
+    "html_url": "https://github.com/Exosphir",
+    "followers_url": "https://api.github.com/users/Exosphir/followers",
+    "following_url": "https://api.github.com/users/Exosphir/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Exosphir/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Exosphir/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Exosphir/subscriptions",
+    "organizations_url": "https://api.github.com/users/Exosphir/orgs",
+    "repos_url": "https://api.github.com/users/Exosphir/repos",
+    "events_url": "https://api.github.com/users/Exosphir/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Exosphir/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "The-Retro-Bandit": 6,
+    "zardini123": 21,
+    "kroltan": 23
+  },
+  "pulls_authors": [
+    "The-Retro-Bandit",
+    "zardini123"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 465043,
+      "color": "#178600"
+    },
+    "GLSL": {
+      "bytes": 303674,
+      "color": "#ccc"
+    },
+    "HTML": {
+      "bytes": 169310,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 1807,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:28.262Z"
+}

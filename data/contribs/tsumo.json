@@ -1,0 +1,19 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "tsumo/checkers-godot": {
+      "full_name": "tsumo/checkers-godot",
+      "name": "checkers-godot",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 2.4346992151481284,
+      "total_commits_count": 67,
+      "activity": 1.1188609238863405,
+      "total_score": 22.65111088126964,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "prettyCheckable",
+  "full_name": "captbaritone/prettyCheckable",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/prettyCheckable",
+  "description": "A jQuery plugin to replace checkboxes and radios for custom images",
+  "fork": true,
+  "url": "https://api.github.com/repos/captbaritone/prettyCheckable",
+  "languages_url": "https://api.github.com/repos/captbaritone/prettyCheckable/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/prettyCheckable/pulls{/number}",
+  "created_at": "2013-07-05T00:47:06Z",
+  "updated_at": "2018-07-29T22:11:53Z",
+  "pushed_at": "2013-07-05T00:47:42Z",
+  "homepage": "http://arthurgouveia.com/prettyCheckable/",
+  "size": 1238,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Jorgelig": 1,
+    "fahrulazmi": 1,
+    "elliots": 1,
+    "tarciozemel": 2,
+    "arthurgouveia": 16
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 3808,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:52.936Z"
+}

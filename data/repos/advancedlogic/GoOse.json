@@ -1,0 +1,92 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "GoOse",
+  "full_name": "advancedlogic/GoOse",
+  "owner": "advancedlogic",
+  "private": false,
+  "html_url": "https://github.com/advancedlogic/GoOse",
+  "description": "Html Content / Article Extractor in Golang",
+  "fork": false,
+  "url": "https://api.github.com/repos/advancedlogic/GoOse",
+  "languages_url": "https://api.github.com/repos/advancedlogic/GoOse/languages",
+  "pulls_url": "https://api.github.com/repos/advancedlogic/GoOse/pulls{/number}",
+  "created_at": "2014-01-10T15:45:25Z",
+  "updated_at": "2018-09-13T07:50:03Z",
+  "pushed_at": "2018-08-25T11:09:22Z",
+  "homepage": null,
+  "size": 1951,
+  "stargazers_count": 288,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "rguimaraens": 1,
+    "theSoenke": 1,
+    "syou6162": 1,
+    "LeMoussel": 1,
+    "ejamesc": 1,
+    "dhowden": 1,
+    "urandom": 1,
+    "RubenN": 1,
+    "jaytaylor": 2,
+    "dotpot": 2,
+    "marcosinger": 2,
+    "sisteamnik": 2,
+    "rahal": 3,
+    "nicolaasuni": 3,
+    "bkaradzic": 4,
+    "truongsinh": 8,
+    "Akibalogh": 11,
+    "quipo": 49,
+    "advancedlogic": 96
+  },
+  "pulls_authors": [
+    "rguimaraens",
+    "rahal",
+    "jaytaylor",
+    "theSoenke",
+    "syou6162",
+    "LeMoussel",
+    "nicolaasuni",
+    "Profpatsch",
+    "nmi",
+    "ejamesc",
+    "truongsinh",
+    "dhowden",
+    "dotpot",
+    "Akibalogh",
+    "urandom",
+    "bkaradzic",
+    "marcosinger",
+    "sisteamnik",
+    "stut",
+    "RubenN"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 7250246,
+      "color": "#e34c26"
+    },
+    "Go": {
+      "bytes": 307397,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 6718,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 649,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T16:41:41.795Z"
+}

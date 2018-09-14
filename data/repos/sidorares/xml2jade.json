@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "xml2jade",
+  "full_name": "sidorares/xml2jade",
+  "owner": "sidorares",
+  "private": false,
+  "html_url": "https://github.com/sidorares/xml2jade",
+  "description": "xml -> jade convertor",
+  "fork": false,
+  "url": "https://api.github.com/repos/sidorares/xml2jade",
+  "languages_url": "https://api.github.com/repos/sidorares/xml2jade/languages",
+  "pulls_url": "https://api.github.com/repos/sidorares/xml2jade/pulls{/number}",
+  "created_at": "2013-03-19T00:20:04Z",
+  "updated_at": "2017-02-06T21:35:56Z",
+  "pushed_at": "2017-05-01T05:53:57Z",
+  "homepage": null,
+  "size": 4,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "insin": 1,
+    "Hackzzila": 2,
+    "sidorares": 4
+  },
+  "pulls_authors": [
+    "Hackzzila",
+    "insin"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1065,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T15:19:29.265Z"
+}

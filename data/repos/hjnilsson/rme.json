@@ -1,0 +1,99 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rme",
+  "full_name": "hjnilsson/rme",
+  "owner": "hjnilsson",
+  "private": false,
+  "html_url": "https://github.com/hjnilsson/rme",
+  "description": "Remere's Map Editor",
+  "fork": false,
+  "url": "https://api.github.com/repos/hjnilsson/rme",
+  "languages_url": "https://api.github.com/repos/hjnilsson/rme/languages",
+  "pulls_url": "https://api.github.com/repos/hjnilsson/rme/pulls{/number}",
+  "created_at": "2014-01-18T19:55:39Z",
+  "updated_at": "2018-09-04T19:16:26Z",
+  "pushed_at": "2018-09-04T19:16:24Z",
+  "homepage": null,
+  "size": 10990,
+  "stargazers_count": 129,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "divinity76": 1,
+    "CristoferMartins": 1,
+    "Nu77": 1,
+    "peonso": 1,
+    "mathiasbynens": 1,
+    "reyaleman": 1,
+    "glombers": 2,
+    "nekiro": 2,
+    "slowaways": 3,
+    "hrsantiago": 3,
+    "gpedro": 5,
+    "zygzagZ": 5,
+    "edubart": 5,
+    "comedinha": 7,
+    "dominique120": 8,
+    "BenDol": 8,
+    "marksamman": 12,
+    "dalkon": 19,
+    "Elime1": 34,
+    "hjnilsson": 84,
+    "Mignari": 143
+  },
+  "pulls_authors": [
+    "Mignari",
+    "Costallat",
+    "glombers",
+    "marcomoa",
+    "Elime1",
+    "nekiro",
+    "zygzagZ",
+    "slowaways",
+    "HeavenIsLost",
+    "divinity76",
+    "comedinha",
+    "BenDol",
+    "gpedro",
+    "dominique120",
+    "mathiasbynens",
+    "reyaleman",
+    "kamil-karkus",
+    "hrsantiago",
+    "edubart",
+    "mattyx14",
+    "marksamman"
+  ],
+  "languages": {
+    "C++": {
+      "bytes": 2253282,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 16790,
+      "color": "#555555"
+    },
+    "CMake": {
+      "bytes": 9028,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 2091,
+      "color": "#89e051"
+    },
+    "Python": {
+      "bytes": 1617,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T15:15:48.895Z"
+}

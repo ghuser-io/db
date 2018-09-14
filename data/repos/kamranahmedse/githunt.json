@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "githunt",
+  "full_name": "kamranahmedse/githunt",
+  "owner": "kamranahmedse",
+  "private": false,
+  "html_url": "https://github.com/kamranahmedse/githunt",
+  "description": "Hunt the most starred projects on any date on GitHub",
+  "fork": false,
+  "url": "https://api.github.com/repos/kamranahmedse/githunt",
+  "languages_url": "https://api.github.com/repos/kamranahmedse/githunt/languages",
+  "pulls_url": "https://api.github.com/repos/kamranahmedse/githunt/pulls{/number}",
+  "created_at": "2016-03-25T21:30:38Z",
+  "updated_at": "2018-09-14T05:34:24Z",
+  "pushed_at": "2018-09-12T18:17:32Z",
+  "homepage": "https://kamranahmed.info/githunt",
+  "size": 5832,
+  "stargazers_count": 921,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "alamgirqazi": 1,
+    "u1i": 1,
+    "joenash": 1,
+    "suadev": 1,
+    "fatosmorina": 1,
+    "brunocvcunha": 1,
+    "umanghome": 1,
+    "jussch": 1,
+    "createdincode": 2,
+    "tarungarg546": 2,
+    "kamranahmedse": 140
+  },
+  "pulls_authors": [
+    "alamgirqazi",
+    "u1i",
+    "lukemorbin",
+    "korabh",
+    "createdincode",
+    "joenash",
+    "fatosmorina",
+    "tengdashhui",
+    "suadev",
+    "brunocvcunha",
+    "rahilwazir",
+    "RomainDeSaJardim",
+    "tarungarg546",
+    "khanduri",
+    "umanghome",
+    "jussch",
+    "rzkhosroshahi"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 52800,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 9546,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 506,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-14T08:32:10.949Z"
+}

@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "angular-pell",
+  "full_name": "sabakugaara/angular-pell",
+  "owner": "sabakugaara",
+  "private": false,
+  "html_url": "https://github.com/sabakugaara/angular-pell",
+  "description": "Angular5 component for pell WYSIWYG HTML Rich Text Editor. https://github.com/jaredreich/pell",
+  "fork": false,
+  "url": "https://api.github.com/repos/sabakugaara/angular-pell",
+  "languages_url": "https://api.github.com/repos/sabakugaara/angular-pell/languages",
+  "pulls_url": "https://api.github.com/repos/sabakugaara/angular-pell/pulls{/number}",
+  "created_at": "2018-02-20T11:23:43Z",
+  "updated_at": "2018-07-25T14:42:56Z",
+  "pushed_at": "2018-07-25T14:44:16Z",
+  "homepage": "",
+  "size": 92,
+  "stargazers_count": 2,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "sabakugaara": 7
+  },
+  "pulls_authors": [
+    "aloisdg",
+    "sabakugaara"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 10789,
+      "color": "#2b7489"
+    },
+    "JavaScript": {
+      "bytes": 1645,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 644,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 639,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:06.136Z"
+}

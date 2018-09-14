@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mina-delayed_job",
+  "full_name": "d4be4st/mina-delayed_job",
+  "owner": "d4be4st",
+  "private": false,
+  "html_url": "https://github.com/d4be4st/mina-delayed_job",
+  "description": "Mina delayed job plugin",
+  "fork": false,
+  "url": "https://api.github.com/repos/d4be4st/mina-delayed_job",
+  "languages_url": "https://api.github.com/repos/d4be4st/mina-delayed_job/languages",
+  "pulls_url": "https://api.github.com/repos/d4be4st/mina-delayed_job/pulls{/number}",
+  "created_at": "2015-03-10T07:38:06Z",
+  "updated_at": "2017-03-17T07:43:06Z",
+  "pushed_at": "2017-01-31T08:10:12Z",
+  "homepage": null,
+  "size": 11,
+  "stargazers_count": 6,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "requnix": 1,
+    "duykhoa": 1,
+    "d4be4st": 11
+  },
+  "pulls_authors": [
+    "lightalloy",
+    "requnix",
+    "fkuster",
+    "duykhoa"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 2895,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-08-17T16:21:32.225Z"
+}

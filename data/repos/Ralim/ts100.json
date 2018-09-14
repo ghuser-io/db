@@ -1,0 +1,150 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ts100",
+  "full_name": "Ralim/ts100",
+  "owner": "Ralim",
+  "private": false,
+  "html_url": "https://github.com/Ralim/ts100",
+  "description": "The Feature Packed Alternate Open Source firmware for the TS100 iron by miniware.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Ralim/ts100",
+  "languages_url": "https://api.github.com/repos/Ralim/ts100/languages",
+  "pulls_url": "https://api.github.com/repos/Ralim/ts100/pulls{/number}",
+  "created_at": "2016-09-13T06:52:39Z",
+  "updated_at": "2018-09-13T21:38:27Z",
+  "pushed_at": "2018-09-13T00:08:48Z",
+  "homepage": "",
+  "size": 38808,
+  "stargazers_count": 902,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "yschaeff": 1,
+    "piksel": 1,
+    "L0laapk3": 1,
+    "dogtopus": 1,
+    "walmis": 1,
+    "lrusnac": 1,
+    "gkrystev": 1,
+    "The-M1k3y": 1,
+    "shawnanastasio": 1,
+    "jose1711": 1,
+    "Cabalist": 1,
+    "jacopo-j": 1,
+    "eucalyptux": 1,
+    "uncle-fed": 1,
+    "pejer": 1,
+    "thanks4opensource": 1,
+    "mkninc": 1,
+    "Adrianotiger": 1,
+    "dhiltonp": 2,
+    "ifeghali": 2,
+    "jvitkauskas": 2,
+    "freetushkan": 2,
+    "fishingpro": 2,
+    "maelremrem": 2,
+    "awigen": 2,
+    "Aglezabad": 3,
+    "Rockman18": 3,
+    "agatti": 4,
+    "federck": 6,
+    "matmemo": 6,
+    "jonnieZG": 8,
+    "Mrkvozrout": 13,
+    "Ralim": 180
+  },
+  "pulls_authors": [
+    "dhiltonp",
+    "jvitkauskas",
+    "ifeghali",
+    "Cabalist",
+    "piksel",
+    "agatti",
+    "yschaeff",
+    "dogtopus",
+    "L0laapk3",
+    "walmis",
+    "kilrah",
+    "Mrkvozrout",
+    "freetushkan",
+    "LarsSimonsen",
+    "lrusnac",
+    "fishingpro",
+    "federck",
+    "Aglezabad",
+    "jonnieZG",
+    "gkrystev",
+    "The-M1k3y",
+    "Ralim",
+    "shawnanastasio",
+    "baris123456",
+    "Rockman18",
+    "matmemo",
+    "lfhohmann",
+    "jose1711",
+    "vladkorotnev",
+    "jacopo-j",
+    "eucalyptux",
+    "maelremrem",
+    "uncle-fed",
+    "pejer",
+    "thanks4opensource",
+    "awigen",
+    "Vidalcris",
+    "mkninc",
+    "Adrianotiger",
+    "MWisBest"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 17107343,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 529416,
+      "color": "#f34b7d"
+    },
+    "HTML": {
+      "bytes": 25919,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 14491,
+      "color": "#3572A5"
+    },
+    "C#": {
+      "bytes": 12076,
+      "color": "#178600"
+    },
+    "Assembly": {
+      "bytes": 9179,
+      "color": "#6E4C13"
+    },
+    "Makefile": {
+      "bytes": 5402,
+      "color": "#427819"
+    },
+    "JavaScript": {
+      "bytes": 4935,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 3852,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 1343,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-13T23:39:53.279Z"
+}

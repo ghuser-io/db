@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "DotNetOpenAuth.WebAPI",
+  "full_name": "DavidChristiansen/DotNetOpenAuth.WebAPI",
+  "owner": "DavidChristiansen",
+  "private": false,
+  "html_url": "https://github.com/DavidChristiansen/DotNetOpenAuth.WebAPI",
+  "description": "DotNetOpenAuth for ASP.NET WebAPI (OpenID/OAuth/OAuth2)",
+  "fork": false,
+  "url": "https://api.github.com/repos/DavidChristiansen/DotNetOpenAuth.WebAPI",
+  "languages_url": "https://api.github.com/repos/DavidChristiansen/DotNetOpenAuth.WebAPI/languages",
+  "pulls_url": "https://api.github.com/repos/DavidChristiansen/DotNetOpenAuth.WebAPI/pulls{/number}",
+  "created_at": "2012-07-14T00:47:39Z",
+  "updated_at": "2018-09-01T21:39:09Z",
+  "pushed_at": "2017-04-19T12:40:58Z",
+  "homepage": null,
+  "size": 1498,
+  "stargazers_count": 77,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "bryant1410": 1,
+    "GaryMcAllister": 1,
+    "DavidChristiansen": 17
+  },
+  "pulls_authors": [
+    "bryant1410",
+    "aloisdg",
+    "DavidChristiansen",
+    "GaryMcAllister"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 214093,
+      "color": "#178600"
+    },
+    "JavaScript": {
+      "bytes": 42878,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 2911,
+      "color": "#563d7c"
+    },
+    "ASP": {
+      "bytes": 254,
+      "color": "#6a40fd"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:20.610Z"
+}

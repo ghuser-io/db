@@ -1,0 +1,32 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "oonasal/SuperTeamChatApp": {
+      "full_name": "oonasal/SuperTeamChatApp",
+      "name": "SuperTeamChatApp",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 8.333333333333334,
+      "maturity": 0,
+      "total_commits_count": 12,
+      "activity": 0.6391044580530254,
+      "total_score": 0.6391044580530254,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "TerabyteX/WeedCSharpClient": {
+      "full_name": "TerabyteX/WeedCSharpClient",
+      "name": "WeedCSharpClient",
+      "stargazers_count": 5,
+      "popularity": 1.6128219920330789,
+      "percentage": 0,
+      "maturity": 0,
+      "total_commits_count": 10,
+      "activity": 0.5617785432677014,
+      "total_score": 5.400244519366938,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "default_rails_template",
+  "full_name": "infinum/default_rails_template",
+  "owner": "infinum",
+  "private": false,
+  "html_url": "https://github.com/infinum/default_rails_template",
+  "description": "Default template for generating new Rails applications.",
+  "fork": false,
+  "url": "https://api.github.com/repos/infinum/default_rails_template",
+  "languages_url": "https://api.github.com/repos/infinum/default_rails_template/languages",
+  "pulls_url": "https://api.github.com/repos/infinum/default_rails_template/pulls{/number}",
+  "created_at": "2016-11-08T11:04:41Z",
+  "updated_at": "2018-05-08T12:16:15Z",
+  "pushed_at": "2018-05-08T12:16:13Z",
+  "homepage": "",
+  "size": 48,
+  "stargazers_count": 8,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "infinum",
+    "id": 97652,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjk3NjUy",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/97652?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/infinum",
+    "html_url": "https://github.com/infinum",
+    "followers_url": "https://api.github.com/users/infinum/followers",
+    "following_url": "https://api.github.com/users/infinum/following{/other_user}",
+    "gists_url": "https://api.github.com/users/infinum/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/infinum/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/infinum/subscriptions",
+    "organizations_url": "https://api.github.com/users/infinum/orgs",
+    "repos_url": "https://api.github.com/users/infinum/repos",
+    "events_url": "https://api.github.com/users/infinum/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/infinum/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "melcha": 1,
+    "PetarCurkovic": 1,
+    "DamirSvrtan": 28,
+    "d4be4st": 35
+  },
+  "pulls_authors": [
+    "d4be4st",
+    "melcha",
+    "DamirSvrtan",
+    "PetarCurkovic",
+    "vr4b4c"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 8585,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-08-17T16:21:29.673Z"
+}

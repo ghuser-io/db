@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "split_date_time",
+  "full_name": "ccallebs/split_date_time",
+  "owner": "ccallebs",
+  "private": false,
+  "html_url": "https://github.com/ccallebs/split_date_time",
+  "description": "Splits a DateTime field into separate 'Date' and 'Time' fields.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ccallebs/split_date_time",
+  "languages_url": "https://api.github.com/repos/ccallebs/split_date_time/languages",
+  "pulls_url": "https://api.github.com/repos/ccallebs/split_date_time/pulls{/number}",
+  "created_at": "2013-04-06T01:29:30Z",
+  "updated_at": "2014-08-19T01:05:24Z",
+  "pushed_at": "2014-08-19T01:15:05Z",
+  "homepage": "",
+  "size": 224,
+  "stargazers_count": 2,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ccallebs": 17
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 8516,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:05.529Z"
+}

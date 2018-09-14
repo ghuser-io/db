@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SwiftPi",
+  "full_name": "sbaidon/SwiftPi",
+  "owner": "sbaidon",
+  "private": false,
+  "html_url": "https://github.com/sbaidon/SwiftPi",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/sbaidon/SwiftPi",
+  "languages_url": "https://api.github.com/repos/sbaidon/SwiftPi/languages",
+  "pulls_url": "https://api.github.com/repos/sbaidon/SwiftPi/pulls{/number}",
+  "created_at": "2016-08-22T19:18:06Z",
+  "updated_at": "2017-07-24T12:02:57Z",
+  "pushed_at": "2016-09-27T17:36:32Z",
+  "homepage": null,
+  "size": 43,
+  "stargazers_count": 6,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ardzoht": 1,
+    "toniohdez43": 8,
+    "sbaidon": 14
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Swift": {
+      "bytes": 19444,
+      "color": "#ffac45"
+    },
+    "Ruby": {
+      "bytes": 1596,
+      "color": "#701516"
+    },
+    "Objective-C": {
+      "bytes": 498,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:16.067Z"
+}

@@ -1,0 +1,88 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ExpandableLabel",
+  "full_name": "apploft/ExpandableLabel",
+  "owner": "apploft",
+  "private": false,
+  "html_url": "https://github.com/apploft/ExpandableLabel",
+  "description": "A simple UILabel subclass that shows a tappable link if the content doesn't fit the specified number of lines",
+  "fork": false,
+  "url": "https://api.github.com/repos/apploft/ExpandableLabel",
+  "languages_url": "https://api.github.com/repos/apploft/ExpandableLabel/languages",
+  "pulls_url": "https://api.github.com/repos/apploft/ExpandableLabel/pulls{/number}",
+  "created_at": "2015-06-29T15:51:31Z",
+  "updated_at": "2018-09-06T09:48:51Z",
+  "pushed_at": "2018-07-06T11:25:59Z",
+  "homepage": "",
+  "size": 1594,
+  "stargazers_count": 148,
+  "language": "Swift",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "apploft",
+    "id": 5583460,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjU1ODM0NjA=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/5583460?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/apploft",
+    "html_url": "https://github.com/apploft",
+    "followers_url": "https://api.github.com/users/apploft/followers",
+    "following_url": "https://api.github.com/users/apploft/following{/other_user}",
+    "gists_url": "https://api.github.com/users/apploft/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/apploft/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/apploft/subscriptions",
+    "organizations_url": "https://api.github.com/users/apploft/orgs",
+    "repos_url": "https://api.github.com/users/apploft/repos",
+    "events_url": "https://api.github.com/users/apploft/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/apploft/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "simba909": 1,
+    "Lausbert": 1,
+    "lj-dickey": 1,
+    "czgarrett": 1,
+    "beiliubei": 1,
+    "justinctlam": 2,
+    "SAMUKEI": 2,
+    "ElegyD": 2,
+    "sammy-SC": 3,
+    "mkoehnke": 22,
+    "michaelkamphausen": 25
+  },
+  "pulls_authors": [
+    "simba909",
+    "wiedem",
+    "Waheiba",
+    "justinctlam",
+    "SAMUKEI",
+    "ElegyD",
+    "sammy-SC",
+    "lj-dickey",
+    "TNikolai",
+    "czgarrett",
+    "mkoehnke",
+    "beiliubei"
+  ],
+  "languages": {
+    "Swift": {
+      "bytes": 35811,
+      "color": "#ffac45"
+    },
+    "Ruby": {
+      "bytes": 1721,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T23:08:04.182Z"
+}

@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "patchitup-encrypted",
+  "full_name": "schollz/patchitup-encrypted",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/patchitup-encrypted",
+  "description": "Backup your file to your remote server using minimum bandwidth (with encryption).",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/patchitup-encrypted",
+  "languages_url": "https://api.github.com/repos/schollz/patchitup-encrypted/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/patchitup-encrypted/pulls{/number}",
+  "created_at": "2018-02-26T17:55:32Z",
+  "updated_at": "2018-03-25T20:24:28Z",
+  "pushed_at": "2018-02-26T20:58:45Z",
+  "homepage": null,
+  "size": 1504,
+  "stargazers_count": 2,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 57
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 32354,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:34.227Z"
+}

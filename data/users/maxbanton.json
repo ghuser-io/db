@@ -1,0 +1,32 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "maxbanton",
+  "ghuser_created_at": "2018-09-11T17:51:43.415Z",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/2746557?v=4",
+  "html_url": "https://github.com/maxbanton",
+  "organizations_url": "https://api.github.com/users/maxbanton/orgs",
+  "repos_url": "https://api.github.com/users/maxbanton/repos",
+  "type": "User",
+  "name": "Max Leonov",
+  "company": null,
+  "blog": "https://maxleonov.pw",
+  "location": "Kyiv, Ukraine",
+  "email": null,
+  "bio": null,
+  "public_gists": 6,
+  "created_at": "2012-11-07T22:51:12Z",
+  "updated_at": "2018-09-10T15:02:57Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:15:36.845Z",
+    "repos": [
+      "maxbanton/dd",
+      "maxbanton/cwh",
+      "maxbanton/maxbanton.github.io",
+      "dflydev/dflydev-doctrine-orm-service-provider",
+      "ongair/whatsphp",
+      "wl500g/wl500g",
+      "mongodb/docs-ecosystem"
+    ]
+  }
+}

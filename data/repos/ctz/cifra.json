@@ -1,0 +1,60 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cifra",
+  "full_name": "ctz/cifra",
+  "owner": "ctz",
+  "private": false,
+  "html_url": "https://github.com/ctz/cifra",
+  "description": "A collection of cryptographic primitives targeted at embedded use.",
+  "fork": false,
+  "url": "https://api.github.com/repos/ctz/cifra",
+  "languages_url": "https://api.github.com/repos/ctz/cifra/languages",
+  "pulls_url": "https://api.github.com/repos/ctz/cifra/pulls{/number}",
+  "created_at": "2015-01-21T20:27:31Z",
+  "updated_at": "2018-09-05T15:14:17Z",
+  "pushed_at": "2017-02-24T20:19:15Z",
+  "homepage": "",
+  "size": 542,
+  "stargazers_count": 179,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "philips77": 1,
+    "ctz": 255
+  },
+  "pulls_authors": [
+    "philips77"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 443476,
+      "color": "#555555"
+    },
+    "C++": {
+      "bytes": 249836,
+      "color": "#f34b7d"
+    },
+    "Assembly": {
+      "bytes": 35753,
+      "color": "#6E4C13"
+    },
+    "Python": {
+      "bytes": 20444,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 8825,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:17.081Z"
+}

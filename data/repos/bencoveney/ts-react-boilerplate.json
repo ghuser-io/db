@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ts-react-boilerplate",
+  "full_name": "bencoveney/ts-react-boilerplate",
+  "owner": "bencoveney",
+  "private": false,
+  "html_url": "https://github.com/bencoveney/ts-react-boilerplate",
+  "description": "Boilerplate project configuration using TypeScript, Webpack, React and including linting.",
+  "fork": false,
+  "url": "https://api.github.com/repos/bencoveney/ts-react-boilerplate",
+  "languages_url": "https://api.github.com/repos/bencoveney/ts-react-boilerplate/languages",
+  "pulls_url": "https://api.github.com/repos/bencoveney/ts-react-boilerplate/pulls{/number}",
+  "created_at": "2017-10-19T20:48:10Z",
+  "updated_at": "2018-09-06T15:43:08Z",
+  "pushed_at": "2018-09-06T15:43:27Z",
+  "homepage": "https://bencoveney.github.io/ts-react-boilerplate/",
+  "size": 3154,
+  "stargazers_count": 2,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "greenkeeper[bot]": 24,
+    "bencoveney": 53
+  },
+  "pulls_authors": [
+    "greenkeeper[bot]",
+    "bencoveney"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 14638,
+      "color": "#2b7489"
+    },
+    "HTML": {
+      "bytes": 624,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 53,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-06T17:04:23.549Z"
+}

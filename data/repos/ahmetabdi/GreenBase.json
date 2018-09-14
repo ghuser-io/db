@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "GreenBase",
+  "full_name": "ahmetabdi/GreenBase",
+  "owner": "ahmetabdi",
+  "private": false,
+  "html_url": "https://github.com/ahmetabdi/GreenBase",
+  "description": "Direct3D Base for any DirectX 9 game written in C++",
+  "fork": false,
+  "url": "https://api.github.com/repos/ahmetabdi/GreenBase",
+  "languages_url": "https://api.github.com/repos/ahmetabdi/GreenBase/languages",
+  "pulls_url": "https://api.github.com/repos/ahmetabdi/GreenBase/pulls{/number}",
+  "created_at": "2012-11-01T18:03:47Z",
+  "updated_at": "2015-11-03T15:21:58Z",
+  "pushed_at": "2012-11-01T18:05:29Z",
+  "homepage": "",
+  "size": 1086,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ahmetabdi": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 60028,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 24528,
+      "color": "#555555"
+    },
+    "Objective-C": {
+      "bytes": 205,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-12T15:31:07.303Z"
+}

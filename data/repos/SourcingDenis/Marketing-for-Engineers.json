@@ -1,0 +1,40 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Marketing-for-Engineers",
+  "full_name": "SourcingDenis/Marketing-for-Engineers",
+  "owner": "SourcingDenis",
+  "private": false,
+  "html_url": "https://github.com/SourcingDenis/Marketing-for-Engineers",
+  "description": ":bowtie: A curated collection of articles & tools, which will help you grow your product. ",
+  "fork": true,
+  "url": "https://api.github.com/repos/SourcingDenis/Marketing-for-Engineers",
+  "languages_url": "https://api.github.com/repos/SourcingDenis/Marketing-for-Engineers/languages",
+  "pulls_url": "https://api.github.com/repos/SourcingDenis/Marketing-for-Engineers/pulls{/number}",
+  "created_at": "2017-08-18T19:02:05Z",
+  "updated_at": "2018-02-04T16:41:26Z",
+  "pushed_at": "2017-08-11T22:03:29Z",
+  "homepage": "",
+  "size": 2079,
+  "stargazers_count": 2,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jinjorge": 1,
+    "AlexIzvekov": 1,
+    "eonist": 1,
+    "Geek-1001": 11,
+    "LisaDziuba": 227
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-08-21T11:33:34.804Z"
+}

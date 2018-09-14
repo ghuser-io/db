@@ -1,0 +1,80 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "php-src-builder",
+  "full_name": "travis-ci/php-src-builder",
+  "owner": "travis-ci",
+  "private": false,
+  "html_url": "https://github.com/travis-ci/php-src-builder",
+  "description": "Builds php/php-src with php-build and uploads artifacts to S3",
+  "fork": false,
+  "url": "https://api.github.com/repos/travis-ci/php-src-builder",
+  "languages_url": "https://api.github.com/repos/travis-ci/php-src-builder/languages",
+  "pulls_url": "https://api.github.com/repos/travis-ci/php-src-builder/pulls{/number}",
+  "created_at": "2015-02-18T01:03:18Z",
+  "updated_at": "2018-05-30T14:50:41Z",
+  "pushed_at": "2018-05-30T14:50:41Z",
+  "homepage": "",
+  "size": 142,
+  "stargazers_count": 13,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "default",
+  "organization": {
+    "login": "travis-ci",
+    "id": 639823,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYzOTgyMw==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/639823?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/travis-ci",
+    "html_url": "https://github.com/travis-ci",
+    "followers_url": "https://api.github.com/users/travis-ci/followers",
+    "following_url": "https://api.github.com/users/travis-ci/following{/other_user}",
+    "gists_url": "https://api.github.com/users/travis-ci/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/travis-ci/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/travis-ci/subscriptions",
+    "organizations_url": "https://api.github.com/users/travis-ci/orgs",
+    "repos_url": "https://api.github.com/users/travis-ci/repos",
+    "events_url": "https://api.github.com/users/travis-ci/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/travis-ci/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "sodabrew": 1,
+    "emdantrim": 2,
+    "igorwwwwwwwwwwwwwwwwwwww": 2,
+    "jmikola": 4,
+    "cotsog": 8,
+    "meatballhat": 15,
+    "BanzaiMan": 278
+  },
+  "pulls_authors": [
+    "Auvipev",
+    "Jean85",
+    "cotsog",
+    "sodabrew",
+    "meatballhat",
+    "joepvd",
+    "jmikola",
+    "emdantrim",
+    "kelunik",
+    "BanzaiMan"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 8684,
+      "color": "#89e051"
+    },
+    "PHP": {
+      "bytes": 850,
+      "color": "#4F5D95"
+    },
+    "Roff": {
+      "bytes": 741,
+      "color": "#ecdebe"
+    }
+  },
+  "fetched_at": "2018-09-11T17:08:21.556Z"
+}

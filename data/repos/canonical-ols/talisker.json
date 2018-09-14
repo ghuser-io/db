@@ -1,0 +1,96 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "talisker",
+  "full_name": "canonical-ols/talisker",
+  "owner": "canonical-ols",
+  "private": false,
+  "html_url": "https://github.com/canonical-ols/talisker",
+  "description": "An enhanced WSGI runtime for your apps",
+  "fork": false,
+  "url": "https://api.github.com/repos/canonical-ols/talisker",
+  "languages_url": "https://api.github.com/repos/canonical-ols/talisker/languages",
+  "pulls_url": "https://api.github.com/repos/canonical-ols/talisker/pulls{/number}",
+  "created_at": "2016-07-15T18:25:59Z",
+  "updated_at": "2018-09-13T09:51:49Z",
+  "pushed_at": "2018-09-13T09:51:50Z",
+  "homepage": null,
+  "size": 823,
+  "stargazers_count": 15,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "canonical-ols",
+    "id": 17836138,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3ODM2MTM4",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/17836138?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/canonical-ols",
+    "html_url": "https://github.com/canonical-ols",
+    "followers_url": "https://api.github.com/users/canonical-ols/followers",
+    "following_url": "https://api.github.com/users/canonical-ols/following{/other_user}",
+    "gists_url": "https://api.github.com/users/canonical-ols/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/canonical-ols/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/canonical-ols/subscriptions",
+    "organizations_url": "https://api.github.com/users/canonical-ols/orgs",
+    "repos_url": "https://api.github.com/users/canonical-ols/repos",
+    "events_url": "https://api.github.com/users/canonical-ols/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/canonical-ols/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "sjvs": 1,
+    "cjwatson": 1,
+    "fgallina": 1,
+    "facundobatista": 1,
+    "sparkiegeek": 2,
+    "nottrobin": 3,
+    "verterok": 3,
+    "jamestait": 3,
+    "maxiberta": 4,
+    "tomwardill": 6,
+    "pyup-bot": 34,
+    "bloodearnest": 316
+  },
+  "pulls_authors": [
+    "bloodearnest",
+    "sparkiegeek",
+    "pyup-bot",
+    "sjvs",
+    "nottrobin",
+    "ceh",
+    "nessita",
+    "verterok",
+    "cjwatson",
+    "tomwardill",
+    "maxiberta",
+    "thomir",
+    "jamestait",
+    "fgallina",
+    "facundobatista"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 310370,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 8656,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 1380,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T17:02:51.481Z"
+}

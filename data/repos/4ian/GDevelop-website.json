@@ -1,0 +1,67 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Lizard-13": 1,
+    "tylerbrewer2": 1,
+    "luczaki114": 1,
+    "juliettepretot": 1,
+    "rdela": 2,
+    "KyleAMathews": 2,
+    "futuregerald": 2,
+    "kalinchernev": 2,
+    "flppv": 2,
+    "Benaiah": 6,
+    "erquhart": 8,
+    "marcobiedermann": 21,
+    "AustinGreen": 72,
+    "4ian": 112,
+    "Bouh": 1
+  },
+  "name": "GDevelop-website",
+  "full_name": "4ian/GDevelop-website",
+  "owner": "4ian",
+  "private": false,
+  "html_url": "https://github.com/4ian/GDevelop-website",
+  "description": "Website for GDevelop, the open source game creator requiring no coding skills",
+  "fork": false,
+  "url": "https://api.github.com/repos/4ian/GDevelop-website",
+  "languages_url": "https://api.github.com/repos/4ian/GDevelop-website/languages",
+  "created_at": "2015-03-26T10:19:37Z",
+  "updated_at": "2018-09-13T21:26:33Z",
+  "pushed_at": "2018-09-13T21:26:32Z",
+  "homepage": "https://gdevelop-app.com",
+  "size": 41535,
+  "stargazers_count": 9,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "JavaScript": {
+      "bytes": 216460,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 18,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-13T23:43:59.823Z",
+  "pulls_url": "https://api.github.com/repos/4ian/GDevelop-website/pulls{/number}",
+  "pulls_authors": [
+    "Lizard-13",
+    "Gamevita",
+    "4ian",
+    "wild-master",
+    "Calinou",
+    "Voxely33",
+    "Bouh"
+  ]
+}

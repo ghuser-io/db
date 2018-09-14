@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "explorercraft",
+  "full_name": "pimoroni/explorercraft",
+  "owner": "pimoroni",
+  "private": false,
+  "html_url": "https://github.com/pimoroni/explorercraft",
+  "description": "A collection of useful Minecraft-specific Python helpers intended for use with Explorer HAT",
+  "fork": false,
+  "url": "https://api.github.com/repos/pimoroni/explorercraft",
+  "languages_url": "https://api.github.com/repos/pimoroni/explorercraft/languages",
+  "pulls_url": "https://api.github.com/repos/pimoroni/explorercraft/pulls{/number}",
+  "created_at": "2015-06-02T10:23:24Z",
+  "updated_at": "2018-03-06T13:46:14Z",
+  "pushed_at": "2015-06-08T09:23:09Z",
+  "homepage": null,
+  "size": 152,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": true,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "pimoroni",
+    "id": 2399917,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzOTk5MTc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2399917?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pimoroni",
+    "html_url": "https://github.com/pimoroni",
+    "followers_url": "https://api.github.com/users/pimoroni/followers",
+    "following_url": "https://api.github.com/users/pimoroni/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pimoroni/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pimoroni/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pimoroni/subscriptions",
+    "organizations_url": "https://api.github.com/users/pimoroni/orgs",
+    "repos_url": "https://api.github.com/users/pimoroni/repos",
+    "events_url": "https://api.github.com/users/pimoroni/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pimoroni/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Gadgetoid": 23
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 13269,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:13.524Z"
+}

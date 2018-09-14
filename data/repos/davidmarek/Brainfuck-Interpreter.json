@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Brainfuck-Interpreter",
+  "full_name": "davidmarek/Brainfuck-Interpreter",
+  "owner": "davidmarek",
+  "private": false,
+  "html_url": "https://github.com/davidmarek/Brainfuck-Interpreter",
+  "description": "Interpreter of Brainfuck programming language.",
+  "fork": false,
+  "url": "https://api.github.com/repos/davidmarek/Brainfuck-Interpreter",
+  "languages_url": "https://api.github.com/repos/davidmarek/Brainfuck-Interpreter/languages",
+  "pulls_url": "https://api.github.com/repos/davidmarek/Brainfuck-Interpreter/pulls{/number}",
+  "created_at": "2010-03-19T21:06:38Z",
+  "updated_at": "2013-10-27T17:17:25Z",
+  "pushed_at": "2010-03-20T13:01:23Z",
+  "homepage": "",
+  "size": 100,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "davidmarek": 6
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 3746,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:41:14.932Z"
+}

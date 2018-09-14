@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "volvox",
+  "full_name": "ziyasal/volvox",
+  "owner": "ziyasal",
+  "private": false,
+  "html_url": "https://github.com/ziyasal/volvox",
+  "description": "Self announcing micro-services for NodeJS with powerful service discovery using Consul",
+  "fork": false,
+  "url": "https://api.github.com/repos/ziyasal/volvox",
+  "languages_url": "https://api.github.com/repos/ziyasal/volvox/languages",
+  "pulls_url": "https://api.github.com/repos/ziyasal/volvox/pulls{/number}",
+  "created_at": "2016-01-23T17:25:23Z",
+  "updated_at": "2018-05-26T05:01:49Z",
+  "pushed_at": "2018-04-27T16:32:26Z",
+  "homepage": "",
+  "size": 189,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "marcbachmann": 1,
+    "ziyasal": 48
+  },
+  "pulls_authors": [
+    "marcbachmann"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 14005,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:03.995Z"
+}

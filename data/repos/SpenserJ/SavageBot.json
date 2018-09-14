@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SavageBot",
+  "full_name": "SpenserJ/SavageBot",
+  "owner": "SpenserJ",
+  "private": false,
+  "html_url": "https://github.com/SpenserJ/SavageBot",
+  "description": "An IRC bot to track stats on What.CD and FeralHosting",
+  "fork": false,
+  "url": "https://api.github.com/repos/SpenserJ/SavageBot",
+  "languages_url": "https://api.github.com/repos/SpenserJ/SavageBot/languages",
+  "pulls_url": "https://api.github.com/repos/SpenserJ/SavageBot/pulls{/number}",
+  "created_at": "2011-09-14T20:25:53Z",
+  "updated_at": "2013-10-10T00:26:15Z",
+  "pushed_at": "2011-09-23T17:10:16Z",
+  "homepage": "",
+  "size": 128,
+  "stargazers_count": 1,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "SpenserJ": 28
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 37627,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-11T15:20:10.992Z"
+}

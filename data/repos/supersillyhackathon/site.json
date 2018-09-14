@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "site",
+  "full_name": "supersillyhackathon/site",
+  "owner": "supersillyhackathon",
+  "private": false,
+  "html_url": "https://github.com/supersillyhackathon/site",
+  "description": "Web site for Super Silly Hackathon",
+  "fork": false,
+  "url": "https://api.github.com/repos/supersillyhackathon/site",
+  "languages_url": "https://api.github.com/repos/supersillyhackathon/site/languages",
+  "pulls_url": "https://api.github.com/repos/supersillyhackathon/site/pulls{/number}",
+  "created_at": "2017-10-30T01:40:18Z",
+  "updated_at": "2018-05-16T11:29:49Z",
+  "pushed_at": "2017-12-12T00:13:46Z",
+  "homepage": null,
+  "size": 469,
+  "stargazers_count": 2,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "supersillyhackathon",
+    "id": 32463101,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMyNDYzMTAx",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/32463101?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/supersillyhackathon",
+    "html_url": "https://github.com/supersillyhackathon",
+    "followers_url": "https://api.github.com/users/supersillyhackathon/followers",
+    "following_url": "https://api.github.com/users/supersillyhackathon/following{/other_user}",
+    "gists_url": "https://api.github.com/users/supersillyhackathon/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/supersillyhackathon/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/supersillyhackathon/subscriptions",
+    "organizations_url": "https://api.github.com/users/supersillyhackathon/orgs",
+    "repos_url": "https://api.github.com/users/supersillyhackathon/repos",
+    "events_url": "https://api.github.com/users/supersillyhackathon/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/supersillyhackathon/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "cheeaun": 39
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 16251,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:54.340Z"
+}

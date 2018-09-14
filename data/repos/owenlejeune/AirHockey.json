@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "AirHockey",
+  "full_name": "owenlejeune/AirHockey",
+  "owner": "owenlejeune",
+  "private": false,
+  "html_url": "https://github.com/owenlejeune/AirHockey",
+  "description": "A simple air hockey game using web sockets and Electron",
+  "fork": false,
+  "url": "https://api.github.com/repos/owenlejeune/AirHockey",
+  "languages_url": "https://api.github.com/repos/owenlejeune/AirHockey/languages",
+  "pulls_url": "https://api.github.com/repos/owenlejeune/AirHockey/pulls{/number}",
+  "created_at": "2018-03-07T22:18:09Z",
+  "updated_at": "2018-08-26T16:23:41Z",
+  "pushed_at": "2018-08-26T16:23:39Z",
+  "homepage": "",
+  "size": 51397,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "owenlejeune": 25
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 28471,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 3387,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1574,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-27T06:20:20.270Z"
+}

@@ -1,0 +1,74 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "localboundaries",
+  "full_name": "okfnepal/localboundaries",
+  "owner": "okfnepal",
+  "private": false,
+  "html_url": "https://github.com/okfnepal/localboundaries",
+  "description": "Local Boundaries brings the detail geodata of new administrative units or maps of all administrative boundary defined by Nepal Government.",
+  "fork": false,
+  "url": "https://api.github.com/repos/okfnepal/localboundaries",
+  "languages_url": "https://api.github.com/repos/okfnepal/localboundaries/languages",
+  "pulls_url": "https://api.github.com/repos/okfnepal/localboundaries/pulls{/number}",
+  "created_at": "2017-07-13T02:53:47Z",
+  "updated_at": "2018-08-16T07:55:36Z",
+  "pushed_at": "2018-08-16T07:55:35Z",
+  "homepage": "http://localboundries.oknp.org",
+  "size": 9804,
+  "stargazers_count": 7,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "gh-pages",
+  "organization": {
+    "login": "okfnepal",
+    "id": 6027878,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYwMjc4Nzg=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/6027878?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/okfnepal",
+    "html_url": "https://github.com/okfnepal",
+    "followers_url": "https://api.github.com/users/okfnepal/followers",
+    "following_url": "https://api.github.com/users/okfnepal/following{/other_user}",
+    "gists_url": "https://api.github.com/users/okfnepal/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/okfnepal/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/okfnepal/subscriptions",
+    "organizations_url": "https://api.github.com/users/okfnepal/orgs",
+    "repos_url": "https://api.github.com/users/okfnepal/repos",
+    "events_url": "https://api.github.com/users/okfnepal/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/okfnepal/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "amitness": 1,
+    "sagargg": 19,
+    "nikeshbalami": 34
+  },
+  "pulls_authors": [
+    "nirmalrizal53",
+    "amitness"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 25619,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 9693,
+      "color": "#e34c26"
+    },
+    "Ruby": {
+      "bytes": 1170,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:28.384Z"
+}

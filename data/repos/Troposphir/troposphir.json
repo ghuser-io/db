@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "troposphir",
+  "full_name": "Troposphir/troposphir",
+  "owner": "Troposphir",
+  "private": false,
+  "html_url": "https://github.com/Troposphir/troposphir",
+  "description": "A reverse-engineered server that enables a playable experience for the game Atmosphir.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Troposphir/troposphir",
+  "languages_url": "https://api.github.com/repos/Troposphir/troposphir/languages",
+  "pulls_url": "https://api.github.com/repos/Troposphir/troposphir/pulls{/number}",
+  "created_at": "2016-01-08T18:51:05Z",
+  "updated_at": "2018-07-08T23:09:41Z",
+  "pushed_at": "2018-07-08T23:09:40Z",
+  "homepage": "http://onemoreblock.com/",
+  "size": 809,
+  "stargazers_count": 2,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "Troposphir",
+    "id": 16614540,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2NjE0NTQw",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/16614540?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Troposphir",
+    "html_url": "https://github.com/Troposphir",
+    "followers_url": "https://api.github.com/users/Troposphir/followers",
+    "following_url": "https://api.github.com/users/Troposphir/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Troposphir/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Troposphir/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Troposphir/subscriptions",
+    "organizations_url": "https://api.github.com/users/Troposphir/orgs",
+    "repos_url": "https://api.github.com/users/Troposphir/repos",
+    "events_url": "https://api.github.com/users/Troposphir/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Troposphir/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "AtmoEntity": 15,
+    "pedroslopez": 29,
+    "kroltan": 60,
+    "kevson": 95
+  },
+  "pulls_authors": [
+    "pedroslopez",
+    "AtmoEntity"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 318965,
+      "color": "#4F5D95"
+    },
+    "C#": {
+      "bytes": 63774,
+      "color": "#178600"
+    },
+    "CSS": {
+      "bytes": 11101,
+      "color": "#563d7c"
+    },
+    "Java": {
+      "bytes": 7838,
+      "color": "#b07219"
+    },
+    "JavaScript": {
+      "bytes": 7344,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 3678,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-12T15:49:25.856Z"
+}

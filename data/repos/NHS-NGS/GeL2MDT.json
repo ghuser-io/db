@@ -1,0 +1,84 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "GeL2MDT",
+  "full_name": "NHS-NGS/GeL2MDT",
+  "owner": "NHS-NGS",
+  "private": false,
+  "html_url": "https://github.com/NHS-NGS/GeL2MDT",
+  "description": "Repository for GeL2MDT, management software for 100KGP patient results and MDTs.",
+  "fork": false,
+  "url": "https://api.github.com/repos/NHS-NGS/GeL2MDT",
+  "languages_url": "https://api.github.com/repos/NHS-NGS/GeL2MDT/languages",
+  "pulls_url": "https://api.github.com/repos/NHS-NGS/GeL2MDT/pulls{/number}",
+  "created_at": "2018-04-17T11:05:35Z",
+  "updated_at": "2018-09-14T08:20:17Z",
+  "pushed_at": "2018-09-14T08:22:22Z",
+  "homepage": null,
+  "size": 12626,
+  "stargazers_count": 5,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "NHS-NGS",
+    "id": 7593797,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc1OTM3OTc=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/7593797?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/NHS-NGS",
+    "html_url": "https://github.com/NHS-NGS",
+    "followers_url": "https://api.github.com/users/NHS-NGS/followers",
+    "following_url": "https://api.github.com/users/NHS-NGS/following{/other_user}",
+    "gists_url": "https://api.github.com/users/NHS-NGS/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/NHS-NGS/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/NHS-NGS/subscriptions",
+    "organizations_url": "https://api.github.com/users/NHS-NGS/orgs",
+    "repos_url": "https://api.github.com/users/NHS-NGS/repos",
+    "events_url": "https://api.github.com/users/NHS-NGS/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/NHS-NGS/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "aledj2": 1,
+    "pdl30": 133,
+    "theocole": 355
+  },
+  "pulls_authors": [
+    "pdl30",
+    "theocole",
+    "s-boardman",
+    "aledj2"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 1690402,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 1278222,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 410150,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 263889,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 112,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T09:10:31.273Z"
+}

@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "SublimeLinter-contrib-elixirc",
+  "full_name": "smanolloff/SublimeLinter-contrib-elixirc",
+  "owner": "smanolloff",
+  "private": false,
+  "html_url": "https://github.com/smanolloff/SublimeLinter-contrib-elixirc",
+  "description": "Elixir linter for Sublime Text 3 based on SublimeLinter",
+  "fork": false,
+  "url": "https://api.github.com/repos/smanolloff/SublimeLinter-contrib-elixirc",
+  "languages_url": "https://api.github.com/repos/smanolloff/SublimeLinter-contrib-elixirc/languages",
+  "pulls_url": "https://api.github.com/repos/smanolloff/SublimeLinter-contrib-elixirc/pulls{/number}",
+  "created_at": "2014-10-02T14:09:15Z",
+  "updated_at": "2018-06-24T21:41:41Z",
+  "pushed_at": "2018-06-24T21:41:12Z",
+  "homepage": null,
+  "size": 30,
+  "stargazers_count": 27,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "nmqanh": 1,
+    "prsimp": 1,
+    "doitian": 8,
+    "smanolloff": 21
+  },
+  "pulls_authors": [
+    "acconrad",
+    "nmqanh",
+    "smanolloff",
+    "prsimp",
+    "doitian"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 10107,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T04:55:39.480Z"
+}

@@ -1,0 +1,61 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "eslint-config-stf",
+  "full_name": "openstf/eslint-config-stf",
+  "owner": "openstf",
+  "private": false,
+  "html_url": "https://github.com/openstf/eslint-config-stf",
+  "description": "STF - ESLint Shareable Config",
+  "fork": false,
+  "url": "https://api.github.com/repos/openstf/eslint-config-stf",
+  "languages_url": "https://api.github.com/repos/openstf/eslint-config-stf/languages",
+  "pulls_url": "https://api.github.com/repos/openstf/eslint-config-stf/pulls{/number}",
+  "created_at": "2016-01-20T14:20:51Z",
+  "updated_at": "2017-05-31T13:55:32Z",
+  "pushed_at": "2016-01-20T14:30:42Z",
+  "homepage": null,
+  "size": 8,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "openstf",
+    "id": 12196621,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMTk2NjIx",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/12196621?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/openstf",
+    "html_url": "https://github.com/openstf",
+    "followers_url": "https://api.github.com/users/openstf/followers",
+    "following_url": "https://api.github.com/users/openstf/following{/other_user}",
+    "gists_url": "https://api.github.com/users/openstf/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/openstf/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/openstf/subscriptions",
+    "organizations_url": "https://api.github.com/users/openstf/orgs",
+    "repos_url": "https://api.github.com/users/openstf/repos",
+    "events_url": "https://api.github.com/users/openstf/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/openstf/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "gunta": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 44,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T23:06:02.907Z"
+}

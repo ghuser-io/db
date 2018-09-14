@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "test-suite",
+  "full_name": "citation-style-language/test-suite",
+  "owner": "citation-style-language",
+  "private": false,
+  "html_url": "https://github.com/citation-style-language/test-suite",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/citation-style-language/test-suite",
+  "languages_url": "https://api.github.com/repos/citation-style-language/test-suite/languages",
+  "pulls_url": "https://api.github.com/repos/citation-style-language/test-suite/pulls{/number}",
+  "created_at": "2016-02-18T21:36:53Z",
+  "updated_at": "2018-06-14T23:52:05Z",
+  "pushed_at": "2018-06-14T23:52:04Z",
+  "homepage": null,
+  "size": 1521,
+  "stargazers_count": 3,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "citation-style-language",
+    "id": 526476,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjUyNjQ3Ng==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/526476?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/citation-style-language",
+    "html_url": "https://github.com/citation-style-language",
+    "followers_url": "https://api.github.com/users/citation-style-language/followers",
+    "following_url": "https://api.github.com/users/citation-style-language/following{/other_user}",
+    "gists_url": "https://api.github.com/users/citation-style-language/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/citation-style-language/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/citation-style-language/subscriptions",
+    "organizations_url": "https://api.github.com/users/citation-style-language/orgs",
+    "repos_url": "https://api.github.com/users/citation-style-language/repos",
+    "events_url": "https://api.github.com/users/citation-style-language/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/citation-style-language/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "jayvdb": 1,
+    "arossato": 1,
+    "customcommander": 2,
+    "rmzelle": 7,
+    "fbennett": 475
+  },
+  "pulls_authors": [
+    "customcommander"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 37140,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 19846,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 8745,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 1510,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

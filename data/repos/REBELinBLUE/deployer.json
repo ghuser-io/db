@@ -1,0 +1,111 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "deployer",
+  "full_name": "REBELinBLUE/deployer",
+  "owner": "REBELinBLUE",
+  "private": false,
+  "html_url": "https://github.com/REBELinBLUE/deployer",
+  "description": "Deployer is a free and open source deployment tool.",
+  "fork": false,
+  "url": "https://api.github.com/repos/REBELinBLUE/deployer",
+  "languages_url": "https://api.github.com/repos/REBELinBLUE/deployer/languages",
+  "pulls_url": "https://api.github.com/repos/REBELinBLUE/deployer/pulls{/number}",
+  "created_at": "2015-04-07T17:55:16Z",
+  "updated_at": "2018-09-13T06:39:34Z",
+  "pushed_at": "2018-09-05T13:07:59Z",
+  "homepage": "http://phpdeployment.org",
+  "size": 24630,
+  "stargazers_count": 692,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "RaymondWilkinson": 1,
+    "corpsee": 1,
+    "Danielss89": 1,
+    "bbashy": 1,
+    "moxx": 1,
+    "denji": 1,
+    "snyk-bot": 1,
+    "pavankumarkatakam": 1,
+    "Patabugen": 1,
+    "dm": 2,
+    "aiddroid": 2,
+    "uLow": 2,
+    "jbrooksuk": 2,
+    "emielmolenaar": 3,
+    "dancryer": 3,
+    "axeloz": 4,
+    "iflamed": 51,
+    "REBELinBLUE": 2383
+  },
+  "pulls_authors": [
+    "axeloz",
+    "REBELinBLUE",
+    "agentmarine",
+    "RaymondWilkinson",
+    "dancryer",
+    "emielmolenaar",
+    "cfpinto",
+    "corpsee",
+    "dm",
+    "aiddroid",
+    "Danielss89",
+    "bbashy",
+    "jlaso",
+    "uLow",
+    "riyono",
+    "matt127127",
+    "lianguan",
+    "fanshan",
+    "moxx",
+    "jbrooksuk",
+    "denji",
+    "rikkitissier",
+    "snyk-bot",
+    "pavankumarkatakam",
+    "jcornide",
+    "Patabugen",
+    "gitter-badger",
+    "DroppingLight",
+    "bitdeli-chef",
+    "iflamed",
+    "scrutinizer-auto-fixer",
+    "mikehhhhhhh"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 1447039,
+      "color": "#4F5D95"
+    },
+    "HTML": {
+      "bytes": 160312,
+      "color": "#e34c26"
+    },
+    "Shell": {
+      "bytes": 19295,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 9160,
+      "color": "#427819"
+    },
+    "JavaScript": {
+      "bytes": 2687,
+      "color": "#f1e05a"
+    },
+    "Dockerfile": {
+      "bytes": 1495,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-09-13T16:34:58.522Z"
+}

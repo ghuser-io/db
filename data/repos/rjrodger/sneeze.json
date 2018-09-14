@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sneeze",
+  "full_name": "rjrodger/sneeze",
+  "owner": "rjrodger",
+  "private": false,
+  "html_url": "https://github.com/rjrodger/sneeze",
+  "description": "Easily join SWIM networks",
+  "fork": false,
+  "url": "https://api.github.com/repos/rjrodger/sneeze",
+  "languages_url": "https://api.github.com/repos/rjrodger/sneeze/languages",
+  "pulls_url": "https://api.github.com/repos/rjrodger/sneeze/pulls{/number}",
+  "created_at": "2016-01-21T23:22:38Z",
+  "updated_at": "2018-06-29T18:49:11Z",
+  "pushed_at": "2018-06-29T19:02:44Z",
+  "homepage": "",
+  "size": 228,
+  "stargazers_count": 14,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "geek": 1,
+    "mcollina": 1,
+    "AdrianRossouw": 1,
+    "rjrodger": 50
+  },
+  "pulls_authors": [
+    "surfdude75",
+    "wzrdtales",
+    "tswaters",
+    "geek",
+    "paolochiodi",
+    "mcollina",
+    "AdrianRossouw"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 22567,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:40:26.829Z"
+}

@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docker-socat",
+  "full_name": "moul/docker-socat",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/docker-socat",
+  "description": ":whale: run Socat in Docker",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/docker-socat",
+  "languages_url": "https://api.github.com/repos/moul/docker-socat/languages",
+  "pulls_url": "https://api.github.com/repos/moul/docker-socat/pulls{/number}",
+  "created_at": "2014-01-27T00:08:55Z",
+  "updated_at": "2015-08-18T10:12:55Z",
+  "pushed_at": "2018-08-18T16:10:55Z",
+  "homepage": "",
+  "size": 4,
+  "stargazers_count": 2,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 5
+  },
+  "pulls_authors": [
+    "renovate[bot]"
+  ],
+  "languages": {},
+  "fetched_at": "2018-09-05T13:07:33.868Z"
+}

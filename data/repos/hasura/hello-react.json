@@ -1,0 +1,74 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "hello-react",
+  "full_name": "hasura/hello-react",
+  "owner": "hasura",
+  "private": false,
+  "html_url": "https://github.com/hasura/hello-react",
+  "description": "Deploy a react app and node server with zero configuration",
+  "fork": false,
+  "url": "https://api.github.com/repos/hasura/hello-react",
+  "languages_url": "https://api.github.com/repos/hasura/hello-react/languages",
+  "created_at": "2017-10-27T18:11:03Z",
+  "updated_at": "2018-07-12T18:36:58Z",
+  "pushed_at": "2018-06-10T07:05:11Z",
+  "homepage": "https://hasura.io/hub/projects/hasura/hello-react",
+  "size": 1310,
+  "stargazers_count": 13,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "hasura",
+    "id": 13966722,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzOTY2NzIy",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/13966722?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/hasura",
+    "html_url": "https://github.com/hasura",
+    "followers_url": "https://api.github.com/users/hasura/followers",
+    "following_url": "https://api.github.com/users/hasura/following{/other_user}",
+    "gists_url": "https://api.github.com/users/hasura/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/hasura/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/hasura/subscriptions",
+    "organizations_url": "https://api.github.com/users/hasura/orgs",
+    "repos_url": "https://api.github.com/users/hasura/repos",
+    "events_url": "https://api.github.com/users/hasura/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/hasura/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "praveenweb": 1,
+    "shahidhk": 3,
+    "wawhal": 6,
+    "jaisontj": 6
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 1590,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 1085,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 440,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-05T13:20:52.832Z",
+  "pulls_url": "https://api.github.com/repos/hasura/hello-react/pulls{/number}",
+  "pulls_authors": [
+    "jd0x",
+    "shahidhk",
+    "sathya9897",
+    "geekysrm",
+    "Hyperclaw79",
+    "karthikvt26",
+    "shark-h"
+  ]
+}

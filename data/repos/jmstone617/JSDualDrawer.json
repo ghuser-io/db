@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "JSDualDrawer",
+  "full_name": "jmstone617/JSDualDrawer",
+  "owner": "jmstone617",
+  "private": false,
+  "html_url": "https://github.com/jmstone617/JSDualDrawer",
+  "description": "A dual drawer containment view controller similar to Facebook or Path",
+  "fork": false,
+  "url": "https://api.github.com/repos/jmstone617/JSDualDrawer",
+  "languages_url": "https://api.github.com/repos/jmstone617/JSDualDrawer/languages",
+  "pulls_url": "https://api.github.com/repos/jmstone617/JSDualDrawer/pulls{/number}",
+  "created_at": "2013-06-29T15:44:15Z",
+  "updated_at": "2014-02-25T21:19:31Z",
+  "pushed_at": "2014-02-25T21:19:30Z",
+  "homepage": null,
+  "size": 173,
+  "stargazers_count": 2,
+  "language": "Objective-C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jbrooksuk": 1,
+    "jmstone617": 1
+  },
+  "pulls_authors": [
+    "jbrooksuk"
+  ],
+  "languages": {
+    "Objective-C": {
+      "bytes": 30024,
+      "color": "#438eff"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:02.401Z"
+}

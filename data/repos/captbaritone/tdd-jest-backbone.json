@@ -1,0 +1,35 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tdd-jest-backbone",
+  "full_name": "captbaritone/tdd-jest-backbone",
+  "owner": "captbaritone",
+  "private": false,
+  "html_url": "https://github.com/captbaritone/tdd-jest-backbone",
+  "description": "An example of using Jest --watch to write/test a Backbone view",
+  "fork": false,
+  "url": "https://api.github.com/repos/captbaritone/tdd-jest-backbone",
+  "languages_url": "https://api.github.com/repos/captbaritone/tdd-jest-backbone/languages",
+  "pulls_url": "https://api.github.com/repos/captbaritone/tdd-jest-backbone/pulls{/number}",
+  "created_at": "2016-10-14T22:18:11Z",
+  "updated_at": "2018-07-29T22:14:57Z",
+  "pushed_at": "2017-05-01T19:46:43Z",
+  "homepage": null,
+  "size": 2,
+  "stargazers_count": 6,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "captbaritone": 1
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2258,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:37.842Z"
+}

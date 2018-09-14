@@ -1,0 +1,86 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "junk",
+  "full_name": "moul/junk",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/junk",
+  "description": ":poop: Junk food :fist::frog::first_quarter_moon_with_face::squirrel::mega::mailbox::bulb::low_brightness::video_camera::calling::ski::dart::bikini::eggplant::barber::aquarius:",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/junk",
+  "languages_url": "https://api.github.com/repos/moul/junk/languages",
+  "pulls_url": "https://api.github.com/repos/moul/junk/pulls{/number}",
+  "created_at": "2009-06-10T16:37:34Z",
+  "updated_at": "2018-01-09T13:40:49Z",
+  "pushed_at": "2018-08-18T16:14:35Z",
+  "homepage": "m.42.am",
+  "size": 1333,
+  "stargazers_count": 5,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 418
+  },
+  "pulls_authors": [
+    "imgbot[bot]",
+    "renovate[bot]"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 156636,
+      "color": "#555555"
+    },
+    "JavaScript": {
+      "bytes": 143391,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 137453,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 71695,
+      "color": "#563d7c"
+    },
+    "CoffeeScript": {
+      "bytes": 20162,
+      "color": "#244776"
+    },
+    "HTML": {
+      "bytes": 17838,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 15695,
+      "color": "#427819"
+    },
+    "Ruby": {
+      "bytes": 8809,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 6633,
+      "color": "#89e051"
+    },
+    "PHP": {
+      "bytes": 6225,
+      "color": "#4F5D95"
+    },
+    "C++": {
+      "bytes": 5066,
+      "color": "#f34b7d"
+    },
+    "Objective-C": {
+      "bytes": 1393,
+      "color": "#438eff"
+    },
+    "Go": {
+      "bytes": 456,
+      "color": "#375eab"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:25.508Z"
+}

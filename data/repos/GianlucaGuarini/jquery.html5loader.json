@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 1,
+    "peschee": 1,
+    "Boycce": 4,
+    "aleksraiden": 5,
+    "GianlucaGuarini": 104
+  },
+  "name": "jquery.html5loader",
+  "full_name": "GianlucaGuarini/jquery.html5loader",
+  "owner": "GianlucaGuarini",
+  "private": false,
+  "html_url": "https://github.com/GianlucaGuarini/jquery.html5loader",
+  "description": "jQuery.html5Loader can preload images, SVGs, html5 video and audio sources, scripts, css, and text files.",
+  "fork": false,
+  "url": "https://api.github.com/repos/GianlucaGuarini/jquery.html5loader",
+  "languages_url": "https://api.github.com/repos/GianlucaGuarini/jquery.html5loader/languages",
+  "created_at": "2011-07-15T22:54:43Z",
+  "updated_at": "2018-08-02T19:20:05Z",
+  "pushed_at": "2017-12-22T20:34:27Z",
+  "homepage": "https://gianlucaguarini.github.com/jquery.html5loader/",
+  "size": 17251,
+  "stargazers_count": 306,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "languages": {
+    "JavaScript": {
+      "bytes": 41336,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 18124,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 3307,
+      "color": "#e34c26"
+    },
+    "CoffeeScript": {
+      "bytes": 888,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-08-03T05:56:14.583Z",
+  "pulls_url": "https://api.github.com/repos/GianlucaGuarini/jquery.html5loader/pulls{/number}",
+  "pulls_authors": [
+    "yonailo",
+    "Calinou",
+    "Boycce",
+    "peschee",
+    "aleksraiden",
+    "muhammedbasilsk"
+  ]
+}

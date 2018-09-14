@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "as-a-service",
+  "full_name": "moul/as-a-service",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/as-a-service",
+  "description": ":man: Me, as a service",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/as-a-service",
+  "languages_url": "https://api.github.com/repos/moul/as-a-service/languages",
+  "pulls_url": "https://api.github.com/repos/moul/as-a-service/pulls{/number}",
+  "created_at": "2015-12-05T22:32:14Z",
+  "updated_at": "2018-03-13T15:40:18Z",
+  "pushed_at": "2018-08-18T16:14:18Z",
+  "homepage": "https://moul-as-a-service.m.42.am/",
+  "size": 5763,
+  "stargazers_count": 5,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 60
+  },
+  "pulls_authors": [
+    "renovate[bot]",
+    "moul"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 16454,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 2613,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:45.893Z"
+}

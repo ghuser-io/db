@@ -1,0 +1,97 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "learnxinyminutes-site",
+  "full_name": "adambard/learnxinyminutes-site",
+  "owner": "adambard",
+  "private": false,
+  "html_url": "https://github.com/adambard/learnxinyminutes-site",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/adambard/learnxinyminutes-site",
+  "languages_url": "https://api.github.com/repos/adambard/learnxinyminutes-site/languages",
+  "pulls_url": "https://api.github.com/repos/adambard/learnxinyminutes-site/pulls{/number}",
+  "created_at": "2013-09-14T21:12:30Z",
+  "updated_at": "2018-06-24T04:45:42Z",
+  "pushed_at": "2018-08-31T19:32:58Z",
+  "homepage": null,
+  "size": 73,
+  "stargazers_count": 14,
+  "language": "CSS",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "Dorian": 1,
+    "ksami": 1,
+    "crasm": 1,
+    "aybuke": 1,
+    "blacktoko": 1,
+    "matiasb": 1,
+    "evuez": 1,
+    "Ribeiro": 1,
+    "TheDmitry": 1,
+    "m90": 1,
+    "aloisdg": 1,
+    "vendethiel": 1,
+    "jsseb": 1,
+    "jackhooper": 1,
+    "vojtasvoboda": 2,
+    "tadityar": 2,
+    "assafgelber": 2,
+    "samcv": 3,
+    "adambard": 26
+  },
+  "pulls_authors": [
+    "divayprakash",
+    "Dorian",
+    "barryels",
+    "samcv",
+    "wipawan",
+    "ksami",
+    "crasm",
+    "walker-zheng",
+    "robinpokorny",
+    "aybuke",
+    "vojtasvoboda",
+    "blacktoko",
+    "matiasb",
+    "scheras",
+    "evuez",
+    "corpsee",
+    "tadityar",
+    "ghost",
+    "Ribeiro",
+    "m90",
+    "aloisdg",
+    "geoffliu",
+    "vendethiel",
+    "jsseb",
+    "assafgelber",
+    "jackhooper",
+    "benizi"
+  ],
+  "languages": {
+    "CSS": {
+      "bytes": 10949,
+      "color": "#563d7c"
+    },
+    "Ruby": {
+      "bytes": 10619,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 10218,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 2488,
+      "color": "#3572A5"
+    },
+    "CoffeeScript": {
+      "bytes": 246,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:19.868Z"
+}

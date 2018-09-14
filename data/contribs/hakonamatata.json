@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "MarkPieszak/aspnetcore-angular2-universal": {
+      "full_name": "MarkPieszak/aspnetcore-angular2-universal",
+      "name": "aspnetcore-angular2-universal",
+      "stargazers_count": 1237,
+      "popularity": 4.092092691916634,
+      "percentage": 3.672316384180791,
+      "maturity": 3.498803703319825,
+      "total_commits_count": 354,
+      "activity": 5,
+      "total_score": 26.227455157344103,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "sindresorhus/screenfull.js": {
+      "full_name": "sindresorhus/screenfull.js",
+      "name": "screenfull.js",
+      "stargazers_count": 4315,
+      "popularity": 4.634929295492179,
+      "percentage": 0,
+      "maturity": 2.9753241005322577,
+      "total_commits_count": 134,
+      "activity": 5,
+      "total_score": 24.85543608754105,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "Isdas/Space-Cowboys": {
+      "full_name": "Isdas/Space-Cowboys",
+      "name": "Space-Cowboys",
+      "stargazers_count": 3,
+      "popularity": 1.3222565221025262,
+      "percentage": 20.512820512820515,
+      "maturity": 0,
+      "total_commits_count": 39,
+      "activity": 0.987659182711301,
+      "total_score": 8.480446141292283,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "TwanoO67/bootstraping-ngx-admin-lte": {
+      "full_name": "TwanoO67/bootstraping-ngx-admin-lte",
+      "name": "bootstraping-ngx-admin-lte",
+      "stargazers_count": 452,
+      "popularity": 3.6543119070861882,
+      "percentage": 0,
+      "maturity": 3.119337688518808,
+      "total_commits_count": 171,
+      "activity": 5,
+      "total_score": 22.20161109829618,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "kanekin/SharedDesk": {
+      "full_name": "kanekin/SharedDesk",
+      "name": "SharedDesk",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 74.74048442906575,
+      "maturity": 3.3981093505004694,
+      "total_commits_count": 289,
+      "activity": 0.48679528358271185,
+      "total_score": 20.52608910613315,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

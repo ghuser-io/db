@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PropellerManager",
+  "full_name": "parallaxinc/PropellerManager",
+  "owner": "parallaxinc",
+  "private": false,
+  "html_url": "https://github.com/parallaxinc/PropellerManager",
+  "description": "An event-driven C++ API for Propeller devices",
+  "fork": false,
+  "url": "https://api.github.com/repos/parallaxinc/PropellerManager",
+  "languages_url": "https://api.github.com/repos/parallaxinc/PropellerManager/languages",
+  "pulls_url": "https://api.github.com/repos/parallaxinc/PropellerManager/pulls{/number}",
+  "created_at": "2015-03-20T13:13:59Z",
+  "updated_at": "2018-01-02T14:26:50Z",
+  "pushed_at": "2016-09-18T11:43:19Z",
+  "homepage": "",
+  "size": 7084,
+  "stargazers_count": 5,
+  "language": "Propeller Spin",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "parallaxinc",
+    "id": 1985825,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5ODU4MjU=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1985825?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/parallaxinc",
+    "html_url": "https://github.com/parallaxinc",
+    "followers_url": "https://api.github.com/users/parallaxinc/followers",
+    "following_url": "https://api.github.com/users/parallaxinc/following{/other_user}",
+    "gists_url": "https://api.github.com/users/parallaxinc/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/parallaxinc/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/parallaxinc/subscriptions",
+    "organizations_url": "https://api.github.com/users/parallaxinc/orgs",
+    "repos_url": "https://api.github.com/users/parallaxinc/repos",
+    "events_url": "https://api.github.com/users/parallaxinc/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/parallaxinc/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Gadgetoid": 2,
+    "bweir": 214
+  },
+  "pulls_authors": [
+    "bweir",
+    "Gadgetoid"
+  ],
+  "languages": {
+    "Propeller Spin": {
+      "bytes": 309374,
+      "color": "#7fa2a7"
+    },
+    "C++": {
+      "bytes": 75338,
+      "color": "#f34b7d"
+    },
+    "Objective-C": {
+      "bytes": 22558,
+      "color": "#438eff"
+    },
+    "QMake": {
+      "bytes": 2459,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 2184,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:13.940Z"
+}

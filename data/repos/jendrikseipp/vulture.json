@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vulture",
+  "full_name": "jendrikseipp/vulture",
+  "owner": "jendrikseipp",
+  "private": false,
+  "html_url": "https://github.com/jendrikseipp/vulture",
+  "description": "Find dead Python code",
+  "fork": false,
+  "url": "https://api.github.com/repos/jendrikseipp/vulture",
+  "languages_url": "https://api.github.com/repos/jendrikseipp/vulture/languages",
+  "pulls_url": "https://api.github.com/repos/jendrikseipp/vulture/pulls{/number}",
+  "created_at": "2017-03-06T08:00:18Z",
+  "updated_at": "2018-09-14T02:15:07Z",
+  "pushed_at": "2018-08-13T01:40:32Z",
+  "homepage": null,
+  "size": 444,
+  "stargazers_count": 331,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bassdread": 1,
+    "nalinbhardwaj": 1,
+    "johnyf": 1,
+    "roivanov": 1,
+    "jackric": 1,
+    "thisch": 1,
+    "t0m": 1,
+    "fcostin": 2,
+    "hugovk": 3,
+    "RJ722": 46,
+    "jendrikseipp": 420
+  },
+  "pulls_authors": [
+    "RJ722",
+    "bassdread",
+    "nalinbhardwaj",
+    "johnyf",
+    "hugovk",
+    "roivanov",
+    "jackric",
+    "Pacu2",
+    "jack17529",
+    "thisch"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 78663,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 669,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-14T08:36:26.728Z"
+}

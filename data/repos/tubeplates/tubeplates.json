@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tubeplates",
+  "full_name": "tubeplates/tubeplates",
+  "owner": "tubeplates",
+  "private": false,
+  "html_url": "https://github.com/tubeplates/tubeplates",
+  "description": "TubePlates is an app to listen to releases listed on Discogs easily using YouTube",
+  "fork": false,
+  "url": "https://api.github.com/repos/tubeplates/tubeplates",
+  "languages_url": "https://api.github.com/repos/tubeplates/tubeplates/languages",
+  "pulls_url": "https://api.github.com/repos/tubeplates/tubeplates/pulls{/number}",
+  "created_at": "2014-09-22T19:49:07Z",
+  "updated_at": "2018-08-12T07:38:38Z",
+  "pushed_at": "2018-07-11T18:06:24Z",
+  "homepage": null,
+  "size": 705,
+  "stargazers_count": 5,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "tubeplates",
+    "id": 7132643,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjcxMzI2NDM=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/7132643?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/tubeplates",
+    "html_url": "https://github.com/tubeplates",
+    "followers_url": "https://api.github.com/users/tubeplates/followers",
+    "following_url": "https://api.github.com/users/tubeplates/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tubeplates/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/tubeplates/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tubeplates/subscriptions",
+    "organizations_url": "https://api.github.com/users/tubeplates/orgs",
+    "repos_url": "https://api.github.com/users/tubeplates/repos",
+    "events_url": "https://api.github.com/users/tubeplates/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/tubeplates/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "hauxir": 29
+  },
+  "pulls_authors": [],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 44588,
+      "color": "#244776"
+    },
+    "HTML": {
+      "bytes": 16539,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 9288,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T17:10:00.408Z"
+}

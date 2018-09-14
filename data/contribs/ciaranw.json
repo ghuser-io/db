@@ -1,0 +1,138 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "mapbox/remark-react": {
+      "full_name": "mapbox/remark-react",
+      "name": "remark-react",
+      "stargazers_count": 273,
+      "popularity": 3.4347676160681306,
+      "percentage": 5.208333333333333,
+      "maturity": 2.750696090991644,
+      "total_commits_count": 96,
+      "activity": 1.5233715605170648,
+      "total_score": 19.65469049741754,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ciaranw/tapestry-service-cache": {
+      "full_name": "ciaranw/tapestry-service-cache",
+      "name": "tapestry-service-cache",
+      "stargazers_count": 8,
+      "popularity": 1.8512968868523627,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 40,
+      "activity": 0.22417955096380382,
+      "total_score": 29.844929740601607,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ciaranw/coffeescript-workshop": {
+      "full_name": "ciaranw/coffeescript-workshop",
+      "name": "coffeescript-workshop",
+      "stargazers_count": 5,
+      "popularity": 1.6128219920330789,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 4,
+      "activity": 0.22269169898237795,
+      "total_score": 26.02784357151164,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ciaranw/swfjs": {
+      "full_name": "ciaranw/swfjs",
+      "name": "swfjs",
+      "stargazers_count": 3,
+      "popularity": 1.3222565221025262,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 0.20881571379456343,
+      "total_score": 21.364920067434984,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ciaranw/vultan": {
+      "full_name": "ciaranw/vultan",
+      "name": "vultan",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 14,
+      "activity": 0.20881582138243893,
+      "total_score": 0.20881582138243893,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ciaranw/socket-io-presentation": {
+      "full_name": "ciaranw/socket-io-presentation",
+      "name": "socket-io-presentation",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 3,
+      "activity": 0.19796459197519134,
+      "total_score": 16.860816119062235,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ciaranw/node-chat-example": {
+      "full_name": "ciaranw/node-chat-example",
+      "name": "node-chat-example",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 1,
+      "activity": 0.17207625455134234,
+      "total_score": 16.834927781638385,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ciaranw/node-comet-client": {
+      "full_name": "ciaranw/node-comet-client",
+      "name": "node-comet-client",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 0.15195139610433994,
+      "total_score": 0.15195139610433994,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ciaranw/splib": {
+      "full_name": "ciaranw/splib",
+      "name": "splib",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 45.45454545454545,
+      "maturity": 0,
+      "total_commits_count": 11,
+      "activity": 0.17661077364097988,
+      "total_score": 0.17661077364097988,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "ciaranw/SWFREtools": {
+      "full_name": "ciaranw/SWFREtools",
+      "name": "SWFREtools",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 4.310344827586207,
+      "maturity": 2.883118698301688,
+      "total_commits_count": 116,
+      "activity": 0.1766107087923423,
+      "total_score": 5.9428481053957185,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": [
+    "mapbox"
+  ]
+}

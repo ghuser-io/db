@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PiGlow",
+  "full_name": "Gadgetoid/PiGlow",
+  "owner": "Gadgetoid",
+  "private": false,
+  "html_url": "https://github.com/Gadgetoid/PiGlow",
+  "description": "Controlling the PiGlow from Python",
+  "fork": true,
+  "url": "https://api.github.com/repos/Gadgetoid/PiGlow",
+  "languages_url": "https://api.github.com/repos/Gadgetoid/PiGlow/languages",
+  "pulls_url": "https://api.github.com/repos/Gadgetoid/PiGlow/pulls{/number}",
+  "created_at": "2015-02-10T20:12:47Z",
+  "updated_at": "2015-05-03T15:34:00Z",
+  "pushed_at": "2015-03-18T14:19:56Z",
+  "homepage": null,
+  "size": 1939,
+  "stargazers_count": 3,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "briansoule": 1,
+    "benleb": 1,
+    "Gadgetoid": 4,
+    "iiSeymour": 6,
+    "tommybobbins": 10,
+    "Boeeerb": 17
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 18158,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:16.589Z"
+}

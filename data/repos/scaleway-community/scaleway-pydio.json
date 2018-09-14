@@ -1,0 +1,78 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "scaleway-pydio",
+  "full_name": "scaleway-community/scaleway-pydio",
+  "owner": "scaleway-community",
+  "private": false,
+  "html_url": "https://github.com/scaleway-community/scaleway-pydio",
+  "description": ":minidisc: Official Pydio image on Scaleway",
+  "fork": false,
+  "url": "https://api.github.com/repos/scaleway-community/scaleway-pydio",
+  "languages_url": "https://api.github.com/repos/scaleway-community/scaleway-pydio/languages",
+  "pulls_url": "https://api.github.com/repos/scaleway-community/scaleway-pydio/pulls{/number}",
+  "created_at": "2014-12-03T20:30:03Z",
+  "updated_at": "2017-03-03T03:33:35Z",
+  "pushed_at": "2016-04-13T16:15:13Z",
+  "homepage": "https://www.scaleway.com/imagehub/pydio/",
+  "size": 66,
+  "stargazers_count": 3,
+  "language": "ApacheConf",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "scaleway-community",
+    "id": 14197047,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE0MTk3MDQ3",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/14197047?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/scaleway-community",
+    "html_url": "https://github.com/scaleway-community",
+    "followers_url": "https://api.github.com/users/scaleway-community/followers",
+    "following_url": "https://api.github.com/users/scaleway-community/following{/other_user}",
+    "gists_url": "https://api.github.com/users/scaleway-community/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/scaleway-community/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/scaleway-community/subscriptions",
+    "organizations_url": "https://api.github.com/users/scaleway-community/orgs",
+    "repos_url": "https://api.github.com/users/scaleway-community/repos",
+    "events_url": "https://api.github.com/users/scaleway-community/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/scaleway-community/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "edouardb": 1,
+    "QuentinPerez": 3,
+    "moul": 74
+  },
+  "pulls_authors": [
+    "moul",
+    "QuentinPerez"
+  ],
+  "languages": {
+    "ApacheConf": {
+      "bytes": 9361,
+      "color": "#ccc"
+    },
+    "PHP": {
+      "bytes": 2223,
+      "color": "#4F5D95"
+    },
+    "Shell": {
+      "bytes": 1485,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 570,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:06:58.947Z"
+}

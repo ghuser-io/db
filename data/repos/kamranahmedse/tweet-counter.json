@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tweet-counter",
+  "full_name": "kamranahmedse/tweet-counter",
+  "owner": "kamranahmedse",
+  "private": false,
+  "html_url": "https://github.com/kamranahmedse/tweet-counter",
+  "description": "Chrome Extension - Bring back the character counters in tweet boxes",
+  "fork": false,
+  "url": "https://api.github.com/repos/kamranahmedse/tweet-counter",
+  "languages_url": "https://api.github.com/repos/kamranahmedse/tweet-counter/languages",
+  "pulls_url": "https://api.github.com/repos/kamranahmedse/tweet-counter/pulls{/number}",
+  "created_at": "2017-11-08T21:15:37Z",
+  "updated_at": "2018-02-12T20:56:30Z",
+  "pushed_at": "2017-11-23T07:25:30Z",
+  "homepage": "https://goo.gl/7sxkCd",
+  "size": 54,
+  "stargazers_count": 16,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "anein": 1,
+    "kamranahmedse": 6
+  },
+  "pulls_authors": [
+    "anein"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 713,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:35:39.155Z"
+}

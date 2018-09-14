@@ -1,0 +1,63 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "perfect-graphql-starter",
+  "full_name": "credcollective/perfect-graphql-starter",
+  "owner": "credcollective",
+  "private": false,
+  "html_url": "https://github.com/credcollective/perfect-graphql-starter",
+  "description": "a boilerplate for your GraphQL server",
+  "fork": false,
+  "url": "https://api.github.com/repos/credcollective/perfect-graphql-starter",
+  "languages_url": "https://api.github.com/repos/credcollective/perfect-graphql-starter/languages",
+  "pulls_url": "https://api.github.com/repos/credcollective/perfect-graphql-starter/pulls{/number}",
+  "created_at": "2016-09-02T13:34:32Z",
+  "updated_at": "2018-07-13T08:16:26Z",
+  "pushed_at": "2016-09-09T08:34:59Z",
+  "homepage": "",
+  "size": 40,
+  "stargazers_count": 49,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "credcollective",
+    "id": 15685116,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE1Njg1MTE2",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/15685116?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/credcollective",
+    "html_url": "https://github.com/credcollective",
+    "followers_url": "https://api.github.com/users/credcollective/followers",
+    "following_url": "https://api.github.com/users/credcollective/following{/other_user}",
+    "gists_url": "https://api.github.com/users/credcollective/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/credcollective/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/credcollective/subscriptions",
+    "organizations_url": "https://api.github.com/users/credcollective/orgs",
+    "repos_url": "https://api.github.com/users/credcollective/repos",
+    "events_url": "https://api.github.com/users/credcollective/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/credcollective/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "zvictor": 28
+  },
+  "pulls_authors": [
+    "zvictor"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 6632,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T23:13:24.147Z"
+}

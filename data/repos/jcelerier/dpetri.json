@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dpetri",
+  "full_name": "jcelerier/dpetri",
+  "owner": "jcelerier",
+  "private": false,
+  "html_url": "https://github.com/jcelerier/dpetri",
+  "description": "A tool to simulate the execution of a Petri Net over a network.",
+  "fork": false,
+  "url": "https://api.github.com/repos/jcelerier/dpetri",
+  "languages_url": "https://api.github.com/repos/jcelerier/dpetri/languages",
+  "pulls_url": "https://api.github.com/repos/jcelerier/dpetri/pulls{/number}",
+  "created_at": "2014-02-14T17:25:05Z",
+  "updated_at": "2017-06-13T14:23:22Z",
+  "pushed_at": "2014-06-23T17:01:31Z",
+  "homepage": null,
+  "size": 464,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 2
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 90001,
+      "color": "#f34b7d"
+    },
+    "IDL": {
+      "bytes": 4807,
+      "color": "#a3522f"
+    },
+    "C": {
+      "bytes": 3938,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:58.866Z"
+}

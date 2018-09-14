@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bibutils-archive",
+  "full_name": "jayvdb/bibutils-archive",
+  "owner": "jayvdb",
+  "private": false,
+  "html_url": "https://github.com/jayvdb/bibutils-archive",
+  "description": "All online archives of https://sourceforge.net/projects/bibutils/ merged into a single repo",
+  "fork": false,
+  "url": "https://api.github.com/repos/jayvdb/bibutils-archive",
+  "languages_url": "https://api.github.com/repos/jayvdb/bibutils-archive/languages",
+  "pulls_url": "https://api.github.com/repos/jayvdb/bibutils-archive/pulls{/number}",
+  "created_at": "2016-02-13T09:47:24Z",
+  "updated_at": "2017-12-04T18:06:06Z",
+  "pushed_at": "2016-02-13T09:48:10Z",
+  "homepage": null,
+  "size": 1665,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jayvdb": 2,
+    "cdputnam": 43
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 3062503,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 3485,
+      "color": "#89e051"
+    },
+    "C++": {
+      "bytes": 1543,
+      "color": "#f34b7d"
+    }
+  },
+  "fetched_at": "2018-08-13T13:13:40.598Z"
+}

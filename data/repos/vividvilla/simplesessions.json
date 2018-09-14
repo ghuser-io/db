@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "simplesessions",
+  "full_name": "vividvilla/simplesessions",
+  "owner": "vividvilla",
+  "private": false,
+  "html_url": "https://github.com/vividvilla/simplesessions",
+  "description": "simplesessions is a \"pure\" Go session library that is completely agnostic of HTTP libraries and frameworks, backend stores, and even cookie jars.",
+  "fork": false,
+  "url": "https://api.github.com/repos/vividvilla/simplesessions",
+  "languages_url": "https://api.github.com/repos/vividvilla/simplesessions/languages",
+  "pulls_url": "https://api.github.com/repos/vividvilla/simplesessions/pulls{/number}",
+  "created_at": "2018-08-02T06:11:01Z",
+  "updated_at": "2018-09-06T21:56:43Z",
+  "pushed_at": "2018-09-05T12:41:36Z",
+  "homepage": "https://godoc.org/github.com/vividvilla/simplesessions",
+  "size": 92,
+  "stargazers_count": 20,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "joeirimpan": 1,
+    "knadh": 1,
+    "vividvilla": 35
+  },
+  "pulls_authors": [
+    "vividvilla",
+    "joeirimpan",
+    "knadh"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 94423,
+      "color": "#375eab"
+    },
+    "AMPL": {
+      "bytes": 540,
+      "color": "#E6EFBB"
+    }
+  },
+  "fetched_at": "2018-09-14T00:19:14.837Z"
+}

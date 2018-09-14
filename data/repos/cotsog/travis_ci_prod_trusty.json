@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "travis_ci_prod_trusty",
+  "full_name": "cotsog/travis_ci_prod_trusty",
+  "owner": "cotsog",
+  "private": false,
+  "html_url": "https://github.com/cotsog/travis_ci_prod_trusty",
+  "description": null,
+  "fork": false,
+  "url": "https://api.github.com/repos/cotsog/travis_ci_prod_trusty",
+  "languages_url": "https://api.github.com/repos/cotsog/travis_ci_prod_trusty/languages",
+  "pulls_url": "https://api.github.com/repos/cotsog/travis_ci_prod_trusty/pulls{/number}",
+  "created_at": "2015-07-29T18:17:20Z",
+  "updated_at": "2018-07-07T23:28:49Z",
+  "pushed_at": "2017-02-20T19:03:38Z",
+  "homepage": null,
+  "size": 96,
+  "stargazers_count": 4,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "cotsog": 286
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 264,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 40,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T17:08:26.376Z"
+}

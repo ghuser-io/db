@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-telegram-api",
+  "full_name": "mdibaiee/node-telegram-api",
+  "owner": "mdibaiee",
+  "private": false,
+  "html_url": "https://github.com/mdibaiee/node-telegram-api",
+  "description": "A simple API to create and control Telegram bots",
+  "fork": false,
+  "url": "https://api.github.com/repos/mdibaiee/node-telegram-api",
+  "languages_url": "https://api.github.com/repos/mdibaiee/node-telegram-api/languages",
+  "pulls_url": "https://api.github.com/repos/mdibaiee/node-telegram-api/pulls{/number}",
+  "created_at": "2015-06-25T22:34:01Z",
+  "updated_at": "2018-04-20T11:34:15Z",
+  "pushed_at": "2018-04-20T11:34:13Z",
+  "homepage": "",
+  "size": 2823,
+  "stargazers_count": 110,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "eden-lane": 1,
+    "axfree": 1,
+    "ryush00": 1,
+    "austinhuang0131": 3,
+    "laurynas-karvelis": 11,
+    "amovah": 13,
+    "mdibaiee": 94
+  },
+  "pulls_authors": [
+    "laurynas-karvelis",
+    "amovah",
+    "austinhuang0131",
+    "eden-lane",
+    "axfree",
+    "ryush00",
+    "mamal72"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 31580,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T07:36:37.843Z"
+}

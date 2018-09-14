@@ -1,0 +1,68 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Laravel-GitHub",
+  "full_name": "GrahamCampbell/Laravel-GitHub",
+  "owner": "GrahamCampbell",
+  "private": false,
+  "html_url": "https://github.com/GrahamCampbell/Laravel-GitHub",
+  "description": "A GitHub bridge for Laravel 5",
+  "fork": false,
+  "url": "https://api.github.com/repos/GrahamCampbell/Laravel-GitHub",
+  "languages_url": "https://api.github.com/repos/GrahamCampbell/Laravel-GitHub/languages",
+  "pulls_url": "https://api.github.com/repos/GrahamCampbell/Laravel-GitHub/pulls{/number}",
+  "created_at": "2014-07-26T14:55:40Z",
+  "updated_at": "2018-09-08T08:50:52Z",
+  "pushed_at": "2018-09-04T08:46:19Z",
+  "homepage": "https://gjcampbell.co.uk/",
+  "size": 220,
+  "stargazers_count": 283,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "PoLaKoSz": 1,
+    "diegohq": 1,
+    "lucasmichot": 1,
+    "driesvints": 1,
+    "jbrooksuk": 1,
+    "jrean": 1,
+    "GrahamCampbell": 242
+  },
+  "pulls_authors": [
+    "m1guelpf",
+    "PoLaKoSz",
+    "R3VoLuT1OneR",
+    "irazasyed",
+    "diegohq",
+    "GrahamCampbell",
+    "ghost",
+    "lucasmichot",
+    "ahuggins",
+    "driesvints",
+    "ammezie",
+    "njames",
+    "freekmurze",
+    "jbrooksuk",
+    "mabasic",
+    "amahrt",
+    "jrean",
+    "ucirello",
+    "mtdavidson",
+    "nWidart"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 48476,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:49.031Z"
+}

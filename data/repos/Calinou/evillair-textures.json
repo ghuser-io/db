@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "contributors": {
+    "Calinou": 1
+  },
+  "name": "evillair-textures",
+  "full_name": "Calinou/evillair-textures",
+  "owner": "Calinou",
+  "private": false,
+  "html_url": "https://github.com/Calinou/evillair-textures",
+  "description": "Free, libre Yves Allaire textures",
+  "fork": false,
+  "url": "https://api.github.com/repos/Calinou/evillair-textures",
+  "languages_url": "https://api.github.com/repos/Calinou/evillair-textures/languages",
+  "created_at": "2015-06-08T17:36:02Z",
+  "updated_at": "2016-01-28T11:27:28Z",
+  "pushed_at": "2015-06-08T17:48:44Z",
+  "homepage": null,
+  "size": 59308,
+  "stargazers_count": 2,
+  "language": "GLSL",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "languages": {
+    "GLSL": {
+      "bytes": 76598,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-07-20T05:20:21.309Z",
+  "pulls_url": "https://api.github.com/repos/Calinou/evillair-textures/pulls{/number}",
+  "pulls_authors": []
+}

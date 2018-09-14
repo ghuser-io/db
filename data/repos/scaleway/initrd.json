@@ -1,0 +1,107 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "initrd",
+  "full_name": "scaleway/initrd",
+  "owner": "scaleway",
+  "private": false,
+  "html_url": "https://github.com/scaleway/initrd",
+  "description": ":wrench: Initrd builder with qemu nbd metadata for Scaleway boot (armhf + x86_64)",
+  "fork": false,
+  "url": "https://api.github.com/repos/scaleway/initrd",
+  "languages_url": "https://api.github.com/repos/scaleway/initrd/languages",
+  "pulls_url": "https://api.github.com/repos/scaleway/initrd/pulls{/number}",
+  "created_at": "2014-12-04T09:56:07Z",
+  "updated_at": "2018-09-09T22:42:17Z",
+  "pushed_at": "2018-07-23T13:51:58Z",
+  "homepage": "https://www.scaleway.com/docs",
+  "size": 45179,
+  "stargazers_count": 31,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "scaleway",
+    "id": 5185491,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjUxODU0OTE=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/5185491?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/scaleway",
+    "html_url": "https://github.com/scaleway",
+    "followers_url": "https://api.github.com/users/scaleway/followers",
+    "following_url": "https://api.github.com/users/scaleway/following{/other_user}",
+    "gists_url": "https://api.github.com/users/scaleway/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/scaleway/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/scaleway/subscriptions",
+    "organizations_url": "https://api.github.com/users/scaleway/orgs",
+    "repos_url": "https://api.github.com/users/scaleway/repos",
+    "events_url": "https://api.github.com/users/scaleway/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/scaleway/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Hatrix42": 1,
+    "leonelwilliams": 1,
+    "nlm": 1,
+    "brmzkw": 1,
+    "meyskens": 1,
+    "stuffo": 1,
+    "Firefishy": 2,
+    "ElNounch": 6,
+    "aimxhaisse": 10,
+    "tbillon": 16,
+    "QuentinPerez": 27,
+    "superseed": 40,
+    "moul": 331
+  },
+  "pulls_authors": [
+    "superseed",
+    "sieben",
+    "Hatrix42",
+    "Xiretza",
+    "steigr",
+    "tbillon",
+    "leonelwilliams",
+    "nlm",
+    "QuentinPerez",
+    "brmzkw",
+    "meyskens",
+    "stuffo",
+    "Firefishy",
+    "moul",
+    "ElNounch",
+    "boris-arzur",
+    "aimxhaisse"
+  ],
+  "languages": {
+    "Shell": {
+      "bytes": 59746,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 25721,
+      "color": "#427819"
+    },
+    "C": {
+      "bytes": 21418,
+      "color": "#555555"
+    },
+    "Python": {
+      "bytes": 1991,
+      "color": "#3572A5"
+    },
+    "Perl": {
+      "bytes": 1606,
+      "color": "#0298c3"
+    }
+  },
+  "fetched_at": "2018-09-09T22:43:25.111Z"
+}

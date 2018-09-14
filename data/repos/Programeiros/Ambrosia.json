@@ -1,0 +1,72 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Ambrosia",
+  "full_name": "Programeiros/Ambrosia",
+  "owner": "Programeiros",
+  "private": false,
+  "html_url": "https://github.com/Programeiros/Ambrosia",
+  "description": "A bootable pendriver maker for elementary os, brough for you by Programeiros.",
+  "fork": false,
+  "url": "https://api.github.com/repos/Programeiros/Ambrosia",
+  "languages_url": "https://api.github.com/repos/Programeiros/Ambrosia/languages",
+  "pulls_url": "https://api.github.com/repos/Programeiros/Ambrosia/pulls{/number}",
+  "created_at": "2017-01-30T21:34:40Z",
+  "updated_at": "2017-09-28T01:02:50Z",
+  "pushed_at": "2017-10-30T21:25:47Z",
+  "homepage": null,
+  "size": 48,
+  "stargazers_count": 5,
+  "language": "CMake",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "Programeiros",
+    "id": 22352431,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIyMzUyNDMx",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/22352431?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/Programeiros",
+    "html_url": "https://github.com/Programeiros",
+    "followers_url": "https://api.github.com/users/Programeiros/followers",
+    "following_url": "https://api.github.com/users/Programeiros/following{/other_user}",
+    "gists_url": "https://api.github.com/users/Programeiros/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/Programeiros/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/Programeiros/subscriptions",
+    "organizations_url": "https://api.github.com/users/Programeiros/orgs",
+    "repos_url": "https://api.github.com/users/Programeiros/repos",
+    "events_url": "https://api.github.com/users/Programeiros/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/Programeiros/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "viniciusarre": 1,
+    "TiagoDanin": 1,
+    "dansenpir": 1,
+    "HarunoKenobi": 7,
+    "naaando": 46
+  },
+  "pulls_authors": [
+    "TiagoDanin",
+    "naaando"
+  ],
+  "languages": {
+    "CMake": {
+      "bytes": 33251,
+      "color": "#ccc"
+    },
+    "Vala": {
+      "bytes": 1011,
+      "color": "#fbe5cd"
+    }
+  },
+  "fetched_at": "2018-08-12T17:48:20.581Z"
+}

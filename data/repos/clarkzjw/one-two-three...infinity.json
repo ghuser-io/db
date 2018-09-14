@@ -1,0 +1,172 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "one-two-three...infinity",
+  "full_name": "clarkzjw/one-two-three...infinity",
+  "owner": "clarkzjw",
+  "private": false,
+  "html_url": "https://github.com/clarkzjw/one-two-three...infinity",
+  "description": ":straight_ruler: Calculating the sum from one to a billion in different programming languages, inspired by https://github.com/leachim6/hello-world",
+  "fork": false,
+  "url": "https://api.github.com/repos/clarkzjw/one-two-three...infinity",
+  "languages_url": "https://api.github.com/repos/clarkzjw/one-two-three...infinity/languages",
+  "pulls_url": "https://api.github.com/repos/clarkzjw/one-two-three...infinity/pulls{/number}",
+  "created_at": "2014-12-01T11:51:51Z",
+  "updated_at": "2018-07-13T16:24:30Z",
+  "pushed_at": "2018-07-13T16:23:42Z",
+  "homepage": "",
+  "size": 37,
+  "stargazers_count": 8,
+  "language": "Cuda",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "brackendev": 1,
+    "technion": 1,
+    "jbret": 1,
+    "svip": 1,
+    "aloisdg": 1,
+    "Eckankar": 1,
+    "luoxufeiyan": 1,
+    "bitdeli-chef": 1,
+    "Czocher": 2,
+    "wRadion": 2,
+    "rjalfa": 2,
+    "bacondropped": 2,
+    "LegionMammal978": 3,
+    "athas": 5,
+    "chaosink": 5,
+    "clarkzjw": 41
+  },
+  "pulls_authors": [
+    "brackendev",
+    "athas",
+    "technion",
+    "Czocher",
+    "jbret",
+    "svip",
+    "aloisdg",
+    "Eckankar",
+    "wRadion",
+    "rjalfa",
+    "ntoonio",
+    "luoxufeiyan",
+    "LegionMammal978",
+    "sn0w",
+    "bitdeli-chef",
+    "bacondropped",
+    "chaosink"
+  ],
+  "languages": {
+    "Cuda": {
+      "bytes": 387,
+      "color": "#3A4E3A"
+    },
+    "C#": {
+      "bytes": 316,
+      "color": "#178600"
+    },
+    "Java": {
+      "bytes": 291,
+      "color": "#b07219"
+    },
+    "Kotlin": {
+      "bytes": 289,
+      "color": "#F18E33"
+    },
+    "Erlang": {
+      "bytes": 264,
+      "color": "#B83998"
+    },
+    "C++": {
+      "bytes": 222,
+      "color": "#f34b7d"
+    },
+    "Swift": {
+      "bytes": 170,
+      "color": "#ffac45"
+    },
+    "Fortran": {
+      "bytes": 159,
+      "color": "#4d41b1"
+    },
+    "C": {
+      "bytes": 144,
+      "color": "#555555"
+    },
+    "Go": {
+      "bytes": 143,
+      "color": "#375eab"
+    },
+    "Pascal": {
+      "bytes": 141,
+      "color": "#E3F171"
+    },
+    "Rust": {
+      "bytes": 112,
+      "color": "#dea584"
+    },
+    "Common Lisp": {
+      "bytes": 103,
+      "color": "#3fb68b"
+    },
+    "Perl": {
+      "bytes": 103,
+      "color": "#0298c3"
+    },
+    "Standard ML": {
+      "bytes": 99,
+      "color": "#dc566d"
+    },
+    "Scala": {
+      "bytes": 99,
+      "color": "#c22d40"
+    },
+    "Shell": {
+      "bytes": 93,
+      "color": "#89e051"
+    },
+    "Haskell": {
+      "bytes": 80,
+      "color": "#5e5086"
+    },
+    "JavaScript": {
+      "bytes": 78,
+      "color": "#f1e05a"
+    },
+    "Smalltalk": {
+      "bytes": 78,
+      "color": "#596706"
+    },
+    "PHP": {
+      "bytes": 76,
+      "color": "#4F5D95"
+    },
+    "Mathematica": {
+      "bytes": 59,
+      "color": "#ccc"
+    },
+    "Julia": {
+      "bytes": 58,
+      "color": "#a270ba"
+    },
+    "APL": {
+      "bytes": 55,
+      "color": "#5A8164"
+    },
+    "Ruby": {
+      "bytes": 51,
+      "color": "#701516"
+    },
+    "Python": {
+      "bytes": 49,
+      "color": "#3572A5"
+    },
+    "Rebol": {
+      "bytes": 31,
+      "color": "#358a5b"
+    }
+  },
+  "fetched_at": "2018-08-23T12:44:40.899Z"
+}

@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pneumatic",
+  "full_name": "amitness/pneumatic",
+  "owner": "amitness",
+  "private": false,
+  "html_url": "https://github.com/amitness/pneumatic",
+  "description": "Minimalistic, responsive Pelican theme.",
+  "fork": true,
+  "url": "https://api.github.com/repos/amitness/pneumatic",
+  "languages_url": "https://api.github.com/repos/amitness/pneumatic/languages",
+  "pulls_url": "https://api.github.com/repos/amitness/pneumatic/pulls{/number}",
+  "created_at": "2017-09-09T07:52:51Z",
+  "updated_at": "2017-09-30T18:32:20Z",
+  "pushed_at": "2017-09-25T04:31:12Z",
+  "homepage": "",
+  "size": 3908,
+  "stargazers_count": 1,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "amitness": 9,
+    "iKevinY": 84
+  },
+  "pulls_authors": [],
+  "languages": {
+    "HTML": {
+      "bytes": 10815,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 10400,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:34.791Z"
+}

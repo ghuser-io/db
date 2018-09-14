@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "classiphy",
+  "full_name": "brucehsu/classiphy",
+  "owner": "brucehsu",
+  "private": false,
+  "html_url": "https://github.com/brucehsu/classiphy",
+  "description": "A photo classifying software.",
+  "fork": false,
+  "url": "https://api.github.com/repos/brucehsu/classiphy",
+  "languages_url": "https://api.github.com/repos/brucehsu/classiphy/languages",
+  "pulls_url": "https://api.github.com/repos/brucehsu/classiphy/pulls{/number}",
+  "created_at": "2009-02-01T09:17:46Z",
+  "updated_at": "2016-05-09T00:37:09Z",
+  "pushed_at": "2013-12-17T11:43:16Z",
+  "homepage": "https://github.com/brucehsu/classiphy/wiki/",
+  "size": 668,
+  "stargazers_count": 3,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "brucehsu": 48
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 56233,
+      "color": "#f34b7d"
+    },
+    "TypeScript": {
+      "bytes": 9388,
+      "color": "#2b7489"
+    },
+    "Prolog": {
+      "bytes": 1139,
+      "color": "#74283c"
+    }
+  },
+  "fetched_at": "2018-09-12T04:58:06.820Z"
+}

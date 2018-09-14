@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "web-archiver",
+  "full_name": "schollz/web-archiver",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/web-archiver",
+  "description": "A tiny Python clone of https://archive.org/web/ for your own personal websites.",
+  "fork": false,
+  "url": "https://api.github.com/repos/schollz/web-archiver",
+  "languages_url": "https://api.github.com/repos/schollz/web-archiver/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/web-archiver/pulls{/number}",
+  "created_at": "2015-08-24T12:16:54Z",
+  "updated_at": "2016-08-29T09:54:03Z",
+  "pushed_at": "2015-08-24T20:15:34Z",
+  "homepage": null,
+  "size": 136,
+  "stargazers_count": 1,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schollz": 11
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Python": {
+      "bytes": 1266,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:49.985Z"
+}

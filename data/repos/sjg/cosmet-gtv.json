@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "cosmet-gtv",
+  "full_name": "sjg/cosmet-gtv",
+  "owner": "sjg",
+  "private": false,
+  "html_url": "https://github.com/sjg/cosmet-gtv",
+  "description": "Cosmet Viewer for GoogleTV",
+  "fork": false,
+  "url": "https://api.github.com/repos/sjg/cosmet-gtv",
+  "languages_url": "https://api.github.com/repos/sjg/cosmet-gtv/languages",
+  "pulls_url": "https://api.github.com/repos/sjg/cosmet-gtv/pulls{/number}",
+  "created_at": "2012-07-06T20:38:43Z",
+  "updated_at": "2014-05-04T09:32:11Z",
+  "pushed_at": "2012-07-08T16:06:12Z",
+  "homepage": null,
+  "size": 485,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "sjg": 6,
+    "morimekta": 18
+  },
+  "pulls_authors": [
+    "morimekta"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 1735,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:40.538Z"
+}

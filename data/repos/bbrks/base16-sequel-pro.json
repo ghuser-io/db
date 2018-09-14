@@ -1,0 +1,30 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "base16-sequel-pro",
+  "full_name": "bbrks/base16-sequel-pro",
+  "owner": "bbrks",
+  "private": false,
+  "html_url": "https://github.com/bbrks/base16-sequel-pro",
+  "description": "💻 Base16 for Sequel Pro https://github.com/chriskempson/base16",
+  "fork": false,
+  "url": "https://api.github.com/repos/bbrks/base16-sequel-pro",
+  "languages_url": "https://api.github.com/repos/bbrks/base16-sequel-pro/languages",
+  "pulls_url": "https://api.github.com/repos/bbrks/base16-sequel-pro/pulls{/number}",
+  "created_at": "2015-10-02T20:52:55Z",
+  "updated_at": "2017-06-14T16:55:09Z",
+  "pushed_at": "2015-10-03T00:29:51Z",
+  "homepage": "",
+  "size": 160,
+  "stargazers_count": 1,
+  "language": null,
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "bbrks": 6
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-12T04:57:39.607Z"
+}

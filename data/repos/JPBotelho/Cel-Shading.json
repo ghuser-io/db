@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Cel-Shading",
+  "full_name": "JPBotelho/Cel-Shading",
+  "owner": "JPBotelho",
+  "private": false,
+  "html_url": "https://github.com/JPBotelho/Cel-Shading",
+  "description": "Solid cel shader based on ShaderX3.",
+  "fork": false,
+  "url": "https://api.github.com/repos/JPBotelho/Cel-Shading",
+  "languages_url": "https://api.github.com/repos/JPBotelho/Cel-Shading/languages",
+  "pulls_url": "https://api.github.com/repos/JPBotelho/Cel-Shading/pulls{/number}",
+  "created_at": "2018-03-19T21:18:01Z",
+  "updated_at": "2018-05-13T13:51:17Z",
+  "pushed_at": "2018-05-13T13:51:16Z",
+  "homepage": null,
+  "size": 36,
+  "stargazers_count": 7,
+  "language": "ShaderLab",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "JPBotelho": 7
+  },
+  "pulls_authors": [],
+  "languages": {
+    "ShaderLab": {
+      "bytes": 3311,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-08-17T14:57:54.337Z"
+}

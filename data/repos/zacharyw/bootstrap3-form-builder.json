@@ -1,0 +1,56 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "bootstrap3-form-builder",
+  "full_name": "zacharyw/bootstrap3-form-builder",
+  "owner": "zacharyw",
+  "private": false,
+  "html_url": "https://github.com/zacharyw/bootstrap3-form-builder",
+  "description": "Rails form builder that uses Bootstrap 3 markup.",
+  "fork": false,
+  "url": "https://api.github.com/repos/zacharyw/bootstrap3-form-builder",
+  "languages_url": "https://api.github.com/repos/zacharyw/bootstrap3-form-builder/languages",
+  "pulls_url": "https://api.github.com/repos/zacharyw/bootstrap3-form-builder/pulls{/number}",
+  "created_at": "2015-02-13T15:23:03Z",
+  "updated_at": "2017-03-15T13:32:07Z",
+  "pushed_at": "2016-05-25T02:10:11Z",
+  "homepage": null,
+  "size": 66,
+  "stargazers_count": 3,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ccallebs": 1,
+    "zacharyw": 13
+  },
+  "pulls_authors": [
+    "ccallebs"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 38787,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 5570,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 686,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 602,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T04:59:05.243Z"
+}

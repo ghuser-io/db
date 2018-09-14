@@ -1,0 +1,52 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "shawty",
+  "full_name": "snluu/shawty",
+  "owner": "snluu",
+  "private": false,
+  "html_url": "https://github.com/snluu/shawty",
+  "description": "A URL shortener writen in Go (golang).",
+  "fork": false,
+  "url": "https://api.github.com/repos/snluu/shawty",
+  "languages_url": "https://api.github.com/repos/snluu/shawty/languages",
+  "pulls_url": "https://api.github.com/repos/snluu/shawty/pulls{/number}",
+  "created_at": "2012-10-06T09:36:52Z",
+  "updated_at": "2017-01-03T12:36:26Z",
+  "pushed_at": "2013-05-03T05:50:04Z",
+  "homepage": "http://luu.bz",
+  "size": 606,
+  "stargazers_count": 40,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "laurent22": 1,
+    "abrutus": 1,
+    "julienschmidt": 2,
+    "snluu": 104
+  },
+  "pulls_authors": [
+    "imdario",
+    "laurent22",
+    "julienschmidt",
+    "jnlopar",
+    "snluu"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 30381,
+      "color": "#375eab"
+    },
+    "JavaScript": {
+      "bytes": 1141,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 126,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T20:48:12.174Z"
+}

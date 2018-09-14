@@ -1,0 +1,123 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "etengine",
+  "full_name": "quintel/etengine",
+  "owner": "quintel",
+  "private": false,
+  "html_url": "https://github.com/quintel/etengine",
+  "description": "Calculation engine for etmodel PRO, etmodel LIGHT and Energymixer. ",
+  "fork": false,
+  "url": "https://api.github.com/repos/quintel/etengine",
+  "languages_url": "https://api.github.com/repos/quintel/etengine/languages",
+  "pulls_url": "https://api.github.com/repos/quintel/etengine/pulls{/number}",
+  "created_at": "2011-05-03T08:55:40Z",
+  "updated_at": "2018-09-13T10:30:32Z",
+  "pushed_at": "2018-09-13T10:30:31Z",
+  "homepage": "http://et-engine.com",
+  "size": 16888,
+  "stargazers_count": 10,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "quintel",
+    "id": 2242291,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIyNDIyOTE=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2242291?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/quintel",
+    "html_url": "https://github.com/quintel",
+    "followers_url": "https://api.github.com/users/quintel/followers",
+    "following_url": "https://api.github.com/users/quintel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/quintel/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/quintel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/quintel/subscriptions",
+    "organizations_url": "https://api.github.com/users/quintel/orgs",
+    "repos_url": "https://api.github.com/users/quintel/repos",
+    "events_url": "https://api.github.com/users/quintel/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/quintel/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "MartLubben": 1,
+    "nairnamratha": 1,
+    "AlexanderWirtz": 1,
+    "StijnDellaert": 1,
+    "jastix": 1,
+    "WvanLelyveld": 1,
+    "Richard-Deuchler": 2,
+    "markquintel": 2,
+    "JonasVoorzanger": 3,
+    "ploh": 4,
+    "michieldenhaan": 5,
+    "cjlaumans": 5,
+    "DorinevanderVlies": 6,
+    "wouterterlouw": 7,
+    "fvancamp": 9,
+    "jessekerkhoven": 14,
+    "andremedeiros": 14,
+    "marliekeverweij": 19,
+    "RobTerwel": 26,
+    "jorisberkhout": 29,
+    "wmeyers": 57,
+    "ChaelKruip": 137,
+    "dennisschoenmakers": 137,
+    "antw": 857,
+    "pzac": 887,
+    "hasclass": 1213
+  },
+  "pulls_authors": [
+    "jorisberkhout",
+    "michieldenhaan",
+    "antw",
+    "marliekeverweij",
+    "grdw",
+    "ChaelKruip",
+    "MartLubben",
+    "nairnamratha",
+    "DorinevanderVlies",
+    "ploh",
+    "RobTerwel",
+    "twilkinson573",
+    "dennisschoenmakers",
+    "wouterterlouw",
+    "JonasVoorzanger",
+    "AlexanderWirtz",
+    "fvancamp",
+    "Richard-Deuchler",
+    "wmeyers",
+    "andremedeiros"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 1008237,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 76016,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 15149,
+      "color": "#563d7c"
+    },
+    "CoffeeScript": {
+      "bytes": 10517,
+      "color": "#244776"
+    },
+    "JavaScript": {
+      "bytes": 3750,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-13T16:23:33.649Z"
+}

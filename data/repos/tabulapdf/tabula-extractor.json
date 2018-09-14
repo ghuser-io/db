@@ -1,0 +1,85 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tabula-extractor",
+  "full_name": "tabulapdf/tabula-extractor",
+  "owner": "tabulapdf",
+  "private": false,
+  "html_url": "https://github.com/tabulapdf/tabula-extractor",
+  "description": "Extract tables from PDF files",
+  "fork": false,
+  "url": "https://api.github.com/repos/tabulapdf/tabula-extractor",
+  "languages_url": "https://api.github.com/repos/tabulapdf/tabula-extractor/languages",
+  "pulls_url": "https://api.github.com/repos/tabulapdf/tabula-extractor/pulls{/number}",
+  "created_at": "2013-05-08T01:16:42Z",
+  "updated_at": "2018-09-13T19:33:11Z",
+  "pushed_at": "2016-05-17T01:26:34Z",
+  "homepage": null,
+  "size": 66563,
+  "stargazers_count": 292,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "tabulapdf",
+    "id": 8267906,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjgyNjc5MDY=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/8267906?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/tabulapdf",
+    "html_url": "https://github.com/tabulapdf",
+    "followers_url": "https://api.github.com/users/tabulapdf/followers",
+    "following_url": "https://api.github.com/users/tabulapdf/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tabulapdf/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/tabulapdf/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tabulapdf/subscriptions",
+    "organizations_url": "https://api.github.com/users/tabulapdf/orgs",
+    "repos_url": "https://api.github.com/users/tabulapdf/repos",
+    "events_url": "https://api.github.com/users/tabulapdf/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/tabulapdf/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "lukehsiao": 1,
+    "tsibley": 1,
+    "laidig": 1,
+    "soupgrey": 1,
+    "clkao": 1,
+    "sxren": 2,
+    "peterschwarz": 3,
+    "mtigas": 10,
+    "jeremybmerrill": 118,
+    "jazzido": 396
+  },
+  "pulls_authors": [
+    "lukehsiao",
+    "jeremybmerrill",
+    "tsibley",
+    "sxren",
+    "bchartoff",
+    "laidig",
+    "peterschwarz",
+    "soupgrey",
+    "mtigas",
+    "clkao"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 59412,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 700,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-13T23:57:07.988Z"
+}

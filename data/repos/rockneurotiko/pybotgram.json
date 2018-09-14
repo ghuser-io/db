@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pybotgram",
+  "full_name": "rockneurotiko/pybotgram",
+  "owner": "rockneurotiko",
+  "private": false,
+  "html_url": "https://github.com/rockneurotiko/pybotgram",
+  "description": "A Telegram Bot writed in Python with plugins based in yagop's telegram-bot",
+  "fork": false,
+  "url": "https://api.github.com/repos/rockneurotiko/pybotgram",
+  "languages_url": "https://api.github.com/repos/rockneurotiko/pybotgram/languages",
+  "pulls_url": "https://api.github.com/repos/rockneurotiko/pybotgram/pulls{/number}",
+  "created_at": "2015-05-31T10:19:36Z",
+  "updated_at": "2018-06-05T22:46:55Z",
+  "pushed_at": "2015-09-23T21:49:17Z",
+  "homepage": "",
+  "size": 224,
+  "stargazers_count": 14,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "JuanPotato": 2,
+    "rockneurotiko": 34
+  },
+  "pulls_authors": [
+    "JuanPotato"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 51062,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 3288,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-18T09:21:49.393Z"
+}

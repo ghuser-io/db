@@ -1,0 +1,93 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "melange",
+  "full_name": "melange-app/melange",
+  "owner": "melange-app",
+  "private": false,
+  "html_url": "https://github.com/melange-app/melange",
+  "description": "The decentralized social network.",
+  "fork": false,
+  "url": "https://api.github.com/repos/melange-app/melange",
+  "languages_url": "https://api.github.com/repos/melange-app/melange/languages",
+  "pulls_url": "https://api.github.com/repos/melange-app/melange/pulls{/number}",
+  "created_at": "2013-11-26T14:31:02Z",
+  "updated_at": "2017-03-27T11:28:24Z",
+  "pushed_at": "2016-02-16T04:16:37Z",
+  "homepage": "getmelange.com",
+  "size": 3901,
+  "stargazers_count": 22,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "melange-app",
+    "id": 8104559,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjgxMDQ1NTk=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/8104559?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/melange-app",
+    "html_url": "https://github.com/melange-app",
+    "followers_url": "https://api.github.com/users/melange-app/followers",
+    "following_url": "https://api.github.com/users/melange-app/following{/other_user}",
+    "gists_url": "https://api.github.com/users/melange-app/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/melange-app/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/melange-app/subscriptions",
+    "organizations_url": "https://api.github.com/users/melange-app/orgs",
+    "repos_url": "https://api.github.com/users/melange-app/repos",
+    "events_url": "https://api.github.com/users/melange-app/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/melange-app/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "huntaub": 459
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 238580,
+      "color": "#375eab"
+    },
+    "JavaScript": {
+      "bytes": 89581,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 25065,
+      "color": "#563d7c"
+    },
+    "Objective-C": {
+      "bytes": 8816,
+      "color": "#438eff"
+    },
+    "Java": {
+      "bytes": 4837,
+      "color": "#b07219"
+    },
+    "HTML": {
+      "bytes": 4342,
+      "color": "#e34c26"
+    },
+    "Protocol Buffer": {
+      "bytes": 3847,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 3094,
+      "color": "#89e051"
+    },
+    "C": {
+      "bytes": 1346,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T15:44:38.435Z"
+}

@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "node-iptables",
+  "full_name": "pkrumins/node-iptables",
+  "owner": "pkrumins",
+  "private": false,
+  "html_url": "https://github.com/pkrumins/node-iptables",
+  "description": "basic iptables control via nodejs",
+  "fork": false,
+  "url": "https://api.github.com/repos/pkrumins/node-iptables",
+  "languages_url": "https://api.github.com/repos/pkrumins/node-iptables/languages",
+  "pulls_url": "https://api.github.com/repos/pkrumins/node-iptables/pulls{/number}",
+  "created_at": "2011-04-01T02:33:42Z",
+  "updated_at": "2018-08-16T18:12:22Z",
+  "pushed_at": "2018-01-06T18:14:14Z",
+  "homepage": "http://www.catonmat.net",
+  "size": 96,
+  "stargazers_count": 100,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "pkrumins": 16
+  },
+  "pulls_authors": [
+    "Falkyouall",
+    "Xsmael",
+    "meyskens"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 2616,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-11T20:50:28.127Z"
+}

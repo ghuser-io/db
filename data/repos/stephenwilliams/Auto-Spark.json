@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Auto-Spark",
+  "full_name": "stephenwilliams/Auto-Spark",
+  "owner": "stephenwilliams",
+  "private": false,
+  "html_url": "https://github.com/stephenwilliams/Auto-Spark",
+  "description": "Alternative way to use Spark",
+  "fork": false,
+  "url": "https://api.github.com/repos/stephenwilliams/Auto-Spark",
+  "languages_url": "https://api.github.com/repos/stephenwilliams/Auto-Spark/languages",
+  "pulls_url": "https://api.github.com/repos/stephenwilliams/Auto-Spark/pulls{/number}",
+  "created_at": "2015-06-22T05:17:52Z",
+  "updated_at": "2015-07-01T04:45:14Z",
+  "pushed_at": "2015-09-06T02:17:23Z",
+  "homepage": "http://alta189.github.io/Auto-Spark",
+  "size": 267,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "stephenwilliams": 33
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 48712,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:08.910Z"
+}

@@ -1,0 +1,46 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pyradio-nepal",
+  "full_name": "sandipbgt/pyradio-nepal",
+  "owner": "sandipbgt",
+  "private": false,
+  "html_url": "https://github.com/sandipbgt/pyradio-nepal",
+  "description": "Python library to listen radio stations of Nepal from terminal",
+  "fork": false,
+  "url": "https://api.github.com/repos/sandipbgt/pyradio-nepal",
+  "languages_url": "https://api.github.com/repos/sandipbgt/pyradio-nepal/languages",
+  "pulls_url": "https://api.github.com/repos/sandipbgt/pyradio-nepal/pulls{/number}",
+  "created_at": "2016-07-30T11:50:22Z",
+  "updated_at": "2016-08-05T04:17:28Z",
+  "pushed_at": "2016-08-02T16:54:12Z",
+  "homepage": "https://pypi.python.org/pypi/pyradio-nepal",
+  "size": 32,
+  "stargazers_count": 4,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "nabn": 2,
+    "sandipbgt": 8
+  },
+  "pulls_authors": [
+    "nabn",
+    "ln2khanal",
+    "amitness"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 9216,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-08-18T09:17:33.280Z"
+}

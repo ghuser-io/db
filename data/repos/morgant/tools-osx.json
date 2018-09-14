@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "tools-osx",
+  "full_name": "morgant/tools-osx",
+  "owner": "morgant",
+  "private": false,
+  "html_url": "https://github.com/morgant/tools-osx",
+  "description": "A small collection of command line tools for Mac OS X, incl.: clipcat, dict, eject, ql, swuser, trash & with.",
+  "fork": false,
+  "url": "https://api.github.com/repos/morgant/tools-osx",
+  "languages_url": "https://api.github.com/repos/morgant/tools-osx/languages",
+  "created_at": "2010-10-24T23:14:06Z",
+  "updated_at": "2018-09-09T22:11:54Z",
+  "pushed_at": "2018-04-03T15:41:11Z",
+  "homepage": "http://www.makkintosshu.com/development#tools-osx",
+  "size": 78,
+  "stargazers_count": 476,
+  "language": "Shell",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "alichtman": 1,
+    "mikebz": 1,
+    "mattbrictson": 1,
+    "dpk": 18,
+    "morgant": 81
+  },
+  "languages": {
+    "Shell": {
+      "bytes": 19962,
+      "color": "#89e051"
+    },
+    "Ruby": {
+      "bytes": 2659,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-09-09T22:38:48.206Z",
+  "pulls_url": "https://api.github.com/repos/morgant/tools-osx/pulls{/number}",
+  "pulls_authors": [
+    "alichtman",
+    "splorp",
+    "lucasem",
+    "int3h",
+    "badascii",
+    "huyz",
+    "kitak",
+    "alexreg",
+    "joshvoigts",
+    "cskeeters",
+    "mikebz",
+    "dpk",
+    "mattbrictson",
+    "tristan-k"
+  ]
+}

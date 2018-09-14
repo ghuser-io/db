@@ -1,0 +1,83 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "madhacks-webapp",
+  "full_name": "mad-hacks/madhacks-webapp",
+  "owner": "mad-hacks",
+  "private": false,
+  "html_url": "https://github.com/mad-hacks/madhacks-webapp",
+  "description": "A web app for madhacks community",
+  "fork": false,
+  "url": "https://api.github.com/repos/mad-hacks/madhacks-webapp",
+  "languages_url": "https://api.github.com/repos/mad-hacks/madhacks-webapp/languages",
+  "created_at": "2018-07-12T16:11:29Z",
+  "updated_at": "2018-08-13T17:33:44Z",
+  "pushed_at": "2018-08-13T15:35:57Z",
+  "homepage": null,
+  "size": 1582,
+  "stargazers_count": 2,
+  "language": "Vue",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "mad-hacks",
+    "id": 41163485,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQxMTYzNDg1",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/41163485?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/mad-hacks",
+    "html_url": "https://github.com/mad-hacks",
+    "followers_url": "https://api.github.com/users/mad-hacks/followers",
+    "following_url": "https://api.github.com/users/mad-hacks/following{/other_user}",
+    "gists_url": "https://api.github.com/users/mad-hacks/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/mad-hacks/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/mad-hacks/subscriptions",
+    "organizations_url": "https://api.github.com/users/mad-hacks/orgs",
+    "repos_url": "https://api.github.com/users/mad-hacks/repos",
+    "events_url": "https://api.github.com/users/mad-hacks/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/mad-hacks/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "ajomadlabs": 7,
+    "jamesgeorge007": 57,
+    "jamesjose03": 29,
+    "scriptonist": 1,
+    "alanmathew333": 3
+  },
+  "languages": {
+    "Vue": {
+      "bytes": 58551,
+      "color": "#2c3e50"
+    },
+    "CSS": {
+      "bytes": 44105,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 31003,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 2992,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 307,
+      "color": "#427819"
+    },
+    "Dockerfile": {
+      "bytes": 106,
+      "color": "#0db7ed"
+    }
+  },
+  "fetched_at": "2018-08-14T05:56:33.282Z",
+  "pulls_url": "https://api.github.com/repos/mad-hacks/madhacks-webapp/pulls{/number}",
+  "pulls_authors": [
+    "alanmathew333",
+    "jamesgeorge007",
+    "jamesjose03"
+  ]
+}

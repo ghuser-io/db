@@ -1,0 +1,65 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "shoulda-kept-respond-with-content-type",
+  "full_name": "tinfoil/shoulda-kept-respond-with-content-type",
+  "owner": "tinfoil",
+  "private": false,
+  "html_url": "https://github.com/tinfoil/shoulda-kept-respond-with-content-type",
+  "description": "We miss the respond_with_content_type matcher in shoulda-matchers.",
+  "fork": false,
+  "url": "https://api.github.com/repos/tinfoil/shoulda-kept-respond-with-content-type",
+  "languages_url": "https://api.github.com/repos/tinfoil/shoulda-kept-respond-with-content-type/languages",
+  "pulls_url": "https://api.github.com/repos/tinfoil/shoulda-kept-respond-with-content-type/pulls{/number}",
+  "created_at": "2014-03-08T01:36:15Z",
+  "updated_at": "2017-05-11T16:49:06Z",
+  "pushed_at": "2015-10-09T01:32:49Z",
+  "homepage": "http://rubygems.org/gems/shoulda-kept-respond-with-content-type",
+  "size": 139,
+  "stargazers_count": 4,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "tinfoil",
+    "id": 1316472,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEzMTY0NzI=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/1316472?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/tinfoil",
+    "html_url": "https://github.com/tinfoil",
+    "followers_url": "https://api.github.com/users/tinfoil/followers",
+    "following_url": "https://api.github.com/users/tinfoil/following{/other_user}",
+    "gists_url": "https://api.github.com/users/tinfoil/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/tinfoil/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/tinfoil/subscriptions",
+    "organizations_url": "https://api.github.com/users/tinfoil/orgs",
+    "repos_url": "https://api.github.com/users/tinfoil/repos",
+    "events_url": "https://api.github.com/users/tinfoil/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/tinfoil/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "d4be4st": 1,
+    "bsedat": 13
+  },
+  "pulls_authors": [
+    "d4be4st",
+    "bsedat"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 9949,
+      "color": "#701516"
+    }
+  },
+  "fetched_at": "2018-08-17T16:21:33.187Z"
+}

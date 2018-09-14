@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "centipede",
+  "full_name": "paulhoule/centipede",
+  "owner": "paulhoule",
+  "private": false,
+  "html_url": "https://github.com/paulhoule/centipede",
+  "description": "Command line Java applications without the pain",
+  "fork": false,
+  "url": "https://api.github.com/repos/paulhoule/centipede",
+  "languages_url": "https://api.github.com/repos/paulhoule/centipede/languages",
+  "pulls_url": "https://api.github.com/repos/paulhoule/centipede/pulls{/number}",
+  "created_at": "2013-10-30T21:04:33Z",
+  "updated_at": "2018-03-06T12:50:17Z",
+  "pushed_at": "2016-12-08T21:16:16Z",
+  "homepage": null,
+  "size": 373,
+  "stargazers_count": 49,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "bitdeli-chef": 1,
+    "paulhoule": 73
+  },
+  "pulls_authors": [
+    "bitdeli-chef"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 60073,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-11T23:10:15.963Z"
+}

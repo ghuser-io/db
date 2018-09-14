@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "kodi-addon-submission",
+  "full_name": "tamland/kodi-addon-submission",
+  "owner": "tamland",
+  "private": false,
+  "html_url": "https://github.com/tamland/kodi-addon-submission",
+  "description": "Web application for submitting add-ons to the official repository",
+  "fork": false,
+  "url": "https://api.github.com/repos/tamland/kodi-addon-submission",
+  "languages_url": "https://api.github.com/repos/tamland/kodi-addon-submission/languages",
+  "pulls_url": "https://api.github.com/repos/tamland/kodi-addon-submission/pulls{/number}",
+  "created_at": "2018-07-29T15:18:21Z",
+  "updated_at": "2018-09-02T09:13:34Z",
+  "pushed_at": "2018-09-02T07:04:02Z",
+  "homepage": "https://submit-addon.netlify.com/",
+  "size": 102,
+  "stargazers_count": 1,
+  "language": "Vue",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "tamland": 19
+  },
+  "pulls_authors": [
+    "mzfr"
+  ],
+  "languages": {
+    "Vue": {
+      "bytes": 11422,
+      "color": "#2c3e50"
+    },
+    "TypeScript": {
+      "bytes": 8940,
+      "color": "#2b7489"
+    },
+    "HTML": {
+      "bytes": 550,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 58,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-02T14:34:52.329Z"
+}

@@ -1,0 +1,37 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "brut.apktool",
+  "full_name": "smee/brut.apktool",
+  "owner": "smee",
+  "private": false,
+  "html_url": "https://github.com/smee/brut.apktool",
+  "description": "A tool for reengineering Android apk files",
+  "fork": true,
+  "url": "https://api.github.com/repos/smee/brut.apktool",
+  "languages_url": "https://api.github.com/repos/smee/brut.apktool/languages",
+  "pulls_url": "https://api.github.com/repos/smee/brut.apktool/pulls{/number}",
+  "created_at": "2011-07-20T13:22:58Z",
+  "updated_at": "2013-01-03T22:19:00Z",
+  "pushed_at": "2011-05-17T08:29:48Z",
+  "homepage": "http://code.google.com/p/android-apktool/",
+  "size": 2731,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "arichnad": 2,
+    "brutall": 301
+  },
+  "pulls_authors": [],
+  "languages": {},
+  "fetched_at": "2018-09-11T13:51:51.097Z"
+}

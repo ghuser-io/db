@@ -1,0 +1,87 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "minfs",
+  "full_name": "minio/minfs",
+  "owner": "minio",
+  "private": false,
+  "html_url": "https://github.com/minio/minfs",
+  "description": "A network filesystem client to connect to Minio and Amazon S3 compatible cloud storage servers",
+  "fork": false,
+  "url": "https://api.github.com/repos/minio/minfs",
+  "languages_url": "https://api.github.com/repos/minio/minfs/languages",
+  "pulls_url": "https://api.github.com/repos/minio/minfs/pulls{/number}",
+  "created_at": "2016-08-17T21:03:55Z",
+  "updated_at": "2018-09-07T07:40:04Z",
+  "pushed_at": "2017-11-23T09:49:38Z",
+  "homepage": "",
+  "size": 4813,
+  "stargazers_count": 187,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "minio",
+    "id": 695951,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY5NTk1MQ==",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/695951?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/minio",
+    "html_url": "https://github.com/minio",
+    "followers_url": "https://api.github.com/users/minio/followers",
+    "following_url": "https://api.github.com/users/minio/following{/other_user}",
+    "gists_url": "https://api.github.com/users/minio/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/minio/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/minio/subscriptions",
+    "organizations_url": "https://api.github.com/users/minio/orgs",
+    "repos_url": "https://api.github.com/users/minio/repos",
+    "events_url": "https://api.github.com/users/minio/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/minio/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "meyskens": 1,
+    "rremer": 1,
+    "curx": 1,
+    "stas2k": 1,
+    "krisis": 1,
+    "nitisht": 2,
+    "hackintoshrao": 2,
+    "minio-trusted": 6,
+    "nl5887": 24,
+    "harshavardhana": 51
+  },
+  "pulls_authors": [
+    "meyskens",
+    "harshavardhana",
+    "rremer",
+    "curx",
+    "stas2k",
+    "krisis",
+    "nitisht",
+    "hackintoshrao"
+  ],
+  "languages": {
+    "Go": {
+      "bytes": 78565,
+      "color": "#375eab"
+    },
+    "Shell": {
+      "bytes": 12345,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 5134,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T20:50:21.213Z"
+}

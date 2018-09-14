@@ -1,0 +1,91 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "box",
+  "full_name": "phalcon/box",
+  "owner": "phalcon",
+  "private": false,
+  "html_url": "https://github.com/phalcon/box",
+  "description": "[DEPRECATED] Official, pre-packaged Vagrant Box",
+  "fork": false,
+  "url": "https://api.github.com/repos/phalcon/box",
+  "languages_url": "https://api.github.com/repos/phalcon/box/languages",
+  "pulls_url": "https://api.github.com/repos/phalcon/box/pulls{/number}",
+  "created_at": "2014-03-04T03:34:30Z",
+  "updated_at": "2018-09-11T14:06:05Z",
+  "pushed_at": "2018-07-11T04:29:37Z",
+  "homepage": "https://docs.phalconphp.com/en/latest/environments-vagrant",
+  "size": 356,
+  "stargazers_count": 198,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "phalcon",
+    "id": 1221505,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMjE1MDU=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1221505?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/phalcon",
+    "html_url": "https://github.com/phalcon",
+    "followers_url": "https://api.github.com/users/phalcon/followers",
+    "following_url": "https://api.github.com/users/phalcon/following{/other_user}",
+    "gists_url": "https://api.github.com/users/phalcon/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/phalcon/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/phalcon/subscriptions",
+    "organizations_url": "https://api.github.com/users/phalcon/orgs",
+    "repos_url": "https://api.github.com/users/phalcon/repos",
+    "events_url": "https://api.github.com/users/phalcon/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/phalcon/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "fulgorek": 1,
+    "ariarijp": 1,
+    "morafabio": 1,
+    "dodwmd": 1,
+    "stumpdk": 1,
+    "kbkk": 2,
+    "HasanNawaz": 2,
+    "codezues": 23,
+    "sergeyklay": 262
+  },
+  "pulls_authors": [
+    "IWriteThings",
+    "sergeyklay",
+    "kideny",
+    "alphadijkstra",
+    "kbkk",
+    "fulgorek",
+    "H45AN",
+    "ariarijp",
+    "morafabio",
+    "dodwmd",
+    "stumpdk",
+    "misakwa",
+    "JREAM"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 14638,
+      "color": "#701516"
+    },
+    "Shell": {
+      "bytes": 3184,
+      "color": "#89e051"
+    },
+    "Batchfile": {
+      "bytes": 788,
+      "color": "#C1F12E"
+    }
+  },
+  "fetched_at": "2018-09-12T04:56:51.166Z"
+}

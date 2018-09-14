@@ -1,0 +1,55 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "docker-gen",
+  "full_name": "moul/docker-gen",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/docker-gen",
+  "description": "Generate files from docker container meta-data",
+  "fork": true,
+  "url": "https://api.github.com/repos/moul/docker-gen",
+  "languages_url": "https://api.github.com/repos/moul/docker-gen/languages",
+  "pulls_url": "https://api.github.com/repos/moul/docker-gen/pulls{/number}",
+  "created_at": "2014-12-18T16:15:38Z",
+  "updated_at": "2014-12-18T16:32:50Z",
+  "pushed_at": "2014-12-18T16:32:35Z",
+  "homepage": null,
+  "size": 4651,
+  "stargazers_count": 1,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 1,
+    "thaJeztah": 1,
+    "tehbilly": 1,
+    "alexturek": 1,
+    "ekristen": 1,
+    "geekpete": 1,
+    "cer": 1,
+    "ipanousis": 2,
+    "JustAdam": 2,
+    "md5": 17,
+    "jwilder": 82
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 34956,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 1559,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:55.466Z"
+}

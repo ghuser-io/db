@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "sortable",
+  "full_name": "jedrzej/sortable",
+  "owner": "jedrzej",
+  "private": false,
+  "html_url": "https://github.com/jedrzej/sortable",
+  "description": "Sorting functionality for Laravel's Eloquent models",
+  "fork": false,
+  "url": "https://api.github.com/repos/jedrzej/sortable",
+  "languages_url": "https://api.github.com/repos/jedrzej/sortable/languages",
+  "pulls_url": "https://api.github.com/repos/jedrzej/sortable/pulls{/number}",
+  "created_at": "2015-04-28T13:34:52Z",
+  "updated_at": "2018-09-07T08:33:41Z",
+  "pushed_at": "2016-09-27T11:57:35Z",
+  "homepage": null,
+  "size": 25,
+  "stargazers_count": 40,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "RKalkani": 1,
+    "jbrooksuk": 1,
+    "gbrock": 1,
+    "jedrzej": 13
+  },
+  "pulls_authors": [
+    "jedrzej",
+    "RKalkani",
+    "jbrooksuk",
+    "bdsoha",
+    "pedrommone",
+    "gbrock"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 15417,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T07:34:47.953Z"
+}

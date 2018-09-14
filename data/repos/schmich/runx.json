@@ -1,0 +1,49 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "runx",
+  "full_name": "schmich/runx",
+  "owner": "schmich",
+  "private": false,
+  "html_url": "https://github.com/schmich/runx",
+  "description": "Cross-platform, zero-install, Ruby-based task runner",
+  "fork": false,
+  "url": "https://api.github.com/repos/schmich/runx",
+  "languages_url": "https://api.github.com/repos/schmich/runx/languages",
+  "pulls_url": "https://api.github.com/repos/schmich/runx/pulls{/number}",
+  "created_at": "2016-10-03T13:39:30Z",
+  "updated_at": "2018-06-06T07:47:19Z",
+  "pushed_at": "2018-06-06T07:47:22Z",
+  "homepage": "",
+  "size": 3176,
+  "stargazers_count": 6,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "schmich": 61
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 8067,
+      "color": "#701516"
+    },
+    "Go": {
+      "bytes": 6612,
+      "color": "#375eab"
+    },
+    "Shell": {
+      "bytes": 691,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:17.920Z"
+}

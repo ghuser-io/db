@@ -1,0 +1,107 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "landscape-client",
+  "full_name": "CanonicalLtd/landscape-client",
+  "owner": "CanonicalLtd",
+  "private": false,
+  "html_url": "https://github.com/CanonicalLtd/landscape-client",
+  "description": "The Landscape Client is the agent which communicates with the Landscape service.",
+  "fork": false,
+  "url": "https://api.github.com/repos/CanonicalLtd/landscape-client",
+  "languages_url": "https://api.github.com/repos/CanonicalLtd/landscape-client/languages",
+  "pulls_url": "https://api.github.com/repos/CanonicalLtd/landscape-client/pulls{/number}",
+  "created_at": "2017-04-18T13:48:04Z",
+  "updated_at": "2018-09-12T16:07:36Z",
+  "pushed_at": "2018-09-03T09:33:35Z",
+  "homepage": null,
+  "size": 33109,
+  "stargazers_count": 10,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-2.0",
+    "name": "GNU General Public License v2.0",
+    "spdx_id": "GPL-2.0",
+    "url": "https://api.github.com/licenses/gpl-2.0",
+    "node_id": "MDc6TGljZW5zZTg="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "CanonicalLtd",
+    "id": 7490288,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc0OTAyODg=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/7490288?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/CanonicalLtd",
+    "html_url": "https://github.com/CanonicalLtd",
+    "followers_url": "https://api.github.com/users/CanonicalLtd/followers",
+    "following_url": "https://api.github.com/users/CanonicalLtd/following{/other_user}",
+    "gists_url": "https://api.github.com/users/CanonicalLtd/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/CanonicalLtd/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/CanonicalLtd/subscriptions",
+    "organizations_url": "https://api.github.com/users/CanonicalLtd/orgs",
+    "repos_url": "https://api.github.com/users/CanonicalLtd/repos",
+    "events_url": "https://api.github.com/users/CanonicalLtd/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/CanonicalLtd/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "KellenRenshaw": 1,
+    "dargad": 1,
+    "fginther": 1,
+    "flexiondotorg": 1,
+    "psusi": 1,
+    "fcorrea": 1,
+    "UrsinhaCanonical": 2,
+    "dhenrich": 2,
+    "xnox": 4,
+    "robert-ancell": 4,
+    "waveform80": 12,
+    "dpb1": 19,
+    "dhavlik": 28,
+    "dsegan": 31,
+    "simpoir": 51,
+    "benji-york": 75,
+    "niemeyer": 92,
+    "sparkiegeek": 93,
+    "blackboxsw": 102,
+    "jkakar": 107,
+    "ericsnowcurrently": 140,
+    "radix": 159,
+    "sallner": 199,
+    "albertodonato": 205,
+    "panlinux": 235,
+    "bjornt": 533,
+    "freeekanayaka": 616
+  },
+  "pulls_authors": [
+    "waveform80",
+    "KellenRenshaw",
+    "asciiprod",
+    "simpoir",
+    "panlinux",
+    "ericsnowcurrently",
+    "dargad"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 2295592,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 13403,
+      "color": "#89e051"
+    },
+    "Makefile": {
+      "bytes": 3404,
+      "color": "#427819"
+    },
+    "C": {
+      "bytes": 2577,
+      "color": "#555555"
+    }
+  },
+  "fetched_at": "2018-09-12T16:51:25.291Z"
+}

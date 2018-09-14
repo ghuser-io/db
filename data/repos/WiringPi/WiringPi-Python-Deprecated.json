@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "WiringPi-Python-Deprecated",
+  "full_name": "WiringPi/WiringPi-Python-Deprecated",
+  "owner": "WiringPi",
+  "private": false,
+  "html_url": "https://github.com/WiringPi/WiringPi-Python-Deprecated",
+  "description": "Python wrapped version of Gordon's Arduino-like WiringPi for the Raspberry Pi",
+  "fork": false,
+  "url": "https://api.github.com/repos/WiringPi/WiringPi-Python-Deprecated",
+  "languages_url": "https://api.github.com/repos/WiringPi/WiringPi-Python-Deprecated/languages",
+  "pulls_url": "https://api.github.com/repos/WiringPi/WiringPi-Python-Deprecated/pulls{/number}",
+  "created_at": "2012-07-02T10:05:28Z",
+  "updated_at": "2018-09-10T15:44:05Z",
+  "pushed_at": "2013-04-01T21:29:38Z",
+  "homepage": null,
+  "size": 335,
+  "stargazers_count": 97,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx_id": "LGPL-3.0",
+    "url": "https://api.github.com/licenses/lgpl-3.0",
+    "node_id": "MDc6TGljZW5zZTEy"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "WiringPi",
+    "id": 1950827,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE5NTA4Mjc=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/1950827?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/WiringPi",
+    "html_url": "https://github.com/WiringPi",
+    "followers_url": "https://api.github.com/users/WiringPi/followers",
+    "following_url": "https://api.github.com/users/WiringPi/following{/other_user}",
+    "gists_url": "https://api.github.com/users/WiringPi/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/WiringPi/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/WiringPi/subscriptions",
+    "organizations_url": "https://api.github.com/users/WiringPi/orgs",
+    "repos_url": "https://api.github.com/users/WiringPi/repos",
+    "events_url": "https://api.github.com/users/WiringPi/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/WiringPi/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "chaosblog": 1,
+    "m00head": 1,
+    "duncanj": 1,
+    "daha": 1,
+    "lrvick": 1,
+    "dmcg": 1,
+    "Gadgetoid": 27
+  },
+  "pulls_authors": [
+    "chaosblog",
+    "m00head",
+    "duncanj",
+    "daha",
+    "dmcg"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 143260,
+      "color": "#555555"
+    },
+    "Python": {
+      "bytes": 11250,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:16.169Z"
+}

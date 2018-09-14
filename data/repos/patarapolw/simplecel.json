@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "simplecel",
+  "full_name": "patarapolw/simplecel",
+  "owner": "patarapolw",
+  "private": false,
+  "html_url": "https://github.com/patarapolw/simplecel",
+  "description": "Offline Excel-like app with no formula conversion, but with image/markdown/HTML support.",
+  "fork": false,
+  "url": "https://api.github.com/repos/patarapolw/simplecel",
+  "languages_url": "https://api.github.com/repos/patarapolw/simplecel/languages",
+  "pulls_url": "https://api.github.com/repos/patarapolw/simplecel/pulls{/number}",
+  "created_at": "2018-07-20T04:39:45Z",
+  "updated_at": "2018-08-13T00:23:15Z",
+  "pushed_at": "2018-08-10T07:15:31Z",
+  "homepage": "",
+  "size": 1812,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "patarapolw": 42
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 11889,
+      "color": "#f1e05a"
+    },
+    "Python": {
+      "bytes": 4660,
+      "color": "#3572A5"
+    },
+    "HTML": {
+      "bytes": 1425,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1117,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-08-17T13:22:18.766Z"
+}

@@ -1,0 +1,71 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Programming101",
+  "full_name": "HackBulgaria/Programming101",
+  "owner": "HackBulgaria",
+  "private": false,
+  "html_url": "https://github.com/HackBulgaria/Programming101",
+  "description": "The Github repo for the first course from HackBulgaria - Programming 101",
+  "fork": false,
+  "url": "https://api.github.com/repos/HackBulgaria/Programming101",
+  "languages_url": "https://api.github.com/repos/HackBulgaria/Programming101/languages",
+  "pulls_url": "https://api.github.com/repos/HackBulgaria/Programming101/pulls{/number}",
+  "created_at": "2014-02-20T16:38:05Z",
+  "updated_at": "2018-08-13T13:34:50Z",
+  "pushed_at": "2014-08-15T12:31:04Z",
+  "homepage": null,
+  "size": 1360,
+  "stargazers_count": 19,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "HackBulgaria",
+    "id": 6401491,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjY0MDE0OTE=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/6401491?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/HackBulgaria",
+    "html_url": "https://github.com/HackBulgaria",
+    "followers_url": "https://api.github.com/users/HackBulgaria/followers",
+    "following_url": "https://api.github.com/users/HackBulgaria/following{/other_user}",
+    "gists_url": "https://api.github.com/users/HackBulgaria/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/HackBulgaria/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/HackBulgaria/subscriptions",
+    "organizations_url": "https://api.github.com/users/HackBulgaria/orgs",
+    "repos_url": "https://api.github.com/users/HackBulgaria/repos",
+    "events_url": "https://api.github.com/users/HackBulgaria/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/HackBulgaria/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "EmanuelaMollova": 1,
+    "tdhris": 1,
+    "stormbreakerbg": 1,
+    "EmilianStankov": 2,
+    "tblazhev": 3,
+    "syndbg": 5,
+    "Ivaylo-Bachvarov": 9,
+    "RadoRado": 97
+  },
+  "pulls_authors": [
+    "EmanuelaMollova",
+    "RadoRado",
+    "tblazhev",
+    "syndbg",
+    "tdhris",
+    "leohaskell",
+    "EmilianStankov",
+    "georgyangelov"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 5212,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-12T15:42:52.207Z"
+}

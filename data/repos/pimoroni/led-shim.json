@@ -1,0 +1,79 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "led-shim",
+  "full_name": "pimoroni/led-shim",
+  "owner": "pimoroni",
+  "private": false,
+  "html_url": "https://github.com/pimoroni/led-shim",
+  "description": "Python library for the Pimoroni LED SHIM",
+  "fork": false,
+  "url": "https://api.github.com/repos/pimoroni/led-shim",
+  "languages_url": "https://api.github.com/repos/pimoroni/led-shim/languages",
+  "pulls_url": "https://api.github.com/repos/pimoroni/led-shim/pulls{/number}",
+  "created_at": "2017-11-29T16:16:42Z",
+  "updated_at": "2018-09-04T11:05:07Z",
+  "pushed_at": "2018-09-04T11:05:06Z",
+  "homepage": "https://shop.pimoroni.com/products/led-shim",
+  "size": 116,
+  "stargazers_count": 4,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pimoroni",
+    "id": 2399917,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIzOTk5MTc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/2399917?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pimoroni",
+    "html_url": "https://github.com/pimoroni",
+    "followers_url": "https://api.github.com/users/pimoroni/followers",
+    "following_url": "https://api.github.com/users/pimoroni/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pimoroni/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pimoroni/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pimoroni/subscriptions",
+    "organizations_url": "https://api.github.com/users/pimoroni/orgs",
+    "repos_url": "https://api.github.com/users/pimoroni/repos",
+    "events_url": "https://api.github.com/users/pimoroni/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pimoroni/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Gadgetoid": 12
+  },
+  "pulls_authors": [
+    "Gadgetoid"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 26284,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 8734,
+      "color": "#89e051"
+    },
+    "CSS": {
+      "bytes": 1229,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1098,
+      "color": "#e34c26"
+    },
+    "Makefile": {
+      "bytes": 332,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T05:02:02.728Z"
+}

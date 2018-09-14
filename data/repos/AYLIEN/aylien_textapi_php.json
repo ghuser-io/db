@@ -1,0 +1,68 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "aylien_textapi_php",
+  "full_name": "AYLIEN/aylien_textapi_php",
+  "owner": "AYLIEN",
+  "private": false,
+  "html_url": "https://github.com/AYLIEN/aylien_textapi_php",
+  "description": "AYLIEN's officially supported PHP client library for accessing Text API ",
+  "fork": false,
+  "url": "https://api.github.com/repos/AYLIEN/aylien_textapi_php",
+  "languages_url": "https://api.github.com/repos/AYLIEN/aylien_textapi_php/languages",
+  "pulls_url": "https://api.github.com/repos/AYLIEN/aylien_textapi_php/pulls{/number}",
+  "created_at": "2014-12-03T16:44:42Z",
+  "updated_at": "2018-09-12T17:59:34Z",
+  "pushed_at": "2018-08-21T07:59:18Z",
+  "homepage": null,
+  "size": 58,
+  "stargazers_count": 10,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "AYLIEN",
+    "id": 421953,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQyMTk1Mw==",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/421953?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/AYLIEN",
+    "html_url": "https://github.com/AYLIEN",
+    "followers_url": "https://api.github.com/users/AYLIEN/followers",
+    "following_url": "https://api.github.com/users/AYLIEN/following{/other_user}",
+    "gists_url": "https://api.github.com/users/AYLIEN/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/AYLIEN/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/AYLIEN/subscriptions",
+    "organizations_url": "https://api.github.com/users/AYLIEN/orgs",
+    "repos_url": "https://api.github.com/users/AYLIEN/repos",
+    "events_url": "https://api.github.com/users/AYLIEN/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/AYLIEN/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mdibaiee": 1,
+    "omahm": 1,
+    "montenegrodr": 5,
+    "amir": 17
+  },
+  "pulls_authors": [
+    "mdibaiee",
+    "montenegrodr",
+    "omahm"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 25999,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T23:58:49.316Z"
+}

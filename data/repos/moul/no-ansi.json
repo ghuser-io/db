@@ -1,0 +1,39 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "no-ansi",
+  "full_name": "moul/no-ansi",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/no-ansi",
+  "description": ":wrench: remove ansi codes",
+  "fork": false,
+  "url": "https://api.github.com/repos/moul/no-ansi",
+  "languages_url": "https://api.github.com/repos/moul/no-ansi/languages",
+  "pulls_url": "https://api.github.com/repos/moul/no-ansi/pulls{/number}",
+  "created_at": "2015-12-23T08:29:48Z",
+  "updated_at": "2018-05-29T20:37:03Z",
+  "pushed_at": "2015-12-23T10:04:39Z",
+  "homepage": null,
+  "size": 8,
+  "stargazers_count": 2,
+  "language": "Go",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "moul": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Go": {
+      "bytes": 1450,
+      "color": "#375eab"
+    },
+    "Makefile": {
+      "bytes": 65,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:15.085Z"
+}

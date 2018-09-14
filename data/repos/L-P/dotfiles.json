@@ -1,0 +1,51 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "dotfiles",
+  "full_name": "L-P/dotfiles",
+  "owner": "L-P",
+  "private": false,
+  "html_url": "https://github.com/L-P/dotfiles",
+  "description": "My various dotfiles.",
+  "fork": false,
+  "url": "https://api.github.com/repos/L-P/dotfiles",
+  "languages_url": "https://api.github.com/repos/L-P/dotfiles/languages",
+  "pulls_url": "https://api.github.com/repos/L-P/dotfiles/pulls{/number}",
+  "created_at": "2011-09-24T14:04:23Z",
+  "updated_at": "2018-09-12T16:06:01Z",
+  "pushed_at": "2018-09-12T16:06:16Z",
+  "homepage": "",
+  "size": 381,
+  "stargazers_count": 8,
+  "language": "Vim script",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "wtfpl",
+    "name": "Do What The F*ck You Want To Public License",
+    "spdx_id": "WTFPL",
+    "url": "https://api.github.com/licenses/wtfpl",
+    "node_id": "MDc6TGljZW5zZTE4"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "L-P": 617
+  },
+  "pulls_authors": [
+    "ghost"
+  ],
+  "languages": {
+    "Vim script": {
+      "bytes": 48391,
+      "color": "#199f4b"
+    },
+    "Shell": {
+      "bytes": 14026,
+      "color": "#89e051"
+    },
+    "PHP": {
+      "bytes": 4680,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-09-12T16:43:42.363Z"
+}

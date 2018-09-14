@@ -1,0 +1,42 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "licenjs",
+  "full_name": "moul/licenjs",
+  "owner": "moul",
+  "private": false,
+  "html_url": "https://github.com/moul/licenjs",
+  "description": "licenjs generates license files",
+  "fork": true,
+  "url": "https://api.github.com/repos/moul/licenjs",
+  "languages_url": "https://api.github.com/repos/moul/licenjs/languages",
+  "pulls_url": "https://api.github.com/repos/moul/licenjs/pulls{/number}",
+  "created_at": "2013-02-25T09:25:43Z",
+  "updated_at": "2013-03-10T18:21:34Z",
+  "pushed_at": "2013-02-25T09:28:36Z",
+  "homepage": null,
+  "size": 154,
+  "stargazers_count": 2,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "moul": 1,
+    "joshleaves": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 3275,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-05T13:07:56.746Z"
+}

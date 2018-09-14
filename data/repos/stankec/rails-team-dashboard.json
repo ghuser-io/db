@@ -1,0 +1,50 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rails-team-dashboard",
+  "full_name": "stankec/rails-team-dashboard",
+  "owner": "stankec",
+  "private": false,
+  "html_url": "https://github.com/stankec/rails-team-dashboard",
+  "description": "Dashboard for Infinum's Rails team",
+  "fork": false,
+  "url": "https://api.github.com/repos/stankec/rails-team-dashboard",
+  "languages_url": "https://api.github.com/repos/stankec/rails-team-dashboard/languages",
+  "pulls_url": "https://api.github.com/repos/stankec/rails-team-dashboard/pulls{/number}",
+  "created_at": "2015-08-23T18:21:33Z",
+  "updated_at": "2016-01-12T17:38:25Z",
+  "pushed_at": "2016-01-12T17:44:02Z",
+  "homepage": null,
+  "size": 10131,
+  "stargazers_count": 1,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "d4be4st": 1,
+    "stankec": 22
+  },
+  "pulls_authors": [
+    "d4be4st"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 30177,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 16821,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 8655,
+      "color": "#e34c26"
+    },
+    "CoffeeScript": {
+      "bytes": 7350,
+      "color": "#244776"
+    }
+  },
+  "fetched_at": "2018-08-17T16:21:32.840Z"
+}

@@ -1,0 +1,96 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "octopress",
+  "full_name": "octopress/octopress",
+  "owner": "octopress",
+  "private": false,
+  "html_url": "https://github.com/octopress/octopress",
+  "description": "Octopress 3.0 – Jekyll's Ferrari",
+  "fork": false,
+  "url": "https://api.github.com/repos/octopress/octopress",
+  "languages_url": "https://api.github.com/repos/octopress/octopress/languages",
+  "pulls_url": "https://api.github.com/repos/octopress/octopress/pulls{/number}",
+  "created_at": "2013-11-17T20:35:39Z",
+  "updated_at": "2018-09-14T05:30:39Z",
+  "pushed_at": "2017-08-27T02:06:46Z",
+  "homepage": "",
+  "size": 433,
+  "stargazers_count": 1660,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "octopress",
+    "id": 167029,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2NzAyOQ==",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/167029?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/octopress",
+    "html_url": "https://github.com/octopress",
+    "followers_url": "https://api.github.com/users/octopress/followers",
+    "following_url": "https://api.github.com/users/octopress/following{/other_user}",
+    "gists_url": "https://api.github.com/users/octopress/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/octopress/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/octopress/subscriptions",
+    "organizations_url": "https://api.github.com/users/octopress/orgs",
+    "repos_url": "https://api.github.com/users/octopress/repos",
+    "events_url": "https://api.github.com/users/octopress/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/octopress/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "pra85": 1,
+    "phatblat": 1,
+    "mebezac": 1,
+    "hazzik": 1,
+    "kgautreaux": 1,
+    "arches": 1,
+    "JohnMorales": 2,
+    "SteveEdson": 4,
+    "parkr": 22,
+    "imathis": 219
+  },
+  "pulls_authors": [
+    "randycoulman",
+    "professor",
+    "ianklatzco",
+    "jeremyz",
+    "plttn",
+    "andrewgarner",
+    "pra85",
+    "phatblat",
+    "mebezac",
+    "SteveEdson",
+    "imathis",
+    "hazzik",
+    "JohnMorales",
+    "philspitler",
+    "kgautreaux",
+    "arches",
+    "parkr"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 44396,
+      "color": "#701516"
+    },
+    "CSS": {
+      "bytes": 6258,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 2968,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-09-14T08:38:47.444Z"
+}

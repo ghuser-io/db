@@ -1,0 +1,44 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "tombowditch",
+  "ghuser_created_at": "2018-09-11T19:54:09.022Z",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/5332144?v=4",
+  "html_url": "https://github.com/tombowditch",
+  "organizations_url": "https://api.github.com/users/tombowditch/orgs",
+  "repos_url": "https://api.github.com/users/tombowditch/repos",
+  "type": "User",
+  "name": "Tom Bowditch",
+  "company": null,
+  "blog": "http://tombowdit.ch",
+  "location": null,
+  "email": "me@tombowdit.ch",
+  "bio": null,
+  "public_gists": 4,
+  "created_at": "2013-08-28T17:46:52Z",
+  "updated_at": "2018-08-23T09:19:25Z",
+  "organizations": [
+    "dabbotorg"
+  ],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:18:21.884Z",
+    "repos": [
+      "tombowditch/MonzoMsgRemover",
+      "tellytv/telly",
+      "tellytv/m3u-parser",
+      "klauscfhq/taskbook",
+      "tombowditch/NewsBuddy-Dockerfile",
+      "benjojo/alertmanager-discord",
+      "tombowditch/elexon_exporter",
+      "tombowditch/docker-templates",
+      "tombowditch/UploadX",
+      "tombowditch/make-me-a-session",
+      "dabbotorg/java-music-bot",
+      "MisterSkilly/scripts",
+      "tombowditch/scripts",
+      "jgillich/nixbench",
+      "dabbotorg/patreon.dabbot.org",
+      "GyroW/GIP",
+      "zackpollard/JavaTelegramBot-API"
+    ]
+  }
+}

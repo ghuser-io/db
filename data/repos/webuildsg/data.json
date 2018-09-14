@@ -1,0 +1,76 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "data",
+  "full_name": "webuildsg/data",
+  "owner": "webuildsg",
+  "private": false,
+  "html_url": "https://github.com/webuildsg/data",
+  "description": ":chart: Data and graphs for repos and events from We Build SG",
+  "fork": false,
+  "url": "https://api.github.com/repos/webuildsg/data",
+  "languages_url": "https://api.github.com/repos/webuildsg/data/languages",
+  "pulls_url": "https://api.github.com/repos/webuildsg/data/pulls{/number}",
+  "created_at": "2014-12-25T07:25:41Z",
+  "updated_at": "2018-08-29T14:08:22Z",
+  "pushed_at": "2018-08-29T03:00:04Z",
+  "homepage": "https://data.webuild.sg",
+  "size": 14301,
+  "stargazers_count": 16,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": true,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "webuildsg",
+    "id": 7611825,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc2MTE4MjU=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/7611825?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/webuildsg",
+    "html_url": "https://github.com/webuildsg",
+    "followers_url": "https://api.github.com/users/webuildsg/followers",
+    "following_url": "https://api.github.com/users/webuildsg/following{/other_user}",
+    "gists_url": "https://api.github.com/users/webuildsg/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/webuildsg/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/webuildsg/subscriptions",
+    "organizations_url": "https://api.github.com/users/webuildsg/orgs",
+    "repos_url": "https://api.github.com/users/webuildsg/repos",
+    "events_url": "https://api.github.com/users/webuildsg/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/webuildsg/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "notthetup": 1,
+    "winston": 1,
+    "jsstrn": 3,
+    "greenkeeper[bot]": 5,
+    "cheeaun": 6,
+    "sayanee": 307,
+    "webuildsg-bot": 2801
+  },
+  "pulls_authors": [
+    "greenkeeper[bot]",
+    "jsstrn",
+    "cheeaun",
+    "winston"
+  ],
+  "languages": {
+    "HTML": {
+      "bytes": 111639,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 45830,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-10T18:59:58.081Z"
+}

@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ScriptCs.Http",
+  "full_name": "VQComms/ScriptCs.Http",
+  "owner": "VQComms",
+  "private": false,
+  "html_url": "https://github.com/VQComms/ScriptCs.Http",
+  "description": "A cross platform ScriptCs library that allows you to make REST style Http requests",
+  "fork": false,
+  "url": "https://api.github.com/repos/VQComms/ScriptCs.Http",
+  "languages_url": "https://api.github.com/repos/VQComms/ScriptCs.Http/languages",
+  "pulls_url": "https://api.github.com/repos/VQComms/ScriptCs.Http/pulls{/number}",
+  "created_at": "2015-04-27T14:34:07Z",
+  "updated_at": "2016-12-02T21:41:55Z",
+  "pushed_at": "2015-11-30T15:10:50Z",
+  "homepage": "",
+  "size": 12,
+  "stargazers_count": 8,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "VQComms",
+    "id": 7871710,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjc4NzE3MTA=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/7871710?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/VQComms",
+    "html_url": "https://github.com/VQComms",
+    "followers_url": "https://api.github.com/users/VQComms/followers",
+    "following_url": "https://api.github.com/users/VQComms/following{/other_user}",
+    "gists_url": "https://api.github.com/users/VQComms/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/VQComms/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/VQComms/subscriptions",
+    "organizations_url": "https://api.github.com/users/VQComms/orgs",
+    "repos_url": "https://api.github.com/users/VQComms/repos",
+    "events_url": "https://api.github.com/users/VQComms/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/VQComms/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Yantrio": 6,
+    "jchannon": 16
+  },
+  "pulls_authors": [
+    "Yantrio"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 3429,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-12T07:44:41.276Z"
+}

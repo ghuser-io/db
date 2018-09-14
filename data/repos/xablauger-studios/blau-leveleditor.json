@@ -1,0 +1,64 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "blau-leveleditor",
+  "full_name": "xablauger-studios/blau-leveleditor",
+  "owner": "xablauger-studios",
+  "private": false,
+  "html_url": "https://github.com/xablauger-studios/blau-leveleditor",
+  "description": "Blau Game Official Level Designing Toolbelt.",
+  "fork": false,
+  "url": "https://api.github.com/repos/xablauger-studios/blau-leveleditor",
+  "languages_url": "https://api.github.com/repos/xablauger-studios/blau-leveleditor/languages",
+  "pulls_url": "https://api.github.com/repos/xablauger-studios/blau-leveleditor/pulls{/number}",
+  "created_at": "2016-09-27T22:23:49Z",
+  "updated_at": "2016-12-09T13:24:41Z",
+  "pushed_at": "2017-08-30T00:30:58Z",
+  "homepage": "",
+  "size": 2463,
+  "stargazers_count": 2,
+  "language": "C#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "xablauger-studios",
+    "id": 22738063,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjIyNzM4MDYz",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/22738063?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/xablauger-studios",
+    "html_url": "https://github.com/xablauger-studios",
+    "followers_url": "https://api.github.com/users/xablauger-studios/followers",
+    "following_url": "https://api.github.com/users/xablauger-studios/following{/other_user}",
+    "gists_url": "https://api.github.com/users/xablauger-studios/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/xablauger-studios/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/xablauger-studios/subscriptions",
+    "organizations_url": "https://api.github.com/users/xablauger-studios/orgs",
+    "repos_url": "https://api.github.com/users/xablauger-studios/repos",
+    "events_url": "https://api.github.com/users/xablauger-studios/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/xablauger-studios/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "cardoso": 7,
+    "ythecombinator": 12
+  },
+  "pulls_authors": [
+    "ythecombinator"
+  ],
+  "languages": {
+    "C#": {
+      "bytes": 5193,
+      "color": "#178600"
+    }
+  },
+  "fetched_at": "2018-09-03T21:47:34.383Z"
+}

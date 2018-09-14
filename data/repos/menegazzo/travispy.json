@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "travispy",
+  "full_name": "menegazzo/travispy",
+  "owner": "menegazzo",
+  "private": false,
+  "html_url": "https://github.com/menegazzo/travispy",
+  "description": "Travis CI API for Python",
+  "fork": false,
+  "url": "https://api.github.com/repos/menegazzo/travispy",
+  "languages_url": "https://api.github.com/repos/menegazzo/travispy/languages",
+  "pulls_url": "https://api.github.com/repos/menegazzo/travispy/pulls{/number}",
+  "created_at": "2014-05-27T16:25:09Z",
+  "updated_at": "2018-09-13T22:29:56Z",
+  "pushed_at": "2018-02-22T18:24:44Z",
+  "homepage": "https://pypi.python.org/pypi/TravisPy",
+  "size": 304,
+  "stargazers_count": 63,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "6C1": 1,
+    "mapuerta": 1,
+    "m1keil": 1,
+    "nicoddemus": 1,
+    "hugovk": 3,
+    "adamchainz": 3,
+    "rdhyee": 4,
+    "jayvdb": 5,
+    "menegazzo": 87
+  },
+  "pulls_authors": [
+    "6C1",
+    "hugovk",
+    "mapuerta",
+    "tejavojjala",
+    "adamchainz",
+    "menegazzo",
+    "rdhyee",
+    "jayvdb",
+    "m1keil"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 69071,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-13T23:50:55.655Z"
+}

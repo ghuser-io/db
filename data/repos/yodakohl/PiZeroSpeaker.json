@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PiZeroSpeaker",
+  "full_name": "yodakohl/PiZeroSpeaker",
+  "owner": "yodakohl",
+  "private": false,
+  "html_url": "https://github.com/yodakohl/PiZeroSpeaker",
+  "description": "3D Design of Google Voice Assitant ",
+  "fork": false,
+  "url": "https://api.github.com/repos/yodakohl/PiZeroSpeaker",
+  "languages_url": "https://api.github.com/repos/yodakohl/PiZeroSpeaker/languages",
+  "pulls_url": "https://api.github.com/repos/yodakohl/PiZeroSpeaker/pulls{/number}",
+  "created_at": "2017-05-17T21:32:24Z",
+  "updated_at": "2018-04-03T02:14:53Z",
+  "pushed_at": "2017-06-03T17:55:54Z",
+  "homepage": null,
+  "size": 6,
+  "stargazers_count": 1,
+  "language": "OpenSCAD",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "yodakohl": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "OpenSCAD": {
+      "bytes": 7825,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T16:54:22.795Z"
+}

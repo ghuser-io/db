@@ -1,0 +1,69 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "preparser",
+  "full_name": "gss/preparser",
+  "owner": "gss",
+  "private": false,
+  "html_url": "https://github.com/gss/preparser",
+  "description": "Extracts CCSS, CSS, VFL, and GTL parts from a GSS stylesheet and puts them in their own syntax groups",
+  "fork": false,
+  "url": "https://api.github.com/repos/gss/preparser",
+  "languages_url": "https://api.github.com/repos/gss/preparser/languages",
+  "pulls_url": "https://api.github.com/repos/gss/preparser/pulls{/number}",
+  "created_at": "2013-05-31T01:06:00Z",
+  "updated_at": "2015-10-07T11:35:37Z",
+  "pushed_at": "2014-11-25T20:28:56Z",
+  "homepage": null,
+  "size": 425,
+  "stargazers_count": 8,
+  "language": "CoffeeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "gss",
+    "id": 4575574,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ1NzU1NzQ=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/4575574?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/gss",
+    "html_url": "https://github.com/gss",
+    "followers_url": "https://api.github.com/users/gss/followers",
+    "following_url": "https://api.github.com/users/gss/following{/other_user}",
+    "gists_url": "https://api.github.com/users/gss/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/gss/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/gss/subscriptions",
+    "organizations_url": "https://api.github.com/users/gss/orgs",
+    "repos_url": "https://api.github.com/users/gss/repos",
+    "events_url": "https://api.github.com/users/gss/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/gss/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "paulyoung": 14,
+    "bergie": 17,
+    "d4tocchini": 41
+  },
+  "pulls_authors": [
+    "paulyoung"
+  ],
+  "languages": {
+    "CoffeeScript": {
+      "bytes": 30808,
+      "color": "#244776"
+    },
+    "JavaScript": {
+      "bytes": 680,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:59.573Z"
+}

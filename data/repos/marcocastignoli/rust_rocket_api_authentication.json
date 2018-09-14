@@ -1,0 +1,38 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "rust_rocket_api_authentication",
+  "full_name": "marcocastignoli/rust_rocket_api_authentication",
+  "owner": "marcocastignoli",
+  "private": false,
+  "html_url": "https://github.com/marcocastignoli/rust_rocket_api_authentication",
+  "description": "An example of API written in Rust with the rocket.rs framework, with a JWT Authentication ",
+  "fork": false,
+  "url": "https://api.github.com/repos/marcocastignoli/rust_rocket_api_authentication",
+  "languages_url": "https://api.github.com/repos/marcocastignoli/rust_rocket_api_authentication/languages",
+  "pulls_url": "https://api.github.com/repos/marcocastignoli/rust_rocket_api_authentication/pulls{/number}",
+  "created_at": "2018-07-25T10:05:43Z",
+  "updated_at": "2018-07-31T18:52:01Z",
+  "pushed_at": "2018-07-30T06:41:58Z",
+  "homepage": null,
+  "size": 24,
+  "stargazers_count": 19,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "ELD": 1,
+    "marcocastignoli": 10
+  },
+  "pulls_authors": [
+    "ELD"
+  ],
+  "languages": {
+    "Rust": {
+      "bytes": 11187,
+      "color": "#dea584"
+    }
+  },
+  "fetched_at": "2018-09-11T10:35:54.456Z"
+}

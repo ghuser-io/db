@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "geotracker-client",
+  "full_name": "abrenaut/geotracker-client",
+  "owner": "abrenaut",
+  "private": false,
+  "html_url": "https://github.com/abrenaut/geotracker-client",
+  "description": "Client to track the location of your Android device",
+  "fork": false,
+  "url": "https://api.github.com/repos/abrenaut/geotracker-client",
+  "languages_url": "https://api.github.com/repos/abrenaut/geotracker-client/languages",
+  "pulls_url": "https://api.github.com/repos/abrenaut/geotracker-client/pulls{/number}",
+  "created_at": "2016-09-08T08:08:35Z",
+  "updated_at": "2017-10-23T04:34:25Z",
+  "pushed_at": "2016-09-26T16:42:08Z",
+  "homepage": "",
+  "size": 3944,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "abrenaut": 12
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Java": {
+      "bytes": 19414,
+      "color": "#b07219"
+    }
+  },
+  "fetched_at": "2018-09-12T15:30:40.912Z"
+}

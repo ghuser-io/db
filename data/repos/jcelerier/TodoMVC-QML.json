@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "TodoMVC-QML",
+  "full_name": "jcelerier/TodoMVC-QML",
+  "owner": "jcelerier",
+  "private": false,
+  "html_url": "https://github.com/jcelerier/TodoMVC-QML",
+  "description": "Minimal QML implementation of the classical TodoMVC",
+  "fork": false,
+  "url": "https://api.github.com/repos/jcelerier/TodoMVC-QML",
+  "languages_url": "https://api.github.com/repos/jcelerier/TodoMVC-QML/languages",
+  "pulls_url": "https://api.github.com/repos/jcelerier/TodoMVC-QML/pulls{/number}",
+  "created_at": "2017-09-17T13:59:47Z",
+  "updated_at": "2018-06-09T21:49:38Z",
+  "pushed_at": "2017-09-17T14:17:28Z",
+  "homepage": null,
+  "size": 36,
+  "stargazers_count": 3,
+  "language": "QML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "agpl-3.0",
+    "name": "GNU Affero General Public License v3.0",
+    "spdx_id": "AGPL-3.0",
+    "url": "https://api.github.com/licenses/agpl-3.0",
+    "node_id": "MDc6TGljZW5zZTE="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "jcelerier": 8
+  },
+  "pulls_authors": [],
+  "languages": {
+    "QML": {
+      "bytes": 4703,
+      "color": "#44a51c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:47.323Z"
+}

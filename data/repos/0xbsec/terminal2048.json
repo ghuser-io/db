@@ -1,0 +1,41 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "terminal2048",
+  "full_name": "0xbsec/terminal2048",
+  "owner": "0xbsec",
+  "private": false,
+  "html_url": "https://github.com/0xbsec/terminal2048",
+  "description": "Play 2048 game from terminal",
+  "fork": false,
+  "url": "https://api.github.com/repos/0xbsec/terminal2048",
+  "languages_url": "https://api.github.com/repos/0xbsec/terminal2048/languages",
+  "pulls_url": "https://api.github.com/repos/0xbsec/terminal2048/pulls{/number}",
+  "created_at": "2017-11-22T21:42:51Z",
+  "updated_at": "2018-06-12T02:25:52Z",
+  "pushed_at": "2018-01-14T19:12:26Z",
+  "homepage": "",
+  "size": 129,
+  "stargazers_count": 2,
+  "language": "Rust",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "0xbsec": 5
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Rust": {
+      "bytes": 31305,
+      "color": "#dea584"
+    }
+  },
+  "fetched_at": "2018-09-11T17:04:52.742Z"
+}

@@ -1,0 +1,94 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "blank-android-gradle",
+  "full_name": "feedhenry-templates/blank-android-gradle",
+  "owner": "feedhenry-templates",
+  "private": false,
+  "html_url": "https://github.com/feedhenry-templates/blank-android-gradle",
+  "description": "Native Android Gradle Blank Sample App ",
+  "fork": false,
+  "url": "https://api.github.com/repos/feedhenry-templates/blank-android-gradle",
+  "languages_url": "https://api.github.com/repos/feedhenry-templates/blank-android-gradle/languages",
+  "pulls_url": "https://api.github.com/repos/feedhenry-templates/blank-android-gradle/pulls{/number}",
+  "created_at": "2016-03-01T14:35:57Z",
+  "updated_at": "2018-04-18T10:35:42Z",
+  "pushed_at": "2018-08-07T14:53:28Z",
+  "homepage": "",
+  "size": 157,
+  "stargazers_count": 1,
+  "language": "Java",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "feedhenry-templates",
+    "id": 7250163,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjcyNTAxNjM=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/7250163?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/feedhenry-templates",
+    "html_url": "https://github.com/feedhenry-templates",
+    "followers_url": "https://api.github.com/users/feedhenry-templates/followers",
+    "following_url": "https://api.github.com/users/feedhenry-templates/following{/other_user}",
+    "gists_url": "https://api.github.com/users/feedhenry-templates/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/feedhenry-templates/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/feedhenry-templates/subscriptions",
+    "organizations_url": "https://api.github.com/users/feedhenry-templates/orgs",
+    "repos_url": "https://api.github.com/users/feedhenry-templates/repos",
+    "events_url": "https://api.github.com/users/feedhenry-templates/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/feedhenry-templates/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "mmusil": 1,
+    "dimitraz": 1,
+    "laurafitzgerald": 1,
+    "thailekha": 1,
+    "pmdarrow": 1,
+    "camilamacedo86": 1,
+    "damienomurchu": 2,
+    "cotsog": 4,
+    "aidenkeating": 5,
+    "matzew": 5,
+    "secondsun": 8,
+    "danielpassos": 32
+  },
+  "pulls_authors": [
+    "mmusil",
+    "dimitraz",
+    "danielpassos",
+    "odra",
+    "secondsun",
+    "laurafitzgerald",
+    "thailekha",
+    "pmdarrow",
+    "jcesarmobile",
+    "aidenkeating",
+    "camilamacedo86",
+    "cotsog",
+    "matzew"
+  ],
+  "languages": {
+    "Java": {
+      "bytes": 4729,
+      "color": "#b07219"
+    },
+    "HTML": {
+      "bytes": 759,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 256,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-11T17:08:29.344Z"
+}

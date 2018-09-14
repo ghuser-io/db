@@ -1,0 +1,43 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Littlecoin",
+  "full_name": "jeffbarg/Littlecoin",
+  "owner": "jeffbarg",
+  "private": false,
+  "html_url": "https://github.com/jeffbarg/Littlecoin",
+  "description": "LittleCoin is a experimental browser-based cryptocurrency",
+  "fork": false,
+  "url": "https://api.github.com/repos/jeffbarg/Littlecoin",
+  "languages_url": "https://api.github.com/repos/jeffbarg/Littlecoin/languages",
+  "pulls_url": "https://api.github.com/repos/jeffbarg/Littlecoin/pulls{/number}",
+  "created_at": "2017-12-30T22:18:01Z",
+  "updated_at": "2018-09-09T22:05:39Z",
+  "pushed_at": "2018-09-09T22:05:38Z",
+  "homepage": "https://littlecoin.io/",
+  "size": 490,
+  "stargazers_count": 9,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "jeffbarg": 34
+  },
+  "pulls_authors": [],
+  "languages": {
+    "JavaScript": {
+      "bytes": 586287,
+      "color": "#f1e05a"
+    },
+    "HTML": {
+      "bytes": 2470,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 1549,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T15:48:11.442Z"
+}

@@ -1,0 +1,48 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "spicy-proton",
+  "full_name": "schmich/spicy-proton",
+  "owner": "schmich",
+  "private": false,
+  "html_url": "https://github.com/schmich/spicy-proton",
+  "description": "Generate a random English adjective-noun word pair in Ruby",
+  "fork": false,
+  "url": "https://api.github.com/repos/schmich/spicy-proton",
+  "languages_url": "https://api.github.com/repos/schmich/spicy-proton/languages",
+  "pulls_url": "https://api.github.com/repos/schmich/spicy-proton/pulls{/number}",
+  "created_at": "2017-01-28T05:54:06Z",
+  "updated_at": "2018-09-03T13:23:54Z",
+  "pushed_at": "2018-09-03T13:23:51Z",
+  "homepage": "https://rubygems.org/gems/spicy-proton",
+  "size": 235,
+  "stargazers_count": 51,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "geeksam": 1,
+    "schmich": 41
+  },
+  "pulls_authors": [
+    "geeksam"
+  ],
+  "languages": {
+    "Ruby": {
+      "bytes": 11289,
+      "color": "#701516"
+    },
+    "Makefile": {
+      "bytes": 550,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T07:41:17.298Z"
+}

@@ -1,0 +1,66 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "PushSharp-Anywhere",
+  "full_name": "vmandic/PushSharp-Anywhere",
+  "owner": "vmandic",
+  "private": false,
+  "html_url": "https://github.com/vmandic/PushSharp-Anywhere",
+  "description": "Deprecated: This project demonstrates the usage of the PushSharp .NET SDK for simple and efficient management of multiplatform (IOS, Android and Windows Phone) Push Notification services. This solution consists a couple of separate projects including shared processor libraries. A Web .NET MVC5 app and a Desktop Windows Forms app used for monitoring and handling push notifications.",
+  "fork": false,
+  "url": "https://api.github.com/repos/vmandic/PushSharp-Anywhere",
+  "languages_url": "https://api.github.com/repos/vmandic/PushSharp-Anywhere/languages",
+  "pulls_url": "https://api.github.com/repos/vmandic/PushSharp-Anywhere/pulls{/number}",
+  "created_at": "2014-11-05T21:28:23Z",
+  "updated_at": "2018-01-06T13:03:25Z",
+  "pushed_at": "2017-03-17T21:54:23Z",
+  "homepage": "",
+  "size": 20414,
+  "stargazers_count": 16,
+  "language": "Pascal",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "apache-2.0",
+    "name": "Apache License 2.0",
+    "spdx_id": "Apache-2.0",
+    "url": "https://api.github.com/licenses/apache-2.0",
+    "node_id": "MDc6TGljZW5zZTI="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "matijaleskovar": 1,
+    "vmandic": 43
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Pascal": {
+      "bytes": 133111,
+      "color": "#E3F171"
+    },
+    "PowerShell": {
+      "bytes": 107909,
+      "color": "#012456"
+    },
+    "C#": {
+      "bytes": 77981,
+      "color": "#178600"
+    },
+    "Java": {
+      "bytes": 14139,
+      "color": "#b07219"
+    },
+    "JavaScript": {
+      "bytes": 10318,
+      "color": "#f1e05a"
+    },
+    "Puppet": {
+      "bytes": 972,
+      "color": "#302B6D"
+    },
+    "ASP": {
+      "bytes": 110,
+      "color": "#6a40fd"
+    }
+  },
+  "fetched_at": "2018-09-11T13:52:26.790Z"
+}

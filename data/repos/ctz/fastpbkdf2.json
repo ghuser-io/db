@@ -1,0 +1,59 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fastpbkdf2",
+  "full_name": "ctz/fastpbkdf2",
+  "owner": "ctz",
+  "private": false,
+  "html_url": "https://github.com/ctz/fastpbkdf2",
+  "description": "Fast PBKDF2 implementation in C",
+  "fork": false,
+  "url": "https://api.github.com/repos/ctz/fastpbkdf2",
+  "languages_url": "https://api.github.com/repos/ctz/fastpbkdf2/languages",
+  "pulls_url": "https://api.github.com/repos/ctz/fastpbkdf2/pulls{/number}",
+  "created_at": "2015-07-12T18:38:07Z",
+  "updated_at": "2018-08-17T16:43:28Z",
+  "pushed_at": "2018-07-26T21:40:16Z",
+  "homepage": null,
+  "size": 68,
+  "stargazers_count": 62,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "cc0-1.0",
+    "name": "Creative Commons Zero v1.0 Universal",
+    "spdx_id": "CC0-1.0",
+    "url": "https://api.github.com/licenses/cc0-1.0",
+    "node_id": "MDc6TGljZW5zZTY="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "ysangkok": 1,
+    "Overv": 1,
+    "adinapoli": 1,
+    "S-YOU": 2,
+    "ctz": 45
+  },
+  "pulls_authors": [
+    "nikp123",
+    "ysangkok",
+    "Overv",
+    "adinapoli",
+    "S-YOU"
+  ],
+  "languages": {
+    "C": {
+      "bytes": 32838,
+      "color": "#555555"
+    },
+    "Python": {
+      "bytes": 6362,
+      "color": "#3572A5"
+    },
+    "Makefile": {
+      "bytes": 521,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-12T05:00:15.354Z"
+}

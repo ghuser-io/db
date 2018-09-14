@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pyexcel-xlsx",
+  "full_name": "pyexcel/pyexcel-xlsx",
+  "owner": "pyexcel",
+  "private": false,
+  "html_url": "https://github.com/pyexcel/pyexcel-xlsx",
+  "description": "A wrapper library to read, manipulate and write data in xlsx and xlsm format using openpyxl",
+  "fork": false,
+  "url": "https://api.github.com/repos/pyexcel/pyexcel-xlsx",
+  "languages_url": "https://api.github.com/repos/pyexcel/pyexcel-xlsx/languages",
+  "pulls_url": "https://api.github.com/repos/pyexcel/pyexcel-xlsx/pulls{/number}",
+  "created_at": "2014-12-02T00:03:24Z",
+  "updated_at": "2018-09-10T09:05:21Z",
+  "pushed_at": "2018-03-26T22:33:20Z",
+  "homepage": null,
+  "size": 247,
+  "stargazers_count": 53,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "pyexcel",
+    "id": 16431467,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE2NDMxNDY3",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/16431467?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/pyexcel",
+    "html_url": "https://github.com/pyexcel",
+    "followers_url": "https://api.github.com/users/pyexcel/followers",
+    "following_url": "https://api.github.com/users/pyexcel/following{/other_user}",
+    "gists_url": "https://api.github.com/users/pyexcel/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/pyexcel/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/pyexcel/subscriptions",
+    "organizations_url": "https://api.github.com/users/pyexcel/orgs",
+    "repos_url": "https://api.github.com/users/pyexcel/repos",
+    "events_url": "https://api.github.com/users/pyexcel/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/pyexcel/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "fuhrysteve": 1,
+    "benoit-pierre": 2,
+    "jayvdb": 4,
+    "chfw": 196
+  },
+  "pulls_authors": [
+    "PaleNeutron",
+    "benoit-pierre",
+    "jayvdb",
+    "fuhrysteve"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 38785,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 232,
+      "color": "#89e051"
+    },
+    "Batchfile": {
+      "bytes": 232,
+      "color": "#C1F12E"
+    },
+    "Makefile": {
+      "bytes": 32,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-10T15:07:48.900Z"
+}

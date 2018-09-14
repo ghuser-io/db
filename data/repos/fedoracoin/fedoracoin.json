@@ -1,0 +1,99 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "fedoracoin",
+  "full_name": "fedoracoin/fedoracoin",
+  "owner": "fedoracoin",
+  "private": false,
+  "html_url": "https://github.com/fedoracoin/fedoracoin",
+  "description": "*tips 1000 fedoras*",
+  "fork": true,
+  "url": "https://api.github.com/repos/fedoracoin/fedoracoin",
+  "languages_url": "https://api.github.com/repos/fedoracoin/fedoracoin/languages",
+  "pulls_url": "https://api.github.com/repos/fedoracoin/fedoracoin/pulls{/number}",
+  "created_at": "2013-12-23T16:53:27Z",
+  "updated_at": "2018-06-03T12:30:01Z",
+  "pushed_at": "2014-03-31T21:55:57Z",
+  "homepage": null,
+  "size": 20203,
+  "stargazers_count": 12,
+  "language": "TypeScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "fedoracoin",
+    "id": 6248668,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYyNDg2Njg=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/6248668?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/fedoracoin",
+    "html_url": "https://github.com/fedoracoin",
+    "followers_url": "https://api.github.com/users/fedoracoin/followers",
+    "following_url": "https://api.github.com/users/fedoracoin/following{/other_user}",
+    "gists_url": "https://api.github.com/users/fedoracoin/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/fedoracoin/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/fedoracoin/subscriptions",
+    "organizations_url": "https://api.github.com/users/fedoracoin/orgs",
+    "repos_url": "https://api.github.com/users/fedoracoin/repos",
+    "events_url": "https://api.github.com/users/fedoracoin/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/fedoracoin/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "MystPhysX": 1,
+    "emoose": 1,
+    "timvdalen": 1,
+    "icanprogram": 2,
+    "RBech": 2,
+    "invisibel": 59
+  },
+  "pulls_authors": [
+    "icanprogram",
+    "MystPhysX",
+    "RBech",
+    "timvdalen"
+  ],
+  "languages": {
+    "TypeScript": {
+      "bytes": 5244606,
+      "color": "#2b7489"
+    },
+    "C++": {
+      "bytes": 2648057,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 103408,
+      "color": "#555555"
+    },
+    "Python": {
+      "bytes": 37272,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 17532,
+      "color": "#89e051"
+    },
+    "IDL": {
+      "bytes": 15663,
+      "color": "#a3522f"
+    },
+    "Objective-C": {
+      "bytes": 5864,
+      "color": "#438eff"
+    },
+    "CSS": {
+      "bytes": 1127,
+      "color": "#563d7c"
+    }
+  },
+  "fetched_at": "2018-09-12T07:43:57.367Z"
+}

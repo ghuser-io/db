@@ -1,0 +1,107 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "vellvm",
+  "full_name": "vellvm/vellvm",
+  "owner": "vellvm",
+  "private": false,
+  "html_url": "https://github.com/vellvm/vellvm",
+  "description": "The Vellvm II coq development.",
+  "fork": false,
+  "url": "https://api.github.com/repos/vellvm/vellvm",
+  "languages_url": "https://api.github.com/repos/vellvm/vellvm/languages",
+  "pulls_url": "https://api.github.com/repos/vellvm/vellvm/pulls{/number}",
+  "created_at": "2017-04-06T11:21:21Z",
+  "updated_at": "2018-09-12T02:45:07Z",
+  "pushed_at": "2018-09-11T18:43:30Z",
+  "homepage": null,
+  "size": 1270,
+  "stargazers_count": 59,
+  "language": "Coq",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "vellvm",
+    "id": 8493848,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjg0OTM4NDg=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/8493848?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/vellvm",
+    "html_url": "https://github.com/vellvm",
+    "followers_url": "https://api.github.com/users/vellvm/followers",
+    "following_url": "https://api.github.com/users/vellvm/following{/other_user}",
+    "gists_url": "https://api.github.com/users/vellvm/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/vellvm/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/vellvm/subscriptions",
+    "organizations_url": "https://api.github.com/users/vellvm/orgs",
+    "repos_url": "https://api.github.com/users/vellvm/repos",
+    "events_url": "https://api.github.com/users/vellvm/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/vellvm/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "YaZko": 1,
+    "tobig": 1,
+    "liyishuai": 1,
+    "lemonidas": 1,
+    "emmettneyman": 2,
+    "pedrotst": 2,
+    "bcpierce00": 2,
+    "nomeata": 2,
+    "mansky1": 3,
+    "bollu": 7,
+    "vzaliva": 11,
+    "dmitrig": 12,
+    "Chobbes": 13,
+    "olekgierczak": 20,
+    "robzajac": 22,
+    "nclskh": 74,
+    "Zdancewic": 160
+  },
+  "pulls_authors": [
+    "bollu",
+    "YaZko",
+    "Chobbes",
+    "olekgierczak",
+    "tobig",
+    "robzajac",
+    "pedrotst",
+    "vzaliva",
+    "jbotto94"
+  ],
+  "languages": {
+    "Coq": {
+      "bytes": 370702,
+      "color": "#ccc"
+    },
+    "OCaml": {
+      "bytes": 107399,
+      "color": "#3be133"
+    },
+    "LLVM": {
+      "bytes": 53492,
+      "color": "#185619"
+    },
+    "Makefile": {
+      "bytes": 2337,
+      "color": "#427819"
+    },
+    "C": {
+      "bytes": 729,
+      "color": "#555555"
+    },
+    "Shell": {
+      "bytes": 233,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:38:42.638Z"
+}

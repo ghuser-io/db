@@ -1,0 +1,138 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "JamomaMax",
+  "full_name": "jamoma/JamomaMax",
+  "owner": "jamoma",
+  "private": false,
+  "html_url": "https://github.com/jamoma/JamomaMax",
+  "description": "Implementation of Jamoma for Cycling'74 Max:",
+  "fork": false,
+  "url": "https://api.github.com/repos/jamoma/JamomaMax",
+  "languages_url": "https://api.github.com/repos/jamoma/JamomaMax/languages",
+  "pulls_url": "https://api.github.com/repos/jamoma/JamomaMax/pulls{/number}",
+  "created_at": "2012-11-21T00:15:09Z",
+  "updated_at": "2018-05-07T13:56:59Z",
+  "pushed_at": "2016-08-15T09:51:51Z",
+  "homepage": "http://www.jamoma.org",
+  "size": 42844,
+  "stargazers_count": 33,
+  "language": "Max",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "jamoma",
+    "id": 381262,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjM4MTI2Mg==",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/381262?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/jamoma",
+    "html_url": "https://github.com/jamoma",
+    "followers_url": "https://api.github.com/users/jamoma/followers",
+    "following_url": "https://api.github.com/users/jamoma/following{/other_user}",
+    "gists_url": "https://api.github.com/users/jamoma/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/jamoma/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/jamoma/subscriptions",
+    "organizations_url": "https://api.github.com/users/jamoma/orgs",
+    "repos_url": "https://api.github.com/users/jamoma/repos",
+    "events_url": "https://api.github.com/users/jamoma/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/jamoma/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "stirem": 1,
+    "adrian-gierakowski": 2,
+    "blueyeti": 5,
+    "nwolek": 5,
+    "jamomabuild": 6,
+    "hems": 10,
+    "jcelerier": 29,
+    "tap": 50,
+    "Nilson": 102,
+    "matcham": 131,
+    "bltzr": 220,
+    "avilleret": 225,
+    "reno-": 346,
+    "jln-": 443
+  },
+  "pulls_authors": [
+    "gitter-badger",
+    "reno-",
+    "tap",
+    "theod",
+    "avilleret"
+  ],
+  "languages": {
+    "Max": {
+      "bytes": 40921582,
+      "color": "#c4a79c"
+    },
+    "HTML": {
+      "bytes": 4412422,
+      "color": "#e34c26"
+    },
+    "C++": {
+      "bytes": 2889661,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 1569994,
+      "color": "#555555"
+    },
+    "JavaScript": {
+      "bytes": 153358,
+      "color": "#f1e05a"
+    },
+    "CMake": {
+      "bytes": 68036,
+      "color": "#ccc"
+    },
+    "Objective-C++": {
+      "bytes": 38636,
+      "color": "#6866fb"
+    },
+    "Objective-C": {
+      "bytes": 26498,
+      "color": "#438eff"
+    },
+    "CSS": {
+      "bytes": 17484,
+      "color": "#563d7c"
+    },
+    "Shell": {
+      "bytes": 11360,
+      "color": "#89e051"
+    },
+    "Rebol": {
+      "bytes": 4766,
+      "color": "#358a5b"
+    },
+    "Ruby": {
+      "bytes": 4332,
+      "color": "#701516"
+    },
+    "PowerShell": {
+      "bytes": 4326,
+      "color": "#012456"
+    },
+    "AppleScript": {
+      "bytes": 1816,
+      "color": "#101F1F"
+    },
+    "R": {
+      "bytes": 1770,
+      "color": "#198CE7"
+    },
+    "GLSL": {
+      "bytes": 775,
+      "color": "#ccc"
+    },
+    "Pure Data": {
+      "bytes": 726,
+      "color": "#ccc"
+    }
+  },
+  "fetched_at": "2018-09-12T15:47:56.781Z"
+}

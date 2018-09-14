@@ -1,0 +1,83 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "FSharp.Linq.ComposableQuery",
+  "full_name": "fsprojects/FSharp.Linq.ComposableQuery",
+  "owner": "fsprojects",
+  "private": false,
+  "html_url": "https://github.com/fsprojects/FSharp.Linq.ComposableQuery",
+  "description": "Compositional Query Framework for F# Queries, based on \"A Practical Theory of Language-Integrated Query\"",
+  "fork": false,
+  "url": "https://api.github.com/repos/fsprojects/FSharp.Linq.ComposableQuery",
+  "languages_url": "https://api.github.com/repos/fsprojects/FSharp.Linq.ComposableQuery/languages",
+  "pulls_url": "https://api.github.com/repos/fsprojects/FSharp.Linq.ComposableQuery/pulls{/number}",
+  "created_at": "2013-11-19T14:18:44Z",
+  "updated_at": "2018-08-19T02:08:29Z",
+  "pushed_at": "2017-05-22T12:36:32Z",
+  "homepage": "http://fsprojects.github.io/FSharp.Linq.ComposableQuery/",
+  "size": 1487,
+  "stargazers_count": 47,
+  "language": "F#",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "fsprojects",
+    "id": 6001315,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjYwMDEzMTU=",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/6001315?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/fsprojects",
+    "html_url": "https://github.com/fsprojects",
+    "followers_url": "https://api.github.com/users/fsprojects/followers",
+    "following_url": "https://api.github.com/users/fsprojects/following{/other_user}",
+    "gists_url": "https://api.github.com/users/fsprojects/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/fsprojects/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/fsprojects/subscriptions",
+    "organizations_url": "https://api.github.com/users/fsprojects/orgs",
+    "repos_url": "https://api.github.com/users/fsprojects/repos",
+    "events_url": "https://api.github.com/users/fsprojects/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/fsprojects/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "fsprojectsgit": 1,
+    "fsgit": 1,
+    "dsyme": 1,
+    "sergey-tihon": 3,
+    "philderbeast": 3,
+    "jamescheney": 33,
+    "ixtreon": 42
+  },
+  "pulls_authors": [
+    "cloudRoutine",
+    "philderbeast",
+    "ShyAlex"
+  ],
+  "languages": {
+    "F#": {
+      "bytes": 183806,
+      "color": "#b845fc"
+    },
+    "PLpgSQL": {
+      "bytes": 4882,
+      "color": "#ccc"
+    },
+    "Batchfile": {
+      "bytes": 264,
+      "color": "#C1F12E"
+    },
+    "Shell": {
+      "bytes": 188,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-08T00:07:35.893Z"
+}

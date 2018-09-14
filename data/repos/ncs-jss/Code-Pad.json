@@ -1,0 +1,77 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "Code-Pad",
+  "full_name": "ncs-jss/Code-Pad",
+  "owner": "ncs-jss",
+  "private": false,
+  "html_url": "https://github.com/ncs-jss/Code-Pad",
+  "description": "Compiler for college..!",
+  "fork": false,
+  "url": "https://api.github.com/repos/ncs-jss/Code-Pad",
+  "languages_url": "https://api.github.com/repos/ncs-jss/Code-Pad/languages",
+  "created_at": "2016-07-10T07:49:22Z",
+  "updated_at": "2018-07-02T16:58:57Z",
+  "pushed_at": "2018-07-02T16:58:55Z",
+  "homepage": "http://ncs-codepad.herokuapp.com/",
+  "size": 14065,
+  "stargazers_count": 9,
+  "language": "HTML",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "ncs-jss",
+    "id": 11776797,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjExNzc2Nzk3",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/11776797?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ncs-jss",
+    "html_url": "https://github.com/ncs-jss",
+    "followers_url": "https://api.github.com/users/ncs-jss/followers",
+    "following_url": "https://api.github.com/users/ncs-jss/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ncs-jss/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ncs-jss/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ncs-jss/subscriptions",
+    "organizations_url": "https://api.github.com/users/ncs-jss/orgs",
+    "repos_url": "https://api.github.com/users/ncs-jss/repos",
+    "events_url": "https://api.github.com/users/ncs-jss/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ncs-jss/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Thilagavathi1": 1,
+    "Nelabh": 1,
+    "Sahilkmaurya": 14,
+    "bhoomi97": 30,
+    "ankitjain28may": 132
+  },
+  "languages": {
+    "HTML": {
+      "bytes": 590702,
+      "color": "#e34c26"
+    },
+    "JavaScript": {
+      "bytes": 463111,
+      "color": "#f1e05a"
+    },
+    "PHP": {
+      "bytes": 167627,
+      "color": "#4F5D95"
+    }
+  },
+  "fetched_at": "2018-07-25T14:10:51.615Z",
+  "pulls_url": "https://api.github.com/repos/ncs-jss/Code-Pad/pulls{/number}",
+  "pulls_authors": [
+    "anantjain6",
+    "Thilagavathi1",
+    "ankitjain28may"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "ghcjs-dom",
+  "full_name": "ghcjs/ghcjs-dom",
+  "owner": "ghcjs",
+  "private": false,
+  "html_url": "https://github.com/ghcjs/ghcjs-dom",
+  "description": "Make Document Object Model (DOM) apps that run in any browser and natively using WebKitGtk",
+  "fork": false,
+  "url": "https://api.github.com/repos/ghcjs/ghcjs-dom",
+  "languages_url": "https://api.github.com/repos/ghcjs/ghcjs-dom/languages",
+  "pulls_url": "https://api.github.com/repos/ghcjs/ghcjs-dom/pulls{/number}",
+  "created_at": "2012-09-21T16:37:03Z",
+  "updated_at": "2018-09-12T12:57:42Z",
+  "pushed_at": "2018-09-12T12:57:38Z",
+  "homepage": "",
+  "size": 6588,
+  "stargazers_count": 56,
+  "language": "Haskell",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "organization": {
+    "login": "ghcjs",
+    "id": 1726077,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjE3MjYwNzc=",
+    "avatar_url": "https://avatars3.githubusercontent.com/u/1726077?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/ghcjs",
+    "html_url": "https://github.com/ghcjs",
+    "followers_url": "https://api.github.com/users/ghcjs/followers",
+    "following_url": "https://api.github.com/users/ghcjs/following{/other_user}",
+    "gists_url": "https://api.github.com/users/ghcjs/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/ghcjs/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/ghcjs/subscriptions",
+    "organizations_url": "https://api.github.com/users/ghcjs/orgs",
+    "repos_url": "https://api.github.com/users/ghcjs/repos",
+    "events_url": "https://api.github.com/users/ghcjs/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/ghcjs/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "luigy": 1,
+    "stefan-j": 1,
+    "kfigiela": 1,
+    "marcelbuesing": 1,
+    "ryantrinkle": 1,
+    "RyanGlScott": 1,
+    "luite": 1,
+    "knrafto": 1,
+    "oliverbunting": 2,
+    "Profpatsch": 3,
+    "ddssff": 3,
+    "eskimor": 4,
+    "mulderr": 4,
+    "dfordivam": 5,
+    "hamishmack": 150
+  },
+  "pulls_authors": [
+    "dfordivam",
+    "eskimor",
+    "luigy",
+    "Profpatsch",
+    "oliverbunting",
+    "dmjio",
+    "mulderr",
+    "stefan-j",
+    "ryantrinkle",
+    "kfigiela",
+    "ddssff",
+    "marcelbuesing",
+    "ali-abrar",
+    "RyanGlScott"
+  ],
+  "languages": {
+    "Haskell": {
+      "bytes": 5037448,
+      "color": "#5e5086"
+    },
+    "Nix": {
+      "bytes": 1462,
+      "color": "#7e7eff"
+    },
+    "Dockerfile": {
+      "bytes": 1029,
+      "color": "#0db7ed"
+    },
+    "Shell": {
+      "bytes": 730,
+      "color": "#89e051"
+    },
+    "JavaScript": {
+      "bytes": 603,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-12T15:55:37.236Z"
+}

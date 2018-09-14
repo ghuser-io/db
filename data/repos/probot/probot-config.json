@@ -1,0 +1,74 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "probot-config",
+  "full_name": "probot/probot-config",
+  "owner": "probot",
+  "private": false,
+  "html_url": "https://github.com/probot/probot-config",
+  "description": "A Probot extension to easily share configs between repositories.",
+  "fork": false,
+  "url": "https://api.github.com/repos/probot/probot-config",
+  "languages_url": "https://api.github.com/repos/probot/probot-config/languages",
+  "created_at": "2017-10-19T15:53:35Z",
+  "updated_at": "2018-09-04T20:01:05Z",
+  "pushed_at": "2018-09-04T20:01:04Z",
+  "homepage": null,
+  "size": 66,
+  "stargazers_count": 20,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "bsd-3-clause",
+    "name": "BSD 3-Clause \"New\" or \"Revised\" License",
+    "spdx_id": "BSD-3-Clause",
+    "url": "https://api.github.com/licenses/bsd-3-clause",
+    "node_id": "MDc6TGljZW5zZTU="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "probot",
+    "id": 26350515,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjI2MzUwNTE1",
+    "avatar_url": "https://avatars2.githubusercontent.com/u/26350515?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/probot",
+    "html_url": "https://github.com/probot",
+    "followers_url": "https://api.github.com/users/probot/followers",
+    "following_url": "https://api.github.com/users/probot/following{/other_user}",
+    "gists_url": "https://api.github.com/users/probot/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/probot/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/probot/subscriptions",
+    "organizations_url": "https://api.github.com/users/probot/orgs",
+    "repos_url": "https://api.github.com/users/probot/repos",
+    "events_url": "https://api.github.com/users/probot/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/probot/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "hiimbex": 1,
+    "JasonEtco": 1,
+    "itaditya": 1,
+    "szeck87": 1,
+    "cco3": 3,
+    "jan-auer": 21,
+    "jbhoosreddy": 1
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 11343,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-09-05T02:21:32.409Z",
+  "pulls_url": "https://api.github.com/repos/probot/probot-config/pulls{/number}",
+  "pulls_authors": [
+    "hiimbex",
+    "cco3",
+    "JasonEtco",
+    "itaditya",
+    "szeck87",
+    "jbhoosreddy"
+  ]
+}

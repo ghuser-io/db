@@ -1,0 +1,73 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "testnet-v1",
+  "full_name": "RocksteadyTC/testnet-v1",
+  "owner": "RocksteadyTC",
+  "private": false,
+  "html_url": "https://github.com/RocksteadyTC/testnet-v1",
+  "description": "Rock's TestNet, a more dangerous testnet for TurtleCoin. This is for operations that are unsuitable for the `--testnet` flag in the normal daemon.",
+  "fork": false,
+  "url": "https://api.github.com/repos/RocksteadyTC/testnet-v1",
+  "languages_url": "https://api.github.com/repos/RocksteadyTC/testnet-v1/languages",
+  "pulls_url": "https://api.github.com/repos/RocksteadyTC/testnet-v1/pulls{/number}",
+  "created_at": "2018-02-28T07:28:32Z",
+  "updated_at": "2018-03-24T20:46:42Z",
+  "pushed_at": "2018-03-09T07:02:11Z",
+  "homepage": "",
+  "size": 9331,
+  "stargazers_count": 1,
+  "language": "C++",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "lgpl-3.0",
+    "name": "GNU Lesser General Public License v3.0",
+    "spdx_id": "LGPL-3.0",
+    "url": "https://api.github.com/licenses/lgpl-3.0",
+    "node_id": "MDc6TGljZW5zZTEy"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "RocksteadyTC": 7
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C++": {
+      "bytes": 4526040,
+      "color": "#f34b7d"
+    },
+    "C": {
+      "bytes": 452965,
+      "color": "#555555"
+    },
+    "CMake": {
+      "bytes": 17987,
+      "color": "#ccc"
+    },
+    "Shell": {
+      "bytes": 13178,
+      "color": "#89e051"
+    },
+    "Perl 6": {
+      "bytes": 7379,
+      "color": "#0000fb"
+    },
+    "Python": {
+      "bytes": 1669,
+      "color": "#3572A5"
+    },
+    "Perl": {
+      "bytes": 1456,
+      "color": "#0298c3"
+    },
+    "Assembly": {
+      "bytes": 934,
+      "color": "#6E4C13"
+    },
+    "Makefile": {
+      "bytes": 750,
+      "color": "#427819"
+    }
+  },
+  "fetched_at": "2018-09-11T22:35:55.446Z"
+}

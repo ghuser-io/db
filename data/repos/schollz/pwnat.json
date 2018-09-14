@@ -1,0 +1,53 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "pwnat",
+  "full_name": "schollz/pwnat",
+  "owner": "schollz",
+  "private": false,
+  "html_url": "https://github.com/schollz/pwnat",
+  "description": "The only tool to punch holes through firewalls/NATs where both clients and server can be behind separate NATs without any 3rd party involvement. Pwnat uses a newly developed technique, exploiting a property of NAT translation tables, with no 3rd party, port forwarding, DMZ, router administrative requirements, or spoofing required.",
+  "fork": true,
+  "url": "https://api.github.com/repos/schollz/pwnat",
+  "languages_url": "https://api.github.com/repos/schollz/pwnat/languages",
+  "pulls_url": "https://api.github.com/repos/schollz/pwnat/pulls{/number}",
+  "created_at": "2018-04-13T00:55:01Z",
+  "updated_at": "2018-06-07T12:18:42Z",
+  "pushed_at": "2018-01-23T17:01:17Z",
+  "homepage": "https://samy.pl/pwnat/",
+  "size": 68,
+  "stargazers_count": 1,
+  "language": "C",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "michael-yuji": 1,
+    "DavidBuchanan314": 1,
+    "tobiasschulz": 1,
+    "timdiels": 2,
+    "samyk": 4
+  },
+  "pulls_authors": [],
+  "languages": {
+    "C": {
+      "bytes": 107424,
+      "color": "#555555"
+    },
+    "Makefile": {
+      "bytes": 1752,
+      "color": "#427819"
+    },
+    "Shell": {
+      "bytes": 156,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-11T20:53:55.550Z"
+}

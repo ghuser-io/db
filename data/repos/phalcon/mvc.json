@@ -1,0 +1,100 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "mvc",
+  "full_name": "phalcon/mvc",
+  "owner": "phalcon",
+  "private": false,
+  "html_url": "https://github.com/phalcon/mvc",
+  "description": "Phalcon MVC Examples",
+  "fork": false,
+  "url": "https://api.github.com/repos/phalcon/mvc",
+  "languages_url": "https://api.github.com/repos/phalcon/mvc/languages",
+  "pulls_url": "https://api.github.com/repos/phalcon/mvc/pulls{/number}",
+  "created_at": "2012-08-11T21:24:57Z",
+  "updated_at": "2018-09-12T22:15:52Z",
+  "pushed_at": "2018-08-16T06:43:21Z",
+  "homepage": null,
+  "size": 182,
+  "stargazers_count": 652,
+  "language": "PHP",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "phalcon",
+    "id": 1221505,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjEyMjE1MDU=",
+    "avatar_url": "https://avatars1.githubusercontent.com/u/1221505?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/phalcon",
+    "html_url": "https://github.com/phalcon",
+    "followers_url": "https://api.github.com/users/phalcon/followers",
+    "following_url": "https://api.github.com/users/phalcon/following{/other_user}",
+    "gists_url": "https://api.github.com/users/phalcon/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/phalcon/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/phalcon/subscriptions",
+    "organizations_url": "https://api.github.com/users/phalcon/orgs",
+    "repos_url": "https://api.github.com/users/phalcon/repos",
+    "events_url": "https://api.github.com/users/phalcon/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/phalcon/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "Bana0615": 1,
+    "tihoho": 1,
+    "egorsmkv": 1,
+    "rogerthomas84": 1,
+    "Ebykovski": 1,
+    "theDisco": 1,
+    "essuzuki": 2,
+    "carvajaldiazeduar": 3,
+    "SidRoberts": 9,
+    "andresgutierrez": 12,
+    "sergeyklay": 15
+  },
+  "pulls_authors": [
+    "toanvan273",
+    "Bana0615",
+    "sergeyklay",
+    "SidRoberts",
+    "d666anggel",
+    "essuzuki",
+    "tmihalik",
+    "tihoho",
+    "egorsmkv",
+    "ghost",
+    "rogerthomas84",
+    "tiagobutzke",
+    "Chameleon-m",
+    "Ebykovski",
+    "theDisco",
+    "alantonilopez"
+  ],
+  "languages": {
+    "PHP": {
+      "bytes": 95491,
+      "color": "#4F5D95"
+    },
+    "ApacheConf": {
+      "bytes": 5894,
+      "color": "#ccc"
+    },
+    "HTML": {
+      "bytes": 3399,
+      "color": "#e34c26"
+    },
+    "Volt": {
+      "bytes": 2885,
+      "color": "#1F1F1F"
+    }
+  },
+  "fetched_at": "2018-09-12T23:43:45.144Z"
+}

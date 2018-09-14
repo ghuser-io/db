@@ -1,0 +1,62 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "TCC-UTFPR",
+  "full_name": "fronchetti/TCC-UTFPR",
+  "owner": "fronchetti",
+  "private": false,
+  "html_url": "https://github.com/fronchetti/TCC-UTFPR",
+  "description": "An overview of receptiveness in open source projects (2017)",
+  "fork": false,
+  "url": "https://api.github.com/repos/fronchetti/TCC-UTFPR",
+  "languages_url": "https://api.github.com/repos/fronchetti/TCC-UTFPR/languages",
+  "pulls_url": "https://api.github.com/repos/fronchetti/TCC-UTFPR/pulls{/number}",
+  "created_at": "2017-09-03T19:00:41Z",
+  "updated_at": "2018-07-19T12:38:49Z",
+  "pushed_at": "2018-07-19T12:38:48Z",
+  "homepage": "",
+  "size": 162542,
+  "stargazers_count": 2,
+  "language": "PostScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "TiagoDanin": 1,
+    "fronchetti": 84
+  },
+  "pulls_authors": [
+    "TiagoDanin"
+  ],
+  "languages": {
+    "PostScript": {
+      "bytes": 183192,
+      "color": "#da291c"
+    },
+    "Python": {
+      "bytes": 76695,
+      "color": "#3572A5"
+    },
+    "CSS": {
+      "bytes": 31314,
+      "color": "#563d7c"
+    },
+    "PHP": {
+      "bytes": 21774,
+      "color": "#4F5D95"
+    },
+    "R": {
+      "bytes": 14131,
+      "color": "#198CE7"
+    },
+    "JavaScript": {
+      "bytes": 13086,
+      "color": "#f1e05a"
+    },
+    "Shell": {
+      "bytes": 1505,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-08-12T17:48:20.581Z"
+}

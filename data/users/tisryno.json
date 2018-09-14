@@ -1,0 +1,28 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "TisRyno",
+  "ghuser_created_at": "2018-09-11T11:53:51.953Z",
+  "avatar_url": "https://avatars2.githubusercontent.com/u/1848188?v=4",
+  "html_url": "https://github.com/TisRyno",
+  "organizations_url": "https://api.github.com/users/TisRyno/orgs",
+  "repos_url": "https://api.github.com/users/TisRyno/repos",
+  "type": "User",
+  "name": "Ryan McEvoy",
+  "company": null,
+  "blog": "",
+  "location": null,
+  "email": "ryan.mcevoy@firebox.com",
+  "bio": null,
+  "public_gists": 0,
+  "created_at": "2012-06-13T21:58:50Z",
+  "updated_at": "2018-09-10T13:51:52Z",
+  "organizations": [],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:18:19.038Z",
+    "repos": [
+      "TisRyno/CombatTools",
+      "TisRyno/IHI",
+      "Cecer1/Bluedot"
+    ]
+  }
+}

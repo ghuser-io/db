@@ -1,0 +1,47 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "progress_job_demo",
+  "full_name": "d4be4st/progress_job_demo",
+  "owner": "d4be4st",
+  "private": false,
+  "html_url": "https://github.com/d4be4st/progress_job_demo",
+  "description": "Demo app for progress_job gem",
+  "fork": false,
+  "url": "https://api.github.com/repos/d4be4st/progress_job_demo",
+  "languages_url": "https://api.github.com/repos/d4be4st/progress_job_demo/languages",
+  "pulls_url": "https://api.github.com/repos/d4be4st/progress_job_demo/pulls{/number}",
+  "created_at": "2014-11-07T16:10:34Z",
+  "updated_at": "2018-06-19T13:05:39Z",
+  "pushed_at": "2018-06-19T13:05:38Z",
+  "homepage": null,
+  "size": 50,
+  "stargazers_count": 4,
+  "language": "Ruby",
+  "mirror_url": null,
+  "archived": false,
+  "license": null,
+  "default_branch": "master",
+  "contributors": {
+    "d4be4st": 16
+  },
+  "pulls_authors": [],
+  "languages": {
+    "Ruby": {
+      "bytes": 32212,
+      "color": "#701516"
+    },
+    "HTML": {
+      "bytes": 6404,
+      "color": "#e34c26"
+    },
+    "CSS": {
+      "bytes": 702,
+      "color": "#563d7c"
+    },
+    "JavaScript": {
+      "bytes": 667,
+      "color": "#f1e05a"
+    }
+  },
+  "fetched_at": "2018-08-17T16:21:29.575Z"
+}

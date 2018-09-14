@@ -1,0 +1,45 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "repos": {
+    "alexanderpepper/vue-spotify": {
+      "full_name": "alexanderpepper/vue-spotify",
+      "name": "vue-spotify",
+      "stargazers_count": 2,
+      "popularity": 1.0414282204429401,
+      "percentage": 88.37209302325581,
+      "maturity": 2.951612077802432,
+      "total_commits_count": 129,
+      "activity": 5,
+      "total_score": 25.991823721557232,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "jiahaog/nativefier-icons": {
+      "full_name": "jiahaog/nativefier-icons",
+      "name": "nativefier-icons",
+      "stargazers_count": 104,
+      "popularity": 3.013297716025155,
+      "percentage": 0,
+      "maturity": 2.3260105612596127,
+      "total_commits_count": 61,
+      "activity": 5,
+      "total_score": 18.69191427059469,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    },
+    "alexanderpepper/ios-app-template": {
+      "full_name": "alexanderpepper/ios-app-template",
+      "name": "ios-app-template",
+      "stargazers_count": 1,
+      "popularity": 0,
+      "percentage": 100,
+      "maturity": 0,
+      "total_commits_count": 2,
+      "activity": 0.54063698314192,
+      "total_score": 0.54063698314192,
+      "total_score_human_formula": "(3 + percentage * 13) * popularity + 2 * maturity + activity",
+      "max_total_score": 95
+    }
+  },
+  "organizations": []
+}

@@ -1,0 +1,34 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../README.md",
+  "login": "colinmcdonald22",
+  "ghuser_created_at": "2018-09-12T00:21:44.654Z",
+  "avatar_url": "https://avatars0.githubusercontent.com/u/1781217?v=4",
+  "html_url": "https://github.com/colinmcdonald22",
+  "organizations_url": "https://api.github.com/users/colinmcdonald22/orgs",
+  "repos_url": "https://api.github.com/users/colinmcdonald22/repos",
+  "type": "User",
+  "name": "Colin McDonald",
+  "company": "@FrozenOrb",
+  "blog": "https://cmcdonald.me",
+  "location": "New Jersey, United States",
+  "email": "cmcdonald.main@gmail.com",
+  "bio": "High School Student, Software Developer @FrozenOrb",
+  "public_gists": 0,
+  "created_at": "2012-05-26T17:04:37Z",
+  "updated_at": "2018-09-03T15:02:43Z",
+  "organizations": [
+    "FrozenOrb",
+    "CheatBreaker",
+    "FRC3151"
+  ],
+  "contribs": {
+    "fetched_at": "2018-09-14T08:11:34.590Z",
+    "repos": [
+      "FRC3151/Robot2018",
+      "FRC3151/Robot2017",
+      "FRC3151/EncoderExperimentation",
+      "colinmcdonald22/DonationSync",
+      "colinmcdonald22/BungeeStaffChat"
+    ]
+  }
+}

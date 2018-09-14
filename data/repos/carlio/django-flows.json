@@ -1,0 +1,54 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "django-flows",
+  "full_name": "carlio/django-flows",
+  "owner": "carlio",
+  "private": false,
+  "html_url": "https://github.com/carlio/django-flows",
+  "description": "django-flows keeps state and position in complicated flows of logic, allowing optional branches and complicated paths through a series of individual user actions.  ",
+  "fork": false,
+  "url": "https://api.github.com/repos/carlio/django-flows",
+  "languages_url": "https://api.github.com/repos/carlio/django-flows/languages",
+  "pulls_url": "https://api.github.com/repos/carlio/django-flows/pulls{/number}",
+  "created_at": "2012-07-11T11:00:30Z",
+  "updated_at": "2018-08-04T00:49:59Z",
+  "pushed_at": "2016-04-23T22:25:01Z",
+  "homepage": "",
+  "size": 141,
+  "stargazers_count": 104,
+  "language": "Python",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "contributors": {
+    "doismellburning": 5,
+    "carlio": 113
+  },
+  "pulls_authors": [
+    "sergioisidoro",
+    "doismellburning",
+    "suligap",
+    "bitdeli-chef",
+    "haraball",
+    "jdelic",
+    "carlio"
+  ],
+  "languages": {
+    "Python": {
+      "bytes": 62331,
+      "color": "#3572A5"
+    },
+    "Shell": {
+      "bytes": 427,
+      "color": "#89e051"
+    }
+  },
+  "fetched_at": "2018-09-12T07:42:19.746Z"
+}

@@ -1,0 +1,82 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "lterm",
+  "full_name": "NJACKWinterOfCode/lterm",
+  "owner": "NJACKWinterOfCode",
+  "private": false,
+  "html_url": "https://github.com/NJACKWinterOfCode/lterm",
+  "description": "Online bash terminal(emulator) tutorial. A step by step tutorial for the bash shell.",
+  "fork": true,
+  "url": "https://api.github.com/repos/NJACKWinterOfCode/lterm",
+  "languages_url": "https://api.github.com/repos/NJACKWinterOfCode/lterm/languages",
+  "created_at": "2017-11-25T23:09:11Z",
+  "updated_at": "2018-07-04T03:36:32Z",
+  "pushed_at": "2018-01-12T10:16:22Z",
+  "homepage": "https://sr6033.github.io/lterm/",
+  "size": 191,
+  "stargazers_count": 3,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "gpl-3.0",
+    "name": "GNU General Public License v3.0",
+    "spdx_id": "GPL-3.0",
+    "url": "https://api.github.com/licenses/gpl-3.0",
+    "node_id": "MDc6TGljZW5zZTk="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "NJACKWinterOfCode",
+    "id": 33991322,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjMzOTkxMzIy",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/33991322?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/NJACKWinterOfCode",
+    "html_url": "https://github.com/NJACKWinterOfCode",
+    "followers_url": "https://api.github.com/users/NJACKWinterOfCode/followers",
+    "following_url": "https://api.github.com/users/NJACKWinterOfCode/following{/other_user}",
+    "gists_url": "https://api.github.com/users/NJACKWinterOfCode/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/NJACKWinterOfCode/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/NJACKWinterOfCode/subscriptions",
+    "organizations_url": "https://api.github.com/users/NJACKWinterOfCode/orgs",
+    "repos_url": "https://api.github.com/users/NJACKWinterOfCode/repos",
+    "events_url": "https://api.github.com/users/NJACKWinterOfCode/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/NJACKWinterOfCode/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "vanshsoni": 1,
+    "sachincool": 1,
+    "ashwani99": 1,
+    "aryadas98": 1,
+    "VitorDiass": 1,
+    "kiryteo": 5,
+    "sr6033": 29
+  },
+  "languages": {
+    "JavaScript": {
+      "bytes": 769324,
+      "color": "#f1e05a"
+    },
+    "CSS": {
+      "bytes": 23672,
+      "color": "#563d7c"
+    },
+    "HTML": {
+      "bytes": 1674,
+      "color": "#e34c26"
+    }
+  },
+  "fetched_at": "2018-07-25T00:05:30.322Z",
+  "pulls_url": "https://api.github.com/repos/NJACKWinterOfCode/lterm/pulls{/number}",
+  "pulls_authors": [
+    "vanshsoni",
+    "kiryteo",
+    "sr6033",
+    "sachincool",
+    "ashwani99",
+    "aryadas98"
+  ]
+}

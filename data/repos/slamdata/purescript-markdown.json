@@ -1,0 +1,81 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "purescript-markdown",
+  "full_name": "slamdata/purescript-markdown",
+  "owner": "slamdata",
+  "private": false,
+  "html_url": "https://github.com/slamdata/purescript-markdown",
+  "description": "A Purescript library for parsing SlamData's dialect of Markdown.",
+  "fork": false,
+  "url": "https://api.github.com/repos/slamdata/purescript-markdown",
+  "languages_url": "https://api.github.com/repos/slamdata/purescript-markdown/languages",
+  "pulls_url": "https://api.github.com/repos/slamdata/purescript-markdown/pulls{/number}",
+  "created_at": "2014-11-06T17:32:21Z",
+  "updated_at": "2018-06-30T16:01:34Z",
+  "pushed_at": "2018-06-30T16:02:03Z",
+  "homepage": null,
+  "size": 233,
+  "stargazers_count": 27,
+  "language": "PureScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "other",
+    "name": "Other",
+    "spdx_id": null,
+    "url": null,
+    "node_id": "MDc6TGljZW5zZTA="
+  },
+  "default_branch": "master",
+  "organization": {
+    "login": "slamdata",
+    "id": 5385602,
+    "node_id": "MDEyOk9yZ2FuaXphdGlvbjUzODU2MDI=",
+    "avatar_url": "https://avatars0.githubusercontent.com/u/5385602?v=4",
+    "gravatar_id": "",
+    "url": "https://api.github.com/users/slamdata",
+    "html_url": "https://github.com/slamdata",
+    "followers_url": "https://api.github.com/users/slamdata/followers",
+    "following_url": "https://api.github.com/users/slamdata/following{/other_user}",
+    "gists_url": "https://api.github.com/users/slamdata/gists{/gist_id}",
+    "starred_url": "https://api.github.com/users/slamdata/starred{/owner}{/repo}",
+    "subscriptions_url": "https://api.github.com/users/slamdata/subscriptions",
+    "organizations_url": "https://api.github.com/users/slamdata/orgs",
+    "repos_url": "https://api.github.com/users/slamdata/repos",
+    "events_url": "https://api.github.com/users/slamdata/events{/privacy}",
+    "received_events_url": "https://api.github.com/users/slamdata/received_events",
+    "type": "Organization",
+    "site_admin": false
+  },
+  "contributors": {
+    "BartAdv": 1,
+    "natefaubion": 1,
+    "beckyconning": 2,
+    "paulyoung": 4,
+    "cryogenian": 5,
+    "puffnfresh": 6,
+    "paf31": 20,
+    "garyb": 22,
+    "jdegoes": 26,
+    "jonsterling": 29
+  },
+  "pulls_authors": [
+    "paulyoung",
+    "cryogenian",
+    "BartAdv",
+    "garyb",
+    "natefaubion",
+    "alexmingoia",
+    "jonsterling",
+    "beckyconning",
+    "puffnfresh",
+    "paf31"
+  ],
+  "languages": {
+    "PureScript": {
+      "bytes": 66159,
+      "color": "#1D222D"
+    }
+  },
+  "fetched_at": "2018-09-08T12:40:50.345Z"
+}

@@ -1,0 +1,86 @@
+{
+  "_comment": "DO NOT EDIT MANUALLY - See ../../../README.md",
+  "name": "keras-js",
+  "full_name": "transcranial/keras-js",
+  "owner": "transcranial",
+  "private": false,
+  "html_url": "https://github.com/transcranial/keras-js",
+  "description": "Run Keras models in the browser, with GPU support using WebGL",
+  "fork": false,
+  "url": "https://api.github.com/repos/transcranial/keras-js",
+  "languages_url": "https://api.github.com/repos/transcranial/keras-js/languages",
+  "pulls_url": "https://api.github.com/repos/transcranial/keras-js/pulls{/number}",
+  "created_at": "2016-09-30T14:40:35Z",
+  "updated_at": "2018-09-13T20:37:56Z",
+  "pushed_at": "2018-08-16T16:46:13Z",
+  "homepage": "https://transcranial.github.io/keras-js",
+  "size": 18004,
+  "stargazers_count": 4299,
+  "language": "JavaScript",
+  "mirror_url": null,
+  "archived": false,
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "default_branch": "master",
+  "contributors": {
+    "extend1994": 1,
+    "superMDguy": 1,
+    "stekaiser": 1,
+    "zafarali": 1,
+    "wassname": 1,
+    "bikle": 1,
+    "huyouare": 1,
+    "radarhere": 1,
+    "jefffriesen": 2,
+    "transcranial": 600
+  },
+  "pulls_authors": [
+    "sinan",
+    "rwieruch",
+    "linusmartensson",
+    "kmader",
+    "harish2704",
+    "mattdangerw",
+    "Reichenbachian",
+    "dparnellmitek",
+    "extend1994",
+    "qinwf",
+    "superMDguy",
+    "jefffriesen",
+    "aferdoash",
+    "stekaiser",
+    "zafarali",
+    "wassname",
+    "lengstrom",
+    "leo6104",
+    "danbikle",
+    "huyouare",
+    "olveirap",
+    "radarhere",
+    "tjrileywisc"
+  ],
+  "languages": {
+    "JavaScript": {
+      "bytes": 837081,
+      "color": "#f1e05a"
+    },
+    "GLSL": {
+      "bytes": 18707,
+      "color": "#ccc"
+    },
+    "HTML": {
+      "bytes": 9470,
+      "color": "#e34c26"
+    },
+    "Python": {
+      "bytes": 4226,
+      "color": "#3572A5"
+    }
+  },
+  "fetched_at": "2018-09-14T00:18:13.027Z"
+}
