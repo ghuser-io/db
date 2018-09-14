@@ -3,7 +3,8 @@
 Bot
 
 * refreshing the DB at least once per day, and
-* processing profile requests from the [AWS SQS](../../aws/sqs).
+* processing profile requests from the
+  [AWS SQS](https://github.com/ghuser-io/ghuser.io/blob/master/aws/sqs).
 
 Errors will be sent to [Sentry](https://sentry.io) via
 [`raven-bash`](https://github.com/ViktorStiskala/raven-bash).
@@ -35,7 +36,7 @@ See [`raven-bash`'s documentation](https://github.com/ViktorStiskala/raven-bash#
 
 ### Set up AWS CLI
 
-See [here](../../aws).
+See [here](https://github.com/ghuser-io/ghuser.io/blob/master/aws).
 
 ### Install other dependencies
 
@@ -50,4 +51,5 @@ $ sudo apt-get install jq
 $ ./bot.sh
 ```
 
-> **NOTE**: in production we currently run this bot on an [EC2 instance](../../aws/ec2).
+> **NOTE**: in production we currently run this bot on an
+> [EC2 instance](https://github.com/ghuser-io/ghuser.io/blob/master/aws/ec2).
