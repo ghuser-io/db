@@ -1,4 +1,6 @@
-# Database
+[![Build Status](https://travis-ci.org/ghuser-io/db.svg?branch=master)](https://travis-ci.org/ghuser-io/db)
+
+# [ghuser.io](https://github.com/ghuser-io/ghuser.io)'s database
 
 It is here to cache GitHub's data. During the prototyping phrase, it's just a set of
 [JSON files](data/) that we update once per day by running [this bot](fetchBot/) on an
