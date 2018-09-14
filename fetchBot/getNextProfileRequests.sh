@@ -4,7 +4,7 @@ set -e
 
 # temporary script for issue143
 
-source thirdparty/aws-sqs/utils.sh
+source ../thirdparty/aws-sqs/utils.sh
 
 function getNextSqsMessage {
   request="$(aws sqs receive-message --queue-url $(queueUrl) --visibility-timeout $1 | jq .Messages[0])"
