@@ -2,23 +2,72 @@
 
 # [ghuser.io](https://github.com/ghuser-io/ghuser.io)'s database
 
-It is here to cache GitHub's data. During the prototyping phrase, it's just a set of
-[JSON files](data/) that we update once per day by running [this bot](fetchBot/) on an
-[EC2 instance](https://github.com/ghuser-io/ghuser.io/blob/master/aws/ec2).
+This repository:
+* Serves as database for the [ghuser.io](https://github.com/ghuser-io/ghuser.io) Reframe app.\
+The DB consists of the [JSON files in `data`](data/).
+* Provides scripts to update the database. 
+
+In particular, [FetchBot](fetchBot/) runs daily on an [EC2 instance](https://github.com/ghuser-io/ghuser.io/blob/master/aws/ec2).
 
 ## Table of Contents
 
 <!-- toc -->
 
-- [Updating the database](#updating-the-database)
-- [Serving one more user](#serving-one-more-user)
-- [Deleting a profile](#deleting-a-profile)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Implementation](#implementation)
 
 <!-- tocstop -->
 
-## Updating the database
+## Setup
 
-Several scripts form a pipeline for updating the database. Here is the data flow:
+API keys can be created [here](https://github.com/settings/developers).
+
+```bash
+$ npm install
+$ export GITHUB_CLIENT_ID=0123456789abcdef0123
+$ export GITHUB_CLIENT_SECRET=0123456789abcdef0123456789abcdef01234567
+$ export GITHUB_USERNAME=AurelienLourot
+$ export GITHUB_PASSWORD=********
+$ ./fetchAndCalculateAll.sh
+...
+data/
+  users/
+    262 users
+    largest: moul.json (20 KB)
+    total: 634 KB
+  contribs/
+    largest: moul.json (216 KB)
+    total: 3823 KB
+  repos/
+    8159 repos
+    largest: jlord/patchwork.json (379 KB)
+    total: 23889 KB
+  orgs.json: 639 KB
+  nonOrgs.json: 35 KB
+  total: 28984 KB
+
+=> 111 KB/user
+GitHub API key found.
+GitHub credentials found.
+
+real    78m44.200s
+user    2m58.520s
+sys     0m23.160s
+```
+
+## Usage
+
+* Start tracking a user:\
+`./addUser.js USER` 
+* Stop tracking a user:\
+`./rmUser.js USER "you asked us to remove your profile in https://github.com/ghuser-io/ghuser.io/issues/666"`
+* Refresh and clean data for all tracked users:\
+`./fetchAndCalculateAll.sh` 
+
+## Implementation
+
+The following diagram sums up which DB file is read or written by which scripts:
 
 ```
 [ ./addUser.js myUser ]   [ ./rmUser.js myUser ]
@@ -61,55 +110,4 @@ Several scripts form a pipeline for updating the database. Here is the data flow
                       └──────────────────────┘ │─┐
                         └──────────────────────┘ │
                           └──────────────────────┘
-```
-
-For running the entire data pipeline at once, do
-
-```bash
-$ npm install
-$ export GITHUB_CLIENT_ID=0123456789abcdef0123
-$ export GITHUB_CLIENT_SECRET=0123456789abcdef0123456789abcdef01234567
-$ export GITHUB_USERNAME=AurelienLourot
-$ export GITHUB_PASSWORD=********
-$ ./fetchAndCalculateAll.sh
-...
-data/
-  users/
-    262 users
-    largest: moul.json (20 KB)
-    total: 634 KB
-  contribs/
-    largest: moul.json (216 KB)
-    total: 3823 KB
-  repos/
-    8159 repos
-    largest: jlord/patchwork.json (379 KB)
-    total: 23889 KB
-  orgs.json: 639 KB
-  nonOrgs.json: 35 KB
-  total: 28984 KB
-
-=> 111 KB/user
-GitHub API key found.
-GitHub credentials found.
-
-real    78m44.200s
-user    2m58.520s
-sys     0m23.160s
-```
-
-> **NOTE**: API keys can be created [here](https://github.com/settings/developers).
-
-## Serving one more user
-
-```bash
-$ ./addUser.js newGreatUser
-$ ./fetchAndCalculateAll.sh
-```
-
-## Deleting a profile
-
-```bash
-$ ./rmUser.js formerUser "you asked us to remove your profile in https://github.com/ghuser-io/ghuser.io/issues/666"
-$ ./fetchAndCalculateAll.sh # will also perform some garbage collection
 ```
