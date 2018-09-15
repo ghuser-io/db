@@ -3,8 +3,10 @@
 # Temporary script for issue143, taking several usernames as argument and for each:
 # * calling ./addUser.js, then
 # * calling ./fetchUserDetailsAndContribs.js in parallel.
-
-# sudo pip install python-nonblock==4.0.0
+#
+# sudo pip3 install python-nonblock==4.0.0
+#
+# Note: a machine with 2 GB can fetch up to 45 users in parallel.
 
 import subprocess
 import sys
@@ -25,6 +27,7 @@ for user in users:
         'stdout': bgread(popen.stdout)
     }
 
+all_processes_succeeded=True
 while True:
     time.sleep(5)
     print('----')
@@ -37,6 +40,8 @@ while True:
         exitcode=process['popen'].poll()
         if exitcode != None:
             print_last_stdout_line(user, 'exited with {}'.format(exitcode))
+            if exitcode != 0:
+                all_processes_succeeded=False
             continue
 
         all_processes_are_done=False
@@ -51,3 +56,6 @@ while True:
 
     if all_processes_are_done:
         break
+
+if !all_processes_succeeded:
+    raise ChildProcessError('A process failed')
