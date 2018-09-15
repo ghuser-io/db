@@ -5,7 +5,7 @@
 
   const githubContribs = require('@ghuser/github-contribs');
   const meow = require('meow');
-  const ora = require('ora');
+  let ora = require('ora');
 
   const DbFile = require('./impl/dbFile');
   const fetchJson = require('./impl/fetchJson');
@@ -14,13 +14,20 @@
 
   const cli = meow(`
 usage:
-  $ ./fetchUserDetailsAndContribs.js USER
+  $ ./fetchUserDetailsAndContribs.js USER [--nospin]
   $ ./fetchUserDetailsAndContribs.js --help
   $ ./fetchUserDetailsAndContribs.js --version
 
 positional arguments:
   USER        GitHub username, e.g. AurelienLourot
-`);
+
+optional arguments:
+  --nospin    Don't user spinners but classical terminal output instead
+`, {
+    boolean: [
+      'nospin',
+    ],
+  });
 
   if (cli.input.length < 1) {
     console.error('Error: USER argument missing. See `./fetchUserDetailsAndContribs.js --help`.');
@@ -35,6 +42,33 @@ positional arguments:
   const user = cli.input[0];
 
   scriptUtils.printUnhandledRejections();
+
+  if (cli.flags.nospin) {
+    ora = (text) => ({
+      text,
+      start(text) {
+        this.text = text || this.text;
+        console.log(this.text);
+        return this;
+      },
+      stop(text) {
+        if (text) {
+          this.text = text;
+          console.log(this.text);
+        }
+        return this;
+      },
+      succeed(text) {
+        return this.stop(text);
+      },
+      warn(text) {
+        return this.stop(text);
+      },
+      fail(text) {
+        return this.stop(text);
+      },
+    });
+  }
 
   await fetchUserDetailsAndContribs(user);
   return;
