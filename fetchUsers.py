@@ -57,5 +57,5 @@ while True:
     if all_processes_are_done:
         break
 
-if !all_processes_succeeded:
+if not all_processes_succeeded:
     raise ChildProcessError('A process failed')
