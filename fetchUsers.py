@@ -6,7 +6,7 @@
 #
 # sudo pip3 install python-nonblock==4.0.0
 #
-# Note: a machine with 2 GB can fetch up to 45 users in parallel.
+# Note: a machine with 2 GB can fetch up to 43 users in parallel.
 
 import subprocess
 import sys
