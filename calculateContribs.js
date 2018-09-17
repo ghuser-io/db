@@ -102,7 +102,7 @@
           totalContribs += repos[repo].contributors[contributor];
         }
 
-        score.percentage = repos[repo].contributors[userLogin] &&
+        score.percentage = repos[repo].contributors && repos[repo].contributors[userLogin] &&
                            100 * repos[repo].contributors[userLogin] / totalContribs || 0;
         score.maturity = logarithmicScoreAscending(40, 10000, totalContribs);
         score.total_commits_count = totalContribs;
@@ -174,11 +174,14 @@
       return;
 
       function getContribsOwners(contribRepos) {
-        let result = new Set([]);
+        const result = new Set([]);
         for (const repo in contribRepos) {
           const originalOwner = repo.split('/')[0];
-          const currentOwner = contribRepos[repo].full_name.split('/')[0];
-          result = new Set([...result, originalOwner, currentOwner]);
+          result.add(originalOwner);
+          if (contribRepos[repo].full_name) {
+            const currentOwner = contribRepos[repo].full_name.split('/')[0];
+            result.add(currentOwner);
+          }
         }
         return [...result];
       }
