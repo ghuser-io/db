@@ -5,6 +5,7 @@
 
   const assert = require('assert');
   const fs = require('fs');
+  const meow = require('meow');
   const Mode = require('stat-mode');
   const ora = require('ora');
 
@@ -16,10 +17,31 @@
 
   scriptUtils.printUnhandledRejections();
 
-  await fetchRepos();
+  const cli = meow(`
+Update data/repos/**
+
+usage:
+  $ ./fetchRepos.js [--firsttime]
+  $ ./fetchRepos.js --help
+  $ ./fetchRepos.js --version
+
+optional arguments:
+  --firsttime    Fetch only repos that have never been fetched before
+`, {
+    boolean: [
+      'firsttime',
+    ],
+  });
+
+  if (cli.input.length > 0) {
+    console.error('Error: positional arguments are not supported. See `./fetchRepos.js --help`.');
+    process.exit(1);
+  }
+
+  await fetchRepos(cli.flags.firsttime);
   return;
 
-  async function fetchRepos() {
+  async function fetchRepos(firsttime) {
     let spinner;
 
     const users = [];
@@ -66,7 +88,7 @@
     if (!fastResumeTempFileExists) {
       for (const repo of referencedRepos) {
         if (!repos[repo] || !repos[repo].removed_from_github) {
-          await fetchRepo(repo);
+          await fetchRepo(repo, firsttime);
         }
       }
       stripUnreferencedRepos();
@@ -95,12 +117,12 @@
 
     return;
 
-    async function fetchRepo(repo) {
+    async function fetchRepo(repo, firsttime) {
       const ghRepoUrl = `https://api.github.com/repos/${repo}`;
       spinner = ora(`Fetching ${ghRepoUrl}...`).start();
 
       const now = new Date;
-      const maxAgeHours = 6;
+      const maxAgeHours = firsttime && (24 * 365) || 6;
       if (repos[repo].fetching_since || repos[repo].fetched_at &&
           now - Date.parse(repos[repo].fetched_at) < maxAgeHours * 60 * 60 * 1000) {
         spinner.succeed(`${repo} is still fresh`);
