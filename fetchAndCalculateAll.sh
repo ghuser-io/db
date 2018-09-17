@@ -21,7 +21,7 @@ function run {
 
   ./fetchOrgs.js
   ./fetchRepos.js
-  ./calculateContribs.js
+  ./calculateContribsAndMeta.js
   ./printDataStats.js
 }
 

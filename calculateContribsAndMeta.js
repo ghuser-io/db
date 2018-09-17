@@ -11,20 +11,22 @@
 
   scriptUtils.printUnhandledRejections();
 
-  calculateContribs();
+  calculateContribsAndMeta();
   return;
 
-  function calculateContribs() {
+  function calculateContribsAndMeta() {
     let spinner;
 
     const orgs = new DbFile('data/orgs.json');
 
     const users = {};
+    let numUsers = 0;
     for (const file of fs.readdirSync('data/users/')) {
       if (file.endsWith('.json')) {
         const user = new DbFile(`data/users/${file}`);
         if (!user.ghuser_deleted_because) {
           users[file] = user;
+          ++numUsers;
 
           // Make sure the corresponding contrib file exists (not the case if it's a new user):
           (new DbFile(`data/contribs/${file}`)).write();
@@ -56,11 +58,18 @@
 
     stripUnreferencedContribs();
 
+    let numContribs = 0;
     for (const filename in contribs) {
-      calculateScores(filename);
+      numContribs += calculateScores(filename);
       stripInsignificantContribs(filename);
       calculateOrgs(filename);
     }
+
+    const meta = new DbFile('data/meta.json');
+    meta._comment = 'DO NOT EDIT MANUALLY - See ../README.md';
+    meta.num_users = numUsers;
+    meta.num_contribs = numContribs;
+    meta.write();
 
     return;
 
@@ -79,17 +88,21 @@
       }
     }
 
+    // Calculates all scores for the given user.
+    // Returns the number of contributions.
     function calculateScores(filename) {
       const userLogin = users[filename].login;
 
       spinner = ora(`Calculating scores for ${userLogin}...`).start();
 
+      let numContribs = 0;
       for (const repo of users[filename].contribs.repos) {
         if (!repos[repo]              // repo has been stripped
             || !repos[repo].full_name // repo hasn't been crawled yet
            ) {
           continue;
         }
+        ++numContribs;
 
         const full_name = repos[repo].full_name;
         const score = contribs[filename].repos[full_name] = {
@@ -129,7 +142,7 @@
 
       spinner.succeed(`Calculated scores for ${userLogin}`);
       contribs[filename].write();
-      return;
+      return numContribs;
 
       function logarithmicScoreAscending(valFor0, valFor5, val) {
         // For example with valFor0=1, valFor5=100000, val being the number of stars on a

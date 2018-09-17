@@ -86,7 +86,7 @@
     const nonOrgsSize = fs.statSync(`data/nonOrgs.json`).size;
     console.log(`  nonOrgs.json: ${toKB(nonOrgsSize)}`);
 
-    const totalSize = totalUserSize + totalContribSize + totalRepoSize + orgsSize;
+    const totalSize = totalUserSize + totalContribSize + totalRepoSize + orgsSize + nonOrgsSize;
     console.log(`  total: ${toKB(totalSize)}`);
 
     console.log(`\n=> ${toKB(totalSize / numUsers)}/user`);
