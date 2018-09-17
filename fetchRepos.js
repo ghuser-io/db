@@ -122,7 +122,7 @@ optional arguments:
       spinner = ora(`Fetching ${ghRepoUrl}...`).start();
 
       const now = new Date;
-      const maxAgeHours = firsttime && (24 * 365) || 6;
+      const maxAgeHours = firsttime && (24 * 365) || 12;
       if (repos[repo].fetching_since || repos[repo].fetched_at &&
           now - Date.parse(repos[repo].fetched_at) < maxAgeHours * 60 * 60 * 1000) {
         spinner.succeed(`${repo} is still fresh`);
@@ -133,7 +133,9 @@ optional arguments:
                                                   new Date(repos[repo].fetched_at));
       switch (ghDataJson) {
       case 304:
+        repos[repo].fetched_at = now.toISOString();;
         spinner.succeed(`${repo} didn't change`);
+        repos[repo].write();
         return;
       case 404:
         repos[repo].removed_from_github = true;
