@@ -85,8 +85,10 @@
       spinner = ora(`Calculating scores for ${userLogin}...`).start();
 
       for (const repo of users[filename].contribs.repos) {
-        if (!repos[repo]) {
-          continue; // repo has been stripped
+        if (!repos[repo]              // repo has been stripped
+            || !repos[repo].full_name // repo hasn't been crawled yet
+           ) {
+          continue;
         }
 
         const full_name = repos[repo].full_name;
