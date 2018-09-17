@@ -206,7 +206,8 @@ optional arguments:
 
     async function fetchRepoContributors(repo) {
       repos[repo].contributors = repos[repo].contributors || {};
-      spinner = ora(`Fetching ${repo}'s contributors...`).start();
+      const spinnerText = `Fetching ${repo}'s contributors...`;
+      spinner = ora(spinnerText).start();
 
       if (!repos[repo].fetching_since || repos[repo].fetched_at &&
           new Date(repos[repo].fetched_at) > new Date(repos[repo].pushed_at)) {
@@ -273,6 +274,7 @@ optional arguments:
         const contributors = {};
         const perPage = 100;
         for (let page = 1;; ++page) {
+          spinner.start(`${spinnerText} [commit page ${page}]`);
           const ghUrl = `https://api.github.com/repos/${repo}/commits?page=${page}&per_page=${perPage}`;
           const ghDataJson = await github.fetchGHJson(ghUrl, spinner);
           for (const commit of ghDataJson) {
@@ -296,7 +298,7 @@ optional arguments:
             break;
           }
 
-          if (page >= 1000) {
+          if (page >= 10000) {
             spinner.fail();
             throw 'fetchRepoContributors(): Infinite loop?';
           }
