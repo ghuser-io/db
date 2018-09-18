@@ -58,10 +58,12 @@ optional arguments:
     for (const user of users) {
       for (const repo in (user.contribs && user.contribs.repos || [])) {
         const full_name = user.contribs.repos[repo];
-        referencedRepos.add(full_name);
+        if (full_name) { // undefined if the user hasn't been fully crawled yet
+          referencedRepos.add(full_name);
 
-        // Make sure the corresponding repo file exists:
-        (new DbFile(`data/repos/${full_name}.json`)).write();
+          // Make sure the corresponding repo file exists:
+          (new DbFile(`data/repos/${full_name}.json`)).write();
+        }
       }
     }
 
