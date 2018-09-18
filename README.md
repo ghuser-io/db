@@ -59,25 +59,23 @@ GitHub credentials found.
 ...
 data/
   users/
-    262 users
-    largest: moul.json (20 KB)
-    total: 634 KB
+    623 users
+    largest: tarsius.json (22 KB)
+    total: 1445 KB
   contribs/
-    largest: moul.json (216 KB)
-    total: 3823 KB
+    largest: tarsius.json (261 KB)
+    total: 8455 KB
   repos/
-    8159 repos
+    18117 repos
+    18117 significant repos
     largest: jlord/patchwork.json (379 KB)
-    total: 23889 KB
-  orgs.json: 639 KB
-  nonOrgs.json: 35 KB
-  total: 28984 KB
+    total: 48609 KB
+  orgs.json: 1354 KB
+  nonOrgs.json: 76 KB
+  meta.json: 105 B
+  total: 59939 KB
 
-=> 111 KB/user
-
-real    78m44.200s
-user    2m58.520s
-sys     0m23.160s
+=> 96 KB/user
 ```
 
 ## Implementation

@@ -58,6 +58,7 @@
     console.log(`    total: ${toKB(totalContribSize)}`);
 
     let numRepos = 0;
+    let numSignificantRepos = 0;
     let largestRepoFileName;
     let largestRepoFileSize = 0;
     let totalRepoSize = 0;
@@ -66,6 +67,7 @@
         if (file.endsWith('.json')) {
           const repo = new DbFile(`data/repos/${ownerDir}/${file}`);
           ++numRepos;
+          numSignificantRepos += !repo.removed_from_github && !repo.ghuser_insignificant && 1 || 0;
           const repoFileSize = fs.statSync(`data/repos/${ownerDir}/${file}`).size;
           if (repoFileSize > largestRepoFileSize) {
             largestRepoFileSize = repoFileSize;
@@ -77,6 +79,7 @@
     }
     console.log('  repos/');
     console.log(`    ${numRepos} repos`);
+    console.log(`    ${numSignificantRepos} significant repos`);
     console.log(`    largest: ${largestRepoFileName} (${toKB(largestRepoFileSize)})`);
     console.log(`    total: ${toKB(totalRepoSize)}`);
 
@@ -86,7 +89,11 @@
     const nonOrgsSize = fs.statSync(`data/nonOrgs.json`).size;
     console.log(`  nonOrgs.json: ${toKB(nonOrgsSize)}`);
 
-    const totalSize = totalUserSize + totalContribSize + totalRepoSize + orgsSize + nonOrgsSize;
+    const metaSize = fs.statSync(`data/meta.json`).size;
+    console.log(`  meta.json: ${metaSize} B`);
+
+    const totalSize = totalUserSize + totalContribSize + totalRepoSize + orgsSize + nonOrgsSize +
+                      metaSize;
     console.log(`  total: ${toKB(totalSize)}`);
 
     console.log(`\n=> ${toKB(totalSize / numUsers)}/user`);

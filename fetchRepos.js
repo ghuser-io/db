@@ -54,19 +54,14 @@ optional arguments:
       }
     }
 
-    const fastResumeTempFile = 'data/repos/passed_strip_phase.temp';
-    const fastResumeTempFileExists = fs.existsSync(fastResumeTempFile);
+    const referencedRepos = new Set([]);
+    for (const user of users) {
+      for (const repo in (user.contribs && user.contribs.repos || [])) {
+        const full_name = user.contribs.repos[repo];
+        referencedRepos.add(full_name);
 
-    let referencedRepos = new Set([]);
-    if (!fastResumeTempFileExists) {
-      for (const user of users) {
-        for (const repo in (user.contribs && user.contribs.repos || [])) {
-          const full_name = user.contribs.repos[repo];
-          referencedRepos.add(full_name);
-
-          // Make sure the corresponding repo file exists:
-          (new DbFile(`data/repos/${full_name}.json`)).write();
-        }
+        // Make sure the corresponding repo file exists:
+        (new DbFile(`data/repos/${full_name}.json`)).write();
       }
     }
 
@@ -85,24 +80,13 @@ optional arguments:
       }
     }
 
-    if (!fastResumeTempFileExists) {
-      for (const repo of referencedRepos) {
-        if (!repos[repo] || !repos[repo].removed_from_github) {
-          await fetchRepo(repo, firsttime);
-        }
-      }
-      stripUnreferencedRepos();
-      stripUnsuccessfulOrEmptyRepos();
+    for (const repo of referencedRepos) {
+      await fetchRepo(repo, firsttime);
     }
-
-    fs.writeFileSync(
-      fastResumeTempFile,
-      "I'm a temporary file. I exist to make fetchRepos.js faster to resume if it was aborted.\n",
-      'utf-8'
-    );
+    stripUnreferencedRepos();
 
     for (const repo in repos) {
-      if (!repos[repo].removed_from_github) {
+      if (!repos[repo].removed_from_github && !repos[repo].ghuser_insignificant) {
         await fetchRepoContributors(repo);
         await fetchRepoPullRequests(repo);
         await fetchRepoLanguages(repo);
@@ -112,8 +96,6 @@ optional arguments:
     }
 
     createRenamedRepos();
-
-    fs.unlinkSync(fastResumeTempFile);
 
     return;
 
@@ -126,6 +108,12 @@ optional arguments:
       if (repos[repo].fetching_since || repos[repo].fetched_at &&
           now - Date.parse(repos[repo].fetched_at) < maxAgeHours * 60 * 60 * 1000) {
         spinner.succeed(`${repo} is still fresh`);
+        return;
+      }
+
+      if (repos[repo].removed_from_github) {
+        // For now ok, but maybe some day we'll have to deal with resurrected repos.
+        spinner.succeed(`${repo} was removed from GitHub in the past`);
         return;
       }
 
@@ -172,6 +160,10 @@ optional arguments:
         delete repos[repo][field];
       }
 
+      // We mark repos without stars or empty as "insignificant" so we don't spend resources on
+      // fetching more info about them.
+      repos[repo].ghuser_insignificant = repos[repo].stargazers_count < 1 || repos[repo].size === 0;
+
       repos[repo].write();
     }
 
@@ -181,22 +173,6 @@ optional arguments:
       const toBeDeleted = [];
       for (const repo in repos) {
         if (!referencedRepos.has(repo)) {
-          toBeDeleted.push(repo);
-        }
-      }
-      for (const repo of toBeDeleted) {
-        delete repos[repo];
-        fs.unlinkSync(`data/repos/${repo}.json`);
-      }
-    }
-
-    function stripUnsuccessfulOrEmptyRepos() {
-      // Deletes repos with no stars or no commits.
-
-      const toBeDeleted = [];
-      for (const repo in repos) {
-        if (repos[repo].removed_from_github || repos[repo].stargazers_count < 1 ||
-            repos[repo].size === 0) {
           toBeDeleted.push(repo);
         }
       }

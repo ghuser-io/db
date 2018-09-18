@@ -99,6 +99,8 @@
       for (const repo of users[filename].contribs.repos) {
         if (!repos[repo]              // repo has been stripped
             || !repos[repo].full_name // repo hasn't been crawled yet
+            || repos[repo].removed_from_github
+            || repos[repo].ghuser_insignificant
            ) {
           continue;
         }
