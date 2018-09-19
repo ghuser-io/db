@@ -48,19 +48,36 @@ optional arguments:
 
   async function fetchRepos(pathToData, firsttime) {
     let spinner;
+    const setSpinnerTextAndRender = (() => {
+      let lastRender = new Date;
+      return text => {
+        spinner.text = text;
+        const now = new Date;
+        if (now - lastRender >= 1000) {
+          lastRender = now;
+          spinner.render();
+        }
+      };
+    })();
 
     const pathToUsers = path.join(pathToData, 'users');
+    let spinnerText = 'Reading users from DB...';
+    spinner = ora(spinnerText).start();
     const users = [];
     for (const file of fs.readdirSync(pathToUsers)) {
       if (file.endsWith('.json')) {
         const user = new DbFile(path.join(pathToUsers, file));
         if (!user.ghuser_deleted_because) {
           users.push(user);
+          setSpinnerTextAndRender(`${spinnerText} [${users.length}]`);
         }
       }
     }
+    spinner.succeed(`Found ${users.length} users in DB`);
 
     const pathToRepos = path.join(pathToData, 'repos');
+    spinnerText = 'Searching repos referenced by users...';
+    spinner = ora(spinnerText).start();
     const referencedRepos = new Set([]);
     for (const user of users) {
       for (const repo in (user.contribs && user.contribs.repos || [])) {
@@ -69,12 +86,16 @@ optional arguments:
           throw `user.contribs.repos[${repo}] is undefined`;
         }
         referencedRepos.add(full_name);
+        setSpinnerTextAndRender(`${spinnerText} [${referencedRepos.size}]`);
 
         // Make sure the corresponding repo file exists:
         (new DbFile(path.join(pathToRepos, `${full_name}.json`))).write();
       }
     }
+    spinner.succeed(`Found ${referencedRepos.size} repos referenced by users`);
 
+    spinnerText = 'Reading repos from DB...';
+    spinner = ora(spinnerText).start();
     const repoPaths = {};
     for (const ownerDir of fs.readdirSync(pathToRepos)) {
       const pathToOwner = path.join(pathToRepos, ownerDir);
@@ -88,10 +109,12 @@ optional arguments:
             repo.write();
             const full_name = `${ownerDir}/${file}`.slice(0, -ext.length);
             repoPaths[full_name] = pathToRepo;
+            setSpinnerTextAndRender(`${spinnerText} [${Object.keys(repoPaths).length}]`);
           }
         }
       }
     }
+    spinner.succeed(`Found ${Object.keys(repoPaths).length} repos in DB`);
 
     for (const repoFullName of referencedRepos) {
       await fetchRepo(repoFullName, firsttime);
