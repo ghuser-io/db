@@ -13,6 +13,7 @@
         readObj = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
       } catch (e) { // we tolerate 'No such file'
         if (e.code !== 'ENOENT') {
+          console.error(`Error while parsing ${filePath}`);
           throw e;
         }
         mkdirpSync(path.dirname(filePath));
