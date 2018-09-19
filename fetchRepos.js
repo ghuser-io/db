@@ -8,6 +8,7 @@
   const meow = require('meow');
   const Mode = require('stat-mode');
   const ora = require('ora');
+  const path = require('path');
 
   const DbFile = require('./impl/dbFile');
   const fetchJson = require('./impl/fetchJson');
@@ -18,18 +19,22 @@
   scriptUtils.printUnhandledRejections();
 
   const cli = meow(`
-Update data/repos/**
+Update data/repos/**/*.json
 
 usage:
-  $ ./fetchRepos.js [--firsttime]
+  $ ./fetchRepos.js [--data PATH] [--firsttime]
   $ ./fetchRepos.js --help
   $ ./fetchRepos.js --version
 
 optional arguments:
+  --data PATH    Path to the folder containing all the json files (default: data/)
   --firsttime    Fetch only repos that have never been fetched before
 `, {
     boolean: [
       'firsttime',
+    ],
+    string: [
+      'data',
     ],
   });
 
@@ -38,22 +43,24 @@ optional arguments:
     process.exit(1);
   }
 
-  await fetchRepos(cli.flags.firsttime);
+  await fetchRepos(cli.flags.data || 'data/', cli.flags.firsttime);
   return;
 
-  async function fetchRepos(firsttime) {
+  async function fetchRepos(pathToData, firsttime) {
     let spinner;
 
+    const pathToUsers = path.join(pathToData, 'users');
     const users = [];
-    for (const file of fs.readdirSync('data/users/')) {
+    for (const file of fs.readdirSync(pathToUsers)) {
       if (file.endsWith('.json')) {
-        const user = new DbFile(`data/users/${file}`);
+        const user = new DbFile(path.join(pathToUsers, file));
         if (!user.ghuser_deleted_because) {
           users.push(user);
         }
       }
     }
 
+    const pathToRepos = path.join(pathToData, 'repos');
     const referencedRepos = new Set([]);
     for (const user of users) {
       for (const repo in (user.contribs && user.contribs.repos || [])) {
@@ -64,22 +71,23 @@ optional arguments:
         referencedRepos.add(full_name);
 
         // Make sure the corresponding repo file exists:
-        (new DbFile(`data/repos/${full_name}.json`)).write();
+        (new DbFile(path.join(pathToRepos, `${full_name}.json`))).write();
       }
     }
 
     const repoPaths = {};
-    for (const ownerDir of fs.readdirSync('data/repos/')) {
-      if ((new Mode(fs.statSync(`data/repos/${ownerDir}`))).isDirectory()) {
-        for (const file of fs.readdirSync(`data/repos/${ownerDir}/`)) {
+    for (const ownerDir of fs.readdirSync(pathToRepos)) {
+      const pathToOwner = path.join(pathToRepos, ownerDir);
+      if ((new Mode(fs.statSync(pathToOwner))).isDirectory()) {
+        for (const file of fs.readdirSync(pathToOwner)) {
           const ext = '.json';
           if (file.endsWith(ext)) {
-            const path = `data/repos/${ownerDir}/${file}`;
-            const repo = new DbFile(path);
+            const pathToRepo = path.join(pathToOwner, file);
+            const repo = new DbFile(pathToRepo);
             repo._comment = 'DO NOT EDIT MANUALLY - See ../../../README.md';
             repo.write();
             const full_name = `${ownerDir}/${file}`.slice(0, -ext.length);
-            repoPaths[full_name] = path;
+            repoPaths[full_name] = pathToRepo;
           }
         }
       }
@@ -424,7 +432,7 @@ optional arguments:
         }
 
         if (repoOldFullName !== repoLatestFullName && !repoPaths[repoLatestFullName]) {
-          const newRepoPath = `data/repos/${repoLatestFullName}.json`;
+          const newRepoPath = path.join(pathToRepos, `${repoLatestFullName}.json`);
 
           // Will create the folder if needed:
           (new DbFile(newRepoPath)).write();

@@ -64,18 +64,22 @@ data/
     total: 1445 KB
   contribs/
     largest: tarsius.json (261 KB)
-    total: 8462 KB
+    total: 8473 KB
   repos/
-    28611 repos
-    18132 significant repos
-    largest: jlord/patchwork.json (379 KB)
-    total: 60923 KB
-  orgs.json: 1354 KB
+    28624 repos
+    18138 significant repos
+    largest: jlord/patchwork.json (380 KB)
+    total: 61287 KB
+  orgs.json: 1355 KB
   nonOrgs.json: 76 KB
   meta.json: 105 B
-  total: 72260 KB
+  total: 72636 KB
 
-=> 116 KB/user
+=> 117 KB/user
+
+real    113m25.014s
+user    5m47.220s
+sys     0m52.928s
 ```
 
 ## Implementation
