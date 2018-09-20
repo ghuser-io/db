@@ -41,7 +41,7 @@
     try {
       return await fetchJson(authify(url), oraSpinner, acceptedErrorCodes, ifModifiedSince);
     } catch (e) {
-      console.error(`Error while fetching ${url}`);
+      console.error(`\nError while fetching ${url}`);
       console.error('API rate limit state:');
       console.error(rateLimit);
       throw e;

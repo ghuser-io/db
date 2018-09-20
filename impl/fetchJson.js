@@ -11,12 +11,18 @@
     // Else if the HTTP status code is in acceptedErrorCodes, returns it.
     // Else throws the HTTP status code.
 
-    const data = await fetch(url, {
-      retryOn: [500, 502, 504, 522, 525],
-      headers: ifModifiedSince && {
-        'If-Modified-Since': ifModifiedSince.toUTCString()
-      } || null
-    });
+    let data;
+    try {
+      data = await fetch(url, {
+        retryOn: [500, 502, 504, 522, 525],
+        headers: ifModifiedSince && {
+          'If-Modified-Since': ifModifiedSince.toUTCString()
+        } || null
+      });
+    } catch (e) { // we end up here after too many retries
+      data = e;
+    }
+
     const statusIsOk = Math.floor(data.status / 100) === 2;
     if (!statusIsOk && acceptedErrorCodes.indexOf(data.status) > -1) {
       return data.status;

@@ -353,7 +353,12 @@ optional arguments:
       const perPage = 100;
       for (let page = 1;; ++page) {
         const ghUrl = `${pullsUrl}?state=all&page=${page}&per_page=${perPage}`;
-        const ghDataJson = await github.fetchGHJson(ghUrl, spinner);
+        const ghDataJson = await github.fetchGHJson(ghUrl, spinner, [500]);
+        if (ghDataJson === 500) { // Workaround for #8
+          spinner.fail();
+          return;
+        }
+
         for (const pr of ghDataJson) {
           authors.add(pr.user.login);
         }
