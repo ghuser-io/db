@@ -36,10 +36,15 @@
   };
 
   const fetchGHJson = async (url, oraSpinner, acceptedErrorCodes=[],
-                             /*Date*/ifModifiedSince) => {
+                             /*Date*/ifModifiedSince, graphqlQuery) => {
     const rateLimit = await waitForRateLimit(oraSpinner);
     try {
-      return await fetchJson(authify(url), oraSpinner, acceptedErrorCodes, ifModifiedSince);
+      if (!graphqlQuery) {
+        return await fetchJson(authify(url), oraSpinner, acceptedErrorCodes, ifModifiedSince);
+      }
+      const result = await fetchJson(authify(url), oraSpinner, acceptedErrorCodes, ifModifiedSince,
+                                     `query { ${graphqlQuery} }`);
+      return result.data && result.data || result;
     } catch (e) {
       console.error(`\nError while fetching ${url}`);
       console.error('API rate limit state:');
@@ -56,15 +61,19 @@
   // Waits until we are far away from hitting GitHub's API rate limit.
   // Returns GitHub's rate limit object for reference.
   async function waitForRateLimit(oraSpinner) {
-    const oldSpinnerText = oraSpinner.text;
+    const oldSpinnerText = oraSpinner && oraSpinner.text;
     let rateLimit = await fetchGHRateLimit(oraSpinner);
     if (rateLimit.core.remaining <= 10) {
       const now = (new Date).getTime() / 1000;
       const secondsToSleep = Math.ceil(rateLimit.core.reset - now);
       if (secondsToSleep >= 0) {
-        oraSpinner.text += ` (waiting ${secondsToSleep} second(s) for API rate limit)`;
+        if (oraSpinner) {
+          oraSpinner.text += ` (waiting ${secondsToSleep} second(s) for API rate limit)`;
+        }
         await sleep(secondsToSleep * 1000);
-        oraSpinner.text = oldSpinnerText;
+        if (oraSpinner) {
+          oraSpinner.text = oldSpinnerText;
+        }
         rateLimit = await fetchGHRateLimit(oraSpinner);
       }
     }

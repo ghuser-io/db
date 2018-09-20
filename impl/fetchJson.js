@@ -6,7 +6,7 @@
   const fetch = require('fetch-retry');
 
   const fetchJson = async function(url, oraSpinner, acceptedErrorCodes=[],
-                                   /*Date*/ifModifiedSince) {
+                                   /*Date*/ifModifiedSince, graphqlQuery) {
     // If the HTTP status code is 2xx, returns the object represented by the fetched json.
     // Else if the HTTP status code is in acceptedErrorCodes, returns it.
     // Else throws the HTTP status code.
@@ -17,7 +17,11 @@
         retryOn: [500, 502, 504, 522, 525],
         headers: ifModifiedSince && {
           'If-Modified-Since': ifModifiedSince.toUTCString()
-        } || null
+        } || null,
+        method: graphqlQuery && 'POST' || 'GET',
+        body: graphqlQuery && JSON.stringify({
+          query: graphqlQuery
+        })
       });
     } catch (e) { // we end up here after too many retries
       data = e;
@@ -33,7 +37,7 @@
     } catch (e) {}
 
     if (!statusIsOk) {
-      oraSpinner.fail();
+      oraSpinner && oraSpinner.fail();
       if (dataJson) {
         console.error(dataJson);
       }
