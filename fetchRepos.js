@@ -47,6 +47,48 @@ optional arguments:
   async function fetchRepos(firsttime) {
     let spinner;
 
+    const perPage = 100;
+    let paginationCursor;
+    for (let page = 0;; ++page) {
+      console.log(`page ${page}`);
+
+      const dataJson = await github.fetchGHJson('https://api.github.com/graphql', spinner, [], null, `
+        repository (owner: "torvalds", name: "linux") {
+          ref (qualifiedName: "master") {
+            target {
+              ... on Commit {
+                history (first: ${perPage}${paginationCursor && `, after: "${paginationCursor}"` || ''}) {
+                  edges {
+                    node {
+                      author {
+                        user {
+                          login
+                        }
+                      }
+                    }
+                    cursor
+                  }
+                }
+              }
+            }
+          }
+        }`);
+
+      console.log(dataJson);
+      const numCommitsReceived = dataJson.repository.ref.target.history.edges.length;
+      console.log(`${numCommitsReceived} commits received`);
+
+      paginationCursor = dataJson.repository.ref.target.history.edges.slice(-1)[0].cursor;
+      console.log(`cursor: ${paginationCursor}`);
+      dataJson.repository.ref.target.history.edges[0].node.author.user &&
+        console.log(`first author: ${dataJson.repository.ref.target.history.edges[0].node.author.user.login}`);
+
+      if (numCommitsReceived < perPage) {
+        break;
+      }
+    }
+    return; //LA_TEMP
+
     let spinnerText = 'Reading users from DB...';
     spinner = ora(spinnerText).start();
     const users = [];
