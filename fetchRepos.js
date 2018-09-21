@@ -19,7 +19,7 @@
   scriptUtils.printUnhandledRejections();
 
   const cli = meow(`
-Update data/repos/**/*.json
+Update data/repo*/**/*.json
 
 usage:
   $ ./fetchRepos.js [--data PATH] [--firsttime]
@@ -94,6 +94,7 @@ optional arguments:
     }
     spinner.succeed(`Found ${referencedRepos.size} repos referenced by users`);
 
+    const pathToRepoCommits = path.join(pathToData, 'repoCommits');
     spinnerText = 'Reading repos from DB...';
     spinner = ora(spinnerText).start();
     const repoPaths = {};
@@ -105,10 +106,17 @@ optional arguments:
           if (file.endsWith(ext)) {
             const pathToRepo = path.join(pathToOwner, file);
             const repo = new DbFile(pathToRepo);
-            repo._comment = 'DO NOT EDIT MANUALLY - See ../../../README.md';
+            const pathToRepoCommitFile = path.join(pathToRepoCommits, ownerDir, file);
+            const repoCommits = new DbFile(pathToRepoCommitFile);
+            repo._comment = repoCommits._comment = 'DO NOT EDIT MANUALLY - See ../../../README.md';
             repo.write();
+            repoCommits.write();
+
             const full_name = `${ownerDir}/${file}`.slice(0, -ext.length);
-            repoPaths[full_name] = pathToRepo;
+            repoPaths[full_name] = {
+              repo: pathToRepo,
+              repoCommits: pathToRepoCommitFile
+            };
             setSpinnerTextAndRender(`${spinnerText} [${Object.keys(repoPaths).length}]`);
           }
         }
@@ -122,9 +130,10 @@ optional arguments:
     stripUnreferencedRepos();
 
     for (const repoFullName in repoPaths) {
-      const repo = new DbFile(repoPaths[repoFullName]);
+      const repo = new DbFile(repoPaths[repoFullName].repo);
       if (!repo.removed_from_github && !repo.ghuser_insignificant) {
-        await fetchRepoContributors(repo);
+        const repoCommits = new DbFile(repoPaths[repoFullName].repoCommits);
+        await fetchRepoCommitsAndContributors(repo, repoCommits);
         await fetchRepoPullRequests(repo);
         await fetchRepoLanguages(repo);
         await fetchRepoSettings(repo);
@@ -139,7 +148,7 @@ optional arguments:
     async function fetchRepo(repoFullName, firsttime) {
       const ghRepoUrl = `https://api.github.com/repos/${repoFullName}`;
       spinner = ora(`Fetching ${ghRepoUrl}...`).start();
-      const repo = new DbFile(repoPaths[repoFullName]);
+      const repo = new DbFile(repoPaths[repoFullName].repo);
 
       const now = new Date;
       const maxAgeHours = firsttime && (24 * 365) || 12;
@@ -215,14 +224,21 @@ optional arguments:
         }
       }
       for (const repoFullName of toBeDeleted) {
-        fs.unlinkSync(repoPaths[repoFullName]);
+        fs.unlinkSync(repoPaths[repoFullName].repo);
+        fs.unlinkSync(repoPaths[repoFullName].repoCommits);
         delete repoPaths[repoFullName];
       }
     }
 
-    async function fetchRepoContributors(repo) {
+    async function fetchRepoCommitsAndContributors(repo, repoCommits) {
       repo.contributors = repo.contributors || {};
-      const spinnerText = `Fetching ${repo.full_name}'s contributors...`;
+      repoCommits.contributors = repoCommits.contributors || {};
+      repoCommits.last_fetched_commit = repoCommits.last_fetched_commit || {
+        sha: null,
+        date: '2000-01-01T00:00:00Z'
+      };
+
+      const spinnerText = `Fetching ${repo.full_name}'s commits...`;
       spinner = ora(spinnerText).start();
 
       if (!repo.fetching_since || repo.fetched_at &&
@@ -231,108 +247,68 @@ optional arguments:
         return;
       }
 
-      // This endpoint only gives us the 100 greatest contributors, so if it looks like there
-      // can be more, we use the next endpoint to get the 500 greatest ones:
-      let firstMethodFailed = false;
-      if (Object.keys(repo.contributors).length < 100) {
-        const ghUrl = `https://api.github.com/repos/${repo.full_name}/stats/contributors`;
-
-        let ghDataJson;
-        for (let i = 3; i >= 0; --i) {
-          ghDataJson = await github.fetchGHJson(ghUrl, spinner);
-
-          if (ghDataJson && Object.keys(ghDataJson).length > 0) {
-            break; // worked
-          }
-
-          // GitHub is still calculating the stats and we need to wait a bit and try again, see
-          // https://developer.github.com/v3/repos/statistics/
-
-          if (!i) {
-            // Too many retries. This happens on brand new repos.
-            firstMethodFailed = true;
-            break;
-          }
-
-          await new Promise(resolve => setTimeout(resolve, 3000));
+      let mostRecentCommit;
+      const perPage = 100;
+      pages:
+      for (let page = 1;; ++page) {
+        spinner.start(`${spinnerText} [page ${page}]`);
+        const ghUrl = `https://api.github.com/repos/${repo.full_name}/commits?since=${repoCommits.last_fetched_commit.date}&page=${page}&per_page=${perPage}`;
+        const ghDataJson = await github.fetchGHJson(ghUrl, spinner, [404]);
+        if (ghDataJson === 404) {
+          // The repo has been removed during the current run. It will be marked as removed in the
+          // next run. For now just don't crash.
+          spinner.succeed(`${repo.full_name} was just removed from GitHub`);
+          return;
         }
 
-        if (!firstMethodFailed) {
-          for (const contributor of ghDataJson) {
-            if (!contributor.author) { // rare but happens
-              continue;
-            }
-            repo.contributors[contributor.author.login] = contributor.total;
+        for (const commit of ghDataJson) {
+          if (commit.sha === repoCommits.last_fetched_commit.sha) {
+            break pages; // we know already this commit and all the following ones
           }
+
+          mostRecentCommit = mostRecentCommit || {
+            sha: commit.sha,
+            date: commit.author && commit.commit.author.date || commit.commit.committer.date
+          };
+
+          const author_login = commit.author && commit.author.login;
+          const committer_login = commit.committer && commit.committer.login;
+          if (author_login) {
+            storeCommit(author_login, commit.commit.author.date);
+          }
+          if (committer_login && committer_login !== author_login) {
+            storeCommit(committer_login, commit.commit.committer.date);
+          }
+
+          function storeCommit(login, date) {
+            if (!(login in repoCommits.contributors)) {
+              repo.contributors[login] = 0;
+              repoCommits.contributors[login] = {};
+            }
+            ++repo.contributors[login];
+            const day = date.substring(0, 10);
+            if (!(day in repoCommits.contributors[login])) {
+              repoCommits.contributors[login][day] = 0;
+            }
+            ++repoCommits.contributors[login][day];
+          }
+        }
+
+        if (ghDataJson.length < perPage) {
+          break;
+        }
+
+        if (page >= 10000) {
+          spinner.fail();
+          throw 'fetchRepoCommitsAndContributors(): Infinite loop?';
         }
       }
 
-      // This endpoint only gives us the 500 greatest contributors, so if it looks like there
-      // can be more, we use the next endpoint to get all commits:
-      let secondMethodFailed = false;
-      if (firstMethodFailed ||
-            Object.keys(repo.contributors).length >= 100 &&
-            Object.keys(repo.contributors).length < 500) {
-        const perPage = 100;
-        for (let page = 1; page <= 5; ++page) {
-          const ghUrl = `https://api.github.com/repos/${repo.full_name}/contributors?page=${page}&per_page=${perPage}`;
-          const ghDataJson = await github.fetchGHJson(ghUrl, spinner, [403]);
-          if (ghDataJson === 403) {
-            // This happens for huge repos like https://github.com/StefanescuCristian/ubuntu-bfsq ,
-            // for which even GitHub's UI says that the number of contributors is infinite.
-            secondMethodFailed = true;
-            break;
-          }
+      spinner.succeed(`Fetched ${repo.full_name}'s commits`);
 
-          for (const contributor of ghDataJson) {
-            repo.contributors[contributor.login] = contributor.contributions;
-          }
-
-          if (ghDataJson.length < perPage) {
-            break;
-          }
-        }
-      }
-
-      if (secondMethodFailed || Object.keys(repo.contributors).length >= 500) {
-        const contributors = {};
-        const perPage = 100;
-        for (let page = 1;; ++page) {
-          spinner.start(`${spinnerText} [commit page ${page}]`);
-          const ghUrl = `https://api.github.com/repos/${repo.full_name}/commits?page=${page}&per_page=${perPage}`;
-          const ghDataJson = await github.fetchGHJson(ghUrl, spinner);
-          for (const commit of ghDataJson) {
-            const author_login = commit.author && commit.author.login;
-            const committer_login = commit.committer && commit.committer.login;
-            if (author_login) {
-              if (!(author_login in contributors)) {
-                contributors[author_login] = 0;
-              }
-              ++contributors[author_login];
-            }
-            if (committer_login && committer_login !== author_login) {
-              if (!(committer_login in contributors)) {
-                contributors[committer_login] = 0;
-              }
-              ++contributors[committer_login];
-            }
-          }
-
-          if (ghDataJson.length < perPage) {
-            break;
-          }
-
-          if (page >= 10000) {
-            spinner.fail();
-            throw 'fetchRepoContributors(): Infinite loop?';
-          }
-        }
-
-        Object.assign(repo.contributors, contributors);
-      }
-
-      spinner.succeed(`Fetched ${repo.full_name}'s contributors`);
       repo.write();
+      repoCommits.last_fetched_commit = mostRecentCommit || repoCommits.last_fetched_commit;
+      repoCommits.write();
     }
 
     async function fetchRepoPullRequests(repo) {
@@ -353,8 +329,14 @@ optional arguments:
       const perPage = 100;
       for (let page = 1;; ++page) {
         const ghUrl = `${pullsUrl}?state=all&page=${page}&per_page=${perPage}`;
-        const ghDataJson = await github.fetchGHJson(ghUrl, spinner, [500]);
-        if (ghDataJson === 500) { // Workaround for #8
+        const ghDataJson = await github.fetchGHJson(ghUrl, spinner, [404, 500]);
+        switch (ghDataJson) {
+        case 404:
+          // The repo has been removed during the current run. It will be marked as removed in the
+          // next run. For now just don't crash.
+          spinner.succeed(`${repo.full_name} was just removed from GitHub`);
+          return;
+        case 500: // Workaround for #8
           spinner.fail();
           return;
         }
@@ -396,7 +378,14 @@ optional arguments:
         return;
       }
 
-      const ghDataJson = await github.fetchGHJson(ghUrl, spinner);
+      const ghDataJson = await github.fetchGHJson(ghUrl, spinner, [404]);
+      if (ghDataJson === 404) {
+        // The repo has been removed during the current run. It will be marked as removed in the
+        // next run. For now just don't crash.
+        spinner.succeed(`${repo.full_name} was just removed from GitHub`);
+        return;
+      }
+
       spinner.succeed(`Fetched ${ghUrl}`);
 
       for (let language in ghDataJson) {
@@ -448,8 +437,7 @@ optional arguments:
       // with their new name, so they can be found by the frontend.
 
       for (const repoOldFullName in repoPaths) {
-        const repoPath = repoPaths[repoOldFullName];
-        const repo = new DbFile(repoPaths[repoOldFullName]);
+        const repo = new DbFile(repoPaths[repoOldFullName].repo);
         if (repo.removed_from_github) {
           continue;
         }
@@ -460,13 +448,17 @@ optional arguments:
         }
 
         if (repoOldFullName !== repoLatestFullName && !repoPaths[repoLatestFullName]) {
-          const newRepoPath = path.join(pathToRepos, `${repoLatestFullName}.json`);
+          repoPaths[repoLatestFullName] = {
+            repo: path.join(pathToRepos, `${repoLatestFullName}.json`),
+            repoCommits: path.join(pathToRepoCommits, `${repoLatestFullName}.json`)
+          };
 
-          // Will create the folder if needed:
-          (new DbFile(newRepoPath)).write();
+          // Will create the folders if needed:
+          (new DbFile(repoPaths[repoLatestFullName].repo)).write();
+          (new DbFile(repoPaths[repoLatestFullName].repoCommits)).write();
 
-          fs.copyFileSync(repoPath, newRepoPath);
-          repoPaths[repoLatestFullName] = newRepoPath;
+          fs.copyFileSync(repoPaths[repoOldFullName].repo, repoPaths[repoLatestFullName].repo);
+          fs.copyFileSync(repoPaths[repoOldFullName].repoCommits, repoPaths[repoLatestFullName].repoCommits);
         }
       }
     }

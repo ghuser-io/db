@@ -111,7 +111,7 @@ Several scripts form a pipeline for updating the database. Here is the data flow
                        │             │                        │
                        │             v                        │
                        │  ┌───────────────────────────┐       │
-                       │  │ repos/myOwner/myRepo.json │─┐     │
+                       │  │ repo*/myOwner/myRepo.json │─┐     │
                        │  └───────────────────────────┘ │─┐   │
                        │    └───────────────────────────┘ │   │
                        │      └────┬──────────────────────┘   │
