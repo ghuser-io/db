@@ -4,6 +4,9 @@
 (() => {
 
   const meow = require('meow');
+  const path = require('path');
+
+  const data = require('./impl/data');
   const DbFile = require('./impl/dbFile');
 
   const cli = meow(`
@@ -28,7 +31,7 @@ positional arguments:
 
   const user = cli.input[0];
   const userId = user.toLowerCase();
-  const userFile = new DbFile(`data/users/${userId}.json`);
+  const userFile = new DbFile(path.join(data.users, `${userId}.json`));
   if (userFile.login) {
     console.log(`${user} already exists.`);
     return;

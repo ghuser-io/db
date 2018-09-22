@@ -5,7 +5,9 @@
 
   const fs = require('fs');
   const ora = require('ora');
+  const path = require('path');
 
+  const data = require('./impl/data');
   const DbFile = require('./impl/dbFile');
   const scriptUtils = require('./impl/scriptUtils');
 
@@ -17,27 +19,27 @@
   function calculateContribsAndMeta() {
     let spinner;
 
-    const orgs = new DbFile('data/orgs.json');
+    const orgs = new DbFile(data.orgs);
 
     const users = {};
     let numUsers = 0;
-    for (const file of fs.readdirSync('data/users/')) {
+    for (const file of fs.readdirSync(data.users)) {
       if (file.endsWith('.json')) {
-        const user = new DbFile(`data/users/${file}`);
+        const user = new DbFile(path.join(data.users, file));
         if (!user.ghuser_deleted_because) {
           users[file] = user;
           ++numUsers;
 
           // Make sure the corresponding contrib file exists (not the case if it's a new user):
-          (new DbFile(`data/contribs/${file}`)).write();
+          (new DbFile(path.join(data.contribs, file))).write();
         }
       }
     }
 
     const contribs = {};
-    for (const file of fs.readdirSync('data/contribs/')) {
+    for (const file of fs.readdirSync(data.contribs)) {
       if (file.endsWith('.json')) {
-        const contribList = new DbFile(`data/contribs/${file}`);
+        const contribList = new DbFile(path.join(data.contribs, file));
         contribList._comment = 'DO NOT EDIT MANUALLY - See ../../README.md';
         contribList.repos = {};
         contribs[file] = contribList;
@@ -45,11 +47,12 @@
     }
 
     const repos = {};
-    for (const ownerDir of fs.readdirSync('data/repos/')) {
-      for (const file of fs.readdirSync(`data/repos/${ownerDir}/`)) {
+    for (const ownerDir of fs.readdirSync(data.repos)) {
+      const pathToOwner = path.join(data.repos, ownerDir);
+      for (const file of fs.readdirSync(pathToOwner)) {
         const ext = '.json';
         if (file.endsWith(ext)) {
-          const repo = new DbFile(`data/repos/${ownerDir}/${file}`);
+          const repo = new DbFile(path.join(pathToOwner, file));
           const full_name = `${ownerDir}/${file}`.slice(0, -ext.length);
           repos[full_name] = repo;
         }
@@ -65,7 +68,7 @@
       calculateOrgs(filename);
     }
 
-    const meta = new DbFile('data/meta.json');
+    const meta = new DbFile(data.meta);
     meta._comment = 'DO NOT EDIT MANUALLY - See ../README.md';
     meta.num_users = numUsers;
     meta.num_contribs = numContribs;
@@ -84,7 +87,7 @@
       }
       for (const contribList of toBeDeleted) {
         delete contribs[contribList];
-        fs.unlinkSync(`data/contribs/${contribList}`);
+        fs.unlinkSync(path.join(data.contribs, contribList));
       }
     }
 

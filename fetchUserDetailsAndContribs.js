@@ -3,10 +3,13 @@
 
 (async () => {
 
+  const fs = require('fs');
   const githubContribs = require('@ghuser/github-contribs');
   const meow = require('meow');
   let ora = require('ora');
+  let path = require('path');
 
+  const data = require('./impl/data');
   const DbFile = require('./impl/dbFile');
   const fetchJson = require('./impl/fetchJson');
   const github = require('./impl/github');
@@ -14,12 +17,12 @@
 
   const cli = meow(`
 usage:
-  $ ./fetchUserDetailsAndContribs.js USER [--nospin]
+  $ ./fetchUserDetailsAndContribs.js [USER] [--nospin]
   $ ./fetchUserDetailsAndContribs.js --help
   $ ./fetchUserDetailsAndContribs.js --version
 
 positional arguments:
-  USER        GitHub username, e.g. AurelienLourot
+  USER        If specified, fetches only this GitHub username, otherwise fetches all users
 
 optional arguments:
   --nospin    Don't user spinners but classical terminal output instead
@@ -29,17 +32,10 @@ optional arguments:
     ],
   });
 
-  if (cli.input.length < 1) {
-    console.error('Error: USER argument missing. See `./fetchUserDetailsAndContribs.js --help`.');
-    process.exit(1);
-  }
-
   if (cli.input.length > 1) {
     console.error('Error: too many positional arguments. See `./fetchUserDetailsAndContribs.js --help`.');
     process.exit(1);
   }
-
-  const user = cli.input[0];
 
   scriptUtils.printUnhandledRejections();
 
@@ -70,14 +66,22 @@ optional arguments:
     });
   }
 
-  await fetchUserDetailsAndContribs(user);
+  if (cli.input.length === 1) {
+    await fetchUserDetailsAndContribs(`${cli.input[0].toLowerCase()}.json`);
+  } else {
+    for (const file of fs.readdirSync(data.users)) {
+      if (file.endsWith('.json')) {
+        await fetchUserDetailsAndContribs(file);
+      }
+    }
+  }
+
   return;
 
-  async function fetchUserDetailsAndContribs(user) {
+  async function fetchUserDetailsAndContribs(userFileName) {
     let spinner;
 
-    const userId = user.toLowerCase();
-    const userFilePath = `data/users/${userId}.json`;
+    const userFilePath = path.join(data.users, userFileName);
     const userFile = new DbFile(userFilePath);
     if (!userFile.login) {
       throw `${userFilePath} is malformed. Did you run ./addUser.js ?`;

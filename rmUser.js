@@ -4,6 +4,9 @@
 (() => {
 
   const meow = require('meow');
+  const path = require('path');
+
+  const data = require('./impl/data');
   const DbFile = require('./impl/dbFile');
 
   const cli = meow(`
@@ -39,7 +42,7 @@ optional arguments:
   const reason = cli.input[1];
 
   const userId = user.toLowerCase();
-  const userFile = new DbFile(`data/users/${userId}.json`);
+  const userFile = new DbFile(path.join(data.users, `${userId}.json`));
 
   if (!cli.flags.force && userFile.ghuser_keep_because) {
     throw `${user} is marked as not to be deleted: ${userFile.ghuser_keep_because}`;

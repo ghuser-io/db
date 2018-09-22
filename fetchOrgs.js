@@ -5,7 +5,9 @@
 
   const fs = require('fs');
   const ora = require('ora');
+  const path = require('path');
 
+  const data = require('./impl/data');
   const DbFile = require('./impl/dbFile');
   const github = require('./impl/github');
   const scriptUtils = require('./impl/scriptUtils');
@@ -18,20 +20,20 @@
   async function fetchOrgs() {
     let spinner;
 
-    const orgs = new DbFile('data/orgs.json');
+    const orgs = new DbFile(data.orgs);
     orgs._comment = 'DO NOT EDIT MANUALLY - See ../README.md';
     orgs.orgs = orgs.orgs || {};
 
     // In this file we store repo owners that we know aren't organizations. This avoids querying
     // them next time.
-    const nonOrgs = new DbFile('data/nonOrgs.json');
+    const nonOrgs = new DbFile(data.nonOrgs);
     nonOrgs._comment = 'DO NOT EDIT MANUALLY - See ../README.md';
     nonOrgs.non_orgs = nonOrgs.non_orgs || [];
 
     const users = [];
-    for (const file of fs.readdirSync('data/users/')) {
+    for (const file of fs.readdirSync(data.users)) {
       if (file.endsWith('.json')) {
-        const user = new DbFile(`data/users/${file}`);
+        const user = new DbFile(path.join(data.users, file));
         if (!user.ghuser_deleted_because) {
           users.push(user);
         }

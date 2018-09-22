@@ -11,6 +11,7 @@
   const path = require('path');
   const sleep = require('await-sleep');
 
+  const data = require('./impl/data');
   const DbFile = require('./impl/dbFile');
   const fetchJson = require('./impl/fetchJson');
   const github = require('./impl/github');
@@ -20,22 +21,18 @@
   scriptUtils.printUnhandledRejections();
 
   const cli = meow(`
-Update data/repo*/**/*.json
+Update ${path.join(data.root, 'repo')}*/**/*.json
 
 usage:
-  $ ./fetchRepos.js [--data PATH] [--firsttime]
+  $ ./fetchRepos.js [--firsttime]
   $ ./fetchRepos.js --help
   $ ./fetchRepos.js --version
 
 optional arguments:
-  --data PATH    Path to the folder containing all the json files (default: data/)
   --firsttime    Fetch only repos that have never been fetched before
 `, {
     boolean: [
       'firsttime',
-    ],
-    string: [
-      'data',
     ],
   });
 
@@ -44,21 +41,20 @@ optional arguments:
     process.exit(1);
   }
 
-  await fetchRepos(cli.flags.data || 'data/', cli.flags.firsttime);
+  await fetchRepos(cli.flags.firsttime);
   return;
 
-  async function fetchRepos(pathToData, firsttime) {
+  async function fetchRepos(firsttime) {
     let spinner;
 
-    const pathToUsers = path.join(pathToData, 'users');
     let spinnerText = 'Reading users from DB...';
     spinner = ora(spinnerText).start();
     const users = [];
-    for (const file of fs.readdirSync(pathToUsers)) {
+    for (const file of fs.readdirSync(data.users)) {
       await sleep(0); // make loop interruptible
 
       if (file.endsWith('.json')) {
-        const user = new DbFile(path.join(pathToUsers, file));
+        const user = new DbFile(path.join(data.users, file));
         if (!user.ghuser_deleted_because) {
           users.push(user);
           spinner.text = `${spinnerText} [${users.length}]`;
@@ -67,8 +63,6 @@ optional arguments:
     }
     spinner.succeed(`Found ${users.length} users in DB`);
 
-    const pathToRepos = path.join(pathToData, 'repos');
-    const pathToRepoCommits = path.join(pathToData, 'repoCommits');
     spinnerText = 'Searching repos referenced by users...';
     spinner = ora(spinnerText).start();
     const referencedRepos = new Set([]);
@@ -84,7 +78,7 @@ optional arguments:
         spinner.text = `${spinnerText} [${referencedRepos.size}]`;
 
         // Make sure the corresponding repo files exist:
-        for (const pathToFolder of [pathToRepos, pathToRepoCommits]) {
+        for (const pathToFolder of [data.repos, data.repoCommits]) {
           const filePath = path.join(pathToFolder, `${full_name}.json`);
           fs.existsSync(filePath) || (new DbFile(filePath)).write();
         }
@@ -95,8 +89,8 @@ optional arguments:
     spinnerText = 'Reading repos from DB...';
     spinner = ora(spinnerText).start();
     const repoPaths = {};
-    for (const ownerDir of fs.readdirSync(pathToRepos)) {
-      const pathToOwner = path.join(pathToRepos, ownerDir);
+    for (const ownerDir of fs.readdirSync(data.repos)) {
+      const pathToOwner = path.join(data.repos, ownerDir);
       if ((new Mode(fs.statSync(pathToOwner))).isDirectory()) {
         for (const file of fs.readdirSync(pathToOwner)) {
           await sleep(0); // make loop interruptible
@@ -106,7 +100,7 @@ optional arguments:
             const full_name = `${ownerDir}/${file}`.slice(0, -ext.length);
             repoPaths[full_name] = {
               repo: path.join(pathToOwner, file),
-              repoCommits: path.join(pathToRepoCommits, ownerDir, file)
+              repoCommits: path.join(data.repoCommits, ownerDir, file)
             };
             spinner.text = `${spinnerText} [${Object.keys(repoPaths).length}]`;
           }
@@ -440,8 +434,8 @@ optional arguments:
 
         if (repoOldFullName !== repoLatestFullName && !repoPaths[repoLatestFullName]) {
           repoPaths[repoLatestFullName] = {
-            repo: path.join(pathToRepos, `${repoLatestFullName}.json`),
-            repoCommits: path.join(pathToRepoCommits, `${repoLatestFullName}.json`)
+            repo: path.join(data.repos, `${repoLatestFullName}.json`),
+            repoCommits: path.join(data.repoCommits, `${repoLatestFullName}.json`)
           };
 
           // Will create the folders if needed:

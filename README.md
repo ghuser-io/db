@@ -8,7 +8,7 @@
 This repository:
 
 * Serves as database for the [ghuser.io](https://github.com/ghuser-io/ghuser.io) Reframe app.
-  The DB consists of the [JSON files in `data`](data/).
+  The DB consists of JSON files.
 * Provides scripts to update the database.
 
 In particular, [fetchBot](fetchBot/) runs daily on an [EC2 instance](https://github.com/ghuser-io/ghuser.io/blob/master/aws/ec2).
@@ -57,23 +57,22 @@ $ ./fetchAndCalculateAll.sh
 GitHub API key found.
 GitHub credentials found.
 ...
-data/
-  users/
-    623 users
-    largest: tarsius.json (22 KB)
-    total: 1445 KB
-  contribs/
-    largest: tarsius.json (261 KB)
-    total: 8473 KB
-  repos/
-    28624 repos
-    18138 significant repos
-    largest: jlord/patchwork.json (380 KB)
-    total: 61287 KB
-  orgs.json: 1355 KB
-  nonOrgs.json: 76 KB
-  meta.json: 105 B
-  total: 72636 KB
+.../data/users
+  623 users
+  largest: tarsius.json (22 KB)
+  total: 1445 KB
+.../data/contribs
+  largest: tarsius.json (261 KB)
+  total: 8473 KB
+.../data/repos
+  28624 repos
+  18138 significant repos
+  largest: jlord/patchwork.json (380 KB)
+  total: 61287 KB
+.../data/orgs.json: 1355 KB
+.../data/nonOrgs.json: 76 KB
+.../data/meta.json: 105 B
+total: 72636 KB
 
 => 117 KB/user
 

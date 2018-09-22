@@ -1,7 +1,7 @@
 {
   "name": "@ghuser/db-scripts",
   "version": "0.0.2",
-  "description": "Edit data/**/*.json",
+  "description": "Edit .../data/**/*.json",
   "scripts": {
     "gentoc": "for md in $(git grep -l \"<\\!-- toc -->\"); do npx markdown-toc -i $md; done",
     "test": "mdspell '**/*.md' '!**/node_modules/**/*.md' --ignore-acronyms --no-suggestions --en-us"

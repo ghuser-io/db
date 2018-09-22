@@ -5,7 +5,9 @@
 
   const fs = require('fs');
   const ora = require('ora');
+  const path = require('path');
 
+  const data = require('./impl/data');
   const DbFile = require('./impl/dbFile');
   const github = require('./impl/github');
   const scriptUtils = require('./impl/scriptUtils');
@@ -26,9 +28,9 @@
     const minAgeMonths = 1;
 
     const users = [];
-    for (const file of fs.readdirSync('data/users/')) {
+    for (const file of fs.readdirSync(data.users)) {
       if (file.endsWith('.json')) {
-        const user = new DbFile(`data/users/${file}`);
+        const user = new DbFile(path.join(data.users, file));
         if (!user.ghuser_deleted_because && !user.ghuser_keep_because
             && now - Date.parse(user.ghuser_created_at) > minAgeMonths * 30 * 24 * 60 * 60 * 1000) {
           users.push(user);
