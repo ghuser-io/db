@@ -9,6 +9,7 @@
   const Mode = require('stat-mode');
   const ora = require('ora');
   const path = require('path');
+  const sleep = require('await-sleep');
 
   const DbFile = require('./impl/dbFile');
   const fetchJson = require('./impl/fetchJson');
@@ -48,53 +49,49 @@ optional arguments:
 
   async function fetchRepos(pathToData, firsttime) {
     let spinner;
-    const setSpinnerTextAndRender = (() => {
-      let lastRender = new Date;
-      return text => {
-        spinner.text = text;
-        const now = new Date;
-        if (now - lastRender >= 1000) {
-          lastRender = now;
-          spinner.render();
-        }
-      };
-    })();
 
     const pathToUsers = path.join(pathToData, 'users');
     let spinnerText = 'Reading users from DB...';
     spinner = ora(spinnerText).start();
     const users = [];
     for (const file of fs.readdirSync(pathToUsers)) {
+      await sleep(0); // make loop interruptible
+
       if (file.endsWith('.json')) {
         const user = new DbFile(path.join(pathToUsers, file));
         if (!user.ghuser_deleted_because) {
           users.push(user);
-          setSpinnerTextAndRender(`${spinnerText} [${users.length}]`);
+          spinner.text = `${spinnerText} [${users.length}]`;
         }
       }
     }
     spinner.succeed(`Found ${users.length} users in DB`);
 
     const pathToRepos = path.join(pathToData, 'repos');
+    const pathToRepoCommits = path.join(pathToData, 'repoCommits');
     spinnerText = 'Searching repos referenced by users...';
     spinner = ora(spinnerText).start();
     const referencedRepos = new Set([]);
     for (const user of users) {
       for (const repo in (user.contribs && user.contribs.repos || [])) {
+        await sleep(0); // make loop interruptible
+
         const full_name = user.contribs.repos[repo];
         if (!full_name) {
           throw `user.contribs.repos[${repo}] is undefined`;
         }
         referencedRepos.add(full_name);
-        setSpinnerTextAndRender(`${spinnerText} [${referencedRepos.size}]`);
+        spinner.text = `${spinnerText} [${referencedRepos.size}]`;
 
-        // Make sure the corresponding repo file exists:
-        (new DbFile(path.join(pathToRepos, `${full_name}.json`))).write();
+        // Make sure the corresponding repo files exist:
+        for (const pathToFolder of [pathToRepos, pathToRepoCommits]) {
+          const filePath = path.join(pathToFolder, `${full_name}.json`);
+          fs.existsSync(filePath) || (new DbFile(filePath)).write();
+        }
       }
     }
     spinner.succeed(`Found ${referencedRepos.size} repos referenced by users`);
 
-    const pathToRepoCommits = path.join(pathToData, 'repoCommits');
     spinnerText = 'Reading repos from DB...';
     spinner = ora(spinnerText).start();
     const repoPaths = {};
@@ -102,22 +99,16 @@ optional arguments:
       const pathToOwner = path.join(pathToRepos, ownerDir);
       if ((new Mode(fs.statSync(pathToOwner))).isDirectory()) {
         for (const file of fs.readdirSync(pathToOwner)) {
+          await sleep(0); // make loop interruptible
+
           const ext = '.json';
           if (file.endsWith(ext)) {
-            const pathToRepo = path.join(pathToOwner, file);
-            const repo = new DbFile(pathToRepo);
-            const pathToRepoCommitFile = path.join(pathToRepoCommits, ownerDir, file);
-            const repoCommits = new DbFile(pathToRepoCommitFile);
-            repo._comment = repoCommits._comment = 'DO NOT EDIT MANUALLY - See ../../../README.md';
-            repo.write();
-            repoCommits.write();
-
             const full_name = `${ownerDir}/${file}`.slice(0, -ext.length);
             repoPaths[full_name] = {
-              repo: pathToRepo,
-              repoCommits: pathToRepoCommitFile
+              repo: path.join(pathToOwner, file),
+              repoCommits: path.join(pathToRepoCommits, ownerDir, file)
             };
-            setSpinnerTextAndRender(`${spinnerText} [${Object.keys(repoPaths).length}]`);
+            spinner.text = `${spinnerText} [${Object.keys(repoPaths).length}]`;
           }
         }
       }
