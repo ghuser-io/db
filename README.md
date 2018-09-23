@@ -11,7 +11,7 @@
 This repository provides scripts to update the database for the
 [ghuser.io](https://github.com/ghuser-io/ghuser.io) Reframe app. The database consists of JSON
 files. The production data is stored on
-[AWS]((https://github.com/ghuser-io/ghuser.io/blob/master/aws). The scripts expect it at `~/data`.
+[AWS](https://github.com/ghuser-io/ghuser.io/blob/master/aws). The scripts expect it at `~/data`.
 This can be changed [here](https://github.com/ghuser-io/db/blob/6c9702e/impl/data.js#L9).
 
 The [fetchBot](fetchBot/) calls these scripts. It runs daily on an
