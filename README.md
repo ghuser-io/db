@@ -6,15 +6,16 @@
 
 [<img src="https://rawgit.com/ghuser-io/db/master/thirdparty/octicons/database.svg" align="left" width="64" height="64">](https://github.com/ghuser-io/db)
 
-# [ghuser.io](https://github.com/ghuser-io/ghuser.io)'s database
+# [ghuser.io](https://github.com/ghuser-io/ghuser.io)'s database scripts
 
-This repository:
+This repository provides scripts to update the database for the
+[ghuser.io](https://github.com/ghuser-io/ghuser.io) Reframe app. The database consists of JSON
+files. The production data is stored on
+[AWS]((https://github.com/ghuser-io/ghuser.io/blob/master/aws). The scripts expect it at `~/data`.
+This can be changed [here](https://github.com/ghuser-io/db/blob/6c9702e/impl/data.js#L9).
 
-* Serves as database for the [ghuser.io](https://github.com/ghuser-io/ghuser.io) Reframe app.
-  The DB consists of JSON files.
-* Provides scripts to update the database.
-
-In particular, [fetchBot](fetchBot/) runs daily on an [EC2 instance](https://github.com/ghuser-io/ghuser.io/blob/master/aws/ec2).
+The [fetchBot](fetchBot/) calls these scripts. It runs daily on an
+[EC2 instance](https://github.com/ghuser-io/ghuser.io/blob/master/aws/ec2).
 
 ## Table of Contents
 

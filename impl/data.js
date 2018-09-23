@@ -6,7 +6,7 @@
   const path = require('path');
 
   module.exports = {
-    root: 'data'
+    root: '~/data'
   };
   module.exports.users = path.join(module.exports.root, 'users');
   module.exports.contribs = path.join(module.exports.root, 'contribs');
