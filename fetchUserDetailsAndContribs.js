@@ -91,23 +91,22 @@ optional arguments:
       return;
     }
 
-    await fetchDetails();
-    await fetchOrgs();
-    await fetchContribs();
-    await fetchPopularForks();
-    await fetchSettings();
+    await fetchDetails(userFile);
+    await fetchOrgs(userFile);
+    await fetchContribs(userFile);
+    await fetchPopularForks(userFile);
+    await fetchSettings(userFile);
     return;
 
-    async function fetchDetails() {
-      const userLogin = userFile.login;
-      const ghUserUrl = `https://api.github.com/users/${userLogin}`;
+    async function fetchDetails(userFile) {
+      const ghUserUrl = `https://api.github.com/users/${userFile.login}`;
       spinner = ora(`Fetching ${ghUserUrl}...`).start();
       const ghDataJson = await github.fetchGHJson(
         ghUserUrl, spinner, [304],
         userFile.contribs && userFile.contribs.fetched_at && new Date(userFile.contribs.fetched_at)
       );
       if (ghDataJson === 304) {
-        spinner.succeed(`${userLogin} didn't change`);
+        spinner.succeed(`${userFile.login} didn't change`);
         return;
       }
       spinner.succeed(`Fetched ${ghUserUrl}`);
@@ -127,7 +126,7 @@ optional arguments:
       userFile.write();
     }
 
-    async function fetchOrgs() {
+    async function fetchOrgs(userFile) {
       const orgsUrl = userFile.organizations_url;
       spinner = ora(`Fetching ${orgsUrl}...`).start();
       const orgsDataJson = await github.fetchGHJson(orgsUrl, spinner);
@@ -141,7 +140,7 @@ optional arguments:
       userFile.write();
     }
 
-    async function fetchContribs() {
+    async function fetchContribs(userFile) {
       userFile.contribs = userFile.contribs || {
         fetched_at: '2000-01-01T00:00:00.000Z',
         repos: []
@@ -168,11 +167,11 @@ optional arguments:
       userFile.write();
     }
 
-    async function fetchPopularForks() {
+    async function fetchPopularForks(userFile) {
       // fetchUserContribs() won't find forks as they are not considered to be contributions. But
       // the user might well have popular forks.
 
-      spinner = ora(`Fetching ${user}'s popular forks...`).start();
+      spinner = ora(`Fetching ${userFile.login}'s popular forks...`).start();
 
       const perPage = 100;
       for (let page = 1; page <= 5; ++page) {
@@ -191,20 +190,20 @@ optional arguments:
         }
       }
 
-      spinner.succeed(`Fetched ${user}'s popular forks`);
+      spinner.succeed(`Fetched ${userFile.login}'s popular forks`);
       userFile.write();
     }
 
-    async function fetchSettings() {
-      const url = `https://rawgit.com/${user}/ghuser.io.settings/master/ghuser.io.json`;
-      spinner = ora(`Fetching ${user}'s settings...`).start();
+    async function fetchSettings(userFile) {
+      const url = `https://rawgit.com/${userFile.login}/ghuser.io.settings/master/ghuser.io.json`;
+      spinner = ora(`Fetching ${userFile.login}'s settings...`).start();
 
       const dataJson = await fetchJson(url, spinner, [404]);
       if (dataJson == 404) {
-        spinner.succeed(`${user} has no settings`);
+        spinner.succeed(`${userFile.login} has no settings`);
         return;
       }
-      spinner.succeed(`Fetched ${user}'s settings`);
+      spinner.succeed(`Fetched ${userFile.login}'s settings`);
 
       userFile.settings = dataJson;
       userFile.write();
