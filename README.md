@@ -1,5 +1,5 @@
-> **WARNING**: we just (2018-09-23 15:40 UTC) push-forced a new history without the in order to
-> reduce the size of this repo. See [#5](https://github.com/ghuser-io/db/issues/5).
+> **WARNING**: we just (2018-09-23 15:40 UTC) push-forced a new history without the database in
+> order to reduce the size of this repo. See [#5](https://github.com/ghuser-io/db/issues/5).
 
 [![Build Status](https://travis-ci.org/ghuser-io/db.svg?branch=master)](https://travis-ci.org/ghuser-io/db)
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
