@@ -51,6 +51,7 @@
   }
   function mkdirpSync(dirPath) {
     const parts = dirPath.split(path.sep);
+    parts[0] = parts[0] === '' && '/' || parts[0];
     for (let i = 1; i <= parts.length; ++i) {
       mkdirSync(path.join.apply(null, parts.slice(0, i)));
     }
