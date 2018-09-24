@@ -9,6 +9,10 @@ exec 2>&1
 
 source ../thirdparty/aws-sqs/utils.sh
 
+DATA_ON_EBS=~/data
+DATA_ON_EFS=~/efs/data.git
+BACKUP_ON_EFS=~/efs/data
+
 function assertEquals {
   if [[ "$1" != "$2" ]]; then
     echo "Assertion failed: $1 != $2"
@@ -24,9 +28,16 @@ function updateDb {
   echo "Updating DB..."
 
   lastRun="$(now)"
+
+  pushd "$DATA_ON_EBS"
   git pull
+  popd
+
   pushd ../
   ./fetchAndCalculateAll.sh
+  popd
+
+  pushd "$DATA_ON_EBS"
   git pull
   git add -A
   git commit -m "[bot] Updated DB."
@@ -38,7 +49,10 @@ function updateDb {
 function addUser {
   echo "Adding user $1..."
 
+  pushd "$DATA_ON_EBS"
   git pull
+  popd
+
   pushd ../
   ./addUser.js $1
   popd
@@ -84,6 +98,26 @@ function waitForJob {
   done
 }
 
+function backupAndPublishToS3 {
+  if [[ ! -d "$BACKUP_ON_EFS" ]]; then
+    git clone "$DATA_ON_EFS" "$BACKUP_ON_EFS"
+  fi
+  pushd "$BACKUP_ON_EFS"
+  git pull
+  popd
+
+  time rsync -r --info=progress2 --delete --inplace --exclude ".git/" "$BACKUP_ON_EFS" ~/s3/
+}
+
+
+if [[ ! -d "$DATA_ON_EFS" ]]; then
+  git init --bare "$DATA_ON_EFS"
+fi
+if [[ ! -d "$DATA_ON_EBS" ]]; then
+  git clone "$DATA_ON_EFS" "$DATA_ON_EBS"
+fi
+
+
 lastRun=0
 trap "echo Signal received, exiting...; exit;" SIGINT SIGTERM
 while true; do
@@ -100,4 +134,6 @@ while true; do
     receiptHandle="$(echo $msg | cut -d',' -f3)"
     aws sqs delete-message --queue-url "$(queueUrl)" --receipt-handle "$receiptHandle"
   fi
+
+  backupAndPublishToS3
 done

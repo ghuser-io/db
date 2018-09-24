@@ -2,9 +2,11 @@
 
 Bot
 
-* refreshing the DB at least once per day, and
+* refreshing the DB at least once per day,
 * processing profile requests from the
   [AWS SQS](https://github.com/ghuser-io/ghuser.io/blob/master/aws/sqs).
+* publishing the data to production, and
+* backing up the data.
 
 Errors will be sent to [Sentry](https://sentry.io) via
 [`raven-bash`](https://github.com/ViktorStiskala/raven-bash).
