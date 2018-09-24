@@ -2,7 +2,8 @@
 
 # Temporary script for issue143, taking several usernames as argument and for each:
 # * calling ./addUser.js, then
-# * calling ./fetchUserDetailsAndContribs.js in parallel.
+# * calling ./fetchUserDetailsAndContribs.js in parallel, then
+# * calling ./fetchRepos.js --firsttime
 #
 # sudo pip3 install python-nonblock==4.0.0
 #
@@ -64,3 +65,5 @@ for user, process in processes.items():
         print('{}:'.format(errmsg))
         print(process['stdout'].data.decode())
         raise ChildProcessError(errmsg)
+
+subprocess.run('./fetchRepos.js --firsttime'.format(user), shell=True)
