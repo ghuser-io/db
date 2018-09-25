@@ -284,7 +284,7 @@ optional arguments:
           break;
         }
 
-        if (page >= 500 && repo.stargazers_count < 10
+        if (page >= 500 && repo.stargazers_count < 15
             && now - Date.parse(mostRecentCommit.date) > 365 * 24 * 60 * 60 * 1000) {
           // Giant old not-so-popular repo, probably a copy of someone else's work with a few
           // patches on top of it. We don't want to waste resources on it for now, see #10
