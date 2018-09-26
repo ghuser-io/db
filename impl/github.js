@@ -77,6 +77,7 @@
         if (rateLimit.core.remaining <= 10) {
           console.error('\nAPI rate limit is still low:');
           console.error(rateLimit);
+          console.error(`next reset in ${Math.ceil(rateLimit.core.reset - ((new Date).getTime() / 1000))} seconds(s)`);
           throw 'API rate limit is still low after waiting';
         }
 
