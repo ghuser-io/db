@@ -66,7 +66,7 @@
     let rateLimit = await fetchGHRateLimit(oraSpinner);
     if (rateLimit.core.remaining <= 10) {
       const now = (new Date).getTime() / 1000;
-      const secondsToSleep = Math.ceil(rateLimit.core.reset - now);
+      const secondsToSleep = Math.ceil(rateLimit.core.reset - now) + 1;
       if (secondsToSleep >= 0) {
         if (oraSpinner) {
           oraSpinner.text += ` (waiting ${secondsToSleep} second(s) for API rate limit)`;
