@@ -62,23 +62,26 @@ GitHub API key found.
 GitHub credentials found.
 ...
 .../data/users
-  623 users
+  835 users
   largest: tarsius.json (22 KB)
-  total: 1445 KB
+  total: 1911 KB
 .../data/contribs
   largest: tarsius.json (261 KB)
-  total: 8473 KB
+  total: 10 MB
 .../data/repos
-  28624 repos
-  18138 significant repos
-  largest: jlord/patchwork.json (380 KB)
-  total: 61287 KB
-.../data/orgs.json: 1355 KB
-.../data/nonOrgs.json: 76 KB
+  37555 repos
+  23260 significant repos
+  largest: jlord/patchwork.json (707 KB)
+  total: 81 MB
+.../data/repoCommits
+  largest: CocoaPods/Specs.json (3912 KB)
+  total: 196 KB
+.../data/orgs.json: 1596 KB
+.../data/nonOrgs.json: 88 KB
 .../data/meta.json: 105 B
-total: 72636 KB
+total: 290 MB
 
-=> 117 KB/user
+=> 356 KB/user
 
 real    113m25.014s
 user    5m47.220s
