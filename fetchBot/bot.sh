@@ -12,6 +12,7 @@ source ../thirdparty/aws-sqs/utils.sh
 DATA_ON_EBS=~/data
 DATA_ON_EFS=~/efs/data.git
 BACKUP_ON_EFS=~/efs/data
+DATA_ON_S3=~/s3/data
 
 function assertEquals {
   if [[ "$1" != "$2" ]]; then
@@ -106,7 +107,9 @@ function backupAndPublishToS3 {
   git pull
   popd
 
-  time rsync -r --info=progress2 --delete --inplace --exclude ".git/" "$BACKUP_ON_EFS" ~/s3/
+  mkdir -p "$DATA_ON_S3"
+  # We can't use rsync because of https://github.com/skoobe/riofs/issues/101 :
+  cp -Rv $BACKUP_ON_EFS/* "$DATA_ON_S3" | pv -l > /dev/null
 }
 
 

@@ -44,7 +44,7 @@ See [here](https://github.com/ghuser-io/ghuser.io/blob/master/aws).
 
 ```bash
 $ sudo apt-get update
-$ sudo apt-get install jq
+$ sudo apt-get install jq pv
 ```
 
 ## Run the bot
