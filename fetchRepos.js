@@ -239,11 +239,20 @@ optional arguments:
       for (let page = 1;; ++page) {
         spinner.start(`${spinnerText} [page ${page}]`);
         const ghUrl = `https://api.github.com/repos/${repo.full_name}/commits?since=${repoCommits.last_fetched_commit.date}&page=${page}&per_page=${perPage}`;
-        const ghDataJson = await github.fetchGHJson(ghUrl, spinner, [404]);
-        if (ghDataJson === 404) {
+        const ghDataJson = await github.fetchGHJson(ghUrl, spinner, [404, 500]);
+        switch (ghDataJson) {
+        case 404:
           // The repo has been removed during the current run. It will be marked as removed in the
           // next run. For now just don't crash.
           spinner.succeed(`${repo.full_name} was just removed from GitHub`);
+          return;
+        case 500: // Workaround for #8
+          if (page > 1000) {
+            // It would be a pity to lose all this work. Mark as truncated and move on:
+            repoCommits.ghuser_truncated = true;
+            break pages;
+          }
+          spinner.fail();
           return;
         }
 
