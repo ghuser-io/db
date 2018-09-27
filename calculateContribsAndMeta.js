@@ -1,11 +1,12 @@
 #!/usr/bin/env node
 'use strict';
 
-(() => {
+(async () => {
 
   const fs = require('fs');
   const ora = require('ora');
   const path = require('path');
+  const sleep = require('await-sleep');
 
   const data = require('./impl/data');
   const DbFile = require('./impl/dbFile');
@@ -13,56 +14,75 @@
 
   scriptUtils.printUnhandledRejections();
 
-  calculateContribsAndMeta();
+  await calculateContribsAndMeta();
   return;
 
-  function calculateContribsAndMeta() {
+  async function calculateContribsAndMeta() {
     let spinner;
 
     const orgs = new DbFile(data.orgs);
 
+    let spinnerText = 'Reading users from DB...';
+    spinner = ora(spinnerText).start();
     const users = {};
     let numUsers = 0;
     for (const file of fs.readdirSync(data.users)) {
+      await sleep(0); // make loop interruptible
+
       if (file.endsWith('.json')) {
         const user = new DbFile(path.join(data.users, file));
         if (!user.ghuser_deleted_because) {
           users[file] = user;
           ++numUsers;
+          spinner.text = `${spinnerText} [${numUsers}]`;
 
           // Make sure the corresponding contrib file exists (not the case if it's a new user):
           (new DbFile(path.join(data.contribs, file))).write();
         }
       }
     }
+    spinner.succeed(`Found ${numUsers} users in DB`);
 
+    spinnerText = 'Reading contribution lists from DB...';
+    spinner = ora(spinnerText).start();
     const contribs = {};
     for (const file of fs.readdirSync(data.contribs)) {
+      await sleep(0); // make loop interruptible
+
       if (file.endsWith('.json')) {
         const contribList = new DbFile(path.join(data.contribs, file));
         contribList._comment = 'DO NOT EDIT MANUALLY - See ../../README.md';
         contribList.repos = {};
         contribs[file] = contribList;
+        spinner.text = `${spinnerText} [${Object.keys(contribs).length}]`;
       }
     }
+    spinner.succeed(`Found ${Object.keys(contribs).length} contribution lists in DB`);
 
-    const repos = {};
+    spinnerText = 'Reading repos from DB...';
+    spinner = ora(spinnerText).start();
+    const repoPaths = {};
     for (const ownerDir of fs.readdirSync(data.repos)) {
       const pathToOwner = path.join(data.repos, ownerDir);
       for (const file of fs.readdirSync(pathToOwner)) {
+        await sleep(0); // make loop interruptible
+
         const ext = '.json';
         if (file.endsWith(ext)) {
-          const repo = new DbFile(path.join(pathToOwner, file));
           const full_name = `${ownerDir}/${file}`.slice(0, -ext.length);
-          repos[full_name] = repo;
+          repoPaths[full_name] = path.join(pathToOwner, file);
+          spinner.text = `${spinnerText} [${Object.keys(repoPaths).length}]`;
         }
       }
     }
+    spinner.succeed(`Found ${Object.keys(repoPaths).length} repos in DB`);
 
     stripUnreferencedContribs();
 
     let numContribs = 0;
     for (const filename in contribs) {
+      await sleep(0); // make loop interruptible
+
       numContribs += calculateScores(filename);
       stripInsignificantContribs(filename);
       calculateOrgs(filename);
@@ -100,29 +120,33 @@
 
       let numContribs = 0;
       for (const repo of users[filename].contribs.repos) {
-        if (!repos[repo]              // repo has been stripped
-            || !repos[repo].full_name // repo hasn't been crawled yet
-            || repos[repo].removed_from_github
-            || repos[repo].ghuser_insignificant
+        if (!repoPaths[repo]) { // repo has been stripped
+          continue;
+        }
+
+        const repoFile = new DbFile(repoPaths[repo]);
+        if (!repoFile.full_name // repo hasn't been crawled yet
+            || repoFile.removed_from_github
+            || repoFile.ghuser_insignificant
            ) {
           continue;
         }
         ++numContribs;
 
-        const full_name = repos[repo].full_name;
+        const full_name = repoFile.full_name;
         const score = contribs[filename].repos[full_name] = {
           full_name,
-          name: repos[repo].name,
-          stargazers_count: repos[repo].stargazers_count,
+          name: repoFile.name,
+          stargazers_count: repoFile.stargazers_count,
         };
 
         let totalContribs = 0;
-        for (const contributor in repos[repo].contributors) {
-          totalContribs += repos[repo].contributors[contributor];
+        for (const contributor in repoFile.contributors) {
+          totalContribs += repoFile.contributors[contributor];
         }
 
-        score.percentage = repos[repo].contributors && repos[repo].contributors[userLogin] &&
-                           100 * repos[repo].contributors[userLogin] / totalContribs || 0;
+        score.percentage = repoFile.contributors && repoFile.contributors[userLogin] &&
+                           100 * repoFile.contributors[userLogin] / totalContribs || 0;
         score.total_commits_count = totalContribs;
       }
 
@@ -137,8 +161,11 @@
       const toBeDeleted = [];
       for (const repo in contribs[filename].repos) {
         const score = contribs[filename].repos[repo];
-        if (repos[repo] && repos[repo].fork && score.percentage === 0) {
-          toBeDeleted.push(repo);
+        if (repoPaths[repo]) {
+          const repoFile = new DbFile(repoPaths[repo]);
+          if (repoFile.fork && score.percentage === 0) {
+            toBeDeleted.push(repo);
+          }
         }
       }
       for (const repo of toBeDeleted) {
