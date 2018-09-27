@@ -157,6 +157,10 @@
       function getContribsOwners(contribRepos) {
         const result = new Set([]);
         for (const repo in contribRepos) {
+          if (!contribRepos[repo].percentage) {
+            continue;
+          }
+
           const originalOwner = repo.split('/')[0];
           result.add(originalOwner);
           if (contribRepos[repo].full_name) {
