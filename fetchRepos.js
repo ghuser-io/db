@@ -6,7 +6,6 @@
   const assert = require('assert');
   const fs = require('fs');
   const meow = require('meow');
-  const Mode = require('stat-mode');
   const ora = require('ora');
   const path = require('path');
   const sleep = require('await-sleep');
@@ -91,19 +90,17 @@ optional arguments:
     const repoPaths = {};
     for (const ownerDir of fs.readdirSync(data.repos)) {
       const pathToOwner = path.join(data.repos, ownerDir);
-      if ((new Mode(fs.statSync(pathToOwner))).isDirectory()) {
-        for (const file of fs.readdirSync(pathToOwner)) {
-          await sleep(0); // make loop interruptible
+      for (const file of fs.readdirSync(pathToOwner)) {
+        await sleep(0); // make loop interruptible
 
-          const ext = '.json';
-          if (file.endsWith(ext)) {
-            const full_name = `${ownerDir}/${file}`.slice(0, -ext.length);
-            repoPaths[full_name] = {
-              repo: path.join(pathToOwner, file),
-              repoCommits: path.join(data.repoCommits, ownerDir, file)
-            };
-            spinner.text = `${spinnerText} [${Object.keys(repoPaths).length}]`;
-          }
+        const ext = '.json';
+        if (file.endsWith(ext)) {
+          const full_name = `${ownerDir}/${file}`.slice(0, -ext.length);
+          repoPaths[full_name] = {
+            repo: path.join(pathToOwner, file),
+            repoCommits: path.join(data.repoCommits, ownerDir, file)
+          };
+          spinner.text = `${spinnerText} [${Object.keys(repoPaths).length}]`;
         }
       }
     }
