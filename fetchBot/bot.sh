@@ -106,7 +106,7 @@ function backupAndPublishToS3 {
   git pull
   popd
 
-  time aws s3 sync "$BACKUP_ON_EFS" s3://ghuser/data
+  time aws s3 sync --exclude .git "$BACKUP_ON_EFS" s3://ghuser/data
 }
 
 
