@@ -114,7 +114,6 @@
           full_name,
           name: repos[repo].name,
           stargazers_count: repos[repo].stargazers_count,
-          popularity: logarithmicScoreAscending(1, 10000, repos[repo].stargazers_count)
         };
 
         let totalContribs = 0;
@@ -124,50 +123,12 @@
 
         score.percentage = repos[repo].contributors && repos[repo].contributors[userLogin] &&
                            100 * repos[repo].contributors[userLogin] / totalContribs || 0;
-        score.maturity = logarithmicScoreAscending(40, 10000, totalContribs);
         score.total_commits_count = totalContribs;
-
-        const daysOfInactivity =
-                (Date.parse(repos[repo].fetched_at) - Date.parse(repos[repo].pushed_at))
-                / (24 * 60 * 60 * 1000);
-        score.activity = logarithmicScoreDescending(3650, 30, daysOfInactivity);
-
-        // When tweaking the total score, validate that:
-        // * for brillout:
-        //   * devarchy/website is higher than facebook/react
-        //   * brillout/awesome-frontend-libraries is higher than facebook/react
-        //   * brillout/frontend-catalogs is higher than facebook/react
-        //   * brillout/reprop is higher than facebook/react
-
-        score.total_score =
-          (3 + score.percentage * 13 / 100) * score.popularity + 2 * score.maturity + score.activity;
-        score.total_score_human_formula = "(3 + percentage * 13) * popularity + 2 * maturity + activity";
-        score.max_total_score = 95;
       }
 
       spinner.succeed(`Calculated scores for ${userLogin}`);
       contribs[filename].write();
       return numContribs;
-
-      function logarithmicScoreAscending(valFor0, valFor5, val) {
-        // For example with valFor0=1, valFor5=100000, val being the number of stars on a
-        // project and the result being the project popularity:
-        //      1 star  => popularity=0
-        //     10 stars => popularity=1
-        //    100 stars => popularity=2
-        //   1000 stars => popularity=3
-        //  10000 stars => popularity=4
-        // 100000 stars => popularity=5
-
-        let logInput = (val - valFor0) * 99999 / (valFor5 - valFor0) + 1;
-        logInput = Math.max(1, logInput);
-        logInput = Math.min(100000, logInput);
-        return Math.log10(logInput);
-      }
-
-      function logarithmicScoreDescending(valFor0, valFor5, val) {
-        return 5 - logarithmicScoreAscending(valFor5, valFor0, val);
-      }
     }
 
     function stripInsignificantContribs(filename) {
