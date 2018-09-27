@@ -51,7 +51,6 @@
 
       if (file.endsWith('.json')) {
         const contribList = new DbFile(path.join(data.contribs, file));
-        contribList._comment = 'DO NOT EDIT MANUALLY - See ../../README.md';
         contribList.repos = {};
         contribs[file] = contribList;
         spinner.text = `${spinnerText} [${Object.keys(contribs).length}]`;
@@ -89,7 +88,6 @@
     }
 
     const meta = new DbFile(data.meta);
-    meta._comment = 'DO NOT EDIT MANUALLY - See ../README.md';
     meta.num_users = numUsers;
     meta.num_contribs = numContribs;
     meta.write();

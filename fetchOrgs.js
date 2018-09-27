@@ -21,13 +21,11 @@
     let spinner;
 
     const orgs = new DbFile(data.orgs);
-    orgs._comment = 'DO NOT EDIT MANUALLY - See ../README.md';
     orgs.orgs = orgs.orgs || {};
 
     // In this file we store repo owners that we know aren't organizations. This avoids querying
     // them next time.
     const nonOrgs = new DbFile(data.nonOrgs);
-    nonOrgs._comment = 'DO NOT EDIT MANUALLY - See ../README.md';
     nonOrgs.non_orgs = nonOrgs.non_orgs || [];
 
     const users = [];

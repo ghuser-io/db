@@ -38,7 +38,6 @@ positional arguments:
   }
 
   Object.assign(userFile, {
-    _comment: 'DO NOT EDIT MANUALLY - See ../../README.md',
     login: user,
     ghuser_created_at: (new Date).toISOString()
   });

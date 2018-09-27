@@ -114,12 +114,12 @@ optional arguments:
       Object.assign(userFile, ghDataJson);
 
       // Keep the DB small:
-      for (const field of ["id", "node_id", "gravatar_id", "followers_url", "following_url",
-                           "gists_url", "starred_url", "subscriptions_url", "events_url",
-                           "received_events_url", "site_admin", "hireable", "public_repos",
-                           "followers", "following", "private_gists", "total_private_repos",
-                           "owned_private_repos", "disk_usage", "collaborators",
-                           "two_factor_authentication", "plan", "url"]) {
+      for (const field of ['id', 'node_id', 'gravatar_id', 'followers_url', 'following_url',
+                           'gists_url', 'starred_url', 'subscriptions_url', 'events_url',
+                           'received_events_url', 'site_admin', 'hireable', 'public_repos',
+                           'followers', 'following', 'private_gists', 'total_private_repos',
+                           'owned_private_repos', 'disk_usage', 'collaborators',
+                           'two_factor_authentication', 'plan', 'url']) {
         delete userFile[field];
       }
 
