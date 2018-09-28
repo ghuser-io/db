@@ -110,8 +110,27 @@
     console.log(`  largest: ${largestRepoCommitsFileName} (${toKB(largestRepoCommitsFileSize)})`);
     console.log(`  total: ${toMB(totalRepoCommitsSize)}`);
 
-    const orgsSize = fs.statSync(data.orgs).size;
-    console.log(`${data.orgs}: ${toKB(orgsSize)}`);
+    let numOrgs = 0;
+    let largestOrgFileName;
+    let largestOrgFileSize = 0;
+    let totalOrgSize = 0;
+    for (const file of fs.readdirSync(data.orgs)) {
+      if (file.endsWith('.json')) {
+        const pathToFile = path.join(data.orgs, file);
+        const org = new DbFile(pathToFile);
+        ++numOrgs;
+        const orgFileSize = fs.statSync(pathToFile).size;
+        if (orgFileSize > largestOrgFileSize) {
+          largestOrgFileSize = orgFileSize;
+          largestOrgFileName = file;
+        }
+        totalOrgSize += orgFileSize;
+      }
+    }
+    console.log(data.orgs);
+    console.log(`  ${numOrgs} orgs`);
+    console.log(`  largest: ${largestOrgFileName} (${largestOrgFileSize} B)`);
+    console.log(`  total: ${toKB(totalOrgSize)}`);
 
     const nonOrgsSize = fs.statSync(data.nonOrgs).size;
     console.log(`${data.nonOrgs}: ${toKB(nonOrgsSize)}`);
@@ -120,7 +139,7 @@
     console.log(`${data.meta}: ${metaSize} B`);
 
     const totalSize = totalUserSize + totalContribSize + totalRepoSize + totalRepoCommitsSize +
-                      orgsSize + nonOrgsSize + metaSize;
+                      totalOrgSize + nonOrgsSize + metaSize;
     console.log(`total: ${toMB(totalSize)}`);
 
     console.log(`\n=> ${toKB(totalSize / numUsers)}/user`);

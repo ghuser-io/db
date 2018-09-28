@@ -20,9 +20,6 @@
   async function fetchOrgs() {
     let spinner;
 
-    const orgs = new DbFile(data.orgs);
-    orgs.orgs = orgs.orgs || {};
-
     // In this file we store repo owners that we know aren't organizations. This avoids querying
     // them next time.
     const nonOrgs = new DbFile(data.nonOrgs);
@@ -61,7 +58,8 @@
       owners:
       for (const owner of owners) {
         spinner = ora(`Fetching owner ${owner}...`).start();
-        if (orgs.orgs[owner] && orgs.orgs[owner].avatar_url) {
+        const org = new DbFile(path.join(data.orgs, `${owner}.json`));
+        if (org.avatar_url) {
           spinner.succeed(`Organization ${owner} is already known`);
           continue;
         }
@@ -88,57 +86,55 @@
         }
         spinner.succeed(`Fetched organization ${owner}`);
 
-        orgs.orgs[orgJson.login] = {...orgs.orgs[orgJson.login], ...orgJson};
+        Object.assign(org, orgJson);
 
         // Keep the DB small:
-        delete orgs.orgs[orgJson.login].id;
-        delete orgs.orgs[orgJson.login].node_id;
-        delete orgs.orgs[orgJson.login].events_url;
-        delete orgs.orgs[orgJson.login].hooks_url;
-        delete orgs.orgs[orgJson.login].issues_url;
-        delete orgs.orgs[orgJson.login].repos_url;
-        delete orgs.orgs[orgJson.login].members_url;
-        delete orgs.orgs[orgJson.login].public_members_url;
-        delete orgs.orgs[orgJson.login].description;
-        delete orgs.orgs[orgJson.login].company;
-        delete orgs.orgs[orgJson.login].blog;
-        delete orgs.orgs[orgJson.login].location;
-        delete orgs.orgs[orgJson.login].email;
-        delete orgs.orgs[orgJson.login].has_organization_projects;
-        delete orgs.orgs[orgJson.login].has_repository_projects;
-        delete orgs.orgs[orgJson.login].public_repos;
-        delete orgs.orgs[orgJson.login].public_gists;
-        delete orgs.orgs[orgJson.login].followers;
-        delete orgs.orgs[orgJson.login].following;
-        delete orgs.orgs[orgJson.login].is_verified;
-        delete orgs.orgs[orgJson.login].total_private_repos;
-        delete orgs.orgs[orgJson.login].owned_private_repos;
-        delete orgs.orgs[orgJson.login].private_gists;
-        delete orgs.orgs[orgJson.login].disk_usage;
-        delete orgs.orgs[orgJson.login].billing_email;
-        delete orgs.orgs[orgJson.login].plan;
-        delete orgs.orgs[orgJson.login].default_repository_permission;
-        delete orgs.orgs[orgJson.login].members_can_create_repositories;
-        delete orgs.orgs[orgJson.login].two_factor_requirement_enabled;
+        delete org.id;
+        delete org.node_id;
+        delete org.events_url;
+        delete org.hooks_url;
+        delete org.issues_url;
+        delete org.repos_url;
+        delete org.members_url;
+        delete org.public_members_url;
+        delete org.description;
+        delete org.company;
+        delete org.blog;
+        delete org.location;
+        delete org.email;
+        delete org.has_organization_projects;
+        delete org.has_repository_projects;
+        delete org.public_repos;
+        delete org.public_gists;
+        delete org.followers;
+        delete org.following;
+        delete org.is_verified;
+        delete org.total_private_repos;
+        delete org.owned_private_repos;
+        delete org.private_gists;
+        delete org.disk_usage;
+        delete org.billing_email;
+        delete org.plan;
+        delete org.default_repository_permission;
+        delete org.members_can_create_repositories;
+        delete org.two_factor_requirement_enabled;
 
-        orgs.write();
+        org.write();
       }
     }
 
     function stripUnreferencedOrgs() {
       // Deletes orgs that are not referenced by any user.
 
-      const toBeDeleted = [];
-      for (const org in orgs.orgs) {
-        if (!userOrgs.has(org) && !contribOwners.has(org)) {
-          toBeDeleted.push(org);
+      for (const file of fs.readdirSync(data.orgs)) {
+        const ext = '.json';
+        if (file.endsWith(ext)) {
+          const orgName = file.slice(0, -ext.length);
+          if (!userOrgs.has(orgName) && !contribOwners.has(orgName)) {
+            fs.unlinkSync(path.join(data.orgs, file));
+          }
         }
       }
-      for (const org of toBeDeleted) {
-        delete orgs.orgs[org];
-      }
-
-      orgs.write();
     }
   }
 

@@ -20,8 +20,6 @@
   async function calculateContribsAndMeta() {
     let spinner;
 
-    const orgs = new DbFile(data.orgs);
-
     let spinnerText = 'Reading users from DB...';
     spinner = ora(spinnerText).start();
     const users = {};
@@ -175,7 +173,7 @@
 
     function calculateOrgs(filename) {
       contribs[filename].organizations = getContribsOwners(contribs[filename].repos).filter(
-        owner => orgs.orgs[owner] && orgs.orgs[owner].login);
+        owner => (new DbFile(path.join(data.orgs, `${owner}.json`))).login);
       contribs[filename].write();
       return;
 

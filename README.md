@@ -62,26 +62,29 @@ GitHub API key found.
 GitHub credentials found.
 ...
 /home/ubuntu/data/users
-  921 users
+  1006 users
   largest: tarsius.json (22 KB)
-  total: 2057 KB
+  total: 2273 KB
 /home/ubuntu/data/contribs
   largest: tarsius.json (113 KB)
-  total: 5 MB
+  total: 6 MB
 /home/ubuntu/data/repos
-  41502 repos
-  25616 significant repos
+  45995 repos
+  28267 significant repos
   largest: jlord/patchwork.json (708 KB)
-  total: 86 MB
+  total: 94 MB
 /home/ubuntu/data/repoCommits
   largest: CocoaPods/Specs.json (3928 KB)
-  total: 211 MB
-/home/ubuntu/data/orgs.json: 1900 KB
-/home/ubuntu/data/nonOrgs.json: 104 KB
+  total: 223 MB
+/home/ubuntu/data/orgs
+  5075 orgs
+  largest: FacultadInformatica-LinkedData.json (438 B)
+  total: 1607 KB
+/home/ubuntu/data/nonOrgs.json: 109 KB
 /home/ubuntu/data/meta.json: 48 B
-total: 306 MB
+total: 327 MB
 
-=> 341 KB/user
+=> 333 KB/user
 
 real    150m37.837s
 user    10m51.248s
@@ -105,15 +108,18 @@ Several scripts form a pipeline for updating the database. Here is the data flow
                        │       v               │                         │
                        │   [ ./fetchUserDetailsAndContribs.js myUser ]<──┤
                        │                                                 │
-                       ├───────────────────────>[ ./fetchOrgs.js ]<──────┤
-                       │                              ^     │            │
-                       │                              │     │            │
-                       │                              v     v            │
-                       │                 ┌──────────────┐ ┌───────────┐  │
-                       │                 │ nonOrgs.json │ │ orgs.json │  │
-                       │                 └──────────────┘ └───┬───────┘  │
+                       ├────────────>[ ./fetchOrgs.js ]<─────────────────┤
+                       │                   ^     ^                       │
+                       │                   │     │                       │
+                       │                   v     v                       │
+                       │      ┌──────────────┐ ┌─────────────────┐       │
+                       │      │ nonOrgs.json │ │ orgs/myOrg.json │─┐     │
+                       │      └──────────────┘ └─────────────────┘ │─┐   │
+                       │                         └─────────────────┘ │   │
+                       │                           └──────────┬──────┘   │
                        │                                      │          │
                        ├──>[ ./fetchRepos.js ]<──────────────────────────┘
+                       │             ^                        │
                        │             │                        │
                        │             v                        │
                        │  ┌───────────────────────────┐       │
