@@ -61,31 +61,31 @@ $ ./fetchAndCalculateAll.sh
 GitHub API key found.
 GitHub credentials found.
 ...
-.../data/users
-  835 users
+/home/ubuntu/data/users
+  921 users
   largest: tarsius.json (22 KB)
-  total: 1911 KB
-.../data/contribs
-  largest: tarsius.json (261 KB)
-  total: 10 MB
-.../data/repos
-  37555 repos
-  23260 significant repos
-  largest: jlord/patchwork.json (707 KB)
-  total: 81 MB
-.../data/repoCommits
-  largest: CocoaPods/Specs.json (3912 KB)
-  total: 196 KB
-.../data/orgs.json: 1596 KB
-.../data/nonOrgs.json: 88 KB
-.../data/meta.json: 105 B
-total: 290 MB
+  total: 2057 KB
+/home/ubuntu/data/contribs
+  largest: tarsius.json (113 KB)
+  total: 5 MB
+/home/ubuntu/data/repos
+  41502 repos
+  25616 significant repos
+  largest: jlord/patchwork.json (708 KB)
+  total: 86 MB
+/home/ubuntu/data/repoCommits
+  largest: CocoaPods/Specs.json (3928 KB)
+  total: 211 MB
+/home/ubuntu/data/orgs.json: 1900 KB
+/home/ubuntu/data/nonOrgs.json: 104 KB
+/home/ubuntu/data/meta.json: 48 B
+total: 306 MB
 
-=> 356 KB/user
+=> 341 KB/user
 
-real    113m25.014s
-user    5m47.220s
-sys     0m52.928s
+real    150m37.837s
+user    10m51.248s
+sys     0m50.716s
 ```
 
 ## Implementation

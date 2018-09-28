@@ -110,6 +110,16 @@
         delete orgs.orgs[orgJson.login].public_gists;
         delete orgs.orgs[orgJson.login].followers;
         delete orgs.orgs[orgJson.login].following;
+        delete orgs.orgs[orgJson.login].is_verified;
+        delete orgs.orgs[orgJson.login].total_private_repos;
+        delete orgs.orgs[orgJson.login].owned_private_repos;
+        delete orgs.orgs[orgJson.login].private_gists;
+        delete orgs.orgs[orgJson.login].disk_usage;
+        delete orgs.orgs[orgJson.login].billing_email;
+        delete orgs.orgs[orgJson.login].plan;
+        delete orgs.orgs[orgJson.login].default_repository_permission;
+        delete orgs.orgs[orgJson.login].members_can_create_repositories;
+        delete orgs.orgs[orgJson.login].two_factor_requirement_enabled;
 
         orgs.write();
       }
