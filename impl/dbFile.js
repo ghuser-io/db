@@ -44,11 +44,17 @@
     try {
       fs.mkdirSync(dirPath);
     } catch (e) {
-      if (e.code !== 'EEXIST') {
-        throw e;
+      if (e.code == 'EEXIST') {
+        return;
       }
+      // Permission error, e.g. when `dirPath` equals `/`
+      if (e.code == 'EISDIR' && fs.existsSync(dirPath)) {
+        return;
+      }
+      throw e;
     }
   }
+
   function mkdirpSync(dirPath) {
     const parts = dirPath.split(path.sep);
     parts[0] = parts[0] === '' && '/' || parts[0];
