@@ -5,7 +5,7 @@
   const os = require('os');
   const fs = require('fs');
   const path = require('path');
-  const dbPath = process.env.DBDIR || path.join(os.homedir(), 'data');
+  const dbPath = process.env.GHUSER_DBDIR || path.join(os.homedir(), 'data');
 
   if (!fs.existsSync(dbPath)) {
     throw `${dbPath} directory doesn't exist`
