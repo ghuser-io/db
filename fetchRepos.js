@@ -412,8 +412,9 @@ optional arguments:
 
       for (const fileName of ['.ghuser.io.json', '.github/ghuser.io.json']) {
         const url = `https://rawgit.com/${repo.full_name}/master/${fileName}`;
-        const dataJson = await fetchJson(url, spinner, [404]);
-        if (dataJson == 404) {
+        const dataJson = await fetchJson(url, spinner, [403, 404]);
+        if (dataJson === 403 || // happens on https://rawgit.com/hjnilsson/country-flags/master/.ghuser.io.json , not sure why
+            dataJson === 404) {
           continue;
         }
 
