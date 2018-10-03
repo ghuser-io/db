@@ -3,7 +3,6 @@
 
 (async () => {
 
-  const assert = require('assert');
   const fs = require('fs');
   const meow = require('meow');
   const ora = require('ora');
@@ -13,7 +12,11 @@
   const data = require('./impl/data');
   const DbFile = require('./impl/dbFile');
   const fetchJson = require('./impl/fetchJson');
-  const github = require('./impl/github');
+
+  const ghAPIVersion = process.env.GHUSER_GHV4 === "true" ? 4 : 3
+  console.log(`Using GitHub APIv${ghAPIVersion}`)
+  const ghcl = require(`./impl/githubV${ghAPIVersion}`);
+
   const githubColors = require('github-colors');
   const scriptUtils = require('./impl/scriptUtils');
 
@@ -117,7 +120,9 @@ optional arguments:
         const repoCommits = new DbFile(repoPaths[repoFullName].repoCommits);
         await fetchRepoCommitsAndContributors(repo, repoCommits);
         await fetchRepoPullRequests(repo);
-        await fetchRepoLanguages(repo);
+        if (ghAPIVersion === 3) {
+          await fetchRepoLanguages(repo);
+        }
         await fetchRepoSettings(repo);
         markRepoAsFullyFetched(repo);
       }
@@ -128,8 +133,7 @@ optional arguments:
     return;
 
     async function fetchRepo(repoFullName, firsttime) {
-      const ghRepoUrl = `https://api.github.com/repos/${repoFullName}`;
-      spinner = ora(`Fetching ${ghRepoUrl}...`).start();
+      spinner = ora(`Fetching ${repoFullName}...`).start();
       const repo = new DbFile(repoPaths[repoFullName].repo);
 
       const now = new Date;
@@ -146,8 +150,8 @@ optional arguments:
         return;
       }
 
-      const ghDataJson = await github.fetchGHJson(ghRepoUrl, spinner, [304, 404, 451],
-                                                  new Date(repo.fetched_at));
+      const ghDataJson = await ghcl.repo(spinner, [304, 404, 451], repoFullName, new Date(repo.fetched_at))
+
       switch (ghDataJson) {
       case 304:
         repo.fetched_at = now.toISOString();;
@@ -166,9 +170,10 @@ optional arguments:
         repo.write();
         return;
       }
+
       repo.fetching_since = now.toISOString();;
 
-      spinner.succeed(`Fetched ${ghRepoUrl}`);
+      spinner.succeed(`Fetched ${repoFullName}`);
 
       ghDataJson.owner = ghDataJson.owner.login;
       Object.assign(repo, ghDataJson);
@@ -231,12 +236,14 @@ optional arguments:
 
       const now = new Date;
       let mostRecentCommit;
+      let ghAPIV4Cursor;
       const perPage = 100;
       pages:
       for (let page = 1;; ++page) {
         spinner.start(`${spinnerText} [page ${page}]`);
-        const ghUrl = `https://api.github.com/repos/${repo.full_name}/commits?since=${repoCommits.last_fetched_commit.date}&page=${page}&per_page=${perPage}`;
-        const ghDataJson = await github.fetchGHJson(ghUrl, spinner, [404, 500]);
+        const ghDataJson = await ghcl.commits(spinner, [404, 500], repo.full_name, repoCommits.last_fetched_commit.date, page, perPage, ghAPIV4Cursor);
+        ghAPIV4Cursor = ghDataJson[0] ? ghDataJson[0].cursor : undefined
+
         switch (ghDataJson) {
         case 404:
           // The repo has been removed during the current run. It will be marked as removed in the
@@ -324,14 +331,12 @@ optional arguments:
 
       const authors = new Set(repo.pulls_authors || []);
 
-      const pullsUrlSuffix = '{/number}';
-      assert(repo.pulls_url.endsWith(pullsUrlSuffix));
-      const pullsUrl = repo.pulls_url.slice(0, -pullsUrlSuffix.length);
-
+      let ghAPIV4Cursor;
       const perPage = 100;
       for (let page = 1;; ++page) {
-        const ghUrl = `${pullsUrl}?state=all&page=${page}&per_page=${perPage}`;
-        const ghDataJson = await github.fetchGHJson(ghUrl, spinner, [404, 500]);
+        const ghDataJson = await ghcl.pullRequests(spinner, [404, 500], repo.full_name, page, perPage, ghAPIV4Cursor);
+        ghAPIV4Cursor = ghDataJson[0] ? ghDataJson[0].cursor : undefined
+
         switch (ghDataJson) {
         case 404:
           // The repo has been removed during the current run. It will be marked as removed in the
@@ -371,8 +376,7 @@ optional arguments:
     }
 
     async function fetchRepoLanguages(repo) {
-      const ghUrl = `https://api.github.com/repos/${repo.full_name}/languages`;
-      spinner = ora(`Fetching ${ghUrl}...`).start();
+      spinner = ora(`Fetching ${repo.full_name}...`).start();
 
       if (!repo.fetching_since || repo.fetched_at &&
           new Date(repo.fetched_at) > new Date(repo.pushed_at)) {
@@ -380,7 +384,7 @@ optional arguments:
         return;
       }
 
-      const ghDataJson = await github.fetchGHJson(ghUrl, spinner, [404]);
+      const ghDataJson = await ghcl.repoLanguages(spinner, [404], repo.full_name);
       if (ghDataJson === 404) {
         // The repo has been removed during the current run. It will be marked as removed in the
         // next run. For now just don't crash.
@@ -388,7 +392,7 @@ optional arguments:
         return;
       }
 
-      spinner.succeed(`Fetched ${ghUrl}`);
+      spinner.succeed(`Fetched ${repo.full_name}`);
 
       for (let language in ghDataJson) {
         ghDataJson[language] = {
