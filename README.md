@@ -62,33 +62,33 @@ GitHub API key found.
 GitHub credentials found.
 ...
 /home/ubuntu/data/users
-  1006 users
-  largest: tarsius.json (22 KB)
-  total: 2273 KB
+  1523 users
+  largest: orta.json (26 KB)
+  total: 3435 KB
 /home/ubuntu/data/contribs
-  largest: tarsius.json (113 KB)
-  total: 6 MB
+  largest: orta.json (144 KB)
+  total: 9 MB
 /home/ubuntu/data/repos
-  45995 repos
-  28267 significant repos
-  largest: jlord/patchwork.json (708 KB)
-  total: 94 MB
+  68859 repos
+  41837 significant repos
+  largest: jlord/patchwork.json (710 KB)
+  total: 133 MB
 /home/ubuntu/data/repoCommits
-  largest: CocoaPods/Specs.json (3928 KB)
-  total: 223 MB
+  largest: CocoaPods/Specs.json (3947 KB)
+  total: 285 MB
 /home/ubuntu/data/orgs
-  5075 orgs
+  7361 orgs
   largest: FacultadInformatica-LinkedData.json (438 B)
-  total: 1607 KB
-/home/ubuntu/data/nonOrgs.json: 109 KB
-/home/ubuntu/data/meta.json: 48 B
-total: 327 MB
+  total: 2337 KB
+/home/ubuntu/data/nonOrgs.json: 164 KB
+/home/ubuntu/data/meta.json: 49 B
+total: 433 MB
 
-=> 333 KB/user
+=> 291 KB/user
 
-real    150m37.837s
-user    10m51.248s
-sys     0m50.716s
+real    480m23.001s
+user    24m19.944s
+sys     1m42.236s
 ```
 
 ## Implementation

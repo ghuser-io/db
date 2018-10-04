@@ -90,23 +90,36 @@ optional arguments:
       console.log(`${userFile.login} has been deleted, skipping...`);
       return;
     }
+    if (userFile.removed_from_github) {
+      // For now ok, but maybe some day we'll have to deal with resurrected users.
+      console.log(`${userFile.login} was removed from GitHub in the past, skipping...`);
+      return;
+    }
 
     await fetchDetails(userFile);
-    await fetchOrgs(userFile);
-    await fetchContribs(userFile);
-    await fetchPopularForks(userFile);
-    await fetchSettings(userFile);
+    if (!userFile.removed_from_github) {
+      await fetchOrgs(userFile);
+      await fetchContribs(userFile);
+      await fetchPopularForks(userFile);
+      await fetchSettings(userFile);
+    }
     return;
 
     async function fetchDetails(userFile) {
       const ghUserUrl = `https://api.github.com/users/${userFile.login}`;
       spinner = ora(`Fetching ${ghUserUrl}...`).start();
       const ghDataJson = await github.fetchGHJson(
-        ghUserUrl, spinner, [304],
+        ghUserUrl, spinner, [304, 404],
         userFile.contribs && userFile.contribs.fetched_at && new Date(userFile.contribs.fetched_at)
       );
-      if (ghDataJson === 304) {
+      switch (ghDataJson) {
+      case 304:
         spinner.succeed(`${userFile.login} didn't change`);
+        return;
+      case 404:
+        userFile.removed_from_github = true;
+        spinner.succeed(`${userFile.login} was removed from GitHub`);
+        userFile.write();
         return;
       }
       spinner.succeed(`Fetched ${ghUserUrl}`);

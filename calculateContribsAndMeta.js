@@ -29,7 +29,7 @@
 
       if (file.endsWith('.json')) {
         const user = new DbFile(path.join(data.users, file));
-        if (!user.ghuser_deleted_because) {
+        if (!user.ghuser_deleted_because && !user.removed_from_github) {
           users[file] = user;
           ++numUsers;
           spinner.text = `${spinnerText} [${numUsers}]`;

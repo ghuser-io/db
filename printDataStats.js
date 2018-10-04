@@ -25,7 +25,7 @@
       if (file.endsWith('.json')) {
         const pathToFile = path.join(data.users, file);
         const user = new DbFile(pathToFile);
-        if (!user.ghuser_deleted_because) {
+        if (!user.ghuser_deleted_because && !user.removed_from_github) {
           ++numUsers;
         }
         const userFileSize = fs.statSync(pathToFile).size;

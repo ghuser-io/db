@@ -29,7 +29,7 @@
     for (const file of fs.readdirSync(data.users)) {
       if (file.endsWith('.json')) {
         const user = new DbFile(path.join(data.users, file));
-        if (!user.ghuser_deleted_because) {
+        if (!user.ghuser_deleted_because && !user.removed_from_github) {
           users.push(user);
         }
       }
