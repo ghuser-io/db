@@ -24,8 +24,12 @@ function now {
   echo "$(date +%s)"
 }
 
+function trace {
+  echo "[$(date)] $1"
+}
+
 function updateDb {
-  echo "Updating DB..."
+  trace "Updating DB..."
 
   lastRun="$(now)"
 
@@ -47,7 +51,7 @@ function updateDb {
 
 # $1: GitHub username
 function addUser {
-  echo "Adding user $1..."
+  trace "Adding user $1..."
 
   pushd "$DATA_ON_EBS"
   git pull
@@ -80,7 +84,7 @@ function getNextSqsMessage {
 #
 # Return var: job
 function waitForJob {
-  echo "Waiting for a job..."
+  trace "Waiting for a job..."
 
   while true; do
     # We use a short visibilty timeout here so that this profile request remains visible on the web
@@ -99,6 +103,7 @@ function waitForJob {
 }
 
 function backupAndPublishToS3 {
+  trace "Backing up on EFS..."
   if [[ ! -d "$BACKUP_ON_EFS" ]]; then
     git clone "$DATA_ON_EFS" "$BACKUP_ON_EFS"
   fi
@@ -106,7 +111,14 @@ function backupAndPublishToS3 {
   git pull
   popd
 
+  trace "Publishing to S3..."
   time aws s3 sync --exclude .git "$BACKUP_ON_EFS" s3://ghuser/data
+
+  trace "Backing up on S3..."
+  rm -rf /tmp/backups
+  mkdir /tmp/backups
+  tar pczvf "/tmp/$(date -u +%Y-%m-%d).tar.gz" --exclude .git -C /tmp/backups .
+  time aws s3 sync /tmp/backups s3://ghuser/backups
 }
 
 
@@ -127,7 +139,7 @@ while true; do
   fi
   updateDb
   if [[ ! -z "$job" ]]; then
-    echo "Deleting $job's profile request..."
+    trace "Deleting $job's profile request..."
     getNextSqsMessage 10
     login="$(echo $msg | cut -d',' -f1)"
     assertEquals "$login" "$job"
