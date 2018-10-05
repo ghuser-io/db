@@ -56,24 +56,6 @@
     }
     spinner.succeed(`Found ${Object.keys(contribs).length} contribution lists in DB`);
 
-    spinnerText = 'Reading repos from DB...';
-    spinner = ora(spinnerText).start();
-    const repoPaths = {};
-    for (const ownerDir of fs.readdirSync(data.repos)) {
-      const pathToOwner = path.join(data.repos, ownerDir);
-      for (const file of fs.readdirSync(pathToOwner)) {
-        await sleep(0); // make loop interruptible
-
-        const ext = '.json';
-        if (file.endsWith(ext)) {
-          const full_name = `${ownerDir}/${file}`.slice(0, -ext.length);
-          repoPaths[full_name] = path.join(pathToOwner, file);
-          spinner.text = `${spinnerText} [${Object.keys(repoPaths).length}]`;
-        }
-      }
-    }
-    spinner.succeed(`Found ${Object.keys(repoPaths).length} repos in DB`);
-
     stripUnreferencedContribs();
 
     let numContribs = 0;
@@ -116,11 +98,12 @@
 
       let numContribs = 0;
       for (const repo of users[filename].contribs.repos) {
-        if (!repoPaths[repo]) { // repo has been stripped
+        const repoPath = path.join(data.repos, `${repo}.json`);
+        if (!fs.existsSync(repoPath)) { // repo has been stripped
           continue;
         }
 
-        const repoFile = new DbFile(repoPaths[repo]);
+        const repoFile = new DbFile(repoPath);
         if (!repoFile.full_name // repo hasn't been crawled yet
             || repoFile.removed_from_github
             || repoFile.ghuser_insignificant
@@ -157,8 +140,9 @@
       const toBeDeleted = [];
       for (const repo in contribs[filename].repos) {
         const score = contribs[filename].repos[repo];
-        if (repoPaths[repo]) {
-          const repoFile = new DbFile(repoPaths[repo]);
+        const repoPath = path.join(data.repos, `${repo}.json`);
+        if (fs.existsSync(repoPath)) {
+          const repoFile = new DbFile(repoPath);
           if (repoFile.fork && score.percentage === 0) {
             toBeDeleted.push(repo);
           }
