@@ -9,8 +9,8 @@
 # [ghuser.io](https://github.com/ghuser-io/ghuser.io)'s database scripts
 
 This repository provides scripts to update the database for the
-[ghuser.io](https://github.com/ghuser-io/ghuser.io) Reframe app. The database consists of JSON
-files. The production data is stored on
+[ghuser.io](https://github.com/ghuser-io/ghuser.io) Reframe app. The database consists of
+[JSON](#production-json-files) files. The production data is stored on
 [AWS](https://github.com/ghuser-io/ghuser.io/blob/master/aws). The scripts expect it at `~/data` and
 this can be overridden by setting the `GHUSER_DBDIR` environment variable.
 
@@ -24,6 +24,7 @@ The [fetchBot](fetchBot/) calls these scripts. It runs daily on an
 - [Setup](#setup)
 - [Usage](#usage)
 - [Implementation](#implementation)
+- [Production JSON files](#production-json-files)
 - [Contributors](#contributors)
 
 <!-- tocstop -->
@@ -146,6 +147,20 @@ Several scripts form a pipeline for updating the database. Here is the data flow
 > * These scripts also delete unreferenced data.
 > * Instead of calling each of these scripts directly, you can call `./fetchAndCalculateAll.sh`
 >   which will orchestrate them.
+
+## Production JSON files
+
+The production JSON files are currently stored on
+[S3](https://github.com/ghuser-io/ghuser.io/blob/master/aws) and exposed to front end over HTTPS,
+e.g.
+
+* [`users/brillout.json`](https://s3.amazonaws.com/ghuser/data/users/brillout.json)
+* [`nonOrgs.json`](https://s3.amazonaws.com/ghuser/data/nonOrgs.json)
+* [`orgs/reframejs.json`](https://s3.amazonaws.com/ghuser/data/orgs/reframejs.json)
+* [`repos/reframejs/reframe.json`](https://s3.amazonaws.com/ghuser/data/repos/reframejs/reframe.json)
+* [`repoCommits/reframejs/reframe.json`](https://s3.amazonaws.com/ghuser/data/repoCommits/reframejs/reframe.json)
+* [`contribs/brillout.json`](https://s3.amazonaws.com/ghuser/data/contribs/brillout.json)
+* [`meta.json`](https://s3.amazonaws.com/ghuser/data/meta.json)
 
 ## Contributors
 
