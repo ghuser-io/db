@@ -376,7 +376,7 @@ optional arguments:
     }
 
     async function fetchRepoLanguages(repo) {
-      spinner = ora(`Fetching ${repo.full_name}...`).start();
+      spinner = ora(`Fetching ${repo.full_name}'s languages...`).start();
 
       if (!repo.fetching_since || repo.fetched_at &&
           new Date(repo.fetched_at) > new Date(repo.pushed_at)) {
@@ -392,7 +392,7 @@ optional arguments:
         return;
       }
 
-      spinner.succeed(`Fetched ${repo.full_name}`);
+      spinner.succeed(`Fetched ${repo.full_name}'s languages`);
 
       for (let language in ghDataJson) {
         ghDataJson[language] = {
