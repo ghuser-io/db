@@ -109,12 +109,12 @@ optional arguments:
     }
     spinner.succeed(`Found ${Object.keys(repoPaths).length} repos in DB`);
 
+    stripUnreferencedRepos();
+
     // We iterate over referencedRepos and not repoPath because new repositories might have been created.
     for (const repoFullName of referencedRepos) {
       await fetchRepo(repoFullName, firsttime);
     }
-
-    stripUnreferencedRepos();
 
     for (const repoFullName in repoPaths) {
       const repo = new DbFile(repoPaths[repoFullName].repo);
