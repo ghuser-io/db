@@ -212,7 +212,13 @@ optional arguments:
       }
       for (const repoFullName of toBeDeleted) {
         fs.unlinkSync(repoPaths[repoFullName].repo);
-        fs.unlinkSync(repoPaths[repoFullName].repoCommits);
+        try {
+          fs.unlinkSync(repoPaths[repoFullName].repoCommits);
+        } catch (e) {
+          if (e.code !== 'ENOENT') {
+            throw e;
+          }
+        }
         delete repoPaths[repoFullName];
       }
     }
