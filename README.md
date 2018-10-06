@@ -159,6 +159,9 @@ e.g.
 * [`contribs/brillout.json`](https://s3.amazonaws.com/ghuser/data/contribs/brillout.json)
 * [`meta.json`](https://s3.amazonaws.com/ghuser/data/meta.json)
 
+A daily backup named `YYYY-MM-DD.tar.gz` containing all the JSON files is also available, e.g.
+[`2018-10-07.tar.gz`](https://s3.amazonaws.com/ghuser/backups/2018-10-07.tar.gz).
+
 ## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):

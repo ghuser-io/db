@@ -112,12 +112,12 @@ function backupAndPublishToS3 {
   popd
 
   trace "Publishing to S3..."
-  time aws s3 sync --exclude .git "$BACKUP_ON_EFS" s3://ghuser/data
+  time aws s3 sync "$BACKUP_ON_EFS" s3://ghuser/data --exclude ".git/*"
 
   trace "Backing up on S3..."
   rm -rf /tmp/backups
   mkdir /tmp/backups
-  tar pczvf "/tmp/$(date -u +%Y-%m-%d).tar.gz" --exclude .git -C /tmp/backups .
+  tar pczvf "/tmp/backups/$(date -u +%Y-%m-%d).tar.gz" --exclude .git -C "$BACKUP_ON_EFS" .
   time aws s3 sync /tmp/backups s3://ghuser/backups
 }
 
