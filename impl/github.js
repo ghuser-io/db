@@ -2,10 +2,9 @@
 'use strict';
 
 (() => {
-
+  const url = require('url');
   const fetchJson = require('./fetchJson');
   const sleep = require('await-sleep');
-  const url = require('url');
 
   const authify = (() => {
     let query = '';
@@ -37,14 +36,9 @@
 
   const fetchGHJson = async (url, oraSpinner, acceptedErrorCodes=[],
                              /*Date*/ifModifiedSince, graphqlQuery) => {
-    const rateLimit = await waitForRateLimit(oraSpinner);
+    const rateLimit = await waitForRateLimit(oraSpinner, !!graphqlQuery);
     try {
-      if (!graphqlQuery) {
-        return await fetchJson(authify(url), oraSpinner, acceptedErrorCodes, ifModifiedSince);
-      }
-      const result = await fetchJson(authify(url), oraSpinner, acceptedErrorCodes, ifModifiedSince,
-                                     `query { ${graphqlQuery} }`);
-      return result.data && result.data || result;
+      return await fetchJson(authify(url), oraSpinner, acceptedErrorCodes, ifModifiedSince, graphqlQuery);
     } catch (e) {
       console.error(`\nError while fetching ${url}`);
       console.error('API rate limit state:');
@@ -55,18 +49,20 @@
 
   module.exports = {
     fetchGHJson,
+    authify,
     fetchGHRateLimit,
   };
 
   // Waits until we are far away from hitting GitHub's API rate limit.
   // Returns GitHub's rate limit object for reference.
-  async function waitForRateLimit(oraSpinner) {
+  async function waitForRateLimit(oraSpinner, isGraphQL) {
     const oldSpinnerText = oraSpinner && oraSpinner.text;
 
     let rateLimit = await fetchGHRateLimit(oraSpinner);
-    if (rateLimit.core.remaining <= 10) {
+    const lim = rateLimit[isGraphQL ? "graphql" : "core"]
+    if (lim.remaining <= 10) {
       const now = (new Date).getTime() / 1000;
-      const secondsToSleep = Math.ceil(rateLimit.core.reset - now) + 1;
+      const secondsToSleep = Math.ceil(lim.reset - now) + 1;
       if (secondsToSleep >= 0) {
         if (oraSpinner) {
           oraSpinner.text += ` (waiting ${secondsToSleep} second(s) for API rate limit)`;
@@ -74,10 +70,10 @@
 
         await sleep(secondsToSleep * 1000);
         rateLimit = await fetchGHRateLimit(oraSpinner);
-        if (rateLimit.core.remaining <= 10) {
+        if (lim.remaining <= 10) {
           console.error('\nAPI rate limit is still low:');
           console.error(rateLimit);
-          console.error(`next reset in ${Math.ceil(rateLimit.core.reset - ((new Date).getTime() / 1000))} seconds(s)`);
+          console.error(`next reset in ${Math.ceil(lim.reset - ((new Date).getTime() / 1000))} seconds(s)`);
           throw 'API rate limit is still low after waiting';
         }
 
