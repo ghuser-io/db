@@ -297,14 +297,24 @@ optional arguments:
           break;
         }
 
-        const yearsOfInactivity = (now - Date.parse(mostRecentCommit.date)) /
-                                  (365.25 * 24 * 60 * 60 * 1000);
-        if (page >= 500 && yearsOfInactivity >= 1
-            && repo.stargazers_count / 15 < yearsOfInactivity) {
+        if (page >= 500) {
+          // Extreme example is https://github.com/KenanSulayman/heartbeat , 1.6 million commits but
+          // no single line of code:
+          const notPopular = repo.stargazers_count < 15;
+
+          const yearsOfInactivity = (now - Date.parse(mostRecentCommit.date)) /
+                                    (365.25 * 24 * 60 * 60 * 1000);
+
           // Giant old not-so-popular repo, probably a copy of someone else's work with a few
-          // patches on top of it. We don't want to waste resources on it for now, see #10
-          repoCommits.ghuser_truncated = true;
-          break;
+          // patches on top of it:
+          const oldAndNotSoPopular = yearsOfInactivity >= 1 &&
+                                     repo.stargazers_count / 15 < yearsOfInactivity;
+
+          if (notPopular || oldAndNotSoPopular) {
+            // We don't want to waste resources on it for now, see #10
+            repoCommits.ghuser_truncated = true;
+            break;
+          }
         }
 
         if (page >= 10000) {
