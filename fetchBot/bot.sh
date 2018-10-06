@@ -7,26 +7,9 @@ source raven-bash
 # this script is running, we prefer to have stderr on the console.
 exec 2>&1
 
+source impl/data.sh
+source impl/utils.sh
 source ../thirdparty/aws-sqs/utils.sh
-
-DATA_ON_EBS=~/data
-DATA_ON_EFS=~/efs/data.git
-BACKUP_ON_EFS=~/efs/data
-
-function assertEquals {
-  if [[ "$1" != "$2" ]]; then
-    echo "Assertion failed: $1 != $2"
-    exit 1
-  fi
-}
-
-function now {
-  echo "$(date +%s)"
-}
-
-function trace {
-  echo "[$(date)] $1"
-}
 
 function updateDb {
   trace "Updating DB..."
@@ -42,9 +25,12 @@ function updateDb {
   popd
 
   pushd "$DATA_ON_EBS"
+  trace "Pulling latest DB..."
   git pull
+  trace "Submitting DB..."
   git add -A
   git commit -m "[bot] Updated DB."
+  trace "Pushing DB..."
   git push
   popd
 }
@@ -102,34 +88,8 @@ function waitForJob {
   done
 }
 
-function backupAndPublishToS3 {
-  trace "Backing up on EFS..."
-  if [[ ! -d "$BACKUP_ON_EFS" ]]; then
-    git clone "$DATA_ON_EFS" "$BACKUP_ON_EFS"
-  fi
-  pushd "$BACKUP_ON_EFS"
-  git pull
-  popd
 
-  trace "Publishing to S3..."
-  time aws s3 sync "$BACKUP_ON_EFS" s3://ghuser/data --exclude ".git/*"
-
-  trace "Backing up on S3..."
-  rm -rf /tmp/backups
-  mkdir /tmp/backups
-  tar pczvf "/tmp/backups/$(date -u +%Y-%m-%d).tar.gz" --exclude .git -C "$BACKUP_ON_EFS" .
-  time aws s3 sync /tmp/backups s3://ghuser/backups
-}
-
-
-if [[ ! -d "$DATA_ON_EFS" ]]; then
-  git init --bare "$DATA_ON_EFS"
-fi
-if [[ ! -d "$DATA_ON_EBS" ]]; then
-  git clone "$DATA_ON_EFS" "$DATA_ON_EBS"
-fi
-
-
+initData
 lastRun=0
 trap "echo Signal received, exiting...; exit;" SIGINT SIGTERM
 while true; do
