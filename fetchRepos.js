@@ -90,7 +90,7 @@ optional arguments:
 
     spinnerText = 'Reading repos from DB...';
     spinner = ora(spinnerText).start();
-    const repoPaths = {};
+    const reposInDb = new Set([]);
     for (const ownerDir of fs.readdirSync(data.repos)) {
       const pathToOwner = path.join(data.repos, ownerDir);
       for (const file of fs.readdirSync(pathToOwner)) {
@@ -98,26 +98,23 @@ optional arguments:
 
         const ext = '.json';
         if (file.endsWith(ext)) {
-          const full_name = `${ownerDir}/${file}`.slice(0, -ext.length);
-          repoPaths[full_name] = {
-            repo: path.join(pathToOwner, file),
-            repoCommits: path.join(data.repoCommits, ownerDir, file)
-          };
-          spinner.text = `${spinnerText} [${Object.keys(repoPaths).length}]`;
+          const fullName = `${ownerDir}/${file}`.slice(0, -ext.length);
+          reposInDb.add(fullName);
+          spinner.text = `${spinnerText} [${reposInDb.size}]`;
         }
       }
     }
-    spinner.succeed(`Found ${Object.keys(repoPaths).length} repos in DB`);
+    spinner.succeed(`Found ${reposInDb.size} repos in DB`);
 
     for (const repoFullName of referencedRepos) {
       await fetchRepo(repoFullName, firsttime);
     }
     stripUnreferencedRepos();
 
-    for (const repoFullName in repoPaths) {
-      const repo = new DbFile(repoPaths[repoFullName].repo);
+    for (const repoFullName of reposInDb) {
+      const repo = new DbFile(repoPaths(repoFullName).repo);
       if (!repo.removed_from_github && !repo.ghuser_insignificant) {
-        const repoCommits = new DbFile(repoPaths[repoFullName].repoCommits);
+        const repoCommits = new DbFile(repoPaths(repoFullName).repoCommits);
         await fetchRepoCommitsAndContributors(repo, repoCommits);
         await fetchRepoPullRequests(repo);
         if (ghAPIVersion === 3) {
@@ -134,7 +131,7 @@ optional arguments:
 
     async function fetchRepo(repoFullName, firsttime) {
       spinner = ora(`Fetching ${repoFullName}...`).start();
-      const repo = new DbFile(repoPaths[repoFullName].repo);
+      const repo = new DbFile(repoPaths(repoFullName).repo);
 
       const now = new Date;
       const maxAgeHours = firsttime && (24 * 365) || 12;
@@ -205,21 +202,21 @@ optional arguments:
       // Deletes repos that are not referenced by any user's contribution.
 
       const toBeDeleted = [];
-      for (const repoFullName in repoPaths) {
+      for (const repoFullName of reposInDb) {
         if (!referencedRepos.has(repoFullName)) {
           toBeDeleted.push(repoFullName);
         }
       }
       for (const repoFullName of toBeDeleted) {
-        fs.unlinkSync(repoPaths[repoFullName].repo);
+        fs.unlinkSync(repoPaths(repoFullName).repo);
         try {
-          fs.unlinkSync(repoPaths[repoFullName].repoCommits);
+          fs.unlinkSync(repoPaths(repoFullName).repoCommits);
         } catch (e) {
           if (e.code !== 'ENOENT') {
             throw e;
           }
         }
-        delete repoPaths[repoFullName];
+        reposInDb.delete(repoFullName);
       }
     }
 
@@ -458,8 +455,8 @@ optional arguments:
       // Some repos got renamed/moved after the latest contributions and need to be created as well
       // with their new name, so they can be found by the frontend.
 
-      for (const repoOldFullName in repoPaths) {
-        const repo = new DbFile(repoPaths[repoOldFullName].repo);
+      for (const repoOldFullName of reposInDb) {
+        const repo = new DbFile(repoPaths(repoOldFullName).repo);
         if (repo.removed_from_github) {
           continue;
         }
@@ -469,20 +466,24 @@ optional arguments:
           throw `${repoOldFullName} has no full name`;
         }
 
-        if (repoOldFullName !== repoLatestFullName && !repoPaths[repoLatestFullName]) {
-          repoPaths[repoLatestFullName] = {
-            repo: path.join(data.repos, `${repoLatestFullName}.json`),
-            repoCommits: path.join(data.repoCommits, `${repoLatestFullName}.json`)
-          };
+        if (repoOldFullName !== repoLatestFullName && !reposInDb.has(repoLatestFullName)) {
+          reposInDb.add(repoLatestFullName);
 
           // Will create the folders if needed:
-          (new DbFile(repoPaths[repoLatestFullName].repo)).write();
-          (new DbFile(repoPaths[repoLatestFullName].repoCommits)).write();
+          (new DbFile(repoPaths(repoLatestFullName).repo)).write();
+          (new DbFile(repoPaths(repoLatestFullName).repoCommits)).write();
 
-          fs.copyFileSync(repoPaths[repoOldFullName].repo, repoPaths[repoLatestFullName].repo);
-          fs.copyFileSync(repoPaths[repoOldFullName].repoCommits, repoPaths[repoLatestFullName].repoCommits);
+          fs.copyFileSync(repoPaths(repoOldFullName).repo, repoPaths(repoLatestFullName).repo);
+          fs.copyFileSync(repoPaths(repoOldFullName).repoCommits, repoPaths(repoLatestFullName).repoCommits);
         }
       }
+    }
+
+    function repoPaths(fullName) {
+      return {
+        repo: path.join(data.repos, `${fullName}.json`),
+        repoCommits: path.join(data.repoCommits, `${fullName}.json`)
+      };
     }
   }
 
