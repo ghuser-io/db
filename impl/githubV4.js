@@ -54,7 +54,8 @@ query($owner: String!, $name: String!) {
 }
 `
   const repo = async (oraSpinner, errCodes, repoFullName, repoFetchedAtDate) => {
-    // TODO use repoFetchedAtDate
+    // TODO: Use repoFetchedAtDate
+    // TODO: This doesn't fetch "organization" as v3 does. Check if it's a problem.
 
     const dataJson = await gh.fetchGHJson('https://api.github.com/graphql', oraSpinner, errCodes, null, {
       query: repoQuery,
