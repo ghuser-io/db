@@ -208,7 +208,7 @@ optional arguments:
     }
 
     async function fetchSettings(userFile) {
-      const url = `https://rawgit.com/${userFile.login}/ghuser.io.settings/master/ghuser.io.json`;
+      const url = `https://raw.githubusercontent.com/${userFile.login}/ghuser.io.settings/master/ghuser.io.json`;
       spinner = ora(`Fetching ${userFile.login}'s settings...`).start();
 
       const dataJson = await fetchJson(url, spinner, [404]);

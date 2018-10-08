@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/ghuser-io/db.svg?branch=master)](https://travis-ci.org/ghuser-io/db)
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors)
 
-[<img src="https://rawgit.com/ghuser-io/db/master/thirdparty/octicons/database.svg" align="left" width="64" height="64">](https://github.com/ghuser-io/db)
+[<img src="https://cdn.jsdelivr.net/gh/ghuser-io/db@598204a2e16787819f9a489bc9e8a26fb8650c9b/thirdparty/octicons/database.svg" align="left" width="64" height="64">](https://github.com/ghuser-io/db)
 
 # [ghuser.io](https://github.com/ghuser-io/ghuser.io)'s database scripts
 
