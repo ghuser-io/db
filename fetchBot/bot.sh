@@ -79,7 +79,7 @@ function waitForJob {
     getNextSqsMessage 0
     job="$(echo $msg | cut -d',' -f1)"
     if [ ! -z "$job" ]; then
-      break
+      job="" # break # temporarily disable because of issue143
     fi
 
     if [ "$(($lastRun + 24 * 60 * 60))" -le "$(now)" ]; then
