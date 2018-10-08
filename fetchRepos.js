@@ -13,9 +13,8 @@
   const DbFile = require('./impl/dbFile');
   const fetchJson = require('./impl/fetchJson');
 
-  const ghAPIVersion = process.env.GHUSER_GHV4 === "true" ? 4 : 3
-  console.log(`Using GitHub APIv${ghAPIVersion}`)
-  const ghcl = require(`./impl/githubV${ghAPIVersion}`);
+  const ghclV3 = require(`./impl/githubV3`);
+  const ghclV4 = require(`./impl/githubV4`);
 
   const githubColors = require('github-colors');
   const scriptUtils = require('./impl/scriptUtils');
@@ -47,10 +46,7 @@ optional arguments:
   return;
 
   async function fetchRepos(firsttime) {
-    let spinner;
-
-    let spinnerText = 'Reading users from DB...';
-    spinner = ora(spinnerText).start();
+    console.log('Reading users from DB...')
     const users = [];
     for (const file of fs.readdirSync(data.users)) {
       await sleep(0); // make loop interruptible
@@ -59,14 +55,12 @@ optional arguments:
         const user = new DbFile(path.join(data.users, file));
         if (!user.ghuser_deleted_because && !user.removed_from_github) {
           users.push(user);
-          spinner.text = `${spinnerText} [${users.length}]`;
         }
       }
     }
-    spinner.succeed(`Found ${users.length} users in DB`);
+    console.log(`Found ${users.length} users in DB`);
 
-    spinnerText = 'Searching repos referenced by users...';
-    spinner = ora(spinnerText).start();
+    console.log('Searching repos referenced by users...');
     const referencedRepos = new Set([]);
     for (const user of users) {
       for (const repo in (user.contribs && user.contribs.repos || [])) {
@@ -77,8 +71,6 @@ optional arguments:
           throw `user.contribs.repos[${repo}] is undefined`;
         }
         referencedRepos.add(full_name);
-        spinner.text = `${spinnerText} [${referencedRepos.size}]`;
-
         // Make sure the corresponding repo files exist:
         for (const pathToFolder of [data.repos, data.repoCommits]) {
           const filePath = path.join(pathToFolder, `${full_name}.json`);
@@ -86,10 +78,9 @@ optional arguments:
         }
       }
     }
-    spinner.succeed(`Found ${referencedRepos.size} repos referenced by users`);
+    console.log(`Found ${referencedRepos.size} repos referenced by users`);
 
-    spinnerText = 'Reading repos from DB...';
-    spinner = ora(spinnerText).start();
+    console.log('Reading repos from DB...');
     const repoPaths = {};
     for (const ownerDir of fs.readdirSync(data.repos)) {
       const pathToOwner = path.join(data.repos, ownerDir);
@@ -103,79 +94,88 @@ optional arguments:
             repo: path.join(pathToOwner, file),
             repoCommits: path.join(data.repoCommits, ownerDir, file)
           };
-          spinner.text = `${spinnerText} [${Object.keys(repoPaths).length}]`;
         }
       }
     }
-    spinner.succeed(`Found ${Object.keys(repoPaths).length} repos in DB`);
+    console.log(`Found ${Object.keys(repoPaths).length} repos in DB`);
 
     stripUnreferencedRepos();
 
-    // We iterate over referencedRepos and not repoPath because new repositories might have been created.
-    for (const repoFullName of referencedRepos) {
-      await fetchRepo(repoFullName, firsttime);
-    }
+    let full_names;
 
-    for (const repoFullName in repoPaths) {
-      const repo = new DbFile(repoPaths[repoFullName].repo);
-      if (!repo.removed_from_github && !repo.ghuser_insignificant) {
-        const repoCommits = new DbFile(repoPaths[repoFullName].repoCommits);
-        await fetchRepoCommitsAndContributors(repo, repoCommits);
-        await fetchRepoPullRequests(repo);
-        if (ghAPIVersion === 3) {
-          await fetchRepoLanguages(repo);
-        }
-        await fetchRepoSettings(repo);
-        markRepoAsFullyFetched(repo);
-      }
-    }
+    full_names = [...referencedRepos];
+    await Promise.all([
+      loopDo(full_names, async (full_name) => { await fetchRepo(ghclV3, full_name, firsttime)}),
+      loopDo(full_names, async (full_name) => { await fetchRepo(ghclV4, full_name, firsttime)}),
+    ]);
+
+    full_names = Object.keys(repoPaths);
+    await Promise.all([
+      loopDo(full_names, async (full_name) => { await fetchRepoDetails(ghclV3, repoPaths[full_name])}),
+      loopDo(full_names, async (full_name) => { await fetchRepoDetails(ghclV4, repoPaths[full_name])}),
+    ]);
 
     createRenamedRepos();
 
     return;
 
-    async function fetchRepo(repoFullName, firsttime) {
-      spinner = ora(`Fetching ${repoFullName}...`).start();
+    async function fetchRepoDetails(ghcl, paths) {
+      const repo = new DbFile(paths.repo);
+      if (!repo.removed_from_github && !repo.ghuser_insignificant) {
+        const repoCommits = new DbFile(paths.repoCommits);
+        await fetchRepoCommitsAndContributors(ghcl, repo, repoCommits);
+        await fetchRepoPullRequests(ghcl, repo);
+        await fetchRepoLanguages(ghcl, repo);
+        await fetchRepoSettings(repo);
+        markRepoAsFullyFetched(repo);
+      }
+    };
+
+    async function fetchRepo(ghcl, repoFullName, firsttime) {
+      const tag = `[${ghcl.version}] Fetch Repo - ${repoFullName} -`;
+
+      console.log(`${tag} starting`);
       const repo = new DbFile(repoPaths[repoFullName].repo);
+      // repo.gh_api_version = ghcl.version;
 
       const now = new Date;
       const maxAgeHours = firsttime && (24 * 365) || 12;
       if (repo.fetching_since || repo.fetched_at &&
           now - Date.parse(repo.fetched_at) < maxAgeHours * 60 * 60 * 1000) {
-        spinner.succeed(`${repoFullName} is still fresh`);
+        console.log(`${tag} is still fresh`);
         return;
       }
 
       if (repo.removed_from_github) {
         // For now ok, but maybe some day we'll have to deal with resurrected repos.
-        spinner.succeed(`${repoFullName} was removed from GitHub in the past`);
+        console.log(`${tag} was removed from GitHub in the past`);
         return;
       }
 
-      const ghDataJson = await ghcl.repo(spinner, [304, 404, 451], repoFullName, new Date(repo.fetched_at))
+      const ghDataJson = await ghcl.repo([304, 404, 451], repoFullName, new Date(repo.fetched_at));
 
       switch (ghDataJson) {
       case 304:
-        repo.fetched_at = now.toISOString();;
-        spinner.succeed(`${repoFullName} didn't change`);
+        repo.fetched_at = now.toISOString();
+        console.log(`${tag} didn't change`);
         repo.write();
         return;
       case 404:
         repo.removed_from_github = true;
-        spinner.succeed(`${repoFullName} was removed from GitHub`);
+        console.log(`${tag} was removed from GitHub`);
         repo.write();
         return;
       case 451: // Unavailable for legal reasons
         // Probably a DCMA takedown, like https://github.com/worktips/worktips
         repo.removed_from_github = true;
-        spinner.succeed(`${repoFullName} is blocked for legal reasons`);
+        console.log(`${tag} is blocked for legal reasons`);
         repo.write();
         return;
       }
 
-      repo.fetching_since = now.toISOString();;
+      repo.fetching_since = now.toISOString();
 
-      spinner.succeed(`Fetched ${repoFullName}`);
+      console.log(`${tag} finished`);
 
       ghDataJson.owner = ghDataJson.owner.login;
       Object.assign(repo, ghDataJson);
@@ -225,20 +225,23 @@ optional arguments:
       }
     }
 
-    async function fetchRepoCommitsAndContributors(repo, repoCommits) {
+    async function fetchRepoCommitsAndContributors(ghcl, repo, repoCommits) {
+      const tag = `[${ghcl.version}] Fetch Commits & Contribs - ${repo.full_name} -`;
+
       repo.contributors = repo.contributors || {};
+      // repo.gh_api_version_constributors = ghcl.version;
+      repoCommits.version_constributors = ghcl.version;
       repoCommits.contributors = repoCommits.contributors || {};
       repoCommits.last_fetched_commit = repoCommits.last_fetched_commit || {
         sha: null,
         date: '2000-01-01T00:00:00Z'
       };
 
-      const spinnerText = `Fetching ${repo.full_name}'s commits...`;
-      spinner = ora(spinnerText).start();
+      console.log(`${tag} starting`);
 
       if (!repo.fetching_since || repo.fetched_at &&
           new Date(repo.fetched_at) > new Date(repo.pushed_at)) {
-        spinner.succeed(`${repo.full_name} hasn't changed`);
+        console.log(`${tag} hasn't changed`);
         return;
       }
 
@@ -248,15 +251,15 @@ optional arguments:
       const perPage = 100;
       pages:
       for (let page = 1;; ++page) {
-        spinner.start(`${spinnerText} [page ${page}]`);
-        const ghDataJson = await ghcl.commits(spinner, [404, 500], repo.full_name, repoCommits.last_fetched_commit.date, page, perPage, ghAPIV4Cursor);
-        ghAPIV4Cursor = ghDataJson[0] ? ghDataJson[0].cursor : undefined
+        console.log(`${tag} [page ${page}]`);
+        const ghDataJson = await ghcl.commits([404, 500], repo.full_name, repoCommits.last_fetched_commit.date, page, perPage, ghAPIV4Cursor);
+        ghAPIV4Cursor = ghDataJson[0] ? ghDataJson[0].cursor : undefined;
 
         switch (ghDataJson) {
         case 404:
           // The repo has been removed during the current run. It will be marked as removed in the
           // next run. For now just don't crash.
-          spinner.succeed(`${repo.full_name} was just removed from GitHub`);
+          console.log(`${tag} was just removed from GitHub`);
           return;
         case 500: // Workaround for #8
           if (page > 1000) {
@@ -264,7 +267,7 @@ optional arguments:
             repoCommits.ghuser_truncated = true;
             break pages;
           }
-          spinner.fail();
+          console.log(`${tag} failed.`);
           return;
         }
 
@@ -326,24 +329,27 @@ optional arguments:
         }
 
         if (page >= 10000) {
-          spinner.fail();
+          console.log(`${tag} failed`);
           throw 'fetchRepoCommitsAndContributors(): Infinite loop?';
         }
       }
 
-      spinner.succeed(`Fetched ${repo.full_name}'s commits`);
+      console.log(`${tag} finished`);
 
       repo.write();
       repoCommits.last_fetched_commit = mostRecentCommit || repoCommits.last_fetched_commit;
       repoCommits.write();
     }
 
-    async function fetchRepoPullRequests(repo) {
-      spinner = ora(`Fetching ${repo.full_name}'s pull requests...`).start();
+    async function fetchRepoPullRequests(ghcl, repo) {
+      const tag = `[${ghcl.version}] Fetch PRs - ${repo.full_name} -`;
+
+      // repo.gh_api_version_pulls = ghcl.version;
+      console.log(`${tag} starting`);
 
       if (!repo.fetching_since || repo.fetched_at &&
           new Date(repo.fetched_at) > new Date(repo.pushed_at)) {
-        spinner.succeed(`${repo.full_name} hasn't changed`);
+        console.log(`${tag} hasn't changed`);
         return;
       }
 
@@ -352,17 +358,17 @@ optional arguments:
       let ghAPIV4Cursor;
       const perPage = 100;
       for (let page = 1;; ++page) {
-        const ghDataJson = await ghcl.pullRequests(spinner, [404, 500], repo.full_name, page, perPage, ghAPIV4Cursor);
-        ghAPIV4Cursor = ghDataJson[0] ? ghDataJson[0].cursor : undefined
+        const ghDataJson = await ghcl.pullRequests([404, 500], repo.full_name, page, perPage, ghAPIV4Cursor);
+        ghAPIV4Cursor = ghDataJson[0] ? ghDataJson[0].cursor : undefined;
 
         switch (ghDataJson) {
         case 404:
           // The repo has been removed during the current run. It will be marked as removed in the
           // next run. For now just don't crash.
-          spinner.succeed(`${repo.full_name} was just removed from GitHub`);
+          console.log(`${tag} was just removed from GitHub`);
           return;
         case 500: // Workaround for #8
-          spinner.fail();
+          console.log(`${tag} failed`);
           return;
         }
 
@@ -382,35 +388,38 @@ optional arguments:
         }
 
         if (page >= 10000) {
-          spinner.fail();
+          console.log(`${tag} failed`);
           throw 'fetchRepoPullRequests(): Infinite loop?';
         }
       }
 
-      spinner.succeed(`Fetched ${repo.full_name}'s pull requests`);
+      console.log(`${tag} finished`);
 
       repo.pulls_authors = [...authors];
       repo.write();
     }
 
-    async function fetchRepoLanguages(repo) {
-      spinner = ora(`Fetching ${repo.full_name}'s languages...`).start();
+    async function fetchRepoLanguages(ghcl, repo) {
+      const tag = `[${ghcl.version}] Fetch Languages - ${repo.full_name} -`;
+
+      // repo.gh_api_version_languages = ghcl.version;
+      console.log(`${tag} starting`);
 
       if (!repo.fetching_since || repo.fetched_at &&
           new Date(repo.fetched_at) > new Date(repo.pushed_at)) {
-        spinner.succeed(`${repo.full_name} hasn't changed`);
+        console.log(`${tag} hasn't changed`);
         return;
       }
 
-      const ghDataJson = await ghcl.repoLanguages(spinner, [404], repo.full_name);
+      const ghDataJson = await ghcl.repoLanguages([404], repo.full_name);
       if (ghDataJson === 404) {
         // The repo has been removed during the current run. It will be marked as removed in the
         // next run. For now just don't crash.
-        spinner.succeed(`${repo.full_name} was just removed from GitHub`);
+        console.log(`${tag} was just removed from GitHub`);
         return;
       }
 
-      spinner.succeed(`Fetched ${repo.full_name}'s languages`);
+      console.log(`${tag} finished`);
 
       for (let language in ghDataJson) {
         ghDataJson[language] = {
@@ -424,28 +433,30 @@ optional arguments:
     }
 
     async function fetchRepoSettings(repo) {
-      spinner = ora(`Fetching ${repo.full_name}'s settings...`).start();
+      const tag = `Fetch Settings - ${repo.full_name} -`;
+
+      console.log(`${tag} starting`);
 
       if (!repo.fetching_since || repo.fetched_at &&
           new Date(repo.fetched_at) > new Date(repo.pushed_at)) {
-        spinner.succeed(`${repo.full_name} hasn't changed`);
+        console.log(`${tag} hasn't changed`);
         return;
       }
 
       for (const fileName of ['.ghuser.io.json', '.github/ghuser.io.json']) {
         const url = `https://raw.githubusercontent.com/${repo.full_name}/master/${fileName}`;
-        const dataJson = await fetchJson(url, spinner, [404]);
+        const dataJson = await fetchJson(url, null, [404]);
         if (dataJson === 404) {
           continue;
         }
 
-        spinner.succeed(`Fetched ${repo.full_name}'s settings`);
+        console.log(`${tag} finished`);
         repo.settings = dataJson;
         repo.write();
         return;
       }
 
-      spinner.succeed(`${repo.full_name} has no settings`);
+      console.log(`${tag} has no settings`);
     }
 
     function markRepoAsFullyFetched(repo) {
@@ -489,3 +500,15 @@ optional arguments:
   }
 
 })();
+
+const loopDo = async (jobs, jobFn) => {
+  while(true) {
+    const job = jobs.pop();
+
+    if (!job) {
+      break
+    }
+
+    await jobFn(job);
+  }
+};
