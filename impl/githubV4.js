@@ -67,7 +67,9 @@ query($owner: String!, $name: String!) {
     res.name = r.name;
     res.full_name = r.nameWithOwner;
     res.private = r.isPrivate;
-    res.owner = r.owner.login;
+    res.owner = {
+      login: r.owner.login
+    };
     res.html_url = r.url;
     res.description = r.description;
     res.fork = r.isFork;
@@ -78,7 +80,7 @@ query($owner: String!, $name: String!) {
     // format: "2015-09-10T02:15:47Z"
     res.created_at = coerceDate(r.createdAt);
     res.updated_at = coerceDate(r.updatedAt);
-    res.pusher_at = coerceDate(r.pushedAt);
+    res.pushed_at = coerceDate(r.pushedAt);
 
     res.homepage = r.homepageUrl; // TODO verify expected URL
     res.size = r.diskUsage;
