@@ -83,7 +83,7 @@ query($owner: String!, $name: String!) {
     res.homepage = r.homepageUrl; // TODO verify expected URL
     res.size = r.diskUsage;
     res.stargazers_count = r.stargazers.totalCount;
-    res.language = r.primaryLanguage.name;
+    res.language = r.primaryLanguage ? r.primaryLanguage.name : null;
     res.mirror_url = r.mirrorUrl;
     res.archived = r.isArchived;
 
