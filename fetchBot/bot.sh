@@ -30,7 +30,7 @@ function updateDb {
   git commit -m "[bot] Updated DB."
   trace "Pulling latest DB..."
   git remote update
-  GIT_EDITOR=true git merge -X ours origin/master
+  GIT_EDITOR=true git merge -X theirs origin/master
   trace "Pushing DB..."
   git push
   popd
