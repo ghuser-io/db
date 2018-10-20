@@ -264,7 +264,7 @@ optional arguments:
             repoCommits.ghuser_truncated = true;
             break pages;
           }
-          console.log(`${tag} failed.`);
+          console.log(`${tag} failed`);
           return;
         }
 
