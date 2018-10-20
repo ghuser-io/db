@@ -136,7 +136,6 @@ optional arguments:
 
       console.log(`${tag} starting`);
       const repo = new DbFile(repoPaths[repoFullName].repo);
-      // repo.gh_api_version = ghcl.version;
 
       const now = new Date;
       const maxAgeHours = firsttime && (24 * 365) || 12;
@@ -229,8 +228,6 @@ optional arguments:
       const tag = `[${ghcl.version}] Fetch Commits & Contribs - ${repo.full_name} -`;
 
       repo.contributors = repo.contributors || {};
-      // repo.gh_api_version_constributors = ghcl.version;
-      repoCommits.version_constributors = ghcl.version;
       repoCommits.contributors = repoCommits.contributors || {};
       repoCommits.last_fetched_commit = repoCommits.last_fetched_commit || {
         sha: null,
@@ -344,7 +341,6 @@ optional arguments:
     async function fetchRepoPullRequests(ghcl, repo) {
       const tag = `[${ghcl.version}] Fetch PRs - ${repo.full_name} -`;
 
-      // repo.gh_api_version_pulls = ghcl.version;
       console.log(`${tag} starting`);
 
       if (!repo.fetching_since || repo.fetched_at &&
@@ -402,7 +398,6 @@ optional arguments:
     async function fetchRepoLanguages(ghcl, repo) {
       const tag = `[${ghcl.version}] Fetch Languages - ${repo.full_name} -`;
 
-      // repo.gh_api_version_languages = ghcl.version;
       console.log(`${tag} starting`);
 
       if (!repo.fetching_since || repo.fetched_at &&
