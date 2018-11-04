@@ -27,7 +27,7 @@ function updateDb {
   pushd "$DATA_ON_EBS"
   trace "Committing DB..."
   git add -A
-  git commit -m "[bot] Updated DB."
+  git commit --allow-empty -m "[bot] Updated DB."
   trace "Pulling latest DB..."
   git remote update
   GIT_EDITOR=true git merge -X theirs origin/master
