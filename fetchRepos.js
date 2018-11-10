@@ -147,7 +147,8 @@ optional arguments:
         return;
       }
 
-      const ghDataJson = await ghcl.repo(spinner, [304, 404, 451], repoFullName, new Date(repo.fetched_at))
+      const ghDataJson = await ghcl.repo(spinner, [304, 403, 404, 451], repoFullName,
+                                         new Date(repo.fetched_at));
 
       switch (ghDataJson) {
       case 304:
@@ -155,13 +156,16 @@ optional arguments:
         spinner.succeed(`${repoFullName} didn't change`);
         repo.write();
         return;
+
       case 404:
         repo.removed_from_github = true;
         spinner.succeed(`${repoFullName} was removed from GitHub`);
         repo.write();
         return;
-      case 451: // Unavailable for legal reasons
-        // Probably a DCMA takedown, like https://github.com/worktips/worktips
+
+       // Unavailable for legal reasons:
+      case 451: // Probably a DCMA takedown, like https://github.com/worktips/worktips
+      case 403: // Probably not respecting the Terms of Service, like https://github.com/Kwoth/NadekoBot
         repo.removed_from_github = true;
         spinner.succeed(`${repoFullName} is blocked for legal reasons`);
         repo.write();
