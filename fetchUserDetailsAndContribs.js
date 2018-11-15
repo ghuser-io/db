@@ -10,6 +10,7 @@
   let path = require('path');
 
   const data = require('./impl/data');
+  const db = require('./impl/db');
   const DbFile = require('./impl/dbFile');
   const fetchJson = require('./impl/fetchJson');
   const github = require('./impl/github');
@@ -67,33 +68,20 @@ optional arguments:
   }
 
   if (cli.input.length === 1) {
-    await fetchUserDetailsAndContribs(`${cli.input[0].toLowerCase()}.json`);
+    const userFilePath = path.join(data.users, `${cli.input[0].toLowerCase()}.json`);
+    const user = new DbFile(userFilePath);
+    await fetchUserDetailsAndContribs(user); //LA_TODO to be tested
   } else {
-    for (const file of fs.readdirSync(data.users)) {
-      if (file.endsWith('.json')) {
-        await fetchUserDetailsAndContribs(file);
-      }
+    for await (const user of db.asyncNonRemovedUsers()) {
+      await fetchUserDetailsAndContribs(user); //LA_TODO to be tested
     }
   }
 
   return;
 
-  async function fetchUserDetailsAndContribs(userFileName) {
-    let spinner;
-
-    const userFilePath = path.join(data.users, userFileName);
-    const userFile = new DbFile(userFilePath);
+  async function fetchUserDetailsAndContribs(userFile) {
     if (!userFile.login) {
       throw `${userFilePath} is malformed. Did you run ./addUser.js ?`;
-    }
-    if (userFile.ghuser_deleted_because) {
-      console.log(`${userFile.login} has been deleted, skipping...`);
-      return;
-    }
-    if (userFile.removed_from_github) {
-      // For now ok, but maybe some day we'll have to deal with resurrected users.
-      console.log(`${userFile.login} was removed from GitHub in the past, skipping...`);
-      return;
     }
 
     {
@@ -117,7 +105,7 @@ optional arguments:
 
     async function fetchDetails(userFile) {
       const ghUserUrl = `https://api.github.com/users/${userFile.login}`;
-      spinner = ora(`Fetching ${ghUserUrl}...`).start();
+      const spinner = ora(`Fetching ${ghUserUrl}...`).start();
       const ghDataJson = await github.fetchGHJson(
         ghUserUrl, spinner, [304, 404],
         userFile.contribs && userFile.contribs.fetched_at && new Date(userFile.contribs.fetched_at)
@@ -151,7 +139,7 @@ optional arguments:
 
     async function fetchOrgs(userFile) {
       const orgsUrl = userFile.organizations_url;
-      spinner = ora(`Fetching ${orgsUrl}...`).start();
+      const spinner = ora(`Fetching ${orgsUrl}...`).start();
       const orgsDataJson = await github.fetchGHJson(orgsUrl, spinner);
       spinner.succeed(`Fetched ${orgsUrl}`);
 
@@ -194,7 +182,7 @@ optional arguments:
       // fetchUserContribs() won't find forks as they are not considered to be contributions. But
       // the user might well have popular forks.
 
-      spinner = ora(`Fetching ${userFile.login}'s popular forks...`).start();
+      const spinner = ora(`Fetching ${userFile.login}'s popular forks...`).start();
 
       const perPage = 100;
       for (let page = 1; page <= 5; ++page) {
@@ -219,7 +207,7 @@ optional arguments:
 
     async function fetchSettings(userFile) {
       const url = `https://raw.githubusercontent.com/${userFile.login}/ghuser.io.settings/master/ghuser.io.json`;
-      spinner = ora(`Fetching ${userFile.login}'s settings...`).start();
+      const spinner = ora(`Fetching ${userFile.login}'s settings...`).start();
 
       const dataJson = await fetchJson(url, spinner, [404]);
       if (dataJson == 404) {

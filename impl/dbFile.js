@@ -27,6 +27,10 @@
       fs.writeFileSync(this._path(), JSON.stringify(this, null, 2) + '\n', 'utf-8');
     }
 
+    sizeBytes() {
+      return fs.statSync(this._path()).size;
+    }
+
     deleteAllPropsBut(exceptions) {
       Object.keys(this).forEach(prop => {
         if (prop.startsWith('_') || prop in exceptions) {

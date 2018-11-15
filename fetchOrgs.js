@@ -8,6 +8,7 @@
   const path = require('path');
 
   const data = require('./impl/data');
+  const db = require('./impl/db');
   const DbFile = require('./impl/dbFile');
   const github = require('./impl/github');
   const scriptUtils = require('./impl/scriptUtils');
@@ -18,36 +19,21 @@
   return;
 
   async function fetchOrgs() {
-    let spinner;
-
     // In this file we store repo owners that we know aren't organizations. This avoids querying
     // them next time.
     const nonOrgs = new DbFile(data.nonOrgs);
     nonOrgs.non_orgs = nonOrgs.non_orgs || [];
 
-    const users = [];
-    for (const file of fs.readdirSync(data.users)) {
-      if (file.endsWith('.json')) {
-        const user = new DbFile(path.join(data.users, file));
-        if (!user.ghuser_deleted_because && !user.removed_from_github) {
-          users.push(user);
-        }
-      }
-    }
-
     let userOrgs = new Set([]);
-    for (const user of users) {
-      userOrgs = new Set([...userOrgs, ...user.organizations]);
-    }
-    await fetchOrgs(userOrgs);
-
     let contribOwners = new Set([]);
-    for (const user of users) {
+    for await (const user of db.asyncNonRemovedUsers()) { //LA_TODO to be tested
+      userOrgs = new Set([...userOrgs, ...user.organizations]);
       contribOwners = new Set([
         ...contribOwners,
         ...(user.contribs && user.contribs.repos.map(repo => repo.split('/')[0]) || [])
       ]);
     }
+    await fetchOrgs(userOrgs);
     await fetchOrgs(contribOwners);
 
     stripUnreferencedOrgs();
@@ -57,7 +43,7 @@
     async function fetchOrgs(owners) {
       owners:
       for (const owner of owners) {
-        spinner = ora(`Fetching owner ${owner}...`).start();
+        const spinner = ora(`Fetching owner ${owner}...`).start();
         const org = new DbFile(path.join(data.orgs, `${owner}.json`));
         if (org.avatar_url) {
           spinner.succeed(`Organization ${owner} is already known`);
@@ -67,7 +53,7 @@
           spinner.succeed(`${owner} is a user`);
           continue;
         }
-        for (const user of users) {
+        for (const user of users) { //LA_TODO I removed this var
           if (user.login === owner) {
             spinner.succeed(`${owner} is a user`);
             nonOrgs.non_orgs.push(owner);

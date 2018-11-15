@@ -9,6 +9,7 @@
   const sleep = require('await-sleep');
 
   const data = require('./impl/data');
+  const db = require('./impl/db');
   const DbFile = require('./impl/dbFile');
   const scriptUtils = require('./impl/scriptUtils');
 
@@ -18,31 +19,16 @@
   return;
 
   async function calculateContribsAndMeta() {
-    let spinner;
-
-    let spinnerText = 'Reading users from DB...';
-    spinner = ora(spinnerText).start();
-    const users = {};
     let numUsers = 0;
-    for (const file of fs.readdirSync(data.users)) {
-      await sleep(0); // make loop interruptible
+    for await (const user of db.asyncNonRemovedUsers()) {
+      ++numUsers;
 
-      if (file.endsWith('.json')) {
-        const user = new DbFile(path.join(data.users, file));
-        if (!user.ghuser_deleted_because && !user.removed_from_github) {
-          users[file] = user;
-          ++numUsers;
-          spinner.text = `${spinnerText} [${numUsers}]`;
-
-          // Make sure the corresponding contrib file exists (not the case if it's a new user):
-          (new DbFile(path.join(data.contribs, file))).write();
-        }
-      }
+      // Make sure the corresponding contrib file exists (not the case if it's a new user):
+      db.createUserContribList(user.login); //LA_TODO to be tested
     }
-    spinner.succeed(`Found ${numUsers} users in DB`);
 
-    spinnerText = 'Reading contribution lists from DB...';
-    spinner = ora(spinnerText).start();
+    const spinnerText = 'Reading contribution lists from DB...';
+    let spinner = ora(spinnerText).start();
     const contribs = {};
     for (const file of fs.readdirSync(data.contribs)) {
       await sleep(0); // make loop interruptible
@@ -79,7 +65,7 @@
 
       const toBeDeleted = [];
       for (const contribList in contribs) {
-        if (!users[contribList]) {
+        if (!users[contribList]) { //LA_TODO I've removed this var
           toBeDeleted.push(contribList);
         }
       }

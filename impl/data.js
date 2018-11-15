@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 'use strict';
 
+//TODO all this should move inside db.js and this file should be removed.
+
 (() => {
   const os = require('os');
   const fs = require('fs');

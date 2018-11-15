@@ -10,6 +10,7 @@
   const sleep = require('await-sleep');
 
   const data = require('./impl/data');
+  const db = require('./impl/db');
   const DbFile = require('./impl/dbFile');
   const fetchJson = require('./impl/fetchJson');
 
@@ -46,23 +47,9 @@ optional arguments:
   return;
 
   async function fetchRepos(firsttime) {
-    console.log('Reading users from DB...')
-    const users = [];
-    for (const file of fs.readdirSync(data.users)) {
-      await sleep(0); // make loop interruptible
-
-      if (file.endsWith('.json')) {
-        const user = new DbFile(path.join(data.users, file));
-        if (!user.ghuser_deleted_because && !user.removed_from_github) {
-          users.push(user);
-        }
-      }
-    }
-    console.log(`Found ${users.length} users in DB`);
-
     console.log('Searching repos referenced by users...');
     const referencedRepos = new Set([]);
-    for (const user of users) {
+    for await (const user of db.asyncNonRemovedUsers()) { //LA_TODO to be tested
       for (const repo in (user.contribs && user.contribs.repos || [])) {
         await sleep(0); // make loop interruptible
 

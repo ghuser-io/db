@@ -8,6 +8,7 @@
   const path = require('path');
 
   const data = require('./impl/data');
+  const db = require('./impl/db');
   const DbFile = require('./impl/dbFile');
   const github = require('./impl/github');
   const scriptUtils = require('./impl/scriptUtils');
@@ -23,20 +24,16 @@
     // * aren't marked not to be deleted, and
     // * haven't starred the project.
 
-    let spinner;
     const now = new Date;
     const minAgeMonths = 1;
 
     const users = [];
-    for (const file of fs.readdirSync(data.users)) {
-      if (file.endsWith('.json')) {
-        const user = new DbFile(path.join(data.users, file));
-        if (!user.ghuser_deleted_because && !user.ghuser_keep_because && !user.removed_from_github
-            && now - Date.parse(user.ghuser_created_at) > minAgeMonths * 30 * 24 * 60 * 60 * 1000) {
-          users.push(user);
-        }
+    for await (const user of db.asyncNonRemovedUsers()) {
+      if (!user.ghuser_keep_because
+          && now - Date.parse(user.ghuser_created_at) > minAgeMonths * 30 * 24 * 60 * 60 * 1000) {
+        users.push(user);
       }
-    }
+    } //LA_TODO to be tested
 
     const stargazers = await fetchStargazers('ghuser-io/ghuser.io');
     const toRemove = users.map(user => user.login).filter(user => stargazers.indexOf(user) === -1);
@@ -62,7 +59,7 @@ to make sure we're not wasting resources, I'd like to know if you'd like to keep
 
     async function fetchStargazers(repo) {
       const ghUrl = `https://api.github.com/repos/${repo}/stargazers`;
-      spinner = ora(`Fetching ${ghUrl}...`).start();
+      const spinner = ora(`Fetching ${ghUrl}...`).start();
       const ghDataJson = await github.fetchGHJson(ghUrl, spinner);
       spinner.succeed(`Fetched ${ghUrl}`);
       return ghDataJson.map(stargazer => stargazer.login);

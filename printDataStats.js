@@ -7,39 +7,35 @@
   const path = require('path');
 
   const data = require('./impl/data');
+  const db = require('./impl/db');
   const DbFile = require('./impl/dbFile');
   const scriptUtils = require('./impl/scriptUtils');
 
   scriptUtils.printUnhandledRejections();
 
-  printDataStats();
+  asyncPrintDataStats();
   return;
 
-  function printDataStats() {
+  async function asyncPrintDataStats() {
 
     let numUsers = 0;
     let largestUserFileName;
     let largestUserFileSize = 0;
     let totalUserSize = 0;
-    for (const file of fs.readdirSync(data.users)) {
-      if (file.endsWith('.json')) {
-        const pathToFile = path.join(data.users, file);
-        const user = new DbFile(pathToFile);
-        if (!user.ghuser_deleted_because && !user.removed_from_github) {
-          ++numUsers;
-        }
-        const userFileSize = fs.statSync(pathToFile).size;
-        if (userFileSize > largestUserFileSize) {
-          largestUserFileSize = userFileSize;
-          largestUserFileName = file;
-        }
-        totalUserSize += userFileSize;
+    for await (const user of db.asyncNonRemovedUsers()) {
+      ++numUsers;
+      const userFileSize = user.sizeBytes();
+      if (userFileSize > largestUserFileSize) {
+        largestUserFileSize = userFileSize;
+        largestUserFileName = user.login;
       }
+      totalUserSize += userFileSize;
     }
     console.log(data.users);
     console.log(`  ${numUsers} users`);
     console.log(`  largest: ${largestUserFileName} (${toKB(largestUserFileSize)})`);
     console.log(`  total: ${toKB(totalUserSize)}`);
+    throw 'LA_TEMP';
 
     let largestContribFileName;
     let largestContribFileSize = 0;
