@@ -81,7 +81,7 @@ optional arguments:
     console.log(`Found ${referencedRepos.size} repos referenced by users`);
 
     console.log('Reading repos from DB...');
-    const repoPaths = {};
+    const reposInDb = new Set([]);
     for (const ownerDir of fs.readdirSync(data.repos)) {
       const pathToOwner = path.join(data.repos, ownerDir);
       for (const file of fs.readdirSync(pathToOwner)) {
@@ -89,11 +89,8 @@ optional arguments:
 
         const ext = '.json';
         if (file.endsWith(ext)) {
-          const full_name = `${ownerDir}/${file}`.slice(0, -ext.length);
-          repoPaths[full_name] = {
-            repo: path.join(pathToOwner, file),
-            repoCommits: path.join(data.repoCommits, ownerDir, file)
-          };
+          const fullName = `${ownerDir}/${file}`.slice(0, -ext.length);
+          reposInDb.add(fullName);
         }
       }
     }
@@ -109,10 +106,10 @@ optional arguments:
       loopDo(full_names, async (full_name) => { await fetchRepo(ghclV4, full_name, firsttime)}),
     ]);
 
-    full_names = Object.keys(repoPaths);
+    full_names = [...reposInDb];
     await Promise.all([
-      loopDo(full_names, async (full_name) => { await fetchRepoDetails(ghclV3, repoPaths[full_name])}),
-      loopDo(full_names, async (full_name) => { await fetchRepoDetails(ghclV4, repoPaths[full_name])}),
+      loopDo(full_names, async (full_name) => { await fetchRepoDetails(ghclV3, repoPaths(full_name))}),
+      loopDo(full_names, async (full_name) => { await fetchRepoDetails(ghclV4, repoPaths(full_name))}),
     ]);
 
     createRenamedRepos();
@@ -135,7 +132,7 @@ optional arguments:
       const tag = `[${ghcl.version}] Fetch Repo - ${repoFullName} -`;
 
       console.log(`${tag} starting`);
-      const repo = new DbFile(repoPaths[repoFullName].repo);
+      const repo = new DbFile(repoPaths(repoFullName).repo);
 
       const now = new Date;
       const maxAgeHours = firsttime && (24 * 365) || 12;
@@ -151,7 +148,8 @@ optional arguments:
         return;
       }
 
-      const ghDataJson = await ghcl.repo([304, 404, 451], repoFullName, new Date(repo.fetched_at));
+      const ghDataJson = await ghcl.repo([304, 403, 404, 451], repoFullName,
+                                         new Date(repo.fetched_at));
 
       switch (ghDataJson) {
       case 304:
@@ -159,13 +157,16 @@ optional arguments:
         console.log(`${tag} didn't change`);
         repo.write();
         return;
+
       case 404:
         repo.removed_from_github = true;
         console.log(`${tag} was removed from GitHub`);
         repo.write();
         return;
-      case 451: // Unavailable for legal reasons
-        // Probably a DCMA takedown, like https://github.com/worktips/worktips
+
+       // Unavailable for legal reasons:
+      case 451: // Probably a DCMA takedown, like https://github.com/worktips/worktips
+      case 403: // Probably not respecting the Terms of Service, like https://github.com/Kwoth/NadekoBot
         repo.removed_from_github = true;
         console.log(`${tag} is blocked for legal reasons`);
         repo.write();
@@ -206,21 +207,21 @@ optional arguments:
       // Deletes repos that are not referenced by any user's contribution.
 
       const toBeDeleted = [];
-      for (const repoFullName in repoPaths) {
+      for (const repoFullName of reposInDb) {
         if (!referencedRepos.has(repoFullName)) {
           toBeDeleted.push(repoFullName);
         }
       }
       for (const repoFullName of toBeDeleted) {
-        fs.unlinkSync(repoPaths[repoFullName].repo);
+        fs.unlinkSync(repoPaths(repoFullName).repo);
         try {
-          fs.unlinkSync(repoPaths[repoFullName].repoCommits);
+          fs.unlinkSync(repoPaths(repoFullName).repoCommits);
         } catch (e) {
           if (e.code !== 'ENOENT') {
             throw e;
           }
         }
-        delete repoPaths[repoFullName];
+        reposInDb.delete(repoFullName);
       }
     }
 
@@ -466,8 +467,8 @@ optional arguments:
       // Some repos got renamed/moved after the latest contributions and need to be created as well
       // with their new name, so they can be found by the frontend.
 
-      for (const repoOldFullName in repoPaths) {
-        const repo = new DbFile(repoPaths[repoOldFullName].repo);
+      for (const repoOldFullName of reposInDb) {
+        const repo = new DbFile(repoPaths(repoOldFullName).repo);
         if (repo.removed_from_github) {
           continue;
         }
@@ -477,20 +478,24 @@ optional arguments:
           throw `${repoOldFullName} has no full name`;
         }
 
-        if (repoOldFullName !== repoLatestFullName && !repoPaths[repoLatestFullName]) {
-          repoPaths[repoLatestFullName] = {
-            repo: path.join(data.repos, `${repoLatestFullName}.json`),
-            repoCommits: path.join(data.repoCommits, `${repoLatestFullName}.json`)
-          };
+        if (repoOldFullName !== repoLatestFullName && !reposInDb.has(repoLatestFullName)) {
+          reposInDb.add(repoLatestFullName);
 
           // Will create the folders if needed:
-          (new DbFile(repoPaths[repoLatestFullName].repo)).write();
-          (new DbFile(repoPaths[repoLatestFullName].repoCommits)).write();
+          (new DbFile(repoPaths(repoLatestFullName).repo)).write();
+          (new DbFile(repoPaths(repoLatestFullName).repoCommits)).write();
 
-          fs.copyFileSync(repoPaths[repoOldFullName].repo, repoPaths[repoLatestFullName].repo);
-          fs.copyFileSync(repoPaths[repoOldFullName].repoCommits, repoPaths[repoLatestFullName].repoCommits);
+          fs.copyFileSync(repoPaths(repoOldFullName).repo, repoPaths(repoLatestFullName).repo);
+          fs.copyFileSync(repoPaths(repoOldFullName).repoCommits, repoPaths(repoLatestFullName).repoCommits);
         }
       }
+    }
+
+    function repoPaths(fullName) {
+      return {
+        repo: path.join(data.repos, `${fullName}.json`),
+        repoCommits: path.join(data.repoCommits, `${fullName}.json`)
+      };
     }
   }
 

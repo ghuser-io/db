@@ -96,6 +96,16 @@ optional arguments:
       return;
     }
 
+    {
+      const now = new Date;
+      const maxAgeHours = 12;
+      if (userFile.contribs && userFile.contribs.fetched_at &&
+          now - Date.parse(userFile.contribs.fetched_at) < maxAgeHours * 60 * 60 * 1000) {
+        console.log(`${userFile.login} is still fresh, skipping...`);
+        return;
+      }
+    }
+
     await fetchDetails(userFile);
     if (!userFile.removed_from_github) {
       await fetchOrgs(userFile);

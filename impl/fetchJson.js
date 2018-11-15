@@ -14,7 +14,7 @@
     let data;
     try {
       data = await fetch(url, {
-        retryOn: [500, 502, 504, 522, 525],
+        retryOn: [500, 502, 503, 504, 522, 525],
         headers: ifModifiedSince && {
           'If-Modified-Since': ifModifiedSince.toUTCString()
         } || null,
