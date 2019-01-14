@@ -121,8 +121,8 @@ optional arguments:
           await fetchRepoLanguages(repo);
         }
         await fetchRepoSettings(repo);
-        markRepoAsFullyFetched(repo);
       }
+      markRepoAsFullyFetched(repo);
     }
 
     createRenamedRepos();
