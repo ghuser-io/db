@@ -124,9 +124,9 @@ optional arguments:
         await fetchRepoPullRequests(ghcl, repo);
         await fetchRepoLanguages(ghcl, repo);
         await fetchRepoSettings(repo);
-        markRepoAsFullyFetched(repo);
       }
-    };
+      markRepoAsFullyFetched(repo);
+    }
 
     async function fetchRepo(ghcl, repoFullName, firsttime) {
       const tag = `[${ghcl.version}] Fetch Repo - ${repoFullName} -`;
