@@ -355,7 +355,8 @@ optional arguments:
       let ghAPIV4Cursor;
       const perPage = 100;
       for (let page = 1;; ++page) {
-        const ghDataJson = await ghcl.pullRequests([404, 500], repo.full_name, page, perPage, ghAPIV4Cursor);
+        const ghDataJson = await ghcl.pullRequests([404, 500, 502], repo.full_name, page, perPage,
+                                                   ghAPIV4Cursor);
         ghAPIV4Cursor = ghDataJson[0] ? ghDataJson[0].cursor : undefined;
 
         switch (ghDataJson) {
@@ -364,6 +365,10 @@ optional arguments:
           // next run. For now just don't crash.
           console.log(`${tag} was just removed from GitHub`);
           return;
+        case 502:
+          // About twice per month we hit 502 'Server Error', often on repo
+          // everypolitician/everypolitician-data, so let's not crash and move on, even if this
+          // means that we'll miss some pull requests sometimes.
         case 500: // Workaround for #8
           console.log(`${tag} failed`);
           return;
