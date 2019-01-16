@@ -239,8 +239,15 @@ optional arguments:
 
       if (!repo.fetching_since || repo.fetched_at &&
           new Date(repo.fetched_at) > new Date(repo.pushed_at)) {
-        console.log(`${tag} hasn't changed`);
-        return;
+
+        if (repo.size && !repoCommits.last_fetched_commit.sha) {
+          // This is fishy because the repo isn't empty but we didn't manage to fetch any commit
+          // last time. We definitely need to try again.
+        } else {
+          console.log(`${tag} hasn't changed`);
+          return;
+        }
+
       }
 
       const now = new Date;
@@ -337,6 +344,10 @@ optional arguments:
       repo.write();
       repoCommits.last_fetched_commit = mostRecentCommit || repoCommits.last_fetched_commit;
       repoCommits.write();
+
+      if (repo.size && !repoCommits.last_fetched_commit.sha) {
+        throw `${repo.full_name} is not empty yet has no commits?`;
+      }
     }
 
     async function fetchRepoPullRequests(ghcl, repo) {
