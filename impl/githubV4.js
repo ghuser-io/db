@@ -6,6 +6,8 @@
 
   const gh = require('./github');
 
+  const version = "V4";
+
   const repoQuery = `
 query($owner: String!, $name: String!) {
   repository(owner: $owner, name: $name) {
@@ -14,6 +16,7 @@ query($owner: String!, $name: String!) {
     isPrivate
     owner {
       login
+      __typename
     }
     url
     description
@@ -41,78 +44,64 @@ query($owner: String!, $name: String!) {
     defaultBranchRef {
       name
     }
-    languages(first: 100) {
-      edges {
-        size
-        node {
-          color
-          name
-        }
-      }
-    }
   }
 }
-`
-  const repo = async (oraSpinner, errCodes, repoFullName, repoFetchedAtDate) => {
-    // TODO use repoFetchedAtDate
+`;
+  // TODO: This sets "organization" field if appropriate, but as an empty object.
+  const repo = async (errCodes, repoFullName, repoFetchedAtDate) => {
+    // TODO: Use repoFetchedAtDate
 
-    const dataJson = await gh.fetchGHJson('https://api.github.com/graphql', oraSpinner, errCodes, null, {
+    const dataJson = await gh.fetchGHJson('https://api.github.com/graphql', null, errCodes, null, {
       query: repoQuery,
       variables: buildCommonRepoVariables(repoFullName),
-    })
+    });
 
-    if (!(dataJson instanceof Object)) {
-      return dataJson
-    }
-    if (dataJson.errors) {
-      switch (dataJson.errors[0].type) {
-        case "NOT_FOUND":
-          return 404
-      }
+    const err = checkResponse(dataJson);
+    if (err != null) {
+      return err
     }
 
-    const r = dataJson.data.repository
+    const r = dataJson.data.repository;
 
-    let res = {}
-    res.name = r.name
-    res.full_name = r.nameWithOwner
-    res.private = r.isPrivate
-    res.owner = r.owner.login
-    res.html_url = r.url
-    res.description = r.description
-    res.fork = r.isFork
-    res.url = "https://api.github.com/repos/" + r.nameWithOwner
-    res.languages_url = "https://api.github.com/repos/" + r.nameWithOwner + "/languages"
-    res.pulls_url = "https://api.github.com/repos/" + r.nameWithOwner + "/pulls{/number}"
+    let res = {};
+    res.name = r.name;
+    res.full_name = r.nameWithOwner;
+    res.private = r.isPrivate;
+    res.owner = {
+      login: r.owner.login
+    };
+    res.html_url = r.url;
+    res.description = r.description;
+    res.fork = r.isFork;
+    res.url = "https://api.github.com/repos/" + r.nameWithOwner;
+    res.languages_url = "https://api.github.com/repos/" + r.nameWithOwner + "/languages";
+    res.pulls_url = "https://api.github.com/repos/" + r.nameWithOwner + "/pulls{/number}";
 
     // format: "2015-09-10T02:15:47Z"
-    res.created_at = coerceDate(r.createdAt)
-    res.updated_at = coerceDate(r.updatedAt)
-    res.pusher_at = coerceDate(r.pushedAt)
+    res.created_at = coerceDate(r.createdAt);
+    res.updated_at = coerceDate(r.updatedAt);
+    res.pushed_at = coerceDate(r.pushedAt);
 
-    res.homepage = r.homepageUrl // TODO verify expected URL
-    res.size = r.diskUsage
-    res.stargazers_count = r.stargazers.totalCount
-    res.language = r.primaryLanguage.name
-    res.mirror_url = r.mirrorUrl
-    res.archived = r.isArchived
-    res.default_branch = r.defaultBranchRef.name
+    res.homepage = r.homepageUrl; // TODO verify expected URL
+    res.size = r.diskUsage;
+    res.stargazers_count = r.stargazers.totalCount;
+    res.language = r.primaryLanguage ? r.primaryLanguage.name : null;
+    res.mirror_url = r.mirrorUrl;
+    res.archived = r.isArchived;
 
     if (r.licenseInfo) {
-      res.license = {}
-      res.license.key  = r.licenseInfo.key
-      res.license.name  = r.licenseInfo.name
-      res.license.spdx_id  = r.licenseInfo.spdxId
-      res.license.url  = r.licenseInfo.url
-      res.license.node_id  = r.licenseInfo.id
+      res.license = {};
+      res.license.key  = r.licenseInfo.key;
+      res.license.name  = r.licenseInfo.name;
+      res.license.spdx_id  = r.licenseInfo.spdxId;
+      res.license.url  = r.licenseInfo.url;
+      res.license.node_id  = r.licenseInfo.id;
     }
 
-    res.languages = {}
-    for (let it of r.languages.edges) {
-      res.languages[it.node.name] = {
-        bytes: it.size,
-        color: it.node.color,
-      }
+    res.default_branch = r.defaultBranchRef.name;
+
+    if (r.owner.__typename === "Organization") {
+      res.organization = {};
     }
 
     return res
@@ -149,26 +138,26 @@ query($owner: String!, $name: String!, $cursor: String, $since: GitTimestamp) {
     }
   }
 }
-`
-  const commits = async (oraSpinner, errCodes, repoFullName, lastFetchedCommitDateStr, page, perPage, v4cursor = null) => {
+`;
+  const commits = async (errCodes, repoFullName, lastFetchedCommitDateStr, page, perPage, v4cursor = null) => {
 
-    let variables = buildCommonRepoVariables(repoFullName, page, v4cursor)
-    variables.since = lastFetchedCommitDateStr
-    const dataJson = await gh.fetchGHJson('https://api.github.com/graphql', oraSpinner, errCodes, null, {
+    let variables = buildCommonRepoVariables(repoFullName, page, v4cursor);
+    variables.since = lastFetchedCommitDateStr;
+    const dataJson = await gh.fetchGHJson('https://api.github.com/graphql', null, errCodes, null, {
       query: commitsQuery,
       variables: variables,
-    })
+    });
 
     if (!(dataJson instanceof Object)) {
       return dataJson
     }
 
-    let edges = dataJson.data.repository.ref.target.history.edges
+    let edges = dataJson.data.repository.ref.target.history.edges;
 
-    let res = []
+    let res = [];
     for (let e of edges) {
-      const author = e.node.author
-      const committer = e.node.committer
+      const author = e.node.author;
+      const committer = e.node.committer;
 
       res.push({
         sha: e.node.oid,
@@ -189,7 +178,7 @@ query($owner: String!, $name: String!, $cursor: String, $since: GitTimestamp) {
       })
     }
 
-    insertCursor(res, edges)
+    insertCursor(res, edges);
 
     return res
   };
@@ -210,21 +199,21 @@ query($owner: String!, $name: String!, $cursor: String) {
     }
   }
 }
-`
-  const pullRequests = async (oraSpinner, errCodes, repoFullName, page, perPage, v4cursor = null) => {
+`;
+  const pullRequests = async (errCodes, repoFullName, page, perPage, v4cursor = null) => {
 
-    const dataJson = await gh.fetchGHJson('https://api.github.com/graphql', oraSpinner, errCodes, null, {
+    const dataJson = await gh.fetchGHJson('https://api.github.com/graphql', null, errCodes, null, {
       query: pullRequestsQuery,
       variables: buildCommonRepoVariables(repoFullName, page, v4cursor),
-    })
+    });
 
     if (!(dataJson instanceof Object)) {
       return dataJson
     }
 
-    let edges = dataJson.data.repository.pullRequests.edges
+    let edges = dataJson.data.repository.pullRequests.edges;
 
-    let res = []
+    let res = [];
     for (let e of edges) {
       res.push({
           user: {
@@ -233,31 +222,64 @@ query($owner: String!, $name: String!, $cursor: String) {
       })
     }
 
-    insertCursor(res, edges)
+    insertCursor(res, edges);
 
     return res
-  }
+  };
 
-  const repoLanguages = async () => {
-    throw "unexpected call to repoLanguages"
-    return
+  const repoLanguagesQuery = `
+query($owner: String!, $name: String!) {
+  repository(owner: $owner, name: $name) {
+    languages(first: 100) {
+      edges {
+        size
+        node {
+          name
+        }
+      }
+    }
   }
+}
+`;
+  const repoLanguages = async (errCodes, repoFullName) => {
+
+    const dataJson = await gh.fetchGHJson('https://api.github.com/graphql', null, errCodes, null, {
+      query: repoLanguagesQuery,
+      variables: buildCommonRepoVariables(repoFullName),
+    });
+
+    const err = checkResponse(dataJson);
+    if (err != null) {
+      return err
+    }
+
+    const r = dataJson.data.repository;
+
+    let res = {};
+
+    for (let it of r.languages.edges) {
+      res[it.node.name] = it.size
+    }
+
+    return res
+  };
 
   module.exports = {
+    version,
     repo,
     commits,
     pullRequests,
     repoLanguages,
-  }
+  };
 
   function buildCommonRepoVariables(repoFullName, page, cursor) {
-    let owner, repoName
-    [owner, repoName] = repoFullName.split("/")
+    let owner, repoName;
+    [owner, repoName] = repoFullName.split("/");
 
     let variables = {
       owner: owner,
       name: repoName,
-    }
+    };
 
     if (isNaN(page) || page === 1) {
       return variables
@@ -267,7 +289,7 @@ query($owner: String!, $name: String!, $cursor: String) {
       throw "expected cursor not null"
     }
 
-    variables.cursor = cursor
+    variables.cursor = cursor;
 
     return variables
   }
@@ -276,8 +298,7 @@ query($owner: String!, $name: String!, $cursor: String) {
   // Pass the cursor in the first element of the response.
   function insertCursor(resultArray, edgesArray) {
     if (resultArray.length > 0 && edgesArray.length > 0) {
-      const cursor = edgesArray.slice(-1)[0].cursor
-      console.log(cursor)
+      const cursor = edgesArray.slice(-1)[0].cursor;
       resultArray[0].cursor = cursor
     }
   }
@@ -287,6 +308,21 @@ query($owner: String!, $name: String!, $cursor: String) {
       return dateStr
     }
     return (new Date(dateStr)).toISOString()
+  }
+
+  function checkResponse(dataJson) {
+    if (!(dataJson instanceof Object)) {
+      return 500
+    }
+    if (dataJson.errors) {
+      switch (dataJson.errors[0].type) {
+        case "NOT_FOUND":
+          return 404;
+        default:
+          return 500;
+      }
+    }
+    return null;
   }
 
 })();

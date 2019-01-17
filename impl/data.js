@@ -8,7 +8,7 @@
   const dbPath = process.env.GHUSER_DBDIR || path.join(os.homedir(), 'data');
 
   if (!fs.existsSync(dbPath)) {
-    throw `${dbPath} directory doesn't exist`
+    throw `${dbPath} directory doesn't exist`;
   }
 
   module.exports = {

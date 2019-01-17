@@ -49,12 +49,12 @@
   // Waits until we are far away from hitting GitHub's API rate limit.
   async function waitForRateLimit(oraSpinner, isGraphQL) {
     const oldSpinnerText = oraSpinner && oraSpinner.text;
+    const key = isGraphQL ? "graphql" : "core";
 
     let rateLimit = await fetchGHRateLimit(oraSpinner);
-    const lim = rateLimit[isGraphQL ? "graphql" : "core"];
-    if (lim.remaining <= 10) {
+    if (rateLimit[key].remaining <= 10) {
       const now = (new Date).getTime() / 1000;
-      const secondsToSleep = Math.ceil(lim.reset - now) + 1;
+      const secondsToSleep = Math.ceil(rateLimit[key].reset - now) + 1;
       if (secondsToSleep >= 0) {
         if (oraSpinner) {
           oraSpinner.text += ` (waiting ${secondsToSleep} second(s) for API rate limit)`;
