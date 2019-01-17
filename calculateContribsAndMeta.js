@@ -121,7 +121,11 @@
 
         let totalContribs = 0;
         for (const contributor in repoFile.contributors) {
-          totalContribs += repoFile.contributors[contributor];
+          // We don't want to count web-flow's work as real contributions, see
+          // https://github.com/ghuser-io/ghuser.io/issues/181
+          if (contributor != 'web-flow') {
+            totalContribs += repoFile.contributors[contributor];
+          }
         }
 
         score.percentage = repoFile.contributors && repoFile.contributors[userLogin] &&
