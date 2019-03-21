@@ -449,8 +449,10 @@ optional arguments:
 
       for (const fileName of ['.ghuser.io.json', '.github/ghuser.io.json']) {
         const url = `https://raw.githubusercontent.com/${repo.full_name}/master/${fileName}`;
-        const dataJson = await fetchJson(url, spinner, [404]);
-        if (dataJson === 404) {
+        const dataJson = await fetchJson(url, spinner, [404, 503]);
+        if (dataJson === 404 ||
+            dataJson === 503 // happens on agusibrahim/TokoTokoan, not sure why
+        ) {
           continue;
         }
 
