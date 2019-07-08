@@ -61,11 +61,23 @@ to make sure we're not wasting resources, I'd like to know if you'd like to keep
     return;
 
     async function fetchStargazers(repo) {
-      const ghUrl = `https://api.github.com/repos/${repo}/stargazers`;
-      spinner = ora(`Fetching ${ghUrl}...`).start();
-      const ghDataJson = await github.fetchGHJson(ghUrl, spinner);
-      spinner.succeed(`Fetched ${ghUrl}`);
-      return ghDataJson.map(stargazer => stargazer.login);
+      let stargazers = [];
+      spinner = ora(`Fetching ${repo}'s stargazers...`).start();
+
+      const perPage = 100;
+      for (let page = 1;; ++page) {
+        const ghUrl = `https://api.github.com/repos/${repo}/stargazers?page=${page}&per_page=${perPage}`;
+        const ghDataJson = await github.fetchGHJson(ghUrl, spinner);
+
+        stargazers = [...stargazers, ...ghDataJson.map(stargazer => stargazer.login)];
+
+        if (ghDataJson.length < perPage) {
+          break;
+        }
+      }
+
+      spinner.succeed(`${repo} has ${stargazers.length} stargazers`);
+      return stargazers;
     }
   }
 
