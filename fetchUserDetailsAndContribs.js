@@ -173,7 +173,7 @@ optional arguments:
       // side we always re-fetch at least the contributions of the last few days before the last
       // time we fetched:
       let since = githubContribs.stringToDate(userFile.contribs.fetched_at);
-      for (let i = 0; i < 7; ++i) {
+      for (let i = 0; i < 10; ++i) {
         since = githubContribs.prevDay(since);
       }
       since = githubContribs.dateToString(since);
