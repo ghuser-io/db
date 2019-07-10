@@ -11,7 +11,7 @@ This repository provides scripts to update the database for the
 [AWS](https://github.com/ghuser-io/ghuser.io/blob/master/aws). The scripts expect it at `~/data` and
 this can be overridden by setting the `GHUSER_DBDIR` environment variable.
 
-The [fetchBot](fetchBot/) calls these scripts. It runs daily on an
+The [fetchBot](fetchBot/) calls these scripts. It runs every few days on an
 [EC2 instance](https://github.com/ghuser-io/ghuser.io/blob/master/aws/ec2).
 
 ## Table of Contents
@@ -159,7 +159,7 @@ e.g.
 * [`contribs/brillout.json`](https://s3.amazonaws.com/ghuser/data/contribs/brillout.json)
 * [`meta.json`](https://s3.amazonaws.com/ghuser/data/meta.json)
 
-A daily backup named `YYYY-MM-DD.tar.gz` containing all the JSON files is also available, e.g.
+Every few days a backup named `YYYY-MM-DD.tar.gz` containing all the JSON files is created, e.g.
 [`2018-10-07.tar.gz`](https://s3.amazonaws.com/ghuser/backups/2018-10-07.tar.gz).
 
 ## Contributors

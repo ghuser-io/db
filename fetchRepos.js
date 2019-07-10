@@ -134,7 +134,7 @@ optional arguments:
       const repo = new DbFile(repoPaths(repoFullName).repo);
 
       const now = new Date;
-      const maxAgeHours = firsttime && (24 * 365) || 12;
+      const maxAgeHours = firsttime && (24 * 365) || 72;
       if (repo.fetching_since || repo.fetched_at &&
           now - Date.parse(repo.fetched_at) < maxAgeHours * 60 * 60 * 1000) {
         spinner.succeed(`${repoFullName} is still fresh`);

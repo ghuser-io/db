@@ -98,7 +98,7 @@ optional arguments:
 
     {
       const now = new Date;
-      const maxAgeHours = 12;
+      const maxAgeHours = 72;
       if (userFile.contribs && userFile.contribs.fetched_at &&
           now - Date.parse(userFile.contribs.fetched_at) < maxAgeHours * 60 * 60 * 1000) {
         console.log(`${userFile.login} is still fresh, skipping...`);

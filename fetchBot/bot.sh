@@ -82,7 +82,7 @@ function waitForJob {
       break
     fi
 
-    if [ "$(($lastRun + 10 * 60 * 60))" -le "$(now)" ]; then
+    if [ "$(($lastRun + 48 * 60 * 60))" -le "$(now)" ]; then
       break
     fi
     sleep 60
