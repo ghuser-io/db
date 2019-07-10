@@ -20,8 +20,9 @@
   async function findUsersToRemove() {
     // The goal is to find users who meet all these criteria:
     // * have had their profiles for a while,
-    // * aren't marked not to be deleted, and
-    // * haven't starred the project.
+    // * aren't marked not to be deleted,
+    // * haven't starred the project, and
+    // * have an empty profile.
 
     let spinner;
     const now = new Date;
@@ -32,7 +33,8 @@
       if (file.endsWith('.json')) {
         const user = new DbFile(path.join(data.users, file));
         if (!user.ghuser_deleted_because && !user.ghuser_keep_because && !user.removed_from_github
-            && now - Date.parse(user.ghuser_created_at) > minAgeMonths * 30 * 24 * 60 * 60 * 1000) {
+            && now - Date.parse(user.ghuser_created_at) > minAgeMonths * 30 * 24 * 60 * 60 * 1000
+            && !user.contribs.repos.length) {
           users.push(user);
         }
       }
@@ -43,19 +45,11 @@
 
     if (toRemove.length) {
       console.log(`
-Create this issue on GitHub:
-
-[question] Do you like your profile?
-
-Hi :)
-
-to make sure we're not wasting resources, I'd like to know if you'd like to keep your profile up and running:
+Users to remove:
 `);
       for (const user of toRemove) {
-        console.log(`* @${user}: https://ghuser.io/${user}`);
+        console.log(user);
       }
-
-      console.log("\nJust give me a quick sign and I won't bother you again. Thanks!");
     }
 
     return;
