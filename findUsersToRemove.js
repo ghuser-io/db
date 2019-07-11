@@ -33,9 +33,19 @@
       if (file.endsWith('.json')) {
         const user = new DbFile(path.join(data.users, file));
         if (!user.ghuser_deleted_because && !user.ghuser_keep_because && !user.removed_from_github
-            && now - Date.parse(user.ghuser_created_at) > minAgeMonths * 30 * 24 * 60 * 60 * 1000
-            && !user.contribs.repos.length) {
-          users.push(user);
+            && now - Date.parse(user.ghuser_created_at) > minAgeMonths * 30 * 24 * 60 * 60 * 1000) {
+          let isToBeRemoved = !user.contribs.repos.length;
+          if (!isToBeRemoved) {
+            const contribs = new DbFile(path.join(data.contribs, file));
+            let total_stars = 0;
+            for (const repo in contribs.repos) {
+              total_stars += contribs.repos[repo].stargazers_count;
+            }
+            isToBeRemoved = !total_stars;
+          }
+          if (isToBeRemoved) {
+            users.push(user);
+          }
         }
       }
     }
